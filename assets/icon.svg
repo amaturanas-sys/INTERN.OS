@@ -1,16 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0d6e71"/>
-      <stop offset="1" stop-color="#108a82"/>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="0" width="512" height="512" rx="112" fill="url(#g)"/>
-  <g fill="#ffffff">
-    <rect x="174" y="226" width="164" height="60" rx="8"/>
-    <rect x="226" y="174" width="60" height="164" rx="8"/>
+  <!-- Fuente del logo InternOS. Los PNG (icon-192/512/maskable, favicon) se generan aparte. -->
+  <rect x="0" y="0" width="512" height="512" rx="112" fill="#f2f6fb"/>
+  <g font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-weight="800">
+    <text x="256" y="208" text-anchor="middle" font-size="150" fill="#1f4e79">Intern</text>
+    <text x="318" y="332" text-anchor="middle" font-size="168" fill="#8b1a1a">OS</text>
   </g>
-  <path d="M64 400 h96 l24 -56 28 96 30 -150 26 110 22 -50 h128"
-        fill="none" stroke="#7fffd4" stroke-width="10"
-        stroke-linecap="round" stroke-linejoin="round" opacity="0.0"/>
+  <!-- rayo tallado sobre la S -->
+  <polygon points="392,228 350,300 384,300 366,372 432,287 396,287" fill="#f2f6fb"/>
 </svg>

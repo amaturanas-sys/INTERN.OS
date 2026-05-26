@@ -6,8 +6,8 @@
   --line: #2a3a57;
   --txt: #e8eef7;
   --muted: #93a4bf;
-  --teal: #14b8a6;
-  --teal-d: #0d6e71;
+  --teal: #2f80c2;
+  --teal-d: #1f4e79;
   --ok: #22c55e;
   --mal: #ef4444;
   --warn: #f59e0b;
@@ -80,7 +80,7 @@ h3 { margin: 18px 0 10px; }
 }
 .btn:active { transform: scale(.98); }
 .btn:disabled { opacity: .45; cursor: not-allowed; }
-.btn--primary { background: var(--teal); border-color: var(--teal); color: #04201d; }
+.btn--primary { background: var(--teal); border-color: var(--teal); color: #fff; }
 .btn--ghost { background: transparent; }
 .btn--danger { background: var(--mal); border-color: var(--mal); color: #fff; }
 .btn--sm { padding: 7px 12px; font-size: 13px; }
