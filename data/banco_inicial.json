@@ -1,0 +1,369 @@
+{
+  "meta": {
+    "descripcion": "Banco inicial de muestra (cardiología) con el schema validado de Guevara. Reemplazar/ampliar con el banco completo de 2.610 preguntas o vía el importador .md.",
+    "version_schema": "2026.1",
+    "fecha_generacion": "2026-05-26"
+  },
+  "preguntas": [
+    {
+      "id_unico": "GUEV-CAR-0001",
+      "enunciado": "Hombre de 65 años, diabético tipo 2, sin daño de órgano blanco, con PA promedio de 160/95 mmHg en controles repetidos. ¿Cuál es el fármaco antihipertensivo de primera línea más apropiado?",
+      "opciones": [
+        { "letra": "a", "texto": "Enalapril (IECA)", "correcta": true },
+        { "letra": "b", "texto": "Atenolol (betabloqueador)", "correcta": false },
+        { "letra": "c", "texto": "Hidroclorotiazida en monoterapia a dosis alta", "correcta": false },
+        { "letra": "d", "texto": "Observación y control en 6 meses", "correcta": false },
+        { "letra": "e", "texto": "Doxazosina (alfabloqueador)", "correcta": false }
+      ],
+      "justificacion": "En el paciente diabético los bloqueadores del sistema renina-angiotensina (IECA o ARA-II) son de primera línea por su efecto nefroprotector, además del control de la PA. Los betabloqueadores ya no son primera línea en HTA no complicada.",
+      "especialidad_principal": "cardio",
+      "tema_validado": "HTA",
+      "subtema": "HTA en diabético",
+      "sistema_behrens": "cardiovascular",
+      "dificultad_estimada": "intermedia",
+      "contexto": "ambulatorio",
+      "habilidad_evaluada": "tratamiento",
+      "frecuencia_eunacom": "alta",
+      "ges_relacionado": "GES 21 - HTA",
+      "tiene_imagen_referenciada": false,
+      "estado_imagen": "no_aplica",
+      "utilizable": true,
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": [
+        { "version": 1, "fecha": "2026-05-07", "fuente": "Banco original Dr. Guevara", "nota": "Versión inicial", "snapshot": null }
+      ],
+      "estadisticas_usuario": { "veces_respondida": 0, "veces_correcta": 0, "ultima_vez": null }
+    },
+    {
+      "id_unico": "GUEV-CAR-0002",
+      "enunciado": "Paciente con EPOC moderado y antecedente de infarto agudo al miocardio reciente con fracción de eyección reducida. ¿Cuál es la conducta correcta respecto a los betabloqueadores?",
+      "opciones": [
+        { "letra": "a", "texto": "Están contraindicados de forma absoluta por el EPOC", "correcta": false },
+        { "letra": "b", "texto": "Se prefiere un betabloqueador cardioselectivo (ej. bisoprolol) porque el beneficio post-IAM supera el riesgo", "correcta": true },
+        { "letra": "c", "texto": "Solo se permiten betabloqueadores no selectivos", "correcta": false },
+        { "letra": "d", "texto": "Deben suspenderse todos los betabloqueadores indefinidamente", "correcta": false },
+        { "letra": "e", "texto": "Reemplazar por verapamilo en todos los casos", "correcta": false }
+      ],
+      "justificacion": "El EPOC NO es contraindicación absoluta para betabloqueadores. En insuficiencia cardíaca con FE reducida y post-IAM, los betabloqueadores cardioselectivos (bisoprolol, metoprolol, nebivolol) reducen mortalidad y son recomendados; el riesgo de broncoespasmo con cardioselectivos es bajo.",
+      "especialidad_principal": "cardio",
+      "tema_validado": "Insuficiencia cardíaca",
+      "subtema": "Betabloqueadores en comorbilidad respiratoria",
+      "sistema_behrens": "cardiovascular",
+      "dificultad_estimada": "alta",
+      "contexto": "ambulatorio",
+      "habilidad_evaluada": "tratamiento",
+      "frecuencia_eunacom": "media",
+      "ges_relacionado": "GES 5 - IAM",
+      "tiene_imagen_referenciada": false,
+      "estado_imagen": "no_aplica",
+      "utilizable": true,
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": [
+        { "version": 1, "fecha": "2026-05-07", "fuente": "Banco original Dr. Guevara", "nota": "Versión inicial", "snapshot": null }
+      ],
+      "estadisticas_usuario": { "veces_respondida": 0, "veces_correcta": 0, "ultima_vez": null }
+    },
+    {
+      "id_unico": "GUEV-CAR-0003",
+      "enunciado": "Mujer de 70 años con palpitaciones, pulso irregularmente irregular y ECG que muestra ausencia de ondas P con intervalos R-R irregulares. ¿Cuál es el diagnóstico más probable?",
+      "opciones": [
+        { "letra": "a", "texto": "Fibrilación auricular", "correcta": true },
+        { "letra": "b", "texto": "Flutter auricular 2:1 fijo", "correcta": false },
+        { "letra": "c", "texto": "Taquicardia sinusal", "correcta": false },
+        { "letra": "d", "texto": "Bloqueo AV de primer grado", "correcta": false },
+        { "letra": "e", "texto": "Extrasístoles ventriculares aisladas", "correcta": false }
+      ],
+      "justificacion": "La fibrilación auricular se caracteriza por ausencia de ondas P, actividad auricular desorganizada (ondas f) e intervalos R-R irregularmente irregulares, lo que clínicamente se traduce en un pulso irregularmente irregular.",
+      "especialidad_principal": "cardio",
+      "tema_validado": "Arritmias",
+      "subtema": "Fibrilación auricular",
+      "sistema_behrens": "cardiovascular",
+      "dificultad_estimada": "basica",
+      "contexto": "ambulatorio",
+      "habilidad_evaluada": "diagnostico",
+      "frecuencia_eunacom": "alta",
+      "ges_relacionado": "",
+      "tiene_imagen_referenciada": false,
+      "estado_imagen": "no_aplica",
+      "utilizable": true,
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": [
+        { "version": 1, "fecha": "2026-05-07", "fuente": "Banco original Dr. Guevara", "nota": "Versión inicial", "snapshot": null }
+      ],
+      "estadisticas_usuario": { "veces_respondida": 0, "veces_correcta": 0, "ultima_vez": null }
+    },
+    {
+      "id_unico": "GUEV-CAR-0004",
+      "enunciado": "Observe el siguiente ECG de 12 derivaciones. ¿Cuál es el hallazgo principal?",
+      "opciones": [
+        { "letra": "a", "texto": "Supradesnivel del ST en cara inferior (II, III, aVF)", "correcta": true },
+        { "letra": "b", "texto": "Ritmo sinusal normal", "correcta": false },
+        { "letra": "c", "texto": "Bloqueo completo de rama izquierda aislado", "correcta": false },
+        { "letra": "d", "texto": "Hipertrofia ventricular izquierda sin alteraciones isquémicas", "correcta": false },
+        { "letra": "e", "texto": "Pericarditis con supradesnivel difuso", "correcta": false }
+      ],
+      "justificacion": "Pregunta que depende de la imagen del trazado. Requiere adjuntar el ECG para poder responderse correctamente; queda fuera de los quizzes normales hasta que se le adjunte la imagen.",
+      "especialidad_principal": "cardio",
+      "tema_validado": "Síndrome coronario agudo",
+      "subtema": "IAM con SDST",
+      "sistema_behrens": "cardiovascular",
+      "dificultad_estimada": "intermedia",
+      "contexto": "urgencia",
+      "habilidad_evaluada": "diagnostico",
+      "frecuencia_eunacom": "alta",
+      "ges_relacionado": "GES 5 - IAM",
+      "tiene_imagen_referenciada": true,
+      "estado_imagen": "faltante",
+      "utilizable": false,
+      "imagen": { "presente": false, "requerida": true, "data": null, "descripcion": "ECG 12 derivaciones con supradesnivel ST inferior" },
+      "version_actual": 1,
+      "historial_ediciones": [
+        { "version": 1, "fecha": "2026-05-07", "fuente": "Banco original Dr. Guevara", "nota": "Versión inicial — requiere imagen", "snapshot": null }
+      ],
+      "estadisticas_usuario": { "veces_respondida": 0, "veces_correcta": 0, "ultima_vez": null }
+    },
+    {
+      "id_unico": "GUEV-CAR-0005",
+      "enunciado": "¿Cuál de los siguientes es el examen de elección inicial para confirmar el diagnóstico de insuficiencia cardíaca y evaluar la fracción de eyección?",
+      "opciones": [
+        { "letra": "a", "texto": "Ecocardiograma transtorácico", "correcta": true },
+        { "letra": "b", "texto": "Radiografía de tórax", "correcta": false },
+        { "letra": "c", "texto": "Electrocardiograma de reposo", "correcta": false },
+        { "letra": "d", "texto": "Cintigrama pulmonar", "correcta": false },
+        { "letra": "e", "texto": "Angiografía coronaria", "correcta": false }
+      ],
+      "justificacion": "El ecocardiograma transtorácico es el examen de elección: permite cuantificar la fracción de eyección, evaluar la función sistólica/diastólica, valvulopatías y tamaño de cavidades. El BNP/NT-proBNP apoya el diagnóstico pero no reemplaza la ecocardiografía.",
+      "especialidad_principal": "cardio",
+      "tema_validado": "Insuficiencia cardíaca",
+      "subtema": "Estudio diagnóstico",
+      "sistema_behrens": "cardiovascular",
+      "dificultad_estimada": "basica",
+      "contexto": "ambulatorio",
+      "habilidad_evaluada": "diagnostico",
+      "frecuencia_eunacom": "alta",
+      "ges_relacionado": "",
+      "tiene_imagen_referenciada": false,
+      "estado_imagen": "no_aplica",
+      "utilizable": true,
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": [
+        { "version": 1, "fecha": "2026-05-07", "fuente": "Banco original Dr. Guevara", "nota": "Versión inicial", "snapshot": null }
+      ],
+      "estadisticas_usuario": { "veces_respondida": 0, "veces_correcta": 0, "ultima_vez": null }
+    },
+    {
+      "id_unico": "GUEV-CAR-0006",
+      "enunciado": "Paciente con IAM con SDST que consulta a las 2 horas de iniciado el dolor en un centro SIN disponibilidad de angioplastia primaria en menos de 120 minutos. ¿Cuál es la conducta de reperfusión más apropiada?",
+      "opciones": [
+        { "letra": "a", "texto": "Trombólisis (fibrinólisis) precoz", "correcta": true },
+        { "letra": "b", "texto": "Esperar el traslado para angioplastia aunque demore 4 horas", "correcta": false },
+        { "letra": "c", "texto": "Manejo solo con antiagregación y anticoagulación, sin reperfusión", "correcta": false },
+        { "letra": "d", "texto": "Cirugía de revascularización de urgencia", "correcta": false },
+        { "letra": "e", "texto": "Observación con enzimas seriadas", "correcta": false }
+      ],
+      "justificacion": "En IAM con SDST, si no se puede realizar angioplastia primaria dentro de 120 minutos, está indicada la trombólisis precoz (idealmente <30 min desde el ingreso), seguida de traslado a centro con hemodinamia (estrategia farmacoinvasiva).",
+      "especialidad_principal": "cardio",
+      "tema_validado": "Síndrome coronario agudo",
+      "subtema": "Reperfusión en IAM con SDST",
+      "sistema_behrens": "cardiovascular",
+      "dificultad_estimada": "alta",
+      "contexto": "urgencia",
+      "habilidad_evaluada": "tratamiento",
+      "frecuencia_eunacom": "alta",
+      "ges_relacionado": "GES 5 - IAM",
+      "tiene_imagen_referenciada": false,
+      "estado_imagen": "no_aplica",
+      "utilizable": true,
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": [
+        { "version": 1, "fecha": "2026-05-07", "fuente": "Banco original Dr. Guevara", "nota": "Versión inicial", "snapshot": null }
+      ],
+      "estadisticas_usuario": { "veces_respondida": 0, "veces_correcta": 0, "ultima_vez": null }
+    },
+    {
+      "id_unico": "GUEV-CAR-0007",
+      "enunciado": "Hombre de 58 años con soplo sistólico eyectivo en foco aórtico irradiado a carótidas, asociado a síncope de esfuerzo. ¿Cuál es el diagnóstico más probable?",
+      "opciones": [
+        { "letra": "a", "texto": "Estenosis aórtica", "correcta": true },
+        { "letra": "b", "texto": "Insuficiencia mitral", "correcta": false },
+        { "letra": "c", "texto": "Comunicación interauricular", "correcta": false },
+        { "letra": "d", "texto": "Insuficiencia aórtica", "correcta": false },
+        { "letra": "e", "texto": "Estenosis mitral", "correcta": false }
+      ],
+      "justificacion": "La estenosis aórtica produce un soplo sistólico eyectivo en foco aórtico irradiado a carótidas. La tríada clásica de síntomas es angina, síncope (típicamente de esfuerzo) y disnea/insuficiencia cardíaca, que marca peor pronóstico.",
+      "especialidad_principal": "cardio",
+      "tema_validado": "Valvulopatías",
+      "subtema": "Estenosis aórtica",
+      "sistema_behrens": "cardiovascular",
+      "dificultad_estimada": "intermedia",
+      "contexto": "ambulatorio",
+      "habilidad_evaluada": "diagnostico",
+      "frecuencia_eunacom": "media",
+      "ges_relacionado": "",
+      "tiene_imagen_referenciada": false,
+      "estado_imagen": "no_aplica",
+      "utilizable": true,
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": [
+        { "version": 1, "fecha": "2026-05-07", "fuente": "Banco original Dr. Guevara", "nota": "Versión inicial", "snapshot": null }
+      ],
+      "estadisticas_usuario": { "veces_respondida": 0, "veces_correcta": 0, "ultima_vez": null }
+    },
+    {
+      "id_unico": "GUEV-CAR-0008",
+      "enunciado": "En un paciente con fibrilación auricular no valvular, ¿qué escala se utiliza para estimar el riesgo de eventos tromboembólicos y decidir anticoagulación?",
+      "opciones": [
+        { "letra": "a", "texto": "CHA2DS2-VASc", "correcta": true },
+        { "letra": "b", "texto": "Escala de Wells", "correcta": false },
+        { "letra": "c", "texto": "Score de Framingham", "correcta": false },
+        { "letra": "d", "texto": "Clasificación de Killip", "correcta": false },
+        { "letra": "e", "texto": "Escala de Glasgow", "correcta": false }
+      ],
+      "justificacion": "CHA2DS2-VASc estima el riesgo de ictus/embolia en FA no valvular y guía la indicación de anticoagulación. HAS-BLED se usa de forma complementaria para estimar riesgo de sangrado.",
+      "especialidad_principal": "cardio",
+      "tema_validado": "Arritmias",
+      "subtema": "Anticoagulación en FA",
+      "sistema_behrens": "cardiovascular",
+      "dificultad_estimada": "intermedia",
+      "contexto": "ambulatorio",
+      "habilidad_evaluada": "tratamiento",
+      "frecuencia_eunacom": "media",
+      "ges_relacionado": "",
+      "tiene_imagen_referenciada": false,
+      "estado_imagen": "no_aplica",
+      "utilizable": true,
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": [
+        { "version": 1, "fecha": "2026-05-07", "fuente": "Banco original Dr. Guevara", "nota": "Versión inicial", "snapshot": null }
+      ],
+      "estadisticas_usuario": { "veces_respondida": 0, "veces_correcta": 0, "ultima_vez": null }
+    },
+    {
+      "id_unico": "GUEV-CAR-0009",
+      "enunciado": "Mujer de 30 años, embarazada de 28 semanas, con PA 150/100 mmHg, proteinuria significativa y cefalea. ¿Cuál es el fármaco antihipertensivo de elección?",
+      "opciones": [
+        { "letra": "a", "texto": "Labetalol o metildopa", "correcta": true },
+        { "letra": "b", "texto": "Enalapril", "correcta": false },
+        { "letra": "c", "texto": "Losartán", "correcta": false },
+        { "letra": "d", "texto": "Espironolactona", "correcta": false },
+        { "letra": "e", "texto": "Atenolol como primera línea", "correcta": false }
+      ],
+      "justificacion": "En el embarazo (sospecha de preeclampsia) los antihipertensivos seguros incluyen labetalol, metildopa y nifedipino. Los IECA y ARA-II están contraindicados por teratogenicidad y daño renal fetal.",
+      "especialidad_principal": "cardio",
+      "tema_validado": "HTA",
+      "subtema": "HTA en el embarazo",
+      "sistema_behrens": "cardiovascular",
+      "dificultad_estimada": "alta",
+      "contexto": "ambulatorio",
+      "habilidad_evaluada": "tratamiento",
+      "frecuencia_eunacom": "media",
+      "ges_relacionado": "",
+      "tiene_imagen_referenciada": false,
+      "estado_imagen": "no_aplica",
+      "utilizable": true,
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": [
+        { "version": 1, "fecha": "2026-05-07", "fuente": "Banco original Dr. Guevara", "nota": "Versión inicial", "snapshot": null }
+      ],
+      "estadisticas_usuario": { "veces_respondida": 0, "veces_correcta": 0, "ultima_vez": null }
+    },
+    {
+      "id_unico": "GUEV-CAR-0010",
+      "enunciado": "Paciente con disnea progresiva, ortopnea, ingurgitación yugular y edema de extremidades inferiores. ¿Cuál es el grupo farmacológico que ha demostrado reducir mortalidad en insuficiencia cardíaca con fracción de eyección reducida?",
+      "opciones": [
+        { "letra": "a", "texto": "IECA/ARA-II (o ARNI), betabloqueadores y antagonistas del receptor mineralocorticoide", "correcta": true },
+        { "letra": "b", "texto": "Diuréticos de asa en monoterapia", "correcta": false },
+        { "letra": "c", "texto": "Digoxina como pilar único", "correcta": false },
+        { "letra": "d", "texto": "Bloqueadores de canales de calcio dihidropiridínicos", "correcta": false },
+        { "letra": "e", "texto": "Antiarrítmicos clase I", "correcta": false }
+      ],
+      "justificacion": "En IC con FE reducida los pilares que reducen mortalidad son: IECA/ARA-II o ARNI, betabloqueadores, antagonistas del receptor mineralocorticoide (espironolactona/eplerenona) y los iSGLT2. Los diuréticos de asa alivian síntomas/congestión pero no han demostrado reducir mortalidad.",
+      "especialidad_principal": "cardio",
+      "tema_validado": "Insuficiencia cardíaca",
+      "subtema": "Tratamiento que modifica mortalidad",
+      "sistema_behrens": "cardiovascular",
+      "dificultad_estimada": "alta",
+      "contexto": "ambulatorio",
+      "habilidad_evaluada": "tratamiento",
+      "frecuencia_eunacom": "alta",
+      "ges_relacionado": "",
+      "tiene_imagen_referenciada": false,
+      "estado_imagen": "no_aplica",
+      "utilizable": true,
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": [
+        { "version": 1, "fecha": "2026-05-07", "fuente": "Banco original Dr. Guevara", "nota": "Versión inicial", "snapshot": null }
+      ],
+      "estadisticas_usuario": { "veces_respondida": 0, "veces_correcta": 0, "ultima_vez": null }
+    },
+    {
+      "id_unico": "GUEV-CAR-0011",
+      "enunciado": "¿Cuál es el mecanismo de acción de los inhibidores de la enzima convertidora de angiotensina (IECA)?",
+      "opciones": [
+        { "letra": "a", "texto": "Inhiben la conversión de angiotensina I a angiotensina II, reduciendo la vasoconstricción y la secreción de aldosterona", "correcta": true },
+        { "letra": "b", "texto": "Bloquean directamente los receptores beta-1 cardíacos", "correcta": false },
+        { "letra": "c", "texto": "Inhiben el cotransportador Na-Cl en el túbulo distal", "correcta": false },
+        { "letra": "d", "texto": "Bloquean los canales de calcio tipo L", "correcta": false },
+        { "letra": "e", "texto": "Antagonizan el receptor de aldosterona", "correcta": false }
+      ],
+      "justificacion": "Los IECA inhiben la ECA, disminuyendo la formación de angiotensina II (potente vasoconstrictor) y la liberación de aldosterona, lo que reduce la PA y tiene efecto nefroprotector. La tos seca por acumulación de bradicinina es un efecto adverso característico.",
+      "especialidad_principal": "cardio",
+      "tema_validado": "Farmacología cardiovascular",
+      "subtema": "IECA",
+      "sistema_behrens": "cardiovascular",
+      "dificultad_estimada": "basica",
+      "contexto": "ambulatorio",
+      "habilidad_evaluada": "conocimiento",
+      "frecuencia_eunacom": "media",
+      "ges_relacionado": "",
+      "tiene_imagen_referenciada": false,
+      "estado_imagen": "no_aplica",
+      "utilizable": true,
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": [
+        { "version": 1, "fecha": "2026-05-07", "fuente": "Banco original Dr. Guevara", "nota": "Versión inicial", "snapshot": null }
+      ],
+      "estadisticas_usuario": { "veces_respondida": 0, "veces_correcta": 0, "ultima_vez": null }
+    },
+    {
+      "id_unico": "GUEV-CAR-0012",
+      "enunciado": "Paciente joven con dolor torácico que aumenta con la inspiración y mejora al inclinarse hacia adelante, frote pericárdico a la auscultación y supradesnivel del ST difuso y cóncavo en el ECG. ¿Cuál es el diagnóstico más probable?",
+      "opciones": [
+        { "letra": "a", "texto": "Pericarditis aguda", "correcta": true },
+        { "letra": "b", "texto": "Infarto agudo al miocardio con SDST", "correcta": false },
+        { "letra": "c", "texto": "Tromboembolismo pulmonar", "correcta": false },
+        { "letra": "d", "texto": "Disección aórtica", "correcta": false },
+        { "letra": "e", "texto": "Neumotórax espontáneo", "correcta": false }
+      ],
+      "justificacion": "La pericarditis aguda cursa con dolor pleurítico que mejora al inclinarse hacia adelante, frote pericárdico y en el ECG supradesnivel del ST difuso y cóncavo con descenso del PR. A diferencia del IAM, el SDST no sigue una distribución coronaria.",
+      "especialidad_principal": "cardio",
+      "tema_validado": "Pericarditis",
+      "subtema": "Pericarditis aguda",
+      "sistema_behrens": "cardiovascular",
+      "dificultad_estimada": "intermedia",
+      "contexto": "urgencia",
+      "habilidad_evaluada": "diagnostico",
+      "frecuencia_eunacom": "media",
+      "ges_relacionado": "",
+      "tiene_imagen_referenciada": false,
+      "estado_imagen": "no_aplica",
+      "utilizable": true,
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": [
+        { "version": 1, "fecha": "2026-05-07", "fuente": "Banco original Dr. Guevara", "nota": "Versión inicial", "snapshot": null }
+      ],
+      "estadisticas_usuario": { "veces_respondida": 0, "veces_correcta": 0, "ultima_vez": null }
+    }
+  ]
+}

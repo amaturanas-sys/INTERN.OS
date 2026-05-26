@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "descripcion": "Definiciones en formato MCQ (Modo 3). Muestra inicial según el esquema 5.3.",
+    "fecha_generacion": "2026-05-26"
+  },
+  "definiciones": [
+    {
+      "id": "DEF-FARM-001",
+      "tipo": "farmaco",
+      "concepto": "Furosemida",
+      "pregunta": "¿Cuál es el mecanismo de acción de la furosemida?",
+      "opciones": [
+        { "letra": "a", "texto": "Inhibe el cotransportador Na-K-2Cl en la rama ascendente del asa de Henle", "correcta": true },
+        { "letra": "b", "texto": "Inhibe el cotransportador Na-Cl en el túbulo contorneado distal", "correcta": false },
+        { "letra": "c", "texto": "Antagoniza el receptor de aldosterona en el túbulo colector", "correcta": false },
+        { "letra": "d", "texto": "Inhibe la anhidrasa carbónica en el túbulo proximal", "correcta": false }
+      ],
+      "explicacion": "La furosemida es un diurético de asa que inhibe el cotransportador Na-K-2Cl en la rama ascendente gruesa del asa de Henle, produciendo una diuresis potente. Efectos adversos: hipokalemia, hipovolemia, ototoxicidad.",
+      "especialidad": "cardio",
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": []
+    },
+    {
+      "id": "DEF-FARM-002",
+      "tipo": "farmaco",
+      "concepto": "Espironolactona",
+      "pregunta": "¿Cuál es el mecanismo de acción de la espironolactona?",
+      "opciones": [
+        { "letra": "a", "texto": "Antagonista del receptor de aldosterona (ahorrador de potasio)", "correcta": true },
+        { "letra": "b", "texto": "Bloqueador de canales de calcio", "correcta": false },
+        { "letra": "c", "texto": "Inhibidor de la ECA", "correcta": false },
+        { "letra": "d", "texto": "Betabloqueador no selectivo", "correcta": false }
+      ],
+      "explicacion": "La espironolactona antagoniza el receptor mineralocorticoide (aldosterona), es ahorradora de potasio y reduce mortalidad en IC con FE reducida. Riesgo: hiperkalemia y ginecomastia.",
+      "especialidad": "cardio",
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": []
+    },
+    {
+      "id": "DEF-CONC-001",
+      "tipo": "concepto",
+      "concepto": "Pulso paradójico",
+      "pregunta": "¿Qué define al pulso paradójico?",
+      "opciones": [
+        { "letra": "a", "texto": "Caída de la presión arterial sistólica >10 mmHg durante la inspiración", "correcta": true },
+        { "letra": "b", "texto": "Aumento de la PA sistólica durante la inspiración", "correcta": false },
+        { "letra": "c", "texto": "Ausencia total de pulso radial en inspiración", "correcta": false },
+        { "letra": "d", "texto": "Pulso irregularmente irregular", "correcta": false }
+      ],
+      "explicacion": "El pulso paradójico es una caída exagerada (>10 mmHg) de la PA sistólica durante la inspiración. Es característico del taponamiento cardíaco, también presente en asma grave y pericarditis constrictiva.",
+      "especialidad": "cardio",
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": []
+    },
+    {
+      "id": "DEF-HERR-001",
+      "tipo": "herramienta",
+      "concepto": "Péptido natriurético (BNP/NT-proBNP)",
+      "pregunta": "¿Cuál es la principal utilidad clínica del BNP / NT-proBNP?",
+      "opciones": [
+        { "letra": "a", "texto": "Apoyar el diagnóstico de insuficiencia cardíaca, con alto valor predictivo negativo si está bajo", "correcta": true },
+        { "letra": "b", "texto": "Confirmar infarto agudo al miocardio", "correcta": false },
+        { "letra": "c", "texto": "Diagnosticar tromboembolismo pulmonar", "correcta": false },
+        { "letra": "d", "texto": "Medir la función renal", "correcta": false }
+      ],
+      "explicacion": "El BNP/NT-proBNP se eleva por estiramiento miocárdico. Su mayor utilidad es el alto valor predictivo negativo: un valor bajo hace muy improbable la IC en un paciente con disnea. No reemplaza al ecocardiograma.",
+      "especialidad": "cardio",
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": []
+    },
+    {
+      "id": "DEF-CONC-002",
+      "tipo": "concepto",
+      "concepto": "Clasificación de Killip",
+      "pregunta": "¿Qué evalúa la clasificación de Killip en el infarto agudo al miocardio?",
+      "opciones": [
+        { "letra": "a", "texto": "El grado de insuficiencia cardíaca/congestión y su relación con la mortalidad", "correcta": true },
+        { "letra": "b", "texto": "El riesgo de sangrado por anticoagulación", "correcta": false },
+        { "letra": "c", "texto": "El territorio coronario afectado en el ECG", "correcta": false },
+        { "letra": "d", "texto": "La probabilidad de TEP", "correcta": false }
+      ],
+      "explicacion": "La clasificación de Killip estratifica al paciente con IAM según signos de insuficiencia cardíaca (I: sin congestión; II: crépitos/3R; III: edema pulmonar; IV: shock cardiogénico), con mortalidad creciente.",
+      "especialidad": "cardio",
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "version_actual": 1,
+      "historial_ediciones": []
+    }
+  ]
+}

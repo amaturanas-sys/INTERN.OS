@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "descripcion": "Casos clínicos lineales con feedback (Modo 2). Muestra inicial construida según el esquema 5.2.",
+    "fecha_generacion": "2026-05-26"
+  },
+  "casos": [
+    {
+      "id": "CASO-CARDIO-001",
+      "titulo": "Dolor torácico en adulto mayor",
+      "especialidad": "cardio",
+      "tema": "SCA/IAM",
+      "dificultad": "intermedia",
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Hombre de 65 años, hipertenso y diabético, llega a urgencias por dolor torácico opresivo de 1 hora de evolución. ¿Qué pregunta dirigida es la MÁS relevante para orientar el cuadro?",
+          "opciones": [
+            { "letra": "a", "texto": "Caracterizar el dolor: irradiación, factores que lo modifican y síntomas asociados (diaforesis, disnea)", "correcta": true, "feedback": "Correcto. Caracterizar el dolor orienta a síndrome coronario agudo y su gravedad." },
+            { "letra": "b", "texto": "Preguntar por antecedentes de cirugías abdominales", "correcta": false, "feedback": "Poco relevante en este contexto de dolor torácico agudo." },
+            { "letra": "c", "texto": "Indagar hábitos alimentarios del último mes", "correcta": false, "feedback": "No es prioritario en la urgencia de un dolor torácico agudo." }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "examen_complementario",
+          "enunciado": "El dolor irradia al brazo izquierdo con diaforesis. ¿Cuál es el examen inicial prioritario?",
+          "opciones": [
+            { "letra": "a", "texto": "Electrocardiograma de 12 derivaciones en menos de 10 minutos", "correcta": true, "feedback": "Correcto. El ECG precoz es la prioridad para detectar SDST." },
+            { "letra": "b", "texto": "Radiografía de tórax antes que cualquier otra cosa", "correcta": false, "feedback": "Útil, pero no es lo prioritario frente a la sospecha de SCA." },
+            { "letra": "c", "texto": "Ecocardiograma de estrés", "correcta": false, "feedback": "No corresponde en la fase aguda de un dolor sospechoso de SCA." }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "diagnostico",
+          "enunciado": "El ECG muestra supradesnivel del ST en II, III y aVF. ¿Cuál es el diagnóstico?",
+          "opciones": [
+            { "letra": "a", "texto": "IAM con SDST de cara inferior", "correcta": true, "feedback": "Correcto. SDST en II, III y aVF corresponde a la cara inferior." },
+            { "letra": "b", "texto": "Angina estable", "correcta": false, "feedback": "La angina estable no produce SDST ni dolor en reposo prolongado." },
+            { "letra": "c", "texto": "Pericarditis", "correcta": false, "feedback": "El SDST de la pericarditis es difuso, no en territorio coronario." }
+          ]
+        },
+        {
+          "orden": 4,
+          "tipo": "manejo",
+          "enunciado": "Está a 30 minutos de un centro con hemodinamia (angioplastia disponible <90 min). ¿Cuál es el manejo de reperfusión?",
+          "opciones": [
+            { "letra": "a", "texto": "Angioplastia primaria + doble antiagregación y anticoagulación", "correcta": true, "feedback": "Correcto. Con angioplastia disponible <120 min, es la estrategia de elección." },
+            { "letra": "b", "texto": "Solo observación con enzimas seriadas", "correcta": false, "feedback": "Inaceptable en un IAM con SDST: hay que reperfundir." },
+            { "letra": "c", "texto": "Trombólisis aunque haya angioplastia disponible a tiempo", "correcta": false, "feedback": "Si la angioplastia está disponible a tiempo, es preferible a la trombólisis." }
+          ]
+        }
+      ],
+      "resumen_final": "Diagnóstico: IAM con SDST de cara inferior. Manejo: ECG precoz, angioplastia primaria dentro de los tiempos, doble antiagregación y anticoagulación. La caracterización del dolor y el ECG en <10 min son los pasos críticos.",
+      "version_actual": 1,
+      "historial_ediciones": []
+    },
+    {
+      "id": "CASO-CARDIO-002",
+      "titulo": "Disnea progresiva y edema",
+      "especialidad": "cardio",
+      "tema": "Insuficiencia cardíaca",
+      "dificultad": "intermedia",
+      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Mujer de 72 años con disnea de esfuerzo progresiva, ortopnea y edema vespertino de tobillos. ¿Qué síntoma orienta más a congestión izquierda?",
+          "opciones": [
+            { "letra": "a", "texto": "Ortopnea y disnea paroxística nocturna", "correcta": true, "feedback": "Correcto. Reflejan congestión pulmonar por falla izquierda." },
+            { "letra": "b", "texto": "Edema de tobillos aislado", "correcta": false, "feedback": "Sugiere más congestión derecha/sistémica." },
+            { "letra": "c", "texto": "Dolor abdominal posprandial", "correcta": false, "feedback": "No es un síntoma característico de congestión izquierda." }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "examen_complementario",
+          "enunciado": "¿Cuál es el examen de elección para confirmar el diagnóstico y medir la fracción de eyección?",
+          "opciones": [
+            { "letra": "a", "texto": "Ecocardiograma transtorácico", "correcta": true, "feedback": "Correcto. Cuantifica FE y caracteriza la disfunción." },
+            { "letra": "b", "texto": "Holter de 24 horas", "correcta": false, "feedback": "Útil para arritmias, no para evaluar FE." },
+            { "letra": "c", "texto": "Test de esfuerzo convencional", "correcta": false, "feedback": "No es el examen inicial para confirmar IC ni medir FE." }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "El ecocardiograma muestra FE de 30%. ¿Qué combinación modifica la mortalidad?",
+          "opciones": [
+            { "letra": "a", "texto": "IECA/ARNI + betabloqueador + antagonista mineralocorticoide + iSGLT2", "correcta": true, "feedback": "Correcto. Son los pilares que reducen mortalidad en IC-FEr." },
+            { "letra": "b", "texto": "Solo furosemida en dosis altas", "correcta": false, "feedback": "Alivia síntomas pero no reduce mortalidad." },
+            { "letra": "c", "texto": "Antiarrítmicos clase I de mantención", "correcta": false, "feedback": "No indicados; pueden ser proarrítmicos en IC." }
+          ]
+        }
+      ],
+      "resumen_final": "Diagnóstico: insuficiencia cardíaca con fracción de eyección reducida (FE 30%). El ecocardiograma confirma y cuantifica. El tratamiento que modifica mortalidad combina IECA/ARNI, betabloqueador, antagonista del receptor mineralocorticoide e iSGLT2; los diuréticos controlan la congestión.",
+      "version_actual": 1,
+      "historial_ediciones": []
+    }
+  ]
+}
