@@ -420,6 +420,26 @@
           "archivo": "4_enfermedad_inflamatoria_intestinal.txt"
         }
       ]
+    },
+    "geriatria": {
+      "total": 3,
+      "transcripciones": [
+        {
+          "titulo": "Adulto mayor normal / Evaluación geriátrica / Polifarmacia / Fragilidad / Patología en anciano",
+          "url": "https://youtu.be/zHnoY3mcmuI",
+          "archivo": "adulto_mayor_normal_evaluacion_geriatrica_polifarmacia_fragilidad_patologia_en_anciano.txt"
+        },
+        {
+          "titulo": "Atrofia muscular / Inmovilidad/ Caídas / Depresión / Abuso / Vacunas",
+          "url": "https://youtu.be/uKeUFVV6ZnI",
+          "archivo": "atrofia_muscular_inmovilidad_caidas_depresion_abuso_vacunas.txt"
+        },
+        {
+          "titulo": "Incontinencia urinaria",
+          "url": "https://youtu.be/mIieO2pv-LA",
+          "archivo": "incontinencia_urinaria.txt"
+        }
+      ]
     }
   }
 }
