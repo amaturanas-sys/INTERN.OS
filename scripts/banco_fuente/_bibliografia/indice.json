@@ -1279,7 +1279,112 @@
           "url": "https://youtu.be/AcfZjpAMgtE"
         }
       ]
+    },
+    "psiquiatria": {
+      "cantidad": 20,
+      "transcripciones": [
+        {
+          "archivo": "consumo_de_sustancias.txt",
+          "titulo": "Consumo de sustancias",
+          "url": "https://youtu.be/eQGUR3yJbmQ"
+        },
+        {
+          "archivo": "consumo_oh.txt",
+          "titulo": "Consumo OH",
+          "url": "https://youtu.be/I6j_khyfZ84"
+        },
+        {
+          "archivo": "intoxicaciones.txt",
+          "titulo": "Intoxicaciones",
+          "url": "https://youtu.be/ZqWoSxLYeRU"
+        },
+        {
+          "archivo": "psq_adulto.txt",
+          "titulo": "Psq Adulto",
+          "url": "https://youtu.be/IfHd1Q1jnAc"
+        },
+        {
+          "archivo": "psq_infantil_1.txt",
+          "titulo": "Psq infantil 1",
+          "url": "https://youtu.be/fsNYwZ1Rs68"
+        },
+        {
+          "archivo": "psq_infantil_2.txt",
+          "titulo": "Psq infantil 2",
+          "url": "https://youtu.be/3UDR94wx9k4"
+        },
+        {
+          "archivo": "psq_infantil_3.txt",
+          "titulo": "Psq infantil 3",
+          "url": "https://youtu.be/OTnLCP7tmlo"
+        },
+        {
+          "archivo": "psq_infantil_4.txt",
+          "titulo": "Psq infantil 4",
+          "url": "https://youtu.be/0wEC44LP_kI"
+        },
+        {
+          "archivo": "psq_infantil_5.txt",
+          "titulo": "Psq infantil 5",
+          "url": "https://youtu.be/TxNVZlL2Wiw"
+        },
+        {
+          "archivo": "t_ansioso_1.txt",
+          "titulo": "T ansioso 1",
+          "url": "https://youtu.be/KMjnnvsrFcs"
+        },
+        {
+          "archivo": "t_ansioso_2.txt",
+          "titulo": "T ansioso 2",
+          "url": "https://youtu.be/RrBAxUuc87E"
+        },
+        {
+          "archivo": "t_ansioso_3.txt",
+          "titulo": "T ansioso 3",
+          "url": "https://youtu.be/RTReSBSkp7s"
+        },
+        {
+          "archivo": "t_conversivos.txt",
+          "titulo": "T conversivos",
+          "url": "https://youtu.be/leBmK6ii19w"
+        },
+        {
+          "archivo": "t_de_alimentacion.txt",
+          "titulo": "T de alimentación",
+          "url": "https://youtu.be/qHVvBSExgU0"
+        },
+        {
+          "archivo": "t_de_personalidad.txt",
+          "titulo": "T de personalidad",
+          "url": "https://youtu.be/-0wQ7hQO1V0"
+        },
+        {
+          "archivo": "t_psicoticos.txt",
+          "titulo": "T psicoticos",
+          "url": "https://youtu.be/RP2J8dUM_c8"
+        },
+        {
+          "archivo": "t_psicoticos_2.txt",
+          "titulo": "T psicoticos 2",
+          "url": "https://youtu.be/wa8tpi6pOeU"
+        },
+        {
+          "archivo": "trastornos_animicos_1.txt",
+          "titulo": "Trastornos anímicos 1",
+          "url": "https://youtu.be/OK0myx7jMFA"
+        },
+        {
+          "archivo": "trastornos_animicos_2.txt",
+          "titulo": "Trastornos anímicos 2",
+          "url": "https://youtu.be/qih9KpP8m6c"
+        },
+        {
+          "archivo": "trastornos_animicos_3.txt",
+          "titulo": "Trastornos anímicos 3",
+          "url": "https://youtu.be/9ijBsK-8wBA"
+        }
+      ]
     }
   },
-  "total": 243
+  "total": 263
 }
