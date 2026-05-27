@@ -1069,7 +1069,112 @@
           "url": "https://youtu.be/wNVf4aedtTc"
         }
       ]
+    },
+    "otorrinolaringologia": {
+      "cantidad": 20,
+      "transcripciones": [
+        {
+          "archivo": "alergiasy_resistencia_a_la_penicilina.txt",
+          "titulo": "Alergiasy resistencia a la penicilina",
+          "url": "https://youtu.be/MS-kzgIDNXw"
+        },
+        {
+          "archivo": "amigdalectomia.txt",
+          "titulo": "Amigdalectomía",
+          "url": "https://youtu.be/xM6ILQ-rWac"
+        },
+        {
+          "archivo": "amigdalitis_aguda.txt",
+          "titulo": "Amigdalitis aguda",
+          "url": "https://youtu.be/m3ipLozP1Uc"
+        },
+        {
+          "archivo": "audiometria_y_test_de_diapasones.txt",
+          "titulo": "Audiometría y test de diapasones",
+          "url": "https://youtu.be/94Ds-alsQeQ"
+        },
+        {
+          "archivo": "cancer_de_cabeza_y_cuello.txt",
+          "titulo": "Cancer de cabeza y cuello",
+          "url": "https://youtu.be/1QjZOyMprmM"
+        },
+        {
+          "archivo": "cancer_de_faringe_y_laringe.txt",
+          "titulo": "Cancer de faringe y laringe",
+          "url": "https://youtu.be/IcLSHGEKR8k"
+        },
+        {
+          "archivo": "cancer_nasosinusal_y_de_boca.txt",
+          "titulo": "Cancer nasosinusal y de boca",
+          "url": "https://youtu.be/NVyfBoEDgns"
+        },
+        {
+          "archivo": "casos_de_amigdalitis.txt",
+          "titulo": "Casos de amigdalitis",
+          "url": "https://youtu.be/vQm7uMqy8Ec"
+        },
+        {
+          "archivo": "casos_rinologia.txt",
+          "titulo": "Casos rinología",
+          "url": "https://youtu.be/0j25YU4pw60"
+        },
+        {
+          "archivo": "causas_especificas_de_vertigo.txt",
+          "titulo": "Causas específicas de vértigo",
+          "url": "https://youtu.be/kV3z4tHiYg0"
+        },
+        {
+          "archivo": "causas_paralisis_facial_periferica.txt",
+          "titulo": "Causas parálisis facial periférica",
+          "url": "https://youtu.be/DAhrysBnLSU"
+        },
+        {
+          "archivo": "complicaciones_de_la_maigdalitis_pultacea.txt",
+          "titulo": "Complicaciones de la maigdalitis pultacea",
+          "url": "https://youtu.be/nQvlJSHP9sU"
+        },
+        {
+          "archivo": "complicaciones_de_la_otitis_media_aguda_y_cronica.txt",
+          "titulo": "Complicaciones de la otitis media aguda y crónica",
+          "url": "https://youtu.be/b0jLAa7ij4Q"
+        },
+        {
+          "archivo": "cuerpo_extrano_digestivo.txt",
+          "titulo": "Cuerpo extraño digestivo",
+          "url": "https://youtu.be/XLl8J8cnp78"
+        },
+        {
+          "archivo": "cuerpo_extrano_heridas.txt",
+          "titulo": "Cuerpo extraño heridas",
+          "url": "https://youtu.be/y8nP3Q1B6mk"
+        },
+        {
+          "archivo": "cuerpo_extrano_laringeo_y_bronquial.txt",
+          "titulo": "cuerpo extraño laringeo y bronquial",
+          "url": "https://youtu.be/EdiYRVXtA8o"
+        },
+        {
+          "archivo": "cuerpo_extrano_nasal_y_auditivo.txt",
+          "titulo": "Cuerpo extraño nasal y auditivo",
+          "url": "https://youtu.be/FLlNtpPT37Y"
+        },
+        {
+          "archivo": "disfonias_cronicas.txt",
+          "titulo": "Disfonías crónicas",
+          "url": "https://youtu.be/qfI2syIDWt4"
+        },
+        {
+          "archivo": "epistaxis.txt",
+          "titulo": "Epistaxis",
+          "url": "https://youtu.be/03zMzHHjS0A"
+        },
+        {
+          "archivo": "estridor_congenito.txt",
+          "titulo": "Estridor congénito",
+          "url": "https://youtu.be/bLF37ip00b8"
+        }
+      ]
     }
   },
-  "total": 203
+  "total": 223
 }
