@@ -650,6 +650,111 @@
           "archivo": "2_perfil_de_hierro.txt"
         }
       ]
+    },
+    "nefrologia": {
+      "total": 20,
+      "transcripciones": [
+        {
+          "titulo": "10. Glomerulonefritis y síndrome nefrítico",
+          "url": "https://youtu.be/EhInmZlOhK4",
+          "archivo": "10_glomerulonefritis_y_sindrome_nefritico.txt"
+        },
+        {
+          "titulo": "11. Tipos de Glomerulonefritis",
+          "url": "https://youtu.be/cWyDkqwRcq4",
+          "archivo": "11_tipos_de_glomerulonefritis.txt"
+        },
+        {
+          "titulo": "12. Casos de Glomerulonefritis",
+          "url": "https://youtu.be/NbqVu7OZRjI",
+          "archivo": "12_casos_de_glomerulonefritis.txt"
+        },
+        {
+          "titulo": "13. Nefritis intersticial",
+          "url": "https://youtu.be/VVPVvWYr8BU",
+          "archivo": "13_nefritis_intersticial.txt"
+        },
+        {
+          "titulo": "14. Síndrome nefrótico",
+          "url": "https://youtu.be/YfooYztY17I",
+          "archivo": "14_sindrome_nefrotico.txt"
+        },
+        {
+          "titulo": "15. Síndrome nefrótico Patologías específicas",
+          "url": "https://youtu.be/hmGL6z8f3Kg",
+          "archivo": "15_sindrome_nefrotico_patologias_especificas.txt"
+        },
+        {
+          "titulo": "16. Síndrome polidépsico poliúrico",
+          "url": "https://youtu.be/fTLL35DVWMQ",
+          "archivo": "16_sindrome_polidepsico_poliurico.txt"
+        },
+        {
+          "titulo": "17. SSIADH",
+          "url": "https://youtu.be/WROg5304kE4",
+          "archivo": "17_ssiadh.txt"
+        },
+        {
+          "titulo": "18. Trastorno hidroelectrolíticos",
+          "url": "https://youtu.be/VznOeP8XNWY",
+          "archivo": "18_trastorno_hidroelectroliticos.txt"
+        },
+        {
+          "titulo": "19. Alteraciones del sodio - Manejo",
+          "url": "https://youtu.be/O8HdCfoie88",
+          "archivo": "19_alteraciones_del_sodio__manejo.txt"
+        },
+        {
+          "titulo": "1. Conceptos de nefrología",
+          "url": "https://youtu.be/j5yhI8qo4hw",
+          "archivo": "1_conceptos_de_nefrologia.txt"
+        },
+        {
+          "titulo": "20. Alteraciones del potasio Manejo",
+          "url": "https://youtu.be/7hPHzUFzQWo",
+          "archivo": "20_alteraciones_del_potasio_manejo.txt"
+        },
+        {
+          "titulo": "21. Alteraciones del calcio estudio",
+          "url": "https://youtu.be/KyENG9jZqlI",
+          "archivo": "21_alteraciones_del_calcio_estudio.txt"
+        },
+        {
+          "titulo": "22. Alteraciones del calcio Manejo",
+          "url": "https://youtu.be/nWgQHuMnw8E",
+          "archivo": "22_alteraciones_del_calcio_manejo.txt"
+        },
+        {
+          "titulo": "23. Diureticos",
+          "url": "https://youtu.be/s9yTPJc0KC8",
+          "archivo": "23_diureticos.txt"
+        },
+        {
+          "titulo": "24. Sueroterapia",
+          "url": "https://youtu.be/ZnA5rMKmOpg",
+          "archivo": "24_sueroterapia.txt"
+        },
+        {
+          "titulo": "25. HTA",
+          "url": "https://youtu.be/ie1wnmHABSI",
+          "archivo": "25_hta.txt"
+        },
+        {
+          "titulo": "26. ANtihipertensivos",
+          "url": "https://youtu.be/jHfrAi8D9zQ",
+          "archivo": "26_antihipertensivos.txt"
+        },
+        {
+          "titulo": "27. Crisis hipertensiva",
+          "url": "https://youtu.be/40sK6_iSBb0",
+          "archivo": "27_crisis_hipertensiva.txt"
+        },
+        {
+          "titulo": "2. Insuficiencia renal aguda o crónica",
+          "url": "https://youtu.be/rKAW4f-SdcU",
+          "archivo": "2_insuficiencia_renal_aguda_o_cronica.txt"
+        }
+      ]
     }
   }
 }
