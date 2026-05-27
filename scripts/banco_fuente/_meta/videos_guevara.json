@@ -1,0 +1,4056 @@
+{
+  "Novedades": {
+    "tipo_especial": "novedades_pruebas",
+    "items": [
+      {
+        "numero": "1a",
+        "titulo": "Repaso módulo 1 prueba 70 preg N° 1",
+        "link": "https://drive.google.com/file/d/1yoj61FObVl5KweXF7mZgiafOkzbl2DsR/view?usp=sharing",
+        "solucionario": "https://drive.google.com/file/d/1eWM692yEEfG0cRgcnJcJaQG_pzObxM3W/view?usp=sharing"
+      },
+      {
+        "numero": "1b",
+        "titulo": "Repaso módulo 1 prueba 70 preg N°2",
+        "link": "https://drive.google.com/file/d/1cRUGNL0H_vlC0dPMjSWVr5iABTB_49H1/view?usp=sharing",
+        "solucionario": "Incluye"
+      },
+      {
+        "numero": "2a",
+        "titulo": "Reconstrucción eunacom 2018",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSd8Qe82bfwz7gP3OPlP4bLey-xMt9ZCvtgyc0JYajHW77bGYg/viewform?usp=sf_link",
+        "solucionario": "Forms"
+      },
+      {
+        "numero": "2b",
+        "titulo": "Prueba final módulo 2",
+        "link": "https://drive.google.com/file/d/1-XRFFx911osq6LR3ugw4HOjKUAxhUsXc/view?usp=sharing",
+        "solucionario": ""
+      },
+      {
+        "numero": "3a",
+        "titulo": "Reconstrucción eunacom 2021 parte 1",
+        "link": "https://drive.google.com/file/d/1l1CCon1X9yWWCJdReJBUnaF6YZoPAG8n/view?usp=sharing",
+        "solucionario": "Incluye"
+      },
+      {
+        "numero": "3b",
+        "titulo": "Reconstrucción eunacom 2021 parte 2",
+        "link": "https://drive.google.com/file/d/1KGxDxs5D-N5GAhQiAtW46FRAM6KiTZ6d/view?usp=sharing",
+        "solucionario": "Incluye"
+      },
+      {
+        "numero": "3c",
+        "titulo": "Prueba final módulo 3 - 1",
+        "link": "https://drive.google.com/file/d/1EVXOoHDwO5dMouuorFkhodPoa0YPbIMA/view?usp=sharing",
+        "solucionario": ""
+      },
+      {
+        "numero": "3d",
+        "titulo": "Prueba final módulo 3 - 2",
+        "link": "https://drive.google.com/file/d/1naJj1aYabD8ZSQiBRl8A8sJjX5-AxW-L/view?usp=sharing",
+        "solucionario": ""
+      },
+      {
+        "numero": "3e",
+        "titulo": "Prueba final módulo 3 - 3",
+        "link": "https://drive.google.com/file/d/1megQ2kL5LygAoO6KPkGS8-tzTdBOg7T5/view?usp=sharing",
+        "solucionario": ""
+      },
+      {
+        "numero": "3f",
+        "titulo": "Prueba final módulo 3 - 4",
+        "link": "https://drive.google.com/file/d/1eX99clxOLOCM7yqRnuYKOVd2jNQUIPRD/view?usp=sharing",
+        "solucionario": ""
+      },
+      {
+        "numero": "",
+        "titulo": "https://drive.google.com/file/d/1QQOJ0dzkgQoH8wcHRj9aKAmtL6VXuKvD/view?usp=sharing",
+        "link": "Tabla antibioticos genérica completar con el power de abajo",
+        "solucionario": ""
+      },
+      {
+        "numero": "",
+        "titulo": "https://drive.google.com/file/d/1ZPKvmDbfFft25ZMoLbbKBr9Ob53BJ0Ml/view?usp=sharing",
+        "link": "Power antibioticos más detallados",
+        "solucionario": ""
+      },
+      {
+        "numero": "",
+        "titulo": "https://drive.google.com/file/d/12SSk597NWf7LIbc6FHL1nCSjbbpCX57x/view?usp=sharing",
+        "link": "Guía insulinización chile",
+        "solucionario": ""
+      },
+      {
+        "numero": "",
+        "titulo": "https://docs.google.com/presentation/d/1gYCifGFUjauFwGrJ8_IsUHhPSy5HE7Ui/edit?usp=sharing&ouid=104638118006800996149&rtpof=true&sd=true",
+        "link": "Enfermedad IgG 4",
+        "solucionario": ""
+      },
+      {
+        "numero": "",
+        "titulo": "https://drive.google.com/file/d/1KlYu9kz5-qv_sqcsd92_171pKT49PdRk/view?usp=sharing",
+        "link": "Resumen patología pulmonar de interés",
+        "solucionario": ""
+      },
+      {
+        "numero": "",
+        "titulo": "https://drive.google.com/file/d/1FIVA5cz367MDDuvKt9Wwg16oa5ttVjn4/view?usp=sharing",
+        "link": "Enfermedad pulmonar difusa",
+        "solucionario": ""
+      },
+      {
+        "numero": "",
+        "titulo": "https://docs.google.com/presentation/d/1Z7Wzl1_rg4TsqHO0OY5fc7ZlhuFO8EDL/edit?usp=sharing&ouid=104638118006800996149&rtpof=true&sd=true",
+        "link": "TBC resumen minsal",
+        "solucionario": ""
+      },
+      {
+        "numero": "",
+        "titulo": "https://drive.google.com/file/d/14skhyZ8nTAyEUoAVzI98LeUoaHKiA5eV/view?usp=sharing",
+        "link": "TBC normatécnica 2022 actualizada",
+        "solucionario": ""
+      }
+    ]
+  },
+  "Diabetes": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "1. Tipos de diabetes",
+        "link": "https://www.youtube.com/watch?v=rIOLLeXeycQ"
+      },
+      {
+        "titulo": "2. Diagnóstico de diabetes",
+        "link": "https://www.youtube.com/watch?v=56fFStp7bhw&list=PLC9S6BRB5x8veb1VUHZGLQ6yjxMvifuXM&index=2"
+      },
+      {
+        "titulo": "3. Diagnóstico de diabetes embarazo",
+        "link": "https://www.youtube.com/watch?v=I7M0fePq5nU"
+      },
+      {
+        "titulo": "4. Generalidades insulinoterapia",
+        "link": "https://www.youtube.com/watch?v=qnhqVIqQySI&list=PLC9S6BRB5x8veb1VUHZGLQ6yjxMvifuXM&index=4"
+      },
+      {
+        "titulo": "5. Ajuste insulinoterapia",
+        "link": "https://www.youtube.com/watch?v=NlHbAVGrPeI"
+      },
+      {
+        "titulo": "6. Objetivos en el Manejo de la Diabetes Mellitus",
+        "link": "https://www.youtube.com/watch?v=nCGSzTWETDw"
+      },
+      {
+        "titulo": "7. Hipoglucemiantes Orales en la DM 2",
+        "link": "https://www.youtube.com/watch?v=-um4uscgmP4"
+      },
+      {
+        "titulo": "8. Tratamiento Diabetes Mellitus 2",
+        "link": "https://youtu.be/TK6r7zYZ_t0"
+      },
+      {
+        "titulo": "9. Tratamiento DM Gestacional - Control Glicémico",
+        "link": "https://youtu.be/YeCTj3BaRHQ"
+      },
+      {
+        "titulo": "10. Tratamiento DMG - Control Obstétrico",
+        "link": "https://youtu.be/dGRYKkXN_hA"
+      },
+      {
+        "titulo": "11. Indicaciones de Insulina",
+        "link": "https://youtu.be/Zi-avHXt2Yc"
+      },
+      {
+        "titulo": "12. Manejo de Hipertensión Arterial en Diabéticos",
+        "link": "https://youtu.be/5sgI3mLFJvQ"
+      },
+      {
+        "titulo": "13. Nefropatía Diabética",
+        "link": "https://youtu.be/M9dSXwM95jM"
+      },
+      {
+        "titulo": "14. Ejercicios - Tratamiento de Diabetes",
+        "link": "https://youtu.be/M84EHxawPo0"
+      },
+      {
+        "titulo": "15. Retinopatía Diabética",
+        "link": "https://youtu.be/B_WV5kGc4Zg"
+      },
+      {
+        "titulo": "16. Pie diabético",
+        "link": "https://youtu.be/w02nTkGz-zs"
+      },
+      {
+        "titulo": "17. Neuropatía diabética",
+        "link": "https://youtu.be/YL0TGqiYo4U"
+      },
+      {
+        "titulo": "18. Cetoacidosis diabética v/s Síndrome hiperglicémico hiperosmolar",
+        "link": "https://youtu.be/sNobpjsvvjU"
+      },
+      {
+        "titulo": "19. Tratamiento Cetoacidosis diabética y Síndrome hiperglicémico hiperosmolar",
+        "link": "https://youtu.be/ckavEru0Uns"
+      },
+      {
+        "titulo": "20. Generalidades hipoglucemias",
+        "link": "https://youtu.be/bZ66GmUk8TI"
+      },
+      {
+        "titulo": "21. Causas y Estudio de la Hipoglicemia",
+        "link": "https://youtu.be/wv3OOh5OrDU"
+      },
+      {
+        "titulo": "22. Tratamiento Dislipidemias",
+        "link": "https://youtu.be/Zfr3PH0X-s4"
+      },
+      {
+        "titulo": "23. Miopatías por Estatinas",
+        "link": "https://youtu.be/y0qtzZPR_aY"
+      },
+      {
+        "titulo": "24. Dislipidemias Genéticas",
+        "link": "https://youtu.be/p7JKjtBiExE"
+      },
+      {
+        "titulo": "1. Cuestionario diabetes: 3 Intentos 15 minutos aprobación 51 a 100%",
+        "link": "https://forms.gle/b8GNnTzHiTogjYhMA"
+      },
+      {
+        "titulo": "2. Cuestionario diabetes: 3 Intentos 15 minutos aprobación 51 a 100%",
+        "link": "https://forms.gle/HjJ1dTZjpmtW6SPq5"
+      },
+      {
+        "titulo": "3. Cuestionario diabetes: 3 Intentos 15 minutos aprobación 51 a 100%",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSfsOvl5KrgFOiwNbz6Viq6Jl0qsblW7eBzDnx2ZHMQBYcyOiQ/viewform?usp=sf_link"
+      },
+      {
+        "titulo": "Ensayo EUNACOM 180 preguntas en 3hrs 45 min, descanso 15 min en la pregunta 90",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSd8Qe82bfwz7gP3OPlP4bLey-xMt9ZCvtgyc0JYajHW77bGYg/viewform?usp=sf_link"
+      },
+      {
+        "titulo": "TALLER: - HIPERGLUCEMIA - CASOS CLÍNICOS - Dr. RAWDY | GESCONS",
+        "link": "https://www.youtube.com/watch?v=41G-8kRPDs4"
+      }
+    ]
+  },
+  "Respiratorio": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "1, Infecciones Respiratorias Altas (IRA)",
+        "link": "https://youtu.be/cgvZlJojRi0"
+      },
+      {
+        "titulo": "2. Influenza",
+        "link": "https://youtu.be/F-fwFoNvtcY"
+      },
+      {
+        "titulo": "3. COVID 19",
+        "link": "https://youtu.be/fmHNERu230o"
+      },
+      {
+        "titulo": "4. Otras infecciones respiratorias virales",
+        "link": "https://youtu.be/RBp4UxTUoh0"
+      },
+      {
+        "titulo": "5. Síndrome Bronquial Obstructivo (SBO)",
+        "link": "https://youtu.be/Itx68JRe-RQ"
+      },
+      {
+        "titulo": "6. Manejo SBO",
+        "link": "https://youtu.be/ZtUi5PIZToU"
+      },
+      {
+        "titulo": "7. Score de Tal",
+        "link": "https://youtu.be/8OT7OjqUpdE"
+      },
+      {
+        "titulo": "8. SBOR",
+        "link": "https://youtu.be/M6wxhgFFYFU"
+      },
+      {
+        "titulo": "9. SBOR Secundario",
+        "link": "https://youtu.be/-Y7ri-TT8oc"
+      },
+      {
+        "titulo": "10. Coqueluche",
+        "link": "https://youtu.be/SgaczSWRavw"
+      },
+      {
+        "titulo": "11. Manejo de Contastos de Coqueluche",
+        "link": "https://youtu.be/bm_v5qF87YE"
+      },
+      {
+        "titulo": "12. NAC",
+        "link": "https://youtu.be/e61gbRB266k"
+      },
+      {
+        "titulo": "13. Elección de Antibióticos en Neumonía Bacteriana",
+        "link": "https://youtu.be/TWkI1dVrPxE"
+      },
+      {
+        "titulo": "14. Absceso Pulmonar",
+        "link": "https://youtu.be/DF6p81X_dig"
+      },
+      {
+        "titulo": "15. Neumonía Atípica",
+        "link": "https://youtu.be/YGXDUlCT8zg"
+      },
+      {
+        "titulo": "16. Neumonía por Pneumocystis Jirovecii",
+        "link": "https://youtu.be/bH6kz0EYafY"
+      },
+      {
+        "titulo": "17. Neumonía Viral",
+        "link": "https://youtu.be/_QMSveCHU_0"
+      },
+      {
+        "titulo": "18. Radiografía de Tórax en infecciones",
+        "link": "https://youtu.be/3gFxX7lZWEc"
+      },
+      {
+        "titulo": "19. SAHOS",
+        "link": "https://youtu.be/4akjCL2iVK0"
+      },
+      {
+        "titulo": "20. Intoxicación por Monóxido de Carbono (CO)",
+        "link": "https://youtu.be/e-Qh87FXMF8"
+      },
+      {
+        "titulo": "21. Asfixia por Inmersión",
+        "link": "https://youtu.be/UVDttltpJPc"
+      },
+      {
+        "titulo": "22. ASMA. Clínica y Diagnóstico",
+        "link": "https://youtu.be/ycClXEfTDGc"
+      },
+      {
+        "titulo": "23. Fármacos para ASMA y EPOC - Generalidades",
+        "link": "https://youtu.be/JDrpq9a-1Jw"
+      },
+      {
+        "titulo": "24. Manejo Crónico del Asma",
+        "link": "https://youtu.be/P1dKCohh-s0"
+      },
+      {
+        "titulo": "25. Manejo de Crisis de ASMA",
+        "link": "https://youtu.be/J_5tzCSNiNI"
+      },
+      {
+        "titulo": "26. EPOC",
+        "link": "https://youtu.be/6WBIAhXHDoc"
+      },
+      {
+        "titulo": "27. Manejo Crónico del EPOC",
+        "link": "https://youtu.be/UpLMyt5iu3Q"
+      },
+      {
+        "titulo": "28. Manejo del EPOC descompensado",
+        "link": "https://youtu.be/2ee3zrGoTJE"
+      },
+      {
+        "titulo": "29. Diferencias manejo ASMA vs EPOC",
+        "link": "https://youtu.be/fSasjhb8ucU"
+      },
+      {
+        "titulo": "30. Espirometría",
+        "link": "https://youtu.be/BfCBnWKVguM"
+      },
+      {
+        "titulo": "31. Ejercicios Espirometría",
+        "link": "https://youtu.be/bGdSzFircX0"
+      },
+      {
+        "titulo": "32. Gasometría arterial Parte 1: Función respiratoria",
+        "link": "https://youtu.be/_KkxTqurEng"
+      },
+      {
+        "titulo": "33. Gasometría Arterial Venosa ärte 2: Ácido Base",
+        "link": "https://youtu.be/S6gBUOaokGM"
+      },
+      {
+        "titulo": "34. Ejercicios: Gases - Ácido Base",
+        "link": "https://youtu.be/2ob85EFqie8"
+      },
+      {
+        "titulo": "35. Trombosis Venosa Profunda -TVP",
+        "link": "https://youtu.be/xWnLO8RrSb4"
+      },
+      {
+        "titulo": "36. Tromboembolismo Pulmonar - TEP",
+        "link": "https://youtu.be/V_gGlFbf8uI"
+      },
+      {
+        "titulo": "37. Tromboembolismo Pulmonar Masivo",
+        "link": "https://youtu.be/EvYFqXVfRsE"
+      },
+      {
+        "titulo": "38. Detalles en Tromboembolía Pulmonar",
+        "link": "https://youtu.be/fwLrKRrAQ3w"
+      },
+      {
+        "titulo": "39. Insuficiencia Venosa- Extremidades Inferiores",
+        "link": "https://youtu.be/JaF93oossfI"
+      },
+      {
+        "titulo": "40. Derrame Pleural",
+        "link": "https://youtu.be/Y7btDl3OQ0Y"
+      },
+      {
+        "titulo": "41. Edema Pulmonar Aguda",
+        "link": "https://youtu.be/Xx6BlOBgWyw"
+      },
+      {
+        "titulo": "42. Nódulo Pulmonar / Ca Pulmonar/ Bronquitis crónica/ Bronquiectasias / Hemoptisis",
+        "link": "https://youtu.be/tXxRAWyGxHs"
+      },
+      {
+        "titulo": "43. neumotórax / Trauma de Tórax / Hemotórax / Mediastinitis",
+        "link": "https://youtu.be/eadQdmWIPu0"
+      },
+      {
+        "titulo": "44. Enfermedades intersticiales / Neumoconiosis/ HTP / COR pulmonar",
+        "link": "https://youtu.be/Z9igVl2yd_s"
+      },
+      {
+        "titulo": "45. Tuberculosis",
+        "link": "https://youtu.be/xil1xqHanSU"
+      },
+      {
+        "titulo": "46. Tabaquismo",
+        "link": "https://youtu.be/KNZztvbdFD4"
+      },
+      {
+        "titulo": "47. Amigdalitis aguda",
+        "link": "https://youtu.be/Lo5fTXCeth0"
+      },
+      {
+        "titulo": "48. Casos de amigdalitis",
+        "link": "https://youtu.be/4oKIcD-Uxlg"
+      },
+      {
+        "titulo": "49. Complicaciones de la Amigdalitis Pultácea",
+        "link": "https://youtu.be/pF2rKd0yN0Y"
+      },
+      {
+        "titulo": "50. Amigdalectomía",
+        "link": "https://youtu.be/deMT_quecgo"
+      },
+      {
+        "titulo": "51. Hipertrofia Adenoides",
+        "link": "https://youtu.be/2Bq16GIGRck"
+      },
+      {
+        "titulo": "52. Respirador Bucal",
+        "link": "https://youtu.be/VSy0EBMWKpI"
+      },
+      {
+        "titulo": "53. Cancer de cabeza y cuello",
+        "link": "https://youtu.be/IBlzTODbWPw"
+      },
+      {
+        "titulo": "54. Cancer de Faringe y laringe",
+        "link": "https://youtu.be/WR-081b_jgg"
+      },
+      {
+        "titulo": "55. Cáncer Nasosinusal y de boca",
+        "link": "https://youtu.be/yjqgbeu1UY8"
+      },
+      {
+        "titulo": "56. Generalidades Cuerpo Extraño",
+        "link": "https://youtu.be/m2LFRL5jWyo"
+      },
+      {
+        "titulo": "57. Cuerpo extraño laríngeo y Bronquial",
+        "link": "https://youtu.be/mEyj2dI-ttg"
+      },
+      {
+        "titulo": "58. Estridor Congénito",
+        "link": "https://youtu.be/oU_5IvaN8qg"
+      },
+      {
+        "titulo": "59. Disfonías Crónicas",
+        "link": "https://youtu.be/iktdnhy5fls"
+      },
+      {
+        "titulo": "60. Laringitis aguda",
+        "link": "https://youtu.be/GrcLYOYaMu8"
+      },
+      {
+        "titulo": "61. Otras causas de disfonía aguda",
+        "link": "https://youtu.be/djhibZ2_ZGc"
+      },
+      {
+        "titulo": "62. sinusitis",
+        "link": "https://youtu.be/CzG2bswcojA"
+      },
+      {
+        "titulo": "63. Rinitis",
+        "link": "https://youtu.be/rJRFwOl3CTk"
+      },
+      {
+        "titulo": "64. Manejo Rinits Alergica (RA)",
+        "link": "https://youtu.be/nNm0q8B6DJM"
+      },
+      {
+        "titulo": "65. Rinitis no Alérgicas",
+        "link": "https://youtu.be/44sqfC2NpCM"
+      },
+      {
+        "titulo": "66. Prick Test",
+        "link": "https://youtu.be/Nabhyw33Ahc"
+      },
+      {
+        "titulo": "67. Terapia Biológica en Alergias Graves",
+        "link": "https://youtu.be/OXGOvvlkZrg"
+      },
+      {
+        "titulo": "68. Alergias y Resistencia a la Penicilina",
+        "link": "https://youtu.be/uZ2xhpcmLfQ"
+      },
+      {
+        "titulo": "1. 2.1 Cuestionario Respiratorio",
+        "link": "https://forms.gle/bQNgWMAnxpFESBs76"
+      },
+      {
+        "titulo": "2. 2.2 Cuestionario Respiratorio",
+        "link": "https://forms.gle/TuhHhF76eN8kNSbi9"
+      },
+      {
+        "titulo": "3. 2.3 Cuestionario Respiratorio",
+        "link": "https://forms.gle/XstrKP4bbTQeGrYT9"
+      },
+      {
+        "titulo": "4. 2.4 Cuestionario Respiratorio",
+        "link": "https://forms.gle/iJoGmgezHYWBv8n8A"
+      },
+      {
+        "titulo": "5. 2.5 Cuestionario Respiratorio",
+        "link": "https://forms.gle/cAxA1xmysa4x3iNP8"
+      },
+      {
+        "titulo": "6. 2.6 Cuestionario Respiratorio",
+        "link": "https://forms.gle/qjDM3shpR4gqmez89"
+      },
+      {
+        "titulo": "7. 2.7 Cuestionario Respiratorio",
+        "link": "https://forms.gle/kahKdVw6BcRTPzXN8"
+      },
+      {
+        "titulo": "RESUMEN Semiología respiratoria y Gases by Guevara",
+        "link": "https://drive.google.com/file/d/1LKILhN7XacAqRQjvnpnaSbNN6a9DCa3J/view?usp=sharing"
+      },
+      {
+        "titulo": "Resumen Tuberculosis By Guevara",
+        "link": "https://drive.google.com/file/d/1z5rqDJNdVCFMI6RYhTm4H_nIYnX6225o/view?usp=sharing"
+      },
+      {
+        "titulo": "Prueba 70 Preguntas",
+        "link": "https://drive.google.com/file/d/1yoj61FObVl5KweXF7mZgiafOkzbl2DsR/view?usp=sharing"
+      },
+      {
+        "titulo": "Clase y taller de espirometría de 2 hrs",
+        "link": "https://www.youtube.com/watch?v=jyNYQAvbPGI&t=2544s"
+      }
+    ]
+  },
+  "Gastro": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "1. Trastornos digestivos funcionales y signos de alarma",
+        "link": "https://youtu.be/Xehji1yfHec"
+      },
+      {
+        "titulo": "2. Diarrea aguda / Diarrea crónica / C. Difficile / Constipación",
+        "link": "https://youtu.be/kZgzgNHkQFk"
+      },
+      {
+        "titulo": "3. Malabsorción intestinal / Enfermedad celíaca / Intolerancia a la lactosa / Galactosemia",
+        "link": "https://youtu.be/lQko8rSp4Q8"
+      },
+      {
+        "titulo": "4. Enfermedad inflamatoria intestinal",
+        "link": "https://youtu.be/LvAhZEpNuzM"
+      },
+      {
+        "titulo": "5. Hemorragia digestiva: HDA y HDB",
+        "link": "https://youtu.be/BLa-H_Jz2O4"
+      },
+      {
+        "titulo": "6. DIsfagia",
+        "link": "https://youtu.be/JhdxLol3ip0"
+      },
+      {
+        "titulo": "7. RGE / UGD / Dispepsia funcional / H Pylori",
+        "link": "https://youtu.be/M4oAucKncD8"
+      },
+      {
+        "titulo": "8. Úlcera perforada / Perforación esofágica / Ingesta de soda cáustica",
+        "link": "https://youtu.be/8tMZ1dKBqkw"
+      },
+      {
+        "titulo": "9, Cáncer de esófago/ Ca gástrico / Ca de colon/ Ca de recto",
+        "link": "https://youtu.be/HkkzEKo399Q"
+      },
+      {
+        "titulo": "10. Ictericia",
+        "link": "https://youtu.be/C9_gOzYW34g"
+      },
+      {
+        "titulo": "11. Hepatitis aguda y Crónica",
+        "link": "https://youtu.be/kN9gCf5PU3o"
+      },
+      {
+        "titulo": "12. Daño hepático crónico ** >>>>>",
+        "link": "https://youtu.be/2NIN6p2AEvI"
+      },
+      {
+        "titulo": "13. Pancreatitis aguda y crónica",
+        "link": "https://youtu.be/UVlw0SfEa_M"
+      },
+      {
+        "titulo": "14. Lesiones hepáticas",
+        "link": "https://youtu.be/GidXiwz1AYM"
+      },
+      {
+        "titulo": "15. Abdomen agudo",
+        "link": "https://youtu.be/ILNK6wKZ6kY"
+      },
+      {
+        "titulo": "16. Patología biliar",
+        "link": "https://youtu.be/ZatVsoVab_k"
+      },
+      {
+        "titulo": "17. Abdomen agudo de origen vascular",
+        "link": "https://youtu.be/2fKoQhGDZ4k"
+      },
+      {
+        "titulo": "18. Hernia Hiatal/ Hernia diafragmática/ Tumor mediastínico",
+        "link": "https://youtu.be/F-XmfKqHH4c"
+      },
+      {
+        "titulo": "19. Patología perianal",
+        "link": "https://youtu.be/ndrUm_TYPqc"
+      },
+      {
+        "titulo": "20. Trauma abdominal y torácico",
+        "link": "https://youtu.be/t3U6x7rC-H0"
+      },
+      {
+        "titulo": "21. Cuerpo Extraño Digestivo",
+        "link": "https://youtu.be/f7n33YmO1Bc"
+      },
+      {
+        "titulo": "22. Diarrea en niños",
+        "link": "https://youtu.be/NF5L7C3dYT4"
+      },
+      {
+        "titulo": "23. Reflujo lactante/ Dolor abdominal crónico en niños/ Constipación en niños / Fecaloma",
+        "link": "https://youtu.be/tx_UHTqY0A8"
+      },
+      {
+        "titulo": "24. Cirugía Pediátrica 1",
+        "link": "https://youtu.be/AHBT0J6N8oY"
+      },
+      {
+        "titulo": "25. Cirugía pediátrica 2",
+        "link": "https://youtu.be/x5CvNGsVeaQ"
+      },
+      {
+        "titulo": "1. 3. 1 Cuestionario Gastroenterología",
+        "link": "https://forms.gle/JuLXtBMLa74jWGDa6"
+      },
+      {
+        "titulo": "2. 3. 2 Cuestionario Gastroenterología",
+        "link": "https://forms.gle/JuLXtBMLa74jWGDa7"
+      },
+      {
+        "titulo": "3. 3. 3 Cuestionario Gastroenterología",
+        "link": "https://forms.gle/JuLXtBMLa74jWGDa8"
+      },
+      {
+        "titulo": "4. 3. 4 Cuestionario Gastroenterología",
+        "link": "https://forms.gle/JuLXtBMLa74jWGDa9"
+      },
+      {
+        "titulo": "5. 3. 5 Cuestionario Gastroenterología",
+        "link": "https://forms.gle/JuLXtBMLa74jWGDa10"
+      },
+      {
+        "titulo": "6. 3. 6 Cuestionario Gastroenterología",
+        "link": "https://forms.gle/JuLXtBMLa74jWGDa11"
+      },
+      {
+        "titulo": "Extras",
+        "link": "https://forms.gle/JuLXtBMLa74jWGDa12"
+      }
+    ]
+  },
+  "Hemato": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "1. Anemia Generalidades",
+        "link": "https://youtu.be/72I5RBPWcjk"
+      },
+      {
+        "titulo": "2. Perfil de Hierro",
+        "link": "https://youtu.be/Axrqs1_PBHg",
+        "comentario": "Tina con hierro son reservas, Transferrina lleva hierro como el transantiago cuando está con enfermedades crónicas lleva pocos pasajeros, hepcidina aumenta en enfermedades crónicas"
+      },
+      {
+        "titulo": "3. Anemia Ferropénica",
+        "link": "https://youtu.be/64HF9dLwC1Q",
+        "comentario": "Chico y mal hecho, desteñidos"
+      },
+      {
+        "titulo": "4. Anemia por enfermedades crónicas",
+        "link": "https://youtu.be/Z3yU6Wdzndw",
+        "comentario": "Pasa piola"
+      },
+      {
+        "titulo": "5. Anemia Hemolítica",
+        "link": "https://youtu.be/IcLqR_e8n5o",
+        "comentario": "Bilirrubina hidrofóbica, esquistocitos, LDH, Coombs"
+      },
+      {
+        "titulo": "6. Anemia por deficit de folatos",
+        "link": "https://youtu.be/jV2I0dvqOn4",
+        "comentario": "Grandes y deformes, neutrofilo hipersegmentado y pancito"
+      },
+      {
+        "titulo": "7. Hemoglobinopatías",
+        "link": "https://youtu.be/xxjXnSOVs4o",
+        "comentario": "Talasemia: chicos pero muchos ferritina alta. -"
+      },
+      {
+        "titulo": "8. Anemia en ERC",
+        "link": "https://youtu.be/7YJV7Z2l1M0"
+      },
+      {
+        "titulo": "9. Indicaciones de transfusión en anemias",
+        "link": "https://youtu.be/7CgM_2ZhVw4"
+      },
+      {
+        "titulo": "10. Anemia en niños",
+        "link": "https://youtu.be/wuUzy8PoX5E"
+      },
+      {
+        "titulo": "11. Alteraciones de la hemostasia generalidades",
+        "link": "https://youtu.be/Iw6DNUaYfCE"
+      },
+      {
+        "titulo": "12. Purpura",
+        "link": "https://www.youtube.com/watch?v=gKiag44z9_o"
+      },
+      {
+        "titulo": "13. Purpura trombocitopénica inmune PTI",
+        "link": "https://www.youtube.com/watch?v=WSh4b7gFHdo"
+      },
+      {
+        "titulo": "14. Púrpura trombocitopenica Trombótica PTT",
+        "link": "https://www.youtube.com/watch?v=_ZIF0r-8z2c"
+      },
+      {
+        "titulo": "15. Púrpura de Schönlein Henoch",
+        "link": "https://www.youtube.com/watch?v=8Nu7Y_SR78Q"
+      },
+      {
+        "titulo": "16. Patologías geneticas de la hemostasia primarias",
+        "link": "https://www.youtube.com/watch?v=BpVGGoHgj5k"
+      },
+      {
+        "titulo": "17. Hemofilia",
+        "link": "https://www.youtube.com/watch?v=rt9jaKNYWeg"
+      },
+      {
+        "titulo": "18. Coagulación intravascular diseminada CID",
+        "link": "https://www.youtube.com/watch?v=aBAjKgI6nV4"
+      },
+      {
+        "titulo": "19. Hemograma en infecciones y reacción leuquemoide",
+        "link": "https://www.youtube.com/watch?v=kHhWGEyzhf0"
+      },
+      {
+        "titulo": "20. Trombocitosis reactiva",
+        "link": "https://www.youtube.com/watch?v=e0Bds1UcnXI"
+      },
+      {
+        "titulo": "21. Nociones en cáncer hematológico",
+        "link": "https://www.youtube.com/watch?v=kPsQXaas1OE"
+      },
+      {
+        "titulo": "22. Conceptos semiológicos en el cáncer hematológico",
+        "link": "https://www.youtube.com/watch?v=3oNFez79JPQ"
+      },
+      {
+        "titulo": "23. Leucemias",
+        "link": "https://www.youtube.com/watch?v=EMbcS5SOveI"
+      },
+      {
+        "titulo": "24. Leucemias 2",
+        "link": "https://www.youtube.com/watch?v=T2HhG0-W1WA"
+      },
+      {
+        "titulo": "25. Linfomas",
+        "link": "https://www.youtube.com/watch?v=m0IgYLDtwHM"
+      },
+      {
+        "titulo": "26. Sindrome mieloproliferativos",
+        "link": "https://www.youtube.com/watch?v=NHhSd1JDg8I"
+      },
+      {
+        "titulo": "27. Mielodisplasia",
+        "link": "https://www.youtube.com/watch?v=vL8MUJqG8qs"
+      },
+      {
+        "titulo": "28. Pancitopenia",
+        "link": "https://www.youtube.com/watch?v=Et4ub_cZXoE"
+      },
+      {
+        "titulo": "29. Gamapatias monoclonales",
+        "link": "https://www.youtube.com/watch?v=KcqJyKL0Ds0"
+      },
+      {
+        "titulo": "30. Urgencias Oncológicas",
+        "link": "https://www.youtube.com/watch?v=_pTUsKCS4UE"
+      },
+      {
+        "titulo": "4.1 Cuestionario Hematología",
+        "link": "https://drive.google.com/file/d/16Br6NdLr9q63MFgErUCsodRi10mmwpIK/view?usp=sharing",
+        "comentario": "https://drive.google.com/file/d/1y6LuHIhJy-W1XPB9tIl0CpxtopOwRCOC/view?usp=sharing"
+      },
+      {
+        "titulo": "4.2 Cuestionario Hematología",
+        "link": "https://drive.google.com/file/d/1dkLlZByCN7tucqGN1zoAyZl071G7fNLD/view?usp=sharing",
+        "comentario": "https://drive.google.com/file/d/1Oe2j_Ys3txOzgPBiorwwNuh9i1wLEgz1/view?usp=sharing"
+      },
+      {
+        "titulo": "4.3 Cuestionario Hematología",
+        "link": "https://drive.google.com/file/d/1FJu7Wer964TtY41sKtSLolspL40tVrDr/view?usp=sharing",
+        "comentario": "https://drive.google.com/file/d/1dQFXL27G5Qp_N4WUreh_wTrkG6pEUhn-/view?usp=sharing"
+      },
+      {
+        "titulo": "4.4 Cuestionario Hematología",
+        "link": "https://drive.google.com/file/d/12aKX0NKW20_ieZDSpPOzVU2FkYRYhNeC/view?usp=sharing",
+        "comentario": "https://drive.google.com/file/d/1CdCinCPMuhbZHfYI6A1niSmLpIDIxIoq/view?usp=sharing"
+      },
+      {
+        "titulo": "4.5 Cuestionario Hematología",
+        "link": "https://drive.google.com/file/d/1_Wz928Nx17h_QIFeA__3zp3FHKvb5Dsj/view?usp=sharing",
+        "comentario": "https://drive.google.com/file/d/1Pz0zsW6u_bMpAjIvBrVYkAgZqJBYl2v0/view?usp=sharing"
+      },
+      {
+        "titulo": "4.6 Cuestionario Hematología",
+        "link": "https://drive.google.com/file/d/1d6qVxN2Tqq_WU5mIbdHOfPBulm4vM4hL/view?usp=sharing",
+        "comentario": "https://drive.google.com/file/d/1nNAzfeR1-Ovsk1eEx6B_wvs_kbHgucAd/view?usp=sharing"
+      },
+      {
+        "titulo": "4.7 Cuestionario Hematología",
+        "link": "https://drive.google.com/file/d/1lx1Du_i4sg8ZxKTIqSZIE-iWrmRHpFz5/view?usp=sharing",
+        "comentario": "https://drive.google.com/file/d/1ih6PDg3T7dME6W-gw0LJio3h2HbDN-Hc/view?usp=sharing"
+      },
+      {
+        "titulo": "4.8Cuestionario Hematología",
+        "link": "https://drive.google.com/file/d/17l2K_HabYZBn3UiVh6bOHuAcVUpOadsA/view?usp=sharing",
+        "comentario": "https://drive.google.com/file/d/1ctlbB24qwbWGA9PZt4jnCed4dPeAStPZ/view?usp=sharing"
+      },
+      {
+        "titulo": "Ejercicios de hemogramas",
+        "link": "https://drive.google.com/file/d/1ho0AGKmq1IVtuYaMNzCytqQtdVt3oOmY/view?usp=sharing"
+      }
+    ]
+  },
+  "Nefro": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "1. Conceptos de nefrología",
+        "link": "https://www.youtube.com/watch?v=j5yhI8qo4hw"
+      },
+      {
+        "titulo": "2. Insuficiencia renal aguda o crónica",
+        "link": "https://youtu.be/rKAW4f-SdcU"
+      },
+      {
+        "titulo": "3. Insuficiencia renal aguda",
+        "link": "https://www.youtube.com/watch?v=KYVXC-xPNx8"
+      },
+      {
+        "titulo": "4. Necrosis tubular aguda (NTA)",
+        "link": "https://www.youtube.com/watch?v=2zG13MhMVzQ"
+      },
+      {
+        "titulo": "5. CIlindros en sedimento urinario (Nociones)",
+        "link": "https://www.youtube.com/watch?v=kUEURQ9-hHQ"
+      },
+      {
+        "titulo": "6. Síndrome hemolítico urémico (SHU)",
+        "link": "https://www.youtube.com/watch?v=Uns9e1poPbk"
+      },
+      {
+        "titulo": "7. Insuficiencia renal crónica.",
+        "link": "https://www.youtube.com/watch?v=UmQ8LGqws6w"
+      },
+      {
+        "titulo": "8. Hipertensión e hipervolemia en la ERC",
+        "link": "https://www.youtube.com/watch?v=EnFjqV0445U"
+      },
+      {
+        "titulo": "9. Hiperparatiroidismo secundario a la ERC",
+        "link": "https://www.youtube.com/watch?v=G3znXyIphbc"
+      },
+      {
+        "titulo": "10. Glomerulonefritis y síndrome nefrítico",
+        "link": "https://www.youtube.com/watch?v=EhInmZlOhK4"
+      },
+      {
+        "titulo": "11. Tipos de Glomerulonefritis",
+        "link": "https://www.youtube.com/watch?v=cWyDkqwRcq4"
+      },
+      {
+        "titulo": "12. Casos de Glomerulonefritis",
+        "link": "https://www.youtube.com/watch?v=NbqVu7OZRjI"
+      },
+      {
+        "titulo": "13. Nefritis intersticial",
+        "link": "https://www.youtube.com/watch?v=VVPVvWYr8BU"
+      },
+      {
+        "titulo": "14. Síndrome nefrótico",
+        "link": "https://www.youtube.com/watch?v=YfooYztY17I"
+      },
+      {
+        "titulo": "15. Síndrome nefrótico Patologías específicas",
+        "link": "https://www.youtube.com/watch?v=hmGL6z8f3Kg"
+      },
+      {
+        "titulo": "16. Síndrome polidépsico poliúrico",
+        "link": "https://www.youtube.com/watch?v=fTLL35DVWMQ"
+      },
+      {
+        "titulo": "17. SSIADH",
+        "link": "https://www.youtube.com/watch?v=WROg5304kE4"
+      },
+      {
+        "titulo": "18. Trastorno hidroelectrolíticos",
+        "link": "https://www.youtube.com/watch?v=VznOeP8XNWY"
+      },
+      {
+        "titulo": "19. Alteraciones del sodio - Manejo",
+        "link": "https://www.youtube.com/watch?v=O8HdCfoie88"
+      },
+      {
+        "titulo": "20. Alteraciones del potasio Manejo",
+        "link": "https://www.youtube.com/watch?v=7hPHzUFzQWo"
+      },
+      {
+        "titulo": "21. Alteraciones del calcio estudio",
+        "link": "https://www.youtube.com/watch?v=KyENG9jZqlI"
+      },
+      {
+        "titulo": "22. Alteraciones del calcio Manejo",
+        "link": "https://www.youtube.com/watch?v=nWgQHuMnw8E"
+      },
+      {
+        "titulo": "23. Diureticos",
+        "link": "https://www.youtube.com/watch?v=s9yTPJc0KC8"
+      },
+      {
+        "titulo": "24. Sueroterapia",
+        "link": "https://www.youtube.com/watch?v=ZnA5rMKmOpg"
+      },
+      {
+        "titulo": "25. HTA",
+        "link": "https://www.youtube.com/watch?v=ie1wnmHABSI"
+      },
+      {
+        "titulo": "26. ANtihipertensivos",
+        "link": "https://www.youtube.com/watch?v=jHfrAi8D9zQ"
+      },
+      {
+        "titulo": "27. Crisis hipertensiva",
+        "link": "https://www.youtube.com/watch?v=40sK6_iSBb0"
+      },
+      {
+        "titulo": "28. HTA secundaria",
+        "link": "https://www.youtube.com/watch?v=YaR0dAVcppw"
+      },
+      {
+        "titulo": "29. DIsplasia fibromuscular",
+        "link": "https://www.youtube.com/watch?v=KjEUrsG9dEE"
+      },
+      {
+        "titulo": "30. Cardiopatía hipertensiva",
+        "link": "https://www.youtube.com/watch?v=35XwMeJnEps"
+      },
+      {
+        "titulo": "31. HTA en niños",
+        "link": "https://www.youtube.com/watch?v=bSNbIEFDI04"
+      },
+      {
+        "titulo": "32. ITU diagnóstico",
+        "link": "https://www.youtube.com/watch?v=-0QIGpv_aPs"
+      },
+      {
+        "titulo": "33. ITU tratamiento",
+        "link": "https://www.youtube.com/watch?v=tBQCMHZ0ijc"
+      },
+      {
+        "titulo": "34. ITU embarazo",
+        "link": "https://www.youtube.com/watch?v=e9qSMln-Ths"
+      },
+      {
+        "titulo": "35. ITU niños",
+        "link": "https://www.youtube.com/watch?v=aQWQ2CQfygs"
+      },
+      {
+        "titulo": "36. ITU en usuarios de sonda vensical",
+        "link": "https://www.youtube.com/watch?v=gZCQxZrRTC8"
+      },
+      {
+        "titulo": "5. 1 Cuestionario Nefrologia",
+        "link": "https://drive.google.com/file/d/1f1yADQ-EU2ure-qPspShobpVEPYjHSPG/view?usp=sharing"
+      },
+      {
+        "titulo": "5. 2 Cuestionario Nefrologia",
+        "link": "https://drive.google.com/file/d/1MrSdOxt3uaEUcd-KGgg3dGhAeUM6B0u_/view?usp=sharing"
+      },
+      {
+        "titulo": "5. 3 Cuestionario Nefrologia",
+        "link": "https://drive.google.com/file/d/1rDdZD5hBqM2fMRzDSDNVp3Z2VZq4DOz8/view?usp=sharing"
+      },
+      {
+        "titulo": "5. 4 Cuestionario Nefrologia",
+        "link": "https://drive.google.com/file/d/1atZ4QL-IBFsfrlX7Eg9E4AaG7O-fuTi9/view?usp=sharing"
+      },
+      {
+        "titulo": "5. 5 Cuestionario Nefrologia",
+        "link": "https://drive.google.com/file/d/1g9SFlPwNaVAimBKgSnjjG-JREBUp2tfQ/view?usp=sharing"
+      },
+      {
+        "titulo": "5. 6 Cuestionario Nefrologia",
+        "link": "https://drive.google.com/file/d/1uzgPyZQO7pi_3FV-AKl09dbmDiwkOtsW/view?usp=sharing"
+      },
+      {
+        "titulo": "5. 7 Cuestionario Nefrologia",
+        "link": "https://drive.google.com/file/d/1xOQ_cOXdDk0Vz_Dd9iQwVz5LQLdQsbOv/view?usp=sharing"
+      },
+      {
+        "titulo": "5. 8 Cuestionario Nefrologia",
+        "link": "https://drive.google.com/file/d/1TM74y8_WraxKXSONN5ZGcFGHmTu-WxvG/view?usp=sharing"
+      },
+      {
+        "titulo": "Resumen tratamiento farmacológico HTA",
+        "link": "https://drive.google.com/file/d/10U1yKES9NixyMNBJASrzAoeZe3aBBANE/view?usp=sharing"
+      },
+      {
+        "titulo": "Resumen nefrología",
+        "link": "https://drive.google.com/file/d/1PX26ucgI1S_x6V0ETyxh8rERUAoq7hBa/view?usp=sharing"
+      }
+    ]
+  },
+  "Reuma": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "1 esquemas generales de reumatología",
+        "link": "https://www.youtube.com/watch?v=cyzSnfYYb74"
+      },
+      {
+        "titulo": "2 resumen marcadores reumatologia",
+        "link": "https://www.youtube.com/watch?v=MAn3uw9O8uo"
+      },
+      {
+        "titulo": "3 casos marcadores reumatología",
+        "link": "https://www.youtube.com/watch?v=udNxv9Xgh2U"
+      },
+      {
+        "titulo": "4 monoartritis aguda enfrentamiento diagnóstico",
+        "link": "https://www.youtube.com/watch?v=Aj7ZnVmnnvk"
+      },
+      {
+        "titulo": "5, artritis por cristales",
+        "link": "https://www.youtube.com/watch?v=DN6gZEQSy5k"
+      },
+      {
+        "titulo": "6 artritis séptica",
+        "link": "https://www.youtube.com/watch?v=hiCxgs0YmNg"
+      },
+      {
+        "titulo": "7 artrosis",
+        "link": "https://www.youtube.com/watch?v=bsk4QRj6P_I"
+      },
+      {
+        "titulo": "8 artritis reumatoide clínica y diagnóstico",
+        "link": "https://www.youtube.com/watch?v=SDdREW-ModM"
+      },
+      {
+        "titulo": "9 AR tratamiento",
+        "link": "https://www.youtube.com/watch?v=ZWE7GMnJrRI"
+      },
+      {
+        "titulo": "10 AR vs artrosis",
+        "link": "https://www.youtube.com/watch?v=UOLP24GTVKo"
+      },
+      {
+        "titulo": "11 Artritis juvenil idiopática o enfermedad de still",
+        "link": "https://www.youtube.com/watch?v=4sLSwdn28IY"
+      },
+      {
+        "titulo": "12 lupus eritematoso sistémico",
+        "link": "https://www.youtube.com/watch?v=0uzCHaq-qEo"
+      },
+      {
+        "titulo": "13 lupus cutáneo subagudo y crónico",
+        "link": "https://www.youtube.com/watch?v=ZZ66rZv3X7g"
+      },
+      {
+        "titulo": "14 síndrome antifosfolípidos",
+        "link": "https://www.youtube.com/watch?v=swDh3yXU26c"
+      },
+      {
+        "titulo": "15 polimiositis y dermatomiositis",
+        "link": "https://www.youtube.com/watch?v=2mE3Z1JFZnI"
+      },
+      {
+        "titulo": "16 otras miopatías",
+        "link": "https://www.youtube.com/watch?v=Bmi_viNwj3o"
+      },
+      {
+        "titulo": "17 esclerodermia",
+        "link": "https://www.youtube.com/watch?v=pXfZZO-6mtM"
+      },
+      {
+        "titulo": "18 fenómeno de raynaud",
+        "link": "https://www.youtube.com/watch?v=JJwVSw1-g70"
+      },
+      {
+        "titulo": "19 sindrome de sjorgen",
+        "link": "https://www.youtube.com/watch?v=CBZGVIHXPDw"
+      },
+      {
+        "titulo": "20 enfermedad mixta del tejido conectivo",
+        "link": "https://www.youtube.com/watch?v=QtxPD4PngqA"
+      },
+      {
+        "titulo": "21 fibromialgia",
+        "link": "https://www.youtube.com/watch?v=hto4w7cNd94"
+      },
+      {
+        "titulo": "22 enfermedades reumatológicos en niños",
+        "link": "https://www.youtube.com/watch?v=gso2xeizB10"
+      },
+      {
+        "titulo": "23 esquemas vasculitis",
+        "link": "https://www.youtube.com/watch?v=XlDOD16xqbE"
+      },
+      {
+        "titulo": "24 arteritis de células gigantes",
+        "link": "https://www.youtube.com/watch?v=dB7GfA04kXo"
+      },
+      {
+        "titulo": "25 arteritis de takayasu",
+        "link": "https://www.youtube.com/watch?v=uR6HLPIAhQI"
+      },
+      {
+        "titulo": "26 enfermedad de kawasaki",
+        "link": "https://www.youtube.com/watch?v=tVC_oCveS8U"
+      },
+      {
+        "titulo": "27 Poliarteritis nodosa",
+        "link": "https://www.youtube.com/watch?v=87xDcc9r4R4"
+      },
+      {
+        "titulo": "28 Vasculitis de vaso pequeño anca +",
+        "link": "https://www.youtube.com/watch?v=o9QdnjRwQ4M"
+      },
+      {
+        "titulo": "29 Pelviespondiloartropatías",
+        "link": "https://www.youtube.com/watch?v=uYTsCEexVE8"
+      },
+      {
+        "titulo": "30 espondiloartritis anquilosante",
+        "link": "https://www.youtube.com/watch?v=enzTuvsZZ8w"
+      },
+      {
+        "titulo": "31 artrittis psoriática y artritis asociada a EII",
+        "link": "https://www.youtube.com/watch?v=tNOseQ_dHzY"
+      },
+      {
+        "titulo": "32 artritis reactiva",
+        "link": "https://www.youtube.com/watch?v=9T7cN9rwIt0"
+      },
+      {
+        "titulo": "33 enfermedad de Behcet",
+        "link": "https://www.youtube.com/watch?v=WJT0td70tIo"
+      },
+      {
+        "titulo": "34 osteoporosis",
+        "link": "https://www.youtube.com/watch?v=qKuwNFcyKXk"
+      },
+      {
+        "titulo": "35 lumbago mecánico y cervicalgia mecánica",
+        "link": "https://www.youtube.com/watch?v=N3ZMSfO-QsQ"
+      },
+      {
+        "titulo": "36 raíces nerviosas en cervicobraquialgia y lumbociática",
+        "link": "https://www.youtube.com/watch?v=qOScVysksDo"
+      },
+      {
+        "titulo": "37 casos de lumbago y cervicalgia",
+        "link": "https://www.youtube.com/watch?v=nqC29_lDhkw"
+      },
+      {
+        "titulo": "6,1 preguntas",
+        "link": "https://drive.google.com/file/d/1dSgze9h1pwqGUDym3loRvw4YzJoVBMsv/view?usp=sharing"
+      },
+      {
+        "titulo": "6,2 preguntas",
+        "link": "https://drive.google.com/file/d/1G0Jr0uKjxgAn7K4K1t1y0yiXIqj5_XoH/view?usp=sharing"
+      },
+      {
+        "titulo": "6,3 preguntas",
+        "link": "https://drive.google.com/file/d/1_GNaHAFQWyQRG0LkQJjCFkLs91HO5tVa/view?usp=sharing"
+      },
+      {
+        "titulo": "6,4 preguntas",
+        "link": "https://drive.google.com/file/d/1DEyPl_pqJfJ8J7LrH0_h11Hc3TEizvuR/view?usp=sharing"
+      },
+      {
+        "titulo": "Resumen ejecutivo reumato",
+        "link": "https://www.youtube.com/watch?v=dM07e9uA6aU"
+      },
+      {
+        "titulo": "Resumen reumato 1",
+        "link": "https://www.youtube.com/watch?v=VsLOQgX8cJg"
+      },
+      {
+        "titulo": "Resumen reumato 2",
+        "link": "https://www.youtube.com/watch?v=EOkpUhoB_G8"
+      }
+    ]
+  },
+  "Cardio": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Manejo Urgencia en arritmia",
+        "link": "https://www.youtube.com/watch?v=PxeJ-lKuoL8"
+      },
+      {
+        "titulo": "Paro cardiorespiratorio",
+        "link": "https://www.youtube.com/watch?v=ybpm5vUzRac"
+      },
+      {
+        "titulo": "RCP",
+        "link": "https://www.youtube.com/watch?v=o2OKLpAbUn0"
+      },
+      {
+        "titulo": "Bradiarritmias y bloqueos cardiacos",
+        "link": "https://www.youtube.com/watch?v=TSCyH3tZbTE"
+      },
+      {
+        "titulo": "Fibrilación auricular",
+        "link": "https://www.youtube.com/watch?v=vSMEb-b0Mq8"
+      },
+      {
+        "titulo": "Fibrilación auricular repaso de antiarritmicos",
+        "link": "https://www.youtube.com/watch?v=yhcdkMLT5Cg"
+      },
+      {
+        "titulo": "Fármacos anticoagulantes",
+        "link": "https://www.youtube.com/watch?v=fsW1sU7zWzg"
+      },
+      {
+        "titulo": "Resumen manejo FA",
+        "link": "https://www.youtube.com/watch?v=yvpCnByd0EM"
+      },
+      {
+        "titulo": "FA crónica",
+        "link": "https://www.youtube.com/watch?v=hyQi5pVfobE"
+      },
+      {
+        "titulo": "FA de reciente comienzo",
+        "link": "https://www.youtube.com/watch?v=Aime9F4u028"
+      },
+      {
+        "titulo": "Flutter auricular",
+        "link": "https://www.youtube.com/watch?v=BqnMs70dWi8"
+      },
+      {
+        "titulo": "Taquicardia paroxística supraventricular",
+        "link": "https://www.youtube.com/watch?v=VnWYXiBMRLM"
+      },
+      {
+        "titulo": "Taquicardia ventricular y canalopatías",
+        "link": "https://www.youtube.com/watch?v=IhGyfh21O0E"
+      },
+      {
+        "titulo": "Extrasístoles",
+        "link": "https://www.youtube.com/watch?v=d_O-xrxn5Mg"
+      },
+      {
+        "titulo": "Angina crónica",
+        "link": "https://www.youtube.com/watch?v=Nz3nDbfflzA"
+      },
+      {
+        "titulo": "Dolor Torácico",
+        "link": "https://www.youtube.com/watch?v=GNqlDeo-S9U"
+      },
+      {
+        "titulo": "ECG en sindrome coronario agudo",
+        "link": "https://www.youtube.com/watch?v=SPIZ5u7dUVQ"
+      },
+      {
+        "titulo": "Marcadores de isquemia miocardica",
+        "link": "https://www.youtube.com/watch?v=zYf0UF4o-1o"
+      },
+      {
+        "titulo": "Sindrome coronairo agudo",
+        "link": "https://www.youtube.com/watch?v=Wwd9z7uj2cM"
+      },
+      {
+        "titulo": "Complicaciones mecánicas del infarto miocárdico",
+        "link": "https://www.youtube.com/watch?v=yum9kbVQYDE"
+      },
+      {
+        "titulo": "Arritmias en el infarto",
+        "link": "https://www.youtube.com/watch?v=eUbfeFOK8-g"
+      },
+      {
+        "titulo": "Infarto del ventriculo derecho",
+        "link": "https://www.youtube.com/watch?v=MZTd9zg9pbk"
+      },
+      {
+        "titulo": "Insuficiencia cardiaca generalidades",
+        "link": "https://www.youtube.com/watch?v=Pzmok-D9pys"
+      },
+      {
+        "titulo": "IC tratamiento",
+        "link": "https://www.youtube.com/watch?v=KJ7KkeenZfw"
+      },
+      {
+        "titulo": "Cardiopatía coronaria",
+        "link": "https://www.youtube.com/watch?v=J19bwQdAq20"
+      },
+      {
+        "titulo": "Cor pulmonale",
+        "link": "https://www.youtube.com/watch?v=3FuIv1F3Ljo"
+      },
+      {
+        "titulo": "Valvulopatías generalidades",
+        "link": "https://www.youtube.com/watch?v=6UCQ55Y7JY0"
+      },
+      {
+        "titulo": "Valvulopatías izquierdas semiología",
+        "link": "https://www.youtube.com/watch?v=Pjf9s5j_Y9g"
+      },
+      {
+        "titulo": "Valvulopatías derechas semiología",
+        "link": "https://www.youtube.com/watch?v=dpTYbymXSzA"
+      },
+      {
+        "titulo": "Miocardiopatías",
+        "link": "https://www.youtube.com/watch?v=A_fuIbmn5ok"
+      },
+      {
+        "titulo": "Foramen oval permeable",
+        "link": "https://www.youtube.com/watch?v=ij1FweaOpi8"
+      },
+      {
+        "titulo": "Soplo funcional",
+        "link": "https://www.youtube.com/watch?v=aqbVsF9QBcI"
+      },
+      {
+        "titulo": "Enfermedades del pericardio",
+        "link": "https://www.youtube.com/watch?v=1DZyZrOsABg"
+      },
+      {
+        "titulo": "Miocarditis aguda",
+        "link": "https://www.youtube.com/watch?v=B4k6Ex7iLh4"
+      },
+      {
+        "titulo": "Fiebre reumática",
+        "link": "https://www.youtube.com/watch?v=hej-Um2Ighs"
+      },
+      {
+        "titulo": "Clasificación del Shock",
+        "link": "https://www.youtube.com/watch?v=IG3KoiJ5cXY"
+      },
+      {
+        "titulo": "Cardiopatías congénitas clasificación y generalidades",
+        "link": "https://www.youtube.com/watch?v=gashdarCP7A"
+      },
+      {
+        "titulo": "Cardiopatía congénitas detalles semiología",
+        "link": "https://www.youtube.com/watch?v=eCeLlKHkUFk"
+      },
+      {
+        "titulo": "Disección aortica",
+        "link": "https://www.youtube.com/watch?v=ExPpvGD6G4g"
+      },
+      {
+        "titulo": "Aneurisma de la aorta abdomin al",
+        "link": "https://www.youtube.com/watch?v=wG12n6csK5E"
+      },
+      {
+        "titulo": "Isquemia aguda de extremidades inferiores",
+        "link": "https://www.youtube.com/watch?v=mx31IvpXX9Q"
+      },
+      {
+        "titulo": "Isquemia crónica de extremidades inferiores",
+        "link": "https://www.youtube.com/watch?v=I49Ef7v3kvM"
+      },
+      {
+        "titulo": "Estenosis carotidea",
+        "link": "https://www.youtube.com/watch?v=UnK_3uEnZX8"
+      },
+      {
+        "titulo": "Trombosis venosa profunda TVP",
+        "link": "https://www.youtube.com/watch?v=nDoSDGdIS6E"
+      },
+      {
+        "titulo": "Tromboembolismo pulmonar TEP",
+        "link": "https://www.youtube.com/watch?v=W8EqEoxYWAA"
+      },
+      {
+        "titulo": "Tromboembolismo pulmonar masivo (Se dejó este término ahora es por riesgos)",
+        "link": "https://www.youtube.com/watch?v=1MZ4uIMz00I"
+      },
+      {
+        "titulo": "Insuficiencia Venosa- Extremidades inferiores",
+        "link": "https://www.youtube.com/watch?v=Jqhlp6uOo_Y"
+      },
+      {
+        "titulo": "1",
+        "link": "https://drive.google.com/file/d/1_fPf6osKcLT_X75x-cX4XNLLkrLOR6zu/view?usp=sharing"
+      },
+      {
+        "titulo": "2",
+        "link": "https://drive.google.com/file/d/1MiB_jjocuOpuYkhlYOIAUKMGU1BaDHg0/view?usp=sharing"
+      },
+      {
+        "titulo": "3",
+        "link": "https://drive.google.com/file/d/1z1HT10yHYNL4PilBRFkT0ZW6EnS2hFBG/view?usp=sharing"
+      },
+      {
+        "titulo": "4",
+        "link": "https://drive.google.com/file/d/1PxUkzifVd-rGTHIuuc5Ozyjf8WxPwyFg/view?usp=sharing"
+      },
+      {
+        "titulo": "5",
+        "link": "https://drive.google.com/file/d/105tRMtLoOoLkshj31EdiAvfiYjJ9pEby/view?usp=sharing"
+      },
+      {
+        "titulo": "6",
+        "link": "https://drive.google.com/file/d/1UuqDwfiehEfpVUpOg-C8mFjRY_h_UPlH/view?usp=sharing"
+      },
+      {
+        "titulo": "Resumen semiología cardiaca - Guevara",
+        "link": "https://drive.google.com/file/d/1EMlRXmhvPJ1uB6mSDJ9pslAYydXvn5K5/view?usp=sharing"
+      },
+      {
+        "titulo": "Resumen EKG - Guevara",
+        "link": "https://drive.google.com/file/d/1lkZ5EZYg__xjv3-tYj848P23jAjDEyKk/view?usp=sharing"
+      },
+      {
+        "titulo": "Resumen med interna 1 caridología F. Sevilla",
+        "link": "https://drive.google.com/file/d/1sTw_KCuGEKqWN_2UyUKv1v-a7lIYVytd/view?usp=sharing"
+      }
+    ]
+  },
+  "Infecto": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Betalactamicos",
+        "link": "https://www.youtube.com/watch?v=Bwc09u4JUqA"
+      },
+      {
+        "titulo": "Penicilinas",
+        "link": "https://www.youtube.com/watch?v=JhB4H9H4CXY"
+      },
+      {
+        "titulo": "Cefalosporinas",
+        "link": "https://www.youtube.com/watch?v=zDgbv7v-zU4"
+      },
+      {
+        "titulo": "Otros betalactámicos",
+        "link": "https://www.youtube.com/watch?v=F_3FuFZigWU"
+      },
+      {
+        "titulo": "Otros antibioticos parte 1",
+        "link": "https://www.youtube.com/watch?v=4s8MeC2IESM"
+      },
+      {
+        "titulo": "Otros antibioticos parte 2, ahora es personal",
+        "link": "https://www.youtube.com/watch?v=F02w025Kdo8"
+      },
+      {
+        "titulo": "Cómo matar un ruiseñor, digo una bacteria",
+        "link": "https://www.youtube.com/watch?v=7NR24nus1Qg"
+      },
+      {
+        "titulo": "Conceptos de Tb",
+        "link": "https://www.youtube.com/watch?v=_iiV1i9yMGw"
+      },
+      {
+        "titulo": "TB activa",
+        "link": "https://www.youtube.com/watch?v=4SFkUZn_suQ"
+      },
+      {
+        "titulo": "TB latente",
+        "link": "https://www.youtube.com/watch?v=mwQjOB775QE"
+      },
+      {
+        "titulo": "Manejo contactos TB",
+        "link": "https://www.youtube.com/watch?v=91FD46xwtTw"
+      },
+      {
+        "titulo": "Osteomielitis",
+        "link": "https://www.youtube.com/watch?v=BDPVhCuJZyM"
+      },
+      {
+        "titulo": "Chagas",
+        "link": "https://www.youtube.com/watch?v=q2_9_nzeH4I"
+      },
+      {
+        "titulo": "Virus Mosquitos",
+        "link": "https://www.youtube.com/watch?v=GMAkNBAEOGs"
+      },
+      {
+        "titulo": "Malaria",
+        "link": "https://www.youtube.com/watch?v=ET3yCe-iMOQ"
+      },
+      {
+        "titulo": "Herpes bucal y herpangina",
+        "link": "https://www.youtube.com/watch?v=u4kSnQr0WFE"
+      },
+      {
+        "titulo": "Exantemas niños",
+        "link": "https://www.youtube.com/watch?v=Ir_YMVFmS1g"
+      },
+      {
+        "titulo": "Varicela",
+        "link": "https://www.youtube.com/watch?v=FXb8JsS2QQE"
+      },
+      {
+        "titulo": "Herpes zoster",
+        "link": "https://www.youtube.com/watch?v=SVNDaenesOM"
+      },
+      {
+        "titulo": "Varicela y embarazo",
+        "link": "https://www.youtube.com/watch?v=RgdJ4-5W3yA"
+      },
+      {
+        "titulo": "Sarampion y rubeola",
+        "link": "https://www.youtube.com/watch?v=nFmRt9flAzA"
+      },
+      {
+        "titulo": "Escarlatina",
+        "link": "https://www.youtube.com/watch?v=rxQVoX0twQE"
+      },
+      {
+        "titulo": "Meningococcemia",
+        "link": "https://www.youtube.com/watch?v=1gcaHVkqKzk"
+      },
+      {
+        "titulo": "Murcormicosis",
+        "link": "https://www.youtube.com/watch?v=sJf6k3EjT4A"
+      },
+      {
+        "titulo": "Neutropenia febril",
+        "link": "https://www.youtube.com/watch?v=Emb7k7Q3qE8"
+      },
+      {
+        "titulo": "Estudio de meningitis",
+        "link": "https://www.youtube.com/watch?v=is8wN99rsK4"
+      },
+      {
+        "titulo": "Meningitis bacteriana",
+        "link": "https://www.youtube.com/watch?v=1K-59drYMA0"
+      },
+      {
+        "titulo": "Meningitis viral",
+        "link": "https://www.youtube.com/watch?v=fzfcnFYKgxc"
+      },
+      {
+        "titulo": "Meningitis tuberculosa",
+        "link": "https://www.youtube.com/watch?v=FUAioB9fnog"
+      },
+      {
+        "titulo": "Absceso cerebral",
+        "link": "https://www.youtube.com/watch?v=5e9aIZoPAOk"
+      },
+      {
+        "titulo": "Mononucleosis y sd mononucleosico",
+        "link": "https://www.youtube.com/watch?v=aTqq2AfhPwc"
+      },
+      {
+        "titulo": "Escarlatina",
+        "link": "https://www.youtube.com/watch?v=phT74jrHcdU"
+      },
+      {
+        "titulo": "VIH",
+        "link": "https://www.youtube.com/watch?v=IxYY1q7MxM0"
+      },
+      {
+        "titulo": "VIH en el embarazo",
+        "link": "https://www.youtube.com/watch?v=WTZCW-lesGA"
+      },
+      {
+        "titulo": "TORCH",
+        "link": "https://www.youtube.com/watch?v=_-4OwVoUsQk"
+      },
+      {
+        "titulo": "Candidiasis esofágica",
+        "link": "https://www.youtube.com/watch?v=vYP_sYGk7Z4"
+      },
+      {
+        "titulo": "Toxoplasmosis cerebral",
+        "link": "https://www.youtube.com/watch?v=SheRRdUWB_k"
+      },
+      {
+        "titulo": "Criptocococis",
+        "link": "https://www.youtube.com/watch?v=_-m2FDkD9zY"
+      },
+      {
+        "titulo": "Micobacterium Avium Complex MAC, micobacterias atípicos en VIH",
+        "link": "https://www.youtube.com/watch?v=q-YDNlg9qrY"
+      },
+      {
+        "titulo": "Coriorretinitis",
+        "link": "https://www.youtube.com/watch?v=lHow7cA2GEo"
+      },
+      {
+        "titulo": "Sarcoma de Kaposi",
+        "link": "https://www.youtube.com/watch?v=Hq-cgaPzXSQ"
+      },
+      {
+        "titulo": "Síndrome de piel escaldada estafilocócica",
+        "link": "https://www.youtube.com/watch?v=Ysk4fO8bydQ"
+      },
+      {
+        "titulo": "Rabia",
+        "link": "https://www.youtube.com/watch?v=7evhC4jSzFE"
+      },
+      {
+        "titulo": "Picadura de animales venenosos Chile",
+        "link": "https://www.youtube.com/watch?v=35RInmUlGr8"
+      },
+      {
+        "titulo": "Tiña y onicomicosis",
+        "link": "https://www.youtube.com/watch?v=xIlLbeiixjM"
+      },
+      {
+        "titulo": "Fiebre sin foco y de origen desconocido",
+        "link": "https://www.youtube.com/watch?v=6Dd7hS8vKhg"
+      },
+      {
+        "titulo": "Fascitis necrotizante",
+        "link": "https://www.youtube.com/watch?v=78iL-7eBsWo"
+      },
+      {
+        "titulo": "Celulitis y Erisipela (una roja escarapela)",
+        "link": "https://www.youtube.com/watch?v=QIEj3LwVgBA"
+      },
+      {
+        "titulo": "Impétigo y Ectima",
+        "link": "https://www.youtube.com/watch?v=UVuduj_d0CE"
+      },
+      {
+        "titulo": "Infecciones del foliculo piloso",
+        "link": "https://www.youtube.com/watch?v=f3C3YMb5HYM"
+      },
+      {
+        "titulo": "Shock séptico",
+        "link": "https://www.youtube.com/watch?v=GXYFs6B1wX0"
+      },
+      {
+        "titulo": "Shock Tóxico",
+        "link": "https://www.youtube.com/watch?v=Gdhfwoq9kXk"
+      },
+      {
+        "titulo": "Tétanos",
+        "link": "https://www.youtube.com/watch?v=vM8g9S1bMFU"
+      },
+      {
+        "titulo": "Botulismo",
+        "link": "https://www.youtube.com/watch?v=qNLg7NdmhDg"
+      },
+      {
+        "titulo": "Diarrea aguda",
+        "link": "https://www.youtube.com/watch?v=ixIr6wvTSd4"
+      },
+      {
+        "titulo": "DIarrea Crónica",
+        "link": "https://www.youtube.com/watch?v=xMVc2Cih754"
+      },
+      {
+        "titulo": "Hepatitis virales agentes y diagnósticos",
+        "link": "https://www.youtube.com/watch?v=7VpbFwqw_bw"
+      },
+      {
+        "titulo": "Hepatitis virales",
+        "link": "https://www.youtube.com/watch?v=wV4S_Lk7bxA"
+      },
+      {
+        "titulo": "Fiebre tifoidea, paratifoidea y otras salmonellosis",
+        "link": "https://www.youtube.com/watch?v=qY90PA64hLM"
+      },
+      {
+        "titulo": "Enfermedad por arañazo de gato",
+        "link": "https://www.youtube.com/watch?v=qHqodN_fGJs"
+      },
+      {
+        "titulo": "Hanta virus",
+        "link": "https://www.youtube.com/watch?v=K9Rq24WRpac"
+      },
+      {
+        "titulo": "Brucelosis y leptospirosis",
+        "link": "https://www.youtube.com/watch?v=HMZEAWtt5b4"
+      },
+      {
+        "titulo": "Enfermedad de Lyme",
+        "link": "https://www.youtube.com/watch?v=P4k2bC4U-rA"
+      },
+      {
+        "titulo": "Intoxicación alimentaria",
+        "link": "https://www.youtube.com/watch?v=0qk68JQQTug"
+      },
+      {
+        "titulo": "Cólera",
+        "link": "https://www.youtube.com/watch?v=Tmn4TBeLpQc"
+      },
+      {
+        "titulo": "Diarrea por Clostridium difficile (ahora Clostridioides difficile)",
+        "link": "https://www.youtube.com/watch?v=Grpb7hk8XF0"
+      },
+      {
+        "titulo": "Parásitos 1 Ameba histolitica y Giardia Lamdia",
+        "link": "https://www.youtube.com/watch?v=5wqSpAokLqw"
+      },
+      {
+        "titulo": "Parásitos 2 Nemátodos (los gusanitos redondos)",
+        "link": "https://www.youtube.com/watch?v=cQKxVt8_uW0"
+      },
+      {
+        "titulo": "Parásitos 3 Platelmintos (gusanitos planos)",
+        "link": "https://www.youtube.com/watch?v=yzykg6hYjMo"
+      },
+      {
+        "titulo": "70.- Aspectos ecográficos - Quiste Hidatídico Hepático",
+        "link": "https://youtu.be/tcrigAi5OWw"
+      },
+      {
+        "titulo": "71.- Parasitosis IV - Infestaciones por artrópodos",
+        "link": "https://youtu.be/iAXlYjbIKDs"
+      },
+      {
+        "titulo": "72.- Aspergilosis",
+        "link": "https://youtu.be/aigz8bf_4sQ"
+      },
+      {
+        "titulo": "73.- Endocarditis infecciosa",
+        "link": "https://youtu.be/8GELdejhklw"
+      },
+      {
+        "titulo": "74.- Accidentes cortopunzantes",
+        "link": "https://youtu.be/RatyngySzU8"
+      },
+      {
+        "titulo": "75.- Adenitis supurada y adenitis tuberculosa",
+        "link": "https://youtu.be/5UvIjsbmv9U"
+      },
+      {
+        "titulo": "76. Difteria",
+        "link": "https://youtu.be/C-tL3mkW5Hw"
+      },
+      {
+        "titulo": "77.- Angina de Vincent y angina de Ludwig",
+        "link": "https://youtu.be/Euw-WzEwfUo"
+      },
+      {
+        "titulo": "78.- Infecciones de transmisión sexual (generalidades)",
+        "link": "https://youtu.be/4r-HERX0OdE"
+      },
+      {
+        "titulo": "79.- Uretritis",
+        "link": "https://youtu.be/pa8JHIH2mrE"
+      },
+      {
+        "titulo": "80.- Sífilis (clínica)",
+        "link": "https://youtu.be/h0dlCj9tJDs"
+      },
+      {
+        "titulo": "81.- Sífilis (diagnóstico y tratamiento)",
+        "link": "https://youtu.be/ZW9MksWPo2M"
+      },
+      {
+        "titulo": "82.- Sífilis y embarazo",
+        "link": "https://youtu.be/0yEMt-bt60M"
+      },
+      {
+        "titulo": "83.- Herpes genital",
+        "link": "https://youtu.be/sqJHZB17VCs"
+      },
+      {
+        "titulo": "84.- Chancroide",
+        "link": "https://youtu.be/I51AipX2SZ4"
+      },
+      {
+        "titulo": "85.- Infecciones por virus papiloma humano",
+        "link": "https://youtu.be/RhaSeaFqbPs"
+      },
+      {
+        "titulo": "86.- Infecciones por virus pox",
+        "link": "https://youtu.be/BKDsGczkZGk"
+      },
+      {
+        "titulo": "1",
+        "link": "https://drive.google.com/file/d/1ZYyYRD1fk-k05nZ6aokhHgvxpMuTmMFf/view?usp=sharing"
+      },
+      {
+        "titulo": "2",
+        "link": "https://drive.google.com/file/d/1x82vymqyKteW9s67sb0NKU5BKuOKl33j/view?usp=sharing"
+      },
+      {
+        "titulo": "3",
+        "link": "https://drive.google.com/file/d/1aViuE3howr_rHyWk4EBbyDOd7-KgOPag/view?usp=sharing"
+      },
+      {
+        "titulo": "4",
+        "link": "https://drive.google.com/file/d/15v-DMDmekpdKOvWAyRB19ac6yNkovxHW/view?usp=sharing"
+      },
+      {
+        "titulo": "5",
+        "link": "https://drive.google.com/file/d/10MPZtcefhX9MJco3w4rAkm072A4drsqf/view?usp=sharing"
+      },
+      {
+        "titulo": "6",
+        "link": "https://drive.google.com/file/d/12cnEpwpqchxW5eRbat-YGGjj7bZG2IXn/view?usp=sharing"
+      },
+      {
+        "titulo": "7",
+        "link": "https://drive.google.com/file/d/1v6g7B4U2Z7UBOs8y2rBRQe4RhLyX01M9/view?usp=sharing"
+      }
+    ]
+  },
+  "Geriatría": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Adulto mayor normal / Evaluación geriátrica / Polifarmacia / Fragilidad / Patología en anciano",
+        "link": "https://youtu.be/zHnoY3mcmuI"
+      },
+      {
+        "titulo": "Atrofia muscular / Inmovilidad/ Caídas / Depresión / Abuso / Vacunas",
+        "link": "https://youtu.be/uKeUFVV6ZnI"
+      },
+      {
+        "titulo": "Incontinencia urinaria",
+        "link": "https://youtu.be/mIieO2pv-LA"
+      }
+    ]
+  },
+  "Neuro": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Demencia/ Delirium",
+        "link": "https://youtu.be/5nn3vGLXnrI",
+        "listo": "True"
+      },
+      {
+        "titulo": "Traumatismo encéfalo craneano",
+        "link": "https://www.youtube.com/watch?v=7DR46e5b_lM",
+        "listo": "True"
+      },
+      {
+        "titulo": "Trastornos del sueño",
+        "link": "https://youtu.be/Bh34R4fSWHo",
+        "listo": "True"
+      },
+      {
+        "titulo": "Meningitis",
+        "link": "https://youtu.be/92E5Wn7G5nk",
+        "listo": "False"
+      },
+      {
+        "titulo": "Compromiso de conciencia / Apraxia / Agnosia / Afasia",
+        "link": "https://youtu.be/nUcVImDeEv0",
+        "listo": "False"
+      },
+      {
+        "titulo": "Accidente vascular encefálico",
+        "link": "https://youtu.be/KGTmjGSecnY",
+        "listo": "True"
+      },
+      {
+        "titulo": "Cefalea / Tumor cerebral / HTEC",
+        "link": "https://youtu.be/gReR8SCACj0",
+        "listo": "False"
+      },
+      {
+        "titulo": "Cefaleas crónicas",
+        "link": "https://youtu.be/o4RwfS-Jvhw",
+        "listo": "False"
+      },
+      {
+        "titulo": "Esclerosis lateral amiotrófica (ELA) / Esclerosis múltiple (EM)",
+        "link": "https://youtu.be/phpODZsydug",
+        "listo": "True"
+      },
+      {
+        "titulo": "Crisis convulsivas / Epilepsia / Convulsiones febriles / Estatus convulsivo",
+        "link": "https://youtu.be/d5KejCLfAb8",
+        "listo": "True"
+      },
+      {
+        "titulo": "Polineuropatías / Neuralgias / Neuropatías por atrapamiento",
+        "link": "https://youtu.be/5L7H1AGU0r4",
+        "listo": "False"
+      },
+      {
+        "titulo": "Síndrome motores",
+        "link": "https://youtu.be/z6D1x_FRQWA",
+        "listo": "True"
+      },
+      {
+        "titulo": "Tembor/ Extrapiramidalismo",
+        "link": "https://youtu.be/0PnLQBLHaX4",
+        "listo": "True"
+      },
+      {
+        "titulo": "Trastorno de la deglución",
+        "link": "https://youtu.be/Qr8Wmn-693c",
+        "listo": "False"
+      },
+      {
+        "titulo": "Trastorno del habla",
+        "link": "https://youtu.be/S17RBolaJw4",
+        "listo": "False"
+      },
+      {
+        "titulo": "Vértigo",
+        "link": "https://youtu.be/fXOhsigsn88",
+        "listo": "False"
+      },
+      {
+        "titulo": "Causas específicas del vértigo",
+        "link": "https://youtu.be/MshSlua36wc",
+        "listo": "False"
+      },
+      {
+        "titulo": "Parálisis facial",
+        "link": "https://youtu.be/kBuANMLO3dc",
+        "listo": "False"
+      },
+      {
+        "titulo": "Causas parálisis facial periférica",
+        "link": "https://youtu.be/qAYpf3W0iPQ",
+        "listo": "False"
+      },
+      {
+        "titulo": "Neuroftalmología",
+        "link": "https://youtu.be/RdSz1sn5sJw",
+        "listo": "False"
+      },
+      {
+        "titulo": "1",
+        "link": "https://drive.google.com/file/d/1nFlImaJ-eo-tYeM9P0lXeEQUXR840WMT/view?usp=sharing",
+        "listo": "False"
+      },
+      {
+        "titulo": "2",
+        "link": "https://drive.google.com/file/d/1-c3Lwr5c4pAsu8jUYh2tRR_7mBT7V4Ii/view?usp=sharing",
+        "listo": "False"
+      },
+      {
+        "titulo": "3",
+        "link": "https://drive.google.com/file/d/1glB0QXkcBsxLVei8lOGX3Sql029hhuQV/view?usp=sharing",
+        "listo": "False"
+      },
+      {
+        "titulo": "4",
+        "link": "https://drive.google.com/file/d/1DsGzZXuagnhQXTlNHEK0pe7fWBMh-PCZ/view?usp=sharing",
+        "listo": "False"
+      },
+      {
+        "titulo": "5",
+        "link": "https://drive.google.com/file/d/12PxzyD_-UnvwOcgGv8XWJw3pXk5CG1S1/view?usp=sharing",
+        "listo": "False"
+      },
+      {
+        "titulo": "6",
+        "link": "https://drive.google.com/file/d/14gJ85-Ev7j2UoabUTu71-Nkw290lvqe0/view?usp=sharing",
+        "listo": "False"
+      },
+      {
+        "titulo": "Semiología neurológica - Guevara",
+        "link": "https://drive.google.com/file/d/1_4OHWPog9xMNv10NqUw2qtvlZZ2Dfkhk/view?usp=sharing",
+        "listo": "False"
+      }
+    ]
+  },
+  "Endocrino": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Eje Hipotalámico Hipofisiario",
+        "link": "https://youtu.be/13vMVCS35tY"
+      },
+      {
+        "titulo": "Hipopituitarismo",
+        "link": "https://youtu.be/pwngJIb0j8w"
+      },
+      {
+        "titulo": "Generalidades: FIsiología Tiroidea",
+        "link": "https://youtu.be/qI_5ZakVV4w"
+      },
+      {
+        "titulo": "Hipotiroidismo",
+        "link": "https://youtu.be/njR3BUlh7CE"
+      },
+      {
+        "titulo": "Hipotiroidismo subclínico",
+        "link": "https://youtu.be/yRWBa7qOJsg"
+      },
+      {
+        "titulo": "Coma mixedematoso",
+        "link": "https://youtu.be/nGlsKFCMlAk"
+      },
+      {
+        "titulo": "Hipotiroidismo congénito",
+        "link": "https://youtu.be/gzqTVZUMv0A"
+      },
+      {
+        "titulo": "HIpotiroidismo en embarazo",
+        "link": "https://youtu.be/HiKDL4aSw1k"
+      },
+      {
+        "titulo": "Hipertiroidismo",
+        "link": "https://youtu.be/tMIYXy1fWv0"
+      },
+      {
+        "titulo": "Enfermedad de Basedow Graves - neonatal",
+        "link": "https://youtu.be/tBh9rU7JY_E"
+      },
+      {
+        "titulo": "Nódulo tiroideo",
+        "link": "https://youtu.be/TKz2AJ6iQgs"
+      },
+      {
+        "titulo": "Manejo de cáncer de tiroides",
+        "link": "https://youtu.be/wfYSCKd_KC0"
+      },
+      {
+        "titulo": "Bocio",
+        "link": "https://youtu.be/va9sk6Trcf8"
+      },
+      {
+        "titulo": "Tiroiditis",
+        "link": "https://youtu.be/VsOqJF9cq5c"
+      },
+      {
+        "titulo": "Síndrome de Cushing",
+        "link": "https://youtu.be/lL2qWfvTxsM"
+      },
+      {
+        "titulo": "Insuficiencia suprarrenal",
+        "link": "https://youtu.be/pLGgLcjgJR8"
+      },
+      {
+        "titulo": "Hiperplasia suprarrenal congénita",
+        "link": "https://youtu.be/VUDMv-xAfeM"
+      },
+      {
+        "titulo": "Tumor hipofisiario",
+        "link": "https://youtu.be/ekz8XtlTjkY"
+      },
+      {
+        "titulo": "Acromegalia y gigantismo",
+        "link": "https://youtu.be/cR0beWLkrAE"
+      },
+      {
+        "titulo": "Hiperprolactinemia",
+        "link": "https://youtu.be/-J7szHNKgpA"
+      },
+      {
+        "titulo": "Hipogonadismo",
+        "link": "https://youtu.be/gI3FsSsV5Rs"
+      },
+      {
+        "titulo": "Desarrollo puberal y adrenarquia",
+        "link": "https://youtu.be/NCbr3JceLmM"
+      },
+      {
+        "titulo": "Síndrome de Ovario Poliquístico",
+        "link": "https://youtu.be/rj9EhaYzziA"
+      },
+      {
+        "titulo": "Terapia de reemplazo hormonal",
+        "link": "https://youtu.be/3I7M2zTgo6E"
+      },
+      {
+        "titulo": "Amenorrea",
+        "link": "https://youtu.be/iFasd04bswA"
+      },
+      {
+        "titulo": "1",
+        "link": "https://drive.google.com/file/d/13P9j_5ODI-9NYVG5DULtpWi3HMLbAYi7/view?usp=sharing"
+      },
+      {
+        "titulo": "2",
+        "link": "https://drive.google.com/file/d/1oALHeGmC8ODgiRfDNKYjZj6LPKsTZrwu/view?usp=sharing"
+      },
+      {
+        "titulo": "3",
+        "link": "https://drive.google.com/file/d/1dGdCxMzEDR1ADxo63Ihq7sj-VXW0VLff/view?usp=sharing"
+      },
+      {
+        "titulo": "4",
+        "link": "https://drive.google.com/file/d/1cV-TRODyd4Dfimw19aw-UmMjY3ELtFuM/view?usp=sharing"
+      },
+      {
+        "titulo": "5",
+        "link": "https://drive.google.com/file/d/1o6Sz05Kb4uADG4KAC4ji3oUvQKoQ69UP/view?usp=sharing"
+      },
+      {
+        "titulo": "6",
+        "link": "https://drive.google.com/file/d/19GazHc6EsqfzVl3aU_JVp8ohUcFQZ3os/view?usp=sharing"
+      },
+      {
+        "titulo": "7",
+        "link": "https://drive.google.com/file/d/1sWq4W1f8kOyvvdc5HXp68ux8rsCnjSh7/view?usp=sharing"
+      },
+      {
+        "titulo": "8",
+        "link": "https://drive.google.com/file/d/1dGlKrm85Zwd_NSYblJJDxr22NJ_SNKvE/view?usp=sharing"
+      }
+    ]
+  },
+  "Psiquiatría": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Psq infantil 1",
+        "link": "https://youtu.be/fsNYwZ1Rs68"
+      },
+      {
+        "titulo": "Psq infantil 2",
+        "link": "https://youtu.be/3UDR94wx9k4"
+      },
+      {
+        "titulo": "Psq infantil 3",
+        "link": "https://youtu.be/OTnLCP7tmlo"
+      },
+      {
+        "titulo": "Psq infantil 4",
+        "link": "https://youtu.be/0wEC44LP_kI"
+      },
+      {
+        "titulo": "Psq Adulto",
+        "link": "https://youtu.be/IfHd1Q1jnAc"
+      },
+      {
+        "titulo": "Trastornos anímicos 1",
+        "link": "https://youtu.be/OK0myx7jMFA"
+      },
+      {
+        "titulo": "Trastornos anímicos 2",
+        "link": "https://youtu.be/qih9KpP8m6c"
+      },
+      {
+        "titulo": "Trastornos anímicos 3",
+        "link": "https://youtu.be/9ijBsK-8wBA"
+      },
+      {
+        "titulo": "Trastornos anímicos 4",
+        "link": "https://youtu.be/3QAihRppp6A"
+      },
+      {
+        "titulo": "Trastornos anímicos 5",
+        "link": "https://youtu.be/HFGmkBSukwI"
+      },
+      {
+        "titulo": "Intoxicaciones",
+        "link": "https://youtu.be/ZqWoSxLYeRU"
+      },
+      {
+        "titulo": "T ansioso 1",
+        "link": "https://youtu.be/KMjnnvsrFcs"
+      },
+      {
+        "titulo": "T ansioso 2",
+        "link": "https://youtu.be/RrBAxUuc87E"
+      },
+      {
+        "titulo": "T ansioso 3",
+        "link": "https://youtu.be/RTReSBSkp7s"
+      },
+      {
+        "titulo": "Psq infantil 5",
+        "link": "https://youtu.be/TxNVZlL2Wiw"
+      },
+      {
+        "titulo": "T psicoticos",
+        "link": "https://youtu.be/RP2J8dUM_c8"
+      },
+      {
+        "titulo": "T psicoticos 2",
+        "link": "https://youtu.be/wa8tpi6pOeU"
+      },
+      {
+        "titulo": "Consumo OH",
+        "link": "https://youtu.be/I6j_khyfZ84"
+      },
+      {
+        "titulo": "Consumo de sustancias",
+        "link": "https://youtu.be/eQGUR3yJbmQ"
+      },
+      {
+        "titulo": "T conversivos",
+        "link": "https://youtu.be/leBmK6ii19w"
+      },
+      {
+        "titulo": "T de alimentación",
+        "link": "https://youtu.be/qHVvBSExgU0"
+      },
+      {
+        "titulo": "T de personalidad",
+        "link": "https://youtu.be/-0wQ7hQO1V0"
+      },
+      {
+        "titulo": "1",
+        "link": "https://drive.google.com/file/d/1woJJaowU6oB4nXA_d4FWWSqXyMJc0Oeb/view?usp=sharing"
+      },
+      {
+        "titulo": "2",
+        "link": "https://drive.google.com/file/d/1G9mURJtFj14-TIImgqpN77KQ5cAzSE7I/view?usp=sharing"
+      },
+      {
+        "titulo": "3",
+        "link": "https://drive.google.com/file/d/1ryysPkZKpforpNE71ETAMvWWFSL9scWU/view?usp=sharing"
+      },
+      {
+        "titulo": "4",
+        "link": "https://drive.google.com/file/d/1fPuOdKWKF8I7sX5WHW51Wb7e8Iaixhvk/view?usp=sharing"
+      },
+      {
+        "titulo": "5",
+        "link": "https://drive.google.com/file/d/1kkQZAgvYmY6icJZvsd7Og4KlVni3qMbT/view?usp=sharing"
+      },
+      {
+        "titulo": "Resumen por guevara",
+        "link": "https://drive.google.com/file/d/1PT1z7lbkm6SZpKzfzqe6BtOv2EvM2ovw/view?usp=sharing"
+      }
+    ]
+  },
+  "Salud pública": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Salud publica resumen",
+        "link": "https://youtu.be/0N7VVl3bBzk"
+      },
+      {
+        "titulo": "HIstoria natural de la enfermedad",
+        "link": "https://youtu.be/bq7dd5_hEnA"
+      },
+      {
+        "titulo": "Determinantes del nivel de salud",
+        "link": "https://youtu.be/TI9rN0ec840"
+      },
+      {
+        "titulo": "Prevensión en salud",
+        "link": "https://youtu.be/sfA8ls0TOZc"
+      },
+      {
+        "titulo": "Nociones de estadística",
+        "link": "https://youtu.be/wDk9MJmmaJk"
+      },
+      {
+        "titulo": "Epi descriptiva",
+        "link": "https://youtu.be/-uy3ID36QOE"
+      },
+      {
+        "titulo": "Epi analítica",
+        "link": "https://youtu.be/nnEPtHKAPhg"
+      },
+      {
+        "titulo": "Medidas de asociación e impacto",
+        "link": "https://youtu.be/HZprf6e7SMc"
+      },
+      {
+        "titulo": "Test diagnósticos",
+        "link": "https://youtu.be/31fw4K8JWCA"
+      },
+      {
+        "titulo": "Tipos de estudios epidemiológicos",
+        "link": "https://youtu.be/e-z0SVT_Lno"
+      },
+      {
+        "titulo": "Estructura del Sis salud chileno",
+        "link": "https://youtu.be/EAa2yRJFlPI"
+      },
+      {
+        "titulo": "Instituciones del Sis salud chileno",
+        "link": "https://youtu.be/yPlkBQLoz-M"
+      },
+      {
+        "titulo": "Administración en salud",
+        "link": "https://youtu.be/F_4sYuYjzIY"
+      },
+      {
+        "titulo": "GES",
+        "link": "https://youtu.be/5MltTLCkjEY"
+      },
+      {
+        "titulo": "Licencias médicas",
+        "link": "https://youtu.be/d0j2GZPqsPo"
+      },
+      {
+        "titulo": "Etica médica",
+        "link": "https://youtu.be/tMR9Yd6As4M"
+      },
+      {
+        "titulo": "Responsabilidad y mala praxis",
+        "link": "https://youtu.be/QBbztOZIC5Y"
+      },
+      {
+        "titulo": "1",
+        "link": "https://drive.google.com/file/d/1z2GdpbRnc9k8-8NWps7a15WmOK4jy1l8/view?usp=sharing"
+      },
+      {
+        "titulo": "2",
+        "link": "https://drive.google.com/file/d/1IWAjaN2eyuxVXNhKCSz6tZnAuBeiNPl8/view?usp=sharing"
+      },
+      {
+        "titulo": "3",
+        "link": "https://drive.google.com/file/d/1zpsv6cyBf-M6Pqr7fFSalujGALL_kYOz/view?usp=sharing"
+      },
+      {
+        "titulo": "Resumen Salud pública guevara",
+        "link": "https://drive.google.com/file/d/1A4dD1pBuTlumko5sVvcwQGLeNVMmgk_5/view?usp=sharing"
+      }
+    ]
+  },
+  "Dermato": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Generalidades",
+        "link": "https://youtu.be/IxMzFKArWj4"
+      },
+      {
+        "titulo": "Psoriasis vulgar",
+        "link": "https://youtu.be/EFafhb8I1NM"
+      },
+      {
+        "titulo": "Exantemas eritrodescamativos",
+        "link": "https://youtu.be/x70yIXG6FWk"
+      },
+      {
+        "titulo": "Liquen",
+        "link": "https://youtu.be/YBbG80i7alA"
+      },
+      {
+        "titulo": "Acné",
+        "link": "https://youtu.be/T6payYwGJSo"
+      },
+      {
+        "titulo": "Rosácea",
+        "link": "https://youtu.be/E7JyH-uu0bQ"
+      },
+      {
+        "titulo": "Alopecia",
+        "link": "https://youtu.be/ySYX4mgLg5M"
+      },
+      {
+        "titulo": "Vitiligo",
+        "link": "https://youtu.be/xs2U81UQ6Gs"
+      },
+      {
+        "titulo": "Otras lesiones hipopigmentadas",
+        "link": "https://youtu.be/D7UcfuS4bT4"
+      },
+      {
+        "titulo": "Dermatitis atópico",
+        "link": "https://youtu.be/yVuFMsW2raw"
+      },
+      {
+        "titulo": "Dermatitis seborreica",
+        "link": "https://youtu.be/mSM7K1914sQ"
+      },
+      {
+        "titulo": "Dermatitis de contacto",
+        "link": "https://youtu.be/BsbQqlMdvj4"
+      },
+      {
+        "titulo": "Eccema dishidroticos",
+        "link": "https://youtu.be/b0xs-pG-6yM"
+      },
+      {
+        "titulo": "Eritema perneo",
+        "link": "https://youtu.be/qSjC0uEZiDg"
+      },
+      {
+        "titulo": "Urticaria",
+        "link": "https://youtu.be/iVW0daoJxaQ"
+      },
+      {
+        "titulo": "Angiodema",
+        "link": "https://youtu.be/ashM_hYgQ3I"
+      },
+      {
+        "titulo": "Prurigo",
+        "link": "https://youtu.be/JMFzXK6bBMY"
+      },
+      {
+        "titulo": "Dermatosis asociada a luz solar",
+        "link": "https://youtu.be/EUkvAxyS6D8"
+      },
+      {
+        "titulo": "Enfermedades ampollares",
+        "link": "https://youtu.be/8LROhjPyLmc"
+      },
+      {
+        "titulo": "Autoinmune imagenes",
+        "link": "https://youtu.be/oM6MUemaQbk"
+      },
+      {
+        "titulo": "Autoinmune miscelanea",
+        "link": "https://youtu.be/WmaXO2V8VQc"
+      },
+      {
+        "titulo": "Tumores cutáneos benignos",
+        "link": "https://youtu.be/pjOnFuZwnRI"
+      },
+      {
+        "titulo": "Tumores vasculares benigno",
+        "link": "https://youtu.be/pq-_Pjs0myY"
+      },
+      {
+        "titulo": "Lesiones premalignas",
+        "link": "https://youtu.be/EwuKyuVhb1A"
+      },
+      {
+        "titulo": "Carcinomas cutáneos",
+        "link": "https://youtu.be/3P14uoe15Vs"
+      },
+      {
+        "titulo": "Melanoma maligno",
+        "link": "https://youtu.be/V2P6AafrpOE"
+      },
+      {
+        "titulo": "Lesiones hiperpigmentadas benignas",
+        "link": "https://youtu.be/2Fp0b0G9-F8"
+      },
+      {
+        "titulo": "Linfomas cutáneos",
+        "link": "https://youtu.be/b_r0zn5ybMc"
+      },
+      {
+        "titulo": "Lesiones cutaneas recien nacido",
+        "link": "https://youtu.be/KvdXuv6B_8E"
+      },
+      {
+        "titulo": "Lesiones vasculares recien nacido",
+        "link": "https://youtu.be/Wqdo3lzftjc"
+      },
+      {
+        "titulo": "Reacciones a farmacos",
+        "link": "https://youtu.be/CUikZY1KNLM"
+      },
+      {
+        "titulo": "1",
+        "link": "https://drive.google.com/file/d/16dMWnNN7KQC3Y1GL1pC6Yh-bEXBARKvP/view?usp=sharing"
+      },
+      {
+        "titulo": "2",
+        "link": "https://drive.google.com/file/d/1hkozlWLt28yiVL_F_o2TnL34CqWEHEJ_/view?usp=sharing"
+      },
+      {
+        "titulo": "3",
+        "link": "https://drive.google.com/file/d/1C6oy6QQBBQF1vijfdfGEVZrShEzcQjM1/view?usp=sharing"
+      },
+      {
+        "titulo": "4",
+        "link": "https://drive.google.com/file/d/1BAWIv1u_2CvSL_WAvZULo_GBA-QrbHrZ/view?usp=sharing"
+      },
+      {
+        "titulo": "5",
+        "link": "https://drive.google.com/file/d/17tOV3-vs61P0fHEoxRXumR6xoEXww7KZ/view?usp=sharing"
+      },
+      {
+        "titulo": "6",
+        "link": "https://drive.google.com/file/d/1lKIUHNvuIDnemihXct48F-5h25OsxLFJ/view?usp=sharing"
+      },
+      {
+        "titulo": "Fotos",
+        "link": "https://drive.google.com/file/d/1jJmZJulO5OlZeMY35kQsdM26DN0nye-J/view?usp=sharing"
+      },
+      {
+        "titulo": "Pauta fotos",
+        "link": "https://drive.google.com/file/d/1TL3aTuZzf7eGSjNaHjUsuaktgKId0oLA/view?usp=sharing"
+      },
+      {
+        "titulo": "Selección diapos",
+        "link": "https://drive.google.com/file/d/11EGTn5Jsr9BHw6xMcf9Q0hydCk3YBfqN/view?usp=sharing"
+      }
+    ]
+  },
+  "Otorrino": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Amigdalitis aguda",
+        "link": "https://youtu.be/m3ipLozP1Uc"
+      },
+      {
+        "titulo": "Casos de amigdalitis",
+        "link": "https://youtu.be/vQm7uMqy8Ec"
+      },
+      {
+        "titulo": "Complicaciones de la maigdalitis pultacea",
+        "link": "https://youtu.be/nQvlJSHP9sU"
+      },
+      {
+        "titulo": "Amigdalectomía",
+        "link": "https://youtu.be/xM6ILQ-rWac"
+      },
+      {
+        "titulo": "Hipertrofia adenoides",
+        "link": "https://youtu.be/qjmMKvuMI8o"
+      },
+      {
+        "titulo": "Respirador Bucal",
+        "link": "https://youtu.be/ElPmSO4KjMw"
+      },
+      {
+        "titulo": "Cancer de cabeza y cuello",
+        "link": "https://youtu.be/1QjZOyMprmM"
+      },
+      {
+        "titulo": "Cancer nasosinusal y de boca",
+        "link": "https://youtu.be/NVyfBoEDgns"
+      },
+      {
+        "titulo": "Cancer de faringe y laringe",
+        "link": "https://youtu.be/IcLSHGEKR8k"
+      },
+      {
+        "titulo": "Patologías glándulas salivales",
+        "link": "https://youtu.be/rjqUebNkbeg"
+      },
+      {
+        "titulo": "Tumores salivales",
+        "link": "https://youtu.be/IgsfJY43R3w"
+      },
+      {
+        "titulo": "Generalidades cuerpo extraño",
+        "link": "https://youtu.be/OgeV2zTjJ74"
+      },
+      {
+        "titulo": "Cuerpo extraño nasal y auditivo",
+        "link": "https://youtu.be/FLlNtpPT37Y"
+      },
+      {
+        "titulo": "Cuerpo extraño digestivo",
+        "link": "https://youtu.be/XLl8J8cnp78"
+      },
+      {
+        "titulo": "cuerpo extraño laringeo y bronquial",
+        "link": "https://youtu.be/EdiYRVXtA8o"
+      },
+      {
+        "titulo": "Cuerpo extraño heridas",
+        "link": "https://youtu.be/y8nP3Q1B6mk"
+      },
+      {
+        "titulo": "Traumatismo ORL",
+        "link": "https://youtu.be/s6NteaidJsg"
+      },
+      {
+        "titulo": "Traumatismo timopanico",
+        "link": "https://youtu.be/owcSp_RpE4I"
+      },
+      {
+        "titulo": "Estridor congénito",
+        "link": "https://youtu.be/bLF37ip00b8"
+      },
+      {
+        "titulo": "Disfonías crónicas",
+        "link": "https://youtu.be/qfI2syIDWt4"
+      },
+      {
+        "titulo": "Laringitis aguda",
+        "link": "https://youtu.be/RUcZ4EaMlFk"
+      },
+      {
+        "titulo": "Otras causas de disfonía aguda",
+        "link": "https://youtu.be/aBZu7yMhT6c"
+      },
+      {
+        "titulo": "Herida de cara y cuero cabelludo",
+        "link": "https://youtu.be/1sovxpwGihQ"
+      },
+      {
+        "titulo": "Generalidades hipoacusia",
+        "link": "https://youtu.be/L1WI-VlfYyY"
+      },
+      {
+        "titulo": "Audiometría y test de diapasones",
+        "link": "https://youtu.be/94Ds-alsQeQ"
+      },
+      {
+        "titulo": "Hipoacusias de conducción",
+        "link": "https://youtu.be/OsLJwBtQh9E"
+      },
+      {
+        "titulo": "Impedanciometría",
+        "link": "https://youtu.be/zFjuQTFcrok"
+      },
+      {
+        "titulo": "Hipoacusia sensorioneurales",
+        "link": "https://youtu.be/aJiZsC6T1D4"
+      },
+      {
+        "titulo": "Hipoacusia congénita",
+        "link": "https://youtu.be/24idp9zz-Ek"
+      },
+      {
+        "titulo": "Trastorno de la deglución",
+        "link": "https://youtu.be/ofJekIaI2pQ"
+      },
+      {
+        "titulo": "Trastorno del habla",
+        "link": "https://youtu.be/LKuVTL2A0o8"
+      },
+      {
+        "titulo": "Vértifo",
+        "link": "https://youtu.be/eY2kDuE25bk"
+      },
+      {
+        "titulo": "Causas específicas de vértigo",
+        "link": "https://youtu.be/kV3z4tHiYg0"
+      },
+      {
+        "titulo": "Parálisis facial",
+        "link": "https://youtu.be/MlYreM9WUwA"
+      },
+      {
+        "titulo": "Causas parálisis facial periférica",
+        "link": "https://youtu.be/DAhrysBnLSU"
+      },
+      {
+        "titulo": "sinusitis",
+        "link": "https://youtu.be/KGDn95DvTQU"
+      },
+      {
+        "titulo": "riniti",
+        "link": "https://youtu.be/M-SfpUYqXjk"
+      },
+      {
+        "titulo": "manejos rinitis alérgica",
+        "link": "https://youtu.be/_LpUY_8ZzLM"
+      },
+      {
+        "titulo": "rinitis no alérgica",
+        "link": "https://youtu.be/mMw39RNjFjc"
+      },
+      {
+        "titulo": "Prick test",
+        "link": "https://youtu.be/mKp4edflkY4"
+      },
+      {
+        "titulo": "terapia biológica en alergias graves",
+        "link": "https://youtu.be/w3RYLPAXrXY"
+      },
+      {
+        "titulo": "poliposis nasal",
+        "link": "https://youtu.be/G3A_jahOKec"
+      },
+      {
+        "titulo": "Epistaxis",
+        "link": "https://youtu.be/03zMzHHjS0A"
+      },
+      {
+        "titulo": "Casos rinología",
+        "link": "https://youtu.be/0j25YU4pw60"
+      },
+      {
+        "titulo": "Alergiasy resistencia a la penicilina",
+        "link": "https://youtu.be/MS-kzgIDNXw"
+      },
+      {
+        "titulo": "Otitis media aguda",
+        "link": "https://youtu.be/13sYnD4xIxY"
+      },
+      {
+        "titulo": "Complicaciones de la otitis media aguda y crónica",
+        "link": "https://youtu.be/b0jLAa7ij4Q"
+      },
+      {
+        "titulo": "Otitis media crónica",
+        "link": "https://youtu.be/3Tm65QnBeXs"
+      },
+      {
+        "titulo": "Otitis media con efusión",
+        "link": "https://youtu.be/eGZb_lBDKlg"
+      },
+      {
+        "titulo": "Traumatismo maxilofacial",
+        "link": "https://youtu.be/I2b2JzsjwjY"
+      },
+      {
+        "titulo": "Otitis externa",
+        "link": "https://youtu.be/BSIAr9ZTCA8"
+      },
+      {
+        "titulo": "1",
+        "link": "https://drive.google.com/file/d/1eN9KLDMriQ7TsXo5PKaHlmRcRu0RBNI3/view?usp=sharing"
+      },
+      {
+        "titulo": "2",
+        "link": "https://drive.google.com/file/d/1epLjTEonVE9nXE17MhE5eUCf8qj-ntzS/view?usp=sharing"
+      },
+      {
+        "titulo": "3",
+        "link": "https://drive.google.com/file/d/1cOzA_9rawfLb0bF7qPsZAvYQL6KsEzFk/view?usp=sharing"
+      }
+    ]
+  },
+  "Oftalmo": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Ojos Rojos 1",
+        "link": "https://youtu.be/HT63Qz6H2Co"
+      },
+      {
+        "titulo": "Ojos rojos superficial",
+        "link": "https://youtu.be/kmPNJR7V4tk"
+      },
+      {
+        "titulo": "Ojos rojos conjuntivitis especiales",
+        "link": "https://youtu.be/yrbXSqKttHQ"
+      },
+      {
+        "titulo": "Ojos rojos patologías inflamatoria de párpados",
+        "link": "https://youtu.be/53WZ2_eKq2U"
+      },
+      {
+        "titulo": "Ojo rojo profundo 1",
+        "link": "https://youtu.be/2FTP7iG1Ypg"
+      },
+      {
+        "titulo": "Ojo rojo profundo 2",
+        "link": "https://youtu.be/GBlORVzjhUk"
+      },
+      {
+        "titulo": "Celulitis preorbitaria y orbitaria",
+        "link": "https://youtu.be/C43vuTG6Yzg"
+      },
+      {
+        "titulo": "Perdida lenta de visión",
+        "link": "https://youtu.be/qTq94-ZYgW0"
+      },
+      {
+        "titulo": "Pérdida súbita de visión",
+        "link": "https://youtu.be/bZwvWIgxkUY"
+      },
+      {
+        "titulo": "Pérdida subita de visión resumen",
+        "link": "https://youtu.be/FpMLX_I-JpE"
+      },
+      {
+        "titulo": "Vicios de refracción",
+        "link": "https://youtu.be/ngZ3CBSIlLo"
+      },
+      {
+        "titulo": "Traumatismo ocular",
+        "link": "https://youtu.be/4EgYdO9iTZY"
+      },
+      {
+        "titulo": "Cuerpo extraño",
+        "link": "https://youtu.be/isWuwxesUiY"
+      },
+      {
+        "titulo": "Síndrome de ojo seco",
+        "link": "https://youtu.be/32Zpt0jbfZQ"
+      },
+      {
+        "titulo": "Misceláneos 1",
+        "link": "https://youtu.be/mpiXGpExVfE"
+      },
+      {
+        "titulo": "Misceláneos 2",
+        "link": "https://youtu.be/6eDEBPyH-wA"
+      },
+      {
+        "titulo": "Retinopatía hipertensiva",
+        "link": "https://youtu.be/wNVf4aedtTc"
+      },
+      {
+        "titulo": "Neuroftalmo Lesiones de la vía visual",
+        "link": "https://youtu.be/p_WAYW3_qws"
+      },
+      {
+        "titulo": "Neuroftalmo alteraciones pupilares",
+        "link": "https://youtu.be/2k3YHNZOcSk"
+      },
+      {
+        "titulo": "Neuroftalmo 3",
+        "link": "https://youtu.be/tGSIRhPmGtk"
+      },
+      {
+        "titulo": "Oftalmo pediátrica",
+        "link": "https://youtu.be/JCjtYA9qkdk"
+      },
+      {
+        "titulo": "Oftalmo pediatrica 2",
+        "link": "https://youtu.be/lvSElcjCvFI"
+      },
+      {
+        "titulo": "Oftalmo pediátrica 3",
+        "link": "https://youtu.be/-XGCxxKeSYs"
+      },
+      {
+        "titulo": "1",
+        "link": "https://drive.google.com/file/d/1wrLThHBt7K_VN4M9QVDzj3-Ac1rpdeFe/view?usp=sharing"
+      },
+      {
+        "titulo": "2",
+        "link": "https://drive.google.com/file/d/1gOHuWFaPOJG8W3AQH5JSHpep7mfNc3nw/view?usp=sharing"
+      },
+      {
+        "titulo": "3",
+        "link": "https://drive.google.com/file/d/1-gs4o9V0Ic5swplqsfhmUqEydUK3H0Tu/view?usp=sharing"
+      }
+    ]
+  },
+  "Trauma": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Generalidades fracturas",
+        "link": "https://youtu.be/CcvD8iOtklA"
+      },
+      {
+        "titulo": "Fractura expuesta",
+        "link": "https://youtu.be/m3HDJxvWNtg"
+      },
+      {
+        "titulo": "Complicaciones fracturas 1",
+        "link": "https://youtu.be/AK_V4X5vnRI"
+      },
+      {
+        "titulo": "Complicaciones fracturas 2",
+        "link": "https://youtu.be/nLa7_QfFVQU"
+      },
+      {
+        "titulo": "Complicaciones fracturas3",
+        "link": "https://youtu.be/8t1OJywLJmo"
+      },
+      {
+        "titulo": "Politraumatismo y fractura pelvis",
+        "link": "https://youtu.be/feZ1NqvkDRw"
+      },
+      {
+        "titulo": "Hombro",
+        "link": "https://youtu.be/aC-zgpIldeQ"
+      },
+      {
+        "titulo": "extremidad superior",
+        "link": "https://youtu.be/TyOONwGYmBA"
+      },
+      {
+        "titulo": "extremidad inferior",
+        "link": "https://youtu.be/_fgEnUCZraY"
+      },
+      {
+        "titulo": "rodilla",
+        "link": "https://youtu.be/jp6UlbKgKPQ"
+      },
+      {
+        "titulo": "Fractura cadera",
+        "link": "https://youtu.be/lMR-ftGnf30"
+      },
+      {
+        "titulo": "partes blandas",
+        "link": "https://youtu.be/IlnMbUA1h5Q"
+      },
+      {
+        "titulo": "Tu óseos",
+        "link": "https://youtu.be/rGQMCxtXnyI"
+      },
+      {
+        "titulo": "Trauma infantil",
+        "link": "https://youtu.be/sKe1ml2xyTA"
+      },
+      {
+        "titulo": "Infeción de piel y partes blandas",
+        "link": "https://youtu.be/SVVek4k5llU"
+      },
+      {
+        "titulo": "Artrosis / monoartritis",
+        "link": "https://youtu.be/US9TmT_4fe8"
+      },
+      {
+        "titulo": "Lumbago/ Cervicaalgia / Hombro doloroso / Codo doloroso / Tendinitis / Bursitis/ Fibromialgia",
+        "link": "https://youtu.be/Cyf9wrI8rkE"
+      },
+      {
+        "titulo": "1",
+        "link": "https://drive.google.com/file/d/1z0EA03dHJrngNwW-KiKruj9BrsdAeZV9/view?usp=sharing"
+      },
+      {
+        "titulo": "2",
+        "link": "https://drive.google.com/file/d/13HiL8k8eEsVTcdVimx9KrQfyZDqSDTva/view?usp=sharing"
+      },
+      {
+        "titulo": "3",
+        "link": "https://drive.google.com/file/d/1s2mfg0h0_NiJXSA1IMl0iSOmL1mO9t83/view?usp=sharing"
+      },
+      {
+        "titulo": "4",
+        "link": "https://drive.google.com/file/d/1XerOOpFzOaFAOJlWsUMNq8QH44OxVYwH/view?usp=sharing"
+      },
+      {
+        "titulo": "5",
+        "link": "https://drive.google.com/file/d/1p3F9TCrh-VRpExBRR8sPkHC9aC7X2899/view?usp=sharing"
+      },
+      {
+        "titulo": "Selección de diapos",
+        "link": "https://drive.google.com/file/d/1H2U9-jTh4ieKzYe3136NdlqfpuhLj1Oh/view?usp=sharing"
+      }
+    ]
+  },
+  "Uro": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Litiasis urológica",
+        "link": "https://youtu.be/QNEP39c3Ui4"
+      },
+      {
+        "titulo": "Uropatía obstructiva",
+        "link": "https://youtu.be/ZF2XZ9Ds-yA"
+      },
+      {
+        "titulo": "Vejiga neurogénica",
+        "link": "https://youtu.be/oFe3sqKmK5E"
+      },
+      {
+        "titulo": "Retención urinaria aguda",
+        "link": "https://youtu.be/4cN9SVNCAos"
+      },
+      {
+        "titulo": "Cancer de próstata 1",
+        "link": "https://youtu.be/iZB7IitdVdU"
+      },
+      {
+        "titulo": "Cancer de próstata 2",
+        "link": "https://youtu.be/ni13DiVlr4U"
+      },
+      {
+        "titulo": "Prostatitis",
+        "link": "https://youtu.be/6bjfbpQar4U"
+      },
+      {
+        "titulo": "Incontinencia urinaria",
+        "link": "https://youtu.be/1xm6dkSL5zc"
+      },
+      {
+        "titulo": "Incontinencia urinaria manejo",
+        "link": "https://youtu.be/MpGviJRAXCs"
+      },
+      {
+        "titulo": "Testiculo agudo",
+        "link": "https://youtu.be/PT2-lB0qqNo"
+      },
+      {
+        "titulo": "Orquiepididimitis",
+        "link": "https://youtu.be/YbMsVcPlEes"
+      },
+      {
+        "titulo": "Patología escrotal cronica",
+        "link": "https://youtu.be/dlcNdrumVrA"
+      },
+      {
+        "titulo": "Tumor testicular",
+        "link": "https://youtu.be/w2ZtnNVrvOM"
+      },
+      {
+        "titulo": "Tumor renal",
+        "link": "https://youtu.be/2jmWpytkqag"
+      },
+      {
+        "titulo": "Quister renales",
+        "link": "https://youtu.be/_aRMWuBUCBo"
+      },
+      {
+        "titulo": "Estudio de la hematuria",
+        "link": "https://youtu.be/U3STTJPvw04"
+      },
+      {
+        "titulo": "1",
+        "link": "https://drive.google.com/file/d/1ACHz3lZpsMprwyv52U5MtZfDPCr2PqhP/view?usp=sharing"
+      },
+      {
+        "titulo": "2",
+        "link": "https://drive.google.com/file/d/1hvBncAgkph6dzGDuF6bhcCvlwUOUXVpN/view?usp=sharing"
+      },
+      {
+        "titulo": "3",
+        "link": "https://drive.google.com/file/d/1pT1dcGuujVlzz5P-z3glpggFflLrCgKa/view?usp=sharing"
+      },
+      {
+        "titulo": "4",
+        "link": "https://drive.google.com/file/d/1X8v6jLjepZcr7YqfzgGkW705fGE9EOou/view?usp=sharing"
+      },
+      {
+        "titulo": "5",
+        "link": "https://drive.google.com/file/d/1wxUTWXnIVsPcVvc0ZHiYck56I-yQtZrY/view?usp=sharing"
+      },
+      {
+        "titulo": "Diapositivas seleccionadas",
+        "link": "https://drive.google.com/file/d/1Gnw0Hg74Mw3gCw_eu1HfYl6TOXCr9BIM/view?usp=sharing"
+      }
+    ]
+  },
+  "Cx y anestesia": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Fiebre postquirúrgica",
+        "link": "https://youtu.be/RJ5Ji-lpcwQ"
+      },
+      {
+        "titulo": "Clasificación y profilaxis antibiótica de la herida operatorio",
+        "link": "https://youtu.be/2x-D_2tKTw4"
+      },
+      {
+        "titulo": "Úlceras por presión",
+        "link": "https://youtu.be/1PQ96RBIZZ8"
+      },
+      {
+        "titulo": "Cicatrices patológicas",
+        "link": "https://youtu.be/u-MtB2KYnU8"
+      },
+      {
+        "titulo": "Hernias",
+        "link": "https://youtu.be/vbZGGByma6I"
+      },
+      {
+        "titulo": "Complicaciones quirúrgicas",
+        "link": "https://youtu.be/aY0Fn3n4oqU"
+      },
+      {
+        "titulo": "Patología perianal",
+        "link": "https://youtu.be/J25s3cGrjjY"
+      },
+      {
+        "titulo": "Patología pilonidal",
+        "link": "https://youtu.be/XeeMn9bapcI"
+      },
+      {
+        "titulo": "Tumores de partes blandas",
+        "link": "https://youtu.be/vt3a7NeGXog"
+      },
+      {
+        "titulo": "Cáncer de mama (screening y diagnóstico)",
+        "link": "https://youtu.be/Gy_XyJfenok"
+      },
+      {
+        "titulo": "Cáncer de mama (clínica y manejo)",
+        "link": "https://youtu.be/D5Vvb443Occ"
+      },
+      {
+        "titulo": "Tumor cerebral",
+        "link": "https://youtu.be/ayNAUHurEJU"
+      },
+      {
+        "titulo": "TEC",
+        "link": "https://youtu.be/tS6IpJVqTYo"
+      },
+      {
+        "titulo": "Tac de cerebro hemorragias",
+        "link": "https://youtu.be/gK2dTLKRgn4"
+      },
+      {
+        "titulo": "HSA espontánea",
+        "link": "https://youtu.be/BJanFDjT8q4"
+      },
+      {
+        "titulo": "Disección de arterias cervicales",
+        "link": "https://youtu.be/QYdFmgbDDDg"
+      },
+      {
+        "titulo": "Abdomen agudo",
+        "link": "https://youtu.be/n2M4F0ddMrg"
+      },
+      {
+        "titulo": "Apendicitis aguda",
+        "link": "https://youtu.be/WAt6Y5BM4xM"
+      },
+      {
+        "titulo": "Enfermedad diverticular",
+        "link": "https://youtu.be/fVayw6jwGSI"
+      },
+      {
+        "titulo": "Hemorragia digestiva baja",
+        "link": "https://youtu.be/LqYm7R5gRcw"
+      },
+      {
+        "titulo": "Hemorragia digestiva alta",
+        "link": "https://youtu.be/AfOzj8Aw4Sg"
+      },
+      {
+        "titulo": "Obstrucción intestinal",
+        "link": "https://youtu.be/MCQkxU1z4DM"
+      },
+      {
+        "titulo": "Patología abdominal de origen vascular",
+        "link": "https://youtu.be/XsrKnArHEGw"
+      },
+      {
+        "titulo": "Pancreatitis aguda (clínica diagnóstico y pronóstico)",
+        "link": "https://youtu.be/p89xhsH9IKQ"
+      },
+      {
+        "titulo": "Pnacreatitis aguda manejo",
+        "link": "https://youtu.be/8r2Pxt9-8g0"
+      },
+      {
+        "titulo": "Pancreatitis crónica",
+        "link": "https://youtu.be/TDbxsZmWWN8"
+      },
+      {
+        "titulo": "Cáncer de páncreas",
+        "link": "https://youtu.be/nEIzMHdiU4A"
+      },
+      {
+        "titulo": "Cáncer de vesícula Biliar",
+        "link": "https://youtu.be/TADQLtDQ0fg"
+      },
+      {
+        "titulo": "Patología Biliar 1 generalidades",
+        "link": "https://youtu.be/sQRs_4u6_04"
+      },
+      {
+        "titulo": "2 Colecistitis aguda y crónica",
+        "link": "https://youtu.be/B22AkNmKBGA"
+      },
+      {
+        "titulo": "3 Coledocolitiasis y colanditis aguda",
+        "link": "https://youtu.be/SCSgAS--beQ"
+      },
+      {
+        "titulo": "Polipos vesiculares",
+        "link": "https://youtu.be/igcpw4LhFps"
+      },
+      {
+        "titulo": "Hictericia generalidades",
+        "link": "https://youtu.be/xjDlojFXHrc"
+      },
+      {
+        "titulo": "Carotenosis",
+        "link": "https://youtu.be/7aHvQfOj5Rs"
+      },
+      {
+        "titulo": "Tu hepáticos",
+        "link": "https://youtu.be/wc1VHcOhS0o"
+      },
+      {
+        "titulo": "Hernia hiatal",
+        "link": "https://youtu.be/SdOKRp58KEI"
+      },
+      {
+        "titulo": "Lesiones diafragmáticas",
+        "link": "https://youtu.be/kUjI3evCBIM"
+      },
+      {
+        "titulo": "Patología de mediastino",
+        "link": "https://youtu.be/55PzsbO88qo"
+      },
+      {
+        "titulo": "Signos de alarma en la gastroenterología",
+        "link": "https://youtu.be/QeZPBYvz-zI"
+      },
+      {
+        "titulo": "Ca esofágico y gástrico",
+        "link": "https://youtu.be/HBJg1365rl4"
+      },
+      {
+        "titulo": "Cáncer colorrectal",
+        "link": "https://youtu.be/QGLCh4O6NhQ"
+      },
+      {
+        "titulo": "Pólipos colorrectales / Ca colon de origen genético",
+        "link": "https://youtu.be/f_j-DJWTCTk"
+      },
+      {
+        "titulo": "Perforación del tubo digestivo",
+        "link": "https://youtu.be/skYdMgslRX4"
+      },
+      {
+        "titulo": "Traumatismo abdominal",
+        "link": "https://youtu.be/1Jg-VHrlkvw"
+      },
+      {
+        "titulo": "Neumotórax clasificación clínica y diagnóstico",
+        "link": "https://youtu.be/vUL-vxv8-XM"
+      },
+      {
+        "titulo": "Neumotórax manejo",
+        "link": "https://youtu.be/qtGOZhsoVD4"
+      },
+      {
+        "titulo": "Cirugía pediátrica 1",
+        "link": "https://youtu.be/2Ov2Va4d7Gs"
+      },
+      {
+        "titulo": "Cirugía pediátrica 2",
+        "link": "https://youtu.be/svzVecm5FdI"
+      },
+      {
+        "titulo": "Cirugía pediátrica 3",
+        "link": "https://youtu.be/a4LaAM6ssto"
+      },
+      {
+        "titulo": "Cuerpo extraño digestivo",
+        "link": "https://youtu.be/vEgBrkOsNxA"
+      },
+      {
+        "titulo": "Cuerpo extraño heridas",
+        "link": "https://youtu.be/t-rRfx180BI"
+      },
+      {
+        "titulo": "1",
+        "link": "https://drive.google.com/file/d/1xy7_3UVtCPrPxuFplq-d_YO9q6jcVvq9/view?usp=sharing"
+      },
+      {
+        "titulo": "2",
+        "link": "https://drive.google.com/file/d/1iQZ8TmfF250lBVkyFJXP387ZJ6ECxrpa/view?usp=sharing"
+      },
+      {
+        "titulo": "3",
+        "link": "https://drive.google.com/file/d/1fQD-a1CgJqekVHhZF_8lFAe6BYvpVQfN/view?usp=sharing"
+      },
+      {
+        "titulo": "4",
+        "link": "https://drive.google.com/file/d/1qXEG2NYMj3Dh9ni9GXzIrTjD9nkEJONG/view?usp=sharing"
+      },
+      {
+        "titulo": "Repaso cx infantil perú",
+        "link": "https://www.youtube.com/watch?v=RsQvDFjS9TE"
+      },
+      {
+        "titulo": "Introducción Tecnica quirúrgica perú 1:24:00",
+        "link": "https://youtu.be/-V3f2BYM3EM?si=P6vg5mRtteygcNAL&t=5054"
+      }
+    ]
+  },
+  "Obstetricia": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Control antenatal",
+        "link": "https://youtu.be/siltw7saCgQ",
+        "check": "si"
+      },
+      {
+        "titulo": "determinación de edad gestacional",
+        "link": "https://youtu.be/E1VOUYY86m4",
+        "check": "si"
+      },
+      {
+        "titulo": "anemia en el embarazo",
+        "link": "https://youtu.be/_yCbtn6WY90",
+        "check": "si"
+      },
+      {
+        "titulo": "hiperhemesis gravídica",
+        "link": "https://youtu.be/bX7zZvytk1U",
+        "check": "si"
+      },
+      {
+        "titulo": "diagnóstico de diabetes en el embarazo",
+        "link": "https://youtu.be/er8zzIlXcI8",
+        "check": "si"
+      },
+      {
+        "titulo": "Tratamiento de la dm gestacional control glucémico",
+        "link": "https://youtu.be/ViKDiMLXhMk"
+      },
+      {
+        "titulo": "tratamiento de la dm gestacional control obstétrico",
+        "link": "https://youtu.be/DSYHibJ3kDA"
+      },
+      {
+        "titulo": "Metrorragia de la primera mitad del embarazo",
+        "link": "https://youtu.be/OoxmA9IJNaU"
+      },
+      {
+        "titulo": "aborto espontáneo",
+        "link": "https://youtu.be/YhI_Wm2r5OI",
+        "check": "SI"
+      },
+      {
+        "titulo": "aborto retenido",
+        "link": "https://youtu.be/N9nQgeMPkms",
+        "check": "si"
+      },
+      {
+        "titulo": "óbito fetal",
+        "link": "https://youtu.be/IbSiFHWhGxI",
+        "check": "SI"
+      },
+      {
+        "titulo": "aborto completo versus embarazo ectópico",
+        "link": "https://youtu.be/n2-SfR94BF4",
+        "check": "SI"
+      },
+      {
+        "titulo": "aborto séptico",
+        "link": "https://youtu.be/3pVwJ8Nn2O8",
+        "check": "SI"
+      },
+      {
+        "titulo": "causales de aborto provocado en Chile",
+        "link": "https://youtu.be/3in5tksirwc"
+      },
+      {
+        "titulo": "Embarazo ectópic definición y diagnóstico",
+        "link": "https://youtu.be/BVy7dCJCk0Q"
+      },
+      {
+        "titulo": "embarazo ectópico manejo",
+        "link": "https://youtu.be/srYu04p4oC0"
+      },
+      {
+        "titulo": "embarazo ectópico casos",
+        "link": "https://youtu.be/DBR-7S_dmKs"
+      },
+      {
+        "titulo": "enf. trofoblastica gestacional",
+        "link": "https://youtu.be/pIbJI8-l3RY"
+      },
+      {
+        "titulo": "Metrorragia de la segunda mitad del embarazo",
+        "link": "https://youtu.be/e4sQiHhLg6o"
+      },
+      {
+        "titulo": "Placenta previa asintomática",
+        "link": "https://youtu.be/oMGibxxYNQk"
+      },
+      {
+        "titulo": "espectro de la placenta acreta",
+        "link": "https://youtu.be/KyeLFdwCIAY"
+      },
+      {
+        "titulo": "Síndrome hipertensivo del embarazo SHE",
+        "link": "https://youtu.be/kzlfe0-cwfc",
+        "check": "SI"
+      },
+      {
+        "titulo": "ejercicios y casos she",
+        "link": "https://youtu.be/EODOCFqiVZE",
+        "check": "si"
+      },
+      {
+        "titulo": "SHE  manejo",
+        "link": "https://youtu.be/BzoEUpE6f5U",
+        "check": "si"
+      },
+      {
+        "titulo": "eclampsia",
+        "link": "https://youtu.be/M8GcW8h-as4",
+        "check": "si"
+      },
+      {
+        "titulo": "prevención de preclampsia",
+        "link": "https://youtu.be/A2f0tAlFhUU",
+        "check": "si"
+      },
+      {
+        "titulo": "colestacia intrahepática del embarazo CIE",
+        "link": "https://youtu.be/hLj31Uhao6E"
+      },
+      {
+        "titulo": "Higado graso agudo del embarazo HGAE",
+        "link": "https://youtu.be/BqulD5y7yiM"
+      },
+      {
+        "titulo": "HELLP",
+        "link": "https://youtu.be/U_s6BZNpV3U"
+      },
+      {
+        "titulo": "resumen comparativo CIE HGAE HELLP",
+        "link": "https://youtu.be/9L-AYnNUQ7A"
+      },
+      {
+        "titulo": "Embarazo gemelar diagnóstico",
+        "link": "https://youtu.be/KRqzb4UM9KY"
+      },
+      {
+        "titulo": "Embarazo gemelar manejo",
+        "link": "https://youtu.be/_LUW-8X1Jhg"
+      },
+      {
+        "titulo": "Embarazo gemelar manejo de la muerte de un gemelo",
+        "link": "https://youtu.be/RBMvaDYxW9w"
+      },
+      {
+        "titulo": "Complicaciones embarazo gemelar monocorial",
+        "link": "https://youtu.be/i62NHeGyw90"
+      },
+      {
+        "titulo": "Restricción del crecimiento intrauterino RCIU",
+        "link": "https://youtu.be/0bnbJD-6V1U"
+      },
+      {
+        "titulo": "Doppler fetal",
+        "link": "https://youtu.be/kIIcS_krO2Y"
+      },
+      {
+        "titulo": "Edades de interrupción RCIU",
+        "link": "https://youtu.be/DCWzwQlkPD0"
+      },
+      {
+        "titulo": "resumen comparativo parto prematuro y rotura prematura de membranas",
+        "link": "https://youtu.be/S_B1hA9KvOA"
+      },
+      {
+        "titulo": "Parto prematuro",
+        "link": "https://youtu.be/BGL6LY8x--A"
+      },
+      {
+        "titulo": "Rotura prematura de membranas",
+        "link": "https://youtu.be/kXTejEgqXgg"
+      },
+      {
+        "titulo": "Infecciones ovulares",
+        "link": "https://youtu.be/qY9NE26GddQ"
+      },
+      {
+        "titulo": "Profilaxis de infección por estreptococo betahemolitico grupo B",
+        "link": "https://youtu.be/xFduQqcQ844"
+      },
+      {
+        "titulo": "Parto vaginal",
+        "link": "https://youtu.be/X5gzh9I-L4Q"
+      },
+      {
+        "titulo": "DIstocias de presentación",
+        "link": "https://youtu.be/d6ZgwDITolE"
+      },
+      {
+        "titulo": "Metrorragia del parto",
+        "link": "https://youtu.be/St_DVUlw49I"
+      },
+      {
+        "titulo": "Detección hipoxia fetal I",
+        "link": "https://youtu.be/EuNH5J54COM"
+      },
+      {
+        "titulo": "Detección hipoxia fetal II",
+        "link": "https://youtu.be/53CC85rOl_0"
+      },
+      {
+        "titulo": "Atención inmediata del reción nacido y asfixia neonatal",
+        "link": "https://youtu.be/kocNggnom7g"
+      },
+      {
+        "titulo": "Puerperio normal",
+        "link": "https://youtu.be/0Dh977mjqfw"
+      },
+      {
+        "titulo": "Puerperio patológico",
+        "link": "https://youtu.be/jY2YDZeyF9U"
+      },
+      {
+        "titulo": "Metrorragias puerperales",
+        "link": "https://youtu.be/xEwRb7aLSyo"
+      },
+      {
+        "titulo": "puerperio patológico mama",
+        "link": "https://youtu.be/T_jZzsTcKMw"
+      },
+      {
+        "titulo": "Lactancia materna",
+        "link": "https://youtu.be/nWY0oJn6R08"
+      },
+      {
+        "titulo": "Psiquiatría obstétrica",
+        "link": "https://youtu.be/SyUviAt-OMg"
+      },
+      {
+        "titulo": "Parto prematuro I",
+        "link": "https://youtu.be/3Q8urHRQlYc"
+      },
+      {
+        "titulo": "Parto prematuro II",
+        "link": "https://youtu.be/2YdtZUJ3cLs"
+      },
+      {
+        "titulo": "Cuestionario 1",
+        "link": "https://drive.google.com/file/d/1NwyO0MMFbnfB0CxWJ8OaEJ0Eqdp8zUWC/view?usp=sharing"
+      },
+      {
+        "titulo": "Cuestionario 2",
+        "link": "https://drive.google.com/file/d/1icIpiKjwtSSQe0fNxKrdyJxdGt6wO7xS/view?usp=sharing"
+      }
+    ]
+  },
+  "Ginecologia": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Amenorrea primaria",
+        "link": "https://youtu.be/MZEvf4J8usc"
+      },
+      {
+        "titulo": "Sangrado uterino anormal SUA",
+        "link": "https://youtu.be/6XsW4NllV0E"
+      },
+      {
+        "titulo": "metrorragia en la menopausia",
+        "link": "https://youtu.be/j-5MwT0ugYs"
+      },
+      {
+        "titulo": "Metrorragia en la postmenopausia",
+        "link": "https://youtu.be/x5Cfw6_wccg"
+      },
+      {
+        "titulo": "Patología uterina benigna I",
+        "link": "https://youtu.be/OYSrzG4ch5Y"
+      },
+      {
+        "titulo": "Patología uterina benigna II",
+        "link": "https://youtu.be/Dyn4nCl5-ZU"
+      },
+      {
+        "titulo": "Patología endometrial maligna",
+        "link": "https://youtu.be/XAgHDVvuZTA"
+      },
+      {
+        "titulo": "Prevención dle cáncer de cuello uterino",
+        "link": "https://youtu.be/0uTazoVUJeI"
+      },
+      {
+        "titulo": "Generalidades PAP",
+        "link": "https://youtu.be/ZOaYzqjsMtw"
+      },
+      {
+        "titulo": "Detalles menejo PAP",
+        "link": "https://youtu.be/3K_ZLNPnH7w"
+      },
+      {
+        "titulo": "PAP y colcoscopía en el embarazo",
+        "link": "https://youtu.be/81jORiknxus"
+      },
+      {
+        "titulo": "Lesiones cervicales premalignas NIE",
+        "link": "https://youtu.be/XgeBw9SamTs"
+      },
+      {
+        "titulo": "Cáncer de cuello uterino y vagina",
+        "link": "https://youtu.be/68toGLRiSII"
+      },
+      {
+        "titulo": "Tumor anexial generalidades",
+        "link": "https://youtu.be/nOWywxrznAg"
+      },
+      {
+        "titulo": "Tumor anexial II",
+        "link": "https://youtu.be/6HbCFzZPo0A"
+      },
+      {
+        "titulo": "Tumor anexial III",
+        "link": "https://youtu.be/senxAfRS5HE"
+      },
+      {
+        "titulo": "Leucorreas I",
+        "link": "https://youtu.be/BPL3Fz_nAVw"
+      },
+      {
+        "titulo": "Leucorreas II",
+        "link": "https://youtu.be/u8wO3G1TcW4"
+      },
+      {
+        "titulo": "Enf Inflamatoria pélvica",
+        "link": "https://youtu.be/_gC2oA_S7KI"
+      },
+      {
+        "titulo": "Patología de glándula de Bartholino",
+        "link": "https://youtu.be/K566FGeKf_M"
+      },
+      {
+        "titulo": "Algia pélvica aguda",
+        "link": "https://youtu.be/MN1xAlbC0Ts"
+      },
+      {
+        "titulo": "Algia pélvica crónica",
+        "link": "https://youtu.be/X569uioD9MI"
+      },
+      {
+        "titulo": "Endometriosis",
+        "link": "https://youtu.be/TIoEBnXgw7Y"
+      },
+      {
+        "titulo": "Métodos anticonceptivos I - La amenaza espermia",
+        "link": "https://youtu.be/xkm96QJXGLo"
+      },
+      {
+        "titulo": "Métodos anticonceptivos II - La guerra de los condones",
+        "link": "https://youtu.be/X0lrTR0x6Jw"
+      },
+      {
+        "titulo": "Métodos anticonceptivos III - La venganza de los XY",
+        "link": "https://youtu.be/gdc6XSxzGUM"
+      },
+      {
+        "titulo": "Métodos anticonceptivos IV - La nueva esperanza",
+        "link": "https://youtu.be/LeLr5JRYP-s"
+      },
+      {
+        "titulo": "Métodos anticonceptivos V - El espermio contraataca",
+        "link": "https://youtu.be/t20uR34wWUk"
+      },
+      {
+        "titulo": "Menopausia y climaterio",
+        "link": "https://youtu.be/-7cR7jyMN5U"
+      },
+      {
+        "titulo": "Prolapso genital",
+        "link": "https://youtu.be/A6tpZ-rYN5U"
+      },
+      {
+        "titulo": "Patología benigna de la mama",
+        "link": "https://youtu.be/mnWfvdtTFtU"
+      },
+      {
+        "titulo": "Ginecología infantil I",
+        "link": "https://youtu.be/QwDn9uUTuOY"
+      },
+      {
+        "titulo": "Ginecología infantil II",
+        "link": "https://youtu.be/Nif8blzMl-s"
+      },
+      {
+        "titulo": "control 1",
+        "link": "https://drive.google.com/file/d/1q9g53lDeev-manWCSy9Und8J1g-HWBl-/view?usp=sharing"
+      },
+      {
+        "titulo": "COntorl 2",
+        "link": "https://drive.google.com/file/d/12w9GO7PU9lL_ItkYstv73qw_zloPz9W5/view?usp=sharing"
+      },
+      {
+        "titulo": "Cnotrol 3",
+        "link": "https://drive.google.com/file/d/15_HWhnVBrfMnBcN1E6n6nm-LiPYr_CC8/view?usp=sharing"
+      }
+    ]
+  },
+  "Pediatría": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Ictericia neonatal 1",
+        "link": "https://youtu.be/CeojFvGfL8Q"
+      },
+      {
+        "titulo": "Ictericia neonatal 2",
+        "link": "https://youtu.be/ix6vkaXcJ8Y"
+      },
+      {
+        "titulo": "Ictericia neonatal 3",
+        "link": "https://youtu.be/Q-OObdRZO54"
+      },
+      {
+        "titulo": "Ictericia neonatal 4",
+        "link": "https://youtu.be/kBokhxyOJ58"
+      },
+      {
+        "titulo": "Isoinmunización RH",
+        "link": "https://youtu.be/1vho_2NCiu8"
+      },
+      {
+        "titulo": "DIficultad respiratoria del RN",
+        "link": "https://youtu.be/e5HWTjPw358"
+      },
+      {
+        "titulo": "DIficultad respiratoria del RN 2",
+        "link": "https://youtu.be/lsa1ec1nlpE"
+      },
+      {
+        "titulo": "RN de alto riesgo |",
+        "link": "https://youtu.be/C45yKQv-olA"
+      },
+      {
+        "titulo": "RN de alto riesgo 2",
+        "link": "https://youtu.be/ASXqD9LYcsg"
+      },
+      {
+        "titulo": "Hipoglicemia RN",
+        "link": "https://youtu.be/AcfZjpAMgtE"
+      },
+      {
+        "titulo": "Hipocalcemia RN",
+        "link": "https://youtu.be/tRxrA7VsIcA"
+      },
+      {
+        "titulo": "Poliglobulia",
+        "link": "https://youtu.be/JiXt1s7jzhc"
+      },
+      {
+        "titulo": "Sepsis neonatal",
+        "link": "https://youtu.be/t7kXA1oU2_c"
+      },
+      {
+        "titulo": "APGAR",
+        "link": "https://youtu.be/W3mHZEMcTEU"
+      },
+      {
+        "titulo": "Reanimación neonatal",
+        "link": "https://youtu.be/KLzMtwujh4U"
+      },
+      {
+        "titulo": "Asfixia neonatal",
+        "link": "https://youtu.be/NrFfhsFEqRs"
+      },
+      {
+        "titulo": "Convulsiones neonatales",
+        "link": "https://youtu.be/A760miwxIL0"
+      },
+      {
+        "titulo": "Micro y macrocefalia",
+        "link": "https://youtu.be/V6rTh8lIIsU"
+      },
+      {
+        "titulo": "Cefalea en niños",
+        "link": "https://youtu.be/jfdtmWAT0gQ"
+      },
+      {
+        "titulo": "Neurología pediátrica",
+        "link": "https://youtu.be/Y43NpUk8R80"
+      },
+      {
+        "titulo": "Desarrollo psicomotor",
+        "link": "https://youtu.be/hBx25wZEVuc"
+      },
+      {
+        "titulo": "S de Down",
+        "link": "https://youtu.be/lL1zWGrxWJ0"
+      },
+      {
+        "titulo": "Inmunodeficiencias1",
+        "link": "https://youtu.be/Pcnt4cvrETk"
+      },
+      {
+        "titulo": "Inmunodeficiencias 2",
+        "link": "https://youtu.be/RIw8JUKV9dY"
+      },
+      {
+        "titulo": "Inmunodeficiencias 3",
+        "link": "https://youtu.be/U_waFU7H8EA"
+      },
+      {
+        "titulo": "Alte y Brue",
+        "link": "https://youtu.be/nnnNKMMhLtk"
+      },
+      {
+        "titulo": "Fiebre sin foco",
+        "link": "https://youtu.be/0lNAQbCH6KQ"
+      },
+      {
+        "titulo": "Convulsión febril",
+        "link": "https://youtu.be/j1km4h7WmVI"
+      },
+      {
+        "titulo": "Diarrea aguda en pediatría",
+        "link": "https://youtu.be/9x8mvb_XxIs"
+      },
+      {
+        "titulo": "Diarrea crónica pediatría",
+        "link": "https://youtu.be/8a2-qS7iMnY"
+      },
+      {
+        "titulo": "Problemas relacionado a ingesta de lacteos",
+        "link": "https://youtu.be/NI-Q93QFNp8"
+      },
+      {
+        "titulo": "Enfermedad celiaca",
+        "link": "https://youtu.be/FAtptqSLblw"
+      },
+      {
+        "titulo": "Fibrosis quísticas",
+        "link": "https://youtu.be/P8zQYrevAIk"
+      },
+      {
+        "titulo": "Constipación",
+        "link": "https://youtu.be/a4-9Whrqmic"
+      },
+      {
+        "titulo": "Dolor abdominal crónico",
+        "link": "https://youtu.be/kNLHAPkw3YA"
+      },
+      {
+        "titulo": "Masas abdominales niños",
+        "link": "https://youtu.be/6pgeEjztFiA"
+      },
+      {
+        "titulo": "DIagnóstico nutricional niños",
+        "link": "https://youtu.be/KLXsNlF8oM0"
+      },
+      {
+        "titulo": "Talla baja",
+        "link": "https://youtu.be/cdTEjo73R4o"
+      },
+      {
+        "titulo": "Curvas Talla Edad",
+        "link": "https://youtu.be/5SKnWezFSYs"
+      },
+      {
+        "titulo": "Talla alta",
+        "link": "https://youtu.be/8deJCOud7M8"
+      },
+      {
+        "titulo": "Hipotermia en niños",
+        "link": "https://youtu.be/-OuiPEgvNBM"
+      }
+    ]
+  },
+  "Repasos": {
+    "tipo_especial": "estandar",
+    "items": [
+      {
+        "titulo": "Gine obste",
+        "link": "https://drive.google.com/file/d/11OulEMq-SnthbKVSPXtlhhoCN895E-eq/view?usp=sharing"
+      },
+      {
+        "titulo": "Pediatría",
+        "link": "https://drive.google.com/file/d/17rrYu83PQxrZAKAznaxULevavevx5JcU/view?usp=sharing"
+      },
+      {
+        "titulo": "Psiquiatría y salud pública",
+        "link": "https://drive.google.com/file/d/1qXYgRqfKAB06rqaxiLRreRMTzQtPQwEP/view?usp=sharing"
+      },
+      {
+        "titulo": "Otorrino oftalmo",
+        "link": "https://drive.google.com/file/d/15vYNGGhKzGmszHkTVA2HGz4N7TNj6mTY/view?usp=sharing"
+      },
+      {
+        "titulo": "Dermato uro",
+        "link": "https://drive.google.com/file/d/1KTOiIGDHdODjbEtGeNyUlfsJy5DYb54d/view?usp=sharing"
+      },
+      {
+        "titulo": "Traumato y cirugía",
+        "link": "https://drive.google.com/file/d/1cXyKQ8h0X9AJ-nF4CDwRTr8xEOS_wzc3/view?usp=sharing"
+      },
+      {
+        "titulo": "Diabetes y gastroenterología",
+        "link": "https://drive.google.com/file/d/1r5Nw82-w4d7SL0P5-6izk_vgcaqhhyzg/view?usp=sharing"
+      },
+      {
+        "titulo": "Hemato, nefro, reuma",
+        "link": "https://drive.google.com/file/d/1HFar5EO6TF-b3qN_1YwtL6VA_FwUIn2H/view?usp=sharing"
+      },
+      {
+        "titulo": "Endocrino infecto}",
+        "link": "https://drive.google.com/file/d/1jN2-dNUjPtNlOyhHE3-Fm1h4fwBLafhD/view?usp=sharing"
+      },
+      {
+        "titulo": "Neuro, cardio y respi",
+        "link": "https://drive.google.com/file/d/1Jv0hbAXBQFy8tHwfFoOV_577M1kCBYF4/view?usp=sharing"
+      },
+      {
+        "titulo": "Examenes de lab",
+        "link": "https://drive.google.com/file/d/10O6oFWoHlAU27DPpI-6KLhCBqVdZ6KCi/view?usp=sharing"
+      },
+      {
+        "titulo": "Imagenelogía (fotos)",
+        "link": "https://drive.google.com/file/d/1961lNxMXUIUl4PmXzgGKcMTJ9BA1o5u2/view?usp=sharing"
+      },
+      {
+        "titulo": "EUNACOM 2013",
+        "link": "https://drive.google.com/file/d/1tBD6D_t1ITXkccIy4CkWNcQdiVK9Gsju/view?usp=sharing"
+      },
+      {
+        "titulo": "EUNACOM 2016",
+        "link": "https://drive.google.com/file/d/1O9VnYYSZKWzQ4CHL7HGULDapczJOvVZx/view?usp=sharing"
+      },
+      {
+        "titulo": "ENACOM 2017",
+        "link": "https://drive.google.com/file/d/1ZDKFEvdDb6HDN-3c7uPhZJIrtVOLU9aj/view?usp=sharing"
+      },
+      {
+        "titulo": "EUNACOM 2018",
+        "link": "https://drive.google.com/file/d/1egCm1RiIZZe7hCpIdnb_y1wtXR9u333L/view?usp=sharing"
+      },
+      {
+        "titulo": "EUNACOM 2019 julio",
+        "link": "https://drive.google.com/file/d/1V28N8RtfPkm6ZlTF8uZ0YNMv467_vThN/view?usp=sharing"
+      },
+      {
+        "titulo": "EUNACOM 2019 DIC",
+        "link": "https://drive.google.com/file/d/1L90VSD961PuacEHloGazUDKGm6f_x6a6/view?usp=sharing"
+      },
+      {
+        "titulo": "EUNACOM 2021 Agosto",
+        "link": "https://drive.google.com/file/d/1dSwcGmSHu9jvMFdhLD81z8CR2DxzLCtr/view?usp=sharing"
+      },
+      {
+        "titulo": "EUNACOM 2022 FORMA A Parte 1",
+        "link": "https://drive.google.com/file/d/1p1dfrpa--QywjP4h-hUdWrHG4DHyYcKd/view?usp=sharing"
+      },
+      {
+        "titulo": "EUNACOM 2022 FORMA A parte 2",
+        "link": "https://drive.google.com/file/d/17ObYJWgIHnbPp_uIMGYL72dMs3xNhSRy/view?usp=sharing"
+      },
+      {
+        "titulo": "Preguntas repetidas Parte 1",
+        "link": "https://drive.google.com/file/d/1p1dfrpa--QywjP4h-hUdWrHG4DHyYcKd/view?usp=sharing"
+      },
+      {
+        "titulo": "Preguntas repetidas parte 2",
+        "link": "https://drive.google.com/file/d/1inHlm0d0WKS9WAW188Fu0CYT2cHekf7p/view?usp=sharing"
+      },
+      {
+        "titulo": "EUNACOM JULIO 2024 PARTE 1 respuestas",
+        "link": "https://drive.google.com/file/d/1j5CWeQTfCciF94dkKRQZ8PN_rVF9yhXS/view?usp=sharing"
+      },
+      {
+        "titulo": "EUNACOM JULIO 2024 PARTE 2 respuestas",
+        "link": "https://drive.google.com/file/d/1A_yAszDc3BBWOGWfpnsuuOG6kr5UMa5X/view?usp=sharing"
+      },
+      {
+        "titulo": "EUNACOM JULIO 2024 1 FORMS",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSeVuCjVWENqloXjAXxKocAGfkudiD6epqvF3TXKvX_2YjYmYA/viewform?usp=sharing"
+      },
+      {
+        "titulo": "EUNACOM JULIO 2024 2 FORMS",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSebKFaMak3T7BGgAKPIvh1Jt8oPY4TLD2vKhQmVMuIiJJ-xnA/viewform?usp=dialog"
+      }
+    ]
+  },
+  "Hoja 13": {
+    "tipo_especial": "titulos_sin_links",
+    "items": [
+      "71.- Parasitosis IV - Infestaciones por artrópodosPágina",
+      "72.- AspergilosisPágina",
+      "73.- Endocarditis infecciosaPágina",
+      "74.- Accidentes cortopunzantesPágina",
+      "75.- Adenitis supurada y adenitis tuberculosaPágina",
+      "76. DifteriaPágina",
+      "77.- Angina de Vincent y angina de LudwigPágina",
+      "78.- Infecciones de transmisión sexual (generalidades)Página",
+      "79.- UretritisPágina",
+      "80.- Sífilis (clínica)Página",
+      "81.- Sífilis (diagnóstico y tratamiento)Página",
+      "82.- Sífilis y embarazoPágina",
+      "83.- Herpes genitalPágina",
+      "84.- ChancroidePágina",
+      "85.- Infecciones por virus papiloma humanoPágina",
+      "86.- Infecciones por virus pox"
+    ]
+  },
+  "Pediatría_pruebas": {
+    "tipo_especial": "pruebas_pdf",
+    "items": [
+      {
+        "titulo": "Hematología pediátrica",
+        "link": "https://drive.google.com/file/d/18Rv9dQ6519CpwQjUcdB3WgJJeWWRBZJx/view?usp=sharing"
+      },
+      {
+        "titulo": "Cardiología pediátrica",
+        "link": "https://drive.google.com/file/d/1vElypGYX6rDL8lCu1qArGmSgaeP3eNde/view?usp=sharing"
+      },
+      {
+        "titulo": "Endocrinología pediátrica",
+        "link": "https://drive.google.com/file/d/1PqyS-S4JOZIZvhIUFiIzLiCPUn19vGRd/view?usp=sharing"
+      },
+      {
+        "titulo": "Reumatología e Inmunología pediátrica",
+        "link": "https://drive.google.com/file/d/1iHDfS9E60f6Rl3kn4z20kT6UsNJlDYbT/view?usp=sharing"
+      },
+      {
+        "titulo": "Neurología pediátrica",
+        "link": "https://drive.google.com/file/d/1a6NW28i5TJiAswfERflCNfpkpraaWsEi/view?usp=sharing"
+      },
+      {
+        "titulo": "Infectología pediátrica",
+        "link": "https://drive.google.com/file/d/1qFw4kA2Dv9zkkEH9p-Vjw0xaOoHoiZnL/view?usp=sharing"
+      },
+      {
+        "titulo": "Nutrición pediátrica",
+        "link": "https://drive.google.com/file/d/1oQLXe5Yo8U0WxfU1TlceulSwgRfDYQQQ/view?usp=sharing"
+      },
+      {
+        "titulo": "Respiratorio pediátrico",
+        "link": "https://drive.google.com/file/d/1Yjt93JWF9x4WzebGRcrv-Bz-CpN8FZ2k/view?usp=sharing"
+      },
+      {
+        "titulo": "Nefrología pediátrica",
+        "link": "https://drive.google.com/file/d/1ULyIljDpgK9FeJActisptD28qCDeBchG/view?usp=sharing"
+      },
+      {
+        "titulo": "Neuropsiquiatría pediátrica",
+        "link": "https://drive.google.com/file/d/14fWzsFNn9cp-OVtkh4aVA0IUK5oGgjkj/view?usp=sharing"
+      },
+      {
+        "titulo": "Traumatología pediátrica",
+        "link": "https://drive.google.com/file/d/1cOur17hHdtzkj6cxQFQY5JipoCwHQJsd/view?usp=sharing"
+      },
+      {
+        "titulo": "Diabetes y endocrinología pediátricas",
+        "link": "https://drive.google.com/file/d/1myvlXT88W2c-aD2_jTV2xghTA2zFayUS/view?usp=sharing"
+      },
+      {
+        "titulo": "Crecimiento y nutrición pediátricas",
+        "link": "https://drive.google.com/file/d/1Bffwf7TJLnbP20ADiXbbOZreVTQHDmPA/view?usp=sharing"
+      },
+      {
+        "titulo": "Cuestionario 3.1",
+        "link": "https://drive.google.com/file/d/1ywZLDALn1oWHS5cKH4gSzkgMmS-YPvy-/view?usp=sharing"
+      },
+      {
+        "titulo": "DIgestivo pediátrico",
+        "link": "https://drive.google.com/file/d/1-VAGFK3k88mV9KsWKoMa3rIctwSqmTIy/view?usp=sharing"
+      },
+      {
+        "titulo": "Resumen alimentacion Guevara (leches)",
+        "link": "https://drive.google.com/file/d/1TrUjIpFy97OYZexO2a-Vxwi6polDiwCX/view?usp=sharing"
+      },
+      {
+        "titulo": "Resumen vacunas Guevara(tipos)",
+        "link": "https://drive.google.com/file/d/1modiHbHqxFHL-dd3_he2zf-6UfznGoaS/view?usp=sharing"
+      },
+      {
+        "titulo": "Guía Unidad Pediatrica Aguda SUR 2023 por V.S",
+        "link": "https://drive.google.com/file/d/14aZy09DsH3YWIxKmVIXBflJYVvh-Nihf/view?usp=sharing"
+      },
+      {
+        "titulo": "1",
+        "link": "https://drive.google.com/file/d/1EVXOoHDwO5dMouuorFkhodPoa0YPbIMA/view?usp=sharing"
+      },
+      {
+        "titulo": "2",
+        "link": "https://drive.google.com/file/d/1naJj1aYabD8ZSQiBRl8A8sJjX5-AxW-L/view?usp=sharing"
+      },
+      {
+        "titulo": "3",
+        "link": "https://drive.google.com/file/d/1megQ2kL5LygAoO6KPkGS8-tzTdBOg7T5/view?usp=sharing"
+      },
+      {
+        "titulo": "4",
+        "link": "https://drive.google.com/file/d/1eX99clxOLOCM7yqRnuYKOVd2jNQUIPRD/view?usp=sharing"
+      }
+    ]
+  }
+}

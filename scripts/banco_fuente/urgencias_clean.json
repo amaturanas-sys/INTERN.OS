@@ -1,0 +1,93 @@
+[
+  {
+    "numero": 21,
+    "enunciado": "Un paciente de 32 años, lleva un año conviviendo con pacientes bacilíferos, se encuentra asintomático y su radiografía de tórax no muestra alteraciones, se solicita un PPD que resulta en 23 mm. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar tratamiento atibiótico con isoniazida, pirazinamida, rifampicina y etambutol por 6 meses",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Repetir PPD en un mes",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Dar de alta y control en caso de síntomas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar reacción en cadena de polimerasa para mycobacterium tuberculosis en lavado bronquioloalveolar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar isoniazida por 6 meses Es un contacto, con PPD mayor a 10, lo que diagnostica la tuberculisis latente, por lo que se debe indicar profilaxis antibiótica (isoniazida 6 meses era la recomendación del Minsal en ese momento; hoy, en cambio, es isonizaida más rifampicina semanal por 3",
+        "correcta": true
+      }
+    ],
+    "justificacion": "meses).",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-URG-0001",
+    "especialidad_principal": "urgencias",
+    "subespecialidades": [],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 36,
+    "enunciado": "Identifique la asociación entre la patología y su tratamiento de elección:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Giardiasis – praziquantel",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Amebiasis – albendazol",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cólera – Cotrimoxazol",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Shiguellosis – amoxicilina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Diarrea por Clostridium dificile – metronidazol",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Diarrea por Clostridium dificile (actualmente llamado Clostridioides dificile) – metronidazol o vancomicina. - Si es leve o moderada, se recomienda comenzar con metronidazol oral por 14 días. - Si es severa (falla renal, hipoalbuminemia severa, blancos >15.000 por mm3), se prefiere iniciar directamente con vancomicina oral por 10 días (por ser más afectiva y tener menos resistencia; de hecho, en países en que hay mucha resistencia, se recomienda la vancomicina o la fidaxomicina como tratamiento de primera línea en los casos leves también, pero este no es el caso de Chile, por ahora). - Si, además de ser severa, está complicada (perforación, megacolon, shock, íleo paralítico), se prefiere el uso combinado de metronidazol endovenoso más vancomicina oral (no llega bien al intestino cuando se da endovenosa; en el caso de íleo, que contraindique la vía oral, se puede dar vía rectal). - En las recurrencias, 1. se repite el antibiótico dado inicialmente, 2. si recurre, se recomienda vancomicina en dosis crecientes, 3. Si recurre por tercera vez, se recomienda vancomicina por periodos prolongados, seguido de rifaximina y se empieza a evaluar el trasplante fecal. * Sobre el diagnóstico, actualmente se prefiere la PCR para C. dificile sobre la detección de toxinas en deposiciones. Lo correcto en las demás opciones es: 1. Amebiasis – metronidazol (sirve también tinidazol). 2. Giardiasis – tinidazol (sirve también metronidazol y nitazoxanida). 3. Shiguellosis – ciprofioxacino (sirve también azitromicina y cefalosporinas de tercera generación: cefixima oral o ceftriaxona endovenosa, en los casos graves). 4. Cólera – Azitromicina o doxiciclina (sirve también ciprofioxacino).",
+    "archivo_origen": "diabetes_y_gastroenterologia.txt",
+    "id_unico": "GUEV-URG-0002",
+    "especialidad_principal": "urgencias",
+    "subespecialidades": [
+      "urgencias",
+      "gineco",
+      "neurologia",
+      "reuma"
+    ],
+    "tema": "PCR",
+    "dificultad_estimada": "basica",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_diabetes_y_gastroenterologia",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  }
+]
