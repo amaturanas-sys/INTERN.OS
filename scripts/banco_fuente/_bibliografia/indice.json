@@ -210,6 +210,111 @@
           "archivo": "linfomas_cutaneos.txt"
         }
       ]
+    },
+    "endocrinologia": {
+      "total": 20,
+      "transcripciones": [
+        {
+          "titulo": "Acromegalia y gigantismo",
+          "url": "https://youtu.be/cR0beWLkrAE",
+          "archivo": "acromegalia_y_gigantismo.txt"
+        },
+        {
+          "titulo": "Amenorrea",
+          "url": "https://youtu.be/iFasd04bswA",
+          "archivo": "amenorrea.txt"
+        },
+        {
+          "titulo": "Bocio",
+          "url": "https://youtu.be/va9sk6Trcf8",
+          "archivo": "bocio.txt"
+        },
+        {
+          "titulo": "Coma mixedematoso",
+          "url": "https://youtu.be/nGlsKFCMlAk",
+          "archivo": "coma_mixedematoso.txt"
+        },
+        {
+          "titulo": "Desarrollo puberal y adrenarquia",
+          "url": "https://youtu.be/NCbr3JceLmM",
+          "archivo": "desarrollo_puberal_y_adrenarquia.txt"
+        },
+        {
+          "titulo": "Eje Hipotalámico Hipofisiario",
+          "url": "https://youtu.be/13vMVCS35tY",
+          "archivo": "eje_hipotalamico_hipofisiario.txt"
+        },
+        {
+          "titulo": "Enfermedad de Basedow Graves - neonatal",
+          "url": "https://youtu.be/tBh9rU7JY_E",
+          "archivo": "enfermedad_de_basedow_graves__neonatal.txt"
+        },
+        {
+          "titulo": "Generalidades: FIsiología Tiroidea",
+          "url": "https://youtu.be/qI_5ZakVV4w",
+          "archivo": "generalidades_fisiologia_tiroidea.txt"
+        },
+        {
+          "titulo": "Hiperplasia suprarrenal congénita",
+          "url": "https://youtu.be/VUDMv-xAfeM",
+          "archivo": "hiperplasia_suprarrenal_congenita.txt"
+        },
+        {
+          "titulo": "Hiperprolactinemia",
+          "url": "https://youtu.be/-J7szHNKgpA",
+          "archivo": "hiperprolactinemia.txt"
+        },
+        {
+          "titulo": "Hipertiroidismo",
+          "url": "https://youtu.be/tMIYXy1fWv0",
+          "archivo": "hipertiroidismo.txt"
+        },
+        {
+          "titulo": "Hipogonadismo",
+          "url": "https://youtu.be/gI3FsSsV5Rs",
+          "archivo": "hipogonadismo.txt"
+        },
+        {
+          "titulo": "Hipopituitarismo",
+          "url": "https://youtu.be/pwngJIb0j8w",
+          "archivo": "hipopituitarismo.txt"
+        },
+        {
+          "titulo": "Hipotiroidismo",
+          "url": "https://youtu.be/njR3BUlh7CE",
+          "archivo": "hipotiroidismo.txt"
+        },
+        {
+          "titulo": "Hipotiroidismo congénito",
+          "url": "https://youtu.be/gzqTVZUMv0A",
+          "archivo": "hipotiroidismo_congenito.txt"
+        },
+        {
+          "titulo": "HIpotiroidismo en embarazo",
+          "url": "https://youtu.be/HiKDL4aSw1k",
+          "archivo": "hipotiroidismo_en_embarazo.txt"
+        },
+        {
+          "titulo": "Hipotiroidismo subclínico",
+          "url": "https://youtu.be/yRWBa7qOJsg",
+          "archivo": "hipotiroidismo_subclinico.txt"
+        },
+        {
+          "titulo": "Insuficiencia suprarrenal",
+          "url": "https://youtu.be/pLGgLcjgJR8",
+          "archivo": "insuficiencia_suprarrenal.txt"
+        },
+        {
+          "titulo": "Manejo de cáncer de tiroides",
+          "url": "https://youtu.be/wfYSCKd_KC0",
+          "archivo": "manejo_de_cancer_de_tiroides.txt"
+        },
+        {
+          "titulo": "Nódulo tiroideo",
+          "url": "https://youtu.be/TKz2AJ6iQgs",
+          "archivo": "nodulo_tiroideo.txt"
+        }
+      ]
     }
   }
 }
