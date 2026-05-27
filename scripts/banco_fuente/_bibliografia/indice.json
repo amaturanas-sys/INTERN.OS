@@ -860,6 +860,111 @@
           "archivo": "vertigo.txt"
         }
       ]
+    },
+    "obstetricia": {
+      "total": 20,
+      "transcripciones": [
+        {
+          "titulo": "aborto completo versus embarazo ectópico",
+          "url": "https://youtu.be/n2-SfR94BF4",
+          "archivo": "aborto_completo_versus_embarazo_ectopico.txt"
+        },
+        {
+          "titulo": "aborto espontáneo",
+          "url": "https://youtu.be/YhI_Wm2r5OI",
+          "archivo": "aborto_espontaneo.txt"
+        },
+        {
+          "titulo": "aborto retenido",
+          "url": "https://youtu.be/N9nQgeMPkms",
+          "archivo": "aborto_retenido.txt"
+        },
+        {
+          "titulo": "aborto séptico",
+          "url": "https://youtu.be/3pVwJ8Nn2O8",
+          "archivo": "aborto_septico.txt"
+        },
+        {
+          "titulo": "anemia en el embarazo",
+          "url": "https://youtu.be/_yCbtn6WY90",
+          "archivo": "anemia_en_el_embarazo.txt"
+        },
+        {
+          "titulo": "Atención inmediata del reción nacido y asfixia neonatal",
+          "url": "https://youtu.be/kocNggnom7g",
+          "archivo": "atencion_inmediata_del_recion_nacido_y_asfixia_neonatal.txt"
+        },
+        {
+          "titulo": "causales de aborto provocado en Chile",
+          "url": "https://youtu.be/3in5tksirwc",
+          "archivo": "causales_de_aborto_provocado_en_chile.txt"
+        },
+        {
+          "titulo": "colestacia intrahepática del embarazo CIE",
+          "url": "https://youtu.be/hLj31Uhao6E",
+          "archivo": "colestacia_intrahepatica_del_embarazo_cie.txt"
+        },
+        {
+          "titulo": "Complicaciones embarazo gemelar monocorial",
+          "url": "https://youtu.be/i62NHeGyw90",
+          "archivo": "complicaciones_embarazo_gemelar_monocorial.txt"
+        },
+        {
+          "titulo": "Control antenatal",
+          "url": "https://youtu.be/siltw7saCgQ",
+          "archivo": "control_antenatal.txt"
+        },
+        {
+          "titulo": "Detección hipoxia fetal I",
+          "url": "https://youtu.be/EuNH5J54COM",
+          "archivo": "deteccion_hipoxia_fetal_i.txt"
+        },
+        {
+          "titulo": "Detección hipoxia fetal II",
+          "url": "https://youtu.be/53CC85rOl_0",
+          "archivo": "deteccion_hipoxia_fetal_ii.txt"
+        },
+        {
+          "titulo": "determinación de edad gestacional",
+          "url": "https://youtu.be/E1VOUYY86m4",
+          "archivo": "determinacion_de_edad_gestacional.txt"
+        },
+        {
+          "titulo": "diagnóstico de diabetes en el embarazo",
+          "url": "https://youtu.be/er8zzIlXcI8",
+          "archivo": "diagnostico_de_diabetes_en_el_embarazo.txt"
+        },
+        {
+          "titulo": "DIstocias de presentación",
+          "url": "https://youtu.be/d6ZgwDITolE",
+          "archivo": "distocias_de_presentacion.txt"
+        },
+        {
+          "titulo": "Doppler fetal",
+          "url": "https://youtu.be/kIIcS_krO2Y",
+          "archivo": "doppler_fetal.txt"
+        },
+        {
+          "titulo": "eclampsia",
+          "url": "https://youtu.be/M8GcW8h-as4",
+          "archivo": "eclampsia.txt"
+        },
+        {
+          "titulo": "Edades de interrupción RCIU",
+          "url": "https://youtu.be/DCWzwQlkPD0",
+          "archivo": "edades_de_interrupcion_rciu.txt"
+        },
+        {
+          "titulo": "ejercicios y casos she",
+          "url": "https://youtu.be/EODOCFqiVZE",
+          "archivo": "ejercicios_y_casos_she.txt"
+        },
+        {
+          "titulo": "Embarazo ectópic definición y diagnóstico",
+          "url": "https://youtu.be/BVy7dCJCk0Q",
+          "archivo": "embarazo_ectopic_definicion_y_diagnostico.txt"
+        }
+      ]
     }
   }
 }
