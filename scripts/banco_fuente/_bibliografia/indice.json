@@ -1174,7 +1174,112 @@
           "url": "https://youtu.be/bLF37ip00b8"
         }
       ]
+    },
+    "pediatria": {
+      "cantidad": 20,
+      "transcripciones": [
+        {
+          "archivo": "alte_y_brue.txt",
+          "titulo": "Alte y Brue",
+          "url": "https://youtu.be/nnnNKMMhLtk"
+        },
+        {
+          "archivo": "apgar.txt",
+          "titulo": "APGAR",
+          "url": "https://youtu.be/W3mHZEMcTEU"
+        },
+        {
+          "archivo": "asfixia_neonatal.txt",
+          "titulo": "Asfixia neonatal",
+          "url": "https://youtu.be/NrFfhsFEqRs"
+        },
+        {
+          "archivo": "cefalea_en_ninos.txt",
+          "titulo": "Cefalea en niños",
+          "url": "https://youtu.be/jfdtmWAT0gQ"
+        },
+        {
+          "archivo": "constipacion.txt",
+          "titulo": "Constipación",
+          "url": "https://youtu.be/a4-9Whrqmic"
+        },
+        {
+          "archivo": "convulsion_febril.txt",
+          "titulo": "Convulsión febril",
+          "url": "https://youtu.be/j1km4h7WmVI"
+        },
+        {
+          "archivo": "convulsiones_neonatales.txt",
+          "titulo": "Convulsiones neonatales",
+          "url": "https://youtu.be/A760miwxIL0"
+        },
+        {
+          "archivo": "curvas_talla_edad.txt",
+          "titulo": "Curvas Talla Edad",
+          "url": "https://youtu.be/5SKnWezFSYs"
+        },
+        {
+          "archivo": "desarrollo_psicomotor.txt",
+          "titulo": "Desarrollo psicomotor",
+          "url": "https://youtu.be/hBx25wZEVuc"
+        },
+        {
+          "archivo": "diagnostico_nutricional_ninos.txt",
+          "titulo": "DIagnóstico nutricional niños",
+          "url": "https://youtu.be/KLXsNlF8oM0"
+        },
+        {
+          "archivo": "diarrea_aguda_en_pediatria.txt",
+          "titulo": "Diarrea aguda en pediatría",
+          "url": "https://youtu.be/9x8mvb_XxIs"
+        },
+        {
+          "archivo": "diarrea_cronica_pediatria.txt",
+          "titulo": "Diarrea crónica pediatría",
+          "url": "https://youtu.be/8a2-qS7iMnY"
+        },
+        {
+          "archivo": "dificultad_respiratoria_del_rn.txt",
+          "titulo": "DIficultad respiratoria del RN",
+          "url": "https://youtu.be/e5HWTjPw358"
+        },
+        {
+          "archivo": "dificultad_respiratoria_del_rn_2.txt",
+          "titulo": "DIficultad respiratoria del RN 2",
+          "url": "https://youtu.be/lsa1ec1nlpE"
+        },
+        {
+          "archivo": "dolor_abdominal_cronico.txt",
+          "titulo": "Dolor abdominal crónico",
+          "url": "https://youtu.be/kNLHAPkw3YA"
+        },
+        {
+          "archivo": "enfermedad_celiaca.txt",
+          "titulo": "Enfermedad celiaca",
+          "url": "https://youtu.be/FAtptqSLblw"
+        },
+        {
+          "archivo": "fibrosis_quisticas.txt",
+          "titulo": "Fibrosis quísticas",
+          "url": "https://youtu.be/P8zQYrevAIk"
+        },
+        {
+          "archivo": "fiebre_sin_foco.txt",
+          "titulo": "Fiebre sin foco",
+          "url": "https://youtu.be/0lNAQbCH6KQ"
+        },
+        {
+          "archivo": "hipocalcemia_rn.txt",
+          "titulo": "Hipocalcemia RN",
+          "url": "https://youtu.be/tRxrA7VsIcA"
+        },
+        {
+          "archivo": "hipoglicemia_rn.txt",
+          "titulo": "Hipoglicemia RN",
+          "url": "https://youtu.be/AcfZjpAMgtE"
+        }
+      ]
     }
   },
-  "total": 223
+  "total": 243
 }
