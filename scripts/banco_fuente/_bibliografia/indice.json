@@ -1384,7 +1384,112 @@
           "url": "https://youtu.be/9ijBsK-8wBA"
         }
       ]
+    },
+    "reumatologia": {
+      "cantidad": 20,
+      "transcripciones": [
+        {
+          "archivo": "10_ar_vs_artrosis.txt",
+          "titulo": "10 AR vs artrosis",
+          "url": "https://youtu.be/UOLP24GTVKo"
+        },
+        {
+          "archivo": "11_artritis_juvenil_idiopatica_o_enfermedad_de_still.txt",
+          "titulo": "11 Artritis juvenil idiopática o enfermedad de still",
+          "url": "https://youtu.be/4sLSwdn28IY"
+        },
+        {
+          "archivo": "12_lupus_eritematoso_sistemico.txt",
+          "titulo": "12 lupus eritematoso sistémico",
+          "url": "https://youtu.be/0uzCHaq-qEo"
+        },
+        {
+          "archivo": "13_lupus_cutaneo_subagudo_y_cronico.txt",
+          "titulo": "13 lupus cutáneo subagudo y crónico",
+          "url": "https://youtu.be/ZZ66rZv3X7g"
+        },
+        {
+          "archivo": "14_sindrome_antifosfolipidos.txt",
+          "titulo": "14 síndrome antifosfolípidos",
+          "url": "https://youtu.be/swDh3yXU26c"
+        },
+        {
+          "archivo": "15_polimiositis_y_dermatomiositis.txt",
+          "titulo": "15 polimiositis y dermatomiositis",
+          "url": "https://youtu.be/2mE3Z1JFZnI"
+        },
+        {
+          "archivo": "16_otras_miopatias.txt",
+          "titulo": "16 otras miopatías",
+          "url": "https://youtu.be/Bmi_viNwj3o"
+        },
+        {
+          "archivo": "17_esclerodermia.txt",
+          "titulo": "17 esclerodermia",
+          "url": "https://youtu.be/pXfZZO-6mtM"
+        },
+        {
+          "archivo": "18_fenomeno_de_raynaud.txt",
+          "titulo": "18 fenómeno de raynaud",
+          "url": "https://youtu.be/JJwVSw1-g70"
+        },
+        {
+          "archivo": "19_sindrome_de_sjorgen.txt",
+          "titulo": "19 sindrome de sjorgen",
+          "url": "https://youtu.be/CBZGVIHXPDw"
+        },
+        {
+          "archivo": "1_esquemas_generales_de_reumatologia.txt",
+          "titulo": "1 esquemas generales de reumatología",
+          "url": "https://youtu.be/cyzSnfYYb74"
+        },
+        {
+          "archivo": "20_enfermedad_mixta_del_tejido_conectivo.txt",
+          "titulo": "20 enfermedad mixta del tejido conectivo",
+          "url": "https://youtu.be/QtxPD4PngqA"
+        },
+        {
+          "archivo": "21_fibromialgia.txt",
+          "titulo": "21 fibromialgia",
+          "url": "https://youtu.be/hto4w7cNd94"
+        },
+        {
+          "archivo": "22_enfermedades_reumatologicos_en_ninos.txt",
+          "titulo": "22 enfermedades reumatológicos en niños",
+          "url": "https://youtu.be/gso2xeizB10"
+        },
+        {
+          "archivo": "23_esquemas_vasculitis.txt",
+          "titulo": "23 esquemas vasculitis",
+          "url": "https://youtu.be/XlDOD16xqbE"
+        },
+        {
+          "archivo": "24_arteritis_de_celulas_gigantes.txt",
+          "titulo": "24 arteritis de células gigantes",
+          "url": "https://youtu.be/dB7GfA04kXo"
+        },
+        {
+          "archivo": "25_arteritis_de_takayasu.txt",
+          "titulo": "25 arteritis de takayasu",
+          "url": "https://youtu.be/uR6HLPIAhQI"
+        },
+        {
+          "archivo": "26_enfermedad_de_kawasaki.txt",
+          "titulo": "26 enfermedad de kawasaki",
+          "url": "https://youtu.be/tVC_oCveS8U"
+        },
+        {
+          "archivo": "27_poliarteritis_nodosa.txt",
+          "titulo": "27 Poliarteritis nodosa",
+          "url": "https://youtu.be/87xDcc9r4R4"
+        },
+        {
+          "archivo": "2_resumen_marcadores_reumatologia.txt",
+          "titulo": "2 resumen marcadores reumatologia",
+          "url": "https://youtu.be/MAn3uw9O8uo"
+        }
+      ]
     }
   },
-  "total": 263
+  "total": 283
 }
