@@ -755,6 +755,111 @@
           "archivo": "2_insuficiencia_renal_aguda_o_cronica.txt"
         }
       ]
+    },
+    "neurologia": {
+      "total": 20,
+      "transcripciones": [
+        {
+          "titulo": "Accidente vascular encefálico",
+          "url": "https://youtu.be/KGTmjGSecnY",
+          "archivo": "accidente_vascular_encefalico.txt"
+        },
+        {
+          "titulo": "Causas específicas del vértigo",
+          "url": "https://youtu.be/MshSlua36wc",
+          "archivo": "causas_especificas_del_vertigo.txt"
+        },
+        {
+          "titulo": "Causas parálisis facial periférica",
+          "url": "https://youtu.be/qAYpf3W0iPQ",
+          "archivo": "causas_paralisis_facial_periferica.txt"
+        },
+        {
+          "titulo": "Cefalea / Tumor cerebral / HTEC",
+          "url": "https://youtu.be/gReR8SCACj0",
+          "archivo": "cefalea_tumor_cerebral_htec.txt"
+        },
+        {
+          "titulo": "Cefaleas crónicas",
+          "url": "https://youtu.be/o4RwfS-Jvhw",
+          "archivo": "cefaleas_cronicas.txt"
+        },
+        {
+          "titulo": "Compromiso de conciencia / Apraxia / Agnosia / Afasia",
+          "url": "https://youtu.be/nUcVImDeEv0",
+          "archivo": "compromiso_de_conciencia_apraxia_agnosia_afasia.txt"
+        },
+        {
+          "titulo": "Crisis convulsivas / Epilepsia / Convulsiones febriles / Estatus convulsivo",
+          "url": "https://youtu.be/d5KejCLfAb8",
+          "archivo": "crisis_convulsivas_epilepsia_convulsiones_febriles_estatus_convulsivo.txt"
+        },
+        {
+          "titulo": "Demencia/ Delirium",
+          "url": "https://youtu.be/5nn3vGLXnrI",
+          "archivo": "demencia_delirium.txt"
+        },
+        {
+          "titulo": "Esclerosis lateral amiotrófica (ELA) / Esclerosis múltiple (EM)",
+          "url": "https://youtu.be/phpODZsydug",
+          "archivo": "esclerosis_lateral_amiotrofica_ela_esclerosis_multiple_em.txt"
+        },
+        {
+          "titulo": "Meningitis",
+          "url": "https://youtu.be/92E5Wn7G5nk",
+          "archivo": "meningitis.txt"
+        },
+        {
+          "titulo": "Neuroftalmología",
+          "url": "https://youtu.be/RdSz1sn5sJw",
+          "archivo": "neuroftalmologia.txt"
+        },
+        {
+          "titulo": "Parálisis facial",
+          "url": "https://youtu.be/kBuANMLO3dc",
+          "archivo": "paralisis_facial.txt"
+        },
+        {
+          "titulo": "Polineuropatías / Neuralgias / Neuropatías por atrapamiento",
+          "url": "https://youtu.be/5L7H1AGU0r4",
+          "archivo": "polineuropatias_neuralgias_neuropatias_por_atrapamiento.txt"
+        },
+        {
+          "titulo": "Síndrome motores",
+          "url": "https://youtu.be/z6D1x_FRQWA",
+          "archivo": "sindrome_motores.txt"
+        },
+        {
+          "titulo": "Tembor/ Extrapiramidalismo",
+          "url": "https://youtu.be/0PnLQBLHaX4",
+          "archivo": "tembor_extrapiramidalismo.txt"
+        },
+        {
+          "titulo": "Trastorno de la deglución",
+          "url": "https://youtu.be/Qr8Wmn-693c",
+          "archivo": "trastorno_de_la_deglucion.txt"
+        },
+        {
+          "titulo": "Trastorno del habla",
+          "url": "https://youtu.be/S17RBolaJw4",
+          "archivo": "trastorno_del_habla.txt"
+        },
+        {
+          "titulo": "Trastornos del sueño",
+          "url": "https://youtu.be/Bh34R4fSWHo",
+          "archivo": "trastornos_del_sueno.txt"
+        },
+        {
+          "titulo": "Traumatismo encéfalo craneano",
+          "url": "https://youtu.be/7DR46e5b_lM",
+          "archivo": "traumatismo_encefalo_craneano.txt"
+        },
+        {
+          "titulo": "Vértigo",
+          "url": "https://youtu.be/fXOhsigsn88",
+          "archivo": "vertigo.txt"
+        }
+      ]
     }
   }
 }
