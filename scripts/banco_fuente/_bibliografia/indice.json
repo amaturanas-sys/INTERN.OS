@@ -545,6 +545,111 @@
           "archivo": "metrorragia_en_la_menopausia.txt"
         }
       ]
+    },
+    "hematologia": {
+      "total": 20,
+      "transcripciones": [
+        {
+          "titulo": "10. Anemia en niños",
+          "url": "https://youtu.be/wuUzy8PoX5E",
+          "archivo": "10_anemia_en_ninos.txt"
+        },
+        {
+          "titulo": "11. Alteraciones de la hemostasia generalidades",
+          "url": "https://youtu.be/Iw6DNUaYfCE",
+          "archivo": "11_alteraciones_de_la_hemostasia_generalidades.txt"
+        },
+        {
+          "titulo": "12. Purpura",
+          "url": "https://youtu.be/gKiag44z9_o",
+          "archivo": "12_purpura.txt"
+        },
+        {
+          "titulo": "13. Purpura trombocitopénica inmune PTI",
+          "url": "https://youtu.be/WSh4b7gFHdo",
+          "archivo": "13_purpura_trombocitopenica_inmune_pti.txt"
+        },
+        {
+          "titulo": "14. Púrpura trombocitopenica Trombótica PTT",
+          "url": "https://youtu.be/_ZIF0r-8z2c",
+          "archivo": "14_purpura_trombocitopenica_trombotica_ptt.txt"
+        },
+        {
+          "titulo": "15. Púrpura de Schönlein Henoch",
+          "url": "https://youtu.be/8Nu7Y_SR78Q",
+          "archivo": "15_purpura_de_schonlein_henoch.txt"
+        },
+        {
+          "titulo": "16. Patologías geneticas de la hemostasia primarias",
+          "url": "https://youtu.be/BpVGGoHgj5k",
+          "archivo": "16_patologias_geneticas_de_la_hemostasia_primarias.txt"
+        },
+        {
+          "titulo": "17. Hemofilia",
+          "url": "https://youtu.be/rt9jaKNYWeg",
+          "archivo": "17_hemofilia.txt"
+        },
+        {
+          "titulo": "18. Coagulación intravascular diseminada CID",
+          "url": "https://youtu.be/aBAjKgI6nV4",
+          "archivo": "18_coagulacion_intravascular_diseminada_cid.txt"
+        },
+        {
+          "titulo": "19. Hemograma en infecciones y reacción leuquemoide",
+          "url": "https://youtu.be/kHhWGEyzhf0",
+          "archivo": "19_hemograma_en_infecciones_y_reaccion_leuquemoide.txt"
+        },
+        {
+          "titulo": "1. Anemia Generalidades",
+          "url": "https://youtu.be/72I5RBPWcjk",
+          "archivo": "1_anemia_generalidades.txt"
+        },
+        {
+          "titulo": "20. Trombocitosis reactiva",
+          "url": "https://youtu.be/e0Bds1UcnXI",
+          "archivo": "20_trombocitosis_reactiva.txt"
+        },
+        {
+          "titulo": "21. Nociones en cáncer hematológico",
+          "url": "https://youtu.be/kPsQXaas1OE",
+          "archivo": "21_nociones_en_cancer_hematologico.txt"
+        },
+        {
+          "titulo": "22. Conceptos semiológicos en el cáncer hematológico",
+          "url": "https://youtu.be/3oNFez79JPQ",
+          "archivo": "22_conceptos_semiologicos_en_el_cancer_hematologico.txt"
+        },
+        {
+          "titulo": "23. Leucemias",
+          "url": "https://youtu.be/EMbcS5SOveI",
+          "archivo": "23_leucemias.txt"
+        },
+        {
+          "titulo": "24. Leucemias 2",
+          "url": "https://youtu.be/T2HhG0-W1WA",
+          "archivo": "24_leucemias_2.txt"
+        },
+        {
+          "titulo": "25. Linfomas",
+          "url": "https://youtu.be/m0IgYLDtwHM",
+          "archivo": "25_linfomas.txt"
+        },
+        {
+          "titulo": "26. Sindrome mieloproliferativos",
+          "url": "https://youtu.be/NHhSd1JDg8I",
+          "archivo": "26_sindrome_mieloproliferativos.txt"
+        },
+        {
+          "titulo": "27. Mielodisplasia",
+          "url": "https://youtu.be/vL8MUJqG8qs",
+          "archivo": "27_mielodisplasia.txt"
+        },
+        {
+          "titulo": "2. Perfil de Hierro",
+          "url": "https://youtu.be/Axrqs1_PBHg",
+          "archivo": "2_perfil_de_hierro.txt"
+        }
+      ]
     }
   }
 }
