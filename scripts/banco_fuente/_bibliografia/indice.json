@@ -1,970 +1,1075 @@
 {
-  "descripcion": "Bibliografía: transcripciones de clases en video (Dr. Guevara), referencia interna para auditar y refinar el banco.",
   "unidades": {
     "cardiologia": {
-      "total": 20,
+      "cantidad": 20,
       "transcripciones": [
         {
+          "archivo": "aneurisma_de_la_aorta_abdomin_al.txt",
           "titulo": "Aneurisma de la aorta abdomin al",
-          "url": "https://youtu.be/wG12n6csK5E",
-          "archivo": "aneurisma_de_la_aorta_abdomin_al.txt"
+          "url": "https://youtu.be/wG12n6csK5E"
         },
         {
+          "archivo": "angina_cronica.txt",
           "titulo": "Angina crónica",
-          "url": "https://youtu.be/Nz3nDbfflzA",
-          "archivo": "angina_cronica.txt"
+          "url": "https://youtu.be/Nz3nDbfflzA"
         },
         {
+          "archivo": "arritmias_en_el_infarto.txt",
           "titulo": "Arritmias en el infarto",
-          "url": "https://youtu.be/eUbfeFOK8-g",
-          "archivo": "arritmias_en_el_infarto.txt"
+          "url": "https://youtu.be/eUbfeFOK8-g"
         },
         {
+          "archivo": "bradiarritmias_y_bloqueos_cardiacos.txt",
           "titulo": "Bradiarritmias y bloqueos cardiacos",
-          "url": "https://youtu.be/TSCyH3tZbTE",
-          "archivo": "bradiarritmias_y_bloqueos_cardiacos.txt"
+          "url": "https://youtu.be/TSCyH3tZbTE"
         },
         {
+          "archivo": "cardiopatia_congenitas_detalles_semiologia.txt",
           "titulo": "Cardiopatía congénitas detalles semiología",
-          "url": "https://youtu.be/eCeLlKHkUFk",
-          "archivo": "cardiopatia_congenitas_detalles_semiologia.txt"
+          "url": "https://youtu.be/eCeLlKHkUFk"
         },
         {
+          "archivo": "cardiopatia_coronaria.txt",
           "titulo": "Cardiopatía coronaria",
-          "url": "https://youtu.be/J19bwQdAq20",
-          "archivo": "cardiopatia_coronaria.txt"
+          "url": "https://youtu.be/J19bwQdAq20"
         },
         {
+          "archivo": "cardiopatias_congenitas_clasificacion_y_generalidades.txt",
           "titulo": "Cardiopatías congénitas clasificación y generalidades",
-          "url": "https://youtu.be/gashdarCP7A",
-          "archivo": "cardiopatias_congenitas_clasificacion_y_generalidades.txt"
+          "url": "https://youtu.be/gashdarCP7A"
         },
         {
+          "archivo": "clasificacion_del_shock.txt",
           "titulo": "Clasificación del Shock",
-          "url": "https://youtu.be/IG3KoiJ5cXY",
-          "archivo": "clasificacion_del_shock.txt"
+          "url": "https://youtu.be/IG3KoiJ5cXY"
         },
         {
+          "archivo": "complicaciones_mecanicas_del_infarto_miocardico.txt",
           "titulo": "Complicaciones mecánicas del infarto miocárdico",
-          "url": "https://youtu.be/yum9kbVQYDE",
-          "archivo": "complicaciones_mecanicas_del_infarto_miocardico.txt"
+          "url": "https://youtu.be/yum9kbVQYDE"
         },
         {
+          "archivo": "cor_pulmonale.txt",
           "titulo": "Cor pulmonale",
-          "url": "https://youtu.be/3FuIv1F3Ljo",
-          "archivo": "cor_pulmonale.txt"
+          "url": "https://youtu.be/3FuIv1F3Ljo"
         },
         {
+          "archivo": "diseccion_aortica.txt",
           "titulo": "Disección aortica",
-          "url": "https://youtu.be/ExPpvGD6G4g",
-          "archivo": "diseccion_aortica.txt"
+          "url": "https://youtu.be/ExPpvGD6G4g"
         },
         {
+          "archivo": "dolor_toracico.txt",
           "titulo": "Dolor Torácico",
-          "url": "https://youtu.be/GNqlDeo-S9U",
-          "archivo": "dolor_toracico.txt"
+          "url": "https://youtu.be/GNqlDeo-S9U"
         },
         {
+          "archivo": "ecg_en_sindrome_coronario_agudo.txt",
           "titulo": "ECG en sindrome coronario agudo",
-          "url": "https://youtu.be/SPIZ5u7dUVQ",
-          "archivo": "ecg_en_sindrome_coronario_agudo.txt"
+          "url": "https://youtu.be/SPIZ5u7dUVQ"
         },
         {
+          "archivo": "enfermedades_del_pericardio.txt",
           "titulo": "Enfermedades del pericardio",
-          "url": "https://youtu.be/1DZyZrOsABg",
-          "archivo": "enfermedades_del_pericardio.txt"
+          "url": "https://youtu.be/1DZyZrOsABg"
         },
         {
+          "archivo": "estenosis_carotidea.txt",
           "titulo": "Estenosis carotidea",
-          "url": "https://youtu.be/UnK_3uEnZX8",
-          "archivo": "estenosis_carotidea.txt"
+          "url": "https://youtu.be/UnK_3uEnZX8"
         },
         {
+          "archivo": "extrasistoles.txt",
           "titulo": "Extrasístoles",
-          "url": "https://youtu.be/d_O-xrxn5Mg",
-          "archivo": "extrasistoles.txt"
+          "url": "https://youtu.be/d_O-xrxn5Mg"
         },
         {
+          "archivo": "fa_cronica.txt",
           "titulo": "FA crónica",
-          "url": "https://youtu.be/hyQi5pVfobE",
-          "archivo": "fa_cronica.txt"
+          "url": "https://youtu.be/hyQi5pVfobE"
         },
         {
+          "archivo": "fa_de_reciente_comienzo.txt",
           "titulo": "FA de reciente comienzo",
-          "url": "https://youtu.be/Aime9F4u028",
-          "archivo": "fa_de_reciente_comienzo.txt"
+          "url": "https://youtu.be/Aime9F4u028"
         },
         {
+          "archivo": "farmacos_anticoagulantes.txt",
           "titulo": "Fármacos anticoagulantes",
-          "url": "https://youtu.be/fsW1sU7zWzg",
-          "archivo": "farmacos_anticoagulantes.txt"
+          "url": "https://youtu.be/fsW1sU7zWzg"
         },
         {
+          "archivo": "fibrilacion_auricular_repaso_de_antiarritmicos.txt",
           "titulo": "Fibrilación auricular repaso de antiarritmicos",
-          "url": "https://youtu.be/yhcdkMLT5Cg",
-          "archivo": "fibrilacion_auricular_repaso_de_antiarritmicos.txt"
+          "url": "https://youtu.be/yhcdkMLT5Cg"
         }
       ]
     },
     "dermatologia": {
-      "total": 20,
+      "cantidad": 20,
       "transcripciones": [
         {
+          "archivo": "acne.txt",
           "titulo": "Acné",
-          "url": "https://youtu.be/T6payYwGJSo",
-          "archivo": "acne.txt"
+          "url": "https://youtu.be/T6payYwGJSo"
         },
         {
+          "archivo": "alopecia.txt",
           "titulo": "Alopecia",
-          "url": "https://youtu.be/ySYX4mgLg5M",
-          "archivo": "alopecia.txt"
+          "url": "https://youtu.be/ySYX4mgLg5M"
         },
         {
+          "archivo": "angiodema.txt",
           "titulo": "Angiodema",
-          "url": "https://youtu.be/ashM_hYgQ3I",
-          "archivo": "angiodema.txt"
+          "url": "https://youtu.be/ashM_hYgQ3I"
         },
         {
+          "archivo": "autoinmune_imagenes.txt",
           "titulo": "Autoinmune imagenes",
-          "url": "https://youtu.be/oM6MUemaQbk",
-          "archivo": "autoinmune_imagenes.txt"
+          "url": "https://youtu.be/oM6MUemaQbk"
         },
         {
+          "archivo": "autoinmune_miscelanea.txt",
           "titulo": "Autoinmune miscelanea",
-          "url": "https://youtu.be/WmaXO2V8VQc",
-          "archivo": "autoinmune_miscelanea.txt"
+          "url": "https://youtu.be/WmaXO2V8VQc"
         },
         {
+          "archivo": "carcinomas_cutaneos.txt",
           "titulo": "Carcinomas cutáneos",
-          "url": "https://youtu.be/3P14uoe15Vs",
-          "archivo": "carcinomas_cutaneos.txt"
+          "url": "https://youtu.be/3P14uoe15Vs"
         },
         {
+          "archivo": "dermatitis_atopico.txt",
           "titulo": "Dermatitis atópico",
-          "url": "https://youtu.be/yVuFMsW2raw",
-          "archivo": "dermatitis_atopico.txt"
+          "url": "https://youtu.be/yVuFMsW2raw"
         },
         {
+          "archivo": "dermatitis_de_contacto.txt",
           "titulo": "Dermatitis de contacto",
-          "url": "https://youtu.be/BsbQqlMdvj4",
-          "archivo": "dermatitis_de_contacto.txt"
+          "url": "https://youtu.be/BsbQqlMdvj4"
         },
         {
+          "archivo": "dermatitis_seborreica.txt",
           "titulo": "Dermatitis seborreica",
-          "url": "https://youtu.be/mSM7K1914sQ",
-          "archivo": "dermatitis_seborreica.txt"
+          "url": "https://youtu.be/mSM7K1914sQ"
         },
         {
+          "archivo": "dermatosis_asociada_a_luz_solar.txt",
           "titulo": "Dermatosis asociada a luz solar",
-          "url": "https://youtu.be/EUkvAxyS6D8",
-          "archivo": "dermatosis_asociada_a_luz_solar.txt"
+          "url": "https://youtu.be/EUkvAxyS6D8"
         },
         {
+          "archivo": "eccema_dishidroticos.txt",
           "titulo": "Eccema dishidroticos",
-          "url": "https://youtu.be/b0xs-pG-6yM",
-          "archivo": "eccema_dishidroticos.txt"
+          "url": "https://youtu.be/b0xs-pG-6yM"
         },
         {
+          "archivo": "enfermedades_ampollares.txt",
           "titulo": "Enfermedades ampollares",
-          "url": "https://youtu.be/8LROhjPyLmc",
-          "archivo": "enfermedades_ampollares.txt"
+          "url": "https://youtu.be/8LROhjPyLmc"
         },
         {
+          "archivo": "eritema_perneo.txt",
           "titulo": "Eritema perneo",
-          "url": "https://youtu.be/qSjC0uEZiDg",
-          "archivo": "eritema_perneo.txt"
+          "url": "https://youtu.be/qSjC0uEZiDg"
         },
         {
+          "archivo": "exantemas_eritrodescamativos.txt",
           "titulo": "Exantemas eritrodescamativos",
-          "url": "https://youtu.be/x70yIXG6FWk",
-          "archivo": "exantemas_eritrodescamativos.txt"
+          "url": "https://youtu.be/x70yIXG6FWk"
         },
         {
+          "archivo": "generalidades.txt",
           "titulo": "Generalidades",
-          "url": "https://youtu.be/IxMzFKArWj4",
-          "archivo": "generalidades.txt"
+          "url": "https://youtu.be/IxMzFKArWj4"
         },
         {
+          "archivo": "lesiones_cutaneas_recien_nacido.txt",
           "titulo": "Lesiones cutaneas recien nacido",
-          "url": "https://youtu.be/KvdXuv6B_8E",
-          "archivo": "lesiones_cutaneas_recien_nacido.txt"
+          "url": "https://youtu.be/KvdXuv6B_8E"
         },
         {
+          "archivo": "lesiones_hiperpigmentadas_benignas.txt",
           "titulo": "Lesiones hiperpigmentadas benignas",
-          "url": "https://youtu.be/2Fp0b0G9-F8",
-          "archivo": "lesiones_hiperpigmentadas_benignas.txt"
+          "url": "https://youtu.be/2Fp0b0G9-F8"
         },
         {
+          "archivo": "lesiones_premalignas.txt",
           "titulo": "Lesiones premalignas",
-          "url": "https://youtu.be/EwuKyuVhb1A",
-          "archivo": "lesiones_premalignas.txt"
+          "url": "https://youtu.be/EwuKyuVhb1A"
         },
         {
+          "archivo": "lesiones_vasculares_recien_nacido.txt",
           "titulo": "Lesiones vasculares recien nacido",
-          "url": "https://youtu.be/Wqdo3lzftjc",
-          "archivo": "lesiones_vasculares_recien_nacido.txt"
+          "url": "https://youtu.be/Wqdo3lzftjc"
         },
         {
+          "archivo": "linfomas_cutaneos.txt",
           "titulo": "Linfomas cutáneos",
-          "url": "https://youtu.be/b_r0zn5ybMc",
-          "archivo": "linfomas_cutaneos.txt"
+          "url": "https://youtu.be/b_r0zn5ybMc"
         }
       ]
     },
     "endocrinologia": {
-      "total": 20,
+      "cantidad": 20,
       "transcripciones": [
         {
+          "archivo": "acromegalia_y_gigantismo.txt",
           "titulo": "Acromegalia y gigantismo",
-          "url": "https://youtu.be/cR0beWLkrAE",
-          "archivo": "acromegalia_y_gigantismo.txt"
+          "url": "https://youtu.be/cR0beWLkrAE"
         },
         {
+          "archivo": "amenorrea.txt",
           "titulo": "Amenorrea",
-          "url": "https://youtu.be/iFasd04bswA",
-          "archivo": "amenorrea.txt"
+          "url": "https://youtu.be/iFasd04bswA"
         },
         {
+          "archivo": "bocio.txt",
           "titulo": "Bocio",
-          "url": "https://youtu.be/va9sk6Trcf8",
-          "archivo": "bocio.txt"
+          "url": "https://youtu.be/va9sk6Trcf8"
         },
         {
+          "archivo": "coma_mixedematoso.txt",
           "titulo": "Coma mixedematoso",
-          "url": "https://youtu.be/nGlsKFCMlAk",
-          "archivo": "coma_mixedematoso.txt"
+          "url": "https://youtu.be/nGlsKFCMlAk"
         },
         {
+          "archivo": "desarrollo_puberal_y_adrenarquia.txt",
           "titulo": "Desarrollo puberal y adrenarquia",
-          "url": "https://youtu.be/NCbr3JceLmM",
-          "archivo": "desarrollo_puberal_y_adrenarquia.txt"
+          "url": "https://youtu.be/NCbr3JceLmM"
         },
         {
+          "archivo": "eje_hipotalamico_hipofisiario.txt",
           "titulo": "Eje Hipotalámico Hipofisiario",
-          "url": "https://youtu.be/13vMVCS35tY",
-          "archivo": "eje_hipotalamico_hipofisiario.txt"
+          "url": "https://youtu.be/13vMVCS35tY"
         },
         {
+          "archivo": "enfermedad_de_basedow_graves__neonatal.txt",
           "titulo": "Enfermedad de Basedow Graves - neonatal",
-          "url": "https://youtu.be/tBh9rU7JY_E",
-          "archivo": "enfermedad_de_basedow_graves__neonatal.txt"
+          "url": "https://youtu.be/tBh9rU7JY_E"
         },
         {
+          "archivo": "generalidades_fisiologia_tiroidea.txt",
           "titulo": "Generalidades: FIsiología Tiroidea",
-          "url": "https://youtu.be/qI_5ZakVV4w",
-          "archivo": "generalidades_fisiologia_tiroidea.txt"
+          "url": "https://youtu.be/qI_5ZakVV4w"
         },
         {
+          "archivo": "hiperplasia_suprarrenal_congenita.txt",
           "titulo": "Hiperplasia suprarrenal congénita",
-          "url": "https://youtu.be/VUDMv-xAfeM",
-          "archivo": "hiperplasia_suprarrenal_congenita.txt"
+          "url": "https://youtu.be/VUDMv-xAfeM"
         },
         {
+          "archivo": "hiperprolactinemia.txt",
           "titulo": "Hiperprolactinemia",
-          "url": "https://youtu.be/-J7szHNKgpA",
-          "archivo": "hiperprolactinemia.txt"
+          "url": "https://youtu.be/-J7szHNKgpA"
         },
         {
+          "archivo": "hipertiroidismo.txt",
           "titulo": "Hipertiroidismo",
-          "url": "https://youtu.be/tMIYXy1fWv0",
-          "archivo": "hipertiroidismo.txt"
+          "url": "https://youtu.be/tMIYXy1fWv0"
         },
         {
+          "archivo": "hipogonadismo.txt",
           "titulo": "Hipogonadismo",
-          "url": "https://youtu.be/gI3FsSsV5Rs",
-          "archivo": "hipogonadismo.txt"
+          "url": "https://youtu.be/gI3FsSsV5Rs"
         },
         {
+          "archivo": "hipopituitarismo.txt",
           "titulo": "Hipopituitarismo",
-          "url": "https://youtu.be/pwngJIb0j8w",
-          "archivo": "hipopituitarismo.txt"
+          "url": "https://youtu.be/pwngJIb0j8w"
         },
         {
+          "archivo": "hipotiroidismo.txt",
           "titulo": "Hipotiroidismo",
-          "url": "https://youtu.be/njR3BUlh7CE",
-          "archivo": "hipotiroidismo.txt"
+          "url": "https://youtu.be/njR3BUlh7CE"
         },
         {
+          "archivo": "hipotiroidismo_congenito.txt",
           "titulo": "Hipotiroidismo congénito",
-          "url": "https://youtu.be/gzqTVZUMv0A",
-          "archivo": "hipotiroidismo_congenito.txt"
+          "url": "https://youtu.be/gzqTVZUMv0A"
         },
         {
+          "archivo": "hipotiroidismo_en_embarazo.txt",
           "titulo": "HIpotiroidismo en embarazo",
-          "url": "https://youtu.be/HiKDL4aSw1k",
-          "archivo": "hipotiroidismo_en_embarazo.txt"
+          "url": "https://youtu.be/HiKDL4aSw1k"
         },
         {
+          "archivo": "hipotiroidismo_subclinico.txt",
           "titulo": "Hipotiroidismo subclínico",
-          "url": "https://youtu.be/yRWBa7qOJsg",
-          "archivo": "hipotiroidismo_subclinico.txt"
+          "url": "https://youtu.be/yRWBa7qOJsg"
         },
         {
+          "archivo": "insuficiencia_suprarrenal.txt",
           "titulo": "Insuficiencia suprarrenal",
-          "url": "https://youtu.be/pLGgLcjgJR8",
-          "archivo": "insuficiencia_suprarrenal.txt"
+          "url": "https://youtu.be/pLGgLcjgJR8"
         },
         {
+          "archivo": "manejo_de_cancer_de_tiroides.txt",
           "titulo": "Manejo de cáncer de tiroides",
-          "url": "https://youtu.be/wfYSCKd_KC0",
-          "archivo": "manejo_de_cancer_de_tiroides.txt"
+          "url": "https://youtu.be/wfYSCKd_KC0"
         },
         {
+          "archivo": "nodulo_tiroideo.txt",
           "titulo": "Nódulo tiroideo",
-          "url": "https://youtu.be/TKz2AJ6iQgs",
-          "archivo": "nodulo_tiroideo.txt"
+          "url": "https://youtu.be/TKz2AJ6iQgs"
         }
       ]
     },
     "gastroenterologia": {
-      "total": 20,
+      "cantidad": 20,
       "transcripciones": [
         {
+          "archivo": "10_ictericia.txt",
           "titulo": "10. Ictericia",
-          "url": "https://youtu.be/C9_gOzYW34g",
-          "archivo": "10_ictericia.txt"
+          "url": "https://youtu.be/C9_gOzYW34g"
         },
         {
+          "archivo": "11_hepatitis_aguda_y_cronica.txt",
           "titulo": "11. Hepatitis aguda y Crónica",
-          "url": "https://youtu.be/kN9gCf5PU3o",
-          "archivo": "11_hepatitis_aguda_y_cronica.txt"
+          "url": "https://youtu.be/kN9gCf5PU3o"
         },
         {
+          "archivo": "12_dano_hepatico_cronico.txt",
           "titulo": "12. Daño hepático crónico ** >>>>>",
-          "url": "https://youtu.be/2NIN6p2AEvI",
-          "archivo": "12_dano_hepatico_cronico.txt"
+          "url": "https://youtu.be/2NIN6p2AEvI"
         },
         {
+          "archivo": "13_pancreatitis_aguda_y_cronica.txt",
           "titulo": "13. Pancreatitis aguda y crónica",
-          "url": "https://youtu.be/UVlw0SfEa_M",
-          "archivo": "13_pancreatitis_aguda_y_cronica.txt"
+          "url": "https://youtu.be/UVlw0SfEa_M"
         },
         {
+          "archivo": "14_lesiones_hepaticas.txt",
           "titulo": "14. Lesiones hepáticas",
-          "url": "https://youtu.be/GidXiwz1AYM",
-          "archivo": "14_lesiones_hepaticas.txt"
+          "url": "https://youtu.be/GidXiwz1AYM"
         },
         {
+          "archivo": "15_abdomen_agudo.txt",
           "titulo": "15. Abdomen agudo",
-          "url": "https://youtu.be/ILNK6wKZ6kY",
-          "archivo": "15_abdomen_agudo.txt"
+          "url": "https://youtu.be/ILNK6wKZ6kY"
         },
         {
+          "archivo": "16_patologia_biliar.txt",
           "titulo": "16. Patología biliar",
-          "url": "https://youtu.be/ZatVsoVab_k",
-          "archivo": "16_patologia_biliar.txt"
+          "url": "https://youtu.be/ZatVsoVab_k"
         },
         {
+          "archivo": "17_abdomen_agudo_de_origen_vascular.txt",
           "titulo": "17. Abdomen agudo de origen vascular",
-          "url": "https://youtu.be/2fKoQhGDZ4k",
-          "archivo": "17_abdomen_agudo_de_origen_vascular.txt"
+          "url": "https://youtu.be/2fKoQhGDZ4k"
         },
         {
+          "archivo": "18_hernia_hiatal_hernia_diafragmatica_tumor_mediastinico.txt",
           "titulo": "18. Hernia Hiatal/ Hernia diafragmática/ Tumor mediastínico",
-          "url": "https://youtu.be/F-XmfKqHH4c",
-          "archivo": "18_hernia_hiatal_hernia_diafragmatica_tumor_mediastinico.txt"
+          "url": "https://youtu.be/F-XmfKqHH4c"
         },
         {
+          "archivo": "19_patologia_perianal.txt",
           "titulo": "19. Patología perianal",
-          "url": "https://youtu.be/ndrUm_TYPqc",
-          "archivo": "19_patologia_perianal.txt"
+          "url": "https://youtu.be/ndrUm_TYPqc"
         },
         {
+          "archivo": "1_trastornos_digestivos_funcionales_y_signos_de_alarma.txt",
           "titulo": "1. Trastornos digestivos funcionales y signos de alarma",
-          "url": "https://youtu.be/Xehji1yfHec",
-          "archivo": "1_trastornos_digestivos_funcionales_y_signos_de_alarma.txt"
+          "url": "https://youtu.be/Xehji1yfHec"
         },
         {
+          "archivo": "20_trauma_abdominal_y_toracico.txt",
           "titulo": "20. Trauma abdominal y torácico",
-          "url": "https://youtu.be/t3U6x7rC-H0",
-          "archivo": "20_trauma_abdominal_y_toracico.txt"
+          "url": "https://youtu.be/t3U6x7rC-H0"
         },
         {
+          "archivo": "21_cuerpo_extrano_digestivo.txt",
           "titulo": "21. Cuerpo Extraño Digestivo",
-          "url": "https://youtu.be/f7n33YmO1Bc",
-          "archivo": "21_cuerpo_extrano_digestivo.txt"
+          "url": "https://youtu.be/f7n33YmO1Bc"
         },
         {
+          "archivo": "22_diarrea_en_ninos.txt",
           "titulo": "22. Diarrea en niños",
-          "url": "https://youtu.be/NF5L7C3dYT4",
-          "archivo": "22_diarrea_en_ninos.txt"
+          "url": "https://youtu.be/NF5L7C3dYT4"
         },
         {
+          "archivo": "23_reflujo_lactante_dolor_abdominal_cronico_en_ninos_constipacion_en_ninos_fecaloma.txt",
           "titulo": "23. Reflujo lactante/ Dolor abdominal crónico en niños/ Constipación en niños / Fecaloma",
-          "url": "https://youtu.be/tx_UHTqY0A8",
-          "archivo": "23_reflujo_lactante_dolor_abdominal_cronico_en_ninos_constipacion_en_ninos_fecaloma.txt"
+          "url": "https://youtu.be/tx_UHTqY0A8"
         },
         {
+          "archivo": "24_cirugia_pediatrica_1.txt",
           "titulo": "24. Cirugía Pediátrica 1",
-          "url": "https://youtu.be/AHBT0J6N8oY",
-          "archivo": "24_cirugia_pediatrica_1.txt"
+          "url": "https://youtu.be/AHBT0J6N8oY"
         },
         {
+          "archivo": "25_cirugia_pediatrica_2.txt",
           "titulo": "25. Cirugía pediátrica 2",
-          "url": "https://youtu.be/x5CvNGsVeaQ",
-          "archivo": "25_cirugia_pediatrica_2.txt"
+          "url": "https://youtu.be/x5CvNGsVeaQ"
         },
         {
+          "archivo": "2_diarrea_aguda_diarrea_cronica_c_difficile_constipacion.txt",
           "titulo": "2. Diarrea aguda / Diarrea crónica / C. Difficile / Constipación",
-          "url": "https://youtu.be/kZgzgNHkQFk",
-          "archivo": "2_diarrea_aguda_diarrea_cronica_c_difficile_constipacion.txt"
+          "url": "https://youtu.be/kZgzgNHkQFk"
         },
         {
+          "archivo": "3_malabsorcion_intestinal_enfermedad_celiaca_intolerancia_a_la_lactosa_galactosemia.txt",
           "titulo": "3. Malabsorción intestinal / Enfermedad celíaca / Intolerancia a la lactosa / Galactosemia",
-          "url": "https://youtu.be/lQko8rSp4Q8",
-          "archivo": "3_malabsorcion_intestinal_enfermedad_celiaca_intolerancia_a_la_lactosa_galactosemia.txt"
+          "url": "https://youtu.be/lQko8rSp4Q8"
         },
         {
+          "archivo": "4_enfermedad_inflamatoria_intestinal.txt",
           "titulo": "4. Enfermedad inflamatoria intestinal",
-          "url": "https://youtu.be/LvAhZEpNuzM",
-          "archivo": "4_enfermedad_inflamatoria_intestinal.txt"
+          "url": "https://youtu.be/LvAhZEpNuzM"
         }
       ]
     },
     "geriatria": {
-      "total": 3,
+      "cantidad": 3,
       "transcripciones": [
         {
+          "archivo": "adulto_mayor_normal_evaluacion_geriatrica_polifarmacia_fragilidad_patologia_en_anciano.txt",
           "titulo": "Adulto mayor normal / Evaluación geriátrica / Polifarmacia / Fragilidad / Patología en anciano",
-          "url": "https://youtu.be/zHnoY3mcmuI",
-          "archivo": "adulto_mayor_normal_evaluacion_geriatrica_polifarmacia_fragilidad_patologia_en_anciano.txt"
+          "url": "https://youtu.be/zHnoY3mcmuI"
         },
         {
+          "archivo": "atrofia_muscular_inmovilidad_caidas_depresion_abuso_vacunas.txt",
           "titulo": "Atrofia muscular / Inmovilidad/ Caídas / Depresión / Abuso / Vacunas",
-          "url": "https://youtu.be/uKeUFVV6ZnI",
-          "archivo": "atrofia_muscular_inmovilidad_caidas_depresion_abuso_vacunas.txt"
+          "url": "https://youtu.be/uKeUFVV6ZnI"
         },
         {
+          "archivo": "incontinencia_urinaria.txt",
           "titulo": "Incontinencia urinaria",
-          "url": "https://youtu.be/mIieO2pv-LA",
-          "archivo": "incontinencia_urinaria.txt"
+          "url": "https://youtu.be/mIieO2pv-LA"
         }
       ]
     },
     "ginecologia": {
-      "total": 20,
+      "cantidad": 20,
       "transcripciones": [
         {
+          "archivo": "algia_pelvica_aguda.txt",
           "titulo": "Algia pélvica aguda",
-          "url": "https://youtu.be/MN1xAlbC0Ts",
-          "archivo": "algia_pelvica_aguda.txt"
+          "url": "https://youtu.be/MN1xAlbC0Ts"
         },
         {
+          "archivo": "algia_pelvica_cronica.txt",
           "titulo": "Algia pélvica crónica",
-          "url": "https://youtu.be/X569uioD9MI",
-          "archivo": "algia_pelvica_cronica.txt"
+          "url": "https://youtu.be/X569uioD9MI"
         },
         {
+          "archivo": "amenorrea_primaria.txt",
           "titulo": "Amenorrea primaria",
-          "url": "https://youtu.be/MZEvf4J8usc",
-          "archivo": "amenorrea_primaria.txt"
+          "url": "https://youtu.be/MZEvf4J8usc"
         },
         {
+          "archivo": "cancer_de_cuello_uterino_y_vagina.txt",
           "titulo": "Cáncer de cuello uterino y vagina",
-          "url": "https://youtu.be/68toGLRiSII",
-          "archivo": "cancer_de_cuello_uterino_y_vagina.txt"
+          "url": "https://youtu.be/68toGLRiSII"
         },
         {
+          "archivo": "detalles_menejo_pap.txt",
           "titulo": "Detalles menejo PAP",
-          "url": "https://youtu.be/3K_ZLNPnH7w",
-          "archivo": "detalles_menejo_pap.txt"
+          "url": "https://youtu.be/3K_ZLNPnH7w"
         },
         {
+          "archivo": "endometriosis.txt",
           "titulo": "Endometriosis",
-          "url": "https://youtu.be/TIoEBnXgw7Y",
-          "archivo": "endometriosis.txt"
+          "url": "https://youtu.be/TIoEBnXgw7Y"
         },
         {
+          "archivo": "enf_inflamatoria_pelvica.txt",
           "titulo": "Enf Inflamatoria pélvica",
-          "url": "https://youtu.be/_gC2oA_S7KI",
-          "archivo": "enf_inflamatoria_pelvica.txt"
+          "url": "https://youtu.be/_gC2oA_S7KI"
         },
         {
+          "archivo": "generalidades_pap.txt",
           "titulo": "Generalidades PAP",
-          "url": "https://youtu.be/ZOaYzqjsMtw",
-          "archivo": "generalidades_pap.txt"
+          "url": "https://youtu.be/ZOaYzqjsMtw"
         },
         {
+          "archivo": "ginecologia_infantil_i.txt",
           "titulo": "Ginecología infantil I",
-          "url": "https://youtu.be/QwDn9uUTuOY",
-          "archivo": "ginecologia_infantil_i.txt"
+          "url": "https://youtu.be/QwDn9uUTuOY"
         },
         {
+          "archivo": "ginecologia_infantil_ii.txt",
           "titulo": "Ginecología infantil II",
-          "url": "https://youtu.be/Nif8blzMl-s",
-          "archivo": "ginecologia_infantil_ii.txt"
+          "url": "https://youtu.be/Nif8blzMl-s"
         },
         {
+          "archivo": "lesiones_cervicales_premalignas_nie.txt",
           "titulo": "Lesiones cervicales premalignas NIE",
-          "url": "https://youtu.be/XgeBw9SamTs",
-          "archivo": "lesiones_cervicales_premalignas_nie.txt"
+          "url": "https://youtu.be/XgeBw9SamTs"
         },
         {
+          "archivo": "leucorreas_i.txt",
           "titulo": "Leucorreas I",
-          "url": "https://youtu.be/BPL3Fz_nAVw",
-          "archivo": "leucorreas_i.txt"
+          "url": "https://youtu.be/BPL3Fz_nAVw"
         },
         {
+          "archivo": "leucorreas_ii.txt",
           "titulo": "Leucorreas II",
-          "url": "https://youtu.be/u8wO3G1TcW4",
-          "archivo": "leucorreas_ii.txt"
+          "url": "https://youtu.be/u8wO3G1TcW4"
         },
         {
+          "archivo": "menopausia_y_climaterio.txt",
           "titulo": "Menopausia y climaterio",
-          "url": "https://youtu.be/-7cR7jyMN5U",
-          "archivo": "menopausia_y_climaterio.txt"
+          "url": "https://youtu.be/-7cR7jyMN5U"
         },
         {
+          "archivo": "metodos_anticonceptivos_i__la_amenaza_espermia.txt",
           "titulo": "Métodos anticonceptivos I - La amenaza espermia",
-          "url": "https://youtu.be/xkm96QJXGLo",
-          "archivo": "metodos_anticonceptivos_i__la_amenaza_espermia.txt"
+          "url": "https://youtu.be/xkm96QJXGLo"
         },
         {
+          "archivo": "metodos_anticonceptivos_ii__la_guerra_de_los_condones.txt",
           "titulo": "Métodos anticonceptivos II - La guerra de los condones",
-          "url": "https://youtu.be/X0lrTR0x6Jw",
-          "archivo": "metodos_anticonceptivos_ii__la_guerra_de_los_condones.txt"
+          "url": "https://youtu.be/X0lrTR0x6Jw"
         },
         {
+          "archivo": "metodos_anticonceptivos_iii__la_venganza_de_los_xy.txt",
           "titulo": "Métodos anticonceptivos III - La venganza de los XY",
-          "url": "https://youtu.be/gdc6XSxzGUM",
-          "archivo": "metodos_anticonceptivos_iii__la_venganza_de_los_xy.txt"
+          "url": "https://youtu.be/gdc6XSxzGUM"
         },
         {
+          "archivo": "metodos_anticonceptivos_iv__la_nueva_esperanza.txt",
           "titulo": "Métodos anticonceptivos IV - La nueva esperanza",
-          "url": "https://youtu.be/LeLr5JRYP-s",
-          "archivo": "metodos_anticonceptivos_iv__la_nueva_esperanza.txt"
+          "url": "https://youtu.be/LeLr5JRYP-s"
         },
         {
+          "archivo": "metodos_anticonceptivos_v__el_espermio_contraataca.txt",
           "titulo": "Métodos anticonceptivos V - El espermio contraataca",
-          "url": "https://youtu.be/t20uR34wWUk",
-          "archivo": "metodos_anticonceptivos_v__el_espermio_contraataca.txt"
+          "url": "https://youtu.be/t20uR34wWUk"
         },
         {
+          "archivo": "metrorragia_en_la_menopausia.txt",
           "titulo": "metrorragia en la menopausia",
-          "url": "https://youtu.be/j-5MwT0ugYs",
-          "archivo": "metrorragia_en_la_menopausia.txt"
+          "url": "https://youtu.be/j-5MwT0ugYs"
         }
       ]
     },
     "hematologia": {
-      "total": 20,
+      "cantidad": 20,
       "transcripciones": [
         {
+          "archivo": "10_anemia_en_ninos.txt",
           "titulo": "10. Anemia en niños",
-          "url": "https://youtu.be/wuUzy8PoX5E",
-          "archivo": "10_anemia_en_ninos.txt"
+          "url": "https://youtu.be/wuUzy8PoX5E"
         },
         {
+          "archivo": "11_alteraciones_de_la_hemostasia_generalidades.txt",
           "titulo": "11. Alteraciones de la hemostasia generalidades",
-          "url": "https://youtu.be/Iw6DNUaYfCE",
-          "archivo": "11_alteraciones_de_la_hemostasia_generalidades.txt"
+          "url": "https://youtu.be/Iw6DNUaYfCE"
         },
         {
+          "archivo": "12_purpura.txt",
           "titulo": "12. Purpura",
-          "url": "https://youtu.be/gKiag44z9_o",
-          "archivo": "12_purpura.txt"
+          "url": "https://youtu.be/gKiag44z9_o"
         },
         {
+          "archivo": "13_purpura_trombocitopenica_inmune_pti.txt",
           "titulo": "13. Purpura trombocitopénica inmune PTI",
-          "url": "https://youtu.be/WSh4b7gFHdo",
-          "archivo": "13_purpura_trombocitopenica_inmune_pti.txt"
+          "url": "https://youtu.be/WSh4b7gFHdo"
         },
         {
+          "archivo": "14_purpura_trombocitopenica_trombotica_ptt.txt",
           "titulo": "14. Púrpura trombocitopenica Trombótica PTT",
-          "url": "https://youtu.be/_ZIF0r-8z2c",
-          "archivo": "14_purpura_trombocitopenica_trombotica_ptt.txt"
+          "url": "https://youtu.be/_ZIF0r-8z2c"
         },
         {
+          "archivo": "15_purpura_de_schonlein_henoch.txt",
           "titulo": "15. Púrpura de Schönlein Henoch",
-          "url": "https://youtu.be/8Nu7Y_SR78Q",
-          "archivo": "15_purpura_de_schonlein_henoch.txt"
+          "url": "https://youtu.be/8Nu7Y_SR78Q"
         },
         {
+          "archivo": "16_patologias_geneticas_de_la_hemostasia_primarias.txt",
           "titulo": "16. Patologías geneticas de la hemostasia primarias",
-          "url": "https://youtu.be/BpVGGoHgj5k",
-          "archivo": "16_patologias_geneticas_de_la_hemostasia_primarias.txt"
+          "url": "https://youtu.be/BpVGGoHgj5k"
         },
         {
+          "archivo": "17_hemofilia.txt",
           "titulo": "17. Hemofilia",
-          "url": "https://youtu.be/rt9jaKNYWeg",
-          "archivo": "17_hemofilia.txt"
+          "url": "https://youtu.be/rt9jaKNYWeg"
         },
         {
+          "archivo": "18_coagulacion_intravascular_diseminada_cid.txt",
           "titulo": "18. Coagulación intravascular diseminada CID",
-          "url": "https://youtu.be/aBAjKgI6nV4",
-          "archivo": "18_coagulacion_intravascular_diseminada_cid.txt"
+          "url": "https://youtu.be/aBAjKgI6nV4"
         },
         {
+          "archivo": "19_hemograma_en_infecciones_y_reaccion_leuquemoide.txt",
           "titulo": "19. Hemograma en infecciones y reacción leuquemoide",
-          "url": "https://youtu.be/kHhWGEyzhf0",
-          "archivo": "19_hemograma_en_infecciones_y_reaccion_leuquemoide.txt"
+          "url": "https://youtu.be/kHhWGEyzhf0"
         },
         {
+          "archivo": "1_anemia_generalidades.txt",
           "titulo": "1. Anemia Generalidades",
-          "url": "https://youtu.be/72I5RBPWcjk",
-          "archivo": "1_anemia_generalidades.txt"
+          "url": "https://youtu.be/72I5RBPWcjk"
         },
         {
+          "archivo": "20_trombocitosis_reactiva.txt",
           "titulo": "20. Trombocitosis reactiva",
-          "url": "https://youtu.be/e0Bds1UcnXI",
-          "archivo": "20_trombocitosis_reactiva.txt"
+          "url": "https://youtu.be/e0Bds1UcnXI"
         },
         {
+          "archivo": "21_nociones_en_cancer_hematologico.txt",
           "titulo": "21. Nociones en cáncer hematológico",
-          "url": "https://youtu.be/kPsQXaas1OE",
-          "archivo": "21_nociones_en_cancer_hematologico.txt"
+          "url": "https://youtu.be/kPsQXaas1OE"
         },
         {
+          "archivo": "22_conceptos_semiologicos_en_el_cancer_hematologico.txt",
           "titulo": "22. Conceptos semiológicos en el cáncer hematológico",
-          "url": "https://youtu.be/3oNFez79JPQ",
-          "archivo": "22_conceptos_semiologicos_en_el_cancer_hematologico.txt"
+          "url": "https://youtu.be/3oNFez79JPQ"
         },
         {
+          "archivo": "23_leucemias.txt",
           "titulo": "23. Leucemias",
-          "url": "https://youtu.be/EMbcS5SOveI",
-          "archivo": "23_leucemias.txt"
+          "url": "https://youtu.be/EMbcS5SOveI"
         },
         {
+          "archivo": "24_leucemias_2.txt",
           "titulo": "24. Leucemias 2",
-          "url": "https://youtu.be/T2HhG0-W1WA",
-          "archivo": "24_leucemias_2.txt"
+          "url": "https://youtu.be/T2HhG0-W1WA"
         },
         {
+          "archivo": "25_linfomas.txt",
           "titulo": "25. Linfomas",
-          "url": "https://youtu.be/m0IgYLDtwHM",
-          "archivo": "25_linfomas.txt"
+          "url": "https://youtu.be/m0IgYLDtwHM"
         },
         {
+          "archivo": "26_sindrome_mieloproliferativos.txt",
           "titulo": "26. Sindrome mieloproliferativos",
-          "url": "https://youtu.be/NHhSd1JDg8I",
-          "archivo": "26_sindrome_mieloproliferativos.txt"
+          "url": "https://youtu.be/NHhSd1JDg8I"
         },
         {
+          "archivo": "27_mielodisplasia.txt",
           "titulo": "27. Mielodisplasia",
-          "url": "https://youtu.be/vL8MUJqG8qs",
-          "archivo": "27_mielodisplasia.txt"
+          "url": "https://youtu.be/vL8MUJqG8qs"
         },
         {
+          "archivo": "2_perfil_de_hierro.txt",
           "titulo": "2. Perfil de Hierro",
-          "url": "https://youtu.be/Axrqs1_PBHg",
-          "archivo": "2_perfil_de_hierro.txt"
+          "url": "https://youtu.be/Axrqs1_PBHg"
         }
       ]
     },
     "nefrologia": {
-      "total": 20,
+      "cantidad": 20,
       "transcripciones": [
         {
+          "archivo": "10_glomerulonefritis_y_sindrome_nefritico.txt",
           "titulo": "10. Glomerulonefritis y síndrome nefrítico",
-          "url": "https://youtu.be/EhInmZlOhK4",
-          "archivo": "10_glomerulonefritis_y_sindrome_nefritico.txt"
+          "url": "https://youtu.be/EhInmZlOhK4"
         },
         {
+          "archivo": "11_tipos_de_glomerulonefritis.txt",
           "titulo": "11. Tipos de Glomerulonefritis",
-          "url": "https://youtu.be/cWyDkqwRcq4",
-          "archivo": "11_tipos_de_glomerulonefritis.txt"
+          "url": "https://youtu.be/cWyDkqwRcq4"
         },
         {
+          "archivo": "12_casos_de_glomerulonefritis.txt",
           "titulo": "12. Casos de Glomerulonefritis",
-          "url": "https://youtu.be/NbqVu7OZRjI",
-          "archivo": "12_casos_de_glomerulonefritis.txt"
+          "url": "https://youtu.be/NbqVu7OZRjI"
         },
         {
+          "archivo": "13_nefritis_intersticial.txt",
           "titulo": "13. Nefritis intersticial",
-          "url": "https://youtu.be/VVPVvWYr8BU",
-          "archivo": "13_nefritis_intersticial.txt"
+          "url": "https://youtu.be/VVPVvWYr8BU"
         },
         {
+          "archivo": "14_sindrome_nefrotico.txt",
           "titulo": "14. Síndrome nefrótico",
-          "url": "https://youtu.be/YfooYztY17I",
-          "archivo": "14_sindrome_nefrotico.txt"
+          "url": "https://youtu.be/YfooYztY17I"
         },
         {
+          "archivo": "15_sindrome_nefrotico_patologias_especificas.txt",
           "titulo": "15. Síndrome nefrótico Patologías específicas",
-          "url": "https://youtu.be/hmGL6z8f3Kg",
-          "archivo": "15_sindrome_nefrotico_patologias_especificas.txt"
+          "url": "https://youtu.be/hmGL6z8f3Kg"
         },
         {
+          "archivo": "16_sindrome_polidepsico_poliurico.txt",
           "titulo": "16. Síndrome polidépsico poliúrico",
-          "url": "https://youtu.be/fTLL35DVWMQ",
-          "archivo": "16_sindrome_polidepsico_poliurico.txt"
+          "url": "https://youtu.be/fTLL35DVWMQ"
         },
         {
+          "archivo": "17_ssiadh.txt",
           "titulo": "17. SSIADH",
-          "url": "https://youtu.be/WROg5304kE4",
-          "archivo": "17_ssiadh.txt"
+          "url": "https://youtu.be/WROg5304kE4"
         },
         {
+          "archivo": "18_trastorno_hidroelectroliticos.txt",
           "titulo": "18. Trastorno hidroelectrolíticos",
-          "url": "https://youtu.be/VznOeP8XNWY",
-          "archivo": "18_trastorno_hidroelectroliticos.txt"
+          "url": "https://youtu.be/VznOeP8XNWY"
         },
         {
+          "archivo": "19_alteraciones_del_sodio__manejo.txt",
           "titulo": "19. Alteraciones del sodio - Manejo",
-          "url": "https://youtu.be/O8HdCfoie88",
-          "archivo": "19_alteraciones_del_sodio__manejo.txt"
+          "url": "https://youtu.be/O8HdCfoie88"
         },
         {
+          "archivo": "1_conceptos_de_nefrologia.txt",
           "titulo": "1. Conceptos de nefrología",
-          "url": "https://youtu.be/j5yhI8qo4hw",
-          "archivo": "1_conceptos_de_nefrologia.txt"
+          "url": "https://youtu.be/j5yhI8qo4hw"
         },
         {
+          "archivo": "20_alteraciones_del_potasio_manejo.txt",
           "titulo": "20. Alteraciones del potasio Manejo",
-          "url": "https://youtu.be/7hPHzUFzQWo",
-          "archivo": "20_alteraciones_del_potasio_manejo.txt"
+          "url": "https://youtu.be/7hPHzUFzQWo"
         },
         {
+          "archivo": "21_alteraciones_del_calcio_estudio.txt",
           "titulo": "21. Alteraciones del calcio estudio",
-          "url": "https://youtu.be/KyENG9jZqlI",
-          "archivo": "21_alteraciones_del_calcio_estudio.txt"
+          "url": "https://youtu.be/KyENG9jZqlI"
         },
         {
+          "archivo": "22_alteraciones_del_calcio_manejo.txt",
           "titulo": "22. Alteraciones del calcio Manejo",
-          "url": "https://youtu.be/nWgQHuMnw8E",
-          "archivo": "22_alteraciones_del_calcio_manejo.txt"
+          "url": "https://youtu.be/nWgQHuMnw8E"
         },
         {
+          "archivo": "23_diureticos.txt",
           "titulo": "23. Diureticos",
-          "url": "https://youtu.be/s9yTPJc0KC8",
-          "archivo": "23_diureticos.txt"
+          "url": "https://youtu.be/s9yTPJc0KC8"
         },
         {
+          "archivo": "24_sueroterapia.txt",
           "titulo": "24. Sueroterapia",
-          "url": "https://youtu.be/ZnA5rMKmOpg",
-          "archivo": "24_sueroterapia.txt"
+          "url": "https://youtu.be/ZnA5rMKmOpg"
         },
         {
+          "archivo": "25_hta.txt",
           "titulo": "25. HTA",
-          "url": "https://youtu.be/ie1wnmHABSI",
-          "archivo": "25_hta.txt"
+          "url": "https://youtu.be/ie1wnmHABSI"
         },
         {
+          "archivo": "26_antihipertensivos.txt",
           "titulo": "26. ANtihipertensivos",
-          "url": "https://youtu.be/jHfrAi8D9zQ",
-          "archivo": "26_antihipertensivos.txt"
+          "url": "https://youtu.be/jHfrAi8D9zQ"
         },
         {
+          "archivo": "27_crisis_hipertensiva.txt",
           "titulo": "27. Crisis hipertensiva",
-          "url": "https://youtu.be/40sK6_iSBb0",
-          "archivo": "27_crisis_hipertensiva.txt"
+          "url": "https://youtu.be/40sK6_iSBb0"
         },
         {
+          "archivo": "2_insuficiencia_renal_aguda_o_cronica.txt",
           "titulo": "2. Insuficiencia renal aguda o crónica",
-          "url": "https://youtu.be/rKAW4f-SdcU",
-          "archivo": "2_insuficiencia_renal_aguda_o_cronica.txt"
+          "url": "https://youtu.be/rKAW4f-SdcU"
         }
       ]
     },
     "neurologia": {
-      "total": 20,
+      "cantidad": 20,
       "transcripciones": [
         {
+          "archivo": "accidente_vascular_encefalico.txt",
           "titulo": "Accidente vascular encefálico",
-          "url": "https://youtu.be/KGTmjGSecnY",
-          "archivo": "accidente_vascular_encefalico.txt"
+          "url": "https://youtu.be/KGTmjGSecnY"
         },
         {
+          "archivo": "causas_especificas_del_vertigo.txt",
           "titulo": "Causas específicas del vértigo",
-          "url": "https://youtu.be/MshSlua36wc",
-          "archivo": "causas_especificas_del_vertigo.txt"
+          "url": "https://youtu.be/MshSlua36wc"
         },
         {
+          "archivo": "causas_paralisis_facial_periferica.txt",
           "titulo": "Causas parálisis facial periférica",
-          "url": "https://youtu.be/qAYpf3W0iPQ",
-          "archivo": "causas_paralisis_facial_periferica.txt"
+          "url": "https://youtu.be/qAYpf3W0iPQ"
         },
         {
+          "archivo": "cefalea_tumor_cerebral_htec.txt",
           "titulo": "Cefalea / Tumor cerebral / HTEC",
-          "url": "https://youtu.be/gReR8SCACj0",
-          "archivo": "cefalea_tumor_cerebral_htec.txt"
+          "url": "https://youtu.be/gReR8SCACj0"
         },
         {
+          "archivo": "cefaleas_cronicas.txt",
           "titulo": "Cefaleas crónicas",
-          "url": "https://youtu.be/o4RwfS-Jvhw",
-          "archivo": "cefaleas_cronicas.txt"
+          "url": "https://youtu.be/o4RwfS-Jvhw"
         },
         {
+          "archivo": "compromiso_de_conciencia_apraxia_agnosia_afasia.txt",
           "titulo": "Compromiso de conciencia / Apraxia / Agnosia / Afasia",
-          "url": "https://youtu.be/nUcVImDeEv0",
-          "archivo": "compromiso_de_conciencia_apraxia_agnosia_afasia.txt"
+          "url": "https://youtu.be/nUcVImDeEv0"
         },
         {
+          "archivo": "crisis_convulsivas_epilepsia_convulsiones_febriles_estatus_convulsivo.txt",
           "titulo": "Crisis convulsivas / Epilepsia / Convulsiones febriles / Estatus convulsivo",
-          "url": "https://youtu.be/d5KejCLfAb8",
-          "archivo": "crisis_convulsivas_epilepsia_convulsiones_febriles_estatus_convulsivo.txt"
+          "url": "https://youtu.be/d5KejCLfAb8"
         },
         {
+          "archivo": "demencia_delirium.txt",
           "titulo": "Demencia/ Delirium",
-          "url": "https://youtu.be/5nn3vGLXnrI",
-          "archivo": "demencia_delirium.txt"
+          "url": "https://youtu.be/5nn3vGLXnrI"
         },
         {
+          "archivo": "esclerosis_lateral_amiotrofica_ela_esclerosis_multiple_em.txt",
           "titulo": "Esclerosis lateral amiotrófica (ELA) / Esclerosis múltiple (EM)",
-          "url": "https://youtu.be/phpODZsydug",
-          "archivo": "esclerosis_lateral_amiotrofica_ela_esclerosis_multiple_em.txt"
+          "url": "https://youtu.be/phpODZsydug"
         },
         {
+          "archivo": "meningitis.txt",
           "titulo": "Meningitis",
-          "url": "https://youtu.be/92E5Wn7G5nk",
-          "archivo": "meningitis.txt"
+          "url": "https://youtu.be/92E5Wn7G5nk"
         },
         {
+          "archivo": "neuroftalmologia.txt",
           "titulo": "Neuroftalmología",
-          "url": "https://youtu.be/RdSz1sn5sJw",
-          "archivo": "neuroftalmologia.txt"
+          "url": "https://youtu.be/RdSz1sn5sJw"
         },
         {
+          "archivo": "paralisis_facial.txt",
           "titulo": "Parálisis facial",
-          "url": "https://youtu.be/kBuANMLO3dc",
-          "archivo": "paralisis_facial.txt"
+          "url": "https://youtu.be/kBuANMLO3dc"
         },
         {
+          "archivo": "polineuropatias_neuralgias_neuropatias_por_atrapamiento.txt",
           "titulo": "Polineuropatías / Neuralgias / Neuropatías por atrapamiento",
-          "url": "https://youtu.be/5L7H1AGU0r4",
-          "archivo": "polineuropatias_neuralgias_neuropatias_por_atrapamiento.txt"
+          "url": "https://youtu.be/5L7H1AGU0r4"
         },
         {
+          "archivo": "sindrome_motores.txt",
           "titulo": "Síndrome motores",
-          "url": "https://youtu.be/z6D1x_FRQWA",
-          "archivo": "sindrome_motores.txt"
+          "url": "https://youtu.be/z6D1x_FRQWA"
         },
         {
+          "archivo": "tembor_extrapiramidalismo.txt",
           "titulo": "Tembor/ Extrapiramidalismo",
-          "url": "https://youtu.be/0PnLQBLHaX4",
-          "archivo": "tembor_extrapiramidalismo.txt"
+          "url": "https://youtu.be/0PnLQBLHaX4"
         },
         {
+          "archivo": "trastorno_de_la_deglucion.txt",
           "titulo": "Trastorno de la deglución",
-          "url": "https://youtu.be/Qr8Wmn-693c",
-          "archivo": "trastorno_de_la_deglucion.txt"
+          "url": "https://youtu.be/Qr8Wmn-693c"
         },
         {
+          "archivo": "trastorno_del_habla.txt",
           "titulo": "Trastorno del habla",
-          "url": "https://youtu.be/S17RBolaJw4",
-          "archivo": "trastorno_del_habla.txt"
+          "url": "https://youtu.be/S17RBolaJw4"
         },
         {
+          "archivo": "trastornos_del_sueno.txt",
           "titulo": "Trastornos del sueño",
-          "url": "https://youtu.be/Bh34R4fSWHo",
-          "archivo": "trastornos_del_sueno.txt"
+          "url": "https://youtu.be/Bh34R4fSWHo"
         },
         {
+          "archivo": "traumatismo_encefalo_craneano.txt",
           "titulo": "Traumatismo encéfalo craneano",
-          "url": "https://youtu.be/7DR46e5b_lM",
-          "archivo": "traumatismo_encefalo_craneano.txt"
+          "url": "https://youtu.be/7DR46e5b_lM"
         },
         {
+          "archivo": "vertigo.txt",
           "titulo": "Vértigo",
-          "url": "https://youtu.be/fXOhsigsn88",
-          "archivo": "vertigo.txt"
+          "url": "https://youtu.be/fXOhsigsn88"
         }
       ]
     },
     "obstetricia": {
-      "total": 20,
+      "cantidad": 20,
       "transcripciones": [
         {
+          "archivo": "aborto_completo_versus_embarazo_ectopico.txt",
           "titulo": "aborto completo versus embarazo ectópico",
-          "url": "https://youtu.be/n2-SfR94BF4",
-          "archivo": "aborto_completo_versus_embarazo_ectopico.txt"
+          "url": "https://youtu.be/n2-SfR94BF4"
         },
         {
+          "archivo": "aborto_espontaneo.txt",
           "titulo": "aborto espontáneo",
-          "url": "https://youtu.be/YhI_Wm2r5OI",
-          "archivo": "aborto_espontaneo.txt"
+          "url": "https://youtu.be/YhI_Wm2r5OI"
         },
         {
+          "archivo": "aborto_retenido.txt",
           "titulo": "aborto retenido",
-          "url": "https://youtu.be/N9nQgeMPkms",
-          "archivo": "aborto_retenido.txt"
+          "url": "https://youtu.be/N9nQgeMPkms"
         },
         {
+          "archivo": "aborto_septico.txt",
           "titulo": "aborto séptico",
-          "url": "https://youtu.be/3pVwJ8Nn2O8",
-          "archivo": "aborto_septico.txt"
+          "url": "https://youtu.be/3pVwJ8Nn2O8"
         },
         {
+          "archivo": "anemia_en_el_embarazo.txt",
           "titulo": "anemia en el embarazo",
-          "url": "https://youtu.be/_yCbtn6WY90",
-          "archivo": "anemia_en_el_embarazo.txt"
+          "url": "https://youtu.be/_yCbtn6WY90"
         },
         {
+          "archivo": "atencion_inmediata_del_recion_nacido_y_asfixia_neonatal.txt",
           "titulo": "Atención inmediata del reción nacido y asfixia neonatal",
-          "url": "https://youtu.be/kocNggnom7g",
-          "archivo": "atencion_inmediata_del_recion_nacido_y_asfixia_neonatal.txt"
+          "url": "https://youtu.be/kocNggnom7g"
         },
         {
+          "archivo": "causales_de_aborto_provocado_en_chile.txt",
           "titulo": "causales de aborto provocado en Chile",
-          "url": "https://youtu.be/3in5tksirwc",
-          "archivo": "causales_de_aborto_provocado_en_chile.txt"
+          "url": "https://youtu.be/3in5tksirwc"
         },
         {
+          "archivo": "colestacia_intrahepatica_del_embarazo_cie.txt",
           "titulo": "colestacia intrahepática del embarazo CIE",
-          "url": "https://youtu.be/hLj31Uhao6E",
-          "archivo": "colestacia_intrahepatica_del_embarazo_cie.txt"
+          "url": "https://youtu.be/hLj31Uhao6E"
         },
         {
+          "archivo": "complicaciones_embarazo_gemelar_monocorial.txt",
           "titulo": "Complicaciones embarazo gemelar monocorial",
-          "url": "https://youtu.be/i62NHeGyw90",
-          "archivo": "complicaciones_embarazo_gemelar_monocorial.txt"
+          "url": "https://youtu.be/i62NHeGyw90"
         },
         {
+          "archivo": "control_antenatal.txt",
           "titulo": "Control antenatal",
-          "url": "https://youtu.be/siltw7saCgQ",
-          "archivo": "control_antenatal.txt"
+          "url": "https://youtu.be/siltw7saCgQ"
         },
         {
+          "archivo": "deteccion_hipoxia_fetal_i.txt",
           "titulo": "Detección hipoxia fetal I",
-          "url": "https://youtu.be/EuNH5J54COM",
-          "archivo": "deteccion_hipoxia_fetal_i.txt"
+          "url": "https://youtu.be/EuNH5J54COM"
         },
         {
+          "archivo": "deteccion_hipoxia_fetal_ii.txt",
           "titulo": "Detección hipoxia fetal II",
-          "url": "https://youtu.be/53CC85rOl_0",
-          "archivo": "deteccion_hipoxia_fetal_ii.txt"
+          "url": "https://youtu.be/53CC85rOl_0"
         },
         {
+          "archivo": "determinacion_de_edad_gestacional.txt",
           "titulo": "determinación de edad gestacional",
-          "url": "https://youtu.be/E1VOUYY86m4",
-          "archivo": "determinacion_de_edad_gestacional.txt"
+          "url": "https://youtu.be/E1VOUYY86m4"
         },
         {
+          "archivo": "diagnostico_de_diabetes_en_el_embarazo.txt",
           "titulo": "diagnóstico de diabetes en el embarazo",
-          "url": "https://youtu.be/er8zzIlXcI8",
-          "archivo": "diagnostico_de_diabetes_en_el_embarazo.txt"
+          "url": "https://youtu.be/er8zzIlXcI8"
         },
         {
+          "archivo": "distocias_de_presentacion.txt",
           "titulo": "DIstocias de presentación",
-          "url": "https://youtu.be/d6ZgwDITolE",
-          "archivo": "distocias_de_presentacion.txt"
+          "url": "https://youtu.be/d6ZgwDITolE"
         },
         {
+          "archivo": "doppler_fetal.txt",
           "titulo": "Doppler fetal",
-          "url": "https://youtu.be/kIIcS_krO2Y",
-          "archivo": "doppler_fetal.txt"
+          "url": "https://youtu.be/kIIcS_krO2Y"
         },
         {
+          "archivo": "eclampsia.txt",
           "titulo": "eclampsia",
-          "url": "https://youtu.be/M8GcW8h-as4",
-          "archivo": "eclampsia.txt"
+          "url": "https://youtu.be/M8GcW8h-as4"
         },
         {
+          "archivo": "edades_de_interrupcion_rciu.txt",
           "titulo": "Edades de interrupción RCIU",
-          "url": "https://youtu.be/DCWzwQlkPD0",
-          "archivo": "edades_de_interrupcion_rciu.txt"
+          "url": "https://youtu.be/DCWzwQlkPD0"
         },
         {
+          "archivo": "ejercicios_y_casos_she.txt",
           "titulo": "ejercicios y casos she",
-          "url": "https://youtu.be/EODOCFqiVZE",
-          "archivo": "ejercicios_y_casos_she.txt"
+          "url": "https://youtu.be/EODOCFqiVZE"
         },
         {
+          "archivo": "embarazo_ectopic_definicion_y_diagnostico.txt",
           "titulo": "Embarazo ectópic definición y diagnóstico",
-          "url": "https://youtu.be/BVy7dCJCk0Q",
-          "archivo": "embarazo_ectopic_definicion_y_diagnostico.txt"
+          "url": "https://youtu.be/BVy7dCJCk0Q"
+        }
+      ]
+    },
+    "oftalmologia": {
+      "cantidad": 20,
+      "transcripciones": [
+        {
+          "archivo": "celulitis_preorbitaria_y_orbitaria.txt",
+          "titulo": "Celulitis preorbitaria y orbitaria",
+          "url": "https://youtu.be/C43vuTG6Yzg"
+        },
+        {
+          "archivo": "cuerpo_extrano.txt",
+          "titulo": "Cuerpo extraño",
+          "url": "https://youtu.be/isWuwxesUiY"
+        },
+        {
+          "archivo": "miscelaneos_1.txt",
+          "titulo": "Misceláneos 1",
+          "url": "https://youtu.be/mpiXGpExVfE"
+        },
+        {
+          "archivo": "miscelaneos_2.txt",
+          "titulo": "Misceláneos 2",
+          "url": "https://youtu.be/6eDEBPyH-wA"
+        },
+        {
+          "archivo": "neuroftalmo_3.txt",
+          "titulo": "Neuroftalmo 3",
+          "url": "https://youtu.be/tGSIRhPmGtk"
+        },
+        {
+          "archivo": "neuroftalmo_alteraciones_pupilares.txt",
+          "titulo": "Neuroftalmo alteraciones pupilares",
+          "url": "https://youtu.be/2k3YHNZOcSk"
+        },
+        {
+          "archivo": "neuroftalmo_lesiones_de_la_via_visual.txt",
+          "titulo": "Neuroftalmo Lesiones de la vía visual",
+          "url": "https://youtu.be/p_WAYW3_qws"
+        },
+        {
+          "archivo": "oftalmo_pediatrica.txt",
+          "titulo": "Oftalmo pediátrica",
+          "url": "https://youtu.be/JCjtYA9qkdk"
+        },
+        {
+          "archivo": "oftalmo_pediatrica_2.txt",
+          "titulo": "Oftalmo pediatrica 2",
+          "url": "https://youtu.be/lvSElcjCvFI"
+        },
+        {
+          "archivo": "oftalmo_pediatrica_3.txt",
+          "titulo": "Oftalmo pediátrica 3",
+          "url": "https://youtu.be/-XGCxxKeSYs"
+        },
+        {
+          "archivo": "ojo_rojo_profundo_1.txt",
+          "titulo": "Ojo rojo profundo 1",
+          "url": "https://youtu.be/2FTP7iG1Ypg"
+        },
+        {
+          "archivo": "ojo_rojo_profundo_2.txt",
+          "titulo": "Ojo rojo profundo 2",
+          "url": "https://youtu.be/GBlORVzjhUk"
+        },
+        {
+          "archivo": "ojos_rojos_1.txt",
+          "titulo": "Ojos Rojos 1",
+          "url": "https://youtu.be/HT63Qz6H2Co"
+        },
+        {
+          "archivo": "ojos_rojos_conjuntivitis_especiales.txt",
+          "titulo": "Ojos rojos conjuntivitis especiales",
+          "url": "https://youtu.be/yrbXSqKttHQ"
+        },
+        {
+          "archivo": "ojos_rojos_patologias_inflamatoria_de_parpados.txt",
+          "titulo": "Ojos rojos patologías inflamatoria de párpados",
+          "url": "https://youtu.be/53WZ2_eKq2U"
+        },
+        {
+          "archivo": "ojos_rojos_superficial.txt",
+          "titulo": "Ojos rojos superficial",
+          "url": "https://youtu.be/kmPNJR7V4tk"
+        },
+        {
+          "archivo": "perdida_lenta_de_vision.txt",
+          "titulo": "Perdida lenta de visión",
+          "url": "https://youtu.be/qTq94-ZYgW0"
+        },
+        {
+          "archivo": "perdida_subita_de_vision.txt",
+          "titulo": "Pérdida súbita de visión",
+          "url": "https://youtu.be/bZwvWIgxkUY"
+        },
+        {
+          "archivo": "perdida_subita_de_vision_resumen.txt",
+          "titulo": "Pérdida subita de visión resumen",
+          "url": "https://youtu.be/FpMLX_I-JpE"
+        },
+        {
+          "archivo": "retinopatia_hipertensiva.txt",
+          "titulo": "Retinopatía hipertensiva",
+          "url": "https://youtu.be/wNVf4aedtTc"
         }
       ]
     }
-  }
+  },
+  "total": 203
 }
