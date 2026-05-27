@@ -1,0 +1,110 @@
+{
+  "descripcion": "Bibliografía: transcripciones de clases en video (Dr. Guevara), referencia para auditar y refinar el banco.",
+  "unidades": {
+    "cardiologia": {
+      "total": 20,
+      "transcripciones": [
+        {
+          "titulo": "Aneurisma de la aorta abdomin al",
+          "url": "https://youtu.be/wG12n6csK5E",
+          "archivo": "aneurisma_de_la_aorta_abdomin_al.txt"
+        },
+        {
+          "titulo": "Angina crónica",
+          "url": "https://youtu.be/Nz3nDbfflzA",
+          "archivo": "angina_cronica.txt"
+        },
+        {
+          "titulo": "Arritmias en el infarto",
+          "url": "https://youtu.be/eUbfeFOK8-g",
+          "archivo": "arritmias_en_el_infarto.txt"
+        },
+        {
+          "titulo": "Bradiarritmias y bloqueos cardiacos",
+          "url": "https://youtu.be/TSCyH3tZbTE",
+          "archivo": "bradiarritmias_y_bloqueos_cardiacos.txt"
+        },
+        {
+          "titulo": "Cardiopatía congénitas detalles semiología",
+          "url": "https://youtu.be/eCeLlKHkUFk",
+          "archivo": "cardiopatia_congenitas_detalles_semiologia.txt"
+        },
+        {
+          "titulo": "Cardiopatía coronaria",
+          "url": "https://youtu.be/J19bwQdAq20",
+          "archivo": "cardiopatia_coronaria.txt"
+        },
+        {
+          "titulo": "Cardiopatías congénitas clasificación y generalidades",
+          "url": "https://youtu.be/gashdarCP7A",
+          "archivo": "cardiopatias_congenitas_clasificacion_y_generalidades.txt"
+        },
+        {
+          "titulo": "Clasificación del Shock",
+          "url": "https://youtu.be/IG3KoiJ5cXY",
+          "archivo": "clasificacion_del_shock.txt"
+        },
+        {
+          "titulo": "Complicaciones mecánicas del infarto miocárdico",
+          "url": "https://youtu.be/yum9kbVQYDE",
+          "archivo": "complicaciones_mecanicas_del_infarto_miocardico.txt"
+        },
+        {
+          "titulo": "Cor pulmonale",
+          "url": "https://youtu.be/3FuIv1F3Ljo",
+          "archivo": "cor_pulmonale.txt"
+        },
+        {
+          "titulo": "Disección aortica",
+          "url": "https://youtu.be/ExPpvGD6G4g",
+          "archivo": "diseccion_aortica.txt"
+        },
+        {
+          "titulo": "Dolor Torácico",
+          "url": "https://youtu.be/GNqlDeo-S9U",
+          "archivo": "dolor_toracico.txt"
+        },
+        {
+          "titulo": "ECG en sindrome coronario agudo",
+          "url": "https://youtu.be/SPIZ5u7dUVQ",
+          "archivo": "ecg_en_sindrome_coronario_agudo.txt"
+        },
+        {
+          "titulo": "Enfermedades del pericardio",
+          "url": "https://youtu.be/1DZyZrOsABg",
+          "archivo": "enfermedades_del_pericardio.txt"
+        },
+        {
+          "titulo": "Estenosis carotidea",
+          "url": "https://youtu.be/UnK_3uEnZX8",
+          "archivo": "estenosis_carotidea.txt"
+        },
+        {
+          "titulo": "Extrasístoles",
+          "url": "https://youtu.be/d_O-xrxn5Mg",
+          "archivo": "extrasistoles.txt"
+        },
+        {
+          "titulo": "FA crónica",
+          "url": "https://youtu.be/hyQi5pVfobE",
+          "archivo": "fa_cronica.txt"
+        },
+        {
+          "titulo": "FA de reciente comienzo",
+          "url": "https://youtu.be/Aime9F4u028",
+          "archivo": "fa_de_reciente_comienzo.txt"
+        },
+        {
+          "titulo": "Fármacos anticoagulantes",
+          "url": "https://youtu.be/fsW1sU7zWzg",
+          "archivo": "farmacos_anticoagulantes.txt"
+        },
+        {
+          "titulo": "Fibrilación auricular repaso de antiarritmicos",
+          "url": "https://youtu.be/yhcdkMLT5Cg",
+          "archivo": "fibrilacion_auricular_repaso_de_antiarritmicos.txt"
+        }
+      ]
+    }
+  }
+}
