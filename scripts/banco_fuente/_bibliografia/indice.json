@@ -315,6 +315,111 @@
           "archivo": "nodulo_tiroideo.txt"
         }
       ]
+    },
+    "gastroenterologia": {
+      "total": 20,
+      "transcripciones": [
+        {
+          "titulo": "10. Ictericia",
+          "url": "https://youtu.be/C9_gOzYW34g",
+          "archivo": "10_ictericia.txt"
+        },
+        {
+          "titulo": "11. Hepatitis aguda y Crónica",
+          "url": "https://youtu.be/kN9gCf5PU3o",
+          "archivo": "11_hepatitis_aguda_y_cronica.txt"
+        },
+        {
+          "titulo": "12. Daño hepático crónico ** >>>>>",
+          "url": "https://youtu.be/2NIN6p2AEvI",
+          "archivo": "12_dano_hepatico_cronico.txt"
+        },
+        {
+          "titulo": "13. Pancreatitis aguda y crónica",
+          "url": "https://youtu.be/UVlw0SfEa_M",
+          "archivo": "13_pancreatitis_aguda_y_cronica.txt"
+        },
+        {
+          "titulo": "14. Lesiones hepáticas",
+          "url": "https://youtu.be/GidXiwz1AYM",
+          "archivo": "14_lesiones_hepaticas.txt"
+        },
+        {
+          "titulo": "15. Abdomen agudo",
+          "url": "https://youtu.be/ILNK6wKZ6kY",
+          "archivo": "15_abdomen_agudo.txt"
+        },
+        {
+          "titulo": "16. Patología biliar",
+          "url": "https://youtu.be/ZatVsoVab_k",
+          "archivo": "16_patologia_biliar.txt"
+        },
+        {
+          "titulo": "17. Abdomen agudo de origen vascular",
+          "url": "https://youtu.be/2fKoQhGDZ4k",
+          "archivo": "17_abdomen_agudo_de_origen_vascular.txt"
+        },
+        {
+          "titulo": "18. Hernia Hiatal/ Hernia diafragmática/ Tumor mediastínico",
+          "url": "https://youtu.be/F-XmfKqHH4c",
+          "archivo": "18_hernia_hiatal_hernia_diafragmatica_tumor_mediastinico.txt"
+        },
+        {
+          "titulo": "19. Patología perianal",
+          "url": "https://youtu.be/ndrUm_TYPqc",
+          "archivo": "19_patologia_perianal.txt"
+        },
+        {
+          "titulo": "1. Trastornos digestivos funcionales y signos de alarma",
+          "url": "https://youtu.be/Xehji1yfHec",
+          "archivo": "1_trastornos_digestivos_funcionales_y_signos_de_alarma.txt"
+        },
+        {
+          "titulo": "20. Trauma abdominal y torácico",
+          "url": "https://youtu.be/t3U6x7rC-H0",
+          "archivo": "20_trauma_abdominal_y_toracico.txt"
+        },
+        {
+          "titulo": "21. Cuerpo Extraño Digestivo",
+          "url": "https://youtu.be/f7n33YmO1Bc",
+          "archivo": "21_cuerpo_extrano_digestivo.txt"
+        },
+        {
+          "titulo": "22. Diarrea en niños",
+          "url": "https://youtu.be/NF5L7C3dYT4",
+          "archivo": "22_diarrea_en_ninos.txt"
+        },
+        {
+          "titulo": "23. Reflujo lactante/ Dolor abdominal crónico en niños/ Constipación en niños / Fecaloma",
+          "url": "https://youtu.be/tx_UHTqY0A8",
+          "archivo": "23_reflujo_lactante_dolor_abdominal_cronico_en_ninos_constipacion_en_ninos_fecaloma.txt"
+        },
+        {
+          "titulo": "24. Cirugía Pediátrica 1",
+          "url": "https://youtu.be/AHBT0J6N8oY",
+          "archivo": "24_cirugia_pediatrica_1.txt"
+        },
+        {
+          "titulo": "25. Cirugía pediátrica 2",
+          "url": "https://youtu.be/x5CvNGsVeaQ",
+          "archivo": "25_cirugia_pediatrica_2.txt"
+        },
+        {
+          "titulo": "2. Diarrea aguda / Diarrea crónica / C. Difficile / Constipación",
+          "url": "https://youtu.be/kZgzgNHkQFk",
+          "archivo": "2_diarrea_aguda_diarrea_cronica_c_difficile_constipacion.txt"
+        },
+        {
+          "titulo": "3. Malabsorción intestinal / Enfermedad celíaca / Intolerancia a la lactosa / Galactosemia",
+          "url": "https://youtu.be/lQko8rSp4Q8",
+          "archivo": "3_malabsorcion_intestinal_enfermedad_celiaca_intolerancia_a_la_lactosa_galactosemia.txt"
+        },
+        {
+          "titulo": "4. Enfermedad inflamatoria intestinal",
+          "url": "https://youtu.be/LvAhZEpNuzM",
+          "archivo": "4_enfermedad_inflamatoria_intestinal.txt"
+        }
+      ]
     }
   }
 }
