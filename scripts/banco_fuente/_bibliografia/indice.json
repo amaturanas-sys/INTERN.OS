@@ -440,6 +440,111 @@
           "archivo": "incontinencia_urinaria.txt"
         }
       ]
+    },
+    "ginecologia": {
+      "total": 20,
+      "transcripciones": [
+        {
+          "titulo": "Algia pélvica aguda",
+          "url": "https://youtu.be/MN1xAlbC0Ts",
+          "archivo": "algia_pelvica_aguda.txt"
+        },
+        {
+          "titulo": "Algia pélvica crónica",
+          "url": "https://youtu.be/X569uioD9MI",
+          "archivo": "algia_pelvica_cronica.txt"
+        },
+        {
+          "titulo": "Amenorrea primaria",
+          "url": "https://youtu.be/MZEvf4J8usc",
+          "archivo": "amenorrea_primaria.txt"
+        },
+        {
+          "titulo": "Cáncer de cuello uterino y vagina",
+          "url": "https://youtu.be/68toGLRiSII",
+          "archivo": "cancer_de_cuello_uterino_y_vagina.txt"
+        },
+        {
+          "titulo": "Detalles menejo PAP",
+          "url": "https://youtu.be/3K_ZLNPnH7w",
+          "archivo": "detalles_menejo_pap.txt"
+        },
+        {
+          "titulo": "Endometriosis",
+          "url": "https://youtu.be/TIoEBnXgw7Y",
+          "archivo": "endometriosis.txt"
+        },
+        {
+          "titulo": "Enf Inflamatoria pélvica",
+          "url": "https://youtu.be/_gC2oA_S7KI",
+          "archivo": "enf_inflamatoria_pelvica.txt"
+        },
+        {
+          "titulo": "Generalidades PAP",
+          "url": "https://youtu.be/ZOaYzqjsMtw",
+          "archivo": "generalidades_pap.txt"
+        },
+        {
+          "titulo": "Ginecología infantil I",
+          "url": "https://youtu.be/QwDn9uUTuOY",
+          "archivo": "ginecologia_infantil_i.txt"
+        },
+        {
+          "titulo": "Ginecología infantil II",
+          "url": "https://youtu.be/Nif8blzMl-s",
+          "archivo": "ginecologia_infantil_ii.txt"
+        },
+        {
+          "titulo": "Lesiones cervicales premalignas NIE",
+          "url": "https://youtu.be/XgeBw9SamTs",
+          "archivo": "lesiones_cervicales_premalignas_nie.txt"
+        },
+        {
+          "titulo": "Leucorreas I",
+          "url": "https://youtu.be/BPL3Fz_nAVw",
+          "archivo": "leucorreas_i.txt"
+        },
+        {
+          "titulo": "Leucorreas II",
+          "url": "https://youtu.be/u8wO3G1TcW4",
+          "archivo": "leucorreas_ii.txt"
+        },
+        {
+          "titulo": "Menopausia y climaterio",
+          "url": "https://youtu.be/-7cR7jyMN5U",
+          "archivo": "menopausia_y_climaterio.txt"
+        },
+        {
+          "titulo": "Métodos anticonceptivos I - La amenaza espermia",
+          "url": "https://youtu.be/xkm96QJXGLo",
+          "archivo": "metodos_anticonceptivos_i__la_amenaza_espermia.txt"
+        },
+        {
+          "titulo": "Métodos anticonceptivos II - La guerra de los condones",
+          "url": "https://youtu.be/X0lrTR0x6Jw",
+          "archivo": "metodos_anticonceptivos_ii__la_guerra_de_los_condones.txt"
+        },
+        {
+          "titulo": "Métodos anticonceptivos III - La venganza de los XY",
+          "url": "https://youtu.be/gdc6XSxzGUM",
+          "archivo": "metodos_anticonceptivos_iii__la_venganza_de_los_xy.txt"
+        },
+        {
+          "titulo": "Métodos anticonceptivos IV - La nueva esperanza",
+          "url": "https://youtu.be/LeLr5JRYP-s",
+          "archivo": "metodos_anticonceptivos_iv__la_nueva_esperanza.txt"
+        },
+        {
+          "titulo": "Métodos anticonceptivos V - El espermio contraataca",
+          "url": "https://youtu.be/t20uR34wWUk",
+          "archivo": "metodos_anticonceptivos_v__el_espermio_contraataca.txt"
+        },
+        {
+          "titulo": "metrorragia en la menopausia",
+          "url": "https://youtu.be/j-5MwT0ugYs",
+          "archivo": "metrorragia_en_la_menopausia.txt"
+        }
+      ]
     }
   }
 }
