@@ -1,0 +1,1627 @@
+[
+  {
+    "numero": 4,
+    "enunciado": "Un paciente de 68 años de edad presenta hematuria en varias oportunidades, que él describe como más intensa al final de la micción. Se solicita un sedimento de orina, el que resulta con abundantes eritrocitos, sin dismorfia y un urocultivo, que resulta negativo. Por esto, se realiza una ecografía abdominal, que no muestra alteraciones. El diagnóstico de sospecha es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hipernefroma",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cistitis intersticial",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tuberculosis renal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Urolitiasis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cáncer de vejiga Una vez descartada la ITU, la hematuria aislada, hace pensar en primer lugar en un",
+        "correcta": true
+      }
+    ],
+    "justificacion": "cáncer de vejiga, ya que las otras causas de hematuria suelen tener otros síntomas. De todos modos, se debe, en primer lugar, hacer un urocultivo y un sedimento, para descartar ITU y glomerulonefritis y luego, se debe hacer una ecografía o un UroTAC. Finalmente, se realiza la cistoscopía, que es un procedimiento invasivo, pero de elección para confirmar la presencia de un tumor vesical y poder biopsiarlo.",
+    "archivo_origen": "prueba_final_modulo_2.txt",
+    "id_unico": "GUEV-NEF-0001",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "pediatria",
+      "medicina_interna",
+      "reuma"
+    ],
+    "tema": "ITU_nefro",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 70,
+    "enunciado": "Un niño de 6 años presenta edema facial y de EEII, sin otras alteraciones en el examen físico. Se solicitan exámenes, entre los que destaca índice proteinuria/creatininuria de 3, creatininemia: mg/dl, albuminemia: g/dl, electrolitos plasmáticos normales. El sedimento de orina muestra lipiduria, sin otras alteraciones. Se solicitan ANA, ANCA y ASO que resultan negativos y complemento que resulta normal. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar diuréticos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar corticoides",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar IECAs",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar biopsia renal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución El diagnóstico es un síndrome nefrótico (proteinuria nefrótica: IPC mayor a 2; edema, hipoalbuminemia, lipiduria) puro (sin insuficiencia renal, ni proteinuria, ni hipertensión, ni alteraciones inmunológicas), en un niño entre 5 y 10 años.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "importante y que diferencia entre que viva o que se muera son los corticoides. A modo de comentario, en los menores de 1 año con síndrome nefrótico, el primer estudio es genético, ya que suelen ser por causas congénitas, cuyo tratamiento, por cierto, es el trasplante renal. Se sospecha, entonces, una glomerulopatía a cambios mínimos o nefrosis lipoidea, que se trata con corticoides orales. Si hubiese sido impuro, estaría indicada la biopsia. Además, hay que darle IECA y una dieta normoproteica, pero lo más",
+    "archivo_origen": "prueba_final_modulo_3_-_1.txt",
+    "id_unico": "GUEV-NEF-0002",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "ERC",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un niño de 8 años presenta edema generalizado, asociado a hematuria de 2 días de evolución. Al examen físico está hipertenso, con edema blando de EEII y de cara. Se solicita un examen de orina completa, que muestra glóbulos rojos abundantes y cilindros hemáticos en el sedimento y proteinuria de 1+. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar diuréticos orales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar corticoides orales",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar biopsia renal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar creatinina plasmática, BUN, complemento, ANA, ANCA, Anticuerpos ASO, proteinuria cuantitativa y decidir conducta según hallazgos Tiene un síndrome nefrítico (HTA, edema y hematuria).",
+        "correcta": true
+      }
+    ],
+    "justificacion": "(esta no se biopsia). Se debe estudiar con y función renal, exámenes inmunológicos. La biopsia renal se hace, si hay falla renal grave o si pareciera una causa distinta a la glomerulonefritis postestreptocócica",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-NEF-0003",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "neurologia",
+      "pediatria",
+      "psiquiatria"
+    ],
+    "tema": "GN_aguda",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 28,
+    "enunciado": "Un niño de 8 años presenta edema facial y de EEII, asociado a hematuria, que inició hace tres días. Al examen físico está pálido e hipertenso, con edema en las zonas descritas. Se solicita un sedimento de orina que muestra hematíes dismórficos, una creatinina plasmática que resulta mg/dl y una proteinuria de 24 horas de 900 mg. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome nefrótico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome hemolítico urémico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Síndrome nefrítico",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Insuficiencia renal aguda prerrenal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Necrosis tubular aguda Tiene un síndrome nefrítico clásico: HTA, edema y hematuria. Además, tiene una",
+        "correcta": false
+      }
+    ],
+    "justificacion": "insuficiencia renal aguda (por la creatinina de ) y proteinuria no nefrótica. - El síndrome nefrótico exigiría hematuria en rango nefrótico, además de hipoalbuminemia, dislipidemia y edema (lo único que tiene). - El síndrome hemolítico urémico tendría falla renal (probablemente más grave, aunque de creatininemia puede ser), más anemia (tiene palidez, pero en este caso está dada por la anemia dilucional del síndrome nefrítico), más trombopenia, más el antecedente de diarrea. El SHU puede tener hematuria dismórfica, pero esta sugiere mucho más una glomerulonefritis (es diagnóstica de GNA). Finalmente, el SHU suele afectar a niños de 2 a 5 años (aunque puede ser a cualquier edad). Nefrología es difícil, pero se puede aprender.",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-NEF-0004",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "urgencias",
+      "neurologia",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "IRA",
+    "dificultad_estimada": "avanzada",
+    "contexto": "hospital",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 50 años, diabético tipo 2, en tratamiento con metformina 500 mg cada 8 horas, acude a control. Trae una hemoglobina glicosilada de % y una proteinuria de 24 horas en 500 mg/dl. ¿Cuál es la conducta más adecuada para el control metabólico de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mantener la metformina y hacer hincapié en el cumplimiento de la dieta",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Aumentar la dosis de metformina a 850 mg cada 8 horas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Agregar glibenclamida 5 mg cada 12 horas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Agregar empaglifozina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar insulina Por la hemoglobina glicosilada mayor a 9%, está indicado el inicio de insulina NPH",
+        "correcta": true
+      }
+    ],
+    "justificacion": "nocturna. Como opción, se podrían usar los GLP-1, como el liraglutide o el semaglutide, que tienen menos riesgo de hipoglicemias que la insulina, pero un mayor costo.",
+    "archivo_origen": "repaso_modulo_1_prueba_70_preg_n2.txt",
+    "id_unico": "GUEV-NEF-0005",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_novedades_repaso_modulo_1_prueba_70_preg_n2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Una paciente de 18 años presenta fiebre, astenia, artralgias y hematuria. Al examen físico se aprecia artritis de manos y úlceras orales no dolorosas. En sus exámenes generales destaca elevación de la cratinina hasta mg/dL y hematuria dismórfica. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Infección por virus herpes",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Enfermedad de Behcet",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lupus eritematoso",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Vasculitis sistémica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Púrpura de Schonlein Henoch Es un LES clásico, con las úlceras orales y el compromiso renal (mujer joven",
+        "correcta": false
+      }
+    ],
+    "justificacion": "orienta).",
+    "archivo_origen": "repaso_modulo_1_prueba_70_preg_n2.txt",
+    "id_unico": "GUEV-NEF-0006",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_repaso_modulo_1_prueba_70_preg_n2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un niño de 6 años presenta aumento de volumen facial y orinas espumosas. Al examen físico está normotenso, con FC normal y sin otras alteraciones, excepto edema blando de cara y extremidades inferiores. En sus exámenes destaca proteinuria de 24 horas de 100 mg/m2/hora e hipoalbuminemia. El sedimento de orina muestra gotas de grasa, sin hematuria. La creatinina plasmática es mg/dl y los electrolitos plasmáticos son normales. Presenta ANA(-), ANCA(-) y complemento normal. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar prednisona oral",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar biopsia renal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar furosemida en dosis altas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar albúmina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar dieta hiperproteica y IECAs Es un niño, con un síndrome nefrótico puro (recordar que la proteinuria nefrótica en pediatría es mayor a 40 mg/m2/h), por lo que se sospecha una nefrosis lipoidea, la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que se trata con corticoides orales, en alta dosis.",
+    "archivo_origen": "repaso_modulo_1_prueba_70_preg_n2.txt",
+    "id_unico": "GUEV-NEF-0007",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "reuma",
+      "pediatria"
+    ],
+    "tema": "S_nefrotico",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_repaso_modulo_1_prueba_70_preg_n2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Hombre de 36 años, previamente sano, presenta cuadro de asma con escasa respuesta a agonistas beta y corticoides inhalados. Evoluciona con hematuria dismórfica y eosinofilia. El diagnóstico más probable, es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Poliarteritis microscópica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome de Good-Pasture",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Granulomatosis eosinofílica con poliangitis",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Granulomatosis de Wegener",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Lupus eritematoso sistémico La granulomatosis eosinofílica con poliangitis es el nuevo nombre de la Vasculitis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "de Churg-Strauss. Se caracteriza por asma y glomerulonefritis más eosinofilia.",
+    "archivo_origen": "repaso_modulo_1_prueba_70_preg_n2.txt",
+    "id_unico": "GUEV-NEF-0008",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "cardio",
+      "medicina_interna",
+      "salud_publica"
+    ],
+    "tema": "Glomerulonefritis",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_novedades_repaso_modulo_1_prueba_70_preg_n2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 59,
+    "enunciado": "Una mujer de 20 años, evoluciona con un cuadro de malestar general y hematuria. Al examen físico se constata hipertensión arterial de 180/110 mmHg, FC: 80x’, con edema de extremidades inferiores. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar ciclofosfamida + corticoides",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar ecografía-doppler abdominal y metanefrinas urinarias",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar sedimento de orina y urocultivo, e iniciar antibióticos endovenosos a la espera del resultado",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar hemodiálisis de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar creatinina plasmática, BUN, proteinuria, electrolitos, sedimento de orina, ANA, ANCA y complemento Tiene un síndrome nefrítico: hipertensión, edema y hematuria.",
+        "correcta": true
+      }
+    ],
+    "justificacion": "todo apunta a una glomerulonefritis postinfecciosa sin falla renal severa). Se estudia con función renal (creatinina, electrolitos, BUN y proteinuria) y con los exámenes inmunológicos, en busca de su causa (ANA, ANCA y C3 / C4). El sedimento se pide para objetivar la hematuria dismórfica. Luego de eso, se suele proceder a la biopsia renal, tanto para confirmar el diagnóstico específico del tipo de glomerulonefritis, como para determinar el pronóstico (la excepción, que no se biopsia, es cuando",
+    "archivo_origen": "repaso_modulo_1_prueba_70_preg_n2.txt",
+    "id_unico": "GUEV-NEF-0009",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "reuma",
+      "cardio"
+    ],
+    "tema": "Glomerulonefritis",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_repaso_modulo_1_prueba_70_preg_n2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 66,
+    "enunciado": "Un paciente de 30 años consulta por un cuadro de anasarca. Al examen físico presenta hipertensión arterial y edema facial, escrotal y de extremidades. En sus exámenes destaca una proteinuria de gramos al día, índice proteinuria/creatininuria:, sedimento de orina con microhematuria dismórfica de 20 GR por campo, albuminemia: g/dl, creatinina: mg/dl, colesterol total: 250 mg/dl. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome nefrítico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome nefrótico",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Síndrome hemolítico urémico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Necrosis tubular aguda",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Nefritis intersticial Tiene un síndrome nefrótico: proteinuria mayor a 3 gramos, edema, hipoalbuminemia y dislipidemia.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sobre el de síndrome nefrítico. Además, es impuro, por tener hematuria e insuficiencia renal. Por un lado, le falta la HTA para ser un síndrome nefrítico y, por otro lado, aunque la tuviera, prima el diagnóstico de síndrome nefrótico impuro, por",
+    "archivo_origen": "repaso_modulo_1_prueba_70_preg_n2.txt",
+    "id_unico": "GUEV-NEF-0010",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "cardio",
+      "psiquiatria",
+      "reuma"
+    ],
+    "tema": "GN_aguda",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_repaso_modulo_1_prueba_70_preg_n2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una paciente de 60 años consulta por hematuria de 2 semanas de evolución. Su examen físico es normal, por lo que se solicita un sedimento de orina, que resulta normal; un urocultivo, que resulta negativo y una ecografía 1 renal y vesical, que resulta también normal. El estudio debe proseguir con:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cintigrafía",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Resonancia magnética nuclear",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Baciloscopía de orina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tomografía axial computada",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cistoscopía El estudio de la hematuria sigue un orden: 1. Sedimento de orina y urocultivo (descarta ITU y las",
+        "correcta": true
+      }
+    ],
+    "justificacion": "glomerulonefritis), 2. Ecografía renal y vesical (o uroTAC si la sospecha es un cáncer) y 3. Cistoscopía (que permite descartar el cáncer de vejiga).",
+    "archivo_origen": "dermato_uro.txt",
+    "id_unico": "GUEV-NEF-0011",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Glomerulonefritis",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_dermato_uro",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 23,
+    "enunciado": "Un paciente diabético tipo 2, acude a control ambulatorio. Actualmente está en tratamiento con metformina 850 mg cada 8 horas, aspirina 100 mg al día y enalapril 20 mg c/12 horas. En sus exámenes destaca 1 creatinina mg/dl, proteinuria 350 mg/dl, glicemia de ayuno: 140 mg/dl y HbA1c: %. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mantener el tratamiento y controlar en 3 meses",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Aumentar la dosis de metformina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Agregar glibenclamida al tratamiento",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Agregar rosiglitazona al tratamiento",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar insulina",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Nuevamente, por la IRC (creatinina mayor a ), están contraindicados los HGO e indicada la insulina.",
+    "archivo_origen": "diabetes_y_gastroenterologia.txt",
+    "id_unico": "GUEV-NEF-0012",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "ERC",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_diabetes_y_gastroenterologia",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Un paciente de 66 años consulta por dolor lumbar derecho de 8 horas de evolución, irradiado al fianco ipsilateral y asociado a fiebre, vómitos, hematuria y agitación psicomotora. Al examen físico presenta FC: 100x’, con ritmo cardíaco irregular, en dos tiempos, PA: 120/70 mmHg y puñopercusión positiva a derecha. En sus exámenes, se aprecian incontables glóbulos rojos en el sedimento de orina y 20 glóbulos blancos por campo. Destaca además creatinina plasmática de mg/dl. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Aneurisma aórtico abdominal roto",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Urolitiasis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Pielonefritis aguda",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Torsión testicular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Embolia renal Es una embolia renal clásica. El ritmo irregular, hace pensar en FA, como causa de la",
+        "correcta": true
+      }
+    ],
+    "justificacion": "embolia. El resto del cuadro clínico y de los exámenes, son característicos.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-NEF-0013",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 49,
+    "enunciado": "Una paciente de 81 años, multípara de 3, histerectomizada, inicia escapes de orina de esfuerzos hace 5 años y además, desde hace 2 años tiene escapes de urgencia. No tiene antecedente de infecciones urinarias, ni hematuria. Al examen físico se aprecia un grado leve de prolapso genital. Se realiza sedimento de orina con 4-5 leucocitos por campo y 2- 3 hematíes por campo, sin bacterias y se realiza un urocultivo, que resulta negativo. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar tratamiento quirúrgico del prolapso",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar ejercicios de fortalecimiento del piso pélvico",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar anticolinérgicos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar alfabloqueadores adrenérgicos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar ecografía abdomino-pélvica Pregunta rara, ya que mezcla la IOE (incontinencia de esfuerzos), con la IOU (incontinencia de urgencia). De todos modos, actualmente en ambos tipos de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "incontinencia, lo primero es intentar los ejercicios fortalecimiento de piso pélvico.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-NEF-0014",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "urgencias",
+      "reuma",
+      "salud_publica",
+      "uro"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "primaria",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 50,
+    "enunciado": "Un paciente de 30 años, consulta por un cuadro de 3 días de evolución de rinorrea, tos y disfonía, a lo que se agregó hematuria. Al examen físico presenta frecuencia cardiaca de 80 latidos por minuto, con presión arterial 150/100 mmHg, edema blando de extremidades inferiores. Se solicitan exámenes entre los que destaca sedimento de orina con 15 leucocitos por campo más incontables eritrocitos con 9% de dismorfia, proteinuria de 24 horas de 2 gramos y creatinina de 1,7mg/dL. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Glomerulonefritis post estreptocócica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Nefropatía por depósitos de IgA",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Litiasis renal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Pielonefritis aguda",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Lupus eritematoso sistémico Es una enfermedad de Berger clásica, o nefropatía por IgA. Es la glomerulonefritis más frecuente. Afecta a escolares, adolescentes y adultos. Puede cursar como hematuria",
+        "correcta": false
+      }
+    ],
+    "justificacion": "dismórfica sola, o bien como síndrome nefrítico o falla renal.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-NEF-0015",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "GN_aguda",
+    "dificultad_estimada": "avanzada",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 58,
+    "enunciado": "Una paciente de 52 años, con antecedente de artritis reumatoide en tratamiento permanente con AINES y prednisona por vía oral y tratamiento intermitente con metotrexate por vía oral, presenta un cuadro de astenia, adinamia y disnea de esfuerzos que ha empeorado en el último tiempo. Se solicitan exámenes en los que destacan una creatinina de 1,6mg/dL, hemograma con hematocrito 29%, hemoglobina 9,7g/dL, plaquetas 147.000/mm3, blancos 4.200/mm3 y al frotis se aprecia microcitosis. Además se solicita perfil de fierro que muestra ferremia de 40ug/dL (60-160 ug/dL) y transferrina de 190mg/dL (240-360mg/dL). ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Anemia por enfermedades crónicas",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Mielodisplasia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Anemia por insuficiencia renal crónica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hipoplasia medular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Mieloma múltiple Tanto por tener AR, como por la ferremia baja, con transferrina baja, orienta mucho a una",
+        "correcta": false
+      }
+    ],
+    "justificacion": "anemia por enfermedades crónicas.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-NEF-0016",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "urgencias",
+      "psiquiatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 74,
+    "enunciado": "Una paciente de 28 años, consulta por artralgias generalizadas, asociadas a sensación febril y úlceras orales. En sus exámenes destaca creatinina: mg/dl, sedimento de orina con hematuria y cilindros hemáticos y hemograma con 4.000 blancos por mm3. ¿Cuál es la conducta más adecuada para proseguir el estudio?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar factor reumatoide",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar radiografía de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar PCR, VHS y creatinfosfoquinasa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar anticuerpos antinucleares",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar anticuerpos anticitoplasma de neutrófilos Es un lupus sistémico y la única opción aceptable eran los ANA. Sin embargo, se deben",
+        "correcta": false
+      }
+    ],
+    "justificacion": "pedir muchos más exámenes (AntiDNA, complemento, etc).",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-NEF-0017",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "GN_aguda",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 83,
+    "enunciado": "Una paciente de 21 años, consulta por cuadro de algunos días de evolución de astenia, compromiso del estado general y disnea progresiva que actualmente es de mínimos esfuerzos, además ha presentado hematuria. Al examen físico su frecuencia cardiaca es 75 por minuto, con presión arterial 180/110 mmHg. Se aprecia edema facial y de extremidades inferiores, con signo de la fóvea. Su examen cardiopulmonar muestra ritmo regular en tres tiempos con presencia de R3 y se auscultan crépitos pulmonares bilaterales, mayores en ambas bases. Se solicitan exámenes que muestran hematuria dismórfica, ANA (-), ANCA (-), ASO: 6 veces por sobre el valor normal, creatinina de 1,5mg/dL. ¿Cuál es el tratamiento inicial para esta paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Prednisona vía oral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Furosemida endovenosa",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Bisoprolol vía oral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Captopril vía oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Amoxicilina vía oral Tiene un glomerulonefritis aguda postestreptocócica (por los ASO elevados), con un síndrome nefrítico y una insuficiencia cardiaca, por la crisis hipertensiva, probablemente en edema pulmonar.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "suele estar más disponible, en ciertos escenarios de atención. Dada la sobrecarga de volumen, la furosemida ev parece ser el tratamiento más razonable, pero el captopril también podría ser de utilidad. Además, lo más correcto sería instalar una bomba de nitroglicerina endovenosa, más oxígeno y soporte respiratorio, por el edema pulmonar, aunque la furosemida también es muy útil y",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-NEF-0018",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 94,
+    "enunciado": "Un paciente 67 años, diabético en tratamiento con metformina gramos al día, consulta por edema de extremidades inferiores asociado a orinas espumosas. Al examen físico se constata edema blando de extremidades inferiores. Se solicitan exámenes entre los que destaca una glicemia de ayuno de 215 mg/dL, hemoglobina glicosilada de %, creatininemia mg/dL, proteinuria +++ y albuminemia g/dL. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Aumentar dosis de metformina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar insulina NPH",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Reemplezar la metformina por glimepiride",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Agregar glibenclamida al tratamiento",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Reemplazar la metformina por insulina cristalina Tanto el síndrome nefrótico, como especialmente la HbA1c mayor a 9%, obligan a iniciar insulina. Como la creatinina está menor a mg/dl, todavía puede seguir usando la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "metformina, por ese solo criterio (pero estaban los otros).",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-NEF-0019",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 154,
+    "enunciado": "Un paciente de 33 años, hospitalizado por una endocarditis subaguda por Streptococcus viridans, en tratamiento con penicilina y gentamicina por vía endovenosa, presenta un cuadro de hematuria de algunos días de evolución. Se solicita sedimento de orina que muestra 50 glóbulos rojos por campo con 95% de dismorfia y presencia de cilindros hemáticos, creatinina de 2,4mg/dL, ANA (-), fracción C3 del complemento de 53mg/dL (valor normal: 75-135 mg/dL). ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Embolias renales a repetición",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Nefritis intersticial secundaria al uso de penicilina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Daño tubular agudo secundario al uso de gentamicina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Glomerulonefritis por depósito de complejos inmunes",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome hemolítico urémico Es una glomerulonefriris (por la hematuria dismórfica), asociada a EBSA (por complejos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "inmunes), por la hipocomplementemia.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-NEF-0020",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "psiquiatria",
+      "salud_publica"
+    ],
+    "tema": "GN_aguda",
+    "dificultad_estimada": "avanzada",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 28,
+    "enunciado": "Paciente de 57 años, cursando síndrome nefrótico, secundario a nefropatía membranosa. En sus exámenes destaca hipercolesterolemia, albúmina: mg/dl, creatinina: mg/dl, Ca: mg/dl, con sodio, potasio y cloro 1 normales. La causa más probable de su hipocalcemia es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hipocalcemia por diuréticos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Hipercalciuria primaria",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hipocalcemia por insuficiencia renal crónica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hipocalcemia ficticia",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Hipovitaminosis D",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Lo primero es ajustar la calcemia por albúmina. Calcio corregido = Calcio + x (4 – albúmina) Calcio corregido = + x (4 – 2) Calcio corregido = Por tanto, no hay hipocalcemia real, sino solo dada por la baja en la albúmina. - La recomendación para estos casos es solo perder tiempo en calcular si la albúmina es muy distinta a 4, como en este ejemplo. Si es cercana a 4, la variación será mínima. - Recordar, además, que el calcio iónico no requiere corrección, porque precisamente se pide para evitar las variaciones producidas por cambios en la proteinemia.",
+    "archivo_origen": "endocrino_infecto.txt",
+    "id_unico": "GUEV-NEF-0021",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "reuma",
+      "hemato",
+      "salud_publica"
+    ],
+    "tema": "S_nefrotico",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_endocrino_infecto",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 50,
+    "enunciado": "Paciente de 30 años, sufre caída de altura resultando con traumatismo contuso en fianco derecho, asociado a hematuria macroscópica. Al examen físico presenta equimosis en fianco derecho, sin otros hallazgos. ¿Cuál de los siguientes exámenes es el más indicado para el estudio de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ecografía abdominal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tomografía axial computada sin contraste de abdomen",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Radiografía abdominal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tomografía axial computada con contraste de abdomen",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Pielografía de eliminación Es un traumatismo renal (trauma lumbar más hematuria). Se estudia con el UroTAC, que tiene contraste endovenoso (que luego se elimina por vía urinaria). El pieloTAC, que viene",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sin contraste, es para la litiasis. Si hubiese estado con hemodinamia inestable, se procede directamente a la laparotomía, aunque antes es aceptable solicitar una ecografía FAST. En cambio, ante una hemodinamia estable, se prefiere el UroTAC.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-NEF-0022",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "reuma",
+      "urgencias"
+    ],
+    "tema": "Litiasis",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 54,
+    "enunciado": "Embarazada de 33 semanas, hospitalizada por preeclamsia, comienza con dinámica uterina de 3 en 10 minutos, sus últimos exámenes de control presentan creatinina 1,5mg/dL y proteinuria de 24 horas 2 gramos. Al examen físico presenta presión arterial de 150/90, refiejos osteotendíneos presentes, tacto vaginal sin cambios cervicales. Se realiza monitoreo fetal que muestra variabilidad de 3 latidos por minutos y desaceleraciones tardías. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar tocolíticos e interrumpir a las 34 semanas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar labetalol endovenoso y mantener conducta expectante",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar perfil biofísico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar ecografía Doppler umbilical",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Interrupción del embarazo El registro está ominoso (variabilidad disminuida y desaceleraciones tardías). Es un MEFI 3 y por tanto se debe reanimar (suspender oxitocina, romper membranas y administrar",
+        "correcta": true
+      }
+    ],
+    "justificacion": "anestesia) y si no responde, se debe interrumpir por la vía más expedita. Lo difícil es que para interrumpirlo, algunos exigen que esté 20 a 30 minutos al menos en MEFI 2 o 3, a pesar de la reanimación, o bien estar 10 minutos en bradicardia (bradicardia sostenida). Sin embargo, las recomendaciones más actualizadas no ponen un punto de corte de tiempo, sino que simplemente se limitan a recomendar una rápida interrupción, si es que no mejora rápidamente el registro. Vale la pena mencionar que en general, cuando hay un MEFI 3, la respuesta ha sido siempre interrumpir por la vía más expedita.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-NEF-0023",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "reuma",
+      "obstetricia",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 135,
+    "enunciado": "Paciente de 25 años, deportista, corre un triatlón, luego de esta competencia, para evaluación de dopaje se realiza examen de orina, el cual muestra proteinuria ++, sin presencia de drogas. ¿Cuál de las siguientes es la causa más probable de su proteinuria?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Proteinuria funcional",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Rabdomiólisis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Deshidratación",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Acidosis metabólica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Glomerulopatía membranosa Es normal la proteinuria con el ejercicio intenso. No tiene clínica de rabdomiólisis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "(mialgias, falla renal, elevación de las CK).",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-NEF-0024",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 145,
+    "enunciado": "Un paciente de 65 años, con cuadro de compromiso del estado general de tres meses de evolución asociado a nicturia y en las últimas semanas dolor lumbar. Al examen físico destaca paciente enfiaquecido, piel seca y mucosas pálidas. Se solicitan exámenes de orina que muestra proteinuria ++, urocultivo negativo, 2-3 glóbulos rojos por campo, creatinina mg/dl y antígeno prostático de ng/ml (VN < 4 ng/ml). Además, se realiza ecografía renal que muestra dos quistes renales en lado derecho, sin otros hallazgos. El diagnóstico más probable en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mieloma múltiple",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Cáncer prostático metastásico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cáncer renal metastásico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Espondilodiscitis crónica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Espondilolistesis Tiene anemia, insuficiencia renal y dolores óseos: es un mieloma. El APE de obliga a hacer una biopsia, pero no explica ninguno de los síntomas, ya que un APE menor a 20",
+        "correcta": false
+      }
+    ],
+    "justificacion": "es rarísimo que tenga metástasis.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-NEF-0025",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "hemato",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 22,
+    "enunciado": "Un niño de 4 años, presenta un cuadro de 10 días de evolución de edema bipalpebral, a lo que se ha agregado, en los últimos dos días, oliguria y orinas espumosas. Al examen físico presenta presión arterial 102/62 mmHg, FC: 80x', edema facial y de extremidades inferiores. En sus exámenes destaca examen de orina con proteínas ++, creatininemia mg/dl y BUN: 20 mg/dl. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome nefrótico",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Glomerulonefritis aguda",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Insuficiencia renal crónica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome hemolítico urémico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Nefritis intersticial Es un síndrome nefrótico clásico (orina espumosa, edema y proteinuria), aunque le faltan los exámenes confirmatorios (proteinuria cuantitativa o índice proteinuria / creatininuria, albumnemia y perfil lipídico).",
+        "correcta": false
+      }
+    ],
+    "justificacion": "opciones. - Recordar que en los recién nacidos y lactantes hasta los 3-12 meses, el síndrome nefrótico suele ser congénito, lo que obliga a estudiarlo con pruebas genéticas y tratarlo con trasplante renal, una vez que se confirma. - En el resto de los niños (especialmente entre 5 y 10 años), si el síndrome nefrótico es puro, se asume que es una nefrosis lipoidea y se realiza una prueba terapéutica con corticoides. - Si no responde o si es impuro (ej. falla renal o hematuria), se debe solicitar biopsia renal. No hay hematuria dismórfica, así que no puede ser una glomerulonefritis. No tiene insuficiencia renal, así que no puede ser ninguna de las otras",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-NEF-0026",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "pediatria",
+      "hemato",
+      "medicina_interna"
+    ],
+    "tema": "ERC",
+    "dificultad_estimada": "avanzada",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 33,
+    "enunciado": "Un paciente de 32 años presenta un cuadro de cólico renal, asociado a microhematuria en el sedimento de orina. ¿Cuál es el examen de elección para el estudio de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "UroTAC",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "PieloTAC",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Pielografía de eliminación intravenosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Ecografía",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Radiografía simple El cólico renal se estudia con PieloTAC (TAC sin contraste). El embarazo es la gran",
+        "correcta": false
+      }
+    ],
+    "justificacion": "excepción, en que se prefiere la ecografía, para evitar irradiar al feto. El UroTAC se utiliza como estudio de la hematuria, después de descartar TU, cuando se sospecha cáncer, ya que dibuja bien la vía urinaria. El UroTAC también se utiliza en el trauma renal.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-NEF-0027",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "psiquiatria",
+      "reuma",
+      "urgencias"
+    ],
+    "tema": "Litiasis_renal",
+    "dificultad_estimada": "basica",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 53,
+    "enunciado": "Un niño de 8 años de edad presenta un cuadro de aparición de lesiones eritematosas en las extremidades inferiores y en los glúteos, asociado a dolor en ambos tobillos, a lo que luego se agrega dolor abdominal y vómitos. Al examen presenta lesiones eritematosas solevantadas en las zonas descritas, aumento de volumen en ambos tobillos y dolor abdominal difuso a la palpación. ¿Qué examen es más adecuado para definir el pronóstico de esta enfermedad?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hemograma",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Sedimento de orina",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "LDH",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Perfil bioquímico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "VHS Es una púrpura de Schönlein Henoch, cuyo pronóstico depende principalmente de la afectación renal.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "el pronóstico). Se pide un sedimento de orina para determinar si hay glomerulonefritis y también creatinina para ver s hay insuficiencia renal y luego se sigue con examen de orina completa (muestra la hematuria y la proteinuria que pueden persistir, deteriorando",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-NEF-0028",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Glomerulonefritis",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 60,
+    "enunciado": "Un niño de 4 años presenta un cuadro de 2 días de evolución de aparición de múltiples lesiones eritematosas en las extremidades inferiores, palpables, asociado a dolor abdominal difuso y dolor de ambos tobillos. Al examen físico se palpa abdomen blando, depresible, doloroso leve, de manera difusa, sin signos peritoneales y los tobillos se aprecian aumentados de volumen, con dolor a la movilización. ¿Qué examen es más adecuado para definir el pronóstico de la enfermedad descrita?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Perfil bioquímico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Biopsia de médula ósea",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hemograma",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Sedimento de orina",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "LDH Es un púrpura de Schönlein Henoch, que se complica con glomerulonefritis.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que se agrega, también se sigue con creatinina. El compromiso renal marca el pronóstico, por lo que se estudia con creatinina, proteinuria y orina completa (sedimento y citoquímico). De hecho luego se sigue con orina completa (para ver la evolución la proteinuria y la hematuria) y, si había falla renal o se sospecha",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-NEF-0029",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 112,
+    "enunciado": "Un paciente de 75 años presenta un cuadro de dolor lumbar de 3 meses de evolución, asociado a pérdida de peso y astenia. En sus exámenes tiene hemograma con hemoglobina: g/dl, Plauqetas: 92.000 por mm3, blancos: 5000 por mm3, VHS:103 mm/h, creatinina: mg/dl, albúmina: g/dl, proteínas plasmáticas: g/dl. ¿Cuál es el examen de elección para confirmar la sospecha diagnóstica?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Radiografía de huesos largos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Radiografía de cráneo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Recuento de inmunoglobulinas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Mielograma",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Calcemia Es un mieloma, que se diagnostica con mielograma o biopsia de médula ósea (el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "mielograma equivale al frotis de médula ósea).",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-NEF-0030",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 138,
+    "enunciado": "Una paciente de 78 años, diabética e hipertensa, es hospitalizada por una pielonefritis aguda. Estaba en tratamiento con enalapril, hidroclorotiazida y metformina. Durante el día está tranquila, pero en la noche se agita y dice que la tienen secuestrada. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar benzodiacepinas en la noche",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar haloperidol oral",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Agregar glibenclamida al tratamiento",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Disminuir la dosis de metformina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar suero fisiológico Es un delirium. Se trata, tratando la causa, pero sirve dar haldol en bajas dosis (también",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sirve la risperidona en bajas dosis, aunque no ha demostrado ser mejor que el Haldol). Para el manejo de la diabetes, está indicada la insulina, en este caso. Las BDZ están contraindicadas. La quetiapina es de elección en el delirium en contexto de enfermedad de Parkinson.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-NEF-0031",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "neurologia",
+      "psiquiatria",
+      "salud_publica"
+    ],
+    "tema": "Pielonefritis",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 159,
+    "enunciado": "Paciente femenina, fumadora de 30 paquetes/año, presenta hematuria, con abundante coágulos de sangre. No presenta dolor, fiebre, ni otros síntomas. Se solicita un sedimento de orina, que muestra abundantes eritrocitos, sin bacterias. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cistitis hemorrágica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cáncer de vejiga",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Cáncer renal.",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tuberculosis renal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Infección urinaria El cáncer de vejiga es la causa más frecuente de hematuria monosintomática (sin otros síntomas; si en cambio viene con síntomas de ITU, es ITU; si viene con síntomas de litiasis, es litiasis, etc.) en el adulto, en especial si es un paciente fumador. Las demás opciones tienen otros síntomas. La clínica clásica del cáncer renal es: masa, hematuria y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "fiebre (más ictericia en algunos casos).",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-NEF-0032",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "pediatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 167,
+    "enunciado": "Paciente de 36 años con fiebre y la presencia de una lesión en miembro inferior, en forma de una placa de eritematosa, con bordes definidos de aproximadamente 15 x 8 cm, que responde bien al tratamiento con cloxacilina. Al quinto día comienza con náuseas, vómitos, diuresis adecuada, con leucocitosis de 15.000 por mm3, con 10% de eosinófilos, 40% de neutrófilos y 48% de linfocitos, uremia en 50 mg/dl, creatinina en 3 mg/dl, hematuria microscópica, leucocituria, y proteinuria de g/día. Identificar el posible diagnóstico:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Glomerulonefritis post estreptocócica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Vasculitis de vasos pequeños",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Injuria renal pre renal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Endocarditis infecciosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Nefritis intersticial Es una nefritis intersticial clásica, con la eosinofilia característica y la insuficiencia renal, probablemente secundaria al tratamiento farmacológico con la cloxacilina (de base tenía",
+        "correcta": true
+      }
+    ],
+    "justificacion": "una erisipela). También se puede considerar un síndrome de DRESS (reacción a drogas con eosinofilia y síntomas sistémicos), que es algo bastante grave. Se debe suspender el medicamento de inmediato y, además, se deben iniciar corticoides endovenosos.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-NEF-0033",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "reuma",
+      "gineco",
+      "medicina_interna"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 21,
+    "enunciado": "Un paciente de 45 años presenta una endocarditis por S. aureus, la que es tratada con cloxacilina y gentamicina endovenosas. Evoluciona con deterioro de la función renal, con aumento de la creatinina plasmática a mg/dl. Su examen físico no aporta mayor información, por lo que se solicitan exámenes que muestran sedimento de orina con cilindros céreos y granulosos, bacterias escasa cantidad, proteínas urinarias: g en 24 horas, sodio urinario: 35 mEq/L, diuresis: 4.600 ml en 24 horas, sodio plasmático: 130 mEq/L, potasio plasmático: mEq/L. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Glomerulonefritis asociada a endocarditis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trombosis de la vena renal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Embolia renal séptica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Insuficiencia renal aguda prerrenal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Necrosis tubular aguda",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Es una NTA en fase poliúrica ( litros diarios: pierde mucha agua y electrolitos). Además, el Na+ urinario mayor a 20 mEq/l es definitorio de una IRA renal y los cilindros granulosos y céreos son característicos de la NTA. - La A (IRA prerrenal) habría tenido Na+ urinario bajo (menor a 10 mEq/L) y diuresis escasa. - La B (embolia séptica) habría tenido clínica de un infarto renal: un cuadro de dolor lumbar intenso, similar a un cólico renal, más hematuria (dismórfica), insuficiencia renal y leucocituria. - La C (GNA asociada a endocarditis) habría tenido hematuria dismórfica y complemento bajo. - La E (trombosis de la vena renal) es una complicación del síndrome nefrótico y cursa con dolor lumbar, hematuria e IRA.",
+    "archivo_origen": "hemato_nefro_reuma.txt",
+    "id_unico": "GUEV-NEF-0034",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "cardio",
+      "gineco",
+      "hemato"
+    ],
+    "tema": "IRA",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_hemato_nefro_reuma",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 26,
+    "enunciado": "Un paciente diabético presenta un síndrome nefrótico, con edema que inició hace 3 meses, proteinuria objetivada de 6 gramos al día y clearence de creatinina de 90 ml/min. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Glomerulopatía a cambios mínimos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Glomeruloesclerosis difusa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Glomeruloesclerosis focal y segmentaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Nefropatía diabética",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Nefropatía membranosa",
+        "correcta": true
+      }
+    ],
+    "justificacion": "- La nefropatía diabética suele presentarse inicialmente como proteinuria (en específico albuminuria) en rango no nefrótico, que evoluciona a insuficiencia renal crónica (caída del clearence de creatinina) y también, en algunos pocos casos, puede ir aumentando la proteinuria, hasta terminar como un síndrome nefrótico, pero que es de muy lenta instalación (demora años). Es la causa más frecuente de síndrome nefrótico en los diabéticos, pero también puede haber otras causas. - La nefropatía membranosa o extramembranosa es una enfermedad que actualmente se sabe es de índole autoinmune, con presencia de anticuerpos en contra de distintos antígenos de los podocitos (ej. anti-PLA2R). Suele presentarse como un síndrome nefrótico puro. Es la causa más frecuente de síndrome nefrótico en los adultos no diabéticos y también puede ser secundario a uso de fármacos, lupus y otras enfermedades. En este caso, a pesar de ser diabético, por tener gran proteinuria, corto tiempo de evolución y función renal conservada, lo más probable es que sea una glomerulopatía membranosa. Aunque el clearence está normal, por tener daño renal, sigue existiendo una IRC, solo que en etapa I. - La A (GEFS) también produce un síndrome nefrótico puro, pero afecta más a adolescentes y a pacientes con VIH, aunque perfectamente podría ser este caso (la única forma de saber será con la biopsia renal). En adultos de raza negra es más frecuente que la nefropatía membranosa. - La B (glomeruloesclerosis) es causa de insuficiencia renal crónica, ejemplo asociado a HTA, pero no suele tener un síndrome nefrótico. - La D (cambios mínimos) sí produce un síndrome nefrótico puro, pero generalmente en niños. Puede darse en adultos, pero es menos frecuentes.",
+    "archivo_origen": "hemato_nefro_reuma.txt",
+    "id_unico": "GUEV-NEF-0035",
+    "especialidad_principal": "nefro",
+    "subespecialidades": [
+      "reuma",
+      "cardio",
+      "infecto"
+    ],
+    "tema": "S_nefrotico",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_hemato_nefro_reuma",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  }
+]

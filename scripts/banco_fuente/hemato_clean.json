@@ -1,0 +1,3748 @@
+[
+  {
+    "numero": 6,
+    "enunciado": "Un paciente de 35 años presenta pérdida de la visión del ojo izquierdo, que se instaló rápidamente hace 24 horas. Al examen físico se aprecian pupilas isocóricas, las que se contraen normalmente al iluminar el ojo sano, sin embargo, vuelven a su posición relajada al iluminar el ojo afectado. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trombosis de la vena central de la retina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Desprendimiento de retina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Neuritis óptica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Hemorragia vítrea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Glaucoma agudo Tiene un escape pupilar o pupila de Marcus Gunn o defecto pupilar aferente, cuya",
+        "correcta": false
+      }
+    ],
+    "justificacion": "causa clásica y más frecuente es la neuritis óptica. A su vez, la esclerosis múltiple es la causa más frecuente de neuritis óptica, así que se debe estudiar con RMN no solo de nervio óptico, sino de encéfalo y médula espinal.",
+    "archivo_origen": "prueba_final_modulo_2.txt",
+    "id_unico": "GUEV-HEM-0001",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Usted evalúa una prueba diagnóstica para el cáncer de cerebro, obteniendo la siguiente información: ¿Cuál es la especificidad de la prueba?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "120 / 132",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "4 / 86",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "86 / 90",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "120 / 124",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "86 / 98 E = VN / Sanos = 86 / 90",
+        "correcta": false
+      }
+    ],
+    "justificacion": null,
+    "archivo_origen": "prueba_final_modulo_2.txt",
+    "id_unico": "GUEV-HEM-0002",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 26,
+    "enunciado": "Un paciente de 20 años consulta porque tiene una lesión hiperpigmentada en el brazo derecho, que ha crecido lentamente. Al examen físico se aprecia una mácula de 5 mm de diámetro, redondeada, con bordes regulares y color homogéneo, sin prurito ni descamación. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Léntigo solar",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Melanoma",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Nevo melanocítico",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Queratosis seborreica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Queratosis actínica Tiene aspecto benigno. Además, es un paciente joven, por lo que no puede ser un",
+        "correcta": false
+      }
+    ],
+    "justificacion": "léntigo solar.",
+    "archivo_origen": "prueba_final_modulo_2.txt",
+    "id_unico": "GUEV-HEM-0003",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 33,
+    "enunciado": "Un paciente de 35 años sufre un accidente de tránsito, con fractura de pelvis y de múltiples costillas. Al examen físico presenta un globo vesical y se observa uretrorragia. La conducta más adecuada respecto a esta situación es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Drenar con sonda Nelaton",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar cistoscopía de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Instalar cistostomía suprapúbica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Instalar sonda Foley",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sospechar un trauma renal grave y solicitar TAC de abdomen y pelvis con contraste endovenoso Está contraindicada la sonda Foley, por la sospecha de rotura uretral. Por eso, se debe hacer la cistostomía. La cistoscopía también está contraindicada. La sección",
+        "correcta": false
+      }
+    ],
+    "justificacion": "uretral se estudia con uretrocistografía y se trata con cirugía.",
+    "archivo_origen": "prueba_final_modulo_2.txt",
+    "id_unico": "GUEV-HEM-0004",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "medicina_interna",
+      "reuma",
+      "trauma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 47,
+    "enunciado": "Usted determina que fumar marihuana tiene un riesgo relativo para cáncer de pulmón de 2. Esto quiere decir que:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "El 2% de los pacientes que fuman marihuana desarrollarán cáncer de pulmón",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "El 2% de los pacientes que fuman marihuana desarrollarán cáncer de pulmón debido directamente al hábito de fumarla",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Fumar marihuana aumenta al doble el riesgo de padecer cáncer de pulmón",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Fumar marihuana aumenta en un 2% el riesgo de padecer cáncer de pulmón",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "La mitad de los casos de cáncer de pulmón se deben a fumar marihuana El RR indica la asociación entre 2 variables, mostrando el número de veces que aumenta la incidencia de la patología, al exponerse al factor de riesgo.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sería el riesgo atribuible porcentual poblacional: 50%. En este caso aumentó al doble. La opción A sería la incidencia en los expuestos: 2%. La opción B sería el riesgo atribuible porcentual: 2%. La D sería si el RR fuera. La opción E",
+    "archivo_origen": "prueba_final_modulo_2.txt",
+    "id_unico": "GUEV-HEM-0005",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 54,
+    "enunciado": "Un paciente de 29 años presenta verborrea, cambiando rápida y fácilmente de tema. Además, tiene disminución de los requerimientos de sueño. Refiere que nunca ha estado mejor en su vida y que está planeando un viaje por el sudeste asiático, sin embargo, una semana después evoluciona con agresividad y actitud paranoide respecto a su familia, asegurando que los demandará si se acercan a él. ¿Cuál es primer fármaco que se debe administrar?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Litio endovenoso",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Haloperidol intramuscular",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Quetiapina oral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fluoxetina oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Diazepam intramuscular Tiene un trastorno bipolar, en fase maníaca, con agitación.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "antipsicóticos atípicos. El primer fármaco es el haloperidol 5 mg intramuscular (\"en donde caiga\" = en donde sea posible administrarlo, generalmente muslos), como contención farmacológica. Luego se inician los estabilizadores del ánimo (litio, ácido valproico, carbamazepina) más",
+    "archivo_origen": "prueba_final_modulo_2.txt",
+    "id_unico": "GUEV-HEM-0006",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "medicina_interna",
+      "psiquiatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 66,
+    "enunciado": "Se recomienda tomar mg diarios de ácido fólico previo a un embarazo, de modo de evitar los defectos del tubo neural. ¿A qué tipo de intervención corresponde esta recomendación?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Prevención primaria",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Prevención secundaria",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Prevención terciaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Protección de la salud",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Minimización de costos Se indica antes de que exista la enfermedad, para evitar su aparición, por lo que es una medida de prevención primaria. Es de tipo prevención específica, ya que",
+        "correcta": false
+      }
+    ],
+    "justificacion": "previene una enfermedad en específico: los defectos del tubo neural.",
+    "archivo_origen": "prueba_final_modulo_2.txt",
+    "id_unico": "GUEV-HEM-0007",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "obstetricia",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un niño de 7 años presenta equimosis intermitente, desde hace 3 días. Al examinarlo tiene múltiples petequias en las extremidades inferiores y en el tronco. Sus signos vitales son normales y no tiene adenopatías. Su examen torácico muestra MP presente, sin ruidos agregados y RR2T sin soplos y su examen abdominal muestra un abdomen blando, depresible, indoloro, sin visceromegalia. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Leucemia linfática crónica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Leucemia linfática aguda",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Púrpura trombocitopénica inmune",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Púrpura de Schönlein Henoch",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Enfermedad de Von Willebrand",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene alteración de la hemostasia primaria (petequias), de pocos días de evolución. No tienen ningún síntoma de leucemia (fiebre, adenopatías, esplenomegalia, trombosis, dolores óseos). Lo más probable es que sea un PTI agudo, que es la causa más frecuente de alteraciones de la hemostasia primaria en niños.",
+    "archivo_origen": "prueba_final_modulo_3_-_1.txt",
+    "id_unico": "GUEV-HEM-0008",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "pediatria",
+      "cardio",
+      "reuma"
+    ],
+    "tema": "Linfadenopatia",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 36,
+    "enunciado": "Un recién nacido de término presenta peso de nacimiento de 2.000 gramos, con microcefalia y esplenomegalia. A la ecografía cerebral se visualizan calcificaciones cerebrales. ¿Cuál es el agente más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Citomegalovirus",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Treponema pallidum",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Streptococcus agalactiae",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Virus herpes simplex",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Virus rubéola Es un TORCH clásico, con la clínica clásica del CMV (microcefalia, calcificaciones cerebrales y pequeño para la edad gestacional). La toxoplasmosis congénita se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "puede ver igual, aunque es menos frecuente. La rubéola tiene cataratas, cardiopatía y microcefalia. El herpes puede producir algo similar, pero es más infrecuente, como causa de TORCH. La sífilis suele nacer con microcefalia, perforación del tabique nasal, exantema.",
+    "archivo_origen": "prueba_final_modulo_3_-_1.txt",
+    "id_unico": "GUEV-HEM-0009",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "infecto",
+      "medicina_interna",
+      "oftalmo"
+    ],
+    "tema": "Esplenomegalia",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 39,
+    "enunciado": "Una paciente multípara de 4, cursa un nuevo embarazo de 32 semana y consulta porque hace una semana presenta prurito palmar y plantar, mayor en la noche, sin otros síntomas. ¿Qué medicamento(s) debe recibir?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dexametasona y ácido ursodeoxicólico",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Loratadina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Clorfenamina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Antibióticos y ácido ursodeoxicólico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Ninguno Tiene una colestasia Intrahepática del embarazo (se diagnostica clínicamente, con el prurito palmoplantar), que tiene riesgo de muerte fetal.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "preclamsia). El ácido ursodeoxicólico ha demostrado disminuir el prurito y hay evidencia que sugiere que podría disminuir la mortalidad fetal, aunque faltan mejores estudios que lo confirmen. Se deben dar corticoides, por si se tuviera que interrumpir antes de las 34 semanas. Además, se debe pedir un doppler umbilical (aunque no tiene evidencia, a diferencia de su utilidad en RCIU y",
+    "archivo_origen": "prueba_final_modulo_3_-_1.txt",
+    "id_unico": "GUEV-HEM-0010",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "obstetricia",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 46,
+    "enunciado": "Un niño de 7 años presenta un cuadro de fiebre y malestar general de 2 semanas. Al examen físico tiene esplenomegalia y palidez, por lo que se solicita un hemograma, que muestra Hematocrito: 25%, blancos: 1.200 por mm3, plaquetas: 35.000 por mm3. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Leucemia aguda",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Púrpura trombopénica trombótica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Infección por virus Ebstein Baar",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Infección por VIH",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Inmunodeficiencia común variable Tiene una leucemia aguda aleucémica (por la pancitopenia, sin leucocitosis). La",
+        "correcta": false
+      }
+    ],
+    "justificacion": "esplenomegalia, la fiebre y la pancitopenia son muy sugerentes de leucemia aguda. La PTT tiene un cuadro de falla renal, anemia hemolítica, plaquetopenia, fiebre y afectación neurológica. La infección por VEB produce una mononucleosis infecciosa, con odinofagia, fiebre y adenopatías, más hepatoesplenomegalia.",
+    "archivo_origen": "prueba_final_modulo_3_-_1.txt",
+    "id_unico": "GUEV-HEM-0011",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "reuma",
+      "pediatria",
+      "psiquiatria"
+    ],
+    "tema": "Esplenomegalia",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 62,
+    "enunciado": "Un recién nacido presenta ictericia hasta los muslos al 5to día de vida. Está alimentado exclusivamente con leche materna y pesa lo mismo que al nacer. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ictericia por lactancia materna",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ictericia hemolítica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Ictericia fisiológica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Atresia biliar primario",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hipotiroidismo congénito Es fisiológica: está en la primera semana, solo llega hasta los muslos y no tiene ningún signo de alarma.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "fórmula). Recordar que es normal que se baje de peso hasta un 10% del peso, durante los primeros días y que se recupera a más tardar a los 7 días de vida (si baja más de peso o si no recupera, se debe mejorar la técnica de lactancia y controlar en 48 horas y si no mejora, subiendo al menos 30 gramos al día, se agrega",
+    "archivo_origen": "prueba_final_modulo_3_-_1.txt",
+    "id_unico": "GUEV-HEM-0012",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "medicina_interna",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 68,
+    "enunciado": "Un recién nacido de 3 días de vida presenta rechazo alimentario y temperatura de grados centígrados. El resto del examen físico no aporta mayor información. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar antibióticos orales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Hospitalizar para observación y control periódico de temperatura",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar hemograma, hemocultivos, exámenes de orina, radiografía de tórax y punción lumbar, e iniciar antibióticos endovenosos",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar hemocultivos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución de manera ambulatoria Un recién nacido, con fiebre (desde en adelante) se presume séptico, hasta que se demuestre lo contrario, pidiéndole todos los exámenes, con PL incluida e",
+        "correcta": false
+      }
+    ],
+    "justificacion": "iniciando antibióticos, hasta tener los resultados.",
+    "archivo_origen": "prueba_final_modulo_3_-_1.txt",
+    "id_unico": "GUEV-HEM-0013",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "medicina_interna",
+      "pediatria",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un lactante de 2 años presenta una diarrea aguda, acuosa, muy intensa, evolucionando con deshidratación. Presenta signos de mala perfusión y se solicitan exámenes entre los que destaca pH:, K+ plasmático de mEq/L, sodio de 130 mEq/L y creatinina de mg/dl. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar suero fisiológico",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar suero glucosalino",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar suero hipertónico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar sales de rehidratación oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar diálisis de urgencia",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una diarrea con deshidratación severa y falla renal (probablemente prerrenal). Además, tiene una acidosis metabólica, con hiperkalemia e hiponatremia. Lo primero a corregir es la volemia (con suero fisiológico) y luego se corrigen los electrolitos plasmáticos (si fuera necesario, porque muchas veces corrigen al corregir la volemia).",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-HEM-0014",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "nefro",
+      "pediatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 37,
+    "enunciado": "¿Cuál es la alteración hematológica más frecuente del recién nacido prematuro?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Anemia",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Poliglobulia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trombopenia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Leucocitosis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trombocitosis Los recién nacidos prematuros hacen anemia por el simple hecho de ser prematuros y además tienen a desarrollar ferropenia (la mayor parte del hierro se traspasa, de la madre al feto, al final del embarazo), por lo que se debe indicar hierro oral desde que doblan el peso o desde que alcanzan los 2 meses de edad (lo que ocurra primero: habitualmente el doblaje del peso), mientras que en los recién",
+        "correcta": false
+      }
+    ],
+    "justificacion": "nacido de término se inicia a los 4 meses (hasta el año de vida).",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-HEM-0015",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "medicina_interna",
+      "pediatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 41,
+    "enunciado": "Usted controla a un recién nacido de 7 días de vida, que pesó 3.500 g al nacer y que actualmente pesa 3.100 g. Se alimenta de leche materna y se aprecia en buenas condiciones, sin alteraciones en el examen físico. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución y explicar la normalidad de la situación",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Remplazar la lactancia materna por fórmula de inicio y controlar en 7 días",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Mejorar la técnica de lactancia materna y controlar para nueva evaluación en 24-48 horas",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Mantener la lactancia materna y agregar fórmula de inicio y controlar en 7 días",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hospitalizar para inicio de nutrición parenteral Es normal que baje hasta un 10% del peso de nacimiento, pero debe recuperarlo al cumplir 7 días.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "relleno. En este caso bajó 400 g (más de 10%) y no lo ha recuperado. Si baja más o no lo recupera, se debe mejorar la técnica de lactancia y controlar en 1 a 2 días y si aun así no sube al menos 30 gramos por día, se debe agregar fórmula de",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-HEM-0016",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "medicina_interna",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 51,
+    "enunciado": "Un recién nacido de 4 días de vida presenta disminución de su actividad y rechazo alimentario. Al examen físico, presenta t°: °C, tono muscular disminuido. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar hemograma",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar antibióticos orales",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar punción lumbar, hemograma y hemocultivos y decidir según resultados",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar punción lumbar, hemograma, hemocultivos, radiografía de tórax, sedimento de orina y urocultivo e iniciar antibióticos endovenosos de inmediato La sospecha es una sepsis neonatal (rechazo alimentario, problemas de termorregulación e hipotonía).",
+        "correcta": true
+      }
+    ],
+    "justificacion": "gentamicina o ampicilina + cefotaximo, de modo de cubrir SGB, E. coli y Listeria). En la sepsis precoz (que inicia en las primeras 72 horas de vida) algunos prefieren la ampicilina más gentamicina o tobramicina, en lugar de la ampicilina más cefotaximo, debido a que se cubriría mejor la listeria (la ampicilina la cubre; la gentamicina tendría un efecto sinérgico, mientras que el cefotaximo no la cubre). La mera sospecha es suficiente para pedirle todos los exámenes, en busca de un foco infeccioso, incluyendo la punción lumbar e iniciar los antibióticos de amplio espectro, por vía endovenosa (ampicilina +",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-HEM-0017",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "infecto",
+      "medicina_interna",
+      "pediatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 53,
+    "enunciado": "Un niño de 5 años presenta petequias, asociada a malestar general. La madre refiere que las lesiones aparecieron hace 3 semanas y que también presenta equimosis. Al examen físico se aprecia un niño pálido, con petequias y equimosis en las extremidades inferiores y abdomen y además se palpa esplenomegalia moderada. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Púrpura trombocitopénica inmune",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Púrpura trombocitopénica trombótica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Leucemia aguda",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Linfoma",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Infección viral Es una leucemia aguda clásica: signos de insuficiencia medular (anemia: palidez; trombopenia: petequias y equimosis), más esplenomegalia.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "en las leucemias, infecciones crónicas y enfermedades infiamatorias). La PTI puede tener la clínica de la trombopenia, pero no palidez ni esplenomegalia. La PTT cursa con anemia, trombopenia, insuficiencia renal grave, convulsiones y fiebre (podría ser, pero el cuadro sugiere más una leucemia). El linfoma tiene adenopatías más síntomas B (fiebre, baja de peso y sudoración, que también pueden estar presentes",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-HEM-0018",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "neurologia",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "Esplenomegalia",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 69,
+    "enunciado": "Un recién nacido de término, nacido por cesárea, presenta dificultad respiratoria, caracterizada por taquipnea y quejido. Se solicita radiografía de tórax, que es normal. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hipertensión pulmonar persistente",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Taquipnea transitoria",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Hipoplasia pulmonar",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Aspiración de líquido amniótico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Aspiración de meconio Tiene un sídnrome de distrés respiratorio del recién nacido.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "fetal o de ser postérmino. Por ser de término, no puede ser una enfermedad de membrana hialina. El antecedente de cesárea y la radiografía normal son características de la taquipnea transitoria (aunque también puede tener unos “pulmones húmedos”). La HTPP tiene radiografía normal, pero es mucho más grave y suele cursar con cianosis que no responde a O2 al 100%, además de tener una causa de base, como la asfixia. La aspiración de meconio tendría clínica obstructiva, el antecedente de meconio en el líquido, de sufrimiento",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-HEM-0019",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "medicina_interna",
+      "neurologia",
+      "pediatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un recién nacido de 35 semanas de edad gestacional, presenta un cuadro de taquipnea y quejido al nacer. Al examen físico se aprecia además aleteo nasal, sin cianosis y la radiografía de tórax muestra escaso derrame pleural y cisural, con hilios prominentes. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar ecocardiografía",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar broncodilatadores inhalados",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar corticoides sistémicos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar surfactante endotraqueal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar oxígeno en baja concentración Tiene una taquipnea transitoria clásica: prematuro mayor a 34 semanas (ya no puede ser enfermedad de membrana hialina), con distrés respiratorio y radiografía con “pulmones húmedos”. Se trata con oxígeno en baja concentración y tiene",
+        "correcta": true
+      }
+    ],
+    "justificacion": "excelente pronóstico. El surfactante endotraqueal es el tratamiento de la enfermedad de membrana hialina, pero se da en menores de 34 semanas y tiene una radiografía de tórax con un patrón de relleno en “vidrio esmerilado” (opacidad difusa), con broncograma aéreo.",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-HEM-0020",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "medicina_interna",
+      "obstetricia",
+      "pediatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un recién nacido de 4 días de vida presenta ictericia que abarca la cara y tronco, la que inició hace 24 horas. Al examen físico no tiene otras alteraciones. Se alimenta de leche materna exclusiva y pesa lo mismo que al nacer, es decir, 3.300 gramos. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar ecografía abdominal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar pruebas hepáticas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar niveles de bilirrubina plasmática",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar TSH",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar hemograma, Coombs directo y LDH Es una ictericia fisiológica (inició después de 24 horas y tiene menos de 7 días. Lo importante es solicitar niveles de bilirrubina total, de modo de determinar si requiere fototerapia o no. Que pese lo mismo que al nacer es estrictamente normal, ya que",
+        "correcta": false
+      }
+    ],
+    "justificacion": "puede bajar hasta un 10% del peso al nacer y lo recupera antes de los 7 días de vida. La TSH se pide en las ictericias tardías y prolongadas. El hemograma, Coombs y LDH se piden en las ictericias precoces (menos de 24 horas desde el nacimiento).",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-HEM-0021",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "medicina_interna",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un niño de 7 años presenta epistaxis intermitente de 3 días de evolución, asociada a aparición de múltiples equimosis. Al examen físico se aprecia petequias generalizadas, más abundantes en las extremidades inferiores. La madre refiere que tomó ibuprofeno, porque estuvo resfriado hace 10 días. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Púrpura de Schönlein Henoch",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Leucemia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Alteración de la hemostasia secundaria a AINEs",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Púrpura trombocitopénico inmune",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Hemofilia Es una PTI clásica: clínica de alteración de la hemostasia primaria (petequias y hemorragia mucosas, como epistaxis). En frecuente el antecedente de una",
+        "correcta": false
+      }
+    ],
+    "justificacion": "infección viral previa. Se debe solicitar un hemograma para confirmarla. La púrpura de Schönlein Henoch tiene púrpura palpable de EEII, con hematoquecia, diarrea y hematuria. La leucemia puede tener síntomas de alteración de la hemostasia primaria, pero además tiene fiebre, adenopatías, esplenomegalia, dolores óseos, anemia. La disfunción plaquetaria por AINES puede tener la misma clínica, pero sucede mientras se usan los AINEs y no después. La hemofilia tiene alteraciones de la hemostasia secundaria: hematomas y hemartrosis desde la temprana infancia. Resumen manejo PTI: Es importante recordar que el objetivo NO es normalizar las plaquetas, sino solo prevenir hemorragias severas. El PTI de los niños suele ser un cuadro autolimitado, que rara vez se complica. Por ello, el tratamiento general es conservador y basta con observar la evolución, indicando reposo físico, aunque el uso de corticoides es una opción midiendo riesgos y beneficios. - La observación suele ser el manejo de pacientes con equimosis, petequias. - Los corticoides orales son una alternativa y están indicados en algunos casos (gingivorragia, epistaxis, otras hemorragias sin urgencia, <20.000 plaquetas o <30.000 más un niño muy inquieto o padres que no tienen mucho acceso al sistema de salud). - Si hubiese hemorragias graves (ej. hemorragia digestiva u otra hemorragia interna que requiera atención médica de urgencia), se indica IgG EV en alta dosis o Ig anti-D, más corticoides endovenosos. - En hemorragias muy graves, con riesgo vital (ej. hemorragia cerebral, shock hipovolémico, etc.), se agregan las transfusiones de plaquetas más la IgG y más los corticoides ev. - El tratamiento de segunda línea solo se usa en PTI crónicos, que no logran un recuento de plaquetas estables >20.000, con el uso de corticoides y, actualmente, se utiliza, la esplenectomía (80-90% éxito, pero quirúrgica y con inmunodepresión secundaria) y el rituximab (50% de éxito, no quirúrgica y también con inmunodepresión secundaria). De los PTI de la infancia solo un 10-20% cronifica y, de esos, cerca de la mitad desaparece en 5 años. En los adultos, en cambio, el 80-90% cronifica. En los adultos, el tratamiento suele ser similar al ya explicado, aunque los corticoides se usan con mayor frecuencia que en los niños. En adultos, con PTI leves, la decisión de observar vs. usar fármacos se toma caso a caso y lo más importante es siempre la clínica.",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-HEM-0022",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Trombocitopenia_PTI",
+    "dificultad_estimada": "avanzada",
+    "contexto": "hospital",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 42,
+    "enunciado": "Usted evalúa a un recién nacido con aumento de volumen en la cabeza. Al examen físico presenta aumento de volumen en relación a la zona parietal izquierda, de cm de diámetro, que se limita al hueso parietal izquierdo. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trasladar a la unidad de cuidados intensivos y realizar intubación orotraqueal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar hemograma, PCR, hemocultivos y estudio de líquido cefalorraquídeo, e iniciar antibióticos de amplio espectro de manera urgente",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tranquilizar a la madre y observar evolución",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar ecografía cerebral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Resolver de manera quirúrgica Tiene un cefalohematoma, que es un hallazgo normal en el recién nacido y se produce por una hemorragia subperióstica, durante el trabajo de parto. Se observa, aunque se debe advertir que tiene un riesgo mayor de ictericia fisiológica, por la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hemólisis extravascular.",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-HEM-0023",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "medicina_interna",
+      "pediatria"
+    ],
+    "tema": "Anemia_hemolitica",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 46,
+    "enunciado": "Un recién nacido de 28 semanas de edad gestacional, presenta un cuadro de dificultad respiratoria progresiva, que inició a la hora de haber nacido y que ha empeorado rápidamente. La etiología del cuadro descrito es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Genética",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Malformativa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Infecciosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Falta de surfactante pulmonar",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Falta de reabsorción de líquido pulmonar Es una enfermedad de membrana hialina clásica: distrés respiratorio grave en un recién nacido muy prematuro (menor a 34 semanas). Se produce por falta de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "surfactante y suele tender a empeorar en las siguientes horas.",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-HEM-0024",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "medicina_interna",
+      "obstetricia",
+      "pediatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 52,
+    "enunciado": "Un recién nacido de 15 días de vida inicia ictericia, con bilirrubina de mg/dl y bilirrubina directa de mg/dl. Al examen físico se ve de buen aspecto, ha crecido adecuadamente y se alimenta de leche materna. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ictericia por leche materna",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Hipotiroidismo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Ictericia fisiológica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Ictericia hemolítica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Atresia biliar primaria Tiene una ictérica tardía o prolongada, de predominio directo, por lo que se trata de una atresia biliar primaria. La ictericia por lactancia materna y por hipotiroidismo son tardías, pero de predominio indirecto. La hemolítica es precoz e indirecta. La",
+        "correcta": true
+      }
+    ],
+    "justificacion": "fisiológica es indirecta también.",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-HEM-0025",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "medicina_interna",
+      "pediatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 27,
+    "enunciado": "Un paciente de 40 años, sin antecedentes ni hábitos de importancia, sufre una neumonía en el lóbulo inferior izquierdo, la que fue tratada con antibióticos, con buena respuesta. Sin embargo, evoluciona posteriormente con broncorrea crónica, mayor en las mañanas, que en ocasiones viene acompañada de expectoración hemoptoica. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cuerpo extraño bronquial",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tuberculosis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cáncer pulmonar",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Bronquitis crónica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Bronquiectasias Tanto el antecedente de neumonía previa, como la clínica de broncorrea matinal y hemoptisis sugieren bronquiectasias. La bronquitis crónica produce broncorrea en",
+        "correcta": true
+      }
+    ],
+    "justificacion": "pacientes fumadores y generalmente no tiene hemoptisis (se sospecharía cáncer).",
+    "archivo_origen": "repaso_modulo_1_prueba_70_preg_n2.txt",
+    "id_unico": "GUEV-HEM-0026",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "medicina_interna",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_novedades_repaso_modulo_1_prueba_70_preg_n2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 63,
+    "enunciado": "Una paciente de 50 años presenta epistaxis en varias oportunidades en el último mes, asociado a sangramiento de las encías al cepillarse los dientes. Al examen físico se aprecian múltiples petequias generalizadas, con algunas equimosis. No ha presentado otros síntomas. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar tiempos de coagulación",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar hemograma",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar biopsia de piel",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar aspirina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar corticoides Tiene un síndrome de alteración de la hemostasia primaria (petequias y hemorragias mucosas), por lo que se debe primeramente solicitar un hemograma, para determinar el recuento de plaquetas (recordar que la hemostasia primaria está",
+        "correcta": false
+      }
+    ],
+    "justificacion": "determinada por las plaquetas y la secundaria, por la coagulación).",
+    "archivo_origen": "repaso_modulo_1_prueba_70_preg_n2.txt",
+    "id_unico": "GUEV-HEM-0027",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "otorrino",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_repaso_modulo_1_prueba_70_preg_n2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 22,
+    "enunciado": "Una paciente de 65 años, sin antecedentes mórbidos conocidos presenta un cuadro de palpitaciones, malestar y sudoración, luego de estar 5 horas sin comer. El cuadro se repite varias veces, siempre en relación al ayuno, 1 por lo que decide hacerse un hemoglucotest, que demuestra una glicemia de 45 mg/dl durante uno de los episodios. ¿Qué examen es el más adecuado para determinar la etiología de la hipoglicemia?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Glicemia de ayuno",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Test de tolerancia a la glucosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Niveles plasmáticos de insulina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Niveles plasmáticos de glucagón",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Niveles plasmáticos de péptido C Tiene hipoglicemias de ayuno (recordar que las causas son los insulinomas, el cáncer, enfermedades",
+        "correcta": true
+      }
+    ],
+    "justificacion": "autoinmunes, la IRC y el DHC). Se estudian con péptido C, que refieja la producción de insulina endógena y que es más estable que la insulina, por lo que su medición es más precisa (aunque también se suele pedir la insulina, junto con el péptido C). Si está alto el péptido C, es un insulinoma u otra causa hiperproductora de insulina; si está bajo se buscan las otras causas; si el péptido C está bajo, pero la insulina está alta, se asume que hay una hipoglicemia facticia por inyecciones de insulina exógena. En cambio las hipoglicemias reactivas (2 a 4 horas postprandiales) se estudian con la prueba de tolerancia a la comida mixta, que desplazó al TTGO de larga duración.",
+    "archivo_origen": "diabetes_y_gastroenterologia.txt",
+    "id_unico": "GUEV-HEM-0028",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "reuma",
+      "pediatria",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_diabetes_y_gastroenterologia",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 38,
+    "enunciado": "La etiología más frecuente de la úlcera péptica en Chile es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Infección por Helicobacter pylori",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Gastrinoma",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Idiopática",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Consumo de AINEs",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Consumo de alcohol",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Las úlceras gástricas son 70% por H. pylori y 30% por AINES. Las duodenales son 90% por H. pylori y 10% por AINES. Menos del 1% son por otras causas.",
+    "archivo_origen": "diabetes_y_gastroenterologia.txt",
+    "id_unico": "GUEV-HEM-0029",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_diabetes_y_gastroenterologia",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente de 75 años, es hospitalizado hace 2 días, por un accidente vascular encefálico. Presenta dolor, eritema y aumento de volumen de la rodilla izquierda, con impotencia funcional. Al examen se aprecia eritema y signos de derrame articular. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Artritis séptica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Artritis por cristales",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Artritis reactiva",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Artritis reumatoide",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Osteoartritis La condrocalcinosis es la causa más frecuente de monoartritis aguda en el adulto mayor y suele desencadenarse por reposo, como este caso. La atritis séptica tiene una clínica igual, pero el antecedente de reposo, la ausencia de fiebre y la edad orientan más a",
+        "correcta": false
+      }
+    ],
+    "justificacion": "condrocalcinosis aguda.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-HEM-0030",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "neurologia",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un paciente presenta vértigo, de segundos de duración, que se le produce al girar la cabeza a derecha, mientras está acostado. No tiene síntomas auditivos y como antecedente refiere haber sufrido un traumatismo encefálico hace 10 días, en un accidente de trabajo. No presenta adiadococinesia ni dismetría. El resto de su examen físico es normal. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar fiunarizina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar tietilperazina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar un TAC de oídos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Derivar para maniobras de reposición vestibular",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar Difenidol Es un vértigo postural paroxístico benigno clásico.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "improbable un vértigo central. Se trata con las maniobras de reposición (los antivertiginosos algo sirven, pero no son de elección en el VPPB, a diferencia de la neuronitis vestibular y la enfermedad de Ménière). La ausencia de síntomas auditivos descarta Ménière y la ausencia de signos cerebelosos, hace",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-HEM-0031",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "neurologia",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 61,
+    "enunciado": "Un paciente de 50 años, presentó una pelea con su vecino hace 4 meses y desde hace un mes comienza con recuerdos del incidente, asociado a pesadillas recurrentes. En las últimas semanas evita pasar por fuera de la casa de su vecino por miedo, y su familia refiere que se encuentra con ánimo bajo. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno adaptativo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de estrés postraumático",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Depresión reactiva",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Depresión psicótica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno de ansiedad generalizada Es un TEPT clásico (evento traumatizante, seguido de reexperimentación [pesadillas o recuerdos], evitación, estado de hiperalerta y embotamiento afectivo). Se complica con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "depresión, que es lo que parece haber ahora.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-HEM-0032",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "psiquiatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 66,
+    "enunciado": "Paciente de 30 años comienza hace una semana con cuadro de dolor en la espalda y extremidades, a lo que luego se agrega debilidad progresiva que actualmente dificulta la marcha asociado a dificultad para orinar. Al examen físico se constata debilidad de las cuatro extremidades con abolición de los refiejos osteotendíneos y disminución del tono muscular. Se constata nivel sensitivo a la altura de T4. Su sondaje vesical da salida a 1300 cc de orina. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Miastenia gravis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome de Guillain Barre",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Mielitis transversa",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Compresión medular toráxica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Parálisis hipokalémica episódica La clínica de tetraparesia fácida arrefiéctica es muy sugerente de un Sd.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "pero en los primeros días cursa con hipotonía e hiporrefiexia). Guillain Barré, pero el dolor de espalda, la afectación vesical y en especial el nivel sensitivo o motor son característicos de la mielitis transversa; sin embargo, está el problema de que el nivel era torácico y la afectación motora era de las 4 extremidades. Por otro lado, el Guillain Barré sí puede tener esos síntomas. El cuadro clínico no era lo suficientemente limpio, como para elegir una de las dos opciones, pero tiene las cosas características de la mielitis transversa, por lo que la consideraremos como (recordar que la mielitis transversa produce nivel motor y nivel sensitivo, con espasticidad e hiperrefiexia,",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-HEM-0033",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 72,
+    "enunciado": "Un recién nacido de 2 semanas es hospitalizado por presentar apneas. La madre refiere tos de 3 semanas de evolución, en crisis, que en ocasiones la hacen vomitar. ¿Cuál es el tratamiento farmacológico más adecuado?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Amoxicicilina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Azitromicina",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Ceftriaxona",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Oseltamivir",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Aciclovir",
+        "correcta": false
+      }
+    ],
+    "justificacion": "La sospecha es un coqueluche, que se trata con macrólidos.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-HEM-0034",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "medicina_interna",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 102,
+    "enunciado": "Paciente de 45 años, trabajador de una fábrica textil, sufre un accidente, resultado con atrición del brazo, en una de las máquinas, mientras se encontraba trabajando. ¿Quién cubre los gastos médicos de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "El empleador",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "50% por parte de FONASA y 50% por parte del trabajador",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "La institución de Salud Previsional",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "La Mutual de Seguridad",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "El Estado Los accidentes laborales son cubiertos por las mutuales de empleadores, ya que ellas",
+        "correcta": false
+      }
+    ],
+    "justificacion": "administran el fondo del seguro de este tipo de accidentes.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-HEM-0035",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 118,
+    "enunciado": "Paciente de 25 años, presenta desde hace 3 semanas compromiso del estado general, sensación febril cuantificada hasta 38°C, asociado a astenia y tendencia a presentar equimosis frente a pequeños traumatismos. Al examen físico se aprecia pálida, se palpa esplenomegalia y se observan abundantes petequias en abdomen y extremidades inferiores asociadas a equimosis en extremidades inferiores. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Leucemia aguda",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Mononucleosis infecciosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Linfoma",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome hemolítico urémico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Coagulación intravascular diseminada",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Era una leucemia aguda clásica.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-HEM-0036",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "reuma",
+      "urgencias"
+    ],
+    "tema": "Esplenomegalia",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 146,
+    "enunciado": "Una paciente de 42 años, consulta por adenopatía supraclavicular derecha persistente. Al examen físico se palpa además un nódulo cervical paratraqueal derecho de consistencia amentada, que asciende con la deglución, de alrededor de 2 cm de diámetro. ¿Cuál es el examen de elección para iniciar el estudio de esta paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Niveles plasmáticos de calcitonina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ecografía cervical",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "TAC de cuello",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Resonancia magnética de cuello",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Biopsia quirúrgica",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Todo nódulo cervical se estudia inicialmente con Ecografía de cuello y TSH. - Si TSH resulta suprimida, se solicita cintigrafía con yodo radiactivo. - Si TSH está normal o elevada, se decide según Ti-Rads: TR1 = normal. No hay nódulo. TR2 = benigno (ej. quiste simple) = Observar. TR3 = probablemente benigno = PAAF si >10-15 mm. TR4 = sospechoso = PAAF si >10 mm. TR5 = cáncer = PAAF independiente del tamaño.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-HEM-0037",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Linfadenopatia",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 153,
+    "enunciado": "Un adulto de 65 años, con antecedente de EPOC, consulta por aumento de su disnea basal asociado a expectoración mucopurulenta y fiebre hasta °C. Al examen físico presenta frecuencia cardiaca de 95 por minuto, presión arterial 120/80mmHg, satura 91%, frecuencia respiratoria de 27 por minuto. A la auscultación pulmonar presenta crépitos en base izquierda y se solicita radiografía que se muestra a continuación: El tratamiento de elección es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cefuroximo oral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Penicilina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Azitromicina oral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Amoxicilina oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Ceftriaxona endovenosa",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Falta información sobre el estado general del paciente y no está la opción más. Además, no se sabe la saturación basal del paciente. Una saturación de 91%, por regla general requiere hospitalización y por tanto ceftriaxona (por ello la dejamos como ), pero si basalmente desatura, por ser EPOC, podría bastar el tratamiento oral, con amoxicilina / ácido clavulánico, porque además solo tiene 1 punto del CURB65. Sin embargo, no está en las opciones la amoxi-clavulánico, por lo que dejaremos la ceftriaxona como (si hubiese estado, marcaríamos amoxi-clavulánico). Es una pregunta muy discutible y no estamos seguros de la respuesta.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-HEM-0038",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "medicina_interna",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 172,
+    "enunciado": "Un hombre de 77 años, alérgico a la penicilina, consulta por dolor de la rodilla izquierda, asociado a aumento de volumen y fiebre. Al examen físico tiene temperatura de grados y presenta aumento de volumen y eritema de la rodilla izquierda, asociado a signos de derrame articular. ¿Cuál es el tratamiento de elección en este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cefazolina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cloxacilina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Azitromicina oral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Clindamicina endovenosa",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Gentamicina endovenosa Es una pregunta discutible, ya que no indican el nivel de alergia la penicilina.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que es la respuesta. Sin embargo, es importante recordar que actualmente, las infecciones osteoarticulares (que son graves), preferiblemente se deben tratar con vancomicina, para cubrir SAMR (la clindamicina sí lo cubre, pero no es el óptimo). En general, la alergia a la penicilina no contraindica a las cefalosporinas y la cefazolina es más potente antibiótico que la clindamicina. Sin embargo, si es que ha habido un shock anafiláctico o angioedema, sí se contraindican las cefalosporinas. La clindamicina es una buena opción y no tiene ninguna contraindicación por la alergia, por lo que se asume",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-HEM-0039",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "neurologia",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Durante una cirugía traumatológica, de un paciente VIH, salta sangre dentro del ojo de un interno. ¿Cuál es la conducta para con este interno? 1",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar zidovudina oral, sin necesidad de realizar exámenes",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Observar evolución, solicitándole elisas seriados para VIH",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar triterapia oral, solicitándole elisas seriados para VIH",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar zidovudina oral, solicitándole elisas seriados para VIH",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución, sin necesidad de realizar exámenes",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tanto si el paciente tiene Elisa VIH positivo, como si no se ha realizado exámenes, la conducta en un accidente cortopunzante (y también en el contacto con fiuidos de alto riesgo, como en este caso), es iniciar la triterapia profiáctica. Solo se observa, cuando el paciente tiene negativo el Elisa.",
+    "archivo_origen": "endocrino_infecto.txt",
+    "id_unico": "GUEV-HEM-0040",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "infecto",
+      "reuma",
+      "urgencias"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_endocrino_infecto",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 15,
+    "enunciado": "¿Qué examen es el más adecuado para determinar el inicio de profilaxis para Pneumocystis jirovecii en un paciente con VIH? 1 La profilaxis de infecciones oportunistas se decide según el recuento de CD4.",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "LDH plasmática",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Carga viral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Recuento de linfocitos CD4+",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Serología para Pneumocystis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Inmunofiuorescencia de expectoración",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Bajo 200 por mm3 se indica profilaxis para Pneumocystis. Bajo 100, para Toxoplasma y criptococ. Bajo 50, para MAC (Mycobacterium avium complex) y CMV (citomegalovirus).",
+    "archivo_origen": "endocrino_infecto.txt",
+    "id_unico": "GUEV-HEM-0041",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "infecto",
+      "medicina_interna",
+      "psiquiatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_endocrino_infecto",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 24,
+    "enunciado": "Un paciente presenta una infección de una herida operatoria, por un Staphilococcus aureus, que el antibiograma resultó sensible a la meticilina. ¿Qué tratamiento es el más aconsejado? 1 El SAMS (S.",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ceftriaxona",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Piperacilina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cloxacilina",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Vancomicina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Linezolid",
+        "correcta": false
+      }
+    ],
+    "justificacion": "aureus meticilina sensible) se trata con cloxacilina, fiucloxacilina, cefalosporinas de primera y segunda generación, amoxiclina + ácido clavulánico y clindamicina. El SAMR (S. aureus meticilina resistente) se trata con vancomicina y si no funciona, con linezolid o daptomicina.",
+    "archivo_origen": "endocrino_infecto.txt",
+    "id_unico": "GUEV-HEM-0042",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_endocrino_infecto",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Se desea evaluar la efectividad de un nuevo antihipertensivo de la familia de los inhibidores de la enzima convertidora de angiotensina, para esto, ¿Qué tipo de estudio escogería?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Caso control",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Metanálisis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cohorte",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Corte transversal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Estudio clínico randomizado Por ser un fármaco nuevo es imposible tener estudios para hacer un metanálisis (análisis estadístico de muchos ensayos clínicos agrupados).",
+        "correcta": true
+      }
+    ],
+    "justificacion": "modos, es la respuesta más. Así que lo mejor es el ensayo clínico. Eso sí, lo que se mide es eficacia (capacidad de generar beneficios en condiciones controladas) y no efectividad (como dice la pregunta). Pero, de todos",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-HEM-0043",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Una paciente de 26 años, sin antecedentes, mientras iba como copiloto sufre accidente de tránsito, resultando con dolor en extremidad inferior derecha. Al ingreso con vía aérea permeable, respiración espontánea, sin sangramientos evidentes, presión arterial de 150/90, Glasgow 15, extremidad inferior derecha en posición púdica. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Luxación anterior de cadera",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fractura intertrocantérica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Fractura de cuello femoral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Luxación posterior de cadera",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Fractura de pelvis La posición púdica es característica de la luxación posterior de cadera. La fractura, en",
+        "correcta": false
+      }
+    ],
+    "justificacion": "cambio, tiene posición impúdica (abducción, rotación externa y acortamiento).",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-HEM-0044",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una paciente de 29 años, sin antecedentes, consulta por disnea progresiva asociada a fatigabilidad. Al examen físico destaca mucosas pálidas, cardiopulmonar normal. Se solicita hemograma que muestra hemoglobina mg/dL, hematocrito 26%, VCM 110, reticulocitos %, leucocitos 8.500/mm3 y plaquetas 200.000/mm3. El diagnóstico más probable en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Anemia falciforme",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Anemia perniciosa",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Anemia ferropénica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Anemia por enfermedades crónicas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Anemia por déficit de vitamina B6 Tiene una anemia con VCM 110, es decir megaloblástica, por eso es por déficit de B12, causada en primer lugar por la anemia perniciosa. El déficit de folatos también podría ser",
+        "correcta": false
+      }
+    ],
+    "justificacion": "una alternativa aceptable (aunque menos frecuente), pero los folatos son la vitamina B9. La vitmaina B6 es la piridoxina y produce una polineuropatía, especialmente, en pacientes con isoniacida (ej. tratamiento contra la TBC).",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-HEM-0045",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "infecto",
+      "psiquiatria",
+      "reuma"
+    ],
+    "tema": "Estudio_anemia",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 30,
+    "enunciado": "Recién nacido de 35 semanas, de 5 días de vida, con antecedente de depresión neonatal recuperada, inicia cuadro caracterizado por vómitos y distensión abdominal asociado a deposiciones con sangre. Al examen físico se palpa abdomen distendido, con tono aumentado. El examen de elección para el diagnóstico en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ecografía abdominal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tomografía axial computada de abdomen con contraste",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Radiografía de abdomen",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Laparotomía exploradora",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Colonoscopía La enterocolitis necrotizante se estudia con radiografía de abdomen simple, que ve la neumatosis intestinal (aire en la pared intestinal), dilatación de las asas, o bien, en caso",
+        "correcta": false
+      }
+    ],
+    "justificacion": "de perforación, neumoperitoneo.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-HEM-0046",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "medicina_interna",
+      "pediatria",
+      "psiquiatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 73,
+    "enunciado": "Paciente de 68 años, sin antecedentes conocidos, consulta por cuadro de dolor abdominal desde hace 6 horas, asociado a distensión progresiva, vómitos y sensación febril, además refiere que no ha eliminado gases. Al examen físico destaca ausencia de ruidos hidroaéreos y Blumberg (+). Se solicita radiografía de abdomen que se muestra a continuación:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Gastroenteritis aguda",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Vólvulo sigmoides",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Obstrucción intestinal",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Diverticulitis aguda",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Apendicitis aguda Se ven las asas dilatadas y tiene el cuadro clínico de la obstrucción inestinal. No se ve la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "imagen de grano de café, como para haber pensado en vólvulo.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-HEM-0047",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 87,
+    "enunciado": "Un paciente de 46 años, sin antecedentes, cursa con cuadro de disnea y palidez desde hace 2 semanas, asociado a coluria e ictericia. Al examen físico se aprecian mucosas pálidas y se palpa esplenomegalia, sin otros hallazgos. El examen de elección para el diagnóstico etiológico específico, en este caso, es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Haptoglobina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "LDH",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Coombs",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Hemograma con reticulocitos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Bilirrubina total e indirecta Parece una anemia hemolítica. Si bien suelen no tener coluria (ya que la hiperbilirrubinemia es de tipo indirecta), puede tenerla, por el aumento de la producción",
+        "correcta": false
+      }
+    ],
+    "justificacion": "de bilirrubina y, también, es posible que sea hemoglobinuria (también oscurece la orina). Se debe empezar con el hemograma y reticulocitos, además de la LDH, que harán el diagnóstico de anemia hemolítica. Luego se pedirá el Coombs directo, que hace el diagnóstico específico de anemia hemolítica autoinmune. Preguntan el diagnóstico etiológico, por lo que la respuesta es Coombs directo. Es una pregunta que induce a error.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-HEM-0048",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Esplenomegalia",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 94,
+    "enunciado": "Un paciente de 19 años, sin antecedentes, hace un mes sufre golpe contuso en rodilla izquierda mientras jugaba futbol, tras lo cual ha permanecido con dolor el cual ha aumentado en las últimas semanas, asociado a aumento de volumen duro. Se solicita radiografía de rodilla que muestra lesión de gran tamaño en metáfisis y diáfisis de fémur, asociado a compromiso cortical. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Sarcoma de Ewing",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Osteosarcoma",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Osteoma osteoide",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Sarcoma de partes blandas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tumor de células gigantes Por la edad (mayor a 15 años) es osteosarcoma. El tumor de células gigantes es entre los 40 y 55 años. El sarcoma de Ewing es de localización diafisiaria, no metafisiaria y suele afectar a niños menores de 15 años. Sin embargo, es una pregunta demasiado",
+        "correcta": false
+      }
+    ],
+    "justificacion": "difícil, ya que perfectamente puede ser un sarcoma de Ewing.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-HEM-0049",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 109,
+    "enunciado": "Una paciente de 55 años, en quimioterapia por leucemia mieloide aguda, inicia desde hace algunas horas fiebre alta, cefalea y dolor al movimiento ocular, refiere haber estado en contacto con su hijo que cursaba con cuadro respiratorio alto. Se realiza exámenes donde destaca hemoglobina mg/dL, leucocitos 1.000/mm3 (10% neutrófilos 90% linfocitos) y plaquetas 80.000/mm3. La conducta más adecuada frente a esta paciente es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar manejo sintomático",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar ceftazidima con amikacina endovenosas",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar anfotericina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar oseltamivir endovenoso",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar aislamiento e iniciar ceftriaxona endovenosa Es una neutropenia febril, lo que se considera una urgencia infectológica, que debe iniciar tratamiento antibiótico de inmediato.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "espectro que cubra pseudomona (ej. imipenem, cefepime). En los casos en que se sospeche estafilococo (ej. catéter EV), además, se deja cloxacilina o vancomicina (si es intrahospitalario y se sospecha SAMR). Si lleva más de 7-14 días, se agrega cobertura para Aspergillus. Se trata con doble cobertura para pseudomona (ej. ceftazidima más amikacina) o, al menos, con un antibiótico de amplio",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-HEM-0050",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "neurologia",
+      "salud_publica"
+    ],
+    "tema": "Leucemia_aguda",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 158,
+    "enunciado": "Un paciente de 16 años, sin antecedentes, consulta por dolor testicular que inició hace una hora, asociado a náuseas, vómitos y sudoración. Al examen físico se aprecia testículo derecho ascendido respecto al contralateral y escaso eritema circundante. La conducta más adecuada en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar ecografía testicular",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar doxiciclina y ciprofioxacino",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar ketorolaco endovenoso y suspensión testicular",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar exploración quirúrgica inmediata",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar exámenes generales, parámetros infiamatorios y sedimento de orina,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "luego decidir conducta según resultados. Tiene un testículo agudo: probable torsión testicular, por lo que se debe proceder a la exploración quirúrgica.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-HEM-0051",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "reuma",
+      "salud_publica",
+      "uro"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 170,
+    "enunciado": "Desde el año 2005 existe la ley que obliga a los automovilistas a utilizar el cinturón de seguridad con el objetivo de disminuir traumatismos asociados a accidentes. Con respecto a esta ley, en términos de prevención, corresponde a:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Prevención primaria",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Promoción de salud",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Prevención secundaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Prevención terciaria",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Control sanitario Se previenen los traumatismos, antes de que ocurran (disminuye la incidencia), por lo que es prevención primaria (es promoción de la salud: hábitos saludables, de seguridad,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "en este caso).",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-HEM-0052",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "reuma",
+      "urgencias"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": "2005",
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 175,
+    "enunciado": "Un paciente de 3 años, sin antecedentes, con cuadro de rinofaringitis viral de dos días de evolución en tratamiento sintomático, es traído por presentar, desde hace unas horas, mayor compromiso del estado general, asociado a otalgia intensa izquierda y sensación febril. Al examen físico, destaca examen cardiopulmonar normal y a la otoscopía, se aprecia tímpano izquierdo eritematoso y abombado, con escasa secreción purulenta. El fármaco de elección en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ibuprofeno oral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Amoxicilina oral",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Amoxicilina con ácido clavulánico oral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Gentamicina tópica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Claritromicina oral Tiene una OMA (otitis media aguda). Se trata con amoxicilina sola. En la OMAR (recurrente), también se indica amoxicilina sola. Solo si no responde en 72 horas o si usó",
+        "correcta": false
+      }
+    ],
+    "justificacion": "amoxicilina en los últimos 15 días, se agrega ácido clavulánico.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-HEM-0053",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "otorrino",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un recién nacido, con antecedente de pielectasia bilateral, diagnosticada por ecografía obstétrica, presenta retraso en la eliminación de orina, por lo que se realiza una ecografía abdominal al tercer día de vida, que visualiza hidroureteronefrosis bilateral, asociada a una vejiga de paredes engrosadas. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Valvas uretrales posteriores",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome de Prune Belly",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Refiujo vésico-ureteral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Vejiga neurogénica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Megauréter congénito La dilatación bilateral, más la vejiga de lucha orienta a obstrucción uretral. La única opción era la de las valvas/válvulas uretrales, que son una malformación relativamente",
+        "correcta": false
+      }
+    ],
+    "justificacion": "frecuente.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-HEM-0054",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "medicina_interna",
+      "pediatria",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 21,
+    "enunciado": "Paciente femenina de 35 añoos, quien evidencia masa en cuadrante superoexterno de mama izquierda, no doloroso, de consistencia lisa y no adherido a planos profundos. Tiene una tía fallecida de cáncer de mama a los 71 años y usa anticonceptivos orales. La conducta más apropiada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar ecotomografía de mamas",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar mamografía",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Punción con aguja fina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar tumorectomía y biopsia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar resonancia magnética nuclear de mamas Es un fibroadenoma, que se estudia con ecografía.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "es: 1. el embarazo, 2. mamografía Birrads 0 y 3. clínica de fibroadenoma. Además, las mamografías suelen ser poco útiles antes de los 40 años. Sin embargo, si la clínica no hubiese sido tan sugerente de fibroadenoma, sino de otras cosa (ejemplo nódulo mamario inespecífico o cáncer), el examen de elección sí sería la mamografía (se pide desde los 40 años, cada 1 a 2 años y se pide antes, si es que hay nódulos palpables). La ecografía, en cambio, es de elección",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-HEM-0055",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "gineco",
+      "obstetricia",
+      "pediatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 23,
+    "enunciado": "Una niña de 5 años, en tratamiento con amoxicilina por una amigdalitis, evoluciona al séptimo día con fiebre y lesiones cutáneas generalizadas. Al examen físico se aprecian lesiones en tiro al blanco, asociadas a úlceras en las mucosas oral, rectal y vaginal. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Urticaria aguda",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Gingivoestomatitis herpética",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Síndrome de Steven Johnson",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Escarlatina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Mononucleosis infecciosa",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es un síndrome de Steven Johnson clásico.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-HEM-0056",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "otorrino",
+      "pediatria",
+      "psiquiatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 36,
+    "enunciado": "Una mujer de 33 años, cursando con un embarazo de 26 semanas, sufre un accidente de tránsito, por lo que es llevada al servicio de urgencias, constatándose metrorragia moderada. Desde el punto de vista obstétrico, lo primero que se debe evaluar es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "La vitalidad fetal",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "La ubicación placentaria",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "La dilatación cervical",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "La dinámica uterina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "La integridad de las membranas El bienestar fetal siempre es lo primero a evaluar, ya que podría determinar una cesárea",
+        "correcta": false
+      }
+    ],
+    "justificacion": "de urgencia.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-HEM-0057",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "obstetricia",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 54,
+    "enunciado": "Un paciente de 20 años presenta un cuadro de poliuria y polidipsia, de 2 días de evolución, a lo que se ha agregado dolor abdominal y vómitos hace pocas horas. Se solicita una glicemia, que resulta 360 mg/dl. ¿Qué examen es más adecuado para proseguir con el estudio de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cetonemia",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Creatininemia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Perfil lipídico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hemoglobina glicosilada",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hemograma Parece una cetoacidosis, así que lo más urgente es confirmar el diagnóstico, con la cetonemia (o cetonuria) y los gases venosos (para ver el estado ácido base). Recordar criterios:",
+        "correcta": false
+      }
+    ],
+    "justificacion": "- \"Ceto\": cuerpos cetónicos positivos en sangre u orina. - \"Acidosis\": pH bajo ( o menos), bicarbonato bajo (>15 mEq/L o menos; algunos ponen el corte en 18) y anion gap aumentado (sobre 12; algunos ponen el corte en 10). - \"Diabética\": glicemia de 250 mg/dl o más (el algunas fuentes y en pediatría se prefiere el corte de 200 mg/dl).",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-HEM-0058",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 73,
+    "enunciado": "Paciente con diagnóstico de una leucemia mieloide aguda, en su cuarto ciclo de quimioterapia, se encuentra hospitalizado por fiebre sin foco, asociado a neutropenia (neutropenia febril), por lo que está en tratamiento con ceftazidima, amykacina y vancomicina, sin mayor respuesta. En sus exámenes de laboratorio presenta neutrófilos 100 por mm3 y en la radiografía de tórax se observa una imagen apical derecha radiopaca, de 3 cm de diámetro, espiculada y con bordes difusos. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Tuberculosis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Neumonía intrahospitalaria",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Aspergilosis invasiva",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Nocardosis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Neumonía por Pneumocystis jiroveci La aspergilosis es una complicación clásica de la neutropenia prolongada. Además, por",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ser un hongo, no responde a los antibióticos. La imagen del apergiloma suele verse como una masa pulmonar con un halo, ya sea radiolúcido por el aire que queda alrededor, como radiopaco, por la infiltración que se produce por las hifas del hongo (en este caso se describe el clásico halo radiopaco: espiculado y con bordes difusos).",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-HEM-0059",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Leucemia_aguda",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 80,
+    "enunciado": "¿A qué indicador corresponde la siguiente afirmación \"De 100 pacientes tuberculosos, 13 fallecen\"?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Valor absoluto",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Razón",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Frecuencia relativa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Índice",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tasa Es una pregunta algo difícil, en la que no estamos seguros de la respuesta. Lo que están dando es la letalidad (probabilidad de fallecer si se enferma), que en este caso es de",
+        "correcta": true
+      }
+    ],
+    "justificacion": "13%. Hasta ahí es fácil. Sin embargo, la duda surge a la hora de elegir entre tasa (tasa de letalidad, que parece la respuesta más obvia) y frecuencia relativa, ya que, en estricto rigor también es una frecuencia relativa de 13%. - \"Tasa\" corresponde a una relación entre la ocurrencia de un evento en relación a los sujetos expuestos al riesgo de que dicho evento ocurra, en un periodo de tiempo determinado. Por tanto, incluye 3 elementos: evento, sujetos y tiempo. En este caso, sí puede ser una tasa de letalidad, entendida como todo el periodo en el que las personas estuvieron expuestas, pero, al no detallar la unidad de tiempo, la tasa de letalidad no siempre es una tasa verdadera. Sin embargo, el concepto tasa es equívoco y la inmensa mayoría de los médicos consideran a la tasa de letalidad como una verdadera tasa. - Frecuencia relativa, por otro lado, corresponde a la relación entre la frecuencia absoluta de un valor en una determinada variable, respecto del total de la población medida. Ejemplo, si en una población de 1.000 enfermos de tuberculosis, 130 mueren y 870 viven, pues, las frecuencias absolutas para la variable \"desenlace\" son 130 para el valor \"desenlace de muerte\" y 870 para el valor \"desenlace de vida\" y las frecuencias relativas serían respectivamente: 130/1.000 y 870/1.000, es decir, y; o 13% y 87%. Con todo y para no complicar mucho la pregunta, hemos decidido dejar como respuesta \"tasa\", por tratarse de la tasa de letalidad.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-HEM-0060",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "infecto",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 111,
+    "enunciado": "Un adolescente, con diagnóstico de linfoma de Hodgkin, se realiza un ciclo de quimioterapia. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Reacción adversa a medicamentos",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Infiltración cutánea por linfoma",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Prurito paraneoplásico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Mononucleosis infecciosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Meningococcemia Tiene un exantema morbiliforme (similar a sarampión). El exantema macular eritematoso es la reacción adversa a medicamentos más frecuente. La estrecha relación",
+        "correcta": false
+      }
+    ],
+    "justificacion": "con la QT sugiere reacción a medicamentos como primera opción. Si bien el exantema de la mononucleosis puede ser exactamente igual, no tiene los demás síntomas de dicha enfermedad.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-HEM-0061",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "Linfoma_Hodgkin",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 122,
+    "enunciado": "Una niña de 3 años presenta, hace 4 días, un cuadro de diarrea y fiebre hasta 38ºC, a la que se agrega sangre en las deposiciones, 48 horas después. En su examen físico se ve decaída, pálida y en sus exámenes destaca hematocrito de 28%, leucocitos 9.800, plaquetas 75.000, BUN 28, creatinina mg/dl. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Leucemia aguda",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome hemolítico urémico",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Shock Séptico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Glomerulonefritis aguda",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Púrpura de Schölein Henoch Es un SHU clásico (niño, antecedente de diarrea, insuficiencia renal aguda grave, anemia",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hemolítica y trombocitopenia).",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-HEM-0062",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "nefro",
+      "pediatria",
+      "psiquiatria"
+    ],
+    "tema": "Trombocitopenia_PTI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 146,
+    "enunciado": "Un niño de edad escolar presenta aparición de petequias y equimosis en el dorso y en las extremidades, con epistaxis y gingivorragia, que comenzaron hace 4 días. Se solicita un hemograma, que demuestra hematocrito de 35%, con hemoglobina de g/dl, blancos: 9.000 por mm3, con fórmula diferencial normal y plaquetas: 18.000 por mm3. Además presenta INR: y protrombinemia de 80%. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Púrpura de Schönlein Henoch",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Púrpura trombocitopénico inmune",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Leucemia aguda",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Meningococcemia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hemofilia",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una PTI clásica, con el hemograma característico: trombocitopenia sola.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-HEM-0063",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "otorrino",
+      "pediatria",
+      "psiquiatria"
+    ],
+    "tema": "Anticoagulacion",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 154,
+    "enunciado": "Paciente femenina, de 17 años presenta astenia, decaimiento, dolores óseos y pérdida de peso, de 2 meses evolución. Al examen físico se constatan múltiples adenopatías cervicales y axilares, con bazo palpable 3 cm debajo del reborde costal. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Linfoma de Hodgkin",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Leucemia mieloide aguda",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Leucemia linfática aguda",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome mononucleósico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Leucemia linfática crónica La clínica es de leucemia aguda. En la práctica es imposible diferenciar una leucemia mieloide aguda de una linfática aguda solo por la clínica, pero las adenopatías y la edad",
+        "correcta": false
+      }
+    ],
+    "justificacion": "(joven) sugieren más una leucemia linfática aguda.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-HEM-0064",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "reuma"
+    ],
+    "tema": "Linfadenopatia",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 156,
+    "enunciado": "Un paciente de 64 años, con antecedente de haber sido tratado por un mieloma, con buena respuesta, consulta ahora por cuadro de astenia, con constipación y aumento del volumen urinario, a lo que luego se le agrega desorientación. Al examen físico se aprecia soporoso, pálido. En sus exámenes presenta hematocrito 27%, con Hb: 9 g/dl, VHS: 93 mm/h, proteínas plasmáticas: g/dl, albúmina: g/dl, sodio: 140 mEq/L, potasio: mEq/L, calcio: mg/dl. En este momento debe recibir:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Calcitonina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solución salina al %",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Vitamina D",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Bifosfonatos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Corticoides Tiene una hipercalcemia severa por el mieloma.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "julio de 2015. La primera medida y más importante es el suero fisiológico; sin embargo, actualmente se recomienda dar también calcitonina desde el inicio, dada su rápida acción. Luego se dan los bifosfonatos, para evitar que recurra (si están contraindicados, se puede usar el denosumab: anticuerpos contra osteoclastos). Los corticoides sirven en la hipercalcemia por cáncer hematológicos, pero no son lo más importante. Esta pregunta no estaba originalmente en el Eunacom de julio de 2016, pero me faltó una pregunta por recordar, así que la agregamos del Eunacom de",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-HEM-0065",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "medicina_interna",
+      "pediatria",
+      "psiquiatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": "2015",
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 37,
+    "enunciado": "Un paciente de 64 años consulta por dolores óseos. Se realiza un hemograma que muestra hematocrito: 24%, con hemoglobina: 8g/dl, VC;: 85 fi, plaquetas: 180.000 por mm3 y blancos: 5.800 por mm3, con VHS: 90 mm/h. En los otros exámenes, destaca hipogamaglobulinemia y en el análisis de proteínas séricas se objetiva elevación monoclonal de proteínas, en la zona Kappa. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Macroglobulinemia de Waldeström",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Gamapatía monoclonal incierta",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Mieloma múltiple",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Amiloidosis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Enfermedad por cadenas pesadas",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Era un mieloma múltiple, por cadenas ligeras (peak monoclonal Kappa).",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-HEM-0066",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "pediatria",
+      "psiquiatria",
+      "salud_publica"
+    ],
+    "tema": "Mieloma",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 68,
+    "enunciado": "Un recién nacido de 30 semanas de edad gestacional, presenta un síndrome de dificultad respiratoria grave, con cianosis, taquipnea y uso de musculatura accesoria. Su examen pulmonar demuestra algunos crépitos y requiere FiO2 de. ¿Qué examen es el más adecuado para confirmar el diagnóstico?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "TAC de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Radiografía de tórax",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Hemocultivos y cultivos de expectoración",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Ecocardiografía",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cateterismo cardíaco Se sospecha una enfermedad de membrana hialina, por la edad gestacional, la que se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "diagnostica con radiografía de tórax.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-HEM-0067",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "medicina_interna",
+      "neurologia",
+      "obstetricia"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 69,
+    "enunciado": "Un recién nacido de 3 días de vida, presenta múltiples lesiones amarillentas, pequeñas, apenas solevantadas en ambas alas nasales. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Corticoides tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Antimicóticos tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Vaselina líquida tópica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Mantener el aseo habitual",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Antibióticos tópicos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es un millium sebáceo, que es un hallazgo normal del recién nacido.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-HEM-0068",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "medicina_interna",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 82,
+    "enunciado": "Un paciente de 24 años es hospitalizado por un accidente automovilístico, con traumatismo torácico complejo y traumatismo encefalocraneano. Es manejado con soporte y reposición de fiuidos y se controlan exámenes, entre los que destaca hiponatremia, con sodio plasmático: 125 mEq/L, cloremia: 92 mEq/L, potasemia: mEq/L, creatininemia: mg/dl, osmolaridad urinaria: 650 mOsm/L, densidad urinaria: 1030 g/L. ¿Cuál es la causa más probable de la hiponatremia?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administración de fiuidos hipotónicos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Diabetes insípida",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administración de diuréticos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome de secreción inadecuada de hormona antidiurética",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Disminución de la ingesta de sal Es un SSIADH clásico: hiponatremia con orinas concentradas. En este caso, la causa",
+        "correcta": false
+      }
+    ],
+    "justificacion": "puede ser tanto el traumatismo pulmonar como el encefálico.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-HEM-0069",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica",
+      "urgencias"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 109,
+    "enunciado": "Una niña de 9 años sufre traumatismo de tobillo, por lo que se realiza una radiografía, que se muestra a continuación (la radiografía no es igual a la original, pero es la más parecida que encontré): ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fractura en tallo verde",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Disyunción-fractura",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Fractura cabalgada",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Fractura conminuta",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Esguince de tobillo La fractura cabalgada, es la que tiene desplazamiento, en el cual un extremo óseo se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "monta sobre el otro.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-HEM-0070",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "pediatria",
+      "salud_publica",
+      "urgencias"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 130,
+    "enunciado": "Una adolescente se intenta suicidar, ingiriendo 60 comprimidos de amitriptilina. ¿Cuál es el examen más adecuado para determinar su pronóstico?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Electrocardiograma",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Gama-glutamil-transferasa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Bilirrubinemia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Gases arteriales",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Creatinfosfoquinasa Los antidepresivos tricíclicos se complican con taquiarritmias ventriculares graves y el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ECG es lo más importante para el pronóstico y manejo.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-HEM-0071",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "reuma",
+      "cardio"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 144,
+    "enunciado": "Una paciente de 24 años, presenta metrorragia importante en el puerperio inmediato, dando salida a un fiujo importante de sangre roja. Se palpa el fondo del útero por sobre el ombligo. ¿Cuál es la medida inicial más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Metilergonovina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Misoprostol",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Masaje uterino",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Carbetocina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Oxitocina Tiene una inercia uterina o atonía uterina, por el útero sobre el ombligo. La medida inicial es el masaje uterino y luego rápidamente se inician los uterotónicos (todos los que están en las opciones), habitualmente iniciando por la oxitocina y luego la metilergonovina o",
+        "correcta": false
+      }
+    ],
+    "justificacion": "con carboprost (un tipo de prostaglandina). Además, se debe administrar ácido tranexámico. En la práctica, de manera simultánea se hace todo (suero, oxitocina, masaje y ácido tranexámico). La medidas más efectiva para la inercia uterina suelen ser los uterotónicos, pero preguntan la inicial y clásicamente se enseña que el masaje uterino es la primera medida, ya que sí ha demostrado utilidad y es muy rápida de realizar, más aún cuando se está objetivando que el útero está distendido.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-HEM-0072",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "obstetricia",
+      "psiquiatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 149,
+    "enunciado": "Una paciente de 23 años, está en trabajo de parto. Está con dilatación completa, buena dinámica uterina, membranas rotas y cabeza fetal 3 cm por sobre las espinas ciáticas. Desde hace 4 horas ha permanecido sin cambios. El monitoreo fetal es normal ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dejar evolución espontánea",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar tocolisis con nifedipino",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar cesárea",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar con extracción con fórceps",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar extracción con vaccum de la cabeza fetal Tiene una prueba de parto fracasada (2 horas sin avance, a pesar de buena dinámica y membranas rotas), por lo que se debe hacer una cesárea por desproporción",
+        "correcta": false
+      }
+    ],
+    "justificacion": "cefalopélvica.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-HEM-0073",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "obstetricia",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 157,
+    "enunciado": "Un lactante de 20 meses dice 4 a 5 palabras con sentido. Apunta con el dedo y no ha logrado aún marcha espontánea. Al examen físico tiene hipotonía, refiejos normales y debilidad muscular. Lo cuida su abuela, de 70 años, con movilidad reducida por artrosis de caderas. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Falta de estimulación",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Neuropatía",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Miopatía",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno generalizado del desarrollo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Parálisis cerebral Dado los antecedentes (cuidado por persona con movilidad reducida), parece falta de estimulación. Que los refiejos estén normales, apoya el diagnóstico y la debilidad e",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hipotonía se explican por la falta de ejercicio.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-HEM-0074",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 173,
+    "enunciado": "Una paciente de 39 años presenta otorrea izquierda de varios meses de evolución y que persiste por varios días después de bañarse en el mar. Tiene hipoacusia leve en ese oído. La otoscopía muestra abundante secreción amarillenta en el oído. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Otitis media aguda recurrente",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Otitis media con efusión",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Otitis media crónica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Otitis externa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fístula de líquido cefalorraquídeo Es una OMC clásica, a pesar de que no se describa el tímpano perforado, ya que la secreción impidió verlo. El tratamiento inicial suele ser con cirpofioxacino tópico (evitar",
+        "correcta": false
+      }
+    ],
+    "justificacion": "los aminoglicósidos si hay perforación timpánica, dado su ototoxicidad).",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-HEM-0075",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "otorrino",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 31,
+    "enunciado": "¿Cuál de las siguientes alteraciones es MENOS probable es un paciente con anemia hemolítica autoinmune?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Aumento de la lactato deshidrogenasa plasmática",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Prueba de Coombs directa positiva",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Aumento de la bilirrubina indirecta",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Presencia de esquistocitos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Disminución de los eritrobastos y otras formas inmaduras de glóbulos rojos, en la médula ósea",
+        "correcta": true
+      }
+    ],
+    "justificacion": "La anemia hemolítica se caracteriza por tener esquistocitos, fragmentocitos, elevar la bilirrubina indirecta y la LDH. Además, por ser regenerativa, aumentan las formas inmaduras de glóbulos rojos: reticulocitos e incluso policromatófilos o eritroblastos, en los casos más graves. La prueba de Coombs directa solo está positiva en las hemólisis de causa inmune y no en todas las anemias hemolíticas.",
+    "archivo_origen": "hemato_nefro_reuma.txt",
+    "id_unico": "GUEV-HEM-0076",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "neurologia",
+      "pediatria",
+      "psiquiatria"
+    ],
+    "tema": "Anemia_hemolitica",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_hemato_nefro_reuma",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 39,
+    "enunciado": "Un paciente presenta amaurosis derecha, que se instaló en el transcurso de algunas horas, asociado a escape pupilar, de un día de evolución, sin otros síntomas. El diagnóstico más probable es: 1 Es una neuritis óptica clásica (ver explicación de pregunta 16).",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hemorragia vítrea",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Neuritis óptica",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Oclusión de la arteria central de la retina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Desprendimiento de retina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trombosis de la vena central de la retina",
+        "correcta": false
+      }
+    ],
+    "justificacion": null,
+    "archivo_origen": "otorrino_oftalmo.txt",
+    "id_unico": "GUEV-HEM-0077",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "pediatria",
+      "uro"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_otorrino_oftalmo",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 11,
+    "enunciado": "¿Cuál de los siguientes parámetros es más adecuado para determinar la contagiosidad de una enfermedad?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Tasa de ataque",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Tasa de prevalencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tasa de virulencia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tasa de mortalidad",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tasa de letalidad",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una pregunta difícil, pero la tasa de ataque es una tasa de incidencia de corta duración, que evalúa la contagiosidad de las enfermedades infecciosas.",
+    "archivo_origen": "psiquiatria_y_salud_publica.txt",
+    "id_unico": "GUEV-HEM-0078",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_psiquiatria_y_salud_publica",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 31,
+    "enunciado": "Un paciente de 18 años sufre una fractura cerrada de fémur, la que se hospitaliza en espera de cirugía. Evoluciona a las pocas horas con dolor mucho más intenso, que aumenta especialmente al realizar estiramiento pasivo de la rodilla. Se aprecia edema importante de la extremidad. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Embolia grasa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trombosis venosa profunda",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Distrofia simpático refieja",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fasceítis necrotizante",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome compartimental",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Es un síndrome compartimental clásico: dolor intenso, que aumenta al estiramiento pasivo distal, más edema (puede tener disminución del pulso), que ocurre al poco tiempo de una fractura. La TVP habría empezado algunos días después y puede tener edema y dolor, pero que aumenta al palpar las masas musculares y al dorsifiectar el pie (signo de Homans). La fasceítis también duele mucho, pero tendría zonas violáceas o necróticas en la piel y fiebre u otro signo de infección. La embolia grasa tiene distrés respiratorio, petequias y compromiso de conciencia. La distrofia simpático-refieja puede tener edema y dolor, que aumenta al estiramiento distal, pero ocurre algunas semanas después y tiene dolor neuropático, asociado a cambios tróficos de la piel y huesos.",
+    "archivo_origen": "traumato_y_cirugia.txt",
+    "id_unico": "GUEV-HEM-0079",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "TVP",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_traumato_y_cirugia",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 37,
+    "enunciado": "Un paciente sufre un accidente en bicicleta, resultando con una fractura de pierna (diáfisis de la tibia y el peroné) izquierda. Se confirma con la radiografía y se decide resolver con cirugía, sin embargo, a la espera de pabellón, evoluciona con intenso dolor de la pierna. Al examen físico se aprecia edema de la pierna, equimosis y gran dolor al movimiento de los ortejos. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trombosis venosa profunda",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Embolia grasa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Distrofia simpático refieja",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Lesión de la arteria poplítea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome compartimental",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Es un síndrome compartimental clásico: dolor intenso y desproporcionado a las pocas horas de la fractura, que aumenta con la movilización distal. Además, suele tener edema y puede tener disminución de los pulsos. El diagnostico es clínico (aunque se puede objetivar con medición de la presión intracompartimental, mediante punción. El manejo es urgente y requiere de remoción de férulas, yesos, etc. más la inmediata descompresión quirúrgica mediante fasciotomía. - La distrofia simpático-refieja tiene dolor urente, con alodinia, asociado a cambios tróficos de piel, osteoporosis moteada y puede tener edema y eritema. Sí puede y suele tener dolor al movimiento distal. - La lesión arterial tiene palidez, pulso ausente, paresia, parestesia, frialdad y dolor, pero sin edema. - La trombosis venosa profunda tiene dolor y edema, pero suele aparecer algunos días después de la fractura y tiene dolor a la palpación de las masas musculares. - La embolia grasa tiene disnea (edema pulmonar no cardiogénico), petequias y compromiso de conciencia, que puede evolucionar a coma.",
+    "archivo_origen": "traumato_y_cirugia.txt",
+    "id_unico": "GUEV-HEM-0080",
+    "especialidad_principal": "hemato",
+    "subespecialidades": [
+      "urgencias",
+      "reuma",
+      "pediatria",
+      "salud_publica"
+    ],
+    "tema": "TVP",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_traumato_y_cirugia",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  }
+]

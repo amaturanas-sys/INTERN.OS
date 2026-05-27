@@ -1,0 +1,4059 @@
+[
+  {
+    "numero": 8,
+    "enunciado": "Un paciente de 17 años presenta una caída de 1 metro de altura, con apoyo de la extremidad derecha, en extensión, contra el suelo. Presenta dolor en el antebrazo y el codo, que limita de manera importante los movimientos de pronosupinación. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fractura de la cúpula radial",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Fractura de escafoides",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Luxación de codo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fractura supracondílea de húmero",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fractura de apófisis coroides La imposibilidad de pronosupinar es lo característico de la fractura de cúpula radial,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "aunque también se ve en la luxofractura de Monteggia.",
+    "archivo_origen": "prueba_final_modulo_2.txt",
+    "id_unico": "GUEV-MED-0001",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "salud_publica",
+      "trauma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 30,
+    "enunciado": "Se realiza un estudio en el que se les solicita TSH y PKU a 10.000 recién nacidos, determinando el número de pacientes con hipotiroidismo congénito y con fenilcetonuria. ¿A qué tipo de estudio corresponde?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Casos y controles",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cohortes",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Ecológico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trasversal",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Ensayo de campo No hay seguimiento a futuro (no es cohorte) ni se pregunta nada del pasado (no es caso control). Solo se mide la prevalencia de dichas alteraciones, por lo que es un",
+        "correcta": false
+      }
+    ],
+    "justificacion": "estudio de prevalencia o transversal.",
+    "archivo_origen": "prueba_final_modulo_2.txt",
+    "id_unico": "GUEV-MED-0002",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "hemato",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "Hipotiroidismo_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 53,
+    "enunciado": "¿Qué institución es la encargada de administrar los dineros de la Salud Pública?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Instituto de Salud Pública",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Superintendencia de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Seremi de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fondo Nacional de Salud",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Central Nacional de Abastecimiento Fonasa es el principal ente que administra los dineros de la salud pública. Sin",
+        "correcta": false
+      }
+    ],
+    "justificacion": "embargo, en estricto rigor, cada institución tiene algún presupuesto que administrar.",
+    "archivo_origen": "prueba_final_modulo_2.txt",
+    "id_unico": "GUEV-MED-0003",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "hospital",
+    "origen": "guevara_novedades_prueba_final_modulo_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Una paciente de 38 años se realiza un PAP, que es informado como \"displasias celulares escamosas de bajo grado\". Se solicita una colposcopía, que visualiza una lesión acetoblanca, la que se biopsia, demostrando presencia de \"Neoplasia Intraepitelial grado I\". ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar exámenes de detección y tipificación de virus papiloma humano",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar estrógenos locales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar cono frío",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar cono con asa LEEP",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tratar con crioterapia Las NIE 1 se tratan con crioterapia o bien se observan (actualmente se prefiere",
+        "correcta": true
+      }
+    ],
+    "justificacion": "observar en la mayoría de los casos). Las terapias excisionales como el cono caliente (LEEP), el cono frío o el cono láser son de elección en las NIE 2, NIE 3 y carcinoma in situ. También se prefieren las terapias excisionales en los casos en que la NIE 1 se asocia a un PAP previo de alto grado, aunque es algo discutible. El cono frío se suele usar, además, en la disociación colpocitológica. Sí es aceptable tipificar el papiloma humano (en busca de VPH de alto riesgo) en las NIE 1, por lo que podría ser una respuesta, pero si hay que elegir entre ambas, recomiendo marcar crioterapia sin duda, ya que en países en desarrollo (como Chile), se recomienda no gastar tanto dinero en la tipificación. Recordar que también es aceptable observar evolución y, es más, guías internacionales recomiendan observar por sobre la crioterapia, aceptando, eso sí, que ambas son opciones aceptables, así que dependerá de las alternativas que aparezcan en la prueba.",
+    "archivo_origen": "prueba_final_modulo_3_-_1.txt",
+    "id_unico": "GUEV-MED-0004",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "reuma",
+      "gineco",
+      "pediatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un niño de 6 años tiene muy malas notas en el colegio y su profesora dice que es inquieto y difícil de controlar. Al examen físico se mueve mucho y habla mucho, acerca de distintas cosas. Coopera con el examen y no tiene otras alteraciones. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno generalizado del desarrollo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno por déficit atencional",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Depresión infantil",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de conducta",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno por ansiedad de separación",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una clínica clásica de un trastorno por déficit atencional de tipo hiperactivo. La ansiedad de separación presenta angustia y llanto al dejarlo en el colegio y habitualmente la madre siente la misma angustia. El trastorno generalizado del desarrollo (TGD) es lo mismo que los trastornos del espectro autista (TEA), pero hoy se prefiere más el término TEA. El déficit atencional sí es un trastorno del desarrollo, pero no generalizado.",
+    "archivo_origen": "prueba_final_modulo_3_-_1.txt",
+    "id_unico": "GUEV-MED-0005",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "pediatria",
+      "psiquiatria",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 34,
+    "enunciado": "Un paciente de 14 años ha presentado múltiples bronquitis y dos neumonías neumocócicas en el último año. La madre refiere que desde hace algunos años se enferma con frecuencia y ha tenido sinusitis y otitis. ¿Cuál es el diagnóstico de sospecha?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Inmunodeficiencia combinada severa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Agamaglobulinemia ligada al sexo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Inmunodeficiencia común variable",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Déficit de complemento",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome de inmunodeficiencia adquirida Lo clásico es que la ID común variable inicie en el escolar o adolescente y tenga infecciones por capsulados (neumococo, Haemophilus y, rara vez, por meningococo).",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hipogamaglobulinemia (baja la IgG). El déficit de IgA también se puede ver así, con bronquitis y diarreas. La ID combinada severa habría presentado infecciones similares al VIH, desde el nacimiento. La agamaglobulinemia hubiese sido mucho más grave, con infecciones por capsulados, iniciando después de los 6 meses (antes tiene anticuerpos maternos). El VIH tendría otro tipo de infecciones y es rara en adolescentes sin relaciones sexuales. También en frecuente que se diagnostique en adultos jóvenes. Sus manifestaciones más frecuentes son las infecciones bacterianas sinusales y respiratorias recurrentes. Su causa es genética (se afecta la diferenciación de los linfocitos B) y su tratamiento es con inmunoglobulinas endovenosas. Sus alteraciones más importantes en los análisis sanguíneos es la",
+    "archivo_origen": "prueba_final_modulo_3_-_1.txt",
+    "id_unico": "GUEV-MED-0006",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "infecto",
+      "neurologia",
+      "otorrino"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 48,
+    "enunciado": "Una niña de 4 años presenta orinas turbias, por lo que se decide realizar sondeo vesical, para extraer una muestra de orina, que muestra eritrocitos: 2 por campo y leucocitos: 5 por campo. El urocultivo muestra desarrollo de Proteus sp. 1.000 UFC. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar nitrofurantoína",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar cefadroxilo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar ciprofioxacino",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar urocultivo por punción",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución Aunque hubo crecimiento bacteriano, está negativo el urocultivo (tiene menos de 10.000 UFC, que el corte de bacteriuria significativa en las muestras tomadas por",
+        "correcta": true
+      }
+    ],
+    "justificacion": "sondeo; se usa el corte de 50.000 en algunas guías). Por eso, la única opción aceptable es observar. La punción era una buena opción, en lugar del sondeo, pero no se debe hacer si ya se sondeó. El punto de corte en la punción es 1, aunque algunas guías ponen como punto de corte 1.000 UFC. En la orina de segundo chorro o recolector, se usa el punto de corte de 100.000 UFC. Finalmente, vale la pena mencionar que la presencia de 2 o más bacterias en rango significativo (urocultivo polimicrobiano) se considera siempre contaminación y obliga a repetir los exámenes. Una pregunta distinta y discutible es qué hacer si tiene síntomas de ITU y en la orina por segundo chorro hubiese crecido una bacteria, con 50.000 UFC: una opción sería observar (por estar menor a 100.000), pero la otra también aceptable, sería tomar la muestra por sonda (por tener más de 10.000 UFC).",
+    "archivo_origen": "prueba_final_modulo_3_-_1.txt",
+    "id_unico": "GUEV-MED-0007",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "pediatria",
+      "hemato",
+      "reuma"
+    ],
+    "tema": "ITU_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Usted evalúa a un niño de 21 días de vida, nacido a las 40 semanas de edad gestacional. Al examen físico se aprecia presencia del cordón umbilical e ictericia hasta los muslos. No tiene otras alteraciones y ha subido adecuadamente de peso. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ictericia fisiológica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Recién nacido normal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Atresia biliar primaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Estenosis hipertrófica del píloro",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hipotiroidismo neonatal Tiene una ictericia tardía o prolongada.",
+        "correcta": true
+      }
+    ],
+    "justificacion": "puede producir ictericia, pero, además, debe tener vómitos postprandiales. La demora en la caída del cordón umbilical (se cae entre el día 7 y 14) sugiere un hipotiroidismo. La atresia biliar es de predominio directo, por lo que suele tener coluria y acolia. La ictericia fisiológica suele aparecer el día 3 y desaparecer el día 7. La estenosis hipertrófica del píloro sí",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-MED-0008",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica",
+      "hemato"
+    ],
+    "tema": "Hipotiroidismo_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Una mujer de 19 años, cursando un embarazo de 34 semanas consulta por fiebre alta y malestar general, asociada a disuria intensa. Se solicitan exámenes de orina, que muestran abundantes bacterias y leucocitos urinarios. El urocultivo está pendiente. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar cefadroxilo oral y controlar ambulatoriamente",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar ciprofioxacino oral y controlar ambulatoriamente",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar nitrofurantoína oral y controlar ambulatoriamente",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar ceftriaxona endovenosa",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución, a la espera del urocultivo Tiene una pielonefritis aguda.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ceftriaxona por la facilidad con la que se administra una vez al día y su eficacia. - Si es alérgica, se usa la gentamicina. - El cefadroxilo oral (y si es alérgica, la nitrofurantoína) sirven en la ITU baja y en la bacteriuria asintomática. - El ciprofioxacino se debe evitar en el embarazo. - Si tiene dos o más infecciones (ITU baja, PNA o bacteriuria asintomática) se deja profilaxis antibiótica por el resto del embarazo. En el embarazo se debe tratar, de manera hospitalizada, con antibióticos endovenosos. Las recomendaciones son usar cefalosporinas ya sea de primera generación (cefazolina), o de tercera generación (ceftriaxona o cefotaximo). Las recomendaciones internacionales prefieren la",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-MED-0009",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "reuma",
+      "obstetricia",
+      "salud_publica"
+    ],
+    "tema": "ITU_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 57,
+    "enunciado": "¿Cuál es el diagnóstico nutricional de un niño de 1 año con índice peso/talla de +1?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Eutrófico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Sobrepeso",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Obesidad",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Desnutrición",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "No es posible determinar el diagnóstico nutricional con esa información Desde el año de edad, se usa el índice peso talla (IPT), también llamado índice peso",
+        "correcta": false
+      }
+    ],
+    "justificacion": "longitud (IPL). Un valor de +1 corresponde a sobrepeso. Desde +2 es obesidad. Desde -1, hacia abajo es riesgo de desnutrición. Desde -2, hacia abajo es desnutrición. El niño eutrófico es el que está entre -1 y +1 (sin contarlos), lo que habitualmente se registra como 0.",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-MED-0010",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "pediatria",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 2,
+    "enunciado": "¿Cuál de los siguientes antibióticos es más adecuados para el tratamiento de una infección urinaria febril, en un paciente de 1 año de edad, que se encuentra en buenas condiciones generales?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cefadroxilo",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Ciprofioxacino",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Nitrofurantoína",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Gentamicina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Ampicilina + gentamicina endovenosas El tratamiento de la pielonefritis, en niños, se puede hacer con antibióticos orales (solo si está muy grave o si tiene menos de 3 meses, se debe hospitalizar).",
+        "correcta": false
+      }
+    ],
+    "justificacion": "transitoria). La nitrofurantoína no sirve para la ITU alta, sino solo para la baja.. El cefadroxilo y las cefalosporinas (de primera, segunda o tercera generación), en general, son el tratamiento de elección. El ciprofioxacino no se debe usar en niños (excepto en algunos casos de disentería), ya que hay dudas respecto a su seguridad (estudios modernos confirman afectación músculo esquelética, pero infrecuente y",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-MED-0011",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "reuma",
+      "pediatria"
+    ],
+    "tema": "ITU_MI",
+    "dificultad_estimada": "basica",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 38,
+    "enunciado": "Un niño de 2 años ha presentado múltiples infecciones respiratorias desde el nacimiento, muchas de las cuales han necesitado de tratamiento antibiótico. Además, presenta mal incremento ponderal, asociado a diarrea esteatorreica. Su radiografía de tórax muestra zonas de fibrosis y retracción e imágenes sugerentes de bronquiectasias. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Déficit de IgA",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Déficit de IgG",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Sida",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Enfermedad celíaca",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fibrosis quística La fibrosis quística se caracteriza por infecciones recurrentes, en específico neumonías por S. aureus y P. aureginosa, más un síndrome de malabsorción",
+        "correcta": true
+      }
+    ],
+    "justificacion": "(diarrea, esteatorrea, mal incremento ponderal), por alteración pancreática. - El déficit de IgA también tiene diarrea y neumonías, pero no esteatorrea. - El déficit de IgG generalmente no tiene diarrea, sino infecciones por neumococo, haemophilus y meningococo (otitis media, sinusitis, neumonías y meningitis), a partir de los 6 meses de edad. - La enfermedad celíaca no tiene alteraciones pulmonares, sino solo la malabsorción.",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-MED-0012",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "pediatria",
+      "neurologia",
+      "otorrino"
+    ],
+    "tema": "Sd_diarreico_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 41,
+    "enunciado": "Una mujer presenta abundante metrorragia, inmediatamente después del parto, sin dolor. Es posible palpar el fondo uterino entre el ombligo y el pubis. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hematoma vaginal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Restos ovulares",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Rotura uterina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Inercia uterina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Laceración del canal del parto Tiene una metrorragia puerperal precoz (menor a 24 horas; en este caso, inmediatamente postparto). Por tener el útero retraído (bajo el ombligo), lo más",
+        "correcta": true
+      }
+    ],
+    "justificacion": "probable es que se a una laceración del canal del parto. - Si el útero hubiese estado distendido (sobre el ombligo), sería una atonía o inercia uterina. - El hematoma vaginal produce hipotensión arterial, con escasa metrorragia y, al pasar el efecto de la anestesia, produce gran dolor vaginal. - Los restos ovulares son una causa aceptable, pero son la causa más frecuente, después de las primeras 24 horas. - La rotura uterina se presenta antes del nacimiento con metrorragia, sufrimiento fetal, contracciones dolorosas, que desaparecen y feto más fácil de palpar.",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-MED-0013",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "obstetricia",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una paciente de 68 años consulta por temblor de ambas manos, mayor al lado derecho, que se intensifica especialmente al tomar un objeto, como una taza o un lápiz. Sus movimientos y refiejos, así como la coordinación motora son normales. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar agonistas dopaminérgicos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar antagonistas dopaminérgicos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar betabloqueantes",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar betagonistas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar resonancia magnética nuclear de cerebro Tiene un temblor esencial clásico (aumenta al tomar un objeto o adoptar una",
+        "correcta": false
+      }
+    ],
+    "justificacion": "postura). Se trata con betabloqueantes (propanolol) y, si están contraindicados (ej. EPOC o asma), se trata con primidona. El diagnóstico es clínico y no requiere de ningún examen ni imagen, sino solo de un completo y adecuado examen neurológico.",
+    "archivo_origen": "repaso_modulo_1_prueba_70_preg_n2.txt",
+    "id_unico": "GUEV-MED-0014",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "reuma",
+      "pediatria",
+      "salud_publica"
+    ],
+    "tema": "EPOC",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_repaso_modulo_1_prueba_70_preg_n2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 29,
+    "enunciado": "Un paciente de 68 años se realiza una glicemia de ayuno como parte de un chequeo médico, que resulta 140 mg/dl, por lo que se repite a la semana siguiente y resulta 150 mg/dl. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar insulina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar test de tolerancia a la glucosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar dieta, ejercicio y metformina",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar insulinemia Tiene dos glicemias de ayuno mayores o iguales a 126, por lo que tiene diabetes",
+        "correcta": false
+      }
+    ],
+    "justificacion": "mellitus. Además, por la edad (adulto), se asume que es tipo 2. Se trata con dieta ejercicio y metformina como primera línea. No tiene ninguna indicación de insulina en este caso.",
+    "archivo_origen": "repaso_modulo_1_prueba_70_preg_n2.txt",
+    "id_unico": "GUEV-MED-0015",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_repaso_modulo_1_prueba_70_preg_n2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 37,
+    "enunciado": "Un paciente EPOC crónico, en tratamiento con broncodilatadores, consulta por la opción de uso de oxígeno domiciliario. Lo más correcto es indicarle que:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Está indicado en todos los pacientes con EPOC",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Está indicado solo en aquellos pacientes que continúan fumando",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Está indicado solo en pacientes con insuficiencia respiratoria crónica grave, o con comorbilidades específicas",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Está indicado solo en pacientes con síntomas a pesar del uso de corticoides y broncodilatadores",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Está indicado solo en pacientes con disnea de reposo El oxígeno domiciliario aumenta la sobrevida en los pacientes EPOC con PaO2",
+        "correcta": false
+      }
+    ],
+    "justificacion": "menor a 55 o menor a 60, con hipertensión pulmonar, poliglobulia o cor pulmonale. Hay alguna evidencia incipiente de que podría ser útil en durante la actividad física.",
+    "archivo_origen": "repaso_modulo_1_prueba_70_preg_n2.txt",
+    "id_unico": "GUEV-MED-0016",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "EPOC",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_repaso_modulo_1_prueba_70_preg_n2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 56,
+    "enunciado": "Un paciente, diagnosticado, de IRC, secundaria a diabetes mellitus, está en hemodiálisis hace 2 años. Presenta anemia con hematocrito de 28%, con hemoglobina de g/dl y astenia. Actualmente no recibe tratamiento para la anemia. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar perfil de fierro y decidir manejo, según resultado",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar eritropoyetina subcutánea",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar sulfato ferroso oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar transfusión de glóbulos rojos Tiene una IRC, con anemia menor a 10 g/dl de hemoglobina.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "100 con saturación de transferrina mayor a 20%. El hierro oral se puede indicar solo si tiene una ferropenia leve, con anemia leve y que no requiera diálisis. De lo contrario, debe ser endovenoso. Se debe pedir un perfil de hierro, ya que, si el hierro está normal, se tratará con eritropoyetina, para lograr una hemoglobina entre 10 y 11 g/dl. Si está bajo, en cambio, se tratará con hierro endovenoso, hasta lograr que la ferritina esté mayor a 400-500 o, al menos, mayor a",
+    "archivo_origen": "repaso_modulo_1_prueba_70_preg_n2.txt",
+    "id_unico": "GUEV-MED-0017",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "dermato",
+      "psiquiatria",
+      "reuma"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_repaso_modulo_1_prueba_70_preg_n2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente presenta fiebre alta, asociada a parición de una lesión de gran tamaño en el muslo derecho, muy dolorosa y con zona violáceas y negruzcas, como se aprecia en la fotografía. 1 La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar penicilina + clindamicina endovenosas y realizar debridación quirúrgica de inmediato",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar resonancia magnética nuclear y decidir conducta según hallazgo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar ecografía y decidir conducta según hallazgo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar penicilina + cloxacilina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar antibióticos de amplio espectro por vía endovenosa, asociado a corticoides sistémicos en altas dosis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una fasceítis necrotizantes o fascitis necrosante clásica. Se trata con debridación quirúrgica urgente, más antibióticos endovenosos, habitualmente penicilina G más clindamicina, ya que es causada por Streptococcus pyogenes.",
+    "archivo_origen": "dermato_uro.txt",
+    "id_unico": "GUEV-MED-0018",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "psiquiatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_dermato_uro",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Una paciente de 92 años, con antecedente de enfermedad de Alzheimer por lo que está institucionalizada, presenta un cuadro de astenia, debilidad, baja de peso de 6 kilos en los últimos dos meses, asociado a hematoquezia intermitente en algunas oportunidades, que los familiares atribuyen a hemorroides externos. Al examen físico presenta un abdomen blando, depresible, con ruidos hidroaéreos presentes. Su piel se aprecia algo pálida y sus signos vitales son normales. ¿Con que examen debe iniciarse el estudio en esta paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ecografía abdominal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "TAC de abdomen y pelvis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Resonancia magnética de abdomen y pelvis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Colonoscopía corta",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Colonoscopía completa Tanto por la edad, como por la baja de peso, la palidez (anemia) y la hematoquecia, se",
+        "correcta": true
+      }
+    ],
+    "justificacion": "sospecha un cáncer de colon, que se estudia con colonoscopía completa.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0019",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "neurologia",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Sd_constitucional",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un paciente presenta disfonía y disartria, como secuela, luego de haber sufrido un traumatismo encefalocraneano. Evoluciona posteriormente con múltiples neumonías aspirativas. ¿Cuál es la causa más probable de estas neumonías?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Refiujo gastroesofágico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Estenosis subglótica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Divertículo esofágico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de la deglución",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Parálisis frénica Es un trastorno de la deglución clásico, en este caso como secuela de un TEC severo. Se debe pedir una videodeglución y mantenerse en régimen cero por ahora, alimentándolo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "por SNG o gastrostomía, según el tiempo de evolución.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0020",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica",
+      "urgencias"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un paciente de 68 años, con antecedente de diabetes mellitus tipo 2, consulta por disminución progresiva de la agudeza visual del ojo derecho. En su evaluación, tiene agudeza visual 20/20 en el ojo izquierdo y 10/20 en el ojo derecho. Su rojo pupilar demuestra una opacidad con forma de estrella, en la zona central. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Desprendimiento de retina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Edema macular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Catarata",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Glaucoma",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Retinopatía diabética proliferativa Es una catarata inicial. La opacidad en forma de estrella es la catarata misma, que se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "está formando.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0021",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "hemato",
+      "oftalmo",
+      "reuma"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 22,
+    "enunciado": "¿Cuál de las siguientes sustancias es una causa frecuente de asma pulmonar por exposición laboral?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Asbesto",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Sílice",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Harina",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Algodón",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Carbón Asbesto, sílice y carbón producen neumoconiosis. La inhalación de harina, produce asma",
+        "correcta": false
+      }
+    ],
+    "justificacion": "y es la causa más frecuente de asma laboral.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0022",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Asma_MI",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 35,
+    "enunciado": "Un paciente de 60 años, con antecedentes de hipertensión arterial, dislipidemia, diabetes mellitus tipo 2 y tabaquismo de 50 paquetes año, consulta por dolor precordial opresivo y durante la anamnesis presenta compromiso de conciencia, sin respuesta. Al examen no respira y es imposible palpar el pulso carotídeo. Además de solicitar ayuda, la conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar compresiones toráxicas",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar intubación orotraqueal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Dar golpe toráxico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar adrenalina intracardiaca",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar angioplastía de urgencia Es un paro, por lo que se debe iniciar RCP. Sin embargo, por ser un paro presenciado, si hubiese estado ya monitorizado y se objetivara un ritmo desfibrilable, estaría indicado",
+        "correcta": false
+      }
+    ],
+    "justificacion": "desfibrilar, aunque no estaba en las opciones. En cualquier otro escenario, no se debe retrasar las compresiones.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0023",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "cardio",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 44,
+    "enunciado": "Un paciente de 40 años consulta por hiperqueratosis y cambio de coloración de las uñas de los ortejos, de algunos meses de evolución. Se realiza estudio micológico, que muestra presencia de Trichophitum rubrum. ¿Cuál es el tratamiento más adecuado?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Itraconazol",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Griseofulvina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Fluconazol",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Terbinafina",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Clotrimazol",
+        "correcta": false
+      }
+    ],
+    "justificacion": "La terbinafina oral es el tratamiento de elección de la onicomicosis.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0024",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 52,
+    "enunciado": "Un paciente con antecedente de EPOC, fumador de 25 paquetes año, consulta por cuadro de tres días de evolución de exacerbación de su disnea basal y expectoración mucosa, asociado a sensación febril y hace un día se agrega dolor tipo puntada de costado. Al examen se aprecia frecuencia respiratoria de 21 por minuto, frecuencia cardiaca de 92 por minuto, temperatura de °C. Al examen pulmonar presenta crepitaciones de la cara lateral del hemitórax derecho, asociado a matidez a la percusión. Se solicita una radiografía que se muestra a continuación: El diagnóstico más probable:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Tuberculosis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Derrame pleural",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Neumonía",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Tromboembolismo pulmonar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cáncer bronquial",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tanto la clínica, como la radiografía apuntaban a NAC.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0025",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "EPOC",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 65,
+    "enunciado": "Un paciente de 77 años, con antecedente de diabetes mellitus tipo 2 e hipertensión arterial, consulta por dolor abdominal de tipo inespecífico, de 2 meses de evolución, sin otros síntomas. En su examen físico se palpa un tumor abdominal de 4 a 5 cm de diámetro, en la zona umbilical, pulsátil, sin signos peritoneales. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trombosis mesentérica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tumor de colon",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tumor de páncreas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Disección aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Aneurisma aórtico abdominal Un tumor pulsátil en esa zona, hace pensar en un AAA. No tiene dolor por lo que no está",
+        "correcta": true
+      }
+    ],
+    "justificacion": "roto y no puede ser una disección.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0026",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "cardio",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 76,
+    "enunciado": "Paciente de 45 años, fumadora activa de 40 paquetes año, consulta por tos irritativa asociada a disnea y crisis de sibilancias que aparecen en relación a la actividad física e infecciones respiratorias. Se realiza una espirometría que muestra: Basal: VEF1/CVF: 62% VEF1: 2,4L (62% del valor teórico) CVF: 4,9L (92% del valor teórico) Post-Salbutamol VEF1/CVF: 74% VEF1: 3,6L (89% del valor teórico) CVF: 5,0L (95% del valor teórico) El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Asma",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "EPOC",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Fibrosis pulmonar",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Bronquiectasias",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Bronquitis crónica Es un patrón obstructivo, que mejora con broncodilatador (varía al menos 15%), es decir,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "un asma.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0027",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "Asma_MI",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 79,
+    "enunciado": "Un niño de 2 años y 8 meses realiza rabietas con frecuencia, se tira al suelo y grita cuando no se hace lo que él quiere, lo que ha pasado frente a sus padres y las profesoras del jardín infantil. Dice 300 palabras y su desarrollo motor es acorde a su edad. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno oposicionista desafiante",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de conducta",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno por déficit atencional",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno generalizado del desarrollo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Oposicionismo normal para su desarrollo Por la edad y la intensidad de las rabietas, parece un niño normal (“los terribles 2”). El TOD es un niño muy insolente, que hace rabietas muy intensas y hace lo contrario de lo",
+        "correcta": true
+      }
+    ],
+    "justificacion": "que se le dice, en una actitud muy irrespetuosa y desafiante.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0028",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "pediatria",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 92,
+    "enunciado": "Un paciente de 62 años, con antecedentes de diabetes mellitus tipo dos y de daño hepático crónico secundario a una esteatohepatitis no alcohólica, ha presentado hospitalizaciones por cuadros de hemorragia digestiva alta en el último año, actualmente controlado. Se realizan exámenes de control en que se demuestra fosfatasas alcalinas de 565 UI/L, GOT: 186 UI/L GPT: 172 UI7L, bilirrubina total mg/dL, alfafetoproteina: 119 ng/mL. ¿Cuál es el examen más adecuado para proseguir el estudio de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Endoscopía digestiva alta",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ecografía abdominal",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "TAC abdominal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Gammaglutamil transferasa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Colangioresonancia La sospecha es un cáncer hepático, dada la alfafetoproteína de 119. Se inicia el estudio",
+        "correcta": false
+      }
+    ],
+    "justificacion": "con una Ecografía.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0029",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "salud_publica",
+      "psiquiatria"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 105,
+    "enunciado": "Un paciente de 59 años, con diagnóstico de diabetes mellitus tipo 2, en tratamiento con metformina 850 mg dos veces al día y glibenclamida 5 mg cada 12 horas, se realiza exámenes de control entre los que destaca una creatinina de mg/dL y una hemoglobina glicosilada de %. Su examen físico no muestra alteraciones. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Suspender la glibenclamida",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Aumentar dosis de glibenclamida",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Suspender metformina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Aumentar dosis de metformina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Mantener el tratamiento sin cambios Si la hemoglobina glicosilada está bajo 7%, no es necesario hacer cambios en el",
+        "correcta": true
+      }
+    ],
+    "justificacion": "tratamiento hipoglicemiante, aunque no sea el óptimo.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0030",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "hemato",
+      "nefro"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 149,
+    "enunciado": "Un paciente de 60 años, con antecedente de diabetes mellitus 2 insulinodependiente, en tratamiento con insulina NPH 30U en la mañana y 20 U en la noche. Presenta un cuadro de malestar, sudoración y palpitaciones intensas a las 3 de la madrugada, constatándose un hemoglucotest de 50mg/dL. Su examen físico no muestra alteraciones. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Disminuir la insulina NPH matinal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Suspender la insulina NPH matinal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Disminuir la insulina NPH nocturna",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Suspender la insulina NPH nocturna",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Disminuir ambas dosis de insulina NPH Está con hipoglicemias por insulina. La NPH nocturna es la que determina las glicemias",
+        "correcta": false
+      }
+    ],
+    "justificacion": "a las 3 a.m., por lo que se debe disminuir esa.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0031",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 151,
+    "enunciado": "Paciente de 58 años, con antecedente de diabetes mellitus, hipertensión y fumador de 40 paquetes año, consulta por un cuadro de tres semanas de evolución de dolor epigástrico opresivo, asociado a disnea y palpitaciones regulares, que lo obligan a detenerse cada 100 metros de caminata y ceden con el reposo. En el examen físico, su presión arterial es 140/90 mmHg, frecuencia cardiaca de 80 latidos por minuto regular. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Angina crónica de reciente comienzo",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Fibrilación auricular paroxística",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Isquemia cardiaca con arritmia supraventricular",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tromboembolismo pulmonar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cardiopatía hipertensiva",
+        "correcta": false
+      }
+    ],
+    "justificacion": "La única opción aceptable era la angina de reciente comienzo.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0032",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "cardio",
+      "salud_publica"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 157,
+    "enunciado": "Una paciente de 65 años consulta por un cuadro de 3 meses de evolución de astenia y debilidad de las cuatro extremidades, asociada mialgias. Al examen físico presenta dolor a la palpación de los músculos trapecios y supraespinosos y de la región trocantérica. En sus exámenes destaca CK: 125 UI/L, y hemograma con VHS: 65 mmHg. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fibromialgia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Artritis reumatoide",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Polimiositis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Polimialgia reumática",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Vasculitis Si bien parecía a simple vista una fibromialgia, la edad, la VHS alta y las levemente CK elevadas (VN: hasta 110) hacen sospechar una polimialgia reumática.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "tiene más debilidad. Eso sí, suele no tener debilidad en el examen físico, aunque sí se puede referir como síntoma (se cansan los hombros, brazos y muslos). Por otro lado, la polimiositis también puede elevar algo la VHS, aunque suele elevar bastante las CK (sobre 200 y habitualmente sobre 500) y sí",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0033",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Sd_constitucional",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 161,
+    "enunciado": "¿Qué institución da la autorización sanitaria para el funcionamiento de laboratorio y clínicas?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Superintendencia de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Secretaría Regional Ministerial de Salud",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Corporaciones Municipales de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dirección del Servicio de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Superintendencia de Seguridad Social La Seremi de Salud es la autoridad sanitaria y por tanto quien da las autorizacions",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sanitarias.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0034",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 167,
+    "enunciado": "¿A qué tipo de medida corresponde la vacunación contra una enfermedad, en la historia natural de una enfermedad?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Promoción de salud",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Protección específica",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Erradicación de la enfermedad",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Diagnóstico oportuno",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tratamiento precoz",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una medida clásica de prevención primaria, de tipo prevención específica.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0035",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "pediatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 175,
+    "enunciado": "Un paciente de 65 años consulta por dolor escrotal derecho de 3 días de evolución. Al examen físico presenta dolor y eritema en la zona escrotal derecha y se palpa aumento de volumen y dolor, del testículo y del epidídimo. Refiere tener pareja sexual monogámica. ¿Cuál es el agente etiológico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Streptococcus pyogenes",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Staphilococcus aureus",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Chlamydia trachomatis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Neisseria gonorreae",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Escherichia coli La clásica causa de orquiepididimitis es la infección por clamidia y luego gonorrea.",
+        "correcta": true
+      }
+    ],
+    "justificacion": "no es recomendable desconfiar de los pacientes ni de los enunciados. Sin embargo, la E. Coli es la causa más frecuente cuando no hay infección de transmisión sexual y es especialmente frecuente en adultos mayores. En este caso, si le creíamos que tenía pareja única, la respuesta probablemente era E. Coli. Además, en el Eunacom",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-MED-0036",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente de 80 años presenta un cuadro de dificultad respiratoria, asociada a fiebre y tos con expectoración mucopurulenta. Al examen físico se ve desorientado, con taquipnea de 40 rpm y cianosis. Su saturación 1 arterial de oxígeno es de 66%, que mejora a 75% al dar oxígeno al 40%. Su frecuencia cardíaca es 110 x’, y su presión arterial es de 90/50 mmHg, además de tener una temperatura de 40°C. Se solicita una radiografía de tórax que demuestra una imagen sugerente de neumonía bilateral, que afecta los lóbulos inferiores de ambos pulmones y el lóbulo medio. Su hemograma muestra leucocitosis de predominio neutrofílico. ¿Qué tratamiento antibiótico es el más adecuado para este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ceftriaxona más levofioxacino",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Vancomicina más clindamicina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Ceftriaxona",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Azitromicina más cloxacilina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Amoxicilina más ácido clavulánico",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Requiere de hospitalización en UCI, porque necesita conectarse a Ventilación mecánica, dado que tiene una insuficiencia respiratoria severa. Por regla general, las neumonías en la UCI se tratan con ceftriaxona más azitromicina o levofioxacino y, en algunos contextos epidemiológicos, se usan otros antibióticos, con cobertura de agentes resistentes (Ej. SAMR, Pseudomona aureginosa).",
+    "archivo_origen": "endocrino_infecto.txt",
+    "id_unico": "GUEV-MED-0037",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "obstetricia",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_endocrino_infecto",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Una paciente adulta mayor, presenta simultáneamente una neumonía y una infección urinaria baja. Usted decide dejar tratamiento ambulatorio para ambas. De entre los medicamentos mencionados a continuación, 1 ¿cuál es el más adecuado?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Levofioxacino",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Clindamicina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Ciprofioxacino",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Azitromicina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Amoxicilina El levofioxacino cubre bien las ITU (es una quinolona) y además cubre a las neumonía (neumococo,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "haemophilus y atípicos), por lo que junto con el moxifioxacino se conocen como las “quinolonas respiratorias”, aunque el moxifioxacino no suele usarse en el tratamiento de las ITU, siendo suficiente el espectro de acción del ciprofioxacino y levofioxacino. * Las cefalosporinas de segunda generación (cefuroximo) y de tercera generación (ceftriaxona y el cefotaximo) también cubren ambas. - La clindamicina no cubre ninguna. - La amoxicilina y la azitromicina no cubren ITU. - El ciprofioxacino no cubre neumonía.",
+    "archivo_origen": "endocrino_infecto.txt",
+    "id_unico": "GUEV-MED-0038",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "hemato",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "ITU_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_endocrino_infecto",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 27,
+    "enunciado": "Un paciente de 70 años, que vive solo, es encontrado inconsciente en su casa. Al examen físico presenta FC: 45 x’, PA: 110/70 mmHg, t°: °C, facies edematosa y sopor profundo. No presenta focalidad neurológica, 1 pero sus refiejos osteotendíneos están abolidos. En sus exámenes destaca anemia con hematocrito de 30%, plaquetas: 250.000, blancos: 5.000 por mm3, creatinina: mg/dl, sodio: 130 mEq/L, potasio: mEq/L y cloro: 98 mEq/L. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hipotiroidismo",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Insuficiencia suprarrenal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Síndrome de secreción inadecuada de ADH",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Enfermedad de Cushing",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Diabetes insípida",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene un coma mixedematoso, que es la manifestación más grave del hipotiroidismo. Apoyan el diagnóstico: bradicardia, hipotermia, arrefiexia, anemia (suele ser macrocítica), hiponatremia y edema (mixedema). Se trata con levotiroxina endovenosa (idealmente más triyodotironina), aunque, si no está disponible, se puede dar por sonda nasogástrica. Además, es fundamental administrar corticoides endovenosos, hasta descartar que exista una insuficiencia suprarrenal asociada. Resumen: T4 + T3 + hidrocortisona ev.",
+    "archivo_origen": "endocrino_infecto.txt",
+    "id_unico": "GUEV-MED-0039",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "nefro",
+      "neurologia",
+      "pediatria"
+    ],
+    "tema": "Anemia_MI",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_endocrino_infecto",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 34,
+    "enunciado": "Un paciente de 60 años asintomático se realiza exámenes de control, que muestran hemograma normal, perfil lipídico normal, TSH: UI/L y T4 ug/ml (VN: – ug/ml). Su examen físico es normal. La conducta 1 más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar anticuerpos TRAB",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Observar evolución",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar cintigrafía tiroidea",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar levotiroxina oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar ecografía cervical",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene un hipotiroidismo subclínico (TSH alta, con T4 normal). Como no tiene dislipidemia, ni otras alteraciones, no es necesario tratarlo y basto con observar evolución. Si la TSH hubiese estado mayor a 10 o hubiese comorbilidad (depresión, dislipidemia, demencia), sí estaría indicada la levotiroxina. También en el embarazo, ya que existe temor ante una eventual riesgo teórico de afectación del desarrollo cerebral fetal (discutible).",
+    "archivo_origen": "endocrino_infecto.txt",
+    "id_unico": "GUEV-MED-0040",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "neurologia",
+      "obstetricia",
+      "psiquiatria"
+    ],
+    "tema": "Dislipidemia",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_endocrino_infecto",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 36,
+    "enunciado": "Un paciente de 14 años consulta por tos de 13 días de evolución, asociada disnea que inició hace cerca de 4 días y que ha ido en aumento. Al examen físico se constatan algunas sibilancias y crepitaciones bilaterales, 1 por lo que se solicita una radiografía, que demuestra imágenes de infiltrado alveolointersticial bilateral, con predominancia en las bases. El agente etiológico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Streptococcus pneumoniae",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Bordetella pertusis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Aspergillus fumigatus",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Mycoplasma pneumoniae",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Micobacterium tuberculosis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una clínica clásica de neumonía atípica (generalmente causada por micoplasma y en segundo lugar Chlamyda penumoniae): cuadro arrastrado, similar a una infección viral, que evoluciona a una neumonía bilateral, con patrón alveolo-intersticial. Se trata con macrólidos (azitromicina, claritromicina o eritromicina), o bien con quinolonas respiratorias (levofioxacino o moxifioxacino).",
+    "archivo_origen": "endocrino_infecto.txt",
+    "id_unico": "GUEV-MED-0041",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_endocrino_infecto",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Una paciente de 60 años, es diagnosticada de cistoadenocarcinoma seroso de ovario, el cual presenta diseminación difusa en peritoneo, por lo cual no es operable. La conducta más adecuada en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cuidados paliativos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Radioterapia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hormonoterapia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Quimioterapia",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Inmunoterapia El cáncer de ovario diseminado se trata con quimioterapia, por ser quimiosensible.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "después. Sin embargo, lo importante a saber es que la etapificación del cáncer de ovario suele ser quirúrgica, por lo que en la práctica, el tratamiento es cirugía más quimioterapia. La cirugía incluye la anexectomía bilateral, con histerectomía y biopsias peritoneales, más citorreducción (resección de metástasis peritoneales). La quimioterapia se realiza",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-MED-0042",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente de 24 años, estudiante de derecho, debe rendir su examen oral final para obtener su título profesional, ha estudiado por varios meses y tiene buen dominio de los temas, pero a pesar de que se ha preparado, no ha querido presentar aún el examen, ya que según él “no puede hacerlo”. Refiere que le ha pasado lo mismo en situaciones similares donde le ha tocado exponer presentando gran nerviosismo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de pánico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de la personalidad evitativo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Ansiedad social",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de ansiedad generalizada",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Agorafobia Es una fobia social clásica: ansiedad en situaciones en que será sometido al juicio",
+        "correcta": false
+      }
+    ],
+    "justificacion": "público.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-MED-0043",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "psiquiatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente de 80 años en cuidados paliativos por cáncer de glotis, presenta desde hace un mes tos y regurgitación alimenticia, no ha presentado neumonías aspirativas ni otras complicaciones. ¿Cuál es la vía de administración de medicamentos más adecuada para este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Rectal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Sublingual",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Intramuscular",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Subcutánea Es una pregunta muy capciosa, ya que depende del medicamento que se vaya a administrar, pero en general, los cuidados paliativos reciben opiáceos por 1. vía oral",
+        "correcta": true
+      }
+    ],
+    "justificacion": "(codeína, tramadol o morfina) y si no se puede, se indican por 2. vía transdérmica (ej. fentanilo en parches) y, si tampoco se puede, por 3. vía subcutánea (ej. morfina subcutánea) e incluso endovenosa en bomba de infusión continua (requiere personal de enfermería), dado que la dosis es más constante que en la vía rectal y sublingual y es menos dolorosa que la intramuscular. Sigue siendo una mala pregunta, ya que no se especifica si está con opiáceos o no y si recibe algún otro tipo de medicación que requiera una vía distinta.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-MED-0044",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "Manejo_dolor_cronico",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 24,
+    "enunciado": "Paciente de 20 años, con antecedente de rinitis alérgica y usuaria de anticonceptivos orales, con historia de disnea y tos seca al realizar ejercicios, no asociado a otros síntomas. Actualmente asintomática y su examen físico es normal. El examen de elección para el diagnóstico de esta paciente es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Test de esfuerzo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Test de metacolina",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Prick test",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Espirometría",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "PEF Por ser un asma sin clínica actual, no servirá ni el PEF ni la espirometría (estarán normales), por lo que se prefiere el test de metacolina. Es una pregunta discutible, ya que",
+        "correcta": false
+      }
+    ],
+    "justificacion": "el diagnóstico de asma es clínico y los demás exámenes solo son de apoyo diagnóstico. Además, en la mayoría de los libros, guías y recomendaciones se prefiere hacer espirometría y solo solicitar las demás pruebas ante la duda diagnóstica. Sin embargo, el Eunacom ha preguntado esto varias veces y ante un examen totalmente normal y clínica muy leve, la espirometría resulta normal y no sirve. Además, el test de metacolina es una espirometría, pero en la cual se nebuliza con dosis crecientes de metacolina, para producir la broncoconstricción y medir la reactividad bronquial.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-MED-0045",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "reuma",
+      "gineco",
+      "hemato"
+    ],
+    "tema": "Asma_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 28,
+    "enunciado": "Un paciente de 51 años, con antecedentes de diabetes mellitus e hipertensión en tratamiento, es traído por presentar cuadro de hemiparesia faciobraquiocrural izquierda de inicio súbito desde hace 2 horas, asociado a dificultad para articular palabras. Al examen físico se corrobora dicha paresia asociada a disminución de refiejos en lado izquierdo. El examen de elección para el diagnóstico en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Punción lumbar",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Resonancia magnética",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "TAC de cerebro con contraste",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "TAC de cerebro sin contraste",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Angiografía de arteria cerebral media Tiene un ACV (accidente cerebro vascular) o AVE(accidente vascular encefálico).",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que el diagnóstico de AVE es clínico. Si bien la RMN es el mejor examen (da más información), el TAC sin contraste es el de elección, ya que es más rápido (la RMN demora 45 min o más y cada minuto es vital en el AVE). La TAC permite diferenciar el AVE isquémico del hemorrágico, que es lo que importa para determinar el manejo en este momento, ya que al llevar 2 horas, está en la ventana para trombólisis intravenosa con rTPA (hasta horas, aunque su efectividad mayor es durante las primeras 3 horas y aun mayor en los primeros minutos). Vale la pena recordar",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-MED-0046",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "neurologia",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 60,
+    "enunciado": "Una mujer de 35 años, con embarazo de 15 semanas, sin síntomas, en exámenes de control destaca VDRL negativo, hemoglobina de mg/dL y glicemia de ayuno 108mg/dL. Su examen físico es normal, con altura uterina sobre el pubis. La conducta más adecuada en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar test de tolerancia oral a la glucosa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar dieta y mantener control habitual",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar hemoglobina glicosilada",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar insulina subcutánea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar nueva glicemia de ayunas Tiene una glicemia mayor a 100. Si fuera menor a 100 se observa, si es mayor o igual, se repite. El TTGO se pide a las 24-28 semanas y luego a las 32-34 si hay macrosomía,",
+        "correcta": true
+      }
+    ],
+    "justificacion": "polihidramnios o antecedentes de diabetes gestacional, en otro embarazo. Por estar entre 100 y 125, lo más probable es que sea una diabetes mellitus gestacional. Desde 126, en cambio, lo más probable es que sea pregestacional.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-MED-0047",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "obstetricia",
+      "salud_publica",
+      "pediatria"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 68,
+    "enunciado": "Un paciente de 80 años, autovalente, inicia cuadro de compromiso del estado general, tos y expectoración mucopurulenta, se realiza radiografía de tórax en donde se comprueba diagnóstico de neumonía basal derecha por lo que se hospitaliza para el tratamiento. Durante la hospitalización en la noche el paciente se agita, se saca sonda Foley y vías venosas, durante la mañana está tranquilo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome confusional agudo",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Delirio",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Alzheimer",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Meningitis bacteriana",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Demencia frontotemporal Es un síndrome confusional agudo de libro. También se llama delirium. Si bien delirio es la traducción al español de la palabra en latín \"delirium\", en Chile se suele usar \"delirio\" para la pérdida de juicio de realidad de los pacientes psicóticos (delirio paranoide,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "megalomaniaco, erotomaniaco, etc.) y delirium para el síndrome confusional agudo.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-MED-0048",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "pediatria",
+      "psiquiatria",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 76,
+    "enunciado": "Un paciente de 46 años, con antecedente de diabetes mellitus tipo 2 en tratamiento con metformina, acude a control, refiere estar asintomático. Al examen físico se encuentra presión arterial de 138/83, sin otros hallazgos. Sus exámenes de control muestran hemoglobina glicosilada en %, índice proteinuria creatininuria de, creatinina mg/mL. La conducta más adecuada en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Aumentar dosis de metformina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar hidroclorotiazida",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar enalapril",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Suspender metformina e indicar insulina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Mantener tratamiento actual y reforzar medidas como dieta y ejercicio Tanto por la PA (mayor a 130/80, en contexto de diabetes y/o nefropatía), como por la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "proteinuria positiva (IP/C mayor a es proteinuria), se debe indicar IECAs.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-MED-0049",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "nefro",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 97,
+    "enunciado": "El programa nacional de inmunizaciones existe en nuestro país desde el año 1978 y está orientado a la prevención de enfermedades prevalentes y que son un problema de salud pública. Además de las vacunas obligatorias, existen otras que pueden ser utilizadas de forma voluntaria y pagadas de forma particular, en este contexto se encuentra la vacuna del rotavirus. Al respecto, ¿Qué ha demostrado esta vacuna?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Disminuir la letalidad de la infección por rotavirus",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Provee inmunidad hasta los 24 meses contra el rotavirus",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Disminuye la tasa de hospitalizaciones secundarias a infección por rotavirus",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Disminuye la tasa de contagiosidad de la infección por rotavirus",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Disminuye la sintomatología durante la infección por rotavirus Es lo más útil que ha demostrado la vacuna anti-rotavirus: disminuye las diarreas graves",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que requieren hospitalización. Pregunta difícil y poco relevante.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-MED-0050",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "pediatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 110,
+    "enunciado": "Un paciente de 40 años de edad, con antecedentes de diabetes mellitus tipo 2 e hipertensión, asintomático, acude a control con perfil lipídico que muestra colesterol total 208 mg/dl, LDL 127 mg/dl, HDL 35 mg/dl, triglicéridos 230 mg/dl. El fármaco de elección para el tratamiento en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ácido nicotínico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Gemfibrozilo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Ácidos grasos omega 3",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Colestiramina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Atorvastatina Por ser diabético, debe exigirse un LDL menor a 70. El LDL es la prioridad, si los TG están menores a 500, por lo que se debe iniciar la estatina (atorvastatina o lovastatina). Si los",
+        "correcta": true
+      }
+    ],
+    "justificacion": "TG hubiesen sido mayores a 500, ahí hubiese sido gemfibrozilo.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-MED-0051",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 141,
+    "enunciado": "Una paciente de 60 años, con antecedente de hipertensión arterial y diabetes mellitus ambas en tratamiento farmacológico, consulta por dolor en hombro derecho de varios meses de evolución, el cual aumenta de intensidad en la noche, asociado a impotencia funcional. Al examen físico sin dolor a la movilización pasiva y con dolor a la abducción y rotación externa de hombro derecho. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Tendinopatía bicipital",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Osteoartritis de hombro",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tendinopatía deltoidea",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tendinopatía del manguito rotador",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Disyunción acromioclavicular leve",
+        "correcta": false
+      }
+    ],
+    "justificacion": "El dolor mayor en la noche es característico de la patología del manguito rotador. Además, es la causa más frecuente de dolor en el hombro.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-MED-0052",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "cardio",
+      "salud_publica"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "avanzada",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 153,
+    "enunciado": "Una paciente de 16 años, sin antecedentes, es traída por no presentar aún menarquia, no asociado a otros síntomas. Al examen físico se aprecia talla de metros y desarrollo puberal Tanner 1, sin otros hallazgos. Se realiza test de progesterona, que resulta negativo. El diagnóstico más probable en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Anovulación",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Malformación uterina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hipopituitarismo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hipotiroidismo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome de Turner Tiene retraso puberal, talla de metros (no es talla baja propiamente tal, pero es una talla que no descarta síndrome de Turner) y probablemente un hipogonadismo (por la amenorrea primaria, sin desarrollo puberal, es decir, por el retraso puberal).",
+        "correcta": true
+      }
+    ],
+    "justificacion": "que no hay anovulación, sino probablemente un hipogonadismo. No tiene clínica de hipopituitarismo (hipotiroidismo, insuficiencia suprarrenal), sino solo del hipogonadismo. Todo hipogonadismo en una niña es un Turner, hasta que se demuestre lo contrario, en particular si es baja. Que el test de progesterona esté negativo, muestra",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-MED-0053",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "pediatria",
+      "salud_publica",
+      "reuma"
+    ],
+    "tema": "Hipotiroidismo_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 157,
+    "enunciado": "Un paciente de 7 años, con historia de 8 días de tos y coriza, sin otros síntomas, presenta, desde hace 24 horas, aumento de su tos asociado a expectoración mucopurulenta, dificultad respiratoria y sensación febril. Al examen físico se encuentra decaído, con temperatura de 38ºC, su examen pulmonar muestra murmullo pulmonar presente de forma bilateral, asociado a estertores y sibilancias difusas. El tratamiento de elección en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Azitromicina",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Amoxicilina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Amoxicilina con ácido clavulánico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Acetaminofeno y salbutamol",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cefadroxilo Es una NAC atípica clásica. Se trata con macrólidos (azitromicina), ya que es causada",
+        "correcta": false
+      }
+    ],
+    "justificacion": "por Chlamydia o Mycoplasma.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-MED-0054",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 168,
+    "enunciado": "Paciente de 76 años, con antecedentes de HTA en tratamiento, es hospitalizado por neumonía requiriendo antibióticos endovenosos. Estando hospitalizado, comienza con desorientación temporoespacial, inatención y pensamiento desorganizado, de curso fiuctuante durante el día. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Demencia senil",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Demencia frontotemporal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Esquizofrenia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno delirante crónico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Delirium Es un delirium de libro. Siempre preguntan varios delirium o síndromes confusionales",
+        "correcta": true
+      }
+    ],
+    "justificacion": "agudos en el Eunacom.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-MED-0055",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "cardio",
+      "salud_publica"
+    ],
+    "tema": "HTA_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Mujer de 81 años, hospitalizada por neumonía, presenta agitación psicomotora en las noches, agrediendo al personal hospitalario y no reconoce a sus familiares. En el día, por el contrario, está en buenas condiciones, tranquila y no recuerda lo sucedido. ¿Cuál es el diagnostico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Esquizofrenia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Accidente vascular encefálico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Delirium",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Demencia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno delirante",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es un delirium clásico. También se llama síndrome confusional agudo.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-MED-0056",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "psiquiatria",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 56,
+    "enunciado": "Una paciente multípara, de 40 años, cursando un embarazo de 32 semanas, se realiza una ecografía obstétrica, que muestra líquido amniótico sin alteraciones, con un feto creciendo en percentil 10 para la edad gestacional, con un peso fetal estimado de 1.320 gramos. ¿Cuál es la actitud más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar ecodoppler uterina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar ecodoppler umbilical",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Repetir la ecografía obstétrica en 2 semanas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Inducir maduración pulmonar con corticoides El retraso del crecimiento intrauterino se estudia con Doppler umbilical, como examen de elección (permite diferenciar el PEG del RCIU y además determina la gravedad del RCIU, de manera de determinar la edad de interrupción). Varias de las otras opciones (D y E)",
+        "correcta": false
+      }
+    ],
+    "justificacion": "serán correctas, dependiendo del resultado del doppler. Sin embargo, en estricto rigor, no tiene un RCIU, ya que se define como peso fetal menor a p10 para la edad gestacional y está justo en p10, por lo que es normal y se puede observar. Por tanto, ciñéndonos a la definición, es un embarazo normal y solo requiere el manejo normal del embarazo. Sin embargo, no estamos seguros de cuál fue en razonamiento que utilizó quien redactó esta pregunta para el Eunacom.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-MED-0057",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "obstetricia",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 71,
+    "enunciado": "Un paciente de 38 años con cuadro de 6 meses con aumento de volumen en región preauricular derecha. Al examen físico se constata nódulo en región preauricular de 4 cm de diámetro, de consistencia blanda, indoloro a la palpación y fija, sin afectación de la piel que lo recubre. El diagnóstico más probable:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Adenopatia tuberculosa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Adenoma pleomorfo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lipoma",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Quiste sebáceo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sarcoma Es una mala pregunta, porque clínicamente es imposible distinguir un lipoma de un adenoma pleomorfo solo con la descripción del examen físico.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "fijo y puede ser blando, pero lo habitual es que sea de consistencia aumentada. Con todo y especialmente porque se suele enseñar que el diagnóstico de los lipomas es clínico y se describen todas sus características clásicas, dejaremos el lipoma como respuesta. Tiene las características clínicas de un lipoma (consistencia blanda, adherido en la zona profunda, pero sin compromiso de la piel). Sin embargo, la ubicación sugiere muy fuertemente un adenoma pleomorfo, que es el tumor benigno más frecuente de la parótida (50%, vs. 3% de los lipomas). El adenoma pleomorfo suele ser móvil, sin adherirse a planos profundos y no",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-MED-0058",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 75,
+    "enunciado": "Una paciente de 32 años, con antecedentes de asma y rosácea, usuaria de corticoides inhalados, presenta un cuadro de algunos meses de evolución de ojo rojo bilateral, asociado a ardor, epifora y secreción mucosa, que a veces se vuelve purulenta. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Glaucoma agudo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Blefaritis",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Uveítis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dacriocistitis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Conjuntivitis bacteriana crónica Pregunta difícil, con dos opciones potencialmente correctas: blefaritis y conjuntivitis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "bacteriana crónica. La clínica basal parece una conjuntivitis alérgica (antecedente de asma), pero no estaba en las alternativas y le sobra la secreción purulenta, que sugiere sobreinfección bacteriana. El antecedente de rosácea orienta mucho a blefaritis, sin embargo falta la descripción del eritema y descamación palpebral y le sobra la secreción mucosa y mucopurulenta. Aunque es posible que la blefaritis se sobreinfecte. El antecedente de alergia (asma) también apunta más a blefaritis que a conjuntivitis bacteriana crónica. La conjuntivitis bacteriana crónica (mayor a 4 semanas) clásicamente se asocia a otras alteraciones, como la blefaritis, y sí suele tener secreción mucosa y purulenta, más el ojo rojo. No se describe el aumento de volumen de la dacriocistitis. Es una pregunta difícil y no queda completamente claro cuál es el diagnóstico, pero dejaremos como la blefaritis como respuesta, porque probablemente el oftalmólogo que la redactó vio un caso de blefaritis esa semana, le pareció interesante y, al momento de redactar dijo \"hasta le puse que tenía rosácea... qué fácil pregunta\"; y después se le ocurrió poner en las opciones \"conjuntivitis bacteriana crónica\" sin pensar. Lo más importante en el Eunacom es responder alguna y seguir, sin perder mucho tiempo.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-MED-0059",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "oftalmo",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Asma_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 84,
+    "enunciado": "Un paciente de 55 años, con antecedente de diabetes mellitus 2, consulta por un cuadro de hematemesis, seguida de malestar general. Al examen físico está pálido, con FC:110x', PA: 100/60 mmHg, constatándose obesidad. En sus exámenes destaca álbúmina: g/dl; INR:; hematocrito: 30%, plaquetas: 77.000 por mm3, VCM: 105 fi y VHS: 20 mm/h. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de Mallory Weiss",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Úlcera gástrica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Úlcera duodenal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Várices esofágicas",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Gastriris crónica atrófica Son várices porque se presenta como hematemesis grave y los exámenes sugieren consumo de alcohol (VCM elevado) y daño hepático crónico (albúmina baja e INR",
+        "correcta": false
+      }
+    ],
+    "justificacion": "levemente aumentado).",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-MED-0060",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "reuma",
+      "psiquiatria",
+      "salud_publica"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 94,
+    "enunciado": "Paciente mujer de 74 años, hipertensa controlada. Presenta dolor de tipo \"eléctrico\" lascinante en la mejilla y ala nasal izquierda, que compromete la arcada dentaria superior y la encía, así como la zona maxilar superior del lado izquierdo. Además presenta dolor retro ocular izquierdo. El dolor es de escasos segundos, pero intenso EVA 10/10, que se al tacto y al realizar actividades, como cepillarse los dientes e incluso una suave brisa puede desencadenarlo. ¿Cuál es el tratamiento de primera línea para este cuadro?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Pregabalina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tramadol",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Prednisona",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Carbamazepina",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Paracetamol y AINEs Es una neuralgia del trigémino y de primera línea se dan carbamazepina u otros anticonvulsivantes, aunque también sirven los antidepresivos tricíclicos. De segunda",
+        "correcta": false
+      }
+    ],
+    "justificacion": "línea, se puede agregar la pregabalina (lo habitual es CBZ y luego pregabalina). Actualmente se recomienda estudiar todas las neuralgias con RMN (antes solo las con alteraciones en el examen físico, llamadas neuralgias secundarias).",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-MED-0061",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "neurologia",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Manejo_dolor_cronico",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 120,
+    "enunciado": "Niño con lesiones eritematosas en miembros inferiores (foto) con artralgias de tobillos de 2 días de evolución y dolor abdominal. Al examen físico presenta edema de ambos tobillos, con lesiones en las piernas, como las que se muestran en la siguiente imagen: Considerando las complicaciones frecuentes del cuadro, es importante solicitar:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Creatininemia",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Hematocrito",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Plaquetas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Protombinemia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Proteina C reactiva Es un púrpura de Schönleni Henoch, que se complica con glomerulonefritis e",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Insuficiencia renal. Es normal que se pregunte varias veces lo mismo en el Eunacom.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-MED-0062",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 126,
+    "enunciado": "Un hombre de 30 años, con rinorrea frecuente, se realiza prueba cutánea (prick test), que muestra reacción de 5mm a pólenes y de 0 mm al control histamina. ¿Cuál es la interpretación más adecuada de esta prueba?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Es alérgico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Sensibilizado a pólenes",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Tiene rinitis vasomotora",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tiene sinusitis crónica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Anergia cutánea En nuestra opinión, es una pregunta con error, ya que el control positivo (con histamina) resulta 0 mm, lo que habitualmente significa que está usando antihistamínicos y el examen no sirve, por la anergia cutánea farmacológica.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "está sensibilizado para pólenes. Por eso, dejaremos como respuesta la B. Lo más probable es que quien redactó la pregunta quería decir que el control con suero fisiológico estaba en 0 mm y no el de la histamina. Pero, en fin, así es el Eunacom. No es posible afirmar que sea alérgico, ya que ese es un diagnóstico clínico y no mediante el prick test. Sin embargo, en estos casos también resulta negativo todo lo demás, lo que no ocurre en este caso, sino que resultó positivo para pólenes (>3 mm), lo que es imposible según lo anterior, pero da cuenta que",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-MED-0063",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 129,
+    "enunciado": "Una mujer de 34 años se siente muy ansiosa al realizar actividades como hacer presentaciones o hablar en reuniones de trabajo. Por ello evita ese tipo de situaciones y asigna dichas tareas a sus subalternos, sobrecargándolos. Incluso dejó de asistir a un congreso de ejecutivos, en el que tendría que exponer. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fobia social",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de ansiedad generalizada",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de personalidad antisocial",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de personalidad evitativo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno de pánico Es una fobia social clásica: ansiedad al realizar actividades en público y evitación de las",
+        "correcta": false
+      }
+    ],
+    "justificacion": "mismas.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-MED-0064",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 135,
+    "enunciado": "Niño de 8 meses que sufre desde hace 6 meses diarrea pastosa, abundante. Tiene también antecedente de episodios bronquiales obstructivos y 4 cuadros de infecciones respiratorias, que han requerido de hospitalización. Cuál es el diagnóstico de sospecha?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Enfermedad celiaca",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Enteropatía perdedora de proteínas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Enfermedad de cilio inmóvil",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fibrosis quística",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Alergia a la proteína de la leche de vaca Tanto por las infecciones respiratorias, como por la malabsorción es una fibrosis quística. Las demás opciones porducen solo síntomas digestivos (enfermedad celíaca, enteropatía perdedora de proteínas y alergia a la proteína de la leche de vaca) o solo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "neumonías (enfermedad de cilio inmóvil).",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-MED-0065",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 147,
+    "enunciado": "Una paciente de 78 años, con antecedente de hipertensión arterial, en tratamiento con hidroclorotiazida, presenta un cuadro de diarrea y vómitos, seguido de compromiso de conciencia. Al examen físico está en sopor profundo, con PA: 80/50 y frecuencia cardiaca de 120x', regular, con sequedad de mucosas. Se solicitan exámenes de laboratorio que muestran natremia: 156. mEq/L, cloremia: 114 mEq/L, potasemia: mEq/L, pH:, bicarbonato: 14 mmol/L, CO2: 20 mmHg. ¿Cuál de los siguientes fiuidos se debe administrar en primer lugar?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Suero glucosado al 5% ev",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Suero fisiológico al % ev",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Solución de bicarbonato al 2/3 molar ev",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Agua por sonda nasogástrica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sales de rehidratación oral",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una pregunta muy discutible. El diagnóstico es 1. Shock hipovolémico con deshidratación hipertónica, 2. Hipernatremia, 3. Hipercloremia, 4. Hipo jálelos y 5. Acidosis metabólica y alcalosis respiratoria. Lo más urgente es tratar el shock hipovolémico y las alteraciones hidroelectrolíticas pasan a segundo plano. Sin embargo, dadas la hipernatremia y la acidosis hiperclorémica, muchos preferirían evitar el suero fisiológico (la evidencia no soporta esta recomendación, pero lo habitual es que se crea que el SF puede agravar la hipernatremia, hipercloremia y acidosis). De preferencia debería iniciarse suero glucosalino isosmolar (NaCl al % más glucosa al %), pero no aparece en las opciones. También se podría dar suero Ringer lactato, que tiene menor carga de sodio y cloro, aporta potasio y bicarbonato. Se pregunta el primer suero a administrar y, entre las opciones están el suero glucosado al 5%, que aportaría agua libre y corregiría la hipernatremia y el suero fisiológico, que corrige la hipovolemia, pero podría agravar las alteraciones hidroelectrolílicas. Nos quedaremos con la frase “primero se corrige la volemia y después se mira los electrolitos”, pero no queda 100% claro cuál era la respuesta.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-MED-0066",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "cardio",
+      "hemato",
+      "reuma"
+    ],
+    "tema": "HTA_MI",
+    "dificultad_estimada": "avanzada",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 172,
+    "enunciado": "Un paciente masculino, de 22 años, desde hace más de 6 meses ha dejado de compartir con su familia y casi no sale de su pieza. Además, ha descuidando su aspecto personal. Sus familiares refieren que en ocasiones lo escuchan musitar, hablar y reírse solo. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ezquizofrenia",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Depresión psicótica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno delirante crónico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de personalidad esquizoide",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno bipolar",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una forma clásica del primer brote de esquizofrenia. La edad es compatible. Seguramente tiene alucinaciones auditivas y por eso habla y se ríe solo.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-MED-0067",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "psiquiatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 173,
+    "enunciado": "Paciente femenina con artritis reumatoide, en tratamiento con metrotexate y prednisona desde hace 4 años, es diagnosticada de diabetes mellitus, por lo que se inicia metformina como tratamiento. ¿Que examen es perentorio realizarle, como seguimiento a esta paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hemograma, con recuento de plaquetas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Radiografía atlantoaxoidea",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Insulinemia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "LDH",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Densitometría ósea Todo paciente con tratamiento corticoidal debe hacerse densitometrías óseas, porque se produce osteoporosis secundaria. Si bien la AR aumenta el riesgo de daño de la",
+        "correcta": true
+      }
+    ],
+    "justificacion": "articulación atlantoaxoidea, no es necesario hacer la radiografía de rutina.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-MED-0068",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "dermato",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 176,
+    "enunciado": "Una paciente de 43 años, multípara de 3, con antecedente de oligomenorrea, presenta metrorragia abundante, por lo que se realiza una ecografía transvaginal, que muestra endometrio engrosado, por lo que se realiza una biopsia endometrial por técnica de Pipelle, que demuestra presencia de hiperplasia endometrial compleja, con células atípicas. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar anticonceptivos combinados orales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar progestágenos orales en altas dosis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar histerectomía total",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Repetir el legrado",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar estrógenos orales en altas dosis Las hiperpasias endometriales atípicas y también las complejas se tratan con histerectomía, a menos que la paciente tenga altos deseos de paridad (en que se puede intentar un tratamiento alternativo: progestágenos y legrado). Es frecuente que en el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Eunacom se pregunten varias veces lo mismo.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-MED-0069",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un recién nacido de 37 semanas de gestación presenta al nacer hipotonía letargia, microcefalia, asociada a ictericia, hepatoesplenomegalia y aparición de un exantema generalizado precoz. Su ecografía cerebral muestra calcificaciones. El agente etiológico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Parvovirus B19",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Streptococcus agalactiae",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Streptococcus pneumoniae",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Citomegalovirus",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Virus herpes simplex La sospecha es un síndrome de TORCH, cuya causa más frecuente es la infección por CMV.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "distintas. Además, el cuadro descrito es el clásico del CMV, aunque el toxoplasma puede producir uno idéntico, aunque con algo más de tendencia a la hidrocefalia. La rubéola congénita (catarata, cardiopatía y microcefalia) y la sífilis congénita (perforación tabique nasal, deformación ósea, microcefalia, desarrollo dental anómalo) suelen tener clínicas",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-MED-0070",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "hemato",
+      "infecto",
+      "obstetricia"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Una paciente de 87 años, institucionalizada, con antecedente de enfermedad de Alzheimer y degeneración macular, presenta lipotimia con recuperación completa, luego de comer. Los cuidadores refieren que la notan rara desde hace algunos días. Su examen físico muestra T°: °C, FC: 87x’, PA: 150/102 mmHg, FR:28 por minuto. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síncope neurogénico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Neumonía",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Infarto agudo al miocardio",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Infección urinaria",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Accidente vascular encefálico Es una pregunta muy difícil, ya que la clínica es demasiado inespecífica y puede ser",
+        "correcta": false
+      }
+    ],
+    "justificacion": "cualquiera de las opciones e incluso podría ser una TEP (que no está en las opciones). Sin embargo, por tener fiebre y además taquipnea, nos inclinamos por la neumonía.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-MED-0071",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "cardio",
+      "neurologia",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un paciente de 23 años, luego de una ruptura sentimental con su pareja, evoluciona con amnesia parcial de lo ocurrido y una actitud extraña. A la entrevista está perplejo y resignado a lo que estaba sucediendo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno conversido",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno disociativo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno somatomorfo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Episodio psicótico reactivo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno depresivo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una amnesia disociativa clásica.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-MED-0072",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 23,
+    "enunciado": "Un paciente de 42 años, que trabaja en un aserradero, comienza con un cuadro de dificultad respiratoria, con tos y expectoración, asociada a respiración sibilante. Luego de estudiarlo, es diagnosticado de asma no laboral. Sin embargo, él discrepa de este diagnóstico, ya que lo considera de origen laboral. ¿A qué institución puede apelar contra esta determinación?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Superintendencia de Seguridad Social",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Servicio de Salud de su comuna",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Instituto de Salud Pública",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fonasa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Ministerio de Salud Las resoluciones sobre patología laboral, se apelan a la Superintendencia de Seguridad",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Social (Suseso). También tiene la última palabra en lo relacionado con licencias médicas. En cambio, la Superintendencia de Salud (SIS) ve temas de cobertura de Fonasa e Isapres El típico ejemplo: \"La Isapre me desafilió y me denegó el pago de mi hospitalización y licencia médica\". Se debe alegar ante la Suseso por la licencia médica y ante la SIS por la desafiliación y el no pago de la hospitalización.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-MED-0073",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "salud_publica",
+      "reuma",
+      "uro"
+    ],
+    "tema": "Asma_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 38,
+    "enunciado": "Una paciente de 67 años, con antecedente de gastrectomía hace 2 años, presenta astenia y adinamia marcada, asociada a disnea de esfuerzo, que ha ido aumentando en los últimos meses. Al examen físico destaca palidez de la piel y las mucosas. Se realiza exámenes, entre los que destaca un hemograma que muestra Hematocrito: 32%, Hb: g/dl, con VCM: 72 fi y HCM: 28 pg. Los blancos están en 7.800 por mm3 y las plaquetas, en 756.000 por mm3. El diagnóstico, que con mayor probabilidad es causa de su anemia, es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Anemia ferropénica",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Anemia por déficit de B12",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Anemia por enfermedades crónicas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trombocitosis esencial",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Talasemia",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una anemia ferropénica, por el VCM y HCM tan bajos y la trombocitosis reactiva.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-MED-0074",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "psiquiatria",
+      "salud_publica"
+    ],
+    "tema": "Anemia_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 49,
+    "enunciado": "Un paciente de 27 años consulta por tos, fiebre alta, disnea y dolor torácico de tipo pleurítico. Al examen físico tiene disminución del murmullo pulmonar izquierdo, con respiración soplante y crépitos. Se solicita una radiografía de tórax que muestra una pleuroneumonía izquierda, por lo que se punciona el derrame pleural, dando salida a un líquido turbio, con LDH: 250 UI/L, proteínas: g/dl, con PMN: 60% y MN: 40%, pH:, lactato: 6 mmol/L, ADA: 8 UI/L. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Tomar biopsias pleurales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Instalar un tubo pleural, con trampa de agua",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar fibrinolíticos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar una pleurocentesis y drenaje en 24 horas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar antibióticos pleurales",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tenía un empiema o derrame paraneumónico complicado, que se trata con tubo pleural. Además, se deben administrará antibióticos endovenosos que cubran los gérmenes de neumonía (ej. ceftriaxona) y algunos recomiendan agregar cobertura para anaerobios (ej. clindamicina o metronidazol).",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-MED-0075",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 116,
+    "enunciado": "Una paciente de 16 años, con antecedente de muchos parientes con diagnóstico de diabetes tipo 2, presenta un cuadro de algunas semanas de evolución de polidipsia y poliuria. Tiene acantosis nigricans en el cuello y obesidad, con IMC en p97, para su edad. Se solicita una glicemia de ayuno, que resulta 204 mg/dl. Además del control dietético y el ejercicio, la conducta inicial más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar test de tolerancia a la glucosa oral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Repetir la glicemia de ayuno",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar insulina",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar glibenclamida",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar metformina",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Si bien por la edad, parece una DM1, la acantosis nigricans es muy sugerente de DM2. Sin embargo, la presencia de síntomas de diabetes: polidipsia y poliuria es por sí indicación de insulina.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-MED-0076",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "pediatria",
+      "salud_publica"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 132,
+    "enunciado": "Una paciente de 43 años está en tratamiento antibiótico, hace 2 semanas por una neumonía nosocomial. Evoluciona con diarrea acuosa, asociada a dolor abdominal intenso, tipo cólico y fiebre hasta °C. ¿Cuál es el examen más adecuado para continuar el estudio de esta paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Leucocitos fecales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Colonoscopía",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Parasitológico de deposiciones",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Toxinas A y B de Clostridium dificile en deposiciones",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Coprocultivo La diarrea por C. dificile se estudia preferentemente con PCR para C. dificile, en deposiciones. Si no está disponible, pues también sirven las toxinas A y B, aunque su",
+        "correcta": false
+      }
+    ],
+    "justificacion": "rendimiento es menor.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-MED-0077",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 153,
+    "enunciado": "En la Encuesta Nacional de Salud ¿Para qué se realiza la toma de presión arterial y de glicemia a las personas?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Para realizar la vigilancia sanitaria de las patologías más importante de la población",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar tamizaje a al azar en la población",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Para detectar a los pacientes de alto riesgo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Para hacer diagnóstico precoz e indicar tratamiento oportuno",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Para evlauar el impacto del tratamiento de las enfermedades crónicas La Encuesta Nacional de Salud es un estudio de prevalencia muy grande, que se realiza",
+        "correcta": false
+      }
+    ],
+    "justificacion": "para hacer el seguimiento de las frecuencias de las patologías crónicas no transmisibles. No tiene una función terapéutica, sino solo de vigilancia.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-MED-0078",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 164,
+    "enunciado": "Un paciente de 80 años, hospitalizado por fractura de cadera, presenta agitación psicomotora, con alucinaciones visuales y agresividad, especialmente durante la noche. En cambio, durante el día se muestra adecuado y muy avergonzado por su comportamiento. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Demencia tipo Alzheimer",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Demencia vascular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Accidente vascular encefálico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Delirium",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno de personalidad orgánico",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es un delirium o síndrome confusional agudo clásico.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-MED-0079",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "neurologia",
+      "psiquiatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 165,
+    "enunciado": "Un paciente de 65 años, alcohólico es hospitalizado por una neumonía adquirida en la comunidad. Algunos días después evoluciona con agitación psicomotora y visualización de insectos que subían por las sábanas y lo atacaban, asociado a temblor. ¿Cuál es el tratamiento de primera línea?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Haloperidol",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tiamina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Benzodiacepinas",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Carbamazepina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cianocobalamina Es un delirium tremens (deprivación alcohólica), lo que se debe tratar con diazepam (tiene vida media más larga que otras benzodiacepinas), aunque, en los casos con daño hepático crónico se prefiere el lorazepam (importante saberlo, ya que es frecuente que",
+        "correcta": false
+      }
+    ],
+    "justificacion": "coexistan).",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-MED-0080",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "psiquiatria",
+      "salud_publica"
+    ],
+    "tema": "NAC",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente, diagnosticado de IRC, secundaria a diabetes mellitus, está en hemodiálisis hace 2 años. Presenta anemia con hematocrito de 28%, con hemoglobina de g/dl y astenia. Actualmente no recibe tratamiento para la anemia. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar perfil de fierro y decidir manejo, según resultado",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar sulfato ferroso oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar eritropoyetina subcutánea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar transfusión de glóbulos rojos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una anemia asociada a IRC. Hay que cumplir dos objetivos: 1. Ajustar el perfil de hierro, lo que se logra con hierro endovenoso en los pacientes en diálisis; 2. Lograr un hematocrito sobre 30% o hemoglobina sobre 10 g/dl (máximo llegar a g/dl), con eritropoyetina subcutánea o un análogo. En este caso, no cumple el objetivo de la hemoglobina y no sabemos si cumple o no con el objetivo del perfil de hierro. Como lo primero a corregir debe ser el hierro, en primer lugar, debemos solicitar un perfil de hierro, para poder decidir. Si está alterado, se indicará el hierro endovenoso. Si está normal, se deberá iniciar la EPO subcutánea.",
+    "archivo_origen": "hemato_nefro_reuma.txt",
+    "id_unico": "GUEV-MED-0081",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "dermato",
+      "hemato",
+      "psiquiatria"
+    ],
+    "tema": "Diabetes_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_hemato_nefro_reuma",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente de 68 años, diagnosticado de EPOC tabáquico, en tratamiento con salbutamol SOS, con hábito tabáquico suspendido hace 2 años, presenta aumento de la disnea y la expectoración habitual, presentando 1 dificultad respiratoria en el reposo. Al examen físico está taquipneico, cianótico, con uso de musculatura accesoria y con MP disminuido, con sibilancias bilaterales. Satura 85% a FiO2 ambiental y en sus gases se demuestra PaCO2: 66 mmHg. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar oxígeno al 100% y realizar nebulización con salbutamol y corticoides",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar oxígeno para saturar mayor o igual a 92%, realizar nebulizaciones con salbutamol y administrar corticoides sistémicos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Enviar a domicilio con corticoides inhalados cada 12 horas más salbutamol inhalado SOS",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar oxígeno a 2 litros por minuto, realizar nebulizaciones con salbutamol, administrar corticoides endovenosos e iniciar antibióticos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Conectar a Bi PAP de inmediato Dado que la PaCO2 es mayor a 60 mmHg, se debe conectar a ventilación mecánica. Además, por estar",
+        "correcta": true
+      }
+    ],
+    "justificacion": "consciente, se prefiere la ventilación no invasiva, es decir, el BiPAP.",
+    "archivo_origen": "neuro_cardio_y_respi.txt",
+    "id_unico": "GUEV-MED-0082",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "gineco",
+      "reuma"
+    ],
+    "tema": "EPOC",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_neuro_cardio_y_respi",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 11,
+    "enunciado": "El EPOC se diagnostica mediante:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "La clínica sola",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "La radiografía de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "La tomografía axial computada de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "La broncoscopía",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "La clínica más la espirometría",
+        "correcta": true
+      }
+    ],
+    "justificacion": "El diagnóstico de EPOC (enfermedad pulmonar obstructiva crónica) se realiza con la clínica (disnea de esfuerzos al menos) más la espirometría (que muestra un patrón obstructivo: VEF1/CVF menor a 70%, que no mejora con broncodilatador; si mejorara, sería asma). Por ello se dice que es un \"diagnóstico clínico-funcional\". Además, la espirometría indica el grado de severidad con el VEF1. Algo importante es que si la clínica y la espirometría muestran un EPOC, en un paciente que no ha fumado, el diagnóstico sigue siendo EPOC, solo que se trata de un EPOC no tabáquico. La radiografía sí se pide, pero para descartar cáncer, ya que si fumó lo suficiente como para tener EPOC, también puede tener cáncer. La radiografía suele mostrar signos obstructivos: pulmones grandes, corazón en gota, diafragma plano y costillas horizontalizadas.",
+    "archivo_origen": "neuro_cardio_y_respi.txt",
+    "id_unico": "GUEV-MED-0083",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "EPOC",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_neuro_cardio_y_respi",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 12,
+    "enunciado": "¿Cuál de los siguientes tratamientos le parece más adecuado para un paciente asmático, que presenta síntomas 1 a 2 veces por semana, los que controla con salbutamol? 1 La base del tratamiento del asma es evitar los alérgenos, más el tratamiento con corticoides inhalados (c/12 horas, para prevenir los síntomas) y los broncodilatadores inhalados (en caso de síntomas).",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mantener el salbutamol SOS",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Agregar salmeterol inhalado cada 12 horas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Agregar fiuticasona inhalada cada 12 horas",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Agregar aspirina oral cada 12 horas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Agregar ipatropio SOS, asociado con el salbutamol",
+        "correcta": false
+      }
+    ],
+    "justificacion": "La fiuticasona, mometasona, budesonida y triamcinolona son los corticoides inhalados clásicos. Los broncodilatadores de larga acción (salmeterol / formoterol) solo se inician cuando sigue con síntomas, a pesar de lo anterior. En el EPOC, en cambio, se indican los broncodilatadores de larga acción antes que los corticoides inhalados.",
+    "archivo_origen": "neuro_cardio_y_respi.txt",
+    "id_unico": "GUEV-MED-0084",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "cardio",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "EPOC",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_neuro_cardio_y_respi",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un paciente indigente, en situación de calle, ingresa al servicio de urgencia por un cuadro de desorientación y dificultades para caminar. Al examen físico se constata estrabismo divergente, por parálisis del tercer nervio 1 craneal izquierdo, ataxia de la marcha y desorientación temporoespacial, sin otras alteraciones. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome hiperglicémico hiperosmolar",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Hipoglicemia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Encefalopatía de Wernicke",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Hipofosfemia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Encefalopatía de Korsakov",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una encefalopatía de Wernicke clásica: Confusión, oftalmoplejia, coma y ataxia. Se diagnostica con la clínica.",
+    "archivo_origen": "neuro_cardio_y_respi.txt",
+    "id_unico": "GUEV-MED-0085",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "pediatria",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_neuro_cardio_y_respi",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 26,
+    "enunciado": "Una paciente de 24 años consulta por cefalea crónica. Al preguntarle, refiere que durante los últimos 2 años se ha sentido desganada, sin iniciativa, con la sensación de que el tiempo está pasando, sin nada bueno para ella 1 y con pesimismo respecto a su futuro. Refiere que se sintió un poco mejor cuando fue de vacaciones al sur, pero eso solo duró 2 semanas y luego volvió a su situación basal. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Distimia",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Depresión mayor",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno bipolar",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de personalidad",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno de ansiedad generalizada",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una distimia clásica (también llamada depresión menor): ánimo bajo o disforia, por más de 2 años, sin cumplir criterios de depresión mayor.",
+    "archivo_origen": "psiquiatria_y_salud_publica.txt",
+    "id_unico": "GUEV-MED-0086",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "neurologia",
+      "psiquiatria",
+      "salud_publica"
+    ],
+    "tema": "Cefalea_MI",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_psiquiatria_y_salud_publica",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un niño de 5 días de vida, con antecedente de asfixia, presenta vómitos, asociado a hematoquecia. Al examen físico se aprecia distensión abdominal. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Atresia esofágica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Enterocolitis necrotizante",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Atresia duodenal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Estenosis hipertrófica del píloro",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Invaginación intestinal",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene el antecedente de prematurez y la triada clásica de la enterocolitis necrotizante: distensión abdominal, hematoquecia y vómitos/retención gástrica (en la sonda nasogástrica). - La atresia esofágica produce sialorrea y dificultad respiratoria desde el nacimiento. - La atresia duodenal tiene vómitos y deshidratación desde el nacimiento. - La invaginación tiene dolor, llanto y hematoquecia después de los 6 meses de vida (puede ser antes, pero es rarísimo neonatal). - La estenosis hipertrófica pilórica tiene vómitos explosivos, que inician a las 2-6 semanas de vida.",
+    "archivo_origen": "traumato_y_cirugia.txt",
+    "id_unico": "GUEV-MED-0087",
+    "especialidad_principal": "medicina_interna",
+    "subespecialidades": [
+      "urgencias",
+      "pediatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_traumato_y_cirugia",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  }
+]

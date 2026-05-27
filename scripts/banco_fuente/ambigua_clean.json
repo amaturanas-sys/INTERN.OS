@@ -1,0 +1,303 @@
+[
+  {
+    "numero": 50,
+    "enunciado": "La principal característica del trastorno delirante crónico es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Presencia de alucinaciones auditivas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Presencia de alucinaciones visuales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Presencia de un delirio desorganizado",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Presencia de aplanamiento afectivo, abulia y apatía",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "La sistematización del delirio El delirio sistematizado (bien explicado) es lo más importante del TDC (además debe ser mayor a 3 meses y no afectar el resto de la vida). A diferencia de la esquizofrenia, suele presentarse sin alucinaciones ni signos negativos",
+        "correcta": true
+      }
+    ],
+    "justificacion": "(aplanamiento afectivo, abulia y apatía).",
+    "archivo_origen": "prueba_final_modulo_2.txt",
+    "id_unico": "GUEV-AMB-0001",
+    "especialidad_principal": "ambigua",
+    "subespecialidades": [],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 59,
+    "enunciado": "Un paciente de 66 años presenta disuria de esfuerzo, de 4 meses de evolución, asociado a disminución del chorro miccional. En el último tiempo además se ha agregado nicturia de 3 veces y polaquiuria. El examen físico es normal. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Estenosis uretral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Hiperplasia benigna de la próstata",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Cáncer de próstata",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Vejiga inestable",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cistitis intersticial Tiene una uropatía obstructiva baja (diagnóstico clínico), cuya causa más frecuente es la hiperplasia benigna de la próstata. No tiene ningún antecedente que haga pensar en estenosis uretral (uretritis, trauma perineal o RTU previos). No tiene",
+        "correcta": false
+      }
+    ],
+    "justificacion": "dolores óseos u otro elemento que sugiera cáncer.",
+    "archivo_origen": "prueba_final_modulo_2.txt",
+    "id_unico": "GUEV-AMB-0002",
+    "especialidad_principal": "ambigua",
+    "subespecialidades": [],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_novedades_prueba_final_modulo_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 34,
+    "enunciado": "Una paciente se palpa un nódulo mamario derecho de 3 cm de diámetro, de consistencia dura. Se aprecia además retracción de los poros de una zona de la piel de la mama, que asemeja a una “piel de naranja”. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fibroadenoma",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Quiste mamario",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cáncer de mama",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Mastopatía fibroquística",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Enfermedad de Paget Es un cáncer de mama, dado la consistencia dura y especialmente, por la “piel de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "naranja”.",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-AMB-0003",
+    "especialidad_principal": "ambigua",
+    "subespecialidades": [],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 63,
+    "enunciado": "El tratamiento de elección de la trocomoniasis vaginal es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Clindamicina tópica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fluconazol oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Albendazol oral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Doxiciclina oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Metronidazol oral",
+        "correcta": true
+      }
+    ],
+    "justificacion": "La tricomoniasis e trata con metronidazol o tinidazol.",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-AMB-0004",
+    "especialidad_principal": "ambigua",
+    "subespecialidades": [],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 24,
+    "enunciado": "Un paciente de 20 años consulta porque en sus deposiciones apareció un gusano de cerca de 12 cm de largo. Se solicita un parasitológico de deposiciones, que visualiza huevos de Ascaris lumbricoides. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar metronidazol",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar praziquantel",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar albendazol",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar cotromixazol",
+        "correcta": false
+      }
+    ],
+    "justificacion": "El albendazol o el mebendazol son el tratamiento de elección para el A. lumbricoides.",
+    "archivo_origen": "repaso_modulo_1_prueba_70_preg_n2.txt",
+    "id_unico": "GUEV-AMB-0005",
+    "especialidad_principal": "ambigua",
+    "subespecialidades": [],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_repaso_modulo_1_prueba_70_preg_n2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 37,
+    "enunciado": "Mujer de 23 años, con cuadro de 24 horas de evolución de compromiso del estado general, fiebre y soñolencia progresiva. Al examen físico destaca con temperatura de 38,5ºC, petequias y equimosis en extremidades, rigidez de nuca sin focalización neurológica. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Meningitis tuberculosa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Meningitis meningocócica",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Meningitis neumocócica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Meningitis por listeria",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Meningitis herpética Tiene un cuadro sugerente de meningitis bacteriana aguda. Las petequias y equimosis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "son clásicas de la meningococcemia.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-AMB-0006",
+    "especialidad_principal": "ambigua",
+    "subespecialidades": [],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 93,
+    "enunciado": "¿Mediante qué estrategia de vigilancia se lleva a cabo la investigación en una inoxicación alimentaria?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Vigilancia activa",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Vigilancia de centros centinela",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Vigilancia pasiva",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tamizaje",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Vigilancia comunitaria En Chile, las intoxicaciones alimentarias son de notificación obligatoria, por lo que hay un sistema de notificación rápida, para estudio inmediato, lo que es característico de la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "vigilancia activa.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-AMB-0007",
+    "especialidad_principal": "ambigua",
+    "subespecialidades": [],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  }
+]

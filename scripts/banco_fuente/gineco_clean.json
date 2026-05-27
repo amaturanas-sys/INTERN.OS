@@ -1,0 +1,4611 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Una mujer de 30 años, consulta por dolor abdominal bajo, asociado a fiebre hasta °C. Como antecedente refiere que su última regla fue hace 7 días y que mantiene actividad sexual con cierta frecuencia, aunque no tiene pareja estable. El tacto vaginal demuestra dolor al mover el cuello uterino y a la palpación anexial izquierda. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Embarazo ectópico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Endometriosis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Infección intraamniótica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Apendicitis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Proceso infiamatorio pélvico Es un PIP clásico: Fiebre, leucorrea y dolor (a la palpación hipogástrica, movilización",
+        "correcta": true
+      }
+    ],
+    "justificacion": "cervical y palpación anexial). El embarazo ectópico tiene metrorragia y shock hipovolémico. No está embarazada, porque su última regla fue hace 7 días. La endometriosis tiene un cuadro crónico de infertilidad y dolor (dismenorrea, dispareunia y disquexia). También puede tener dificultad en la movilización cervical, pero es crónico. La infección intramniótica es asintomática, a diferencia de la corioamnionitis, que tiene la misma clínica de PIP, pero en el embarazo.",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0001",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica",
+      "urgencias"
+    ],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Una mujer de 59 años, asintomática, se realiza una mamografía, que muestra la presencia de un nódulo mamario derecho de 3 cm de diámetro, denso y de bordes irregulares, con múltiples calcificaciones pequeñas agrupadas. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fibroadenoma",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Carcinoma ductal",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Carcinoma lobulillar in situ",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Mastopatía fibroquística",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Enfermedad de Paget La imagen descrita es de cáncer de mama (denso, irregular y con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "microcalcificaciones). El cáncer ductal invasor es el más frecuente. Vale la pena recordar que el cáncer lobulillar in situ no progresa a cáncer invasor, por lo que se considera una lesión benigna (en cambio, el cáncer ductal in situ sí progresa).",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0002",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "medicina_interna",
+      "salud_publica"
+    ],
+    "tema": "Patologia_mama",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Una mujer de 40 años está en amenorrea desde hace 5 meses. Se ha realizado varios exámenes entre los que destacan test de embarazo: negativo, TSH: normal, prolactinemia: normal, prueba de progesterona: negativa, prueba de estrógeno más progesterona: positiva y LH/FSH: disminuidas. ¿Cuál es la causa más probable de su amenorrea?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Anovulación",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Alteración uterina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Falla ovárica primaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hipotalámica / hipofisiaria",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Menopausia normal",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene la prueba de progesterona negativa, así que no puede ser anovulación. Además, tiene la prueba de estrógeno más progesterona positiva, por lo que el diagnóstico es un hipogonadismo. Finalmente, como la FSH y LH están bajas, es un hipogonadismo hipogonadotrópico, es decir, de causa hipotalámica o hipofisiaria (recordar que “el hipo hipo es hipo hipo”). La menopausia y la falla ovárica tienen elevación de la FSH y LH.",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0003",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica",
+      "obstetricia",
+      "reuma"
+    ],
+    "tema": "Amenorrea",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Una mujer de 50 años, diabética, en tratamiento con metformina y glibenclamida, consulta por metrorragia de una semana de evolución. Refiere que sus reglas son irregulares, sucediendo cada 2 a 3 meses y durando entre 3 y 5 días y que su última regla fue hace sólo 14 días. Al examen físico se aprecia una mujer obesa, con genitales externos normales y útero aumentado de tamaño. El test de embarazo es negativo y se solicita una ecografía transvaginal, que muestra un endometrio de 20 mm de diámetro, de aspecto irregular y zonas del miometrio heterogéneas. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cáncer de endometrio",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Miomatosis uterina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Adenomiosis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Endometriosis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hiperplasia endometrial Tiene algunos factores de riesgo del cáncer de endometrio (HONDA: HTA, Obesidad, nuliparidad, Diabetes y Anovulación), pero también son factores de riesgo para la hiperplasia endometrial (HPE).",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ve en el cáncer. La miomatosis produce hipermenorrea y se habría visto en la ecografía, como tumores redondos, homogéneos e hipoecogénicos. La adenomiosis tiene dismenorrea e hipermenorrea (no metrorragia) y sí se ve con afectación del miometrio, pero sin engrosamiento del endometrio. La endometriosis solo presenta dolor e infertilidad, sin metrorragia. Tanto HPE, como el cáncer de endometrio tienen metrorragia y endometrio grueso. Sin embargo, la afectación del miometrio solo se",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0004",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "obstetricia",
+      "pediatria"
+    ],
+    "tema": "Miomas_adenomiosis",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Una mujer se realiza un Papanicolaou de control, que muestra células atípicas de tipo glandular. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Repetir el Papanicolaou",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar colposcopía y curetaje endocervical",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar biopsia endometrial Pipelle",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar cono biópsico Las atipías glandulares se estudian con colposcopía y curetaje endocervical, más la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "biopsia. En cambio, las atipías escamosas se estudian con colposcopía y biosia y el curetaje endocervical solo se hace si es que la colposcocpía es insatisfactoria (la zona de transición se mete en el orificio cervical externo. El cono biópsico se solicita en la disociación colpocitológica (PAP atípico escamoso, de alto grado, con colposcopía normal). El cono terapéutico, en cambio, se indica en la NIE 2 y 3 y en el carcinoma in situ. La biopsia Pipelle se realiza como parte del estudio de la metrorragia, cuando se quiere descartar un cáncer de endometrio (después del test de embarazo y la ecoTV).",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0005",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "medicina_interna",
+      "obstetricia",
+      "pediatria"
+    ],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Una mujer de 56 años de edad, menopáusica hace 4 años, acude a control ginecológico, donde se constata la palpación de un tumor anexial de cerca de 6 cm de diámetro. A la ecografía transvaginal se constata de aspecto sólido quístico, con tabiques y excrescencias. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar terapia de reemplazo hormonal y controlar con nueva ecografía en 3 meses",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar agonistas de la GnRH y controlar con nueva ecografía en 3 meses",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar biopsia por punción con aguja fina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Resolver quirúrgicamente, con anexectomía y biopsia rápida intraoperatoria Tiene un tumor anexial complejo (sospechoso de cáncer).",
+        "correcta": true
+      }
+    ],
+    "justificacion": "realiza una quimioterapia. Por tanto, se debe operar y se debe realizar la biopsia rápida intraoperatoria. Se realiza una anexectomía por ser postmenopáusica. Si la biopsia demuestra un cáncer de ovario, se procede a la anexectomía bilateral, con histerectomía y toma de biopsias peritoneales y luego se",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0006",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Tumor_anexial",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Una mujer consulta por leucorrea de cerca de 15 días de evolución, caracterizada por leucorrea abundante, amarillenta y espumosa, de mal olor, asociada a ardor y prurito vulvar. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Tricomoniasis",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Vaginosis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Candidiasis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Gonorrea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Vulvovaginitis inespecífica Es una tricomoniasis clásica: leucorrea espumosa verde-amarillenta, ardor y prurito,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "con marcada infiamación. Además, suele tener mal olor, a podrido. La vaginosis tiene leucorrea blanca grisácea, con mal olor, a pescado, sin signos infiamatorios. Puede ser algo espumosa. La candidiasis tiene leucorrea blanca grumosa, con prurito. La gonorrea suele producir uretritis, PIP y cervicitis, pero no vulvovaginitis. En el PIP la leucorrea proviene de la cavidad endometrial, por lo que se ve salir del OCE. En la cervicitis proviene del cuello. La vulvovaginitis inespecífica afecta a niñas y tiene una clínica inespecífica de leucorrea blanca o amarillenta, con infiamación.",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0007",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "infecto",
+      "pediatria"
+    ],
+    "tema": "Vulvovaginitis",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Una mujer de 56 años se realiza una biopsia endometrial, que demuestra presencia de hiperplasia endometrial simple, sin atipias. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar estrógenos locales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar progestágenos",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar niveles plasmáticos de beta-HCG",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar legrado uterino",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar histerectomía total La hiperplasia endometrial simple se trata con progestágenos orales, o con el DIU",
+        "correcta": false
+      }
+    ],
+    "justificacion": "medicado con levonorgestrel (un tipo de progestágeno). La hiperplasia endometrial atípica y la compleja, se tratan con histerectomía.",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0008",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [],
+    "tema": "Endometrio_Ca",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 9,
+    "enunciado": "¿Cuál es el punto anatómico que se utiliza como referencia para determinar el grado de prolapso genital?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "El orificio cervical externo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "El fórnix anterior",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "El fórnix posterior",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "El introito",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "El clítoris El introito es el plano en el que estaba el himen. Se usa como punto de referencia",
+        "correcta": false
+      }
+    ],
+    "justificacion": "para el estudio del prolapso.",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0009",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [],
+    "tema": "Prolapso",
+    "dificultad_estimada": "basica",
+    "contexto": "hospital",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 10,
+    "enunciado": "¿Cuál es el efecto adverso más frecuente de los anticonceptivos con microdosis de etinil estradiol?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Atrofia genitourinaria",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dislipidemia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trombosis venosa profunda",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Spotting (goteo)",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Síntomas vasomotores (bochornos) El efecto adverso más frecuente de la microdosis de estrógeno es el goteo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "intermenstrual o spotting. Lo beneficioso es que tienen menos efectos adversos. Por ello, habitualmente se inicia una microdosis (15 a 20 ug) y solo si tiene spotting, se sube a la dosis estándar de etinilestradiol (30 ug).",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0010",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "hemato",
+      "medicina_interna"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Una mujer de 28 años presenta dismenorrea desde hace un año, que cada vez es más intensa. Al examen físico se constata dolor a la movilización cervical, la que es difícil de realizar. Su ecografía transvaginal es normal. ¿Cuál de los siguientes diagnósticos es compatible con el cuadro descrito?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Proceso infiamatorio pélvico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Adenomiosis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hiperplasia endometrial",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Endometriosis",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Dismenorrea primaria Es una endometriosis clásica: dismenorrea secundaria (la primaria inicia con la menarquia), progresiva y además tiene dificultad y dolor para mover el cuello, dado que se formad adherencias. La ecografía suele estar normal, por lo que se debe",
+        "correcta": false
+      }
+    ],
+    "justificacion": "estudiar con laparoscopía (La ecografía solo está alterada en los endometriomas). El PIP es un cuadro agudo, de dolor, leucorrea y fiebre. La denomiosis tiene hipermenorrea y dismenorrea y la ecografía tiene miometrio irregular. La hiperplasia endometrial tiene metrorragia y la ecografía suele mostrar engrosamiento del endometrio.",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0011",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Una niña de 5 años presenta metrorragia de mal olor. Al examen físico se aprecia secreción hemopurulenta que proviene de la vagina. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Himen imperforado complicado",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Abuso sexual",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Vulvovaginitis inespecífica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Cuerpo extraño vaginal",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Cáncer de vagina Es un cuerpo extraño vaginal clásico: metrorragia y leucorrea de mal olor. Lo más frecuente es que se trate de papel higiénico sobre el himen. Se debe hacer una",
+        "correcta": false
+      }
+    ],
+    "justificacion": "vaginoscopía y retirarlo. El himen imperforado suele diagnosticarse al nacer (con un buen examen físico), siendo asintomático. O bien, se diagnostica en la pubertad, como causa de amenorrea primaria, más dolor abdominal, que aumenta con el ciclo hormonal y además se puede palpar el útero grande. Se diagnostica con la inspección y se trata con cirugía menor. El abuso sexual sí puede tener la misma clínica del cuerpo extraño, pero además suele tener erosiones vulvovaginales, signos de maltrato, conducta sexualizada, etc. La vulvovaginitis inespecífica tiene leucorrea inespecífica, con signos infiamatorios inespecíficos. El cáncer de vagina afecta a adultas y se presenta como un cuadro crónico de prurito vaginal, seguido luego de genitorragia y adenopatías inguinales.",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0012",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "cardio",
+      "medicina_interna"
+    ],
+    "tema": "Vulvovaginitis",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Una mujer presenta un aborto espontáneo hace 4 meses. Desde entonces ha utilizado anticonceptivos orales. Consulta por metrorragia de 15 días de evolución, sin otros síntomas. Se solicita un test de embarazo que resulta positivo y la ecografía transvaginal muestra endometrio engrosado y miometro irregular, con áreas heterogéneas, sin visualizar un saco gestacional. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Embarazo ectópico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome de Asherman",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cáncer de endometrio",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Adenomiosis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Neoplasia trofoblástica gestacional Es una NTG clásica, postaborto.",
+        "correcta": true
+      }
+    ],
+    "justificacion": "mola. El síndrome de Asherman (sinequias uterinas) es causa de amenorrea después de un legrado y tienen una ecografía con endometrio fino. El cáncer de endometrio tiene metrorragia y una ecografía concordante con el caso, pero no tiene elevación de la HCG, ni antecedente de un aborto, sino del “HONDA”. La adenomiosis tiene dismenorrea e hipermenorrea, sin elevación de la HCG y la ecografía muestra el miometrio irregular. Tanto las molas (lo más frecuente), como los abortos (menos frecuente) pueden originarla. Su clínica es metrorragia y se diagnostican con la HCG muy elevada. La ecografía es de ayuda: muestran el contenido endometrial irregular y puede tener formaciones de quistes, igual que la",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0013",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "urgencias",
+      "obstetricia",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Una pareja consulta porque no ha podido concebir un hijo, luego de un año de intentarlo. No utilizan ningún tipo de anticonceptivo y mantienen relaciones sexuales con regularidad, sin embargo, no han logrado ningún embarazo. Él no refiere ninguna patología previa y su examen físico es normal. Ella refiere tener reglas irregulares, que en promedio suceden cada 60 días y al examen físico se aprecia obesa, con algún grado de hirsutismo. ¿Cuál es la causa más probable de la infertilidad en esta pareja?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Anovulación",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Alteraciones tubo-peritoneales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Endometriosis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Alteración del factor masculino",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Esta pareja es normal y no tiene diagnóstico de infertilidad Si bien, la causa masculina es la más frecuente en general (40%), en este caso se describe en ella un síndrome de ovario poliquístico (SOP), ya que tiene oligomenorrea e hirsutismo. Por tanto, lo más probable es que se trate de una",
+        "correcta": false
+      }
+    ],
+    "justificacion": "infertilidad por anovulación, secundaria el SOP.",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0014",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "hemato",
+      "obstetricia",
+      "reuma"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Una mujer consulta por lesiones vulvares indoloras. Al examen se aprecian varias lesiones solevantadas, polipoideas en relación a los labios mayores y menores. El agente etiológico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Virus Herpes simplex",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Virus papiloma humano",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Virus pox",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Chlamydia trachomatis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Treponema pallidum",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Son condilomas acuminados clásicos, causados por VPH. Vale la pena mencionar que el virus pox es causa del molusco contagioso, que, en adultos, también se considera una infección de transmisión sexual, al igual que la viruela del mono (monkey pox o m-pox), que es de la misma familia: poxviridae.",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0015",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "pediatria",
+      "salud_publica"
+    ],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 16,
+    "enunciado": "El tratamiento de elección de la tricomoniasis vaginal es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Clindamicina tópica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fluconazol oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Albendazol oral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Doxiciclina oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Metronidazol oral La tricomoniasis se trata idealmente con metronidazol o tinidazol, en monodosis",
+        "correcta": true
+      }
+    ],
+    "justificacion": "(MTZ 2 gramos, VO, por 1 vez). La clindamicina tópica sirve para la vaginosis en pacientes embarazadas o alérgicas al metronidazol. El fiuconazol es el tratamiento de la candidiasis. El albendazol es el tratamiento de las infecciones por nemátodos (Ascaris, triquinosis, larva migrante, pidulles, etc.).",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0016",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Vulvovaginitis",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 17,
+    "enunciado": "¿Cuál de las siguientes es una contraindicación del uso de dispositivo intrauterino, como método anticonceptivo?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Multípara",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cesárea previa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Antecedente familiar de cáncer de endometrio",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Promiscuidad sexual",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Antecedente de abortos previos La promiscuidad sexual tiene riesgo de proceso infamatorio pélvico (PIP), por lo que se debe evitar el DIU, que también aumenta el riesgo de PIP (al insertarlo y retirarlo, por algunos días), pero que, además, en caso de un PIP es posible que haya que retirarlo.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "DIU. Si no responde, es obligatorio retirarlo. Actualmente, la recomendación en un PIP, más DIU, es indicar tratamiento antibiótico y evaluar en 2 a 3 días. Si responde por completo, se puede mantener el",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0017",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "hemato",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una paciente de 68 años consulta por pequeños escapes de orina, que se producen con frecuencia, al realizar fuerza, al toser o al reírse. Ha realizado ejercicios de Kegel, sin respuesta y su urocultivo es normal. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar estrógenos locales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar estrógenos más progestágenos orales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar cistoscopía",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar anticolinérgicos orales",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Resolver quirúrgicamente El tratamiento de la incontinencia urinaria de esfuerzos consiste en la kinesioterapia pélvica (ejercicios de Kegel) y si no responden, se procede a la cirugía, con una TVT",
+        "correcta": true
+      }
+    ],
+    "justificacion": "o TOT (cinta transvaginal o cinta transobturatriz). La incontinencia de urgencia, en cambio, se trata con psicoterapia cognitivo conductual (entrenamiento vesical), seguido de anticolinérgicos (idealmente tolterodina, o en su defecto, la oxibutinina). En ambos casos, antes, es necesario descartar ITU, con el urocultivo.",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0018",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica",
+      "uro"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Una paciente se realiza un PAP que muestra células escamosas y glandulares normales, con muestra satisfactoria. Su especuloscopía muestra una lesión cervical solevantada, de un centímetro de diámetro. La conducta más adecuada colposcopía y biopsia.",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar cono biópsico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar colposcopía y biopsia",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar curetaje endocervical",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar histerectomía Tanto la visualización de un tumor cervical, como el PAP atípico son indicación de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "El cono biópsico se indica en la disociación colpocitológica (atipías escamosas de alto grado, con colposcopía normal). El curetaje endocervical se indica en las atipías glandulares y en las atipías escamosas, con colposcopía insatisfactioria.",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0019",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma"
+    ],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Una mujer de 35 años acude al ginecólogo a control, se realiza un tacto vaginal, que demuestra un tumor anexial derecho. Se solicita ecografía, que muestra una lesión quística de 4 cm, de contenido anecogénico, en el ovario derecho. Su Ca125 resulta 12 UI/L. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cuerpo lúteo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Teratoma",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cáncer de ovario",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Quiste folicular",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Endometrioma Es un quiste folicular clásico: lesión quística simple, anecogénica, en una mujer en",
+        "correcta": false
+      }
+    ],
+    "justificacion": "edad fértil. El Ca125 está normal (menor a 35 UI/L). Se observa. - El cuerpo lúteo es sólido-quístico. - El teratoma benigno suele ser sólido y muy heterogéneo, o bien sólido-quístico, con visualización de dientes en su interior. - El cáncer de ovario suele presentarse en mujeres postmenopáusicas y tiene un aspecto sólido-quístico, con elevación del Ca125. - El endometrioma produce dismenorrea y además suele elevar el Ca125. Eso sí, tiene aspecto quístico, pero con contenido hipoecogénico (en vidrio esmerilado).",
+    "archivo_origen": "cnotrol_3.txt",
+    "id_unico": "GUEV-GIN-0020",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "pediatria",
+      "salud_publica"
+    ],
+    "tema": "Tumor_anexial",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_cnotrol_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Una paciente de 25 años, con antecedente de un parto prematuro, cursa su segundo embarazo, de 36 semanas. Presenta salida de líquido claro por genitales. La especuloscopía resulta normal y el test de cristalización es positivo. Al examen obstétrico se aprecia feto en cefálica, sin modificaciones cervicales y el RBNE es reactivo. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Interrumpir el embarazo",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar antibióticos y tocolíticos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar corticoides y antibióticos a la madre y hospitalizar, manteniendo una conducta expectante",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar corticoides a la madre y enviar a domicilio, indicando antibióticos orales",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar antibióticos y corticoides e interrumpir el embarazo en 48 horas Tiene una RPM mayor a 34 semanas, por lo que se debe interrumpir. En este caso, no hay contraindicaciones para el parto vaginal, por lo que se debe interrumpir con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "misoprostol.",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0021",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "urgencias",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Una mujer de 30 años está en trabajo de parto, en fase activa. Al momento de la rotura de membranas, se produce bradicardia fetal mantenida en el registro, hasta 70 lpm, sin metrorragia, ni dolor materno. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Rotura uterina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Desprendimiento de placenta",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Rotura de vasa previa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Procidencia de cordón",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Reacción vagal normal Es una procidencia de cordón clásica: sufrimiento fetal, que aparece luego de romper las membranas. Se debe hacer un tacto vaginal, para descomprimir el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "cordón y proceder a una cesárea de urgencia. La rotura de vasa previa puede ser igual, pero con metrorragia. El desprendimiento de placenta ex-vacuo puede ser similar, pero con metrorragia, contracciones dolorosas e hipertonía uterina.",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0022",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Una mujer cursando su primer embarazo de 12 semanas, presenta metrorragia escasa, sin otros síntomas. Al examen físico está en buenas condiciones, sin dinámica uterina y se aprecia que la metrorragia proviene del OCE. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar tactos vaginales seriados, para determinar la evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar niveles plasmáticos de beta-HCG",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar una ecografía obstétrica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar un registro basal no estresante",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar corticoides endovenosos y antibióticos a la madre y mantener una conducta expectante Tiene una metrorragia de la primera mitad del embarazo.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "modificaciones) o aborto en evolución (con modificaciones cervicales). La conducta es hacer una especuloscopía (ya se hizo, porque dice que la sangre proviene del OCE) y luego proceder a la ecografía obstétrica (transvaginal), que diferencia entre las distintas causas (aborto, embarazo ectópico y mola) y además ve los distintos tipos de aborto (con feto vivo, con huevo irregular, etc.). Si es aborto, con feto vivo, se procede al tacto vaginal, para diferenciar entre síntomas de aborto (sin",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0023",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "obstetricia",
+      "pediatria"
+    ],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Una mujer de 20 años, cursando un embarazo de 33 semanas, inicia contracciones uterinas, algunas de las cuales son dolorosas. Se constata la presencia de 2 contracciones uterinas cada 10 minutos y el registro de la frecuencia fetal es tranquilizador. El tacto vaginal muestra dilatación cervical de un centímetro. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar rotura artificial de membranas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar una ecografía transvaginal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Enviar a domicilio",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar labetalol y corticoides endovenoso",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar corticoides y tocolíticos endovenosos Tiene un trabajo de parto prematuro (contracciones y modificaciones cervicales, antes de las 37 semanas). Además, es menor a 34 semanas, por lo que se debe manejar con tocolíticos y corticoides. Si tuviese más de 34 semanas, se observaría",
+        "correcta": true
+      }
+    ],
+    "justificacion": "evolución.",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0024",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma"
+    ],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Una mujer de 28 años presenta atraso menstrual, por lo que se realiza un test de embarazo, que resulta positivo. Acude a control, realizándose una ecografía transvaginal, que muestra ausencia de gestación intrauterina. Se solicita beta-HCG que resulta 400 UI/L. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar legrado",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Repetir la beta-HCG en 48 horas",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Repetir la ecografía en 7 días",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Observar evolución, sin necesidad de controles en el corto plazo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar metotrexato Tiene una sospecha de embarazo ectópico.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ecografía. Si aumenta menos de 66%, probablemente es un embarazo ectópico. Sin embargo, por tener una HCG menor a 1.500-3.500 UI/L (varía según la fuente), también puede ser un embarazo normal, de menor edad gestacional. Por ello, se debe repetir la HCG en 48 horas. Si aumenta más de un 66%, probablemente es un embarazo normal y se segurá con HCG y",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0025",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Una mujer de 19 años, cursando un embarazo de 30 semanas, consulta por dolor abdominal. En las últimas semanas ha sentido malestar general, el que empeoró mucho en las últimas 24 horas. Al examen físico se aprecia algo ictérica, con PA: 190/120, edema en las extremidades inferiores. Sus exámenes demuestran anemia leve, plaquetas: 50.000, proteinuria cualitativa ++++, GOT: 280 UI/L, creatinina: mg/dl. El RBNE es reactivo. El diagnóstico es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de HELLP",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Colestasia intrahepática del embarazo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hígado graso agudo del embarazo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Rotura uterina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Corioamnionitis Tiene un síndrome de HELLP clásico: preclamsia (HTA, con proteinuria y edema),",
+        "correcta": false
+      }
+    ],
+    "justificacion": "anemia, trombopenia y hepatitis (además, el dolor epigástrico es característico). Además tiene una crisis hipertensiva (PA > o = a 160/110 mmHg). La CIE tiene prurito palmoplantar y a los más, colestasia en el laboratorio. El HGAE tiene una hepatitis severa, con gran malestar general, tendencia a las hipoglicemias y a la falla hepática, sin las cosas mencionadas en el HELLP.",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0026",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "obstetricia",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Una mujer de 40 años, cursando un embarazo de 32 semanas presenta polihidramnios, por lo que se realiza un test de tolerancia a la glucosa que muestra glicemia basal de 90 mg/dl y una glicemia 2 horas post 75g de glucosa de 130 mg/dl. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar nuevo test de tolerancia a la glucosa, con 100 gramos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar glicemia de ayuno",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar emoglobina glicosilada",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Descartar la Diabetes, como causa del polihidroamnios",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar test de tolerancia a las contracciones La diabetes gestacional se disgnostica como 2 glicemias mayores a 100, pero menores a 126 (al inicio del embarazo).",
+        "correcta": false
+      }
+    ],
+    "justificacion": "está estrictamente normal, así que no hay diabetes. También se diagnostica en la segunda mitad del embarazo, como un TTGO 75 gramos de glucosa, con glicemia basal de 100 mg/dl o más, o con la glicemia postcarga de 140 mg/dl o más. En este caso,",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0027",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Una mujer de 34 años presenta un embarazo de 33 semanas. Se realiza una ecografía obstétrica, que demuestra un feto con un peso en percentil 5 para la edad gestacional, con el diámetro craneano mayor al diámetro abdominal y normalidad en el líquido amniótico. ¿Qué conducta es MENOS adecuada para el manejo de esta paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar corticoides a la madre",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar PBF con frecuencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar actividad física frecuente, de tipo aeróbico, para mejorar el gasto cardíaco y por tanto la perfusión uterina",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar ecografía-doppler de arterias umbilicales, con frecuencia semanal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Interrumpir a las 37 semanas, o en caso de mala evolución Tiene un RCIU (peso menor a p10 para la edad gestacional). No es PEG, porque es asimétrico (diámetro craneano mayor al abdominal), por lo que se interrumpirá a las",
+        "correcta": false
+      }
+    ],
+    "justificacion": "37 semanas, si todo está bien (el PEG, en cambio, se interrumpe a las 40 semanas). Los corticoides están indicados por tener menos de 34 semanas. El doppler fetal (incluye el umbilical) es el examen más importante para seguir al RCIU y se pide semanalmente (si está normal). También se pide un RBNE o un PBF cada 2 días, para evaluar el estado fetal. Finalmente, se debe indicar reposo relativo, en decúbito lateral izquierdo, para mejorar la perfusión uterina, por lo que no está indicado el ejercicio físico frecuente.",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0028",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Una mujer multípara está en trabajo de parto en fase activa. Presenta 2 contracciones cada 10 minutos, feto en cefálica, cuello uterino completamente borrado, con dilatación de 5 cm y membranas rotas. Dos horas después se mantiene igual. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar episiotomía",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dejar evolucionar espontáneamente",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar cesárea",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar fórceps",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar goteo oxitócico Se asume que es un parto de término, ya que no le dan importancia a la edad gestacional (no la indican). Por estar en fase activa, se espera que en 2 horas haya dilatado al menos 2 cm. Como no ocurrió, se debe hacer una prueba de trabajo de",
+        "correcta": true
+      }
+    ],
+    "justificacion": "parto: 1. oxitocina para tener 3 a 5 contracciones en 10 minutos (solo tiene dos), 2. rotura de membranas (ya están rotas, así que no se puede hacer) y 3. anestesia (no está en las opciones, así que se asume que ya la tiene). Solo si no avanza, se debe hacer la cesárea, por desproporción cefalopélvica.",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0029",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "psiquiatria",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Una paciente multípara, cursando un embarazo de término, inicia trabajo de parto, en fase de expulsivo, con feto en presentación de vértice y 4 contracciones cada 10 minutos. Como antecedente tiene dos cesáreas previas a las 40 y 36 semanas respectivamente. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar cesárea",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Dejar evolución espontánea",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar fórceps",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar tocolíticos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar corticoides y tocolíticos Por tener 2 cesáreas previas, está contraindicado el parto vaginal, por riesgo de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "rotura uterina. Por ello, se debe hacer cesárea.",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0030",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "urgencias",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Una paciente con antecedente de SOP, presenta metrorragia en 2 oportunidades. Al examen físico se palpa útero aumentado de tamaño y la ecografía transvaginal muestra un endometrio engrosado, irregular. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Adenomiosis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Endometriosis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Miomatosis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Neoplasia trofoblástica gestacional",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cáncer de endometrio Tanto por el antecedente de SOP (anovulación), como por la clínica: metrorragia con útero aumentado y alteración ecográfica del endometrio, es un cáncer de",
+        "correcta": true
+      }
+    ],
+    "justificacion": "endometrio. La adenomiosis produce hipermenorrea y sí puede tener el útero grande. La ecografía ve el miometrio irregular. La endometriosis produce solo dismenorrea e infertilidad, sin alteraciones en el fiujo rojo. La ecografía suele ser normal. Los miomas producen hipermenorrea y un útero nodular. La ecografía los ve como un tumor sólido, homogéneo e hiperecogénico.",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0031",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "urgencias",
+      "pediatria",
+      "salud_publica"
+    ],
+    "tema": "Miomas_adenomiosis",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 12,
+    "enunciado": "En un control, una mujer de 60 años se realiza una ecografía transvaginal, que muestra la presencia de un tumor anexial derecho de 7 cm de diámetro, de aspecto quístico, con presencia de varias increcencias y escasa ascitis. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Endometrioma",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Quiste folicular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cuerpo albicans",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Teratoma quístico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cistoadenocarcinoma Es un cáncer de ovario clásico: tumor anexial complejo y con ascitis, en una mujer",
+        "correcta": true
+      }
+    ],
+    "justificacion": "postmenopáusica. El cistoadenocarcinoma es el más frecuente. El endometrioma ocurre en mujeres en edad fértil y tiene dolor y aspecto quístico, en vidrio esmerilado. El quiste folicular ocurre en mujeres en edad fértil y tiene aspecto quístico simple. El cuerpo albicans es una cicatriz de un cuerpo lúteo que involucionó. Generalmente no se ve en la ecografía y es algo normal.",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0032",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Tumor_anexial",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 13,
+    "enunciado": "¿Cuál de las siguientes es una contraindicación del uso de ACO?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Antecedentes familiares de cáncer de endometrio",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Antecedentes familiares de cáncer de ovario",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Antecedentes familiares de cáncer de mama",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Jaqueca con aura",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome de ovario poliquístico Los ACO aumentan el riesgo de cáncer de mama y disminuyen el riesgo de cáncer de ovario y de endometrio.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "uso de los mismos o si empeora con ellos. Los antecedentes familiares de ellos, no tienen mayor importancia y no contraindican el uso de ACO. Eso sí, el antecedente personal de cáncer de mama o de cáncer de endometrio, sí contraindican absolutamente el uso de ACO. Por su parte el SOP se trata con ACO. La jaqueca con aura es una contraindicación relativa de los ACO, en especial si es que la jaqueca empezó con el",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0033",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "urgencias"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "basica",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Una mujer de 30 años consulta por leucorrea y dolor abdominal bajo. Al examen físico se aprecia mucosa vulvar y vaginal normales, con escasa leucorrea que proviene del OCE. Además, presenta dolor a la palpación anexial y a la movilización cervical. La etiología más probable del cuadro descrito es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Parasitaria",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Bacteriana",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Obstrucción al tracto genital",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tumoral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Funcional Tiene un PIP clásico, que es causado por gonococo o Chlamydia trachomatis y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "luego se sobreinfecta con otras bacterias, en especial Gram negativos y anaerobios.",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0034",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Una mujer de 50 años se realiza una mamografía que muestra una lesión densa, informada como Birrads 0. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar ecografía mamaria",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar nueva mamografía de inmediato",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Controlar con nueva mamografía en 12 meses",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Derivar para biopsia mamaria con mamótomo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Derivar para resolución quirúrgica inmediata",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Birrads 0 (mamografía no sirve) = ecografía. Birrads 1 (normal) = mamografía en 1 o 2 años. Birrads 2 (benigno) = mamografía en 1 o 2 años. Birrads 3 (lesión incierta) = mamografía en 6 meses y se puede complementar con ecografía. Birrads 4 (probable cáncer) = biopsia por punción (mamótomo, trucut, estereotáxica, etc). Birrads 5 (cáncer) = biopsia quirúrgica. Birrads 6 (cáncer ya diagnosticada con biopsia) = tratamiento del cáncer, según estadía.",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0035",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 16,
+    "enunciado": "¿Cuál de las siguientes opciones es MENOS probable de encontrar en una paciente con endometriosis?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Infertilidad",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dispareunia profunda",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hipermenorrea",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Elevación del Ca-125",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Algia pélvica crónica cíclica La endometriosis presenta dolor (dismenorrea secundaria, dispareunia profunda y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "disquexia), más infertilidad. No tiene alteraciones de los fiujos rojos ni blancos. Como todo proceso peritoneal, puede elevar el Ca-125.",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0036",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [],
+    "tema": "Endometriosis",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Una mujer se realiza un PAP que es informado con presencia de atipías de tipo escamoso, de grado moderado. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar legrado endometrial biópsico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar cono cervical",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar nuevo PAP en un año",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar colposcopía",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar histerectomía Las atipías escamosas, se derivan a colposcopía y biopsia. La excepción son las ASCUS, que pueden seguirse con PAP en 6 meses, o tipificar el VPH, o bien",
+        "correcta": false
+      }
+    ],
+    "justificacion": "derivarlas a colposcopía y biopsia.",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0037",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una paciente refiere que sus reglas son muy abundantes, con coágulos en algunas ocasiones y que vienen regularmente cada 28 días. ¿Qué diagnóstico es más probable dentro de los enumerados?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hiperplasia endometrial",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cáncer de cuello uterino",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Miomas submucosos",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Proceso infiamatorio pélvico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Anovulación Tiene un sangrado uterino anormal, de tipo hipermenorrea.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "oligomenorrea. La causa más frecuente son los miomas submucosos. La HPE suele producir metrorragia, aunque también puede presentarse como hipermenorrea. El cáncer de cuello uterino produce una genitorragia, fuera del ciclo. El PIP produce leucorrea. La anovulación produce",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0038",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "pediatria"
+    ],
+    "tema": "Miomas_adenomiosis",
+    "dificultad_estimada": "basica",
+    "contexto": "hospital",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Una paciente de 34 años está en amenorrea desde hace 12 meses, luego de haber dado a luz a su segundo hijo. Se realiza test de embarazo que resulta negativo, TSH: UI/L, prolactina: 2 ng/dl, prueba de progesterona: negativa, prueba de estrógenos + progesterona: positiva, FSH: baja. ¿Qué diagnóstico es más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de Sheehan",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome de Asherman",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Falla ovárica prematura",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Anovulación",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Climaterio Es una pregunta difícil.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "el climaterio), sino que de causa central: hipotálamo-hipofisiaria. El síndrome de Sheehan es un infarto hipofisiario, por una metrorragia postparto. Se caracteriza por hipopituitarismo, con amenorrea y agalactia. En este caso, además tiene baja la prolactina y TSH. El síndrome de Asherman tiene todo el estudio hormonal normal, porque es secundario a alteraciones uterinas: sinequias postlegrado), por lo que tiene negativas tanto la prueba de progesterona, como la de estrógeno más progesterona. Tiene la TSH baja (lo que es compatible con un hipertiroidismo y también con un hipotiroidismo de causa central), además tiene la prolactina baja (compatible con hipopituitarismo). Sin embargo, lo más importante es que la prueba de progesterona está negativa (por lo que no es anovulación), y la prueba de estrógeno más progesterona está positiva, lo que confirma un hipogonadismo. Por tener la FSH baja, no es de causa ovárica (se descarta la FOP y",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0039",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "medicina_interna",
+      "obstetricia",
+      "salud_publica"
+    ],
+    "tema": "Amenorrea",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Una mujer de 50 años, histerectomizada, por acretismo placentario, consulta por bochornos y sequedad vaginal. No presenta otros síntomas y su examen físico es normal. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar raloxifeno",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar progestágeno sólo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar estrógeno solo",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar estrógeno + progestágeno",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar agonistas de la GnRH Tiene indicación de TRH, por los bochornos. Además, por ser histerectomizada, solo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "se indican los estrógenos solos. Si hubiese tenido útero, se indicaría el estrógeno más progestágeno. Los progestágenos solos, se indican como anticonceptivo, en la lactancia materna.",
+    "archivo_origen": "contorl_2.txt",
+    "id_unico": "GUEV-GIN-0040",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "hemato",
+      "obstetricia"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "basica",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_contorl_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Una paciente de 25 años, con antecedente de un parto prematuro, cursa su segundo embarazo, de 32 semanas. Presenta salida de líquido claro por genitales. La especuloscopía resulta normal y el test de cristalización es positivo. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Interrumpir el embarazo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar corticoides y tocolíticos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar corticoides y antibióticos a la madre y hospitalizar, manteniendo una conducta expectante",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar corticoides a la madre y enviar a domicilio, indicando antibióticos orales",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar antibióticos y corticoides e interrumpir el embarazo en 48 horas Tiene una RPM menor a 32 semanas, por lo que se debe manejar de manera expectante, con antibióticos y corticoides.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "prefiere mantener una conducta expectante. Se interrumpirá al cumplir las 34 semanas o si desarrolla clínica de corioamnionitis. La opción E (coriticoides + ATB + interrumpir en 48 h) es aceptable entre las 32 y 34 semanas, pero actualmente se",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0041",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "urgencias",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Una mujer de 30 años está en trabajo de parto, en fase activa. Al momento de la rotura de membranas, se produce metrorragia, acompañada de bradicardia fetal en el registro. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar cesárea de urgencia",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar test de Apt-Downey para determinar el origen de la sangre",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar perfil biofísico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar fórceps de inmediato",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar tocolíticos Es una rotura de vasa previa clásica: metrorragia y sufrimiento fetal, que aparece luego de romper las membranas. Se debe proceder a una cesárea de urgencia, ya que de lo contrario, fallece el feto por shock hipovolémico, dado que la sangre es de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "origen fetal.",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0042",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Una mujer cursando su primer embarazo de 32 semanas, presenta metrorragia escasa, sin otros síntomas. Al examen físico está en buenas condiciones, sin dinámica uterina. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar tactos vaginales seriados, para determinar la evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar niveles plasmáticos de beta-HCG",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar una ecografía obstétrica y un test de tolerancia a las contracciones",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar una ecografía obstétrica y un perfil biofísico",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar corticoides endovenosos a la madre e interrumpir el embarazo en 48 horas, por una cesárea Tiene una metrorragia de la segunda mitad del embarazo.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "causas (placenta previa y desprendimiento prematuro de placenta normoinserta). Además, es correcto evaluar el bienestar fetal, con el RBNE o PBF. La conducta es hacer una especuloscopía (ya se hizo, porque dice que la sangre proviene del OCE) y luego proceder a la ecografía obstétrica (transvaginal), que diferencia entre las distintas",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0043",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Una mujer de 20 años, cursando un embarazo de 33 semanas, inicia contracciones uterinas, algunas de las cuales son dolorosas. Se constata la presencia de 2 contracciones uterinas cada 10 minutos y el registro de la frecuencia fetal es tranquilizador. El tacto vaginal no muestra modificaciones cervicales. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar una amniocentesis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar una ecografía transvaginal",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Enviar a domicilio",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar nifedipino oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar corticoides, tocolíticos y antibióticos endovenosos Tiene una amenaza de parto prematuro (contracciones, sin modificaciones cervicales, antes de las 37 semanas).",
+        "correcta": false
+      }
+    ],
+    "justificacion": "observaría evolución. Si tiene menos, se debe manejar con tocolíticos y corticoides. La amniocentesis solo se indica si tiene menos de 15 mm o si no responde a los tocolíticos de primera línea. Además, es menor a 34 semanas, por lo que se debe realizar una cervicometría, para determinar el riesgo de evolución a un trabajo de parto prematuro. Si tuviese 30 mm o más de longitud cervical, se",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0044",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "medicina_interna",
+      "psiquiatria"
+    ],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Una mujer de 28 años presenta atraso menstrual, por lo que se realiza un test de embarazo, que resulta positivo. Acude a control, realizándose una ecografía transvaginal, que muestra ausencia de gestación intrauterina. Se solicita beta-HCG que resulta 400 UI/L. Se repite la ecografía 48 horas después, sin poder visualizar una gestación intrauterina y se repite también la beta-HCG, resultando 800 UI/L. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Embarazo ectópico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Embarazo normal",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Aborto retenido",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Aborto completo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Embarazo molar Por tener una HCG menor a 1.500-3.500 UI/L (según la fuente varía), puede ser un embarazo normal, de menor edad gestacional o un embarazo ectópico.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "menos de 66%, probablemente es un embarazo ectópico. Por ello, se debe repetir la HCG en 48 horas. Si aumenta más de un 66%, probablemente es un embarazo normal (como en este caso) y se segurá con HCG y ecografía. Si aumenta",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0045",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Una mujer de 19 años, cursando un embarazo de 30 semanas, consulta por dolor abdominal. En las últimas semanas ha sentido malestar general, el que empeoró mucho en las últimas 24 horas. Al examen físico se aprecia algo ictérica, con PA: 190/120, edema en las extremidades inferiores. Sus exámenes demuestran anemia leve, plaquetas: 50.000, proteinuria cualitativa ++++, GOT: 280 UI/L, creatinina: mg/dl. El RBNE es reactivo. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar labetalol y sulfato de magnesio, por vía endovenosa y realizar cesárea",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar fenoterol por vía endovenosa e interrumpir el embarazo por la vía más expedita",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar labetalol y corticoides por vía endovenosa y mantener una conducta expectante hasta las 34 semanas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar fenoterol por vía endovenosa e inducir el parto con misoprostol intravaginal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar nifedipino por vía oral y realizar cesárea de urgencia Tiene un síndrome de HELLP clásico: preclamsia (HTA, con proteinuria y edema), anemia, trombopenia y hepatitis (además, el dolor epigástrico es característico).",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que se usa como tocolítico de segunda línea. Se trata con interrupción (en este caso cesárea, por no tener un trabajo de parto avanzado, por lo que demoraría mucho la inducción), pero previamente se debe administrar el sulfato de magnesio. Además tiene una crisis hipertensiva (PA > o = a 160/110 mmHg), que se maneja con labetalol ev. El fenoterol es un beta-agonista,",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0046",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "obstetricia",
+      "reuma",
+      "cardio"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Una mujer de 40 años, cursando un embarazo de 32 semanas presenta polihidramnios, por lo que se realiza un test de tolerancia a la glucosa que muestra glicemia basal de 110 mg/dl y una glicemia 2 horas post 75 g de glucosa de 180 mg/dl. Se indica dieta. ¿Cuál es el mejor examen para evaluar el control metabólico de esta paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Test de tolerancia a la glucosa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Glicemia de ayuno",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hemoglobina glicosilada",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Glicemias preprandiales y postprandiales",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Ecografía obstétrica, con estimación de peso fetal La diabetes gestacional (DMG) se diagnostica como 2 glicemias mayores a 100, pero menores a 126 (al inicio del embarazo); si son de 126 o más, se diagnostica",
+        "correcta": false
+      }
+    ],
+    "justificacion": "una diabetes pregestacional (DMPG). La DMG también se diagnostica en la segunda mitad del embarazo, como un TTGO 75 gramos de glucosa, con glicemia basal de 100 mg/dl o más, o con la glicemia postcarga de 140 mg/dl o más. En este caso, tanto por la glicemia basal, como por la postcarga, tiene una DMG. - Se debe evaluar con glicemias capilares pre y postprandiales (mínimo 4 al día), las que deben ser 60-90 y 90-120, respectivamente. Se controla cada 2 semanas para determinar si el tratamiento es el adecuado. La HbA1c no sirve en el embarazo, por demorar mucho en alterarse o en mejorar, pero aún así, vale la pena mencionar, que lo ideal, es que sea menor a 6% (se es bastante estricto en el embarazo).",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0047",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Una mujer de 34 años presenta un embarazo de 34 semanas. Se realiza una ecografía obstétrica, que demuestra un feto con un peso en percentil 3 para la edad gestacional, con normalidad en el líquido amniótico. El registro basal no estresante no muestra alteraciones. ¿Qué conducta es más adecuada para el manejo de esta paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Interrupción por la vía más expedita",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Inducción del parto con misoprostol",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar un doppler de arterias uterinas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar corticoides y tocolíticos a la madre",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar un doppler fetal Tiene un RCIU (peso menor a p10 para la edad gestacional), aunque también podría",
+        "correcta": true
+      }
+    ],
+    "justificacion": "ser un PEG (desde percentil 3 en adelante puede ser PEG). - Los corticoides están indicados por tener menos de 34 semanas, pero el Doppler fetal (incluye el doppler umbilical, de arteria cerebral media y del ducto venoso) es el examen fundamental para distinguirlo del feto PEG, seguir al RCIU y determinar el momento de la interrupción, por lo que es lo más importante. - El doppler de uterinas, aunque su evidencia es muy escasa, se realiza como screening de preclamsia y de RCIU, pero en ambos casos, una vez hecho el diagnóstico, ya no tiene utilidad, por lo que el doppler fetal pasa a ser el examen más importante, para evaluar la unidad fetoplacentaria.",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0048",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica",
+      "reuma"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Una mujer multípara está en trabajo de parto a las 40 semanas. Presenta 3 contracciones cada 10 minutos, feto en cefálica, cuello uterino completamente borrado, con dilatación de 5 cm y membranas íntegras. Tres horas después tiene una dilatación de 6 cm. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar rotura de membranas",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Dejar evolucionar espontáneamente",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar cesárea",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar fórceps",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar goteo oxitócico",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Por estar en fase activa, se espera que en 3 horas haya dilatado al menos 3 cm. Como no ocurrió, se debe hacer una prueba de trabajo de parto: 1. oxitocina para tener 3 a 5 contracciones en 10 minutos (ya las tiene), 2. rotura de membranas (se debe hacer en este caso) y 3. anestesia (no está en las opciones, así que se asume que ya la tiene). Solo si no avanza, se debe hacer la cesárea, por desproporción cefalopélvica.",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0049",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "psiquiatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Una paciente multípara, cursando un embarazo de término, inicia trabajo de parto, en fase de expulsivo, con feto en presentación de vértice y 4 contracciones cada 10 minutos. Como antecedente tiene una cesárea previa a las 36 semanas. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar cesárea",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dejar evolución espontánea",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar fórceps",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar tocolíticos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar corticoides y tocolíticos Por tener solo 1 cesárea previa, tiene opción de parto vaginal. Por ello, se debe dejar",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que evolucione espontáneamente.",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0050",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "urgencias"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Una paciente de 35 años, presenta hipermenorrea y dismenorrea, desde hace un año y medio. Al examen físico se palpa útero aumentado de tamaño y la ecografía transvaginal muestra un miometrio irregular. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Adenomiosis",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Endometriosis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Miomatosis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Neoplasia trofoblástica gestacional",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cáncer de endometrio Es una adenomiosis clásica: produce hipermenorrea y puede tener el útero grande,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "liso. La ecografía ve el miometrio irregular. El cáncer de endometrio se presenta como metrorragia con útero aumentado. La ecografía muestra al endometrio engrosado e irregular. La endometriosis produce solo dismenorrea e infertilidad, sin alteraciones en el fiujo rojo. La ecografía suele ser normal. Los miomas producen hipermenorrea y un útero nodular. La ecografía los ve como un tumor sólido, homogéneo e hiperecogénico.",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0051",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "pediatria",
+      "salud_publica"
+    ],
+    "tema": "SUA",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 12,
+    "enunciado": "En un control, una mujer de 60 años se realiza una ecografía transvaginal, que muestra la presencia de un tumor anexial derecho de 5 cm de diámetro, de aspecto quístico, con presencia de varias increcencias. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar tratamiento con agonistas de GnRH y realizar tumorectomía laparoscópica en 3 meses",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar anticonceptivos orales y controlar con nueva ecografía en 3 meses",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar drenaje por punción del contenido del tumor quístico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar anexectomía y biopsia quirúrgica Tiene tumor anexial complejo, por lo que debe sospecharse un cáncer de ovario. Por",
+        "correcta": true
+      }
+    ],
+    "justificacion": "tanto, se debe proceder a la cirugía laparocópica, con biosia rápida intraoperatoria. Por ser postmenopáusica, no vale la pena hacer una tumorectomía, sino directamente la anexectomía. Las biopsias ováricas no son por punción, sino quirúrgicas.",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0052",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [],
+    "tema": "Tumor_anexial",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 13,
+    "enunciado": "¿Cuál de las siguientes es una contraindicación del uso de ACO?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Antecedentes familiares de cáncer de endometrio",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Antecedentes familiares de cáncer de ovario",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Antecedentes familiares de cáncer de cuello uterino",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hipertensión arterial",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trombofilia Las contraindicaciones más importantes de los ACO son: antecedente personal de cáncer de mama, cáncer de endometrio, metrorragia de origen desconocido (porque",
+        "correcta": true
+      }
+    ],
+    "justificacion": "puede ser de endometrio), los melanomas, el alto riesgo cardiovascular (ej. fumadora mayor de 35 años), las trombofilias, el lupus, la migraña que empeora con ACO. Vale la pena mencionar que los antecedentes familiares no contraindican el uso de ACO.",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0053",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "urgencias",
+      "dermato",
+      "pediatria",
+      "salud_publica"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Una mujer de 30 años consulta por leucorrea, abundante y disuria. Al examen físico se aprecia mucosa vulvar y vaginal eritematosa, con cuello uterino con abundantes petequias y leucorrea verde abundante. Además, presenta mal olor. La etiología más probable del cuadro descrito es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Parasitaria",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Bacteriana",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Obstrucción al tracto genital",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tumoral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Funcional",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una tricomoniasis clásica, que es un parásito (protozoo fiagelado).",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0054",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Una mujer de 50 años se realiza una mamografía que muestra una lesión espiculada y densa, con algunas calcificaciones, informada como Birrads 4. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar ecografía mamaria",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar nueva mamografía de inmediato",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Controlar con nueva mamografía en 6 meses",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Derivar para biopsia mamaria con mamótomo",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Derivar para resolución quirúrgica inmediata",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Birrads 0 (mamografía no sirve) = ecografía. Birrads 1 (normal) = mamografía en 1 o 2 años. Birrads 2 (benigno) = mamografía en 1 o 2 años. Birrads 3 (lesión incierta) = mamografía en 6 meses y se puede complementar con ecografía. Birrads 4 (lesión sospechosa de cáncer) = biopsia por punción (mamótomo, trucut, punción con aguja gruesa; estereotáxica si no es palpable). Birrads 5 (cáncer con alta probabilidad) = biopsia quirúrgica. Birrads 6 (cáncer ya diagnosticado previamente, con biopsia) = tratamiento del cáncer, según estadía.",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0055",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "cardio",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 16,
+    "enunciado": "¿Cuál de las siguientes opciones es más probable de encontrar en una paciente con endometriosis?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Metrorragia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dispareunia superficial",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Infertilidad",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Dismenorrea primaria",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Leucorrea La endometriosis presenta dolor (dismenorrea secundaria, dispareunia profunda y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "disquexia), más infertilidad. No tiene alteraciones de los fiujos rojos ni blancos. Como todo proceso peritoneal, puede elevar el Ca-125.",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0056",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [],
+    "tema": "Endometriosis",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Una mujer se realiza un PAP que es informado con presencia de atipías de tipo glandular, de grado moderado. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar legrado endometrial biópsico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar cono cervical",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar nuevo PAP en un año",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar colposcopía y curetaje endocervical",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar histerectomía Las atipías galndulares, se derivan a colposcopía, más curetaje endocervical y biopsia. Si está normal, se prosigue el estudio con una biopsia de endometrio. Las",
+        "correcta": false
+      }
+    ],
+    "justificacion": "AGUS se manejan igual.",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0057",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una niña de 12 años refiere que sus reglas son muy abundantes, con coágulos en algunas ocasiones y que vienen regularmente cada 28 días, desde hace 1 año. Ha sido tratada por anemia ferropénica y se realizó una exploración clínica ginecológica, que mostró himen perforado, sin alteraciones en los genitales externos, así como una ecografía transrectal, que fue normal. ¿Qué conducta es más importante dentro de los enumerados?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar biopsia endometrial",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar PAP y colposcopía",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar pruebas de hemostasia",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar cultivos vaginales",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar ACO Tiene un sangrado uterino anormal, de tipo hipermenorrea. La causa más frecuente son los miomas submucosos, pero en las adolescentes, después de descartar alteraciones anatómicas con la ecografía, es necesario descartar las alteraciones",
+        "correcta": false
+      }
+    ],
+    "justificacion": "de la hemostasia, como la enfermedad de von Willebrand.",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0058",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Una paciente de 34 años está en amenorrea desde hace 12 meses, luego de haber dado a luz a su segundo hijo. Se realiza test de embarazo que resulta negativo, TSH: UI/L, prolactina: normal, prueba de progesterona: negativa, prueba de estrógenos + progesterona: negativa. ¿Qué diagnóstico es más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de Sheehan",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome de Asherman",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Falla ovárica prematura",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Anovulación",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Amenorrea de causa hipotalámica El síndrome de Asherman tiene todo el estudio hormonal normal, porque es secundario a alteraciones uterinas: sinequias, luego del legrado postparto), por lo que tiene negativas tanto la prueba de progesterona, como la de estrógeno más progesterona.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "anovulación, además, tiene positiva la prueba de progesterona. El síndrome de Sheehan (hipopituitarismo), la falla ovárica y la falla hipotalámica tienen positiva la prueba de estrógenos más progesterona. La",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0059",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "medicina_interna",
+      "obstetricia"
+    ],
+    "tema": "Amenorrea",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Una mujer de 50 años, sin antecedentes de importancia, consulta por bochornos y sequedad vaginal. No presenta otros síntomas y su examen físico es normal. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar raloxifeno",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar progestágeno sólo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar estrógeno solo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar estrógeno + progestágeno",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar agonistas de la GnRH Tiene indicación de TRH, por los bochornos. Como tiene útero, se indican estrógenos más progestágenos. Si hubiese estado histerectomizada, solo se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "indicarían los estrógenos solos. Los progestágenos solos, se indican como anticonceptivo, en la lactancia materna.",
+    "archivo_origen": "control_1.txt",
+    "id_unico": "GUEV-GIN-0060",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "urgencias",
+      "hemato",
+      "pediatria"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "basica",
+    "contexto": "urgencia",
+    "origen": "guevara_ginecologia_control_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Una paciente de 50 años se realiza un PAP, que muestra displasias glandulares de alto grado. Se realiza colposcopía, con curetaje endocervical y biopsia, que no muestra alteraciones. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar biopsia endometrial",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar cono frío",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar cono con asa LEEP",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar histerectomía",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución Las displasias glandulares se estudia en el siguiente orden: 1. Pedir colposcopía +",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Curetaje endocervical y biopsias. Si sale normal: 2. Biopsia de endometrio.",
+    "archivo_origen": "prueba_final_modulo_3_-_1.txt",
+    "id_unico": "GUEV-GIN-0061",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Una mujer de 35 años consulta por telorrea de 3 semanas de evolución, que ha ido en aumento. Al examen físico se constata galactorrea bilateral. Refiere que está en tratamiento con anticonceptivos orales y con medicamentos para bajar de peso. No tiene trastornos menstruales ni otras alteraciones. ¿Qué examen es el más adecuado para el estudio es esta paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Niveles plasmáticos de beta-HCG",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Niveles plasmáticos de prolactina",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Niveles plasmáticos de LH y FSH",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Niveles plasmáticos de TSH",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Ecografía mamaria Telorrea significa secreción mamaria.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hay estrógenos. El síndrome amenorrea-galactorrea se estudia con prolactinemia (primero se hace el test de embarazo). Vale la pena decir que cuando se usan ACO, no hay amenorrea (porque los ACO suplen el hipogonadismo que produce la hiperprolactinemia), sino solo galactorrea. En hombres, la hiperprolactinemia solo produce un hipogonadismo (debilidad, disminución de vello corporal y disfunción sexual), sin amenorrea (no tienen útero), ni galactorrea (porque las mamas no están estrogenizadas), ni tampoco ginecomastia, porque no",
+    "archivo_origen": "prueba_final_modulo_3_-_1.txt",
+    "id_unico": "GUEV-GIN-0062",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "hemato",
+      "obstetricia"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 59,
+    "enunciado": "Una paciente de 38 años presenta un embarazo de 8 semanas por amenorrea. Tiene náuseas y vómitos importantes y desde ayer presenta metrorragia. Al examen físico se palpa el útero suprapúbico y se realiza especuloscopía, con visualización de sangre saliendo por el OCE, el que se observa cerrado y posterior. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síntomas de aborto",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Aborto en evolución",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Embarazo ectópico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Mola hidatidiforme",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Cáncer de endometrio Tiene una mola completa, con hiperemesis, útero mayor lo esperado para su edad gestacional (suprapúbico es de 12 semanas y solo tiene 8 semanas) y la metrorragia de la primera mitad de embarazo.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "intrauterinos, así como los quistes tecaluteínicos en los ovarios. De todos modos, es necesario hacer una ecografía transvaginal como primer examen, que suele ver los múltiples quistes",
+    "archivo_origen": "prueba_final_modulo_3_-_1.txt",
+    "id_unico": "GUEV-GIN-0063",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "urgencias",
+      "obstetricia",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Amenorrea",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_1",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Una paciente de 35 años consulta por dismenorrea de 6 meses de evolución, que ha ido en aumento. Además, refiere que no ha podido embarazarse, a pesar de llevar más de un año intentándolo. Su examen físico no aporta mayor información. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Miomatosis uterina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dismenorrea primaria",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Anovulación crónica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Adenomiosis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Endometriosis Tanto por la infertilidad (mayor a 1 año), como por la dismenorrea secundaria, la sospecha es una endometriosis.",
+        "correcta": true
+      }
+    ],
+    "justificacion": "hipermenorrea, sin infertilidad. Los miomas producen hipermenorrea y aumento del tamaño uterino, que se palpa nodular. La dismenorrea primaria ocurre desde la primera regla. La anovulación solo produce oligomenorrea o amenorrea, más infertilidad, sin dolor. La adenomiosis produce dismenorrea secundaria, más",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-GIN-0064",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Miomas_adenomiosis",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Una paciente de 26 años consulta por hipermenorrea importante. Además, ha presentado dos abortos en los últimos dos años, por lo que no tiene hijos, a pesar de querer tenerlos. Se solicita una ecografía transvaginal, que muestra un mioma submucoso de 3 cm de diámetro, en el fondo uterino. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar anticonceptivos orales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar tratamiento con análogos de GnRH por un año y revaluar",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar miomectomía histeroscópica",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar histerectomía Tiene miomas sintomáticos (hipermenorrea y abortos), con deseos de paridad, por lo que se trata con miomectomía histeroscópica. Si tuviera paridad cumplida, con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "síntomas, se haría histerectomía. Si fueran asintomáticos, se observarían.",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-GIN-0065",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Miomas_adenomiosis",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Una mujer de 36 años consulta por mastalgia frecuente. Al examen físico se palpan múltiples nódulos mamarios bilaterales. Se solicita una mamografía, que es informada como Birrads 2. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fibroadenomas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cáncer de mama",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Enfermedad de Paget",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Mastopatía fibroquística",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Mastalgia premenstrual idiopática Es una mastopatía fibroquística clásica: mamas nodulares, con mastalgia, que aumenta previo a la menstruación.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "secreción hemática, adenopatías axilares. Que sea Birrads 2, significa que tiene una lesión benigna (se observa). Los fibroadenomas son tumores sólidos, lisos y móviles, de consistencia gomosa. El cáncer de mama es un nódulo único, con signos de malignidad (retracción del pezón, adherencia a planos profundos, piel de naranja,",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-GIN-0066",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "pediatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Patologia_mama",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Una paciente de 34 años consulta por leucorrea, asociada a prurito vaginal. Se realiza una especuloscopía, que muestra una vulvovaginitis, con leucorrea blanquecina, grumosa. ¿Qué tratamiento es el más adecuado?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Estrógenos tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Metronidazol oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Fluconazol oral",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Ciprofioxacino oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Clindamicina tópica Tiene una candidiasis vaginal clásica (leucorrea blanca grumosa, con prurito vaginal). Se trata con fiuconazol oral (o clotrimazol tópico, en las embarazadas, por",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ejemplo).",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-GIN-0067",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "Vulvovaginitis",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 22,
+    "enunciado": "Una paciente de 30 años, usuaria de DIU, consulta por dolor hipogástrico y leucorrea. Al examen físico está febril y la especuloscopía demuestra pus que sale por el OCE. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Retirar el DIU de inmediato e iniciar tratamiento antibiótico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar tratamiento antibiótico y retirar el DIU en una segunda instancia, si no responde",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Simplemente retirar del DIU",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Retirar el DIU de inmediato y realizar legrado uterino",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Resolver quirúrgicamente, mediante histerectomía El tratamiento actual del proceso infiamatorio pélvico, en contexto de un DIU es",
+        "correcta": false
+      }
+    ],
+    "justificacion": "indicar antibióticos y solo retirar el DIU si no responde en 2 a 3 días.",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-GIN-0068",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 26,
+    "enunciado": "Una paciente presenta una metrorragia disfuncional de 6 días de evolución. ¿Cuál es el tratamiento inicial?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Anticonceptivos orales",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Ácido mefenámico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Ácido tranexánico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Clomifeno",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Legrado La metrorragia disfuncional se trata con estrógenos orales en alta dosis o bien la instalación de un DIU medicado con levonorgestrel (el DIU medicado es mejor, pero suele no estar disponible).",
+        "correcta": false
+      }
+    ],
+    "justificacion": "casos excepcionales, a la histerectomía o a la ablación uterina. Si falla o si es demasiado grave (al punto de producir una anemia aguda o un shock hipovolémico), se procede al legrado de urgencia o, en",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-GIN-0069",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "neurologia",
+      "reuma",
+      "urgencias"
+    ],
+    "tema": "SUA",
+    "dificultad_estimada": "basica",
+    "contexto": "hospital",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 30,
+    "enunciado": "Una paciente se realiza un PAP, que muestra displasias escamosas de significado incierto, por lo que se deriva a colposcopía, que visualiza una lesión cervical, de 2 cm de diámetro, acetoblanca, con reticulado eritematoso y algunos vasos sanguíneos visibles. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar cono frío",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar biopsia de la lesión",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar histerectomía radical",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar crioterapia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución Toda lesión cervical debe biopsiarse.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "vasos sanguíneos dilatados (esto sugiere que puede ya ser un cáncer). En este caso, además, se sospecha una NIE (neoplasia intraepitelial), también llamada LIE (lesión intraepitelial), que suele verse como una lesión acetoblanca en la colposcopía y a medida que va progresando, se ve con un punteado rojo, que se vuelve un reticulado rojo y finalmente se agregan",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-GIN-0070",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 46,
+    "enunciado": "Una paciente de 20 años, nulípara, desea iniciar un método anticonceptivo, ya que mantiene relaciones sexuales con cierta frecuencia con su novio, con quien tiene una relación seria y estable. No tiene enfermedades ni utiliza medicamentos. Eso sí refiere dismenorrea moderada, desde que presentó su primera regla. ¿Qué método anticonceptivo le recomienda?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "DIU de cobre",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Estrógeno solo oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Progestágeno solo oral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Anticonceptivos orales combinados (estrógeno más progestágeno)",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Preservativo El DIU de cobre está contraindicado, porque empeora la dismenorrea (tiene dismenorrea primaria, porque empezó con la primera regla). Sí podría usar el DIU",
+        "correcta": false
+      }
+    ],
+    "justificacion": "medicado. El estrógeno solo únicamente se usa como TRH en las pacientes histerectomizadas. El progestágeno solo se usa en la lactancia, como anticoncepción. El preservativo tiene más riesgo de embarazo y no es necesario en una pareja estable. Por lo anterior y por no tener contraindicaciones para los ACO, se deben usar los ACO. Además, servirán para disminuir la dismenorrea.",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-GIN-0071",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica",
+      "hemato"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 50,
+    "enunciado": "Una paciente, diagnosticada de SOP está en amenorrea desde hace 3 meses. Previo a esto presentaba oligomenorrea. Su examen físico muestra algún grado de hirsutismo, sin otras alteraciones. ¿Cuál es la causa más probable de su amenorrea?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Embarazo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Anovulación",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Hipotiroidismo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hipoestrogenismo de origen ovárico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hipoestrogenismo de causa hipotalámica",
+        "correcta": false
+      }
+    ],
+    "justificacion": "La anovulación es la causa más frecuente de amenorrea secundaria, sin embarazo. Además, por el diagnóstico de SOP y la oligomenorrea previa, casi con seguridad es anovulación.",
+    "archivo_origen": "prueba_final_modulo_3_-_2.txt",
+    "id_unico": "GUEV-GIN-0072",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "obstetricia",
+      "salud_publica"
+    ],
+    "tema": "Amenorrea",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Una mujer se realiza un Papanicolaou de control, que muestra células atípicas de tipo glandular. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Repetir el Papanicolaou",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar colposcopía y curetaje endocervical",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar biopsia endometrial Pipelle",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar cono biópsico-terapéutico Las atipías glandulares y las AGUS (glandulares de significado incierto) se derivan a patología cervical y se estudian con colposcopía más curetaje endocervical, más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "biopsias. Si está normal, se prosigue con la biopsia endometrial. En cambio, las atipías escamosas se derivan a colposcopía y biopsia. El curetaje cervical solo se hace si hay una colposcopía no satisfactoria. Si la colposcopía es normal y las displasias eran de alto grado (disociación colpocitológica), se procede al cono biópsico. Las ASCUS se pueden observar, tratar con crioterapia y es aceptable tipificar el VPH, en busca de los serotipos de alto grado.",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-GIN-0073",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "psiquiatria",
+      "reuma"
+    ],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 35,
+    "enunciado": "Una mujer de 44 años está en amenorrea desde hace 5 meses. Se ha realizado varios exámenes entre los que destacan test de embarazo: negativo, TSH: normal, prolactinemia: normal, prueba de progesterona: negativa, prueba de estrógeno más progesterona: positiva y LH/FSH: elevada. ¿Cuál es la causa más probable de su amenorrea?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Anovulación",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Alteración uterina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Falla ovárica prematura",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hipotalámica / hipofisiaria",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Menopausia normal Tiene TSH y prolactina normales, por lo que no puede ser hiperprolactinemia, ni hipotiroidismo.",
+        "correcta": true
+      }
+    ],
+    "justificacion": "falla ovárica prematura. La prueba de progesterona está negativa, lo que descarta la anovulación. Tiene la prueba de estrógeno más progesterona positiva, lo que confirma un hipogonadismo y descarta las causas uterinas. Finalmente, tiene las gonadotropinas elevadas (hipogonadismo hipergonadotrópico), por lo que se trata de una amenorrea de causa ovárica. Dado que tiene más de 40 años, es una menopausia normal. Si tuviese menos de 40 años, sería una menopausia precoz o",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-GIN-0074",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica",
+      "obstetricia"
+    ],
+    "tema": "Amenorrea",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 39,
+    "enunciado": "¿Cuál es el efecto adverso más frecuente de los anticonceptivos con microdosis de etinil estradiol?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Atrofia genitourinaria",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dislipidemia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trombosis venosa profunda",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Spotting (goteo)",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Síntomas vasomotores (bochornos) Los ACO con microdosis de estrógeno tiene la ventaja de tener menos efectos adversos (dada la menor dosis), pero tiene riesgo de spotting o goteo intermenstrual. En general, se indica una microdosis (15 a 20 ug) y se cambia a",
+        "correcta": false
+      }
+    ],
+    "justificacion": "dosis estándar (30 ug) solo si tiene goteo.",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-GIN-0075",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "hemato",
+      "reuma"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 47,
+    "enunciado": "Una niña de 5 años presenta metrorragia de mal olor. Al examen físico se aprecia secreción hemopurulenta que proviene de la vagina. Los padres se muestran muy preocupados. Se pregunta dirigidamente por posibilidad de abuso sexual, lo que los padres creen muy improbable. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Himen imperforado complicado",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Abuso sexual",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Vulvovaginitis inespecífica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Cuerpo extraño vaginal",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Cáncer de vagina",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es un cuerpo extraño vaginal clásico: metrorragia y leucorrea maloliente. - En general son por papel higiénico en sobre el himen y son muy frecuentes en niñas. - El himen imperforado produce amenorrea primaria, más dolor abdominal y eventualmente masa abdominal (por el útero aumentado de tamaño). - El abuso sexual sí puede tener la clínica del caso y es importante evaluar su posibilidad, pero es más raro y tiene otros elementos, como actitud sexualizada de la niña u otras alteraciones psicológicas (se sospecharía si no hay cuerpo extraño o infecciones de transmisión secual). - El cáncer vulvovaginal afecta a adultas y se caracteriza por prurito vaginal y luego genitorragia, más adenopatías inguinales.",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-GIN-0076",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "medicina_interna",
+      "pediatria"
+    ],
+    "tema": "Amenorrea",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 51,
+    "enunciado": "Una mujer presenta un aborto espontáneo hace 4 meses. Desde entonces ha utilizado anticonceptivos orales, sin embargo, no ha tenido menstruación. Se solicita un test de embarazo que resulta negativo y la ecografía transvaginal muestra endometrio fino. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Embarazo ectópico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Sinequias uterinas",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Endometriosis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Atrofia endometrial por ACO",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Neoplasia trofoblástica gestacional Es un síndrome de Asherman clásico, que cursa con amenorrea post-legrado, ya",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que se producen sinequias uterinas. - Además, que tenga amenorrea, a pesar de estar usando los ACO, es equivalente a una prueba de estrógeno más progesterona negativa (los ACO tienen estrógenos y progestágenos), por lo que es una amenorrea de causa uterina. - El embarazo ectópico tendría test de embarazo positivo. - La endometriosis no tiene amenorrea, sino dismenorrea. - La atrofia por ACO puede presentar un endometrio fino, pero generalmente sí tiene menstruación, aunque puede ser escasa (en algunos casos excepcionales sí hay amenorrea). - La neoplasia trofoblástica gestacional sí puede ocurrir después de un aborto, pero tiene metrorragia, test de embarazo positivo y ecografía alterada, con contenido endometrial heterogéneo y multiquístico. Responde bien a la quimioterapia, por lo que en la mayoría de los casos ese es su único tratamiento.",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-GIN-0077",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "obstetricia",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 55,
+    "enunciado": "Una pareja consulta porque no ha podido concebir un hijo, luego de un año de intentarlo. No utilizan ningún tipo de anticonceptivo y mantienen relaciones sexuales con regularidad, sin embargo, no han logrado ningún embarazo. Él no refiere ninguna patología previa y su examen físico es normal. Ella refiere tener reglas irregulares, que en promedio suceden cada 60 días y al examen físico se aprecia obesa, con algún grado de hirsutismo. ¿Cuál es la causa más probable de la infertilidad en esta pareja?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Anovulación",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Alteraciones tubo-peritoneales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Endometriosis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Alteración del factor masculino",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Esta pareja es normal y no tiene diagnóstico de infertilidad Tienen una infertilidad primaria (más de 1 año sin concebir ningún embarazo y sin embarazos anteriores).",
+        "correcta": false
+      }
+    ],
+    "justificacion": "total). Si bien la causa masculina es la más frecuente en general (40%), por tener ella un síndrome de ovario poliquístico (oligomenorrea e hirsutismo), en este caso, la causa más probable es la anovulación (es el 25% del",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-GIN-0078",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "hemato",
+      "obstetricia",
+      "reuma"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 67,
+    "enunciado": "¿Cuál de las siguientes es una contraindicación del uso de dispositivo intrauterino medicado con levonorgestrel, como método anticonceptivo?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hipermenorrea",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Nulípara",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Antecedente familiar de cáncer de endometrio",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Promiscuidad sexual",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Dismenorrea El DIU medicado es un excelente método anticonceptivo.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "obligaría a sacarlo (si no responde al tratamiento antibiótico en 48 a 72 horas). A diferencia de la T de cobre, no tiene riesgo de hipermenorrea ni dismenorrea y se puede indicar en nulíparas. El levonorgestrel disminuye el riesgo de cáncer de endometrio. Sin embargo, tanto en el DIU medicado como en la T de cobre la promiscuidad sexual contraindica relativamente su uso, ya que tiene riesgo de PIP, que eventualmente",
+    "archivo_origen": "prueba_final_modulo_3_-_3.txt",
+    "id_unico": "GUEV-GIN-0079",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "hemato",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "basica",
+    "contexto": "urgencia",
+    "origen": "guevara_novedades_prueba_final_modulo_3_-_3",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 61,
+    "enunciado": "Una mujer, sin antecedentes de importancia, presenta amenorrea desde hace 5 meses, asociado a galactorrea, a pesar de contar con una prueba de embarazo negativa. La conducta más adecuada para iniciar el estudio es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Prueba de estrógeno + progesterona",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Prueba de progesterona",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Niveles plasmáticos de LH y FSH",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Niveles plasmáticos de prolactina",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Niveles plasmáticos de progesterona y estradiol El síndrome amenorrea-galactorrea es la forma más habitual de presentación de la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hiperprolactinemia, por lo que es lo primero a descartar.",
+    "archivo_origen": "repaso_modulo_1_prueba_70_preg_n2.txt",
+    "id_unico": "GUEV-GIN-0080",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "urgencias",
+      "obstetricia",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Amenorrea",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_novedades_repaso_modulo_1_prueba_70_preg_n2",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 35,
+    "enunciado": "Un paciente de 56 años, portador de una cirrosis por consumo crónico de alcohol, consulta por aumento del perímetro abdominal. Actualmente ya no consume alcohol y presenta ascitis moderada en el examen físico, la 1 que se confirma con una ecografía. Se realiza paracentesis diagnóstica, que muestra salida de líquido ascítico transparente con 10 células por mm3 y albúmina de g/dl. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Instalar un TIPS",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar antibióticos por vía endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar antibióticos orales, de manera profiláctica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar espironolactona y furosemida",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar paracentesis evacuadora, con reposición de albúmina",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una ascitis simple, la que se trata con diuréticos (espironolactona y furosemida) y restricción hidrosalina. El tratamiento de la ascitis a tensión es la evacuación, con reposición de albúmina (8 gramos por litro sacado). Eso sí, primero se debe descartar PBE. La PBE se trata con antibióticos endovenosos (cefotaximo) y luego queda con profilaxis antibiótica oral (ciprofioxacino o cotrimoxazol). La ascitis refractaria se trata con paracentesis periódicas o con TIPS.",
+    "archivo_origen": "diabetes_y_gastroenterologia.txt",
+    "id_unico": "GUEV-GIN-0081",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "psiquiatria",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "avanzada",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_diabetes_y_gastroenterologia",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente de 43 años, obeso mórbido, consulta por cansancio y somnolencia diurna. Refiere que ronca en la noche y se queda dormido en las luces rojas del semáforo. En su examen físico destaca PA: 140/90 mmHg, FC: 72x’ y faringe normal. ¿Qué examen es el más adecuado para proseguir el estudio en este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Poligrafía nocturna",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Polisomnografía",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Saturación arterial de oxígeno durante el sueño",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Monitorización de presión arterial de 24 horas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Nasofibroscopía Es un SAHOS (síndrome de apnea e hipopnea del sueño), que se estudia con polisomnografía. La poligrafía es similar, pero no necesariamente está durmiendo y lo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que se requiere es que esté durmiendo, es decir, una polisomnografía.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-GIN-0082",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 57,
+    "enunciado": "Una paciente, usuaria de DIU hace 7 años, se realiza Papanicolaou como chequeo médico, que muestra presencia de Actinomyces israeli, sin otras alteraciones. No refiere síntomas y su examen físico es normal. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar Papanicolaou en 1 año",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Derivar a colposcopía",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar ecotomografía pelviana",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Retirar el DIU",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar antibióticos orales La presencia de actinomyces en paciente asintomática, no tiene consecuencias. Si tuviese síntomas (dolor, leucorrea, metrorragia), habría que retirar el DIU e indicar",
+        "correcta": false
+      }
+    ],
+    "justificacion": "antibióticos (amoxicilina o penicilina).",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-GIN-0083",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "pediatria",
+      "psiquiatria"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 180,
+    "enunciado": "Una paciente de 48 años, usuaria de DIU hace 8 años, consulta por reglas irregulares. Su FUR fue hace 50 días y no refiere otros síntomas. En la especuloscopía, no es posible visualizar las guías del DIU. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar radiografía pélvica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar niveles plasmáticos de estradiol, prolactina, FSH y LH",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar ecotomografía pelviana",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar niveles plasmáticos de subunidad beta-HCG",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Intentar exploración uterina con pinza, para extraer el DIU Lo primero siempre es descartar embarazo. Más aún en una amenorrea con DIU, porque",
+        "correcta": false
+      }
+    ],
+    "justificacion": "puede ser un embarazo ectópico o un embarazo con DIU, que son de alto riesgo.",
+    "archivo_origen": "enacom_2017.txt",
+    "id_unico": "GUEV-GIN-0084",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "obstetricia",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_enacom_2017",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Una paciente de 22 años, nulípara, con antecedentes de migraña a repetición y un episodio de aumaurosis fugax desea iniciar un método anticonceptivo. Su examen físico se encuentra normal. ¿Cuál de los siguientes métodos anticonceptivos indicaría a esta paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Anticonceptivos combinados por vía oral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Anticonceptivos combinados por vía transdérmica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Salpingoligadura",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dispositivo intrauterino con progestinas",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Anticonceptivos combinados inyectables Es una pregunta difícil, ya que por ser nulípara tiene contraindicación relativa del DIU, sin embargo por tener jaqueca con amaurosis fugax, están contraindicados absolutamente los estrógenos, ya que tienen mayor riesgo de AVE: la amaurosis fugax es uno de los criterios de contraindicación absoluta, al igual que la jaqueca con aura (la paciente con jaqueca sin aura ni síntomas neurológicos y que no empeora con los estrógenos, puede recibir ACO sin problemas).",
+        "correcta": false
+      }
+    ],
+    "justificacion": "considera el más seguro y efectivo método anticonceptivo. Además, la salpingoligadura es irreversible, por lo que no se recomendaría en este caso que tiene apenas 22 años. La del DIU medicado es la más aceptable y la verdad es que sí se puede indicar en nulíparas, ya que es bastante bien tolerado, a diferencia del DIU de cobre. Es más, el DIU medicado actualmente se",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-GIN-0085",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "urgencias",
+      "hemato",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 21,
+    "enunciado": "Acude a control una paciente de 26 años, trae el resultado de su Papanicolaou que es informado como “muestra satisfactoria, sin atipias”. ¿A qué tipo de prevención corresponde este examen?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Prevención específica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Promoción de salud",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Prevención secundaria",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Prevención terciaria",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Prevención primaria El PAP hace diagnóstico precoz, para tratamiento oportuno. Por tanto, es prevención secundaria. La vacunación contra el VPH sí es primaria (prevención específica), al igual",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que la educación sexual (promoción de la salud).",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-GIN-0086",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "psiquiatria"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 32,
+    "enunciado": "Una paciente de 36 años, multípara de 3, con historia de amenorrea desde hace 4 meses, no asociado a otros síntomas. Refiere haber sido usuaria de anticonceptivos orales hasta hace 6 meses y que se realizó test de embarazo en dos oportunidades con resultado negativo. Se solicitan niveles de hormona tiroestiumlante y prolactina que resultan normales, además prueba de progesterona que es negativa, por este motivo se solicita prueba de estrógeno más progesterona que resulta positiva y niveles de hormona folículo estimulante que resulta en 5 mUI/mL. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Falla ovárica primaria",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Falla del eje hipotálamo hipofisiario",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Síndrome de ovario poliquístico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Malformación uterina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome de Cushing Tiene un hipogonadismo (prueba de progesterona negativa descarta la anovulación; la prueba de estrógeno más progesterona positiva diagnostican un hipogonadismo: tiene déficit de estrógenos).",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hipo es hipo hipo” (el hipogonadismo hipogonadotrófico es hipotalámico o hipofisiario). Además, es hipogonadotrópico (FSH baja), por lo que es un problema hipotalámico (tendría GnRH baja) o hipofisiario (tendría GnRH alta). “El hipo",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-GIN-0087",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica",
+      "dermato",
+      "hemato"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 101,
+    "enunciado": "Se desea implementar un método de screening para una enfermedad. El nuevo examen debe ser capaz de detectar la enfermedad en el periodo:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Entre los cambios tisulares y la aparición clínica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Posterior a la aparición clínica de la enfermedad",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Previo a los primeros cambios bioquímicos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Entre los cambios bioquímicos y los cambios tisulares",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "De remisión Antes de los cambios bioquímicos es imposible detectar algo. Después de los cambios tisulares ya tengo daño. Por tanto, lo ideal es hacerlo entre los primeros cambios bioquímicos y antes del daño tisular; ejemplo: glicemia de ayuno, como screening de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "DM2, antes de que haya nefropatía y retinopatía. De todos modos, es una mala pregunta porque depende de la enfermedad y del tipo de test: ejemplo el PAP hace el screening después de los cambios tisulares.",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-GIN-0088",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "urgencias",
+      "medicina_interna",
+      "oftalmo",
+      "reuma"
+    ],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 115,
+    "enunciado": "Una mujer de 27 años, nulípara, usuaria de anticonceptivos orales por seis años, consulta por amenorrea de cinco meses de evolución, no asociado a otros síntomas. Su examen físico es normal. La conducta más adecuada en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar niveles de prolactina, tirotropina, hormona foliculoestimulante y estrógenos",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar prueba de estrógeno y progesterona",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar anticonceptivos orales combinados",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Observar evolución por un año",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar uso de agonistas de las gonadotrofinas y controlar en un mes En el enfrentamiento de la amenorrea, el test de embarazo (o la HCG) debería ser lo primero (no está en las opciones).",
+        "correcta": false
+      }
+    ],
+    "justificacion": "como FSH, estrógenos y hormona antimülleriana, a fin de aprovechar la consulta médica. La prueba de progesterona se puede pedir también. Si está negativa, se puede pedir la prueba de estrógeno más progesterona. Sin embargo, los exámenes de sangre han desplazado estas pruebas. Descartado el embarazo, la prolactina y TSH son los exámenes más importantes, pero actualmente se prefiere pedir varios exámenes juntos,",
+    "archivo_origen": "eunacom_2013.txt",
+    "id_unico": "GUEV-GIN-0089",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica",
+      "dermato"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2013",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 76,
+    "enunciado": "Una mujer de 65 años de edad, multípara de 4, con todos los partos por vía vaginal, con menopausia a 50 años, sin terapia de reemplazo hormonal, presenta escape de pequeñas cantidades de orinal, al realizar esfuerzos, así como al toser o reírse, lo que la obliga a usar protectores. No tiene urgencia miccional. Su examen físico no aporta mayor información, pero es posible visualizar leve escape de orina, al toser. ¿Cuál es el tratamiento de primera línea para esta paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cirugía (TVT)",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Anticolinérgicos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Alfa adrenérgicos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Kinesioterapia del piso pélvico",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Antibióticos, como profilaxis de ITU Es una incontinencia de esfuerzo, cuyo tratamiento inicial son los ejercicios de fortalecimiento del piso pélvico (ej. ejercicios de Kegel). Si fallan, se indica el TVT o TOT",
+        "correcta": false
+      }
+    ],
+    "justificacion": "(cirugía).",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-GIN-0090",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "urgencias",
+      "obstetricia",
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "Menopausia",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 81,
+    "enunciado": "Un Paciente de 52 años con historia de ronquidos frecuentes, de larga data, que desde hace 5 años, se asocia a somnolencia diurna excesiva y deterioro cognitivo. Al examen físico tiene frecuencia cardiaca de 75x' y presión arterial de 140/100 mmHg. Su IMC es de 35. Se realiza polisomnografía que evidencia índice de apenas de 50 eventos de apnea / hipopnea por hora, con predominio de los eventos obstructivos. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Oxígeno nocturno",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "C-PAP nocturno",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Cirugía bariátrica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Uvulopalatoplastía",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Dispositivo orofaríngeo Tiene un síndrome de apnea-hipopnea obstructiva del sueño severa (>30 eventos por hora), por lo que requiere C-PAP. La cirugía podría servir, pero requiere de obstrucción",
+        "correcta": false
+      }
+    ],
+    "justificacion": "anatómica y además, dada la severidad, el C-PAP igual es de elección. La indicaciones de C-PAPA más importantes son: 1. SAHOS severo (30 o más eventos por hora). 2. SAHOS moderado (15 a 30 eventos por hora; indicación relativa). 3. Falta de respuesta en tratamiento conservador. 4. Paciente que tiene mucha responsabilidad ante riesgo de somnolencia (ej. Piloto, chofer).",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-GIN-0091",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "salud_publica",
+      "uro"
+    ],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 97,
+    "enunciado": "Mujer 54 años obesa, diabética e hipertensa, presenta hace 3 meses genitorragia intermitente, con antecedentes de menopausia a los 50 años, sin terapia hormonal de reemplazo y PAP normal de este año. El examen físico y ginecológico es normal. Se realiza una Ecografía tranvaginal, que muestra: útero en anteversofiexión, con tamaño normal, endometrio homogéneo de 3 mm de grosor, con anexos normales, sin liquido libre. ¿Cual es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hiperplasia endometrial.",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cáncer endometrial",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Pólipo endometrial",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Atrofia endometrial.",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Sarcoma uterino Si bien, tiene los antecedentes que orientan a hiperplasia endometrial o cáncer (HONDA: hipertensión, obesidad, nuliparidad, diabetes y anovulación), el grosor del endometrio es",
+        "correcta": false
+      }
+    ],
+    "justificacion": "un muy fuerte indicador de atrofia endometrial (menor a 5 mm).",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-GIN-0092",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "urgencias",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Menopausia",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 150,
+    "enunciado": "Una paciente de 46 años, nulípara, sin método anticonceptivo, presenta una metrorragia, que es manejada con legrado uterino. La biopsia demuestra presencia de hiperplasia endometrial atípica. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Repetir el legrado en 3 meses",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Implantar DIU medicado con progestágenos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar histerectomía total",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar progestágenos cíclicos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar progestágenos continuos La hiperplasia atípica se trata con histerectomía.",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hiperplasia endometrial simple, en cambio, se trata con progestágenos. Si bien la paciente es nulípara, a los 46 años es improbable que se le indique un tratamiento más conservador, ya que probablemente no tendrá más hijos. De todos modos, en la vida real, se debe consultar la opinión de la paciente, ya que si sus deseos de fertilidad son importantes, se puede hacer una hormonoterapia con progestágenos y reevaluar con biopsia endometrial. La",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-GIN-0093",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "hemato",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Anticoncepcion",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Una paciente de 48 años, esterilizada hace 4 años, acude a control ginecológico, en que se realiza una ecografía transvaginal, que se muestra a continuación: La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ulipristal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Histerectomía total transvaginal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Histerectomía subtotal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Miomectomía",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Ecografía en 6 meses",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Es un mioma asintomático, por lo que se debe observar.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-GIN-0094",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "pediatria",
+      "salud_publica"
+    ],
+    "tema": "Miomas_adenomiosis",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 27,
+    "enunciado": "Un paciente de 42 años, con cardiopatía alcohólica, presenta disnea de esfuerzos, ortopnea y disnea paroxística nocturna, que trata con diuréticos. Los síntomas han progresado en el último tiempo ¿Cuál es el fármaco de elección para este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Enalapril",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Diltiazem",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Espironolactona",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Digoxina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Nitroglicerina El medicamento que más incide en la sobrevida de la insuficiencia cardíaca son los IECA (o ARA2, que se pueden usar indistintamente), seguidos del betabloqueo y luego la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "espironolactona (si mantiene síntomas y FE menor a 35%).",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-GIN-0095",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "pediatria",
+      "psiquiatria",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "intermedia",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 41,
+    "enunciado": "Una paciente de 59 años inicia un cuadro de 3 semanas de evolución de pirosis y dolor epigástrico, con episodios diurnos y nocturnos. Su examen físico es normal. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar endoscopía digestiva alta",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar ecografía abdominal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar TAC de abdomen",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar omeprazol oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Medir pH esofágico de 24 horas Es una pirosis, con signos de alarma: síntomas nocturnos y edad de inicio después de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "los 50 años, por lo que se debe estudiar con EDA.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-GIN-0096",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "general",
+    "dificultad_estimada": "basica",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "general_pendiente"
+  },
+  {
+    "numero": 76,
+    "enunciado": "Una paciente de 30 años se realiza un PAP, que resulta atípico de alto grado, por lo que se realiza una colposcopía y biopsia, que es informada como NIE-1, de localización exocervical. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Seguimiento con PAP",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Crioterapia",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Cono cervical",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tipificación de virus papiloma humano",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Diatermocoagulación A continuación, las recomendaciones internacionales sobre el manejo de la NIE: Se puede manejar de 3 formas: 1. Observación, 2. Ablación (crioterapia, láser o la menos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "usada diatermocoagulación) y 3. Escisión (cono frío: bisturí, o cono caliente: asa LEEP). La escisión es levemente más eficaz que la ablación, permite obtener una muestra para biopsia, pero, tiene riesgo de incompetencia cervical en quienes planean un embarazo. En todas las NIE, las tres opciones son aceptables, pero las preferencias son: - NIE 1: Se prefiere observación. Se prefiere ablación (crioterapia) si tiene más de 25 años y su PAP era de alto grado (ASC-H o LIE alto grado). - NIE 2: Se prefiere observación en menores de 25 años y escisión en mayores. - NIE 3: Se prefiere escisión. Sinceramente no recuerdo bien si el PAP era de alto grado o no en la pregunta original.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-GIN-0097",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "hemato",
+      "obstetricia",
+      "reuma"
+    ],
+    "tema": "PAP_CCU",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 125,
+    "enunciado": "Una paciente de 18 años, que hace 6 meses se siente angustiada, con ánimo bajo. Ha bajado de peso e ingiere muy pocas calorías al día. Es muy preocupada por el peso y refiere que se pone triste y se angustia al mirarse en el espejo, ya que se encuentra gorda. Al examen físico se ve enfiaquecida, es de talla pequeña, pero usa ropa 2 números más grandes y está en amenorrea hace 3 meses. Le encanta cocinar y recibir críticas positivas sobre su comida por las demás personas. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Anorexia nervosa",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Bulimia nervosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno por atracones",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dismorfofobia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Depresión mayor",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una anorexia clásica.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-GIN-0098",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "hemato",
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Amenorrea",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 126,
+    "enunciado": "Una paciente de 26 años, atleta, está en amenorrea hace 8 meses. Se realiza test de embarazo, que resulta negativo. Sus niveles de prolactina y TSH son normales. Se solicita FSH: 80 UI/L (VN: menor a 18), estradiol: 5 (VN: 20-150 pg/ml). Su examen físico no tiene alteraciones. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hipogonadismo de causa central",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Falla ovárica primaria",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Amenorrea por ejercicio",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Amenorrea hipotalámica funcional",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Anovulación Tiene elevación de la FSH y baja del estradiol, es decir, un hipogonadismo hipergonadptrópica, cuya causa más frecuente es la falla ovárica. Por ser menor de 40",
+        "correcta": false
+      }
+    ],
+    "justificacion": "años, tiene una menopausia precoz.",
+    "archivo_origen": "eunacom_2018.txt",
+    "id_unico": "GUEV-GIN-0099",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "dermato",
+      "obstetricia",
+      "reuma"
+    ],
+    "tema": "Amenorrea",
+    "dificultad_estimada": "avanzada",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_eunacom_2018",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 37,
+    "enunciado": "La bulimia nervosa se diferencia de la anorexia nervosa principalmente en que la primera:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Presenta conducta de purga como uso de laxantes y autoinducción de vómitos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Pierde el control sobre la comida y presenta atracones",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Está asociada a trastornos de la personalidad",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Presenta baja de peso",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Presenta amenorrea",
+        "correcta": false
+      }
+    ],
+    "justificacion": "La bulimia se caracteriza por los atracones (pérdida del control sobre la comida), mientras que estos son muy raros en la anorexia. La anorexia baja mucho más de peso que la bulimia (la que incluso puede subir de peso, por los atracones). La purga es propia de la bulimia, pero también es frecuente en la anorexia (come poco y luego vomita lo que comió o hace deporte, ya que no quiere engordar: se llama anorexia restrictivo-purgativa). Ambas se asocian a T. personalidad: TP TOC en la anorexia y TP límite en la bulimia. Solo la anorexia tiene amenorrea.",
+    "archivo_origen": "psiquiatria_y_salud_publica.txt",
+    "id_unico": "GUEV-GIN-0100",
+    "especialidad_principal": "gineco",
+    "subespecialidades": [
+      "psiquiatria",
+      "salud_publica"
+    ],
+    "tema": "Amenorrea",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_psiquiatria_y_salud_publica",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  }
+]

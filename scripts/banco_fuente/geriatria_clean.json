@@ -1,0 +1,142 @@
+[
+  {
+    "numero": 43,
+    "enunciado": "Un paciente adulto mayor, diabético, consulta por un cuadro de 3 días de evolución de aparición de una lesión eritematosa en el tronco, como se ve en la siguiente imagen: El tratamiento más adecuado es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Aciclovir 400 mg cada 8 horas, por 5 días",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Valaciclovir 1g cada 8 horas, por 5 días",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Aciclovir tópico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Loratadina 10 mg al día por 5 días",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Flucloxacilina 500 mg cada 8 horas por 10 días Sirven tanto el aciclovir, como el valaciclovir, pero solo la dosis del valaciclovir estaba",
+        "correcta": false
+      }
+    ],
+    "justificacion": "bien, porque la de aciclovir, para herpes zóster es 800 mg cada 4 horas, por 5 a 7 días.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-GER-0001",
+    "especialidad_principal": "geriatria",
+    "subespecialidades": [
+      "reuma",
+      "salud_publica"
+    ],
+    "tema": "Vacunas_ger",
+    "dificultad_estimada": "intermedia",
+    "contexto": "hospital",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": true,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 117,
+    "enunciado": "En un paciente adulto mayor, que presenta síncopes, ¿cuál de las siguientes arritmias requiere un marcapaso definitivo?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fibrilación auricular crónica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Bloqueo auriculoventricular de primer grado",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Flutter auricular 2-3 a 1",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Enfermedad del nodo sinusal",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Bloqueo completo de rama izquierda La enfermedad del nodo sinusal (BAV), sintomática, requiere de marcapasos definitivo. El bloqueo aurículoventricular (BAV) requiere habitualmente ser de tercer grado o de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "segundo grado Mobitz II, para ser indicación de marcapasos. El BAV de primer grado no tiene síntomas (solo tiene alargamiento del PR). El fiutter y la FA se tratan farmacológicamente y no con marcapasos. El BCRI se observa. De hecho, las principales indicaciones de marcapasos son precisamente 1. la ENS y 2. el BAV.",
+    "archivo_origen": "eunacom_2016.txt",
+    "id_unico": "GUEV-GER-0002",
+    "especialidad_principal": "geriatria",
+    "subespecialidades": [
+      "pediatria",
+      "reuma"
+    ],
+    "tema": "Vacunas_ger",
+    "dificultad_estimada": "basica",
+    "contexto": "ambulatorio",
+    "origen": "guevara_repasos_eunacom_2016",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Una paciente de 25 años, sin antecedentes de importancia, es diagnosticada de anemia ferropénica, con hematocrito de 30%, hemoglobina de mg/dl y perfil de fierro compatible. Ella refiere reglas regulares y abundantes y su examen físico no aporta mayor información. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar sulfato ferroso por vía oral e indicar uso de anticonceptivos orales",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar aumento de la ingesta de carnes rojas (Ej: vacuno e hígado) y vegetales color verde oscuro (Ej: acelgas y espinacas)",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar sulfato ferroso vía oral y vitamina B12 vía intramuscular",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar biopsia de médula ósea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar colonoscopía",
+        "correcta": false
+      }
+    ],
+    "justificacion": "El tratamiento de la anemia ferropénica es el hierro oral (solo en la IRC es endovenoso). Además, en una mujer en edad fértil, no es necesario estudiarla, sino que basta con tratarla (en adulto mayor, se debe hacer colonoscopía y eventualmente endoscopía, en busca de la causa). Finalmente, se debe indicar anticonceptivos, para evitar la pérdida de hierro.",
+    "archivo_origen": "hemato_nefro_reuma.txt",
+    "id_unico": "GUEV-GER-0003",
+    "especialidad_principal": "geriatria",
+    "subespecialidades": [
+      "urgencias",
+      "gineco",
+      "hemato",
+      "medicina_interna"
+    ],
+    "tema": "Vacunas_ger",
+    "dificultad_estimada": "intermedia",
+    "contexto": "urgencia",
+    "origen": "guevara_repasos_hemato_nefro_reuma",
+    "fecha_origen": null,
+    "tiene_imagen_referenciada": false,
+    "clasificacion_status": "automatica"
+  }
+]
