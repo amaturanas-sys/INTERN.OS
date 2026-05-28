@@ -4,8 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <meta name="theme-color" content="#1f4e79" />
-  <meta name="description" content="EUNACOM — plataforma de estudio offline" />
-  <title>EUNACOM — Estudio offline</title>
+  <meta name="description" content="InternOS — plataforma de estudio EUNACOM 100% offline" />
+  <title>InternOS — EUNACOM</title>
   <link rel="manifest" href="manifest.webmanifest" />
   <link rel="icon" type="image/png" sizes="64x64" href="assets/favicon-64.png" />
   <link rel="apple-touch-icon" href="assets/icon-192.png" />
@@ -16,14 +16,16 @@
 </head>
 <body>
   <div id="splash" class="splash">
-    <div class="splash__logo">EUNACOM</div>
+    <img class="splash__logo" src="assets/icon.svg" alt="InternOS" />
     <p id="splash-version" class="splash__version muted">vdev</p>
     <div class="spinner"></div>
     <p id="splash-msg" class="muted">Iniciando…</p>
   </div>
 
   <header class="topbar">
-    <button class="topbar__brand" data-nav="">EUNACOM</button>
+    <button class="topbar__brand" data-nav="" aria-label="Inicio">
+      <img class="topbar__logo" src="assets/icon.svg" alt="InternOS" />
+    </button>
     <button id="btn-instalar" class="btn btn--ghost btn--sm" hidden>Instalar app</button>
   </header>
 
