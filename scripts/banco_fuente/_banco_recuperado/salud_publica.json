@@ -1,0 +1,1982 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Qué institución, dependiente directamente del Ministerio de Salud, debe velar por el Sin contestar funcionamiento adecuado, e\u0000ciente y coordinado de los distintos prestadores de la Puntúa como salud pública:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "La Superintendencia de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "La Secretaría Regional Ministerial de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "La Dirección del Servicio de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "La Subsecretaría de Redes Asistenciales",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "La Dirección de Salud Comunal El Minsal tiene 2 subsecretarías, que dependen directamente de él: La subsecretaría de Salud Pública (encargada de las políticas de salud pública) y la subsecretaría de Redes Asistenciales (encargadas de los prestadores públicos y privados de salud,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "es decir, de la red asistencial).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "¿Cuál de los siguientes parámetros es más adecuado para determinar la Sin contestar contagiosidad de una enfermedad?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Tasa de virulencia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tasa de mortalidad",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tasa de letalidad",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tasa de prevalencia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tasa de ataque Es una pregunta difícil, pero la tasa de ataque es una tasa de incidencia de corta",
+        "correcta": true
+      }
+    ],
+    "justificacion": "duración, que evalúa la contagiosidad de las enfermedades infecciosas.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Según los criterios de causalidad de Hills Bradtford, ¿cuál es requisito para Sin contestar establecer una asociación causal?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fuerza de asociación",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Plausibilidad biológica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Respuesta dosis dependiente",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Secuencia temporal",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Asociación estadística Según algunos autores, el único parámetro que necesariamente debe estar es la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "secuencia temporal, en la que la causa debe estar antes que el efecto.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "En Chile se realiza una radiografía AP de pelvis a todos los lactantes de 3 meses. Sin contestar ¿Cuál es el mejor indicador para determinar el éxito de la utilización de dicha Puntúa como radiografía para la prevención de la displasia de cadera?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Tasa de incidencia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tasa de prevalencia",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Tasa de hospitalizaciones",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tasa de mortalidad",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tasa de cobertura Es una pregunta difícil, ya que la tasa de cobertura sí es útil para determinar si se está realizando o no la medida (la radiografía). Sin embargo, la prevención en sí se evalúa con la caída de las tasas de incidencia y de prevalencia. La tasa de incidencia solo baja en las medidas de prevención primaria (no es el el caso, ya que la radiografía de cadera es una prueba de screening, es decir, una medidad de prevención secundaria). La tasa de prevalencia disminuye en las medidas de prevención primaria, secundaria y terciaria (excepto en las patologías incurables, en",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que aumenta la prevalencia, ya que menos pacientes fallecen).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "¿Qué tipo de sesgo se trata de evitar, al calibrar los instrumentos de medición en un Sin contestar estudio?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Sesgo de memoria",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Sesgo de información",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Sesgo de confusión",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Sesgo de selección",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sesgo del entrevistador La calibración disminuye el sesgo de medida, también llamado sesgo de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "información.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Se busca la asociación entre distintos parámetros con el cáncer de tiroides, en un Sin contestar estudio de caso - control, con el Odds Ratio (OR), más un intervalo de con\u0000anza (IC) Puntúa como al 95%. ¿Qué factor es más importante en esta asociación?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Antecedentes familiares: OR: 1,88 ; IC [0,56 - 4,01]",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Edad: OR: 2,6 ; IC [0,95 - 3,17]",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tiroiditis de Hashimoto: OR: 4,6 ; IC [0,7 - 6,2]",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Exposición a radiación: OR: 1,12 ; IC [1,01 - 1,33]",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sexo femenino: OR: 2,56 ; IC [2,33 - 2,87]",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Las opciones A, B y C no son signi\u0000cativas, ya que el OR pasa por el número 1. Las opciones D y E sí son signi\u0000cativas, pero la E es la correcta, ya que tiene un OR mayor.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "¿Qué tipo estudio es el más adecuado para determinar el desarrollo de depresión en Sin contestar un grupo de trabajadores, a lo largo de un determinado tiempo?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Estudio de prevalencia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Estudio de incidencia",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Estudio de caso control",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Estudio de cohortes",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Ensayo clínico controlado Es una pregunta muy difícil, pero que apareció en el Eunacom. Se mide la incidencia de depresión, por lo que sería un estudio de incidencia. Sin embargo, también se lo llama estudio de cohorte, ya que se sigue en el tiempo al grupo de sujetos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "observados, para determinar la aparición de la enfermedad. Sin embargo, algunos hacen la diferencia entre estudio de incidencia, que es un estudio descriptivo, que simplemente mide la incidencia, versus el estudio de cohortes, que es un estudio analítico, que, además, busca una relación causal con un factor de riesgo.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "¿A qué tipo de medida corresponde la administración intramuscular de vitamina K Sin contestar que se hace a todos los recién nacidos en Chile?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Promoción de la salud",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Protección de la salud",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Prevención primaria",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Prevención secundaria",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Prevención terciaria Es una medida que previene la coagulopatía del recién nacido, por lo que es prevención primaria. Otra forma de verlo es que aún no hay síntomas ni",
+        "correcta": false
+      }
+    ],
+    "justificacion": "enfermedad, al momento de administrarla, por lo que es prevención primaria.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "La presencia del Helicobacter pylori produce in\u0000amación crónica de la mucosa Sin contestar gástrica, acelerando la proliferación celular y aumentando la frecuencia de aparición Puntúa como de mutaciones de las células epiteliales. Esto se utiliza como uno de los 1,00 argumentos para a\u0000rmar la relación causal entre esta bacteria y dicha patología. ¿A qué criterio de causalidad de Bradtford Hills corresponde?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Asociación",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Relación dosis efecto",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Plausibilidad biológica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Cesación de la exposición",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Congruencia con el conocimiento cientí\u0000co existente La plausibilidad biológica es una explicación cientí\u0000ca racional de la relación",
+        "correcta": false
+      }
+    ],
+    "justificacion": "causal.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Se realiza un estudio de casos y controles que busca establecer la asociación entre Sin contestar el uso de anticonceptivos orales y cáncer de mama. Luego de analizar los datos se Puntúa como obtiene que el Riesgo Relativo de 1,5 con intervalo de con\u0000anza al 95% con valores 1,00 entre 1,2 y 2,0. Con estos resultados se puede a\u0000rmar que:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Existe una relación positiva entre el uso de anticonceptivos orales y el desarrollo de cáncer",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Existe una relación positiva entre el uso de anticonceptivos orales y el desarrollo de cáncer, pero que no es estadísticamete signi\u0000cativa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Existe una asociación entre el uso de anticonceptivos orales y el desarrollo de cáncer, pero este resultado no es extrapolable a otras poblaciones",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Las personas que tienen cáncer consumieron un 50% más de anticonceptivos orales",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "El 95% de las personas que usan anticonceptivos orales, tienen 1,5 veces",
+        "correcta": false
+      }
+    ],
+    "justificacion": "más riesgo de desarrollar cáncer. Tiene un RR mayor a 1, por lo que hay una relación positiva (aumenta el riesgo). Además, en el intervalo de con\u0000anza no pasa por el 1, por lo que es estadísticamente signi\u0000cativo.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "¿Cuál de las siguiente actividades o medidas, está relacionado con el principio de Sin contestar oportunidad de las garantías explícitas de salud (GES)?:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Autorización sanitaria de prestadores y laboratorios",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Certi\u0000cación por parte de la superintendencia de los prestadores de salud",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Vigilancia del cumplimiento de plazos",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Convenios entre ISAPRES y prestadores de salud",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "A\u0000liados a Fonasa e Isapres tienen oportunidad de acceder a prestaciones GES La oportunidad se re\u0000ere a que se reciba el tratamiento en un tiempo oportuno: para",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ello están los plazos AUGE. Autorización y certi\u0000cación: principio de calidad. Convenios con privados y Fonasa: principio de acceso universal.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "¿Cuál es el mejor diseño de estudio epidemiológico que entrega evidencia de mayor Sin contestar calidad, para buscar la asociación entre una exposición y una enfermedad muy Puntúa como infrecuente en una población?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Estudio de serie de casos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Estudio de series temporales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Estudio de casos y controles",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Estudio de cohorte",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Estudio clínico no randomizado",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Dado que es una enfermedad infrecuente, debe usarse casos y controles.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Se realiza un estudio en el que se busca la asociación entre el uso de Sin contestar anticonceptivos orales y el desarrollo de hipertensión arterial, el cual concluye que Puntúa como no existe mayor riesgo de desarrollo de hipertensión arterial en pacientes que 1,00 utilizaban anticonceptivos orales. No obstante, notaron que las pacientes que recibieron anticonceptivos orales hicieron más crisis hipertensivas que aquellas que no lo recibieron. Sin embargo, decidieron no dar a conocer este último hallazgo, dado que no estaba dentro de los objetivos iniciales del estudio. ¿Qué sesgo se encuentra presente en el estudio descrito?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Sesgo de selección",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Sesgo de noti\u0000cación",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Sesgo por exclusión",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Sesgo por vigilancia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sesgo por el evaluador El sesgo de noti\u0000cación es aquel en que no se noti\u0000can ciertos hallazgos, que",
+        "correcta": false
+      }
+    ],
+    "justificacion": "podrían ser de interés cientí\u0000co. El sesgo de exclusión es aquel en que se dejan fuera algunos sujetos, que podrían ser representativos de la población.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "¿A que tipo de medida corresponde la educación sobre sexualidad responsable y Sin contestar prevención de enfermedades de transmisión sexual en la adolescencia?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Promoción de salud",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Protección especí\u0000ca",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Erradicación de la enfermedad",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Diagnóstico oportuno",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tratamiento precoz Es una medida de prevención primaria, en especí\u0000co, promoción de la salud, ya que",
+        "correcta": false
+      }
+    ],
+    "justificacion": "busca educar y generar hábitos de vida saludable.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un grupo de cirujanos deciden construir una clínica, con pabellones de cirugía Sin contestar menor y cirugía mayor. ¿Qué institución les debe dar la autorización para poder Puntúa como funcionar?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Superintendencia de salud",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Secretaría regional ministerial",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Corporaciones municipales de salud",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dirección del servicio de salud",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Superintendencia de seguridad social Es una pregunta difícil, ya que la Seremi les dará la autorización sanitaria para funcionar (es lo que se pregunta), pero la Superintendencia de Salud les dará la certi\u0000cación para poder ser prestadores Fonasa o prestadores AUGE, los inscribirá",
+        "correcta": false
+      }
+    ],
+    "justificacion": "en el Registro de Prestadores Institucionales de Salud y vigilará su calidad.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "¿Cuál es el mejor indicador para ver si la vacunación contra el papiloma humano es Sin contestar una medida efectiva?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Disminución de la tasa de incidencia",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Disminución de la tasa de prevalencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Disminución de la tasa de letalidad",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Disminución de la tasa de mortalidad",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Aumento de la supervivencia de la enfermedad La vacunación es una medida de prevención primaria, por lo que disminuye la tasa de incidencia y solo secundariamente reduce la prevalencia. Las medidas de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "prevención secundaria solo disminuyen la prevalencia. De todos modos, sigue siendo una pregunta difícil, ya que el objetivo \u0000nal de la vacunación contra el VPH es la disminución de la mortalidad por cáncer de cuello uterino.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Paciente de 45 años, trabajador de la construcción, sufre un infarto mientras se Sin contestar encontraba trabajando. ¿Quién cubre los gastos médicos de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "El empleador",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "50% por parte de FONASA y 50% por parte del trabajador",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "La institución de salud previsional o Fonasa, según el caso",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "La mutual de seguridad",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "El Estado Aunque haya sido durante el trabajo, es una enfermedad común, por lo que debe ser",
+        "correcta": false
+      }
+    ],
+    "justificacion": "cubierta por su previsión de salud: Fonasa o Isapre.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "¿A qué indicador corresponde la siguiente a\u0000rmación \"De 1.000 pacientes Sin contestar embarazadas con bacteriuria asintomática y sin tratamiento, 300 desarrollan Puntúa como pielonefritis durante su embarazo\"?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Letalidad",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Prevalencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Riesgo relativo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Asociación",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Incidencia La incidencia son los casos nuevos sobre el total: en este caso es una incidencia de 30%. En estricto rigor, es \"incidencia acumulada\", sin embargo, el término",
+        "correcta": true
+      }
+    ],
+    "justificacion": "\"incidencia\" es equívoco y se usa con muchas acepciones distintas.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "En un estudio de cohortes sobre el tabaco y cáncer de pulmón, luego de 20 años, se Sin contestar determinad que 65 de 2.000 pacientes fumadores enfermaron de cáncer pulmonar, Puntúa como mientras que solo 5 de los 3.200 paciente no fumadores lo hicieron. ¿Qué medida 1,00 es posible calcular con esta información?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mortalidad",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Prevalencia en los pacientes fumadores",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Riesgo relativo",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Odds ratio",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tasa de letalidad",
+        "correcta": false
+      }
+    ],
+    "justificacion": "El RR se calcula como incidencia expuestos / incidencia en no expuestos. Es decir: (65/2.000) / (5/3.200).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "La vigilancia epidemiológica de la in\u0000uenza y otros virus respiratorios se realiza Sin contestar mediante:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Sistema de noti\u0000cación diaria obligatoria",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Sistema de cribado en colegios y salas cuna",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Sistema de noti\u0000cación inmediata a la Seremi de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Sistema de reportes voluntarios desde los centros de salud públicos y privados",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sistema de vigilancia por centros centinela Las enfermedades respiratorias se estudian mediante centros centinelas. También, las diarreas, la varicela y las ITS, distintas al VIH, sí\u0000lis y gonorrea, ya que estas 3 se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "vigilan activamente con sistema de noti\u0000cación diaria.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "¿Qué tipo de enfermedades requieren de una noti\u0000cación inmediata a la Seremi de Sin contestar Salud?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Todas las enfermedades infecciosas, potencialmente letales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Las enfermedades agudas de alta gravedad, en especial las infecciosas, pero también aquellas no transmisibles de alta letalidad",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Las enfermedades infecciosas transmisibles, que requieran de un control rápido ante potenciales brotes, dado su gravedad y baja frecuencia",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Las enfermedades infecciosas más frecuentes, que afectan a gran parte de la población",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Las enfermedades transmisibles más graves, que no cuentan con tratamientos curativos, sino solo sintomáticos Las enfermedades que se noti\u0000can obligatoriamente son aquellas en las que se pretende controlar los brotes o situaciones epidémicas, por lo que deben ser enfermedades contagiosas (vigilancia activa). Además, son enfermedades poco frecuentes en Chile (baja prevalencia) y virulentas (contagiosas y potencialmente letales). No todas las infecciones graves se deben noti\u0000car (ej. neumonías, pielonefritis, sepsis abdominal), sino las infrecuentes y contagiosas (no es la A). Las no transmisibles no se noti\u0000can de manera inmediata, sino que se manejan con estrategia de vigilancia pasiva (no es la B). Las infecciones más frecuentes, se suelen vigilar mediante centros centinelas, por ejemplo, las infecciones respiratorias",
+        "correcta": false
+      }
+    ],
+    "justificacion": "y las diarreas (no es la D). Se noti\u0000can tanto infecciones graves con tratamiento (ej. meningococcemia), como sin tratamiento especí\u0000co (ej. sarampión) (no es la E).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente consulta por baja de peso y tos de 1 mes de evolución. Se realiza un Sin contestar Elisa VIH, que está positivo y un Western Blot, que también resultó positivo. ¿Qué Puntúa como característica de este último examen permite con\u0000rmar el diagnóstico de VIH?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Alta especi\u0000cidad",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Alta sensibilidad",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Elevado valor predictivo negativo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Elevado valor predictivo positivo",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Bajo likelihood ratio (índice de probabilidad) Tanto la alta especi\u0000cidad, como el alto valor predictivo positivo son útiles para con\u0000rmar. Sin embargo, como se dice que ya está positivo, se está preguntando el VPP (probabilidad de que esté enfermo, cuando el resultado esté positivo). En cambio, la alta sensibilidad y el alto valor predictivo negativo son útiles para",
+        "correcta": false
+      }
+    ],
+    "justificacion": "descartar una enfermedad. Si ya está negativo, se estaría preguntando el VPN.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "¿En cuál de las siguientes enfermedades sería más adecuado contar con un Sin contestar programa de tamizaje?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Enfermedad de Alzheimer",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Infección por virus respiratorio sincicial",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Infección por VIH",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Cáncer basocelular de piel",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fracturas de huesos largos Las pruebas de tamizajes son útiles para enfermedades que cumplan con todo lo siguiente: 1. Sean frecuentes (de lo contrario se gastaría demasiado dinero en las pruebas de screening), 2. Tengan un tratamiento e\u0000caz (si no, no sirve de nada diagnosticarlas antes; no necesariamente debe ser un tratamiento curativo), 3. Sean graves (si son leves, da igual diagnosticarlas tardíamente), 4. Tengan un periodo de latencia, asintomático, en el que se pueda realizar la prueba de tamizaje y en el que se aplicar realizar el tratamiento efectivo (si tiene síntomas desde el inicio, basta con el diagnóstico clínico). VIH calza con todo esto. El Alzheimer no tiene tratamiento e\u0000caz. El VRS tiene un periodo de incubación muy corto y da síntomas de inmediato. El cáncer basocelular se puede tratar tardíamente y da síntomas",
+        "correcta": false
+      }
+    ],
+    "justificacion": "desde el inicio. Las fracturas tienen síntomas desde que se producen.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Cada mes los Servicios de Salud emiten un informe a la Seremi de Salud respectiva, Sin contestar indicándole todas las patologías, que han recibido y resuelto, diferenciándolas por Puntúa como tipo de patología (ej. cardiovasculares, respiratorias, infecciosas, gastrointestinales, 1,00 quirúrgicas, oncológicas, psiquiátricas, etc.). Así, el Ministerio de Salud cuenta con información, para desarrollar políticas públicas sanitarias. ¿A qué tipo de vigilancia corresponde esto?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Vigilancia activa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Vigilancia centinela",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Vigilancia de noti\u0000cación obligatoria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Vigilancia de prevalencia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Vigilancia pasiva La vigilancia pasiva es la básica de los sistemas de salud, en la que se recopilan estadísticas y se hacen programas de salud, pero sin investigar activamente un brote, ni buscar activamente casos. Consiste justamente en lo descrito en esta pregunta. La vigilancia activa, por el contrario, requiere de un sistema de",
+        "correcta": true
+      }
+    ],
+    "justificacion": "noti\u0000cación rápida e investigación del brote, para contenerlo y evitar la transmisión. La vigilancia centinela utiliza algunos centros especí\u0000cos para vigilar ciertas infecciones frecuentes (infecciones respiratorias, diarreas y varicela, en Chile).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "En Quintero, una ciudad chilena, se produjo una fuga de químicos desde una Sin contestar empresa, lo que generó una nube tóxica, que afectó a gran parte de la población. La Puntúa como autoridad sanitaria controló a los niños de 7 colegios de esa ciudad, de manera de 1,00 determinar la frecuencia de infecciones respiratorias y otras patologías respiratorias y los comparó con los niños de los colegios de las comunas cercanas, que no fueron afectadas por la nube tóxica. ¿A qué tipo de estudio corresponde?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ecológico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cohortes",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Caso control",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Cuasiexperimental",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Experimental Es un clásico estudio de cohortes: se eligen a dos grupos (expuestos y no",
+        "correcta": false
+      }
+    ],
+    "justificacion": "expuestos a un factor de riesgo) y se siguen en el tiempo para ver si enferman. Ecológico sería comparar niveles ambientales de contaminantes en distintas ciudades y comparar las tasas de incidencia de patología respiratoria de dichas ciudades. Caso control sería comparar pacientes con patología respiratoria (casos) con pacientes sanos (controles) y preguntar por exposición a contaminantes, en el pasado. Cuasiexperimental sería exponer a un grupo de animales (antiético en humanos) a contaminantes y ver la frecuencia de patología respiratoria, pero sin contar con un grupo control. Experimental sería igual, pero con grupo control.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un estudio selecciona a un grupo de mujeres embarazadas con alteraciones en el Sin contestar Doppler de arterias uterinas, a las que se les inicia tratamiento con aspirina y se Puntúa como compara con otro grupo de las mismas características, a las que se les inicia L- 1,00 arginina más aspirina. ¿Qué medida de asociación se debe utilizar en este estudio?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Riesgo relativo",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Riesgo atribuible",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "T de Student",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Odds ratio",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Incidencia Se trata de un ensayo clínico controlado, por lo que se pueden calcular incidencias y calcular el riesgo relativo (RR), que es la medida de asociación más importante. El RR también se usa en los estudios de cohortes. El odds ratio (OR) se usa en los estudios transversales (de prevalencia) y en los casos y controles. El riesgo atribuible (RA) es una medida de impacto (no de asociación), que se puede calcular",
+        "correcta": false
+      }
+    ],
+    "justificacion": "en estudios de cohortes y ensayos clínicos.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "¿Qué tipo de estudio es el indicado para determinar las necesidades de Sin contestar \u0000nanciamiento para un programa de salud, enfocado en el manejo de los factores Puntúa como de riesgo cardiovascular (programa cardiovascular)?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Estudio de cohortes",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Estudio de incidencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Estudio de casos y controles",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Estudio experimental",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Estudio de prevalencia La cantidad de recursos a \u0000nanciar depende de la cantidad de pacientes enfermos,",
+        "correcta": true
+      }
+    ],
+    "justificacion": "es decir, de la prevalencia. Más aun si se trata de enfermedades crónicas.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Se decide construir un nuevo hospital, que atenderá a todos los pacientes de una Sin contestar determinada comuna. El hospital contará con un servicio de pediatría y urgencia Puntúa como pediátrica. Además de las estadísticas nacionales de salud, ¿qué indicador es más 1,00 adecuado para determinar la cantidad de personas que se deben contratar para este servicio?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "El número de niños de la comuna",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "La tasa de fecundidad en la población de la comuna",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Los recién nacidos de la comuna",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "La mortalidad infantil histórica en esa comuna",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "La tasa de fertilidad de la población Es una pregunta rara, pero muy parecida a una del Eunacom. Por regla general, lo más útil para determinar la cantidad de recursos humanos a contratar es conocer la demanda histórica de dichos recursos. Sin embargo, por ser un hospital nuevo, no se cuenta con esa información y tendrá que proyectarse la demanda, en base a la población bene\u0000ciaria (los niños de la comuna) y las estadísticas nacionales (tasa de consultas según población pediátrica). La tasa de fecundidad da cuenta de la relación entre los recién nacidos y las mujeres en edad fértil. La tasa de fertilidad da una información similar, pero indicando el número de hijos promedio que tendrían las mujeres durante su vida. Los recién nacidos sí podrían dar una información útil, pero importa más el total de niños en este caso. La mortalidad infantil no tiene mayor relevancia, ya que depende de los determinantes de salud, más que del servicio de pediatría y, además, también consultarán niños sanos y niños con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "patologías no letales.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "La principal característica del diagnóstico participativo de salud es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "La acción conjunta y simultánea de distintos especialistas de la medicina, como internistas, psiquiatras y cirujanos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "La participación de distintos organismos públicos, como el Ministerio de Salud, en conjunto con el de Salud, de Vivienda y Urbanismo y de Desarrollo Social",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "La participación de múltiples profesionales de la salud, como médicos, enfermeras, dentistas, kinesiólogos y psicólogos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "La utilización de programas con enfoque biopsicosocial, que no se limitan al manejo de las patologías orgánicas, sino también las enfermedades mentales y los problemas sociales",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "La colaboración activa de los miembros de la comunidad y las organizaciones civiles en la determinación y solución de sus problemas de salud El diagnóstico participativo de salud es aquél en el que las personas de la comunidad, en la que se está haciendo el diagnóstico, ayudan a identi\u0000car sus",
+        "correcta": true
+      }
+    ],
+    "justificacion": "problemas de salud y colaboran con el diseño de los programas de intervención. Suelen incluir a las organizaciones civiles, como los colegios, juntas de vecinos, organizaciones sin \u0000nes de lucro, etc.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Se evalúa un nuevo fármaco para el tratamiento de la pancreatitis, determinando el Sin contestar riesgo de muerte, en comparación con el tratamiento habitual. Se obtiene que el Puntúa como nuevo fármaco presente un RR de 1,25 con IC 95% [1,20 – 1,30]. Al respecto se 1,00 puede a\u0000rmar que:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "El nuevo fármaco aumenta la mortalidad en un 25% aproximadamente",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Entre el 20% y el 30% de los pacientes que reciben el nuevo fármaco morirán",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "El nuevo fármaco es 1,25% más e\u0000caz para prevenir la muerte",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Se debe tratar entre 20 y 30 pacientes con el nuevo fármaco, para que uno se bene\u0000cie",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "El nuevo fármaco no presenta diferencias signi\u0000cativas con el tratamiento habitual El RR > 1 aumenta el riesgo. Como es 1,25, aumenta el riesgo en 25% (1,25 – 1 = 0,25 = 25%). Como el intervalo de con\u0000anza no pasa por el 1, es estadísticamente signi\u0000cativo. Sabemos que no pasa por el 1, porque 1,20 y 1,30 son ambos mayores que 1. Por el contrario, si uno fuera mayor que 1 y el otro menor que 1, no sería",
+        "correcta": false
+      }
+    ],
+    "justificacion": "signi\u0000cativo (ej. 0,9 – 2,1). La B es falsa porque se re\u0000ere a la incidencia de muerte. La D es falsa porque se re\u0000ere al NNT (número necesario para tratar).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un obstetra dejó a un alumno de medicina de 5° año atender un parto sin Sin contestar supervisión, sin embargo, la madre sufrió una hemorragia grave, que terminó con su Puntúa como muerte. ¿A qué tipo de culpa corresponde esto?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dolo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Negligencia",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Impericia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Inobservancia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Mala práctica",
+        "correcta": false
+      }
+    ],
+    "justificacion": "- El dolo es la intención directa de dañar (no se ve en este caso). - La negligencia es la falta del debido cuidado (por parte del obstetra hay clara negligencia). En este caso, además, hay una gran imprudencia (falta de la precaución, por omitir una diligencia requerida). - La impericia es la falta de conocimiento o falta de habilidad requerida (es lo que tiene el interno en este caso; además, el interno también tiene algo de negligencia e imprudencia, ya que debió haberse negado a atender un parte solo). - La inobservancia es la falta de observación de las normas y reglamentos obligatorios (ej. pasos del protocolo quirúrgico). * La mala práctica es un concepto amplio, que incluye a la negligencia (por lo que sí podría ser correcta), pero que se re\u0000ere más a alejarse de la lex artis, es decir, a no dar los cuidados de salud recomendados por la ciencia y la experiencia médica.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Las instituciones previsionales de salud obtienen su \u0000nanciamiento principalmente Sin contestar de:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "La prima mensual que pagan los trabajadores",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "El aporte estatal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "El aporte de las municipalidades",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "El copago que realizan los pacientes que reciben una prestación de salud",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "El aporte mensual que pagan los empleadores Las Isapres se \u0000nancian con el 7% de los trabajadores (más un porcentaje opcional, según el plan de salud que se contrate). Reciben un mínimo aporte estatal, relacionado con las patologías AUGE. Fonasa se \u0000nancia del aporte estatal directo, luego por el 7% de los trabajadores. La salud de atención primaria (consultorios) se \u0000nancian con el aporte per cápita y luego por el aporte municipal directo (ambos administrados por la municipalidad). Tanto los pacientes Isapre, como los pacientes Fonasa en la modalidad de libre elección copagan, cuando se atienden, por lo que ellos ayudan a \u0000nanciar su propia atención de salud. Los pacientes Fonasa no",
+        "correcta": false
+      }
+    ],
+    "justificacion": "copagan en la modalidad de atención institucional. Ese dinero no va a manos del seguro (Fonasa o Isapre), sino del prestador (clínica, hospital, médico, etc.). Las mutuales (salud laboral) se \u0000nancian con el aporte del empleador (0,95%, aunque puede variar según el año y la el riesgo de la actividad laboral).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Una paciente consulta por porque toda su familia ha tenido cálculos biliares, por lo Sin contestar que le preocupa que ella también pueda sufrirlos. Por eso se le realiza una ecografía Puntúa como abdominal, la que con\u0000rma la presencia de dichos cálculos. Esto corresponde a una 1,00 medida de:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Prevención primaria",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Prevención secundaria",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Prevención terciaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Prevención cuaternaria",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Prevención especí\u0000ca La redacción de la pregunta la hace difícil, pero se está haciendo un diagnóstico",
+        "correcta": false
+      }
+    ],
+    "justificacion": "oportuno, para un tratamiento precoz, por lo que se trata de prevención secundaria. Visto de otra forma, ya tiene le enfermedad, pero no síntomas, por lo que es secundaria. La primaria no tiene ni síntomas ni enfermedad y lo que se busca es prevenir el desarrollo de la enfermedad. La terciaria ya tiene síntomas y enfermedad, por lo que se busca curar, rehabilitar y evitar las complicaciones, secuelas y recurrencias. La cuaternaria es la que tiene síntomas, pero no enfermedad orgánica (ej. trastorno somatomorfo), por lo que se busca es identi\u0000car la patología mental y diferenciarla de la orgánica. La prevención especí\u0000ca es un tipo de prevención primaria, que previene una enfermedad en especí\u0000co (ej. vacunas).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente recibe una licencia médica por 11 días, secundaria a una in\u0000uenza. La Sin contestar Compín la rechazó, argumentando que la in\u0000uenza debería tener máximo 5 días de Puntúa como licencia, por lo que solo pagará 2. Sin embargo, él decide reclamar, ya que su 1,00 in\u0000uenza fue grave y requirió hospitalización, con requerimientos de oxígeno. ¿A qué institución debe dirigirse para reclamar?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fonasa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Superintendencia de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Superintendencia de Seguridad Social",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Institución de Salud Previsional",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Seremi de Salud Las licencias médicas rechazadas por la Compín (o por la Contraloría Médica de la Isapre), se pueden reclamar nuevamente en la Compín y la última resolución la tiene",
+        "correcta": false
+      }
+    ],
+    "justificacion": "la Suseso.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Se realiza un estudio de casos y controles, que muestra que el jugo de pomelo o Sin contestar toronja tiene un Odds Ratio de 4,1 para presentar efectos adversos, relacionados Puntúa como con el uso de anticoagulantes orales, con p = 0,01. Se puede concluir que:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "El jugo de pomelo aumenta 4,1 veces el riesgo de sufrir efectos adversos",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "El jugo de pomelo aumenta en 1% el riesgo de sufrir efectos adversos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "El jugo de pomelo aumenta en 4,1% el riesgo de sufrir efectos adversos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "El 4,1% de los pacientes que toman jugo de pomelo y consumen anticoagulantes, presentan efectos adversos atribuibles directamente al jugo de pomelo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "El jugo de pomelo podría aumentar el riesgo de sufrir efectos adversos, pero los datos presentados no permiten estar seguros, por no haber diferencias estadísticas signi\u0000cativas Un OR > 1 aumenta el riesgo en el número de vecen del OR mismo. Además, por tener un p < 0,05, las diferencias son estadísticamente signi\u0000cativamente. El riesgo aumentó 4,1 veces, es decir, 310%. La opción D se re\u0000ere al riesgo atribuible porcentual. Por si acaso, el jugo de pomelo sí interactúa con muchos fármacos de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "uso frecuente, por lo que se debe evitar, si se utiliza alguno de estos fármacos.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "¿Cuál de los siguientes indicadores demostraría la efectividad de un programa de Sin contestar realización de mamografías periódicas en una población?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Disminución de la incidencia de cáncer de mama",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Disminución de la prevalencia de los factores de riesgo del cáncer de mama",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Disminución de la tasa de mortalidad por cáncer de mama",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Aumento en el porcentaje de mujeres que se realizan mamografías",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Aumento en el número de cánceres de mama diagnosticados con la mamografía Por ser una medida de prevención secundaria, no afecta la incidencia (la primaria sí). La prevalencia no es un buen indicador, ya que salen de ella, tanto quienes se mejoran, como quienes se mueren. La reducción de la mortalidad es el objetivo mismo de los programas de screening de todos los cánceres. La D y E son indicadores que algo de utilidad tendrán, pero no muestran efectividad (capacidad de generar resultados favorables en condiciones reales), sino solo dan una idea de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "la correcta implementación del programa.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Para poder funcionar como un prestador institucional AUGE, las instituciones Sin contestar privadas de salud deben: 1. Contar con la autorización sanitaria vigente (expedida Puntúa como por la Seremi de Salud), 2. Haber ejecutado y concluido el proceso de 1,00 autoevaluación en los 12 meses anteriores a la solicitud de acreditación (completar el informe de autoevaluación y las \u0000chas técnicas), 3. Cumplir con los estándares de\u0000nidos por el Ministerio de Salud y 4. Presentar solicitud de acreditación ante la Intendencia de Prestadores de la Superintendencia de Salud. Esto corresponde al principio de:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Acceso",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Oportunidad",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Calidad",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Protección \u0000nanciera",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Burocracia Los 4 requisitos mencionados son los necesarios para obtener la certi\u0000cación de la Superintendencia de Salud. Esta certi\u0000cación busca asegurar la calidad. Los 4",
+        "correcta": false
+      }
+    ],
+    "justificacion": "principios del AUGE son: 1. Acceso: Derecho por Ley de la prestación de Salud. 2. Oportunidad: Tiempos máximos de espera para el otorgamiento de las prestaciones. 3. Protección \u0000nanciera: La persona bene\u0000ciaria cancelará un porcentaje de la cobertura y el Estado, a través del aporte de los contribuyentes, \u0000nanciará el resto. 4. Calidad: Otorgamiento de las prestaciones por un prestador acreditado o certi\u0000cado.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Actualmente los centros de atención primaria del sistema público de salud (ej. Sin contestar consultorios) están a cargo de:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "La Dirección de Salud Comunal",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "El Servicio de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "La Secretaría Regional Ministerial de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "La Subsecretaría de Redes Asistenciales",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "La Superintendencia de Salud La atención primaria está a cargo de la Municipalidad, que es el organismo público, encargado de cada comuna. A la cabeza está el alcalde, quien nombra al Director de Salud Comunal, encargado de la salud de la comuna. La red de atención primaria incluye: Consultorios, SAPU (Servicio de Atención Primaria de Urgencia), SAR (Servicio de Urgencia de Alta Resolución), PSR (Postas de Salud Rural) y SUR",
+        "correcta": false
+      }
+    ],
+    "justificacion": "(Servicio de Salud Rural).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un estudio compara la prevalencia de patología psiquiátrica en trabajadores de Sin contestar distintas empresas, con jornadas laborales de diferente duración, aplicando una Puntúa como encuesta de 40 preguntas a los trabajadores. Se encontró correlación entre dicho 1,00 tipo de patologías y jornadas mayores a 40 horas semanales. Sin embargo, las preguntas elegidas no eran bien comprendidas por los trabajadores, dado que usaban un lenguaje muy técnico y no se habían estandarizado. ¿A qué tipo de error corresponde esto?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Error alfa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Sesgo de noti\u0000cación",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Sesgo de información",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Sesgo de confusión",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sesgo de selección Es un clásico sesgo de información o medida, que incluye la mala estandarización de cuestionarios, la falta de validación de las pruebas diagnósticas, la inadecuada calibración de los instrumentos de medición (se solucionan con adecuada calibración, estandarización, etc.), así como los problemas del evaluador y del paciente que conocen su tratamiento (se solucionan con doble ciego). El error alfa es el error causado por el azar, en el que se rechaza la hipótesis nula, siendo cierta (se dice que sí hay diferencias, cuando no las hay. El sesgo de noti\u0000cación es aquel que no comunica una información relevante clínicamente, por no estar en el plan del",
+        "correcta": false
+      }
+    ],
+    "justificacion": "estudio (ej. que no se hubiese noti\u0000cado que había muchos infartos en un grupo). Los demás sesgos deben revisarlos en el resumen.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Tratar de aprender Salud Pública es causa de:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Jaqueca",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Frustración",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Angustia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Diarrea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Todas las anteriores y mucho más ¡¡¡Ánimo!!! No importa que aunque les vaya mal en esta prueba, les irá bien en el Eunacom. Eso sí, si les fue mal, hagan el esfuerzo de leer una vez más el resumen,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "tratando de entender todos los temas que aún no han podido digerir.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Se realiza un estudio que muestra que en Santiago la prevalencia de depresión es Sin contestar más alta que en las regiones de Chile y se analizan los factores de riesgo que Puntúa como pueden explicar estas diferencias. ¿Qué tipo de estudio es?:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ecológico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ensayo clínico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Analítico",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "De intervención comunitaria",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "De cohortes Las relaciones de causalidad (como la que hay entre un factor de riesgo y la patología determinada por dicho factor de riesgo), se estudian con la epidemiología analítica. En especí\u0000co, pareciera ser un estudio de prevalencia, de tipo analítico. No hay información para a\u0000rmar que sea ecológico. No existe intervención, por lo que no es ni ensayo clínico, ni un estudio de intervención comunitaria (ambos son experimentales). No puede ser de cohortes, ya que estos son prospectivos y utilizan",
+        "correcta": false
+      }
+    ],
+    "justificacion": "la incidencia, no la prevalencia.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "¿Cuál de los siguientes corresponde a un estudio descriptivo?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Se comparan dos fármacos para el tratamiento de la leucemia linfática crónica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Se calcula la prevalencia de obesidad, diabetes, dislipidemia, hipertensión y tabaquismo en una población",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Se tienen 28 pacientes con cáncer de laringe y 40 pacientes sanos y se calcula el número de cigarrillos que fumaron durante su vida",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Se seleccionan a 600 estudiantes usuarios de drogas y 1200 pacientes que no consumen y se los sigue por 5 años, determinando su rendimiento académico y tasas de deserción escolar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Se administra un nuevo fármaco a pacientes con jaqueca y se ve si mejoran, sin contar con un grupo de control Las determinación de frecuencias, como las tasas de prevalencia o de incidencia de una patología, son parte de la epidemiología descriptiva. En cambio, cuando se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "buscan relaciones de causalidad, pasa a ser epidemiología analítica. La opción A es un ensayo clínico, por lo que es analítico y además, experimental. La opción B es un estudio de prevalencia y no muestra relaciones de causa efecto, por lo que es descriptivo. La opción C es un estudio de casos y controles, observacional, restrospectivo, pero analítico, dado que busca una relación de causa-efecto. La opción D es un estudio de cohortes, observacional, prospectivo, pero también analítico, por determinar relaciones de causa-efecto. La opción E es un estudio cuasiexperimental (intervención, sin grupo de control), que es un estudio de tipo analítico, ya que intenta determinar relaciones de causa- efecto (busca los efectos de la intervención).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente de 62 años, acude a la ACHS (Asociación Chilena de Seguridad) por un Sin contestar cuadro de lumbago, que inició cuando cargaba un mueble en el trabajo. Al ser Puntúa como atendido, el médico le explica que la patología por la que consulta es de tipo 1,00 degenerativa y se debe a debilidad de la musculatura de su espalda, por lo que le dará una licencia médica tipo 1 (por enfermedad común) y la ACHS no cubrirá ningún examen. Él quiere reclamar ¿Dónde debe hacerlo?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "En la Superintendencia de Seguridad Social",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "En la Superintendencia de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "En la subsecretaría de Redes Asistenciales",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "En la Seremi de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "En el Compín",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Las resoluciones sobre patología laboral, se apelan a la Suseso.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "¿Cuál de las siguientes opciones justi\u0000ca la realización de pruebas tamizaje para Sin contestar una enfermedad?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Muy baja frecuencia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ausencia de un tratamiento e\u0000caz disponible",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Presencia de síntomas desde los primeros días de la enfermedad",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Alta contagiosidad y letalidad",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Alto riesgo de progresión a complicaciones graves o irreversibles Las pruebas de screening se utilizan para hacer un diagnóstico precoz, en un paciente asintomático, de modo de realizar un tratamiento oportuno, antes de que aparezcan complicaciones más graves. Así, el tamizaje tiene sentido cuando es una patología con cierta frecuencia (si es muy infrecuente, sería un costo alto, sin mayor utilidad), debe tener un tratamiento e\u0000caz (ya que de lo contrario, no importa hacer el diagnóstico precoz, ya que no se puede tratar), no debe tener síntomas al inicio (ya que si los tiene, no es necesario hacer el screening y basta con estudiar a los pacientes sintomáticos), en enfermedades de larga duración (por eso en las enfermedades infecciosas, de alta contagiosidad o virulencia, se pre\u0000ere utilizar políticas de vigilancia activa y control del caso y sus contactos, en lugar de pruebas de screening, que se usa para enfermedades más crónicas) y \u0000nalmente debe tratarse de una enfermedad grave, con riesgo de progresar, complicarse o producir la muerte (de lo contrario, si fuera una enfermedad banal, bastaría con tratar a los",
+        "correcta": true
+      }
+    ],
+    "justificacion": "enfermos, sin esforzarse en diagnosticar la enfermedad antes.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "En los consultorios y otros centros de atención primaria ¿Para qué se realiza la Sin contestar toma de presión arterial a todos los pacientes que consultan, incluso por síntomas Puntúa como que no deberían estar relacionados con las cifras de tensión arterial?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Para realizar la vigilancia sanitaria de una las patologías más importante de la población",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Para realizar tamizaje a al azar, en la población",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Para detectar a los pacientes de alto riesgo cardiovascular",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Para hacer diagnóstico precoz e indicar tratamiento oportuno",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Para evaluar el impacto del tratamiento antihipertensivo Es una pregunta rara. La toma de presión arterial es parte del examen físico, por lo que sirve fundamentalmente para la evaluación clínica del paciente. Sin embargo, se utiliza además como un sistema de screening de hipertensión arterial, que permite un diagnóstico precoz, para un tratamiento oportuno (prevención secundaria). La vigilancia sanitaria de la hipertensión se realiza con estudios poblacionales, como la Encuesta Nacional de Salud. El tamizaje no se hace al azar en la población, sino en todo paciente que consulta. No hay datos en el enunciado que orienten a que se evalúa el tratamiento antihipertensivo (se haría con un ensayo clínico). Finalmente sí ayuda a detectar a los pacientes de alto riesgo, pero ello implica más exámenes y evaluación de más factores de riesgo (glicemia, per\u0000l lipídico, hábito tabáquico,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "antecedentes familiares, etc), por lo que nos inclinamos a desechar esta opción.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un cirujano, con experiencia en cirugía abierta, decide hacer una colecistectomía Sin contestar laparoscópica, sin supervisión, a pesar de que nunca antes había realizado una Puntúa como laparoscopía. El paciente sufrió complicaciones y tuvo que estar hospitalizado por 2 1,00 meses, con alto costo y dolor. ¿A qué tipo de culpa corresponde esto?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Negligencia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Impericia",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Impulsividad",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Mala praxis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Descuido",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una culpa por no tener las habilidades necesarias, lo que se denomina impericia. Puede considerarse, además, un tipo de imprudencia, ya que esta consiste en hacer algo riesgoso, sin el debido cuidado. La negligencia, en cambio, es la culpa por no hacer algo que debía hacerse (culpa por omisión). Descuido es un término genérico, que no se utiliza en la responsabilidad médica. Mala praxis es un término genérico que se re\u0000ere a las acciones que generan responsabilidad médica, por lo que, en estricto rigor, sí es un caso de mala praxis, sin embargo, preguntan en especí\u0000co el tipo de culpa (los tipos son negligencia, imprudencia, impericia y la inobservancia (de leyes, reglamentos o normas en general).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "¿Qué tipo de estudio es el que entrega una mejor información para determinar la Sin contestar relación de causalidad entre un factor de riesgo y una patología muy rara, en una Puntúa como determinada población?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Estudio de caso control",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Estudio ecológico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Estudio de cohortes",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Estudio descriptivo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Estudio de intervención comunitaria o cuasiexperimental Los estudios ecológicos, de caso control y de cohortes pueden servir para determinar relaciones de causalidad (son estudios analíticos) entre un factor de riesgo y una enfermedad. Además, el de cohortes es de mejor calidad, seguido por el de caso control y \u0000nalmente el ecológico que solo sirve como un estudio exploratorio, de baja calidad de información. Sin embargo, por ser una enfermedad muy infrecuente, el estudio de cohortes deja de ser útil y el de caso-control pasa a ser el de elección (también es de elección si es una enfermedad que demora",
+        "correcta": false
+      }
+    ],
+    "justificacion": "muchos años en aparecer o si hay restricciones de presupuesto).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "En un hospital de Concepción consulta un niño de 11 meses, con un cuadro Sin contestar compatible con sarampión, por lo que se decide hospitalizarlo y aislarlo (ailamiento Puntúa como respiratorio), mientras se realiza la con\u0000rmación diagnóstica. El médico que lo 1,00 atendió siguió la normativa vigente y realizó la noti\u0000cación inmediata a la Secretaría Regional Ministerial de Salud de la región del Biobío. ¿A qué tipo de vigilancia corresponde esto?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Vigilancia activa",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Vigilancia de centros centinela",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Vigilancia pasiva",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Vigilancia primaria",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Vigilancia comunitaria En Chile, las enfermedades infecciosas más peligrosas, virulentas, contagiosas o erradicadas (mediante vacunación) son de noti\u0000cación obligatoria, por lo que hay un sistema de noti\u0000cación rápida, para estudio inmediato, lo que es característico de la vigilancia activa. Así, la Seremi puede controlar la diseminación de la enfermedad, haciendo un adecuado manejo de los contactos e identi\u0000cando los demás casos,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "así como el caso índice. La vigilancia centinela se realiza eligiendo algunos centros de salud (ej. determinado hospital o clínica), que tienen la obligación de estudiar la etiología de ciertas patologías (en Chile, las infecciones respiratorias, diarreas, varicela y las ETS distinas al VIH, sí\u0000lis y gonorrea, que se noti\u0000can de manera activa y diaria) y noti\u0000car los resultados a la Seremi, pero los demás centros de salud no están obligados a hacerlo. La vigilancia pasiva es aquella en la que no se realiza nada de la vigilancia activa, sino que se limita a llevar registro de las patologías, a medida que son diagnosticadas, tras la consulta espontánea de los pacientes y luego se hace un análisis estadístico de los datos obtenidos y se plani\u0000ca a futuro (pero sin noti\u0000cación obligatoria, ni actuación por parte de la Seremi para contener el brote). La vigilancia primaria no existe. La vigilancia comunitaria es aquella en la que participa el resto de la población (ej. se educa a los profesores para detectar y noti\u0000car casos sospechosos de ciertas enfermedades).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Se analizan algunos estudios en pacientes con diagnóstico de cáncer cuello uterino, Sin contestar que previamente habían realizado una colposcopía, con diagnóstico de neoplasia Puntúa como intraepitelial (NIE). Se observó que entre el diagnóstico de NIE y de cáncer 1,00 transcurrió, en promedio, un tiempo de 5 años en las NIE-2 y de 3 años en las NIE 3. ¿A qué criterios de causalidad de Hills corresponde esto?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Replicabilidad",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Congruencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Plausibilidad biológica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Secuencia temporal",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Asociación La secuencia temporal es el único criterio sine qua non (requisito obligatorio) y consiste en que la causa debe preceder al efecto. La replicabilidad se re\u0000ere a la posibilidad de repetir el estudio. La congruencia se re\u0000ere a tener resultados similares entre los distintos estudios. La plausibilidad biológica se re\u0000ere a contar con una explicación racional y acorde con los conocimientos cientí\u0000cos. La fuerza",
+        "correcta": false
+      }
+    ],
+    "justificacion": "de asociación se determina con el riesgo relativo (o el odds ratio).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "¿Qué autoridad está a la cabeza de los hospitales públicos de una determinada Sin contestar zona geográ\u0000ca y se encarga de supervisar su gestión?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "El Subsecretario de Redes Asistenciales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "El Director del Servicio de Salud",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "El Superintendente de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "El Seremi de Salud",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "El Director de Salud Comunal La salud secundaria y terciaria (Hospitales y Servicios de Urgencia de alta complejidad) están a cargo de los respectivos Servicios de Salud, que tienen como autoridad máxima al Director del Servicio de Salud. Eso sí, es frecuente que en un Servicio de Salud haya más de un Hospital y cada Hospital cuenta con su propio director, cuyo cargo se llama Director del Hospital y que no es lo mismo que el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Director del Servicio de Salud (este último es un cargo más alto). En cambio, los consultorios y la atención primaria (así como el SAPU: servicio de atención primaria de urgencia) están a cargo de la Municipalidad, en manos del Director de Salud Comunal. La Subsecretaría de Redes Asistenciales depende del Minsal y vela por el correcto y coordinado funcionamiento de los centros de salud de todo el país. La Superintendencia de Salud vela por el AUGE y supervigila a Fonasa y las Isapres. Además, certi\u0000ca la calidad de los prestadores de salud (ej. prestadores Fonasa y prestadores AUGE) y lleva el Registro de Prestadores, que es de público acceso. La Seremi de Salud (Secretaría Regional Ministerial de Salud) representa al Minsal en las regiones y se encarga de todo lo relacionado a la salud pública de la región.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Se pretende plani\u0000car la compra de antibióticos endovenosos para el sistema Sin contestar público. ¿Qué indicador es más adecuado para ello?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Tasa de mortalidad",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tasa de prevalencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tasa de ataque",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tasa de letalidad",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tasa de incidencia Los antibióticos a comprar dependerán del número de casos de enfermedades infecciosas que ocurran durante un periodo de tiempo, es decir, de la incidencia. En cambio, en el caso de una enfermedad crónica, la cantidad de medicamentos a",
+        "correcta": true
+      }
+    ],
+    "justificacion": "comprar, dependerán de la tasa de prevalencia. La tasa de mortalidad solo muestra el número de muertes por dicha enfermedad, en el total de la población. La tasa de letalidad da cuenta de la severidad de la enfermedad y el riesgo de morir, si es que se enferma. La tasa de ataque muestra la contagiosidad de la enfermedad (corresponde a la tasa de incidencia, en un periodo breve de tiempo, en los sujetos expuestos).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Recientemente se incorporó la vacuna contra la hepatitis A en el plan nacional de Sin contestar inmunizaciones, a los 18 meses de edad. ¿Qué indicador es más adecuado para Puntúa como evaluar el éxito de esta intervención?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Tasa de efectos adversos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tasa de prevalencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tasa de cobertura",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tasa de letalidad",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tasa de incidencia La vacunación es una medida de prevención primaria, por lo que evita el desarrollo de una enfermedad, antes de que exista. Por tanto, disminuye la incidencia y su éxito se mide en base a la caída de la incidencia. Es cierto que baja también la prevalencia, pero no es un buen indicador tanto por ser una medida de prevención primaria, como porque la hepatitis es una enfermedad infecciosa aguda, en la que la",
+        "correcta": true
+      }
+    ],
+    "justificacion": "prevalencia no da mucha información. Las medidas de prevención secundaria y terciaria solo disminuyen la prevalencia y no afectan la incidencia, ya que actúan cuando la enfermedad ya está presente. La tasa de cobertura sí es importante, pero para determinar la correcta implementación de la medida y no su e\u0000cacia o éxito.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "¿Qué sesgo se trata de evitar al realizar un ensayo clínico con doble ciego, es decir, Sin contestar donde el sujeto de estudio no sabe qué tratamiento está recibiendo y el evaluador Puntúa como tampoco?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Sesgo de información",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Sesgo de confusión",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Sesgo del entrevistador",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Sesgo de selección",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sesgo memoria El doble ciego se utiliza para evitar sesgo de información o medida. También sirve",
+        "correcta": false
+      }
+    ],
+    "justificacion": "calibrar los instrumentos de medición.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Se evalúa la relación entre la exposición a un determinado fármaco y el desarrollo Sin contestar de una enfermedad, obteniéndose un Odds Ratio (OR) de 0,5, con un intervalo de Puntúa como con\u0000anza (IC) al 95% de [0,42 - 0,57]. ¿Cuál de las siguientes aseveraciones es más 1,00 correcta?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Se trata de un factor protector",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Se trata de un probable factor protector, pero su efecto no es estadísticamente signi\u0000cativo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "No existe relación entre el fármaco y la enfermedad",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Se trata de un probable factor de riesgo, pero su efecto no es estadísticamente signi\u0000cativo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Se trata de un factor de riesgo. El OR menor a 1 indica que disminuye el riesgo (disminuye la probabilidad de enfermarse), por lo que sería un factor protector. Además, como el IC al 95% no",
+        "correcta": false
+      }
+    ],
+    "justificacion": "pasa por el 1, su efecto es estadísticamente signi\u0000cativo. Si pasara por el 1, no sería estadísticamente signi\u0000cativo (ej. [0,12 - 1,07]). Si el OR fuera igual a 1, no existiría relación. Si el OR fuera mayor a 1, sería un factor de riesgo (aumenta la probabilidad de enfermarse). Igualmente, se debería ver el IC para ver si su efecto es signi\u0000cativo: si pasa por el 1 no es signi\u0000cativo.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "¿A qué tipo de intervención corresponde el trabajo de la fundación Teletón, que se Sin contestar encarga de apoyar y rehabilitar a niños y adultos con discapacidad?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Protección de salud",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Promoción de salud",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Prevención primaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Prevención secundaria",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Prevención terciaria La rehabilitación es prevención terciaria, ya que la enfermedad y los síntomas están",
+        "correcta": true
+      }
+    ],
+    "justificacion": "presentes. La prevención secundaria tiene enfermedad presente, pero asintomática. La primaria aún no tiene la enfermedad, ni síntomas (promoción y protección de salud son medidas de prevención primaria).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "¿Cuál de las siguiente actividades o medidas, está relacionado con el principio de Sin contestar protección \u0000nanciera de las garantías explícitas de salud (GES)?:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Acceso por ley a las pretaciones de salud",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Completa gratuidad de todas las prestaciones asociadas a patologías AUGE",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Subsidio estatal para las patologías AUGE, de modo que el a\u0000liado solo pague una parte",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Multas a Fonasa o las Isapres que no respeten los plazos máximos para entregar una prestación AUGE",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Irrenunciabilidad de los derechos y coberturas AUGE Los 4 principios son: 1. Acceso (derecho legal que permite acceder a la prestación), 2. Oportunidad (plazos máximos a respetar), 3. Protección \u0000nanciera (subsidio estatal) y 4. Calidad (certi\u0000cación y acreditación de prestadores). Las prestaciones AUGE no son del todo gratuitas para los pacientes Isapres, que deben copagar un 20% de las atenciones, pero, actualmente están 100% cubiertas por Fonasa. En",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ambos casos, eso sí, igualmente se debe pagar el seguro. Sí se puede renunciar al AUGE (ej. porque la Isapre le ofrece un plan mejor), pero, no es recomendable hacerlo.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Se agregan antioxidantes a la dieta una población, observándose la variación en las Sin contestar tasas de infarto ¿A qué tipo de estudio corresponde?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Descriptivo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "De prevalencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "De casos y controles",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "De cohorte",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Experimental Se está realizando una intervención (se controla una variable), por lo que es experimental. Con la información que se entrega, no queda claro si es de intervención comunitaria o si es un ensayo de campo o si es un estudio clínico, pero",
+        "correcta": true
+      }
+    ],
+    "justificacion": "sí se sabe que es experimental. Los demás son observacionales.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Se realiza un estudio que demuestra que los niños de las familias de altos ingresos Sin contestar tienen una prevalencia de trastorno por dé\u0000cit atencional 3 veces mayor que la de Puntúa como los niños de las familias de menores ingresos. Sin embargo, se observa que los 1,00 niños de familias de mayores ingresos tienen un número mucho mayor de atenciones de tipo psicológica y psicopedagógica, en las que podrían ser diagnosticados. ¿Qué tipo de sesgo es posible identi\u0000car?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Sesgo de información",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Sesgo de noti\u0000cación",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Sesgo de confusión",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Sesgo de selección",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sesgo de vigilancia Es un ejemplo claro de sesgo de vigilancia: se tiene una mayor frecuencia de enfermedad, simplemente porque se vigila más y hay más instancias en las que se",
+        "correcta": true
+      }
+    ],
+    "justificacion": "puede hacer el diagnóstico. Ver el resumen de salud público, en el tema “sesgos”.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "¿A qué tipo de medida corresponde el uso de anticonceptivos combinados orales, Sin contestar para evitar los embarazos no deseados?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Prevención primaria",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Prevención secundaria",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Prevención terciaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Prevención cuaternaria",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Prevención gestacional Es una pregunta algo capciosa, porque el embarazo no es una enfermedad (tal vez el embarazo no deseado podría considerarse un problema de salud). Sin embargo, se evita la situación antes de que exista (disminuye la incidencia de embarazo), por",
+        "correcta": false
+      }
+    ],
+    "justificacion": "lo que se trataría de una medida de prevención primaria.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "¿A qué indicador corresponde la siguiente a\u0000rmación: “La promiscuidad sexual Sin contestar aumenta 2 veces el riesgo de embarazo ectópico”?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Incidencia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Riesgo relativo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Prevalencia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Riesgo atribuible",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Intervalo de con\u0000anza El riesgo relativo re\u0000eja el número de veces que aumenta el riesgo (o la incidencia) al estar expuesto a un factor de riesgo. La incidencia sería “un 2% de los pacientes con promiscuidad sexual desarrollan un embarazo ectópico”. La prevalencia sería “un 2% de los pacientes con promiscuidad sexual tienen embarazo ectópico”. El riesgo atribuible sería “la diferencia de incidencias o de riesgo de embarazo ectópico, entre las pacientes con promiscuidad sexual y las pacientes sin",
+        "correcta": false
+      }
+    ],
+    "justificacion": "promiscuidad sexual es 2%.",
+    "archivo_origen": "3.txt"
+  }
+]

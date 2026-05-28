@@ -1,0 +1,3302 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Un paciente es asaltado por dos delincuentes, quienes lo patean en el suelo. Sin contestar Durante la semana siguiente presenta angustia y recuerdos del hecho, asociados a Puntúa como pesadillas muy desagradables. Además, evita andar en la calle solo y se sobresalta 1,00 fácilmente por cualquier ruido. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de estrés postraumático",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de estrés agudo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno adaptativo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de angustia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Reacción normal Es un trastorno de estrés clásico (evento crítico, seguido de reexperimentación, angustia, evitación e hiperalerta). Por tener menos de 4 semanas, es un trastorno de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "estrés agudo. Si tuviese más de 4 semanas, sería postraumático.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente se pone muy ansioso en situaciones en las que debe actuar en público, Sin contestar como hablar en público, exponer frente a sus compañeros de curso y profesores e Puntúa como incluso comer frente a los demás. Además, ha presentado crisis de pánico antes de 1,00 las presentaciones y exámenes orales. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fobia especí\u0000ca",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de personalidad evitativo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de personalidad dependiente",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de pánico con agorafobia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fobia social Es una fobia social clásica, también llamada trastorno de ansiedad social. Se",
+        "correcta": true
+      }
+    ],
+    "justificacion": "caracteriza por ansiedad ante el juicio o escrutinio público. Existen dos tipos de trastorno por ansiedad social: 1. Ansiedad social generalizada (o simplemente, ansiedad social) y 2. Ansiedad social especí\u0000ca ante performance (suele responder a la psicoterapia sola). El tratamiento suele ser con psicoterapia especí\u0000ca (ej. exposición a situaciones similares y manejo). En casos más graves, se requieren fármacos (IRS o venlafaxina, al igual que en todos los trastornos ansiosos). En casos graves, las benzodiacepinas pueden ser de utilidad como tratamiento sintomático en momentos especí\u0000cos, al igual que el propanolol (disminuye palpitaciones y temblor).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente de 58 años re\u0000ere que es espiado por la CIA a través de satélites e Sin contestar intercepciones de sus llamadas telefónicas. Por eso ya no usa el celular y usa Puntúa como sombrero cada vez que debe hacer algo que él considere importante, de modo de 1,00 no ser reconocido por los satélites. Empezó con esta idea hace un año, luego de ver un reportaje que mostraba la tecnología satelital y la calidad con la que podía ver la super\u0000cie terrestre. A parte de esto, se desempeña normalmente en su trabajo y nunca ha sufrido alucinaciones. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de personalidad esquizotípico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de personalidad paranoide",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno delirante crónico",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Esquizofrenia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno obsesivo compulsivo Tiene un delirio paranoide, mayor a 3 meses, que no afecta otras áreas de su vida, por lo que es un T. delirante crónico clásico (si lleva más de 4 semanas, pero menos de 3 meses, se llama solo \"trastorno delirante\", sin la palabra \"crónico\"). El tratamiento consiste en antipsicóticos atípicos (aripiprazol o risperidona) más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "psicoterapia, aunque muchas veces es difícil convercer al paciente de tomarlos. - La esquizofrenia sería en un paciente más joven, con alucinaciones y síntomas negativos (abulia, aplanamiento afectivo, apatía). - Los trastornos de personalidad no tienen delirios (no están psicóticos), sino solo son una forma de ser patológica (ej. el T. personalidad paranoide es demasiado descon\u0000ado, pero no está psicótico). Eso sí, se pueden complicar con un trastorno delirante.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente de 21 años es poco expresivo y no le interesan mucho las relaciones Sin contestar interpersonales. No tiene amigos íntimos y nunca ha tenido pareja ni relaciones Puntúa como sexuales. Él re\u0000ere que no le vive “feliz sin esas cosas”. Además, evita actividades 1,00 en las que deba tener mucho contacto con los demás, ya que disfruta más de las actividades en solitario. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno distímico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno delirante crónico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de personalidad",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Esquizofrenia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno del espectro autista Es un T. personalidad esquizoide clásico: persona sin interés por las relaciones interpersonales, bastante frío y sin amigos ni relaciones sentimentales. No tiene psicosis (delirios ni alucinaciones), por lo que no parece T. delirante crónico, ni esquizofrenia, ni T. esquizoafectivo. La distimia tiene tristeza y disforia crónica (2",
+        "correcta": false
+      }
+    ],
+    "justificacion": "años y 1 año en adolescentes), sin cumplir criterios de depresión. El trastorno o condición del espectro autista, en los pacientes que logran un adecuado lenguaje, sí suele tener interés en las relaciones interpersonales, aunque tenga serias di\u0000cultades en lograrlas adecuadamente. Además, se caracterizan por tener intereses restringidas, rigidez cognitiva (di\u0000cultad para cambiar el pensamiento o comportamiento y adaptarse a los cambios), así como síntomas sensoriales. Ninguno de estos elementos se ve en el trastorno de personalidad esquizoide. Eso sí, hay algunos autores minoritarios, que tienden a englobar a la personalidad esquizoide dentro de el TEA, en sentido amplio.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un niño de 6 años tiene mal rendimiento escolar y además tiene mal Sin contestar comportamiento en el colegio, ya que no se queda quieto y si bien obedece al ser Puntúa como regañado, vuelve a molestar a los demás a los pocos minutos. El diagnóstico más 1,00 probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de Asperger",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Autismo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Dé\u0000cit atencional",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de conducta",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno oposicionista desa\u0000ante Tiene un T. por dé\u0000cit atencional de tipo hiperactivo (hiperactividad y mal rendimiento). El T. oposicionista desa\u0000ante no habría hecho caso, sino por el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "contrario, sería desobediente y agresivo.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Una paciente de 23 años presenta un cuadro de ánimo bajo, anhedonia y desgano, Sin contestar de 3 meses de evolución, que inició luego de una ruptura sentimental. Ha subido 10 Puntúa como Kg de peso en este tiempo y re\u0000ere que duerme gran parte del día, ya que no tiene 1,00 ganas de hacer nada. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Depresión psicótica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Distimia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Depresión melancólica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno adaptativo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Depresión atípica La depresión atípica se caracteriza por alza de peso, hipersomnia, sensibilidad al rechazo, craving por dulces, reacción a estímulos positivos). Los IMAOs (fenelcina, seleginina) históricamente han sido el tratamiento de elección en este tipo de depresión, ya que, antes de que existieran los IRS, los IMAOs demostraron ser mejor que los tricíclicos en este tipo de depresión. Aún siguen siendo una opción aceptable. Sin embargo, actualmente, la mayor seguridad de los IRS ha hecho que la mayoría de recomendaciones internacionales los pre\u0000eran como fármacos de primera línea. Sin embargo, el Eunacom, probablemente aún considera a los IMAOs",
+        "correcta": true
+      }
+    ],
+    "justificacion": "como los fármacos de elección.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Una paciente es diagnosticada de depresión, por lo que inicia \u0000uoxetina 20 mg al Sin contestar día. Usted la controla 10 días después y ella le comenta que se sigue sintiendo igual Puntúa como de triste y que los medicamentos que le prescribieron no le han hecho ningún 1,00 efecto. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Educar y mantener el tratamiento",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Educar y aumentar la dosis de \u0000uoxetina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Educar y añadir duloxetina al tratamiento",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Educar y remplazar la \u0000uoxetina por venlafaxina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Educar y derivar a especialista Es normal que el tratamiento antidepresivo demore en empezar a hacer efecto hasta 4-6 semanas. Por eso, si lleva menos de 4 semanas, simplemente se la debe educar. Si llevara más de 4 semanas, sería recomendable reemplazar el IRS por un",
+        "correcta": false
+      }
+    ],
+    "justificacion": "antidepresivo dual, como la duloxetina o venlafaxina.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Usted evalúa a un paciente que es traído por sus familiares, ya que desde hace un Sin contestar mes está muy agresivo y raro. Re\u0000eren que está con ideas de hacer negocios y de Puntúa como inventar alguna empresa rápido, para aprovechar que tiene contactos con la 1,00 presidencia de la república. Ha gastado mucho dinero en ropa elegante y accesorios para poder encajar bien en los nuevos grupos de poder y re\u0000ere que será muy exitoso. Cuando sus familiares le dicen que no están de acuerdo, se enoja, los insulta y dice que por culpa de ellos es que no ha podido aún lograr el éxito que quiere y que ya se aburrió de escuchar sus comentarios mediocres. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno bipolar",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno delirante crónico megalomaníaco",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno narcisista de la personalidad",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Esquizofrenia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Intoxicación con cocaína Parece un trastorno bipolar, con una manía severa. Además, al parecer está psicótico, con un delirio megalomaníaco (contactos en la presidencia e ideas de éxito). Sin embargo, la predominancia de síntomas anímicos (irritabilidad, enojo), así como la rápida evolución, hacen improbable un T. delirante crónico (debe ser mayor a 3 meses y avanza lentamente, comenzando por ideas raras, hasta que",
+        "correcta": false
+      }
+    ],
+    "justificacion": "\u0000nalmente se establece el delirio).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente psiquiátrico, usando un medicamento cuyo nombre desconoce, Sin contestar evoluciona con malestar general, náuseas y vómitos, asociados a temblor de las Puntúa como extremidades y di\u0000cultades para caminar. Al examen físico presenta ataxia de la 1,00 marcha y temblor de los brazos. ¿Qué fármaco es responsable de este cuadro?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Clorpromazina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Risperidona",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Clozapina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Litio",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Carbamazepina Es una intoxicación clásica por litio (temblor, ataxia, compromiso gastrointestinal y compromiso de conciencia. Además, puede tener poliuria, por una especie de diabetes insípida nefrogénica). Se objetiva con litemia y se trata con suero",
+        "correcta": false
+      }
+    ],
+    "justificacion": "\u0000siológico y, en los casos graves, con hemodiálisis. - La clorpromazina y risperidona (antipsicóticos) pueden producir parkinsonismo y otros síntomas extrapiramidales. - La intoxicación con carbamazepina produce convulsiones y compromiso de conciencia. En casos más graves puede evolucionar a un síndrome anticolinérgico (la risperidona también, pero es más raro).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Una mujer de 46 años es muy ansiosa y sale muy poco de su casa, ya que le puede Sin contestar pasar algo malo. Cuenta que hace 5 años estuvieron a punto de atropellarla, pero Puntúa como que, gracias a Dios, salvó ilesa. Además, les pide a sus hijos que tengan mucho 1,00 cuidado, que no anden en bus y que manejen lento para que no les pase nada y que por ningún motivo saquen a sus nietos de la casa, porque puede sufrir un accidente o contraer una enfermedad grave. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de ansiedad",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno agorafóbico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de personalidad evitativo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de estrés postraumático",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno de ansiedad generalizada Es un T. ansiedad generalizada clásico, que se caracteriza por expectación ansiosa: ansiedad ante múltiples hechos que pueden ocurrir, con marcadas conductas",
+        "correcta": false
+      }
+    ],
+    "justificacion": "evitativas. No tiene crisis de pánico, por lo que no puede ser un T. de ansiedad. No está relacionada a la falta de ayuda y además tiene ansiedad frente a hechos relativos a otras personas, por lo que no puede ser agorafobia. No tiene reexperimentación del accidente, por lo que no puede ser un TEPT.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente de 63 años presenta problemas de memoria y una actitud más apática Sin contestar de la habitual. Los familiares re\u0000eren que en ocasiones sus ideas son algo Puntúa como “incoherentes” y se muestran muy preocupados porque presenta incontinencia 1,00 urinaria y además se ha caído en varias oportunidades. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Delirium",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Demencia frontotemporal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Demencia de Alzheimer",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Demencia por cuerpos de Lewy",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hidrocefalia normotensiva",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Tiene la triada clásica de la HNT: caídas, incontinencia urinaria y demencia.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "¿Cuál de las siguientes patologías es parte del diagnóstico diferencial del trastorno Sin contestar de pánico y puede ser confundida con este?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de personalidad evitativo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dé\u0000cit de vitamina B12",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hipotiroidismo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de ansiedad generalizada",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Taquicardia paroxística supraventricular El T. de pánico o T. de ansiedad, se caracteriza por crisis de pánico recurrentes, sin una causa clara. Por eso, dentro del diagnóstico diferencial, están el hipertiroidismo,",
+        "correcta": true
+      }
+    ],
+    "justificacion": "el feocromocitoma y las arritmias paroxísticas, como la TPSV y la FA paroxística.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente de 24 años reprueba su examen de grado y no llega ese día a su casa. Sin contestar Los familiares dan a aviso a carabineros y lo encuentran 2 semanas después en Puntúa como Collipulli, viviendo en una casa abandonada. Él no recuerda muy bien cómo llegó 1,00 hasta ahí. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno conversivo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Psicosis reactiva",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno adaptativo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno bipolar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno disociativo Es una fuga disociativa clásica, que consiste en un tipo de amnesia disociativa (olvida parte importante de los recuerdos de su vida), al que se agrega que se va del lugar donde vivía a otro e, incluso, puede asociarse a la \"creación\" de una nueva autobiografía inventada. No suele afectar sus habilidades (ej. si es médico, seguirá sabiendo medicina, aunque no recuerde cómo se llama ni quienes son sus",
+        "correcta": true
+      }
+    ],
+    "justificacion": "familiares). Al igual que los demás trastornos disociativos, se trata con psicoterapia, con buena probabilidad de recuperar los recuerdos y su vida previa.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "¿Cuál es el tratamiento más adecuado para un paciente con un cuadro cónico de Sin contestar alucinaciones auditivas, asociada a un delirio místico-religioso?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Litio",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Risperidona",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Antipsicóticos de depósito",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Antidepresivos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Benzodiacepinas Tiene una esquizofrenia clásica. El tratamiento de la esquizofrenia se puede resumir en: Antipsicóticos orales más psicoterapia y psicoeducación. Generalmente se indica risperidona o aripiprazol en la menor dosis posible, que mantiene al paciente",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sin síntomas. - Si responde parcialmente, se debe subir la dosis. Pero, si no adhiere bien al tratamiento, se debe cambiar a un antipsicótico de depósito (ej. modecate). - Si produce efectos adversos, se debe cambiar a otros antipsicótico. Si vuelve a tener efectos adversos o ideación suicida persistente, se indica la clozapina. El tratamiento se debe Se debe mantener por mínimo 2 a 3 años, antes de intentar retirarlos cuidadosamente (bajando dosis lentamente y monitorizando los síntomas con frecuencia). Los síntomas negativos son muy difíciles de tratar, pero, probablemente responden más a los antipsicóticos atípicos o de segunda generación. La esquizofrenia simple (solo síntomas negativos) o esquizofrenia de\u0000citaria (síntomas negativos muy marcados) suelen tener un pronóstico más pobre.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Usted evalúa a un paciente que está muy preocupado y angustiado, porque teme Sin contestar estar volviéndose loco. Dice que tiene la idea de que su casa será robada por Puntúa como delincuentes y que él dejó la puerta abierta. Por eso se tiene que devolver a 1,00 cerciorarse de haber puesto llave y que incluso lo ha hecho después de haber ido ya en dos oportunidades. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de personalidad obsesiva compulsiva",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno obsesivo compulsivo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno delirante crónico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de estrés postraumático",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno de angustia generalizada Tiene un TOC clásico, con obsesión de duda y de robo y compulsión de corroboración. El T. personalidad TOC, en cambio, es una persona con muchos rituales y preocupación por los detalles, pero egosintónica, es decir, conforme con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sus acciones y molesta con las acciones de los demás. El tratamiento del TOC incluye psicoterapia (generalmente cognitivo conductual de exposición y prevención de respuesta) y/o antidepresivos IRS (al igual que todos los trastornos ansiosos). El sí, los IRS suelen requerir una dosis relativamente alta (ej. \u0000uoxentina 40 a 80 mg/día). Como alternativas, sirve la clomipramina (tricíclico) y la venlafaxina (dual), ambos también con efectos sobre la serotonina (inhiben recaptura de serotonina y norepinefrina). En los casos refractarios, se puede agregar una dosis baja de antipsicóticos atípicos (ej. risperidona o quetiapina), ya que tienen un efecto anti impulsivo.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un adolescente de 17 años presenta un cuadro de ánimo bajo y disfórico, asociado Sin contestar a anhedonia de 18 meses de evolución, sin otros síntomas. No presenta ideación Puntúa como suicida, pero siente que no es una persona feliz. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Depresión",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Distimia",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de personalidad",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno bipolar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno adaptativo Es una distimia clásica, ya que lleva más de 1 año (2 años en adultos) con tristeza, pero sin cumplir con los criterios de una depresión mayor. Se trata igual que la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "depresión.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "¿Cuál de los siguientes trastornos de personalidad se caracteriza por agresividad, Sin contestar impulsividad, inestabilidad emocional y escisión de la personalidad?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Antisocial",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Histriónico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Límite",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Paranoide",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Esquizotípico El T. límite o limítrofe de la personalidad se caracteriza por la inestabilidad, impulsividad, agresión y autoagresión, evitación desesperada del abandono y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "personalidad escindida y cambiante. El TP antisocial tiene falta de empatía y culpa, comisión de delitos, crueldad y agresividad. El TP histriónico busca ser el centro de atención, tiene preocupación por el aspecto y seducción y sí tiene labilidad emocional. El TP paranoide es celoso y descon\u0000ado, además de molestarse fácilmente por cualquier cosa, ya que se siente atacado. El TP esquizotípico hoy se considera mayormente una esquizofrenia. Se caracteriza por ideas de referencia (creer que los acontecimientos externos se relacionan con uno mismo), las creencias en la magia y sobrenatural y también tiene conductas algo paranoides.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Un paciente sufre una manía aguda, la que es contenida inicialmente con Sin contestar haloperidol y hospitalización. ¿Qué fármaco es más adecuado para lograr la Puntúa como remisión total del episodio y evitar recurrencias?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Haloperidol oral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Litio más aripiprazol",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Fluoxetina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Moclobemida",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Clorpromazina Tratamiento del trastorno bipolar (ha cambiado, ya que los antipsicóticos han demostrado ser muy buenos estabilizadores del ánimo, en especial, aripiprazol, risperidona, quetiapina y olanzapina): 1. Lo primero y más importante es que están contraindicados todos los",
+        "correcta": false
+      }
+    ],
+    "justificacion": "antidepresivos. 2. El episodio agudo se trata con litio, anticonvulsivantes y/o antipsicóticos. - Manía aguda (2 fármacos): idealmente litio más antipsicótico. Aceptable valproato o carbamacepina más antipsicótico. Si está agitado y agresivo, de elección, haloperidol e incluso se puede mezclar con lorazepam. o Si falla, se cambia el litio o el ácido valproico, por el otro fármaco. o Si falla nuevamente, se cambia el antipsicótico (hasta dos veces). o De última línea, se indica TEC (terapia electroconvulsiva). - Hipomanía (1 fármaco): actualmente se recomiendan más los antipsicóticos que el litio o anticonvulsivantes, aunque cualquiera es una opción aceptable. Si falla, se trata como una manía. - Episodios mixtos y cicladores rápidos (4 o más episodios en un año) actualmente se tratan igual que la manía (litio o valproato más antipsicóticos). - Depresión (1 fármaco): actualmente se recomiendan los antipsicóticos, en especial, quetiapina. Recordar que los antidepresivos están contraindicados. 3. Luego se indica terapia de mantención a permanencia: idealmente los mismos fármacos que lograron la remisión. Se cambian, si fallan. La lamotrigina se puede usar para prevenir nuevos episodios, pero no parece útil en el cuadro agudo.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente ingiere 20 comprimidos de alprazolam, con intención suicida. Al Sin contestar examen físico está en coma, con una frecuencia respiratoria de 4 respiraciones por Puntúa como minuto y cianosis. La conducta inicial más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar naloxona y ventilar con ambú",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar intubación orotraqueal y ventilar con ambú",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar N-acetilcisteína y suero \u0000siológico por vía endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar suero \u0000siológico por vía endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar adrenalina endovenosa Lo más urgente en la intoxicación con benzodiazepinas es el ABC, en especí\u0000co, asegurar la vía aérea y la ventilación. Como antídoto, además, se puede usar el \u0000umazenil, pero su efecto es muy breve y errático, por lo que la ventilación y soporte",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sigue siendo lo más importante. La naloxona es el antídoto de la intoxicación con opiáceos (más la ventilación). La N-acetil-cisteína es el antídoto del paracetamol.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un paciente de 82 años presenta un cuadro de 48 horas de evolución, de agitación Sin contestar psicomotora, desorientación temporoespacial y tendencia a dormir. Al examen Puntúa como físico no presenta signos focales y no sabe bien donde está. El diagnóstico más 1,00 probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome confusional agudo",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Delirium tremens",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Demencia por cuerpos de Lewy",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Demencia de Alzheimer",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Delirio Tiene un síndrome confusional agudo o delirium clásico: adulto mayor con desorientación, compromiso de conciencia y agitación. Suele producirse por",
+        "correcta": false
+      }
+    ],
+    "justificacion": "alteraciones tóxico-metabólicas, como las infecciones. No se debe confundir con el delirio: síntoma psicótico, consistente en un conjunto de ideas que suponen una pérdida del juicio de realidad.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 56 años consulta por cefalea de intensidad \u0000uctuante, de Sin contestar predominio occipital. Además, presenta náuseas y dolor abdominal tipo cólico, con Puntúa como artralgias. En el último tiempo presenta también la sensación de tener un cuerpo 1,00 extraño al tragar. Se ha realizado múltiples exámenes, los que descartan patología orgánica. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno adaptativo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno por hipocondría",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno conversivo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Depresión",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno por somatización Tiene un T. de somatización clásico, consistente en múltiples síntomas de distintos",
+        "correcta": true
+      }
+    ],
+    "justificacion": "tipos, sin una causa orgánica. El T. adaptativo tiene síntomas ansiosos o anímicos, luego de un evento crítico en la vida. El T. por hipocondría tiene miedo a una enfermedad grave o progresiva, habitualmente sin muchos síntomas. El T. conversivo tiene síntomas neurológicos súbitos.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente ingresa a la universidad, a estudiar derecho, con un buen puntaje en la Sin contestar PSU. Durante el primer mes está muy contento y les cuenta a todos sus amigos y Puntúa como familiares que será un excelente abogado y que de hecho ya está pensando en 1,00 poner una empresa de consultoría para las grandes empresas del país. En ocasiones les cuenta sus planes a desconocidos y ha faltado a muchas clases por perder tiempo en trámites y averiguaciones, lo que le ha signi\u0000cado obtener bajas cali\u0000caciones, lo que él minimiza diciendo que esas notas las recuperará sin ningún problema porque “lleva el derecho en la sangre”. Sus familiares se muestran preocupados, ya que lo encuentran raro. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno delirante crónico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de personalidad narcisista",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno bipolar",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Esquizofrenia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno obsesivo compulsivo Tiene una manía severa, probablemente psicótica. Orientan fuertemente a una manía las ideas de éxito, el optimismo y la verborrea que tiene, hablando incluso con desconocidos sobre sus planes. También la edad (suelen brotar a los 18 años en promedio). Si bien parece que tiene un delirio megalomaníaco, es secundario al",
+        "correcta": false
+      }
+    ],
+    "justificacion": "cuadro anímico (a la manía). Por tanto, tiene un T. bipolar. El tratamiento agudo de la manía consiste en litio o ácido valproico más un antipsicótico (litio más risperidona es lo más usado). - Si falla, se cambia el litio o el ácido valproico, por el otro fármaco. - Si falla nuevamente, se cambia el antipsicótico (hasta dos veces)o - De última línea, se indica TEC (terapia electroconvulsiva).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente de 72 años presenta un cuadro de malestar general y \u0000ebre, de 48 Sin contestar horas de evolución, a lo que luego se le agrega desorientación y agitación Puntúa como psicomotora. Re\u0000ere que sus familiares lo quieren matar y ha presentado 1,00 alucinaciones visuales. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Esquizofrenia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Enfermedad de Alzheimer",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Demencia por cuerpos de Lewy",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Delirium",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome de abstinencia Tiene un síndrome confusional agudo o delirium clásico, probablemente secundario a una infección. Puede tener alucinaciones y delirios, como en este caso. La desorientación y agitación son características, pero la inatención y el compromiso",
+        "correcta": false
+      }
+    ],
+    "justificacion": "de conciencia son lo más importante.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Identi\u0000que la asociación INCORRECTA entre la intoxicación y el tratamiento:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Metanol – etanol",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Paracetamol – N-acetilcisteína",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cocaína – propanolol",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Amitriptilina – carbón activado",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Mor\u0000na – naloxona En la intoxicación por cocaína está absolutamente contraindicado el propanolol, ya que se puede generar una crisis hipertensiva (se bloquean los receptores beta, pero",
+        "correcta": false
+      }
+    ],
+    "justificacion": "no los alfa, por lo que se produce una vasoconstricción masiva). Respecto a los tricíclicos, lo más importante es el soporte, pero sí sirve el carbón activado oral y el bicarbonato endovenoso. En los demás, se menciona el antídoto habitual.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Las alucinaciones de la esquizofrenia son característicamente:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Visuales personi\u0000cadas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Visuales no personi\u0000cadas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Auditivas personi\u0000cadas",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Auditivas no personi\u0000cadas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Complejas, con componentes visuales y auditivos personi\u0000cados y no personi\u0000cados Suelen escuchar voces, por lo que son alucinaciones auditivas y personi\u0000cadas. Un ejemplo de una alucinación auditiva no personi\u0000cada sería escuchar explosiones o",
+        "correcta": false
+      }
+    ],
+    "justificacion": "música. Vale la pena mencionar que pueden tener todo tipo de alucinaciones (visuales, cenestésicas, etc.).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente que consume una sustancia psicotrópica con cierta frecuencia, Sin contestar necesita cada vez dosis más altas para obtener el mismo efecto. Este concepto Puntúa como corresponde a:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Abstinencia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dependencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Abuso",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tolerancia",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Up-regulation Es la de\u0000nición de tolerancia: necesitar una dosis cada vez mayor para conseguir el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "mismo efecto. Vale la pena mencionar que suele producirse mediante mecanismos \u0000siopatológicos de up-regulation (sobreexpresión) o down-regulation (subexpresión) de receptores y neurotransmisores. Sin embargo, depende del tipo de sustancia el mecanismo que estará implicado. Abstinencia es el malestar que se produce al no consumir. Dependencia tiene relación con la adicción (aunque para muchos es un concepto obsoleto). Abuso tiene relación con el consumo perjudicial (aunque también se considera un concepto obsoleto).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un paciente de 20 años no tiene amigos íntimos y nunca ha tenido pareja. Tiene la Sin contestar sensación de que los demás lo encontrarán tonto o feo y por eso evita situaciones Puntúa como en las que tendrá contacto con personas nuevas o trabajos donde tendría que 1,00 interactuar con muchas personas, ya que esto le causa ansiedad. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de ansiedad",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de ansiedad generalizada",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno fóbico social",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de personalidad evitativo",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno distímico Es un trastorno de personalidad evitativo clásico: baja autoestima, evitación de las demás personas y relaciones interpersonales, por miedo al rechazo. Se diferencia de la fobia social, en que esta sí tiene amigos y relaciones sociales normales, solo que le genera mucha ansiedad hacer cosas en las que será evaluado por los demás",
+        "correcta": false
+      }
+    ],
+    "justificacion": "(ej. exponer, cantar o hablar en público). Eso sí, hay quienes postulan que se trata de la misma patología, con distintos grados de severidad (siendo el más grave, el trastorno de personalidad evitativo).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Una paciente de 45 años pierde de manera súbita el habla mientras discutía con su Sin contestar marido. Comprende bien el lenguaje, pero no puede evocar palabras ni sonidos. Puntúa como Cerca de 45 minutos después, comienza a recuperar progresivamente la voz. Su 1,00 examen neurológico, así como su examen físico y neuroimágenes son totalmente normales. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno conversivo",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de personalidad histriónico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno por somatización",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno disociativo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno de estrés agudo Tiene un trastorno conversivo clásico: síntomas neurológicos de inicio súbito, sin",
+        "correcta": false
+      }
+    ],
+    "justificacion": "una causa orgánica. En este caso tenía una afasia conversiva. En general, todos los T. de personalidad son una forma de ser (crónica y desde siempre). El T. somatización también es crónico y tiene síntomas de muchos tipos. El T. disociativo incluye el estupor disociativo, la fuga disociativa, la amnesia disociativa y los cuadros de desrealización y despersonalización.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Una mujer de 29 años presenta una crisis de pánico mientras estaba en la calle, Sin contestar comprando. Presenta mucha ansiedad y ha presentado cerca de 10 crisis de pánico Puntúa como en las últimas 6 semanas, algunas de ellas sin un desencadenante claro. Además, 1,00 re\u0000ere miedo a le dé una crisis grave en la que muera y que nadie la ayude, por eso es que evita salir de su casa y sólo lo hace acompañada. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de pánico sin agorafobia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de pánico con agorafobia",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de ansiedad generalizada",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fobia social",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Agorafobia aislada Tiene un trastorno de pánico clásico: crisis de pánico recurrentes, sin un desencadenante claro (aunque el paciente los relacione indirectamente con un evento), asociado a miedo a tener nuevas crisis. Además, tiene las conductas evitativas clásicas. Es frecuente que se asocie a agorafobia (miedo a no recibir ayuda), lo que se ve claramente en este caso (no sale sola, pero sí acompañada). De",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hecho, el T. ansiedad (angustia o pánico) se clasi\u0000ca en con y sin agorafobia. Si en las alternativas los obligaran a elegir entre agorafobia y T. ansiedad, habría que marcar este último.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "¿Cuál es el tratamiento más adecuado para una paciente de 50 años con un Sin contestar trastorno de ansiedad generalizada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Benzodiacepinas de acción larga",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Benzodiacepinas de acción corta",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Antidepresivos",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Antipsicóticos típicos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Antipsicóticos atípicos Los trastornos ansiosos crónicos, incluyendo el TAG, se tratan preferentemente con antidepresivos IRS. Además, se le pueden agregar benzodiazepinas como tratamiento sintomático, pero estas no son el tratamiento de elección y solo se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "indican al inicio del tratamiento.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente de 60 años re\u0000ere ser la rencarnación del verdadero Dalai Lama. Lleva Sin contestar una vida muy tranquila, con meditación y practicando las enseñanzas del budismo. Puntúa como Al ser interrogado, cuenta que siempre ha sido muy religioso y cercano a la 1,00 naturaleza y animales y desde hace 5 años empezó a soñar que él era el Dalai Lama y que vivía en los Himalayas. Al averiguar más notó que el Dalai Lama mundialmente reconocido era un impostor y que había manipulado a todos, sin embargo, él no le guarda rencor y dice que desde el anonimato sigue luchando por la puri\u0000cación del mundo. Al decirle que es muy difícil creer que él sea realmente dicho personaje, él responde: “Doctor, lamento que aún no pueda ver lo que yo ahora veo, pero su mente aún está nublada por los pensamientos terrenales y sólo con meditación y desapego de lo material, logrará comprender”. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Esquizofrenia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Manía",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Episodio mixto",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno delirante crónico",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno de personalidad esquizotípico Tiene un delirio megalomaníaco. Además, es un delirio sistematizado, ya que es",
+        "correcta": false
+      }
+    ],
+    "justificacion": "capaz de explicarlo claramente. No tiene síntomas anímicos (exaltación del ánimo, verborrea, hiperactividad, disminución de la necesidad de dormir, etc.) como para pensar en un T. bipolar con manía o episodio mixto. Tampoco tiene síntomas negativos ni alucinaciones, como para pensar en una esquizofrenia. Por tanto, es un T. delirante crónico clásico.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Usted controla a un paciente de 25 años, diagnosticado de depresión hace un mes, Sin contestar momento en que se inició \u0000uoxetina 20 mg/día. Él re\u0000ere estar totalmente bien, ya Puntúa como sin depresión. Habla bastante y cambia fácil de tema, relatando que se metió a un 1,00 curso de chino mandarín, porque es el idioma del futuro y además está haciendo mucho ejercicio, aprovechando que está lleno de energía. Además, cuenta que está durmiendo cerca de 5 horas al día, pero eso no le molesta, ya que no necesita dormir más. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mantener el tratamiento",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Disminuir la dosis de \u0000uoxetina a 10 mg/día",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Mantener el tratamiento y agregar ácido valproico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Cambiar la \u0000uoxetina por un inhibidor de la monoaminoxidasa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Suspender el tratamiento y derivar a especialista Tiene un viraje de depresión a manía, por lo que su diagnóstico es un trastorno bipolar. Por tanto, se tiene que suspender los antidepresivos (están todos absolutamente contraindicados en el trastorno bipolar) y se debe derivar al especialista. Sin embargo, también habría sido correcto iniciar el tratamiento con",
+        "correcta": true
+      }
+    ],
+    "justificacion": "estabilizadores del ánimo (litio, anticonvulsivantes o antipsicóticos), ya que el T. bipolar no psicótico, puede ser manejado por un médico general, con conocimiento su\u0000ciente de salud mental. Algo importante es que actualmente se recomienda como primera línea a la quetiapina para el manejo de la depresión bipolar.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente sufre la separación con su esposa hace un mes, quien lo acusó de Sin contestar haberle sido in\u0000el. Él evoluciona muy triste, llorando con frecuencia y pensando Puntúa como constantemente en lo injusto que fue todo, porque él nunca fue in\u0000el. Re\u0000ere 1,00 insomnio importante, despertando a las 4 de la mañana y que de inmediato empieza a pensar en que su mujer lo dejó y lo acusó injustamente. Además, presenta baja de peso de 6 kilogramos desde el inicio del cuadro. Dice que no tiene ganas de trabajar ni de hacer nada. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de estrés agudo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de estrés postraumático",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno adaptativo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno depresivo",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Reacción normal Tiene un hecho gatillante claro y además tiene marcados síntomas anímicos (tristeza, llanto, insomnio y baja de peso), por lo que se trata de una depresión",
+        "correcta": false
+      }
+    ],
+    "justificacion": "reactiva. Si hubiese sido menos intensa, sin alteraciones del peso, por ejemplo, sería correcto el trastorno adaptativo. Si bien tiene reexperimentación del hecho, no se trata de un hecho que ponga en riesgo la vida, ni tiene hiperalerta, evitación o ansiedad relativa al hecho, como para pensar en un T. de estrés.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "La esquizofrenia simple se caracteriza por:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Predominancia de síntomas negativos",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Presencia de delirio paranoide",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Presencia de alucinaciones sin pérdida del juicio de la realidad",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "presencia de delirio sistematizado",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Ausencia de trastornos de personalidad y trastornos anímicos sobreagregado La esquizofrenia simple es aquella que solo tienen síntomas negativos, también llamados primarios o de\u0000citarios (aplanamiento afectivo, apatía, abulia, ine\u0000ciencia en el trabajo ejecutivo), sin síntomas positivos, también llamados secundarios o",
+        "correcta": false
+      }
+    ],
+    "justificacion": "productivos (alucinaciones y delirios). Los síntomas negativos son muy difíciles de tratar, pero, probablemente responden más a los antipsicóticos atípicos o de segunda generación. Por ello, la esquizofrenia simple (solo síntomas negativos) y la esquizofrenia de\u0000citaria (síntomas negativos muy marcados) suelen tener un pronóstico más pobre.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "¿Cuál de las siguientes alternativas es MENOS probable de presentarse en una Sin contestar paciente con anorexia nervosa?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Alteración de la autopercepción corporal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Amenorrea",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Conductas impulsivas con pérdida del control sobre la comida",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Personalidad de tipo obsesiva",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Conductas de purga Los atracones (episodios de pérdida de control sobre la comida, con ingesta impulsiva) son propios de la bulimia y son muy raros en la anorexia. La anorexia se asocia a personalidad obsesiva compulsiva (muy controladora), mientras que la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "bulimia a la personalidad limítrofe (muy impulsiva). Las conductas de purga son más frecuentes en la bulimia, pero se pueden ver en la anorexia (anorexia restrictivo-purgativa).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un paciente de 35 años consulta muy angustiado, porque desde hace 3 meses Sin contestar presenta la idea de que él agredirá a las personas que se le cruzan en la calle, por Puntúa como eso sale poco de su casa y además cruza la calle cada vez que alguien se le acerca. 1,00 Al preguntarle si está seguro de que realmente golpeará a la persona, él responde: “No estoy 100% seguro, pero no me voy a arriesgar”. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Esquizofrenia paranoide",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno delirante crónico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno obsesivo compulsivo",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de personalidad limítrofe",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno bipolar Tiene un TOC clásico, con obsesión de conducta impropia (conductas agresivas o sexuales son las más frecuentes) y compulsiones de evitación (cruzar la calle, no salir). La frase “no estoy seguro” apunta a que no está psicótico, sino que es un",
+        "correcta": false
+      }
+    ],
+    "justificacion": "trastorno neurótico. El tratamiento del TOC incluye psicoterapia (generalmente cognitivo conductual de exposición y prevención de respuesta) y/o antidepresivos IRS (al igual que todos los trastornos ansiosos). El sí, los IRS suelen requerir una dosis relativamente alta (ej. \u0000uoxentina 40 a 80 mg/día). Como alternativas, sirve la clomipramina (tricíclico) y la venlafaxina (dual), ambos también con efectos sobre la serotonina (inhiben recaptura de serotonina y norepinefrina). En los casos refractarios, se puede agregar una dosis baja de antipsicóticos atípicos (ej. risperidona o quetiapina), ya que tienen un efecto anti impulsivo.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Un niño de 13 años presenta muy mala conducta en el colegio y en la casa, Sin contestar metiéndose en peleas y obteniendo pésimas cali\u0000caciones. Con frecuencia insulta a Puntúa como su madre y patea a los perros de la casa. Además, su padre dice que le ha robado 1,00 en varias ocasiones y que cree que está consumiendo marihuana y alcohol. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno oposicionista desa\u0000ante",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Depresión",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Adolescencia normal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de conducta disocial",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno por dé\u0000cit atencional del niño El T. conducta se caracteriza por conductas claramente reñidas con las normas sociales y morales. En resumidas cuentas, es un adolescente \"malo\" (entendiendo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que no existen niños malos), que está evolucionando a convertirse en un antisocial. El tratamiento es difícil y requiere intervenir fuertemente su red de apoyo, con lo que tiene opciones de revertir. Mientras antes y más intensamente se intervenga, mejores resultados. El T. oposicionista desa\u0000ante tiene problemas con la autoridad y es desobediente y agresivo con la autoridad, pero no pelea con sus pares ni tampoco maltrata a los animales ni consume drogas.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "¿Cuál de los siguientes fármacos es más útil para el abandono del hábito de fumar?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Disul\u0000ram",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Benzodiacepinas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Acamprosato",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Bupropión",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Sertralina",
+        "correcta": false
+      }
+    ],
+    "justificacion": "El bupropión es un antidepresivo dual que disminuye el craving o deseo de fumar. También sirve la vareniclina. El disul\u0000ram se usa para dejar de consumir alcohol, como fármaco aversivo, aunque actualmente no se recomienda, dados sus efectos adversos. El acamprosato se usa como fármaco desmotivante, para mantener la abstinencia al alcohol, junto con psicoterapia cognitivo conductual.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "¿Cuál es el efecto adverso más frecuente de la risperidona?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síntomas extrapiramidales",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Náuseas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Disfunción sexual",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hipertensión arterial",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Insomnio La risperidona es un antipsicótico, que por ser antidopaminérgicos, producen síntomas extrapiramidales. Los típicos, como el haloperidol, tienen estos efectos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "adversos con más frecuencia que los atípicos, como la riesperidona.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un paciente presenció un accidente de tránsito en que un motociclista fue arrollado Sin contestar por un camión, muriendo al instante, de manera muy cruenta. Dos meses después Puntúa como empieza con recuerdos y pesadillas con el suceso, los que son muy desagradables 1,00 y le causan mucha ansiedad, llegando incluso a presentar crisis de ansiedad en 2 oportunidades. Re\u0000ere que pequeños ruidos lo asustan y se sobresalta fácilmente cuando alguien toca la bocina o frena brusco, por lo que evita manejar. El tratamiento de la patología descrita es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Antidepresivos y psicoterapia",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Antipsicóticos y psicoterapia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Anticonvulsivantes y psicoterapia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Benzodiacepinas y psicoterapia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Psicoterapia sola Tiene un trastorno de estrés postraumático (TEPT). Como todos los trastornos ansiosos crónicos, se trata preferentemente con antidepresivos IRS. Además, se puede dar benzodiacepinas al inicio, pero no son el tratamiento más importante, sino solo sintomático. La psicoterapia se indica en todos los trastornos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "psiquiátricos.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 34 años consulta por un cuadro de un mes de evolución de Sin contestar insomnio, ánimo bajo y angustia, relacionado con recuerdos y pesadillas sobre el Puntúa como incendio de su casa, que sucedió 3 meses antes. Evita hablar del tema y se siente 1,00 muy incómodo en presencia de fuego, incluso de una simple vela. Ante pequeños estímulos, como crujidos u olor a humo se acuerda inmediatamente del incendio y va a veri\u0000car si hay fuego en alguna parte de su nueva casa. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Depresión",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno adaptativo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno obsesivo compulsivo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de estrés postraumático",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno de angustia Tiene un trastorno de estrés postraumático (TEPT) clásico: evento que amenaza la vida propia o de los demás y que luego evoluciona con reexperimentación (recuerdos o pesadillas), hiperalerta (sobresalta con pequeños estímulos), evitación y embotamiento afectivo (di\u0000cultad para expresar sus sentimientos). Si lleva menos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "de 4 semanas es un T. estrés agudo. Si lleva más, es un TEPT. El tratamiento del TEPT incluye psicoterapia enfocada en trauma y/o antidepresivos IRS.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente tiene la idea de que algo malo le va a suceder o que Dios lo va a Sin contestar castigar, cuando escucha a alguien decir alguna grosería. Para evitar esto, repite en Puntúa como su mente varias veces la frase “Dios no lo escuches”. En el último tiempo esto ha 1,00 empeorado, ya que, al escuchar otras palabras negativas, como “malo”, “robo” o incluso “no”, le sucede lo mismo. Esto lo tiene muy angustiado, piensa gran parte del día en eso y sabe que no es normal. El tratamiento más adecuado es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Antipsicóticos atípicos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Antipsicóticos típicos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Antidepresivos IRSS",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Antidepresivos tricíclicos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Anticonvulsivantes",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es un TOC clásico, con obsesión de tipo religioso y una compulsión de tipo mental. Las obsesiones siempre son mentales, ya que son ideas que generan ansiedad. Las compulsiones son generalmente externas, pero también pueden ser mentales (repetir mentalmente palabras, rezar, etc.), aunque se diferencian de la obsesión, en que estas compulsiones disipan la ansiedad, mientras que las obsesiones la generan. El tratamiento del TOC incluye psicoterapia (generalmente cognitivo conductual de exposición y prevención de respuesta) y/o antidepresivos IRS (de elección, al igual que todos los trastornos ansiosos). El sí, los IRS suelen requerir una dosis relativamente alta (ej. \u0000uoxentina 40 a 80 mg/día). Como alternativas, sirve la clomipramina (tricíclico) y la venlafaxina (dual), ambos también con efectos sobre la serotonina (inhiben recaptura de serotonina y norepinefrina). En los casos refractarios, se puede agregar una dosis baja de antipsicóticos atípicos (ej. risperidona o quetiapina), ya que tienen un efecto anti impulsivo.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "El trastorno de pánico se caracteriza principalmente por:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ansiedad frente a lo desconocido",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Expectación ansiosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Crisis de pánico recurrentes",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Miedo a no recibir ayuda",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Miedo intenso y constante El trastorno de angustia se caracteriza por crisis de pánico recurrentes, sin un gatillante claro y por miedo a dichas crisis (morirse, volverse loco, sufrir un infarto,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "etc., durante ellas). La ansiedad frente a lo desconocido es normal. La expectación ansiosa es característica del trastorno de angustia generalizada (TAG). El miedo a no recibir ayuda es característico de la agorafobia, la que puede acompañar al trastorno de angustia, o bien presentarse aislada. El miedo intenso y constante no es propio de ninguna enfermedad, pero podría sugerir más un TAG, dado lo constante.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente de 25 años reprueba por segunda vez un mismo ramo. Un mes Sin contestar después, evoluciona con ánimo irritable y tristeza, pensando en abandonar la Puntúa como Universidad, aun cuando solo le resta un año para terminar su carrera. Se siente 1,00 inútil, come muy poco, ha dejado sus actividades sociales y presenta insomnio, despertando muy temprano, sin poder volver a dormir, ya que piensa constantemente en lo tonto y miserable que es. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno adaptativo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Depresión",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno disociativo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de estrés postraumático",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fobia social Dado que tiene un evento gatillante claro y síntomas anímicos, puede tratarse tanto de una depresión reactiva, como de un trastorno adaptativo. La intensidad de los síntomas hace pensar más en una depresión, ya que tiene insomnio, alteración del",
+        "correcta": false
+      }
+    ],
+    "justificacion": "apetito e incluso ha pensado en abandonar la carrera a un año de salir. Si fuera menos intenso, lo más correcto sería un trastorno adaptativo.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Una paciente consulta por dolor abdominal y disuria. Además, re\u0000ere molestias en Sin contestar la espalda y mareos, los que la tienen preocupada. Cuenta con muchos exámenes Puntúa como que descartan patología orgánica. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno por hipocondría",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno por somatización",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno por conversión",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno facticio",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno disociativo Es un trastorno por somatización clásico: síntomas de diversa índole sin causa",
+        "correcta": false
+      }
+    ],
+    "justificacion": "orgánica. La hipocondría tiene pocos o ningún síntoma, pero sí tiene miedo a una enfermedad grave o progresiva, más descon\u0000anza del médico. El trastorno conversivo (por conversión) se presenta como síntomas neurológicos súbitos, sin causa orgánica (ej. compromiso de conciencia, convulsiones o ceguera). El trastorno facticio \u0000nge o se autoprovoca intencionalmente síntomas, para ganar afectos y cuidados.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente de 46 años re\u0000ere estar casado con la Presidente de su país. Cuenta Sin contestar que desde que la conoció por televisión la encontró muy buena moza y que Puntúa como compartía sus convicciones políticas, por lo que empezó a participar activamente 1,00 en su campaña y la conoció un día que ella dio un discurso. Desde entonces, se ha dado cuenta que los discurso que da, vienen con mensajes subliminales hacia él, (por ejemplo, en una ocasión las primeras letras de las palabras de una frase que dijo (“ahora mis oportunidades serán para ellos”) signi\u0000caban AMO y luego SPE, que son sus iniciales. Finalmente, al momento de las elecciones, él votó por ella, pero ese acto fue mucho más que eso, ya que en realidad estaba aceptando ser su esposo. Al confrontarlo y decirle que la presidenta pareciera no estar interesada en él, a\u0000rma que es culpa de los partidos políticos, que no la dejan estar con él, porque bajaría su popularidad, pero que él es la razón por la cual no tiene otra pareja. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno delirante crónico",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de personalidad narcisista",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de personalidad histriónico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno bipolar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Esquizofrenia Tiene un delirio erotomaníaco, muy bien explicado, por lo que es un delirio sistematizado, característico del T. delirante crónico (delirio sistematizado, mayor a 3 meses, sin mucha afectación del resto de la vida). Además, al confrontarlo con la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "realidad, demuestra estar psicótico. No tiene síntomas anímicos (exaltación del ánimo, verborrea, hiperactividad, etc.), como para pensar en un trastorno bipolar. No tiene alucinaciones ni síntomas negativos, como para pensar en esquizofrenia. Finalmente, los trastornos de personalidad, por regla general no tienen psicosis, es decir, conservan el juicio de realidad.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un paciente consulta por anhedonia y ánimo triste, asociado a baja de peso, Sin contestar desconcentración y desesperanza, de un mes de evolución. Al preguntar Puntúa como dirigidamente, re\u0000ere que un año atrás pasó por un periodo de euforia, en el que 1,00 gastó todos sus ahorros, dormía poco y salía a \u0000estas todos los días, haciendo muchos amigos nuevos, pero que al \u0000nal no resultaron ser amigos verdaderos. El examen físico es normal. ¿Qué fármaco es el más adecuado para el tratamiento de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Quetiapina",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Antidepresivos tricíclicos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Antidepresivos duales o nóveles",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Antidepresivos inhibidores de la recaptura de serotonina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Antidepresivos inhibidores de la recaptura de serotonina. Tiene un episodio depresivo, pero su relato da cuenta de que sufrió una manía",
+        "correcta": false
+      }
+    ],
+    "justificacion": "anteriormente, por lo que el diagnóstico es un trastorno bipolar en fase depresiva. Tratamiento del trastorno bipolar (ha cambiado, ya que los antipsicóticos han demostrado ser muy buenos estabilizadores del ánimo, en especial, aripiprazol, risperidona, quetiapina y olanzapina): 1. Lo primero y más importante es que están contraindicados todos los antidepresivos. 2. El episodio agudo se trata con litio, anticonvulsivantes y/o antipsicóticos. - Manía aguda (2 fármacos): idealmente litio más antipsicótico. Aceptable valproato o carbamacepina más antipsicótico. Si está agitado y agresivo, de elección, haloperidol e incluso se puede mezclar con lorazepam. - Hipomanía (1 fármaco): actualmente se recomiendan más los antipsicóticos que el litio o anticonvulsivantes, aunque cualquiera es una opción aceptable. Si falla, se trata como una manía. - Episodios mixtos y cicladores rápidos (4 o más episodios en un año) actualmente se tratan igual que la manía (litio o valproato más antipsicótico). - Depresión bipolar (1 fármaco): actualmente se recomiendan los antipsicóticos, en especial, quetiapina. Recordar que los antidepresivos están contraindicados. Como alternativa, se pueden usar los anticonvulsivantes.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente de 70 años, con antecedente de olvidos frecuentes, presenta un cuadro Sin contestar de dos días de evolución de desorientación e insomnio. Sus familiares re\u0000eren que Puntúa como un vecino lo encontró vagando por las calles a las 3 de la mañana, sin saber dónde 1,00 estaba. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno disociativo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Demencia por cuerpos de Lewy",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Demencia por enfermedad de Alzheimer",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Delirium",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Esquizofrenia tardía Es un delirium o síndrome confusional agudo clásico: adulto mayor que se desorienta y compromete de conciencia. Probablemente cursa con una infección u",
+        "correcta": false
+      }
+    ],
+    "justificacion": "otro trastorno tóxico-metabólico.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente de 30 años inicia tratamiento con quetiapina, evolucionando con gran Sin contestar inquietud. Re\u0000ere que se siente muy incómodo al quedarse quieto, por lo que se Puntúa como mueve constantemente y cambia continuamente de posición. El diagnóstico más 1,00 probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Manía aguda",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Distonía aguda",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Atetosis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Corea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Acatisia Es una acatisia clásica: inquietud psicomotora por disestesias e incomodidad. Su",
+        "correcta": true
+      }
+    ],
+    "justificacion": "tratamiento son los betabloqueantes (propanolol) y las benzodiacepinas. - La distonía presenta contracción tónica de uno o varios músculos, con dolor (ej. tortícolis espasmódica). También se tratan con benzodiacepinas (ej. lorazepam endovenoso). - La atetosis son movimientos distales, reptantes. - El corea es similar a un baile con movimientos de manos y pies.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente de 32 años, cursando una depresión, ingiere 45 comprimidos de Sin contestar amitriptilina hace 2 horas, con intención de suicidarse. Al examen físico está Puntúa como taquicárdico, orientado, sin otras alteraciones, con un electrocardiograma que 1,00 muestra una taquicardia sinusal. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hospitalizar, indicar carbón activado por SNG, atropina endovenosa y realizar monitorización electrocardiográ\u0000ca",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Hospitalizar, realizar lavado gástrico, indicar carbón activado por SNG, bicarbonato endovenoso y realizar monitorización electrocardiográ\u0000ca",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Hospitalizar, indicar N-acetil-cisteína por vía e.v. y realizar monitorización electrocardiográ\u0000ca",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Mantener en observación por 24 horas, sin medidas adicionales, a menos que presente alguna complicación",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Conectar al ventilador mecánico y controlar con niveles plasmáticos de amitriptilina Lo más importante en la intoxicación con antidepresivos tricíclicos es el soporte circulatorio y el monitoreo electrocardiográ\u0000co (evoluciona a taquicardias ventriculares y, antes, presenta alteraciones del QRS: se ensancha, cambia morfología). Para acelerar la eliminación, sirve alcalinizar la orina, con bicarbonato endovenoso, que también sirve para reducir la toxicidad cardíaca, cuando hay alteraciones electrocardiográ\u0000cas. Junto con esto, se puede dar el manejo general de las intoxicaciones: carbón activado por ejemplo. El lavado gástrico, por lo que general solo se indica si lleva menos de 1 hora, pero en los tricíclicos se puede",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hacer incluso luego de 2 a 4 horas, ya que retardan el vaciamiento gástrico.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente presenta importante labilidad emocional. Con facilidad se enoja y Sin contestar puede reaccionar agresivamente, lo que le ha traído problemas con familiares y Puntúa como amigos. Es muy impulsivo y cambia fácilmente de humor. Tiene una relación con 1,00 una mujer, a quien dice amar, pero con la que ha terminado en varias oportunidades y luego regresan, con peleas frecuentes. Es hospitalizado ahora por un intento de suicidio. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Distimia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de personalidad",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno depresivo mayor",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno delirante crónico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno bipolar Tiene un trastorno de personalidad limítrofe clásico: impulsividad, agresividad, labilidad emocional, autoagresión. Su pareja también se bene\u0000ciaría de atención de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "salud mental.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente de 56 años re\u0000ere que hay un complot del gobierno ruso, en contra de Sin contestar él. Por eso le instalaron un virus en su computador, de modo de espiarlo y robarle Puntúa como sus datos personales y bancarios. Explica que los rusos creen que él es un espía o 1,00 algo similar, ya que en internet encontró información sobre el modelo económico ruso y comentó por las redes sociales que debía cambiar. Como prueba de esto, re\u0000ere que instaló un antivirus, que encontró 2 archivos infectados y que recibe spam en ruso. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Esquizofrenia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno delirante crónico",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno bipolar en fase maníaca",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de personalidad esquizoide",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno de personalidad paranoide Tiene un trastorno delirante crónico clásico, con presencia de un delirio",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sistematizado (bien explicado), de tipo paranoide. No tiene alucinaciones ni síntomas negativos, como para pensar en esquizofrenia. Además, sería muy raro que una esquizofrenia brotara recién a los 56 años. Los trastornos de personalidad no están psicóticos (este paciente sí lo está), sino que simplemente son una forma de ser patológica, que acarrea malas relaciones interpersonales.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente de 66 años presenta un cuadro de algunos meses de evolución de Sin contestar pérdida de memoria y problemas cognitivos, relacionados con el uso de dinero y Puntúa como con algunas actividades cotidianas, como vestirse y cocinar. Además, ha 1,00 presentado alucinaciones visuales y algunas caídas. Al examen físico presenta algún grado de rigidez de las extremidades superiores y disminución del braceo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Demencia por cuerpos de Lewy",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Delirium",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Alzheimer",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Demencia frontotemporal (de Pick)",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hidrocefalia normotensiva Tiene una demencia por cuerpos de Lewy (DCL) clásica, dado que tiene la demencia con parkinsonismo y alucinaciones. Las caídas son clásicas también de la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hidrocefalia normotensiva, pero en este caso se explican por el parkinsonismo. El delirium tiene alucinaciones, pero es un cuadro agudo. La demencia de Pick tiene desinhibición sexual y del comportamiento.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Una paciente sufre la muerte de su esposo, quedando en completo silencio por 24 Sin contestar horas, razón por la cual sus hijos deciden llevarla al hospital. No habla ni se mueve, Puntúa como permaneciendo sentada y sin establecer contacto visual con las demás personas. El 1,00 diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno conversivo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno disociativo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno adaptativo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de estrés agudo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno depresivo Tiene un estupor disociativo clásico: inmovilidad y mutismo, en relación a un evento",
+        "correcta": false
+      }
+    ],
+    "justificacion": "gatillante, en este caso.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un niño de 4 años casi no habla, no es afectuoso y rechaza los besos o abrazos de Sin contestar las personas. La madre re\u0000ere que aplaude todo el tiempo y los profesores dicen Puntúa como que con frecuencia grita y no le gusta que lo toquen. El diagnóstico más probable 1,00 es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dé\u0000cit atencional",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de conducta",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno del espectro autista",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Depresión infantil",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Parálisis cerebral Es un TEA clásico, con la clínica del antiguo autismo: retraso de lenguaje, aislamiento social, manierismos (movimientos repetitivos, como aplausos, aleteo) y poca interacción con los demás. También suelen tener rigidez cognitiva, que",
+        "correcta": false
+      }
+    ],
+    "justificacion": "di\u0000culta los cambios, así como un patrón de intereses restringidos. Es frecuente que tengan alteraciones sensoriales, como que les molesten ciertas texturas o que los toquen.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "A diferencia de la anorexia, la bulimia:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Presenta una excesiva preocupación por el peso",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Se asocia a trastornos de la personalidad",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Pierde el control sobre la comida",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Se asocia a trastornos menstruales",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "No responde a la psicoterapia La bulimia se caracteriza por perder frecuentemente el control sobre la comida, presentando atracones. La anorexia, en cambio, es capaz de controlarlo y por lo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "mismo logra bajar tanto de peso. La anorexia tiene mayor preocupación por el peso, pero ambas la tienen. Ambas se asocian a T. personalidad: bulimia a TP limítrofe y anorexia a TP obsesivo compulsivo. La anorexia es la que se asocia a amenorrea. Ambas responden a psicoterapia y, de hecho, la bulimia responde mejor.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Una paciente de 30 años re\u0000ere que los espíritus le hablan y le dicen que se suicide. Sin contestar Es muy apática y afectivamente plana y tiene la idea de que el Diablo vive dentro de Puntúa como ella. El fármaco más adecuado para el manejo crónico de esta paciente es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Sertralina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Litio",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Risperidona",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Lamotrigina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Diazepam Tiene una esquizofrenia paranoide clásica: alucinaciones auditivas, delirio paranoide/religioso y síntomas negativos (apatía y aplanamiento afectivo). Se trata",
+        "correcta": false
+      }
+    ],
+    "justificacion": "con antipsicóticos atípicos, como la risperidona o el aripiprazol. · Si responde parcialmente, se debe subir la dosis. Pero, si no adhiere bien al tratamiento, se debe cambiar a un antipsicótico de depósito (ej. modecate: \u0000ufenazina; aunque actualmente también hay antipsicóticos de segunda generación de larga duración, como risperidona o aripiprazol). · Si produce efectos adversos, se debe cambiar a otros antipsicótico. Si vuelve a tener efectos adversos o ideación suicida persistente, se indica la clozapina. El tratamiento se debe Se debe mantener por mínimo 2 a 3 años, antes de intentar retirarlos cuidadosamente (bajando dosis lentamente y monitorizando los síntomas con frecuencia). Los síntomas negativos son muy difíciles de tratar, pero, probablemente responden más a los antipsicóticos atípicos o de segunda generación. La esquizofrenia simple (solo síntomas negativos) o esquizofrenia de\u0000citaria (síntomas negativos muy marcados) suelen tener un pronóstico más pobre.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una paciente, diagnosticada de depresión, inicia tratamiento con citalopram a dosis Sin contestar estándar. Dos semanas después acude a la consulta y re\u0000ere que no ha presentado Puntúa como mejoría y que se sigue sintiendo igualmente deprimida. La conducta más adecuada 1,00 es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar una dosis más alta de citalopram",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Reemplazar el citalopram por un antidepresivo dual",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Reemplazar el citalopram por \u0000uoxetina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Agregar un nuevo antidepresivo al tratamiento",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "No realizar cambios Es normal que el tratamiento antidepresivo demore en empezar a hacer efecto hasta 4-6 semanas. Por eso, si lleva menos de 4-6 semanas, simplemente se la debe educar. Si llevara más de 4-6 semanas, sería recomendable reemplazar el IRS por un antidepresivo dual, como la duloxetina o venlafaxina. Si lleva entre 4 y 6",
+        "correcta": true
+      }
+    ],
+    "justificacion": "semanas, es aceptable tanto cambiar como mantener el tratamiento.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Una paciente presenta ánimo bajo y labilidad emocional y sentimiento de rechazo Sin contestar por parte de sus pares. Ha subido cerca de 20 kilogramos en 4 meses, pesando 83 Puntúa como Kg, porque anda “ansiosa” y come compulsivamente chocolates y pasteles. 1,00 Además, re\u0000ere que duerme cerca de 12 horas al día y que le cuesta mucho salir de la cama. ¿Qué tratamiento es el más adecuado?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Paroxetina más quetiapina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Venlafaxina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Fenelcina",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Risperidona",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Litio",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una depresión atípica, la que suele cursar con hipersomnia y alza de peso. Los IMAOs (fenelcina, seleginina, moclobemida) históricamente han sido el tratamiento de elección en este tipo de depresión, ya que, antes de que existieran los IRS, los IMAOs demostraron ser mejor que los tricíclicos en este tipo de depresión. Aún siguen siendo una opción aceptable. Sin embargo, actualmente, la mayor seguridad de los IRS ha hecho que la mayoría de recomendaciones internacionales los pre\u0000eran como fármacos de primera línea. Sin embargo, el Eunacom, probablemente aún considera a los IMAOs como los fármacos de elección.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Una paciente de 24 años consulta por cefalea crónica. Al preguntarle, re\u0000ere que Sin contestar durante los últimos 2 años se ha sentido desganada, sin iniciativa, con la sensación Puntúa como de que el tiempo está pasando, sin nada bueno para ella y con pesimismo respecto 1,00 a su futuro. Re\u0000ere que se sintió un poco mejor cuando fue de vacaciones al sur, pero eso solo duró 2 semanas y luego volvió a su situación basal. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de personalidad",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Distimia",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Depresión mayor",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de ansiedad generalizada",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno bipolar Tiene una distimia clásica (también llamada depresión menor): ánimo bajo o",
+        "correcta": false
+      }
+    ],
+    "justificacion": "disforia, por más de 2 años, sin cumplir criterios de depresión mayor.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Paciente de 32 años, sin antecedentes, consulta por episodios de palpitaciones, Sin contestar sudoración, temblor de extremidades y gran sensación de angustia; síntomas duran Puntúa como aproximadamente 10 minutos. Ha presentado estos episodios en 5 ocasiones 1,00 durante el último mes, sin presentar un desencadenante claro, por lo cual ha estado bastante ansiosa. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de ansiedad",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de angustia generalizada",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Agorafobia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno conversivo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno de personalidad Es un trastorno de ansiedad clásico: crisis de pánico recurrentes, sin gatillante",
+        "correcta": false
+      }
+    ],
+    "justificacion": "claro. El TAG tiene expectación ansiosa (miedo a que algo malo pase), sin crisis de pánico y con mucha evitación. La agorafobia se caracteriza por miedo a sufrir algo y no recibir ayuda.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Paciente de 32 años, consulta muy preocupado porque desde hace algunos meses Sin contestar tiene la idea de que su mano izquierda no es de él, por esto debe tocarse esa mano Puntúa como con la otra, llegando incluso después realizar esta acción en varias ocasiones 1,00 seguidas. El teme estar volviéndose loco ya que cuando se toca la mano se queda tranquilo, pero no encuentra normal que esto le pase tan seguido. Al preguntarle dirigidamente, re\u0000ere que sí sabe que es su mano, pero que no puede evitar tener esa idea. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno obsesivo compulsivo",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno delirante crónico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de la personalidad obsesivo compulsivo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno dismór\u0000co corporal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno disociativo Es un cuadro difícil. Sin embargo, tiene una obsesión (idea que le genera ansiedad): “la mano no es mía” y una compulsión (acción que disipa su ansiedad): se toca la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "mano. Por tanto, tiene un TOC. Si simplemente sintiera que su mano no es de él, sería un T. disociativo por despersonalización. Si sintiera que su mano es horrible, tendría un T. dismór\u0000co corporal.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Paciente de 18 años sin antecedentes, consulta por presentar gran nerviosismo Sin contestar cuando se presenta ante un grupo social ya que tartamudea, lo cual le causa gran Puntúa como angustia ya que cree que pensarán cosas malas de él. Esto mismo le ocurría en el 1,00 colegio cuando le tocaba disertar, llegando incluso a presentar una crisis de pánico en una ocasión. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de ansiedad generalizada",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de personalidad evitativo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de angustia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fobia social",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Fobia especí\u0000ca Tiene una fobia social o ansiedad social clásica: angustia al estar en situaciones en que se somete al juicio o escrutinio de los demás, como exponer o disertar. Falta información como para descartar un trastorno de personalidad evitativo, que se caracteriza por baja autoestima y evitación de situaciones en que estará con otros, por miedo al rechazo. Sin embargo, la pregunta está redactada en términos que",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hacen más probable la fobia social. Existen dos tipos de trastorno por ansiedad social: 1. Ansiedad social generalizada (o simplemente, ansiedad social) y 2. Ansiedad social especí\u0000ca ante performance (suele responder a la psicoterapia sola). El tratamiento suele ser con psicoterapia especí\u0000ca (ej. exposición a situaciones similares y manejo). En casos más graves, se requieren fármacos (IRS o venlafaxina, al igual que en todos los trastornos ansiosos). Las benzodiacepinas pueden ser de utilidad como tratamiento sintomático en momentos especí\u0000cos, al igual que el propanolol (disminuye palpitaciones y temblor).",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Paciente de 55 años, con antecedente de 2 IAM, manejados con angioplastia, Sin contestar consulta muy angustiado porque luego del segundo infarto que ocurrió hace 2 Puntúa como semanas, el cardiólogo le ha dicho que debe realizarse un Bypass coronario, tras lo 1,00 cual ha permanecido con insomnio, apetito disminuido y gran preocupación por el procedimiento. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de ansiedad generalizada",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Depresión",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno adaptativo",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno disociativo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno de pánico Es una pregunta difícil. Sin embargo, tiene un evento gatillante claro, por lo que puede ser un trastorno adaptativo, de tipo mixto, ya que tiene síntomas ansiosos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "(preocupación, insomnio) y anímicos (anorexia). También podría ser una depresión reactiva, por tener dos semanas y presentar insomnio y anorexia, pero le falta lo más importante: la tristeza o la anhedonia. Además, los síntomas no son tan intensos ni desproporcionados para los hechos que los gatillan.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Paciente de 16 años, consulta porque hace 10 días vio como un grupo de personas Sin contestar golpeaban a su padre por un ajuste de cuentas, episodio donde ella lo defendió y Puntúa como también resulto agredida. Tras lo cual ha estado con gran angustia, recuerdos y 1,00 pesadillas recurrentes del hecho, insomnio y ha presentado crisis de pánico en 4 ocasiones. Re\u0000ere que tiene miedo de salir a la calle y se altera frente a cualquier ruido. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de ansiedad generalizada",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno por estrés agudo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de pánico con agorafobia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno por estrés post traumático",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno adaptativo Tiene un trastorno de estrés agudo clásico: presencia de un evento gatillante, percibido como amenazante para la vida propia o de los demás, reexperimentación (recuerdos y pesadillas), ansiedad, evitación y estado de hiperalerta. Como tiene",
+        "correcta": false
+      }
+    ],
+    "justificacion": "menos de 4 semanas, es agudo. Si tuviese más, sería postraumático. El tratamiento del T. estrés agudo es con psicoterapia sola y, a lo más, un poco de benzodiacepinas para los síntomas ansiosos muy severos. El tratamiento del T. estrés postraumático, en cambio, puede hacerse con psicoterapia y/o IRS.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Una paciente de 53 años, consulta porque se siente angustiada. Tiene la sensación Sin contestar de que algo malo puede pasarle, como un asalto o un accidente, por lo que ya casi Puntúa como no sale de su casa, lo que limita sus actividades diarias. Además, tiene miedo a que 1,00 algo malo le pase a sus hijos y que haya una catástrofe natural. Cuando ve las noticias, se angustia mucho, ya que teme que le pases esas cosas a ella o a sus familiares. El tratamiento más adecuado de esta patología es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Benzodiacepinas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Antidepresivos",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Antipsicóticos atípicos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Antipsicóticos típicos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Anticonvulsivantes Tiene un trastorno de ansiedad generalizado clásico. El TAG, al igual que los demás trastornos ansiosos crónicos se tratan con psicoterapia y/o antidepresivos IRS. Al inicio, se le pueden dar benzodiacepinas, como tratamiento sintomático, pero lo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "más importante son los antidepresivos.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Una paciente de 18 años, con depresión diagnosticada hace 13 días, en tratamiento Sin contestar con \u0000uoxetina, presenta ánimo exaltado, verborrea, nuevas amistades, ideas de Puntúa como nuevos y exitosos negocios e involucración en problemas familiares llegando a 1,00 presentar agresiones físicas contra sus hermanos. Actualmente se encuentra muy irritable y agresiva y se niega a ser tratada por el personal médico ya que según ella está en el mejor momento de su vida. El fármaco de elección en este momento es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Litio",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Haloperidol",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Lorazepam",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fentanil",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Mor\u0000na Tiene una manía aguda, desencadenada por los antidepresivos (basalmente tiene un trastorno bipolar, ya que es genético, que se manifestó como una depresión, la que, al ser tratada con antidepresivos, viró a manía). Por estar agitada y agresiva, en este momento, lo más urgente es la contención farmacológica, la que se hace con haloperidol 5 mg intramuscular, a menos que acepte tomarlo oral, y luego una dosis de mantención. Luego, se iniciará el litio o el ácido valproico más algún antipsicótico (risperidona, olanzapina, aripiprazol o quetiapina tienen efectos antimaníaco y estabilizador del ánimo), para lograr la remisión completa del cuadro",
+        "correcta": false
+      }
+    ],
+    "justificacion": "y evitar nuevos episodios maniacos y depresivos. La lamotrigina previene nuevos episodios, pero no ha demostrado ser útil en el episodio maníaco agudo.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Paciente hospitalizado por neumonía presenta agitación y agresividad. Re\u0000ere que Sin contestar lo quieren matar y que hay monstruos en el lugar. ¿Cuál es el fármaco de elección Puntúa como para el tratamiento de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Diazepam",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Lorazepam",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Fluoxetina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Clozapina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Haloperidol Tiene un delirium o síndrome confusional agudo, secundaria a la infección. Lo más importante es tratar la causa (la neumonía), pero como fármacos sirven los antipsicóticos en dosis bajas. De elección se usa haloperidol 0,5 mg oral (si lo acepta) o intramuscular e incluso endovenoso (se pre\u0000ere evitar el haloperidol por vía endovenosa, pero, en esa dosis es seguro). También se puede usar risperidona 1 mg vía oral o quetiapina 25 mg vía oral (esta última de elección en pacientes con",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Parkinson).",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Paciente de 35 años, con antecedente de depresión severa con síntomas psicóticos, Sin contestar en tratamiento con \u0000uoxetina y quetiapina, presenta dolor cervical asociado a Puntúa como rigidez y \u0000exión lateral tónica, con imposibilidad de realizar movimientos con el 1,00 cuello. Diagnóstico más probable:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Parkinsonismo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Distonía aguda",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Atetosis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Corea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Balismo Tiene una distonía clásica (contracción tónica y dolorosa de un grupo muscular), en",
+        "correcta": false
+      }
+    ],
+    "justificacion": "especí\u0000co, una tortícolis espasmódica. El parkinsonismo tiene rigidez, temblor de reposo y bradicinesia. Las atetosis son movimientos reptantes y distales. El corea es similar a un baile (como “La Macarena”, pero ahora con Gente de Zona). El balismo es un movimiento súbito, de tipo proximal (ej. levantar súbitamente los brazos). Tratamiento distonía: - Si es por fármacos (ej. antipsicóticos) se debe retirar el fármaco y cambiar por uno que tenga menos efectos antidopaminérgicos. Además, se puede tratar con fármacos anticolinérgicos (benztropina o trihexifenidilo) o con benzodiacepinas (lorazepam o diazepam). - En las distonías primarias, se trata con levodopa. Si falla y son distonías focalizadas, se puede intentar con toxina botulínica; si son generalizadas, en cambio, se usan los anticolinérgicos.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Paciente de 24 años, de estudiante de medicina, es traído por presentar diaforesis, Sin contestar taquicardia y \u0000ebre de horas de evolución. Al examen físico se aprecia intranquilo, Puntúa como con pupilas midriáticas, temblor \u0000no de extremidades y taquipnea. ¿Cuál de las 1,00 siguientes alternativas es la causa más probable de su cuadro?:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Clonazepam",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Anfetaminas",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Guaraná",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Canabis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Moda\u0000nilo Tiene un síndrome adrenérgico: HTA, taquicardia, sudoración y midriasis. De las opciones, las anfetaminas es lo más probable (ej. D-anfetamina o el metilfenidato,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que es un derivado). En la práctica, los síndromes adrenérgicos, anticolinérgicos y serotoninérgicos pueden ser extremadamente similares y difíciles de distinguir.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Paciente de 30 años, re\u0000ere que es el hijo de Dios, por lo que ha establecido una Sin contestar forma de vida para satisfacer las necesidades de su padre para la salvación de la Puntúa como humanidad, formando un grupo que lo apoya en su idea con ofrendas y sacri\u0000cios 1,00 para evitar la extinción de la humanidad. Al intentar hablar con el paciente y exponerle su verdadera identidad como una persona normal, él reacciona con ira y no acepta este hecho. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Delirio",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Delirium",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de personalidad",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno obsesivo compulsivo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno bipolar",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene un delirio de tipo megalomaníaco. Su reacción deja claro que está psicótico. No se debe confundir con delirium, que es el síndrome confusional agudo. No se entrega su\u0000ciente información como para saber la causa del delirio (ej. esquizofrenia, asociado a drogas o incluso un trastorno delirante crónico, sobre alguna otra patología psiquiátrica de base).",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente de 28 años a\u0000rma que es el alcalde del pueblo. Un mes atrás estaba Sin contestar completamente normal, sin embargo, empezó a dormir poco, leer mucho de política Puntúa como y opinar constantemente en las redes sociales. Le habla de política a todas las 1,00 personas y ha realizado viajes a las sedes del partido que quedan en las ciudades aledañas. El cuadro fue empeorando, volviéndose agresivo y \u0000nalizando con la idea de que es el alcalde. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno delirante crónico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Esquizofrenia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno bipolar",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de personalidad narcisista",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno de personalidad esquizoide Tiene un delirio megalomaníaco, lo que hace pensar inicialmente en un T. delirante crónico. Sin embargo, la evolución demuestra que es una manía severa, que se volvió psicótica, ya que tiene la disminución de las necesidades de sueño, verborrea,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "agresividad, etc. Por tanto, su diagnóstico es un trastorno bipolar. El episodio agudo se trata con litio, anticonvulsivantes y/o antipsicóticos, idealmente litio más antipsicótico, siendo aceptable el valproato o carbamacepina más antipsicótico. Si está agitado y agresivo, de elección, haloperidol e incluso se puede mezclar con lorazepam. Si falla, se cambia el litio o el ácido valproico, por el otro fármaco. Si falla nuevamente, se cambia el antipsicótico (hasta dos veces). De última línea, se indica TEC (terapia electroconvulsiva).",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente de 65 años consulta por olvidos de acontecimientos recientes de un par Sin contestar de meses de evolución. Esto le preocupa en especial a su familia, ya que repite Puntúa como varias veces lo mismo y además ha tenido problemas con el uso del dinero en el 1,00 último tiempo. Al examen físico está orientado y atento y coopera con la entrevista. Dice estar de buen ánimo y su examen neurológico es normal. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar TAC de cerebro, TSH, VDRL y exámenes generales y controlar ambulatoriamente",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Hospitalizar, solicitar TAC de cerebro, hemograma, pruebas hepáticas y de función renal, PCR y controlar con resultados",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Enviar a domicilio, indicando donepezilo oral a permanencia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar glicemia, TSH y hemograma e iniciar \u0000uoxetina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Explicar que la situación de este paciente es normal Tiene una demencia: problemas de memoria, asociados a problemas cognitivos y de la vida diaria, que se han instalado de manera progresiva. Lo más correcto es estudiarla con múltiples exámenes, buscando una causa orgánica, dentro de las cuales las más importantes son la TSH (hipoT4), TAC de cerebro (descartar AVE,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "tumores y la hidrocefalia normotensiva), VDRL (sí\u0000lis), VIH y exámenes generales. No es necesario hacer el estudio hospitalizado, pero sí es importante que se haga relativamente rápido, ya que si se identi\u0000ca alguna causa reversible, debe manejarse pronto. En cambio, el delirium se hospitaliza y se estudia con exámenes infecciosos y generales, de modo de identi\u0000car una causa aguda y tratarla de inmediato.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Una paciente presenta una hemiparesia braquiocrural izquierda, luego de descubrir Sin contestar la in\u0000delidad de su marido. Examen físico con ROT y tono muscular simétrico, Puntúa como fuerza levemente disminuida. El diagnóstico es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "T. facticio",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "T. conversivo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "T. disociativo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "T. de somatización",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "T. hipocondriaco Es un T. conversivo clásico: síntomas neurológicos súbitos, sin una causa orgánica identi\u0000cable. Se trata con psicoeducación y psicoterapia, sin necesidad de fármacos, salvo comorbilidad que los requiera. Eso sí, con frecuencia los pacientes",
+        "correcta": false
+      }
+    ],
+    "justificacion": "no aceptan el diagnóstico y no responden bien al tratamiento.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Niña de 11 años, con mal rendimiento en colegio desde hace 2 meses, irritable y Sin contestar agresivo en el colegio, por lo que han llamado a su madre, la cual re\u0000ere que se ha Puntúa como comportado de la misma forma en su casa, desde hace un tiempo. Además, come 1,00 poco y casi no sale de su pieza. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Normal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de conducta",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno oposicionista desa\u0000ante",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de la conducta alimentaria",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Depresión Es una forma clásica de presentación de la depresión en niños: cambio conductual y disminución del rendimiento escolar. Por ser un cuadro que inició hace dos meses, es improbable que se trate de un T. conducta disocial (TCD) o un T. oposicionista (TOD) desa\u0000ante, ya que son trastornos crónicos. El TCD es un niño que ha sido difícil, pero que luego se va volviendo \"malo\" (miente, roba, maltrata, etc.). El TOD es",
+        "correcta": true
+      }
+    ],
+    "justificacion": "un niño bueno, pero irritable, insolente, desobediente y agresivo con la autoridad.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Paciente de 25 años es enviado desde trabajo a consultar ya que es muy ine\u0000ciente, Sin contestar perdiendo tiempo en realizar labores sencillas como archivar o enumerar carpetas, Puntúa como además presenta muy poca interacción con el resto. Al entrevistar al paciente 1,00 parece apático, al preguntar por el motivo de consulta parece no interesarse en el tema y re\u0000ere que no ha tenido problemas en su trabajo y que consulta porque su familia lo presiona. Dentro de las sospechas diagnósticas debe incluirse:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno esquizoide de la personalidad y esquizofrenia",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno bipolar",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Distimia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno disociativo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno evitativo de la personalidad Parece una esquizofrenia simple, dada la predominancia de síntomas negativos,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "como la apatía, aplanamiento afectivo, ine\u0000ciencia y aislamiento. El trastorno esquizoide también es apático y no tiene interés por los demás, pero no necesariamente es ine\u0000ciente.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Paciente de 25 años cree que su cabeza es horrible, porque su frente es demasiado Sin contestar grande. Por eso usa peluca que le tapa la frente o se peina siempre hacia adelante. Puntúa como Al explicarle que su frente es normal, lo reconoce, pero aun así se siente muy mal 1,00 con su aspecto. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno por somatización",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno por hipocondría",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno obsesivo compulsivo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno delirante crónico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno dismór\u0000co corporal Es un T. dismór\u0000co corporal clásico: considera horrible una parte de su cuerpo y la",
+        "correcta": true
+      }
+    ],
+    "justificacion": "oculta o quiere modi\u0000carla. El tratamiento del trastorno dismór\u0000co corporal es difícil, pero incluye piscoeducación en el diagnóstico y en la inutilidad de las cirugías plásticas y procedimientos estéticos (suelen quedar disconformes). También sirven los IRS y/o la psicoterapia.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Los efectos adversos más frecuentes de los antidepresivos inhibidores de la Sin contestar recaptura de serotonina son:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síntomas extrapiramidaes",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Astenia y síndrome “ \u0000u like”",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Náuseas y disfunción sexual",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Insomnio e irritabilidad",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Somnolencia y alza de peso Los IRS tienen pocos efectos adversos, pero los más frecuentes son boca seca, náuseas y alteraciones sexuales, como impotencia y disminución de la libido. En estos casos, se suelen reemplazar por la mirtazapina, un antidepresivo dual que no",
+        "correcta": false
+      }
+    ],
+    "justificacion": "deteriora el área sexual. - Al suspenderlos bruscamente sí pueden producir un cuadro similar a una infección respiratoria (“\u0000u like”). Los antipsicóticos producen extrapiramidalismo. Los tricíclicos, por su acción antiH1, producen somnolencia y alza de peso y, en las intoxicaciones agudas, pueden producir un rápido colapso circulatorio y síndrome anticolinérgico.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Paciente de 75 años, con antecedente de hipertensión y dislipidemia en tratamiento, Sin contestar viudo desde hace 2 años. Es traído por su hija quien re\u0000ere que ha estado muy Puntúa como decaído. Al entrevistarlo re\u0000ere gran sentimiento de inutilidad, además presenta 1,00 fatigabilidad, problemas con memoria a corto plazo, insomnio y apetito disminuido. Usted diagnostica depresión. ¿Cuál es el fármaco de elección para el tratamiento en este paciente?:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Carbamazepina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Seleginina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Amitriptilina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Sertralina",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Venlafaxina Tiene una depresión. Por ser adulto mayor, de elección se deben usar los IRS, ya que tienen muy pocos efectos adversos. Además, por su menor riesgo de interacciones medicamentosas, se suele preferir la sertralina o el citalopram o escitalopram en el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "adulto mayor (escasa evidencia, en comparación con otros IRS). De segunda línea, se pueden usar la venlafaxina, duloxetina y mirtazapina (amntidepresivos duales). La paroxetina, los tricíclicos y los IMAOs se evitan en lo adultos mayores, por mayor riesgo de efectos adversos.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Paciente de 24 años, sin antecedentes, es diagnosticada de depresión, por lo que Sin contestar inicia \u0000uoxetina 20 mg al día. Usted la controla 30 días después y ella le comenta Puntúa como que se siente mucho mejor, con buen ánimo, sueño regulado, apetito normal y sin 1,00 cansancio, por lo que no sabe si debe suspender el tratamiento. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mantener el tratamiento",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Aumentar la dosis de \u0000uoxetina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Disminuir la dosis de \u0000uoxetina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Suspender la \u0000uoxetina y enviar a domicilio",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Suspender la \u0000uoxetina y derivar a especialista de manera urgente Dado que ha respondido bien (y rápido), se le debe educar sobre que hay que mantener los medicamentos, por al menos 6 meses, desde la remisión completa de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "los síntomas depresivos. De lo contrario, existe alto riesgo de recurrencia. Si estuviese con demasiado ánimo y se sospechara una manía, lo correcto habría sido suspender y derivar.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 29 años tiene muchos problemas con sus familiares, ya que es Sin contestar agresivo, en ocasiones les ha robado y agredió a su madre un día que se molestó Puntúa como con ella. Ha sido arrestado en 4 oportunidades por hurto en grandes tiendas y suele 1,00 destruir el inmobiliario público cuando hay manifestaciones. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de personalidad",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno oposicionista desa\u0000ante",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno bipolar",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno delirante crónico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno facticio Tiene un trastorno de personalidad antisocial clásico: agresividad y transgresión de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "las normas legales y morales. Habitualmente no tienen remordimientos.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Una mujer de 20 años tiene una fuerte discusión con su novio, quien la insulta y Sin contestar termina con ella. En el episodio, pierde súbitamente la conciencia, manteniéndose Puntúa como así por cerca de 20 minutos. El examen físico es normal y los exámenes de 1,00 laboratorio, así como las imágenes, descartan patología orgánica. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno de personalidad",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno disociativo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de somatización",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno conversivo",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno por simulación Es un trastorno conversivo clásico (antiguamente se le llamaba histeria), que se caracteriza por síntomas neurológicos súbitos, sin causa orgánica. Suele estar desencadenado por estrés y tiene buen pronóstico, en la medida que el paciente",
+        "correcta": false
+      }
+    ],
+    "justificacion": "acepte el diagnóstico. Se trata con psicoeducación. El trastorno por simulación se caracteriza por \u0000ngir los síntomas, con un \u0000n ganancial económico (indemnización, pensión de invalidez, licencias médicas).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente de 35 años consulta muy angustiado, porque desde hace 3 meses Sin contestar presenta la idea de que él agredirá a las personas que se le cruzan en la calle, por Puntúa como eso sale poco de su casa y además cruza la calle cada vez que alguien se le acerca. 1,00 Al preguntarle si está seguro de que realmente golpeará a la persona, él responde: “No estoy 100% seguro, pero no me voy a arriesgar”. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Esquizofrenia paranoide",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno delirante crónico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno obsesivo compulsivo",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de personalidad limítrofe",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno bipolar Tiene un TOC clásico, con obsesión de conducta impropia (conductas agresivas o sexuales son las más frecuentes) y compulsiones de evitación (cruzar la calle, no salir). La frase “no estoy seguro” apunta a que no está psicótico, sino que es un",
+        "correcta": false
+      }
+    ],
+    "justificacion": "trastorno neurótico. El tratamiento del TOC incluye psicoterapia (generalmente cognitivo conductual de exposición y prevención de respuesta) y/o antidepresivos IRS (al igual que todos los trastornos ansiosos). El sí, los IRS suelen requerir una dosis relativamente alta (ej. \u0000uoxentina 40 a 80 mg/día). Como alternativas, sirve la clomipramina (tricíclico) y la venlafaxina (dual), ambos también con efectos sobre la serotonina (inhiben recaptura de serotonina y norepinefrina). En los casos refractarios, se puede agregar una dosis baja de antipsicóticos atípicos (ej. risperidona o quetiapina), ya que tienen un efecto anti impulsivo.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Una paciente es despedida de su trabajo, en el que llevaba cerca de 10 años. Sin contestar Durante el mes siguiente presenta ánimo depresivo y llanto frecuente, ya que piensa Puntúa como que no conseguirá otro trabajo y que no podrá pagar sus deudas. Por esto tiene 1,00 di\u0000cultades para dormir, ya que despierta muy temprano con la idea de que es una fracasada y está llena de problemas y también tiene di\u0000cultades para quedarse dormida. Re\u0000ere que llora casi todos los días, por lo menos 5 veces y que no tiene ganas de hacer nada. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Depresión",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Distimia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno adaptativo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fobia social",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno de estrés postraumático Tiene un evento gatillante claro y síntomas anímicos, por lo que puede ser una depresión reactiva o un trastorno adaptativo de tipo depresivo. Dada la gran intensidad del cuadro (llorar todo el día, tener insomnio y algún grado de delirio de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ruina: está fracasada y arruinada), lo más probable es que sea una depresión. La importancia de saber diferenciar ambos cuadros se radica en que el tratamiento es distinto: el T. adaptativo solo requiere psicoterapia, generalmente breve, mientras que la depresión, suele requerir un tratamiento prolongado, que incluya fármacos antidepresivos.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "La bulimia nervosa se diferencia de la anorexia nervosa principalmente en que la Sin contestar primera:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Pierde el control sobre la comida y presenta atracones",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Presenta baja de peso",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Presenta conducta de purga como uso de laxantes y autoinducción de vómitos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Está asociada a trastornos de la personalidad",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Presenta amenorrea La bulimia se caracteriza por los atracones (pérdida del control sobre la comida),",
+        "correcta": false
+      }
+    ],
+    "justificacion": "mientras que estos son muy raros en la anorexia. La anorexia baja mucho más de peso que la bulimia (la que incluso puede subir de peso, por los atracones). La purga es propia de la bulimia, pero también es frecuente en la anorexia (come poco y luego vomita lo que comió o hace deporte, ya que no quiere engordar: se llama anorexia restrictivo-purgativa). Ambas se asocian a T. personalidad: TP TOC en la anorexia y TP límite en la bulimia. Solo la anorexia tiene amenorrea.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente de 80 años presenta problemas de memoria, caracterizados por olvidos Sin contestar de acontecimientos recientes y por repetición. Además, ha empezado con algunos Puntúa como problemas a la hora de manejar dinero. Su examen físico es normal. ¿Cuál de los 1,00 siguientes medicamentos es más útil para el manejo de la enfermedad descrita?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Haloperidol",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Donepecilo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Levodopa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Quetiapina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sertralina Tiene una demencia y por solo tener afectación de la memoria reciente y algo de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "agnosia, probablemente tiene una enfermedad de Alzheimer. El tratamiento de la enfermedad de Alzheimer incluye educación de la red de apoyo, la prevención del estrés del cuidador y en las etapas iniciales sirven los inhibidores de la acetilcolinesterasa como el donepecilo, galantamina y rivastigmina. En cuadros moderados a severos, además, se recomienda agregar memantina. El Aducanumab (anticuerpos antiamiloide cerebral) aún no cuenta con evidencia que recomiende su uso.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Una mujer siente que sus piernas son horribles, en especial sus rodillas, las que Sin contestar considera deformes, razón por lo que no usa traje de baño ni ropa corta, sino solo Puntúa como faldas largas o pantalones sueltos. Al ser enfrentada, reconoce que sus piernas 1,00 pueden ser normales, pero que no puede evitar sentir que son horribles. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno obsesivo compulsivo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno delirante crónico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno dismór\u0000co corporal",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno por hipocondría",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno fóbico social Tiene un trastorno dismór\u0000co corporal clásico: considera horrible una parte de su cuerpo y la oculta o busca cirugía plástica. Su reacción al confrontarla, de admitir que puede estar equivocada, da cuenta de que no está psicótica, sino que es un",
+        "correcta": false
+      }
+    ],
+    "justificacion": "trastorno neurótico. El tratamiento del trastorno dismór\u0000co corporal es difícil, pero incluye piscoeducación en el diagnóstico y en la inutilidad de las cirugías plásticas y procedimientos estéticos (suelen quedar disconformes). También sirven los IRS y/o la psicoterapia.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "¿Cuál es el tratamiento de elección de la depresión en el adulto mayor?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Antidepresivos inhibidores de la monoaminoxidasa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Antidepresivos tricíclicos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Antidepresivos duales",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Antidepresivos inhibidores de la recaptura se serotonina",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Antidepresivos + antipsicóticos atípicos De elección se usan los IRS, por tener menos efectos adversos que los demás antidepresivos (todos tienen la misma e\u0000cacia contra la depresión). Además, por tener menos interacciones medicamentosas, se usa más la sertralina, el citalopram",
+        "correcta": false
+      }
+    ],
+    "justificacion": "o el escitalopram en el adulto mayor.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "La característica más importante de la esquizofrenia es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Presencia de delirio sistematizado",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Imposibilidad o di\u0000cultad para diferenciar la realidad interna de la realidad externa",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Presencia de agitación psicomotora",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Presencia de síntomas motores como rigidez cérea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Presencia de alucinaciones La imposibilidad de diferenciar la realidad interna (sus propios pensamientos), de la realidad externa (la realidad), es la característica más importante de la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "esquizofrenia. El delirio sistematizado es propio del T. delirante crónico. La agitación psicomotora puedo o no estar, pero también se ve en todas ls patologías psiquiátricas descompensadas. Los síntomas motores son especí\u0000cos de la esquizofrenia catatónica. Las alucinaciones son muy comunes en la esquizofrenia, pero no están siempre y se pueden dar en otros cuadros psicóticos.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Una paciente de 29 años presentó un episodio caracterizado por miedo, llanto, Sin contestar angustia, di\u0000cultad para respirar y parestesias en las manos, mientras iba Puntúa como manejando, por lo que tuvo que detenerse a un lado de la carretera. El cuadro 1,00 comenzó con angustia leve, pero empeoró en los 5 minutos siguientes, durando cerca de 20 minutos en total. En cuatro oportunidades posteriores sufrió lo mismo, especialmente al recordar el episodio. Consulta muy asustado por esto. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Agorafobia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno de ansiedad",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de ansiedad generalizada",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno fóbico situacional",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno conversivo Tiene un T. de ansiedad clásico, ya que tuvo una crisis de pánico (el cuadro descrito: angustia y síntomas de todo tipo que aparecen en menos de 10 minutos) y luego",
+        "correcta": false
+      }
+    ],
+    "justificacion": "tuvo más crisis de pánico sin un desencadenante claro. El tratamiento consiste en psicoterapia y/o IRS. Para las crisis, se puede indicar benzodiacepinas.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente consulta en un centro de atención primaria por un cuadro caracterizado Sin contestar por ánimo bajo, anhedonia, insomnio, baja de peso e ideas de muerte, de un mes de Puntúa como evolución. Al ser interrogado, relata que un año antes presentó un cuadro de ánimo 1,00 irritable, con disminución de las necesidades de sueño, en el que hizo muchos negocios, todos los cuales fracasaron, perdiendo mucho dinero. ¿Cuál es la conducta más adecuada con este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar antidepresivos tricíclicos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar antidepresivos inhibidores de la recaptura de serotonina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar antidepresivos más antipsicóticos atípicos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar antidepresivos inhibidores de la monoaminoxidasa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Derivar a especialista Tiene una depresión, en contexto de un trastorno bipolar, por lo que están contraindicados todos los antidepresivos. Se tiene que tratar con estabilizadores del ánimo, como el litio, los anticonvulsivantes o los antipsicóticos atípicos. De las opciones, la única aceptable es derivar, pero también habría sido correcto tratar con estabilizadores del ánimo, en especial con quetiapina, ya que el litio se usa más en",
+        "correcta": true
+      }
+    ],
+    "justificacion": "la manía aguda que en la depresión bipolar.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente de 59 años está convencido que su hijo lo odia y que por eso siempre Sin contestar hace comentarios para humillarlo frente a sus familiares e incluso con otras Puntúa como personas. Explica que su hijo lo desprecia y que se cree superior por haber obtenido 1,00 un título profesional, mientras que el paciente sólo terminó la educación media. Su mujer y sus hijos, incluyendo al hijo en cuestión, niegan la situación y se muestran muy preocupados por el paciente. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Depresión psicótica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Esquizofrenia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de personalidad paranoide",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno delirante crónico",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Trastorno bipolar Tiene un delirio de daño (“alguien me odia y quiere dañarme”). Probablemente tiene",
+        "correcta": false
+      }
+    ],
+    "justificacion": "un trastorno delirante crónico, por la edad y por la forma en que explica sus ideas. No tiene alucinaciones ni síntomas negativos, como para pensar en esquizofrenia (además de la edad). Se trata con antipsicóticos orales de segunda generación (risperidona, aripiprazol) y psicoterapia. Sin embargo, suele ser difícil convencer al paciente de seguir el tratamiento.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente presenta un cuadro de 7 días de evolución caracterizado por ánimo Sin contestar irritable, “actitud rara” e insomnio. Al entrevistarlo habla mucho, cambia fácilmente Puntúa como de tema y deja inconclusas algunas ideas. Además, coquetea con la enfermera y 1,00 re\u0000ere que es millonario y que pronto será billonario. El diagnóstico es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno delirante crónico con delirio megalomaniaco",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno bipolar en episodio maníaco",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de personalidad narcisista",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno de personalidad histriónico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Esquizofrenia Tiene un trastorno bipolar, con episodio maníaco clásico: irritabilidad, verborrea,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "fuga de ideas, disminución del sueño, ideas de grandiosidad y éxito y desinhibición. En agudo, el tratamiento es con litio o ácido valproico más antipsicóticos (risperidona, olanzapina, aripiprazol o quetiapina). Luego, queda con tratamiento de mantención (generalmente el mismo que logró la remisión).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente presenta taquicardia, \u0000ebre, hipertensión arterial y midriasis. ¿Qué Sin contestar sustancia puede ser responsable de este cuadro?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Tetrahidro-canabinol",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cocaína",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Ácido lisérgico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Heroína",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Diazepam Tiene un síndrome adrenérgico: taquicardia, HTA, midriasis e hipertermia. La",
+        "correcta": false
+      }
+    ],
+    "justificacion": "cocaína y las anfetaminas son las causas más clásicas. La intoxicación por THC (marihuana) tiene sedación. El ácido lisérgico o LSD tiene alucinaciones. La heroína produce compromiso de conciencia, miosis puntiforme y depresión respiratoria (síndrome opiáceo). El diazepam produce compromiso de conciencia y depresión respiratoria (síndrome narcótico): puede tener ligera miosis o pupilas normales.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un paciente de 60 años presenta desde hace un año, problemas de memoria, Sin contestar asociados a deterioro cognitivo. Además, presenta alucinaciones visuales Puntúa como complejas y ha presentado varias caídas. El curso de la enfermedad ha sido 1,00 \u0000uctuante, pero con una tendencia a empeorar. Al examen físico presenta temblor de reposo de la mano izquierda. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Enfermedad de Alzheimer",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Demencia por cuerpos de Lewy",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Delirium",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hidrocefalia normotensiva",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Demencia frontotemporal Es una demencia por cuerpos de Lewy clásica: demencia, con alucinaciones y parkinsonismo. Además, se caracteriza por un curso \u0000uctuante, pero a largo plazo, a diferencia del delirium, que \u0000uctúa durante el día. Su tratamiento también suele ser con inhibidores de la acetilcolinesterasa (ej. donepecilo) o con memantina. Para el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "parkinsonismo, sirve la levodopa. - La enfermedad de Alzheimer no tiene alucinaciones ni parkinsonismo. - El delirium es un cuadro agudo. - La hidrocefalia normotensiva tiene demencia, caídas e incontinencia urinaria, más torpeza motora y una demencia de instalación subaguda. - La demencia frontotemporal se caracteriza por desinhibición del lenguaje y del comportamiento (ej. actitudes sexuales desadaptadas).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un niño es muy insolente y desobediente. Habitualmente es muy reticente a hacer lo Sin contestar que sus padres le piden y cuando se le obliga, grita, los insulta y hace rabietas, Puntúa como rompiendo las cosas que están a su alcance. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastorno por dé\u0000cit atencional del niño",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno oposicionista desa\u0000ante",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno de conducta",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Niño normal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Depresión Tiene un trastorno oposicionista desa\u0000ante (TOD) clásico: niño insolente, desobediente, que hace rabietas, es agresivo e insoportable, especialmente con la autoridad. El dé\u0000cit atencional puede tener mal comportamiento, pero asociado a la hiperactividad y no a la desobediencia (son niños buenos, pero traviesos). El trastorno de conducta es un niño que no solo que se porta mal, sino que es malo: roba, miente, maltrata, etc. Las rabietas son normales (en particular entre los 2 y 3 años: “los terribles 2”), pero la agresividad y la intensidad de este caso, son más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sugerentes de un TOD. En general, TOD, T. conducta, TEA, TDA, etc. se tratan con un enfoque multidisciplinario, que incluya intervención de la red de apoyo, con educación y psicoterapia sistémica, terapia ocupacional y mucho cariño. En casos más graves, se pueden indicar antipisóticos en dosis muy bajas para controlar la agresividad y los estimulantes como el metilfenidato para el control del dé\u0000cit atencional y la inquietud psicomotora, pero idealmente se deben optimizar las medidas no farmacológicas.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "El tratamiento de elección del trastorno obsesivo compulsivo es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Antipsicóticos típicos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Estabilizadores del ánimo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Antidepresivos",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Benzodiacepinas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Antipsicóticos atípicos El tratamiento del TOC incluye psicoterapia (generalmente cognitivo conductual de exposición y prevención de respuesta) y/o antidepresivos IRS (al igual que todos los",
+        "correcta": false
+      }
+    ],
+    "justificacion": "trastornos ansiosos). El sí, los IRS suelen requerir una dosis relativamente alta (ej. \u0000uoxentina 40 a 80 mg/día). Como alternativas, sirve la clomipramina (tricíclico) y la venlafaxina (dual), ambos también con efectos sobre la serotonina (inhiben recaptura de serotonina y norepinefrina). En los casos refractarios, se puede agregar una dosis baja de antipsicóticos atípicos (ej. risperidona o quetiapina), ya que tienen un efecto anti impulsivo.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una paciente sufre la muerte de su marido, evolucionando muy tranquila y Sin contestar asegurando que es imposible que su marido esté muerto, ya que solo se trata de un Puntúa como sueño y no es realidad. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Psicosis reactiva",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Trastorno adaptativo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trastorno disociativo",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Trastorno conversivo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Reacción normal",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene un trastorno por desrealización, que es un tipo de trastorno disociativo.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "El tratamiento de elección del trastorno de angustia es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Antipsicóticos típicos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Estabilizadores del ánimo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Antidepresivos",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Benzodiacepinas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Antipsicóticos atípicos El T. de angustia, al igual que todos los trastornos ansiosos crónicos, se tratan preferentemente con psicoterapia y/o antidepresivos IRS. Por regla general, se usa la misma dosis que en la depresión, solo que se inicia con dosis más bajas y se va subiendo de a poco (porque al inicio los IRS pueden tener un efecto ansiogénico). Al inicio sí se pueden dar las benzodiacepinas, como tratamiento sintomático, pero se deben tratar de suspender en el corto plazo. Lo más importante son los IRS, al",
+        "correcta": false
+      }
+    ],
+    "justificacion": "menos en nuestro medio.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un paciente de 60 años, alcohólico, presenta un cuadro de marcada agitación Sin contestar psicomotora y alucinaciones de serpientes que lo atacan. Además, se aprecia Puntúa como temblor de las extremidades superiores. El fármaco que se debe administrar es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Haloperidol",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Diazepam",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Quetiapina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Flumazenil",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Disul\u0000ram Tiene un delirium tremens clásico (una forma del síndrome de privación alcohólica grave). Se caracteriza por temblor, agitación y alucinaciones de pequeños animales (microzoopsias). Se trata con benzodiacepinas: diazepam de elección y lorazepam,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "si es que hay daño hepático crónico.",
+    "archivo_origen": "5.txt"
+  }
+]

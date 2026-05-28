@@ -1,0 +1,3302 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Un niño de 8 años presenta cojera desde hace 2 semanas, que ha ido en aumento. Sin contestar No presenta dolor espontáneo. Al examen físico se aprecia en buenas condiciones Puntúa como generales y presenta dolor a la abducción y a la rotación externa de la cadera 1,00 izquierda. El resto del examen físico es normal. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar AINES y observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar radiografía de pelvis AP",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar ecografía de cadera",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar resonancia magnética nuclear de cadera",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar antibióticos endovenosos y resolver quirúrgicamente La sospecha diagnóstica es una enfermedad de Perthes, la que se estudia con radiografía AP de pelvis. Por otro lado, es un niño que claudica, que se estudia inicialmente con radiografías (y dado que tiene dolor de caderas, se solicita",
+        "correcta": false
+      }
+    ],
+    "justificacion": "radiografía AP de pelvis, que permite ver ambas caderas simultáneamente). - La enfermedad de Perthes afecta a niños entre 5 y 10 años (rango total: 2 a 13 años), con dolor en la cadera. Se asocia a talla baja y a antecedentes familiares. Suele tener una evolución más arrastrada e insidiosa. Algo importante es que estudios más recientes muestran que hay mucha superposición entre las edades de la sinovitis transitorias y la enfermedad de Legg Calvé Perthes (llamada actualmente osteonecrosis idiopática de la cabeza femoral), ya que ambas se presentan con cierta frecuencia entre los 3 y los 8 años (Perthes puede ser en mayores), por tanto, la principal diferencia entre ambas es el tiempo de evolución, ya que la sinovitis suele duran cerca de una semana (solo en pocos casos se alarga y se estudia), mientras que la enfermedad de Perthes suele ser más subaguda. Se diagnostica con la radiografía de caderas, aunque al inicio puede estar normal y ser necesaria una RMN. Se maneja ortopédicamente y, en casos graves, con cirugía.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Una mujer de 18 años presenta una caída de altura, mientras corría, cayendo Sin contestar apoyada sobre sus dos manos, en extensión. Inmediatamente presenta dolor, en Puntúa como relación al antebrazo izquierdo, que luego aumenta. El dolor se vuelve mucho más 1,00 intenso al realizar movimientos de pronosupinación. El diagnóstico de sospecha es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Atrapamiento cubital",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fractura de antebrazo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Luxación de codo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fractura de olécranon",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fractura de cúpula radial Es una fractura de la cúpula radial clásica: caída a nivel, con apoyo de la extremidad",
+        "correcta": true
+      }
+    ],
+    "justificacion": "superior en extensión, que presenta dolor en especial a la pronosupinación. Además, es frecuente que afecte a mujeres jóvenes o a hombres jóvenes delgados. El atrapamiento cubital, es un cuadro crónico, con parestesias y debilidad a la \u0000exión de los 4° y 5° dedos. La fractura de antebrazo suele darse por golpe directo y presenta dolor a todos los movimientos del antebrazo. La fractura de olécranon suele ser por caída con golpe en el codo y presenta dolor en la punta del codo (que corresponde al olécranon).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente de 32 años presenta torsión de rodilla derecha mientras jugaba fútbol. Sin contestar Evoluciona con intenso dolor y di\u0000cultades para caminar. Al examen físico presenta Puntúa como dolor en la cara medial de la rodilla derecha e inestabilidad, con signo del bostezo. 1,00 El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lesión meniscal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Esguince de rodilla",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Rotura del ligamento cruzado",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fractura de rodilla",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cuerpo libre intraarticular Es una rotura clásica del ligamento colateral medial y por la inestabilidad u signo del",
+        "correcta": false
+      }
+    ],
+    "justificacion": "bostezo, es una rotura completa. En otras palabras, es un esguince grado 3. Tanto las lesiones de ligamento colateral medial como de ligamento colateral lateral se diagnostican con la clínica, siendo útil la ecografía en caso de duda, pero, además, es habitual que se deba solicitar una resonancia magnética nuclear para descartar otras lesiones asociadas (ej. meniscales). Su tratamiento suele ser ortopédico y solo los casos que no responden se manejan con cirugía. - Las lesiones de menisco tienen alterada la maniobra de Appley. - La rotura de ligamento cruzado tiene signo del cajón e inestabilidad. - La fractura de rodilla tiene dolor óseo y además puede tener una hemartrosis con gotas de grasa (a diferencia de la hemartrosis por rotura de ligamentos). - El cuerpo libre articular tiene dolor intermitente y bloqueo articular.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente sufre un accidente en bicicleta, resultando con una fractura de pierna Sin contestar (diá\u0000sis de la tibia y el peroné) izquierda. Se con\u0000rma con la radiografía y se decide Puntúa como resolver con cirugía, sin embargo, a la espera de pabellón, evoluciona con intenso 1,00 dolor de la pierna. Al examen físico se aprecia edema de la pierna, equimosis y gran dolor al movimiento de los ortejos. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome compartimental",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Distro\u0000a simpático re\u0000eja",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lesión de la arteria poplítea",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trombosis venosa profunda",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Embolia grasa Es un síndrome compartimental clásico: dolor intenso y desproporcionado a las pocas horas de la fractura, que aumenta con la movilización distal. Además, suele tener edema y puede tener disminución de los pulsos. El diagnostico es clínico (aunque se puede objetivar con medición de la presión intracompartimental, mediante punción. El manejo es urgente y requiere de remoción de férulas, yesos,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "etc. más la inmediata descompresión quirúrgica mediante fasciotomía. - La distro\u0000a simpático-re\u0000eja tiene dolor urente, con alodinia, asociado a cambios tró\u0000cos de piel, osteoporosis moteada y puede tener edema y eritema. Sí puede y suele tener dolor al movimiento distal. - La lesión arterial tiene palidez, pulso ausente, paresia, parestesia, frialdad y dolor, pero sin edema. - La trombosis venosa profunda tiene dolor y edema, pero suele aparecer algunos días después de la fractura y tiene dolor a la palpación de las masas musculares. - La embolia grasa tiene disnea (edema pulmonar no cardiogénico), petequias y compromiso de conciencia, que puede evolucionar a coma.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un paciente sufre un raquetazo en la mano izquierda. Presenta imposibilidad de Sin contestar extender por completo el dedo medio, tal como se muestra en la fotografía (fuente: Puntúa como https://www.assh.org/handcare/blog/) y la radiografía descarta lesiones óseas. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar TAC de dedo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Resolver quirúrgicamente",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar inmovilización con férula, en extensión",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar inmovilización con férula, en \u0000exión",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar analgésicos y kinesioterapia Tiene un “mallet \u0000nger” o “dedo en martillo”. Se produce por rotura de la fascia extensora y se trata ortopédicamente con inmovilización estricta con el dedo en extensión. Si no se trata oportunamente, evoluciona con imposibilidad crónica de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "extender la falange distal. Casos excepcionales requieren cirugía.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "El tratamiento de primera línea de la osteomielitis aguda, en la que no se sospecha Sin contestar resistencia, es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cloxacilina endovenosa",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Cefadroxilo oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Vancomicina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Gentamicina local",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Quirúrgico El manejo de la osteomielitis es distinto, según se trate de una osteomielitis hematógena (como en este caso, que no tiene una causa aparente) o se trate de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "una osteomielitis por contigüidad (ej. fractura expuesta, pie diabético). - La hematógena se trata con antibióticos endovenosos, ajustados por antibiograma y, si queda tejido infectado residual, se realiza debridamiento quirúrgico. - La por contigüidad se trata con debridamiento quirúrgico (amputación en los casos más graves), más antibióticos, ajustados por antibiograma. * Aunque el S. aureus sensible es el agente más frecuente, actualmente, mientras no se haya aislado el agente, se recomienda dejar cobertura para gram positivos, con cobertura para SAMR y para gram negativos. Ejemplo: Vancomicina + cefepime. Una vez se tiene el antibiograma, se ajusta el tratamiento. Eso sí, algunas guías mantienen el tratamiento estándar con cloxacilina o vancomicina, con cobertura solo para el SAMS y aquello ocurre especialmente cuando no se sospecha resistencia, como en este caso.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un niño de 12 años presenta aumento de volumen, en relación a la pierna izquierda, Sin contestar que notó hace tres meses y que se asocia a dolor. Al examen físico se aprecia de Puntúa como consistencia dura, por lo que se solicita una radiografía, que visualiza una lesión de 1,00 15 cm de diámetro en la diá\u0000sis de la tibia, con regiones radiolúcidas y otras de mayor densidad que el hueso, que lo deforma y borra el hueso cortical en algunas zonas. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Osteomielitis crónica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Osteosarcoma",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Osteoma osteoide",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Osteocondroma",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sarcoma de Ewing Es un tumor óseo de aspecto maligno: borra la cortical, es heterogéneo y deforma el hueso. Además, por ser un niño y estar en localización dia\u0000siaria, es un sarcoma de",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Ewing clásico. La osteomielitis tiene \u0000ebre y lesiones líticas. El osteosarcoma tiene ubicación meta\u0000siaria o dia\u0000siaria. El osteoma osteoide y el osteocondroma tienen aspecto benigno.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Una mujer de 45 años consulta por dolor en el hombro derecho, que se produce al Sin contestar limpiar o realizar otros movimientos con la extremidad superior derecha. Además, Puntúa como re\u0000ere que el dolor aparece también en reposo, usualmente en la noche. Al examen 1,00 físico es especialmente dolorosa la abducción contra resistencia. ¿Qué imagen es más adecuada para proseguir con el estudio en esta paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Radiografía",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ecografía",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Tomografía",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Resonancia magnética",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Contigrafía El examen de elección para el estudio del hombro doloroso es la ecografía. Además, la sospecha diagnóstica es un síndrome de manguito rotador, que también se estudia con ecografía, como primera línea, ya que es el más costoefectivo. De",
+        "correcta": false
+      }
+    ],
+    "justificacion": "segunda línea, puede ser la resonancia magnética nuclear.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente presenta dolor lumbar irradiado a la extremidad derecha, que inició Sin contestar luego de realizar esfuerzo físico. El dolor avanza por la cara anteromedial del muslo Puntúa como y desciende por la cara medial de la pierna. Además, se aprecia clara disminución 1,00 del re\u0000ejo rotuliano de dicha extremidad. La raíz nerviosa afectada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "L1",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "L2",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "L4",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "L5",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "S1",
+        "correcta": false
+      }
+    ],
+    "justificacion": "L1 inerva la zona inguinal. L2 inerva la cara anterior y medial del muslo y algo afecta el re\u0000ejo rotuliano. L4 inerva la zona lateral y anterior del muslo y luego la cara medial de la pierna, hasta el maléolo medial. Junto con L2 y L3, inervan el cuádriceps (extienden la rodilla) y afectan el re\u0000ejo rotuliano. Además, dorsi\u0000ecta el pie. L5 inerva la cara posterior del muslo y luego la cara anterior de la pierna, el empeine. No afecta ningún re\u0000ejo. Extiende los ortejos, en especial, el primero. S1 afecta la cara posterior del muslo y pierna, más la planta del pie y la zona lateral del pie. Afecta el re\u0000ejo aquileano.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente presenta un accidente de tránsito, resultando con una fractura de pierna Sin contestar derecha. Es manejada con osteosíntesis, con placa y tornillos. Usted lo evalúa 6 Puntúa como meses después y se aprecia movilidad en el foco de fractura, sin dolor al realizar 1,00 dicho movimiento. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mala unión",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Pseudoartrosis",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Osteomielitis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Retraso en la consolidación",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Atro\u0000a ósea de Suddeck Tiene una no unión o pseudoartrosis clásica, en la que las partes blandas se interponen entre los extremos de la fractura, por lo que ya no consolida y se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "presenta movilidad anormal en la zona, habitualmente ya sin dolor. En los casos en que no genera mayores molestias (ej. espondilolisis) se puede observar. En los demás, requiere tratamiento quirúrgico. - La mala unión, en cambio, sí consolida, pero con desviación, por lo que hay deformación e impotencia funcional, también sin dolor, pero sin movilidad, puesto que ya consolidó. - La osteomielitis presenta dolor, \u0000ebre y signos in\u0000amatorios. - El retraso en la consolidación persiste con dolor por un tiempo mayor al normal, ya que el proceso de consolidación está retrasado, pero avanzando. - La atro\u0000a ósea de Suddeck o distro\u0000a simpático-re\u0000eja se caracteriza por dolor tipo neuropático, asociado a cambios tró\u0000cos de piel y fanéreos (ej. caída de los vellos o cambios en el grosor o color de la piel).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente de 45 años se realiza un corte con una lata, mientras realizaba faenas Sin contestar agrícolas. De niño recibió sus vacunas normalmente, según el esquema del plan Puntúa como nacional de inmunizaciones vigente esos años, que incluía la vacuna antitetánica en 1,00 la vacuna triple o DPT. La conducta más adecuada respecto a la vacunación antitetánica es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "No debe recibir la vacunación antitetánica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Debe recibir una dosis de la vacuna antitetánica",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Debe recibir una dosis de la vacuna antitetánica más inmunoglobulina antitetánica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Debe recibir el esquema completo, con al menos 3 dosis de la vacuna antitetánica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Debe recibir el esquema completo, con al menos 3 dosis de la vacuna antitetánica más inmunoglobulina antitetánica Las recomendaciones de vacuna antitetánica varían según la fuente que se revise, pero la más utilizada es la siguiente:",
+        "correcta": false
+      }
+    ],
+    "justificacion": "- Herida limpia y esquema completo: vacunar si han pasado más de 10 años. - Herida sucia y esquema incompleto: vacunar si han pasado más de 5 años. - Herida limpia y esquema incompleto: completar esquema. - Herida sucia y esquema incompleto: completar esquema + IgG antitetánica endovenosa. Los nacidos antes de 1975 generalmente no recibieron las vacunas cuando niños. Esquema desconocido se maneja como incompleto.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Una paciente de 68 años, presenta una caída a nivel, con golpe en el costado Sin contestar derecho. Presenta imposibilidad de pararse y de levantar el talón. Al examen físico Puntúa como está recostada, en la posición que se observa en la fotografía ((fuente: 1,00 http://revistas.uach.cl/html/cuadcir/v22n1/body/art11.htm)). El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fractura de tobillo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fractura de cadera",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Luxación de cadera",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Esguince de rodilla",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Rotura del tendón de Aquiles La imagen muestra la posición impúdica, clásica de la fractura de cadera. Además, la clínica es la característica. Recordar que la luxación posterior de cadera tiene la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "posición púdica (acortamiento, aducción y rotación interna).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente sufre un accidente laboral, con una máquina de construcción, Sin contestar resultando con fractura del antebrazo derecho, con disrupción de los tegumentos. Puntúa como Presenta anestesia y plejia de los dedos, asociado a palidez y ausencia de pulso en 1,00 la mano. ¿Qué tratamiento antibiótico es el más adecuado para el manejo de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "No requiere tratamiento antibiótico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cefazolina más gentamicina",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Cloxacilina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Penicilina más gentamicina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Clindamicina más metronidazol Tiene una fractura expuesta, por lo que requiere aseo quirúrgico con abundante suero \u0000siológico y antibióticos endovenosos. Si bien el esquema antibiótico varía según la fuente que se revise, las recomendaciones internacionales sugieren lo siguiente:",
+        "correcta": false
+      }
+    ],
+    "justificacion": "- Grado I y II: cefazolina por 1 día. - Grado III: cefazolina + gentamicina por 3 días. - Si se contamina con tierra: agregar cobertura para anaerobios (ej. metronidazol). - Si se contamina con agua y es grado III: agregar cobertura para pseudomona (ej. imipenem o piperacilina + tazobactam).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente sufre una caída a nivel, mientras jugaba basquetbol, resultando con un Sin contestar golpe en el hombro contra el suelo. Presenta dolor y di\u0000cultad en los movimientos, Puntúa como por lo que se solicita una radiografía, que muestra lo siguiente (fuente: 1,00 http://osteomuscular.com/HOMBRO/trauma...): El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fractura de hombro",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fractura de clavícula",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Luxación anterior de hombro",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Disyunción acromioclavicular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Contusión de hombro Es una luxación de hombro clásica: se pierde la relación entre la curvatura de la cabeza humeral y la glenoides escapular. Vale la pena mencionar que, como solo se ve la proyección anteroposterior, es imposible saber si es una luxación anterior o",
+        "correcta": false
+      }
+    ],
+    "justificacion": "posterior.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un paciente sufre un golpe en el brazo izquierdo, evolucionando con gran dolor y Sin contestar pérdida de los ejes. Se solicita una radiografía de brazo, que se muestra a Puntúa como continuación (fuente: https://es.slideshare.net/julio938/radiologia-basica- 1,00 traumatologia): ¿Qué estructura se ha lesionado con mayor probabilidad?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Nervio axilar",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Arteria braquial",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Nervio radial",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Arteria circun\u0000eja",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Nervio cubital Tiene una fractura de la diá\u0000sis humeral. Si bien también se puede dañar la arteria braquial, la estructura que más se daña es el nervio radia, ya que está en estrecho",
+        "correcta": false
+      }
+    ],
+    "justificacion": "contacto con el húmero.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un paciente sufre una luxofractura posterior de cadera, resultando con daño del Sin contestar nervio ciático. Clínicamente se presentará",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Imposibilidad de extender la rodilla",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ausencia de sensibilidad de la cara lateral del muslo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Incontinencia urinaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Imposibilidad de mover los ortejos",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Signo de Babinsky El nervio ciático tiene la sensibilidad de la cara posterior del muslo y de toda la pierna y el pie. Además, se encarga de la \u0000exión de la rodilla y de todos los",
+        "correcta": false
+      }
+    ],
+    "justificacion": "movimientos del tobillo, pie y ortejos, así como del re\u0000ejo rotuliano. La extensión de la rodilla la realiza el nervio femoral. La sensibilidad de la cara lateral del muslo está dada por el nervio cutáneo femoral lateral (o femorocutáneo). La continencia urinaria está dada por el nervio pudendo. El signo de Babinsky solo se da en lesiones del sistema nervioso central (médula o encéfalo), ya que es patognomónico del signo piramidal. En cambio, la lesión del nervio ciático producirá un síndrome de denervación o de segunda motoneurona.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Un paciente sufre una torsión del tobillo izquierdo, mientras bajaba escaleras, Sin contestar evolucionando con intenso dolor. Presenta imposibilidad de apoyar el pie y al Puntúa como examen se aprecia equimosis en la zona medial y anterior del pie. El diagnóstico de 1,00 sospecha es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Esguince de tobillo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fractura de tobillo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Luxación de tobillo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Contusión de tobillo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hemartrosis Por el mecanismo y por la equimosis, puede ser tanto una fractura de tobillo, como un esguince de tobillo. Sin embargo, la imposibilidad de apoyar el pie es un fuerte indicador de fractura. Otros indicadores son el dolor a la palpación ósea y el crépito",
+        "correcta": false
+      }
+    ],
+    "justificacion": "óseo.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una paciente presenta una caída de un metro de altura, cayendo contra el suelo, Sin contestar apoyando el codo. Presenta aumento de volumen y signos de derrame articular, por Puntúa como lo que se decide realizar punción articular, que da salida a sangre, con gotas de 1,00 grasa, que \u0000otan en su super\u0000cie. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Luxación de codo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fractura de codo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Rotura del tendón tricipital",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Rotura del tendón bicipital",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Luxación de la cúpula radial Las gotas de grasa indican que hay una fractura, ya que es grasa proveniente de la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "médula ósea.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente de 70 años consulta por dolor en la ingle derecha, que aumenta al Sin contestar caminar, lo que limita en cierta medida, sus actividades de la vida diaria. Se solicita Puntúa como radiografía de caderas, que muestra disminución del espacio articular y formación 1,00 de osteo\u0000tos. Se inicia tratamiento con paracetamol y se controla 3 meses después. El paciente re\u0000ere que el dolor ha disminuido parcialmente, pero que persiste y aún limita algunas de sus actividades. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Agregar AINEs",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar TAC de cadera",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Resolver quirúrgicamente",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar tipi\u0000cación para antígeno de histocompatibilidad HLA-B27",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Mantener indicaciones Tiene una artrosis de cadera, tanto por la clínica (dolor inguinal), como por los hallazgos radiológicos. El tratamiento tiene como objetivo eliminar el dolor y se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "inicia con analgésico más ejercicios. - Históricamente, de elección ha sido el paracetamol oral (1g cada 8 horas), más baja de peso y ejercicios de fortalecimiento de cuádriceps (más útil en artrosis de rodilla, que de cadera). Lamentablemente, estudios actuales no identi\u0000can bene\u0000cios clínicamente relevantes con el paracetamol solo. Este sigue siendo el manejo de las guías ministeriales chilenas. -De segunda línea, se indican los AINEs (tanto COX1, como COX2 son útiles, aunque los COX2, como el celecoxib, tienen menos riesgo de úlceras y daño renal). Sin embargo, estudios recientes han demostrado que los AINEs son mejores que el paracetamol, por lo que podrían ir de primera línea. - Si persiste con dolor, o están contraindicados los AINES (ej. IRC), se agrega tramadol. Sin embargo, estudios actuales los desaconsejan, dado que tienen muchos efectos adversos (mareos, náuseas, caídas, dependencia). - Los corticoides intraarticulares son útiles, pero su e\u0000cacia es muy corta (1-2 meses), por lo que solo se usan para situaciones en que se requiere un alivio breve del dolor. - De última línea, se indica la cirugía de reemplazo articular (en cadera y rodilla), con buena respuesta, en la mayoría de los casos. * No sirven o no tienen evidencia el condroitín sulfato, la glucosamina y similares, el plasma rico en plaquetas o el ácido hialurónico intraarticulares y una larga lista de otras terapias. El paracetamol, según algunas recomendaciones, caería en esta lista.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un paciente sufre un accidente de tránsito, con golpe en el antebrazo izquierdo. Sin contestar Usted lo evalúa y se aprecia con una herida contusa en el antebrazo izquierdo, que Puntúa como sangra activamente. Su PA es 100/60 mmHg y su FC es 90x’. Además de instalar 1,00 una vía venosa y administrar cristaloides, la conducta inicial más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Resolver quirúrgicamente",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar ligadura arterial",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Instalar una férula neumática",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Comprimir la herida",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Aplicar un torniquete El tratamiento de las hemorragias traumáticas es primeramente la compresión con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "paños limpios, más la reposición de volumen por vía venosa.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 25 años presenta una caída a nivel, apoyando las extremidades Sin contestar superiores contra el suelo, en extensión. Evoluciona posteriormente con dolor, que Puntúa como es especialmente intenso al presionar la tabaquera anatómica. Por esto se solicita 1,00 radiografía de mano, que no muestra alteraciones. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar AINEs y enviar a domicilio, sin necesidad de exámenes ni medidas adicionales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar AINEs y kinesioterapia motora de la mano",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar TAC de mano y decidir conducta según resultado",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar cintigrafía ósea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Resolver quirúrgicamente de inmediato La sospecha diagnóstica es una fractura de escafoides, la que puede no verse en la radiografía. Sin embargo, tiene riesgo de necrosis avascular, por lo que es fundamental diagnosticarla. De primera línea, se pide una radiografía de carpo (o de mano) y en caso de estar normal, hay dos opciones: 1. Solicitar un TAC o RMN (ya que tienen mejor rendimiento) y decidir según resultado o 2. Inmovilizar, tal como si fuera una fractura no desplazada y controlar con nueva radiografía en 1-2 semanas",
+        "correcta": false
+      }
+    ],
+    "justificacion": "(si hay fractura, se sigue inmovilizando; si no, se retira la inmovilización.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente presenta dolor en la cara externa de la muñeca, en especial al realizar Sin contestar movimientos con la mano y el pulgar. Al examen se produce dolor al presionar la Puntúa como zona y especialmente al hiper\u0000ectar el pulgar y simultáneamente cubitalizar la 1,00 muñeca. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fractura de apó\u0000sis estiloides radial",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fractura de apó\u0000sis estiloides cubital",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Artrosis de muñeca",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Necrosis avascular de escafoides",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tendinitis de Quervain Es una tendinitis de Quervain clásica, que afecta el tendón del abductor largo o el tendón del extensor corto del pulgar. Duele tanto al tocarlos, como al estirarlo (al \u0000ectar el pulgar y cubitalizar la mano). El diagnóstico es clínico y el tratamiento es con reposo (ej. con férula de pulgar) y AINEs. Los casos que no responden, se",
+        "correcta": true
+      }
+    ],
+    "justificacion": "pueden tratar con corticoides inyectables. - Las fracturas tendrían antecedente de traumatismo. - La artrosis de muñeca es muy rara y en general es secundaria a fracturas previas. - La necrosis avascular tendría antecedente de traumatismo y dolor en la tabaquera anatómica, persistente en el tiempo.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente de 20 años presenta \u0000ebre, asociado a dolor de la rodilla derecha. Al Sin contestar examen se aprecia aumento de volumen, eritema y signos de derrame articular. Se Puntúa como realiza punción, con salida de líquido sinovial turbio, con más de 100.000 leucocitos 1,00 por mm3 y presencia de cocáceas Gram positivas. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar ceftriaxona endovenosa y realizar aseo quirúrgico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar vancomicina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar cloxacilina más vancomicina endovenosa y realizar aseo quirúrgico",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar cefazolina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar vancomicina + metronidazol endovenoso Tiene una artritis séptica, por Staphilococcus aureus (Gram positivo). Se trata con drenaje quirúrgico, más antibióticos endovenosos. En este caso, sirve la cloxacilina y la cefazolina, ya que cubren bien al esta\u0000lococo, sin embargo, debido al aumento de la resistencia, muchas guías recomiendan agregar vancomicina. Así el esquema primario, puede ser cloxacilina o cefazolina más vancomicina, aunque algunos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "dejarán solo uno de esos antibióticos. - Si hubiese sido por gonococo / Neisseria meningitidis (Gram negativo), la respuesta habría sido ceftriaxona más drenaje quirúrgico.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un niño de 14 años consulta por dolor inguinal izquierdo, que se irradia a la rodilla, Sin contestar de cerca de una semana de evolución. Ha empeorado considerablemente en el Puntúa como último tiempo, di\u0000cultándole la marcha. Al examen tiene dolor y di\u0000cultad para 1,00 realizar movimientos con la cadera izquierda. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Epi\u0000siólisis de la cabeza femoral",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Sinovitis transitoria",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Necrosis avascular de la cabeza femoral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Enfermedad de Perthes",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Artritis séptica Es una epi\u0000siólisis de la cabeza femoral clásica: dolor en la cadera (duele en la ingle o en el muslo, incluso en la rodilla) y claudicación de la marcha, en un niño de 12 a 15 años (suele tener antecedente de obesidad). Se diagnostica con radiografías de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "cadera y se maneja con cirugía. - La sinovitis transitoria es similar, pero suele afectar a niños de 2 a 5 años y tener antecedente de una infección respiratoria previa. Además, es autolimitada, mejorando a los pocos días. - La necrosis avascular de la cabeza femoral y la enfermedad de Perthes son muy similares, solo que la primera afecta a adultos (y se asocia a uso de corticoides, alcoholismo y otros factores de riesgo) y la enfermedad de Perthes afecta a niños entre 5 y 10 años (rango 3 a 12 años y mucho más frecuente en varones), por lo general. - La artritis séptica suele cursar con \u0000ebre y con signos in\u0000amatorios (eritema, derrama, dolor a la movilización pasiva, etc.).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un paciente de 40 años sufre un accidente en motocicleta, resultando con fractura Sin contestar de pierna, la que maneja con osteosíntesis con una placa. Se le prohíbe apoyar la Puntúa como extremidad, sin embargo, no cumple completamente las indicaciones. Usted lo 1,00 recibe 3 meses después, sin dolor, pero se aprecia consolidación de la fractura, con desviación en varo marcada de la zona distal a la fractura. El diagnóstico es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Pseudoartrosis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Retraso de la consolidación",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Atro\u0000a ósea de Suddeck",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Mala unión",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Artrosis La mala unión o consolidación viciosa tiene consolidación, con desviación de los",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ejes. Deja de doler. La pseudoartrosis o no unión no consolida, por interposición de partes blandas, por lo que queda con movilidad anormal, aunque deja de doler también. El retraso en la consolidación demora más tiempo del normal en consolidar, por lo que sigue doliendo, a pesar de que ya no debería doler. Tiene un callo óseo en maduración. La atro\u0000a ósea de Suddeck o síndrome de dolor regional complejo tiene dolor tipo neuropático, asociado a cambios tró\u0000cos en la piel, fanéreos y huesos.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente de 68 años presenta dolor en el brazo izquierdo. Al examen físico se Sin contestar aprecia aumento de volumen de consistencia ósea, por lo que se solicita una Puntúa como radiografía de húmero que muestra un tumor óseo de 7 cm de diámetro, de 1,00 consistencia heterogénea y reacción perióstica “en tela de cebolla”. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Sarcoma de Ewing",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tumor de células gigantes",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Osteocondroma",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Osteosarcoma",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Osteoma osteoide Tiene aspecto maligno: lesión heterogénea, con reacción perióstica compleja (en tela de cebolla o en sol naciente son las dos reacciones sugerentes de cáncer). Por la edad y la localización meta\u0000siaria/epi\u0000siaria, lo más probable es que sea un osteosarcoma (adultos mayores y adolescentes). La edad de presentación de los",
+        "correcta": false
+      }
+    ],
+    "justificacion": "osteosarcomas es bimodal: 13-16 años y luego adultos mayores. - El sarcoma de Ewing también tiene aspecto maligno, pero afecta a adolescentes y niños y se localiza más frecuentemente en las diá\u0000sis de huesos largos o en la pelvis. - El tumor de células gigantes también tiene aspecto maligno o lítico, pero afecta principalmente a hombres de 40 a 50 años y se localiza en la tibia proximal o el fémur distal. - El osteocondroma y el osteoma osteoide son de aspecto benigno.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "El síndome de Osgood Schlatter se mani\u0000esta clínicamente como:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dolor a la palpación de la pata de ganso",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dolor a la palpación de la inserción proximal de la fascia lata",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Dolor a la palpación de la inserción distal de la fascia lata",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dolor a la palpación de la tuberosidad tibial",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Dolor a la palpación de la fosa poplítea La enfermedad de Osgood Schlatter es una entesitis del tendón rotuliano, el que se inserta en la tuberosidad tibial. Es clásica de adolescentes. y se produce por movimientos repetitivos (ej. deporte), que provocan una avulsión del núcleo de osi\u0000cación de la tuberosidad tibial. Suele ser autolimitada y se trata con reposo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "relativo, AINEs, frío local y educación. - La tendinitis de la pata de ganso (o tendinitis ansarina o bursitis ansarina) duele en la zona medial del extremo proximal de la tibia. Se asocia a artrosis de rodilla y suele ser más intensa cuando se realizan actividades de trekking o trote. - Eso sí, el típico dolor de rodilla al bajar en actividades de trekking a cerros y lugares con mucha pendiente, suele ser la disfunción patelo femoral, que duele especialmente en la cara anterior de la rodilla, por detrás de la rótula. - La tendinitis de la fascia lata (o síndrome de la banda ileotibial) duele en la zona lateral de la rodilla y se asocia a trotar. - Los quistes de Baker o quistes poplíteos podrían doler en la fosa poplítea y tener aumento de volumen en dicha zona. Si se rompen, pueden ser iguales a una TVP.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "¿Cuál de los siguientes signos clínicos es de peor pronóstico en un paciente con Sin contestar una fractura expuesta de antebrazo?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Anestesia, plejia, palidez y ausencia de pulso en la mano",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Presencia de restos vegetales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tiempo de evolución mayor a 6 horas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Etiología por arma de fuego",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Herida mayor a 5 cm La anestesia y plejia dan cuenta de lesión neurológica y la palidez y ausencia de pulso son de lesión arterial. La afectación neurovascular es de mal pronóstico",
+        "correcta": false
+      }
+    ],
+    "justificacion": "(grado III C). Los restos vegetales, la evolución mayor de 6 horas, la etiología por arma de fuego y una herida mayor a 10 cm, todas son indicador de gravedad (grado III), pero ninguna es tan grave como la sección neurovascular.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente sufre una fractura de muñeca con compromiso intrarticular, la que es Sin contestar manejada mediante cirugía, con reducción y osteosíntesis en pabellón. ¿Cuál es la Puntúa como razón por la que este tipo de fractura debió ser manejada quirúrgicamente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Porque en caso contrario, desarrolla artrosis",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Porque en caso contrario, desarrolla pseudoartrosis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Porque en caso contrario, desarrolla consolidación viciosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Porque en caso contrario, desarrolla osteomielitis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Porque en caso contrario, desarrolla síndrome del túnel carpiano Las fracturas con rango intrarticular evolucionan con artrosis, si es que no logran",
+        "correcta": false
+      }
+    ],
+    "justificacion": "una adecuada reducción y \u0000jación quirúrgica.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente sufre una caída a nivel, con golpe del hombro contra el suelo. Al Sin contestar examen presenta el signo de la charretera, con\u0000rmándose una luxación anterior de Puntúa como hombro. Como antecedente, re\u0000ere otra luxación ipsilateral, hace 6 meses, por un 1,00 traumatismo similar, la que fue manejada con reducción cerrada y manejo ortopédico. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Reducir y realizar vendaje en 8",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Reducir e inmovilizar con cabestrillo bloqueado",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar kinesioterapia motora",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Reducir e inmovilizar con yeso toracobraquial",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Resolver quirúrgicamente La luxación recurrente de hombro se debe resolver mediante cirugía, ya que el riesgo de que vuelva a luxarse es demasiado alto. Si solo es una luxación, se realiza",
+        "correcta": true
+      }
+    ],
+    "justificacion": "reducción cerrada más inmovilización. En cambio, la primera luxación, salvo escasas excepciones, se maneja con tratamiento ortopédico (reducción cerrada e inmovilización). Ninguna de las técnicas de reducción ha demostrado ser mejor que las otras. Tampoco los distintos tipos de inmovilización han demostrado superioridad.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente de 38 años sufre un accidente de tránsito, con fractura expuesta de a Sin contestar pierna izquierda. La cobertura de partes blandas es adecuada. La primera medida a Puntúa como realizar es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar antibióticos endovenosos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Aseo con abundante suero \u0000siológico",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar vacuna antitetánica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Derivar urgentemente a centro especializado",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar analgésicos endovenosos Es una pregunta discutible, ya que hay algunos estudios que dicen que lo más importante y con mayor impacto es la administración de antibióticos endovenosos de manera precoz. Sin embargo, lo clásico y lo que hay que marcar, es que la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "primera medida es el aseo con abundante suero \u0000siológico, a chorro.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "¿Qué patología hay que sospechar ante un paciente que presenta lumbago intenso Sin contestar luego de una caída de altura, de pie?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Espondilodiscitis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Espondilosis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Espondilolistesis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Herniación del núcleo pulposo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fractura de cuerpo vertebral Las caídas de altura, cayendo de pie, se asocian a 3 fracturas: vértebras",
+        "correcta": true
+      }
+    ],
+    "justificacion": "(aplastamiento del cuerpo vertebral), talones y platillos tibiales. La espondilodiscitis es un lumbago o lumbociática, a la que se le agrega \u0000ebre. La espondilosis es lo mismo que la artrosis de la columna. La espondilolistesis es el desplazamiento de uno de los cuerpos vertebrales. La hernia de núcleo pulposo (HNP) produce una lumbociática común y corriente.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente de 69 años sufre una fractura de cadera, la que es manejada Sin contestar quirúrgicamente. Al día siguiente presenta disnea de inicio súbito, asociado a Puntúa como desaturación arterial, hasta 85%. El examen pulmonar muestra algunos crépitos 1,00 difusos, mayores en la base izquierda. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Embolia grasa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tromboembolismo pulmonar",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Embolia séptica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Anemia severa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Distro\u0000a simpático re\u0000eja Es un TEP clásico: disnea, dolor y/o desaturación súbita, en relación a una situación",
+        "correcta": false
+      }
+    ],
+    "justificacion": "de riesgo (en este caso la fractura). La embolia grasa tiene una triada: distrés respiratorio (edema pulmonar agudo), rash petequial y compromiso de conciencia.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Una paciente de 68 años consulta por debilidad de la mano derecha. Re\u0000ere que no Sin contestar tiene fuerza para sujetar las cosas con el pulgar, el índice y el dedo medio. Además, Puntúa como presenta parestesias en dichos dedos. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Atrapamiento cubital",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome de túnel carpiano",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Dedos en gatillo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Lesión del nervio radial",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tenosinovitis del tendón del músculo \u0000exor super\u0000cial de los dedos Es un síndrome de túnel carpiano clásico: debilidad y parestesias del pulgar, índice y dedo medio (además, puede afectar también la mitad del dedo anular). Se atrapa el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "nervio mediano. El atrapamiento cubital, en cambio, afecta al anular y al meñique. El dedo en gatillo se presenta como di\u0000cultad para extender algunos dedos, lo que luego saltan (también se llama “dedo en resorte”). La lesión del nervio radial produce di\u0000cultad en la extensión de los dedos y de la muñeca, así como en la sensibilidad de la cara posterior de la mano.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un paciente de 56 años, con sobrepeso, consulta por dolor lumbar muy intenso, que Sin contestar inició hace 24 horas, luego de haber levantado un bolso pesado. El dolor se irradia Puntúa como por la cara posterior de la pierna izquierda, hasta alcanzar el talón. Al examen físico 1,00 no hay alteraciones en la sensibilidad ni en la movilidad distal, sin embargo, se reproduce el dolor al realizar la maniobra de Lasegue. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar resonancia magnética nuclear",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar electromiografía",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar radiografía de columna lumbosacra",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Resolver quirúrgicamente de inmediato",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar analgésicos, reposo relativo y controlar de manera ambulatoria Tiene una lumbociática clásica, sin signos de alarma. La simple irradiación del dolor no es un signo de alarma. Se debe tratar igual que el lumbago mecánico, con analgesia, reposo relativo y en una segunda instancia, con ejercicios de fortalecimiento de la musculatura lumbar. La resonancia solo se pide si es que hubiese signos de alarma (ej. Dé\u0000cit neurológico, dolor mayor a 2 semanas que va en aumento o se mantiene muy intenso, o mayor a 4-6 semanas o, baja de peso,",
+        "correcta": true
+      }
+    ],
+    "justificacion": "\u0000ebre, etc.). Generalmente no se solicitan imágenes (menos del 1% de los casos la requiere).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Una mujer de 23 años sufre una caída a nivel, apoyando la mano derecha contra el Sin contestar suelo. Evoluciona con dolor en el antebrazo, que es especialmente doloroso al Puntúa como realizar movimientos de pronosupinación. La sospecha diagnóstica es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Luxación de codo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Pronación dolorosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Fractura de olécranon",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fractura de apó\u0000sis coronoide",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fractura de cúpula radial",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Es una fractura clásica de la cúpula radial, en especial, por el dolor al pronosupinar. La luxación de codo tendría imposibilidad de hacer movimientos con el codo y deformación. La pronación dolorosa sí duele en la pronosupinación (se produce por luxación de la cúpula radial), pero afecta a niños y por un mecanismo de tracción de la extremidad, no por caída. La fractura del olécranon tiene dolor a la palpación del olécranon (vértice del codo) y equimosis en el codo.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Un paciente sufre una fractura de diá\u0000sis humeral, evolucionando con imposibilidad Sin contestar de extender la muñeca. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lesión del nervio radial",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Lesión del nervio cubital",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lesión del nervio mediano",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Lesión del nervio musculocutáneo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Lesión del nervio axilar Tanto por la fractura de diá\u0000sis humera, como por la clínica, es una lesión del nervio",
+        "correcta": false
+      }
+    ],
+    "justificacion": "radial clásica. La lesión del nervio cubital produce imposibilidad de \u0000ectar el meñique y anular y afectación de la sensibilidad de esos dedos. La lesión del mediano es igual, pero afectando el pulgar, índice y mediano. La lesión del nervio musculocutáneo afecta la \u0000exión del brazo (ya que inerva al bíceps) y la sensibilidad de la cara lateral del antebrazo. La lesión del nervio axilar o circun\u0000ejo es secundaria a la luxación anterior de hombro y tiene debilidad a la abducción del hombro y anestesia en la zona deltoidea.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una niña de 3 meses de edad, nacida por cesárea por podálica, se realiza una Sin contestar radiografía AP de pelvis, la que se muestra en la siguiente imagen (fuente: Puntúa como https://traumayortopediadracadena.com.mx/2022/09/19/...): La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar correas de Pavlik",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar uso de doble pañal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar yeso pelvipedio",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Resolver quirúrgicamente",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una luxación congénita de la cadera izquierda o displasia de cadera. - Diagnóstico: El examen con mejor rendimiento para su diagnóstico en los primeros 3-4 meses de edad es la ecografía, por lo que se solicita de elección ante la sospecha clínica precoz (ej. recién nacidos), como por ejemplo en pruebas de Ortolani y/o Barllow alteradas o cuando hay factores de riesgo muy marcados. La radiografía de pelvis, con visualización de ambas caderas tiene un rendimiento aceptable después de los 3 meses: los puntos de corte para el ángulo acetabular a los 3 meses es 30º. Bajo eso es normal. Sobre eso, se considera signo de displasia de cadera. La recomendación chilena plantea: 1. radiografía a los 3 meses como screening y 2. ecografía si sospecha clínica antes. En otros países, se pre\u0000ere siempre la ecografía en menores de 4-6 meses. - Tratamiento: En la mayoría de los casos es ortopédico con correas de Pavlik. En los casos en que no responde o el diagnóstico es muy tardío (más de 10 meses), se debe evaluar la utilización de yesos y cirugía (hay casos en que se usan igual las correas de Pavlick después de los 10 meses).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente de 18 años sufre una fractura cerrada de fémur, la que se hospitaliza en Sin contestar espera de cirugía. Evoluciona a las pocas horas con dolor mucho más intenso, que Puntúa como aumenta especialmente al realizar estiramiento pasivo de la rodilla. Se aprecia 1,00 edema importante de la extremidad. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trombosis venosa profunda",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fasceítis necrotizante",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Síndrome compartimental",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Embolia grasa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Distro\u0000a simpático re\u0000eja Es un síndrome compartimental clásico: dolor intenso, que aumenta al estiramiento pasivo distal, más edema (puede tener disminución del pulso), que ocurre al poco tiempo de una fractura. Se diagnostica con la clínica (solo en casos excepcionales se mide la presión del compartimento). El tratamiento es urgente y requiere remover",
+        "correcta": false
+      }
+    ],
+    "justificacion": "férulas y yesos, elevar la mano y proceder cuanto antes a la fasciotomía quirúrgica. - La TVP habría empezado algunos días después y puede tener edema y dolor, pero que aumenta al palpar las masas musculares y al dorsi\u0000ectar el pie (signo de Homans). - La fasceítis también duele mucho, pero tendría zonas violáceas o necróticas en la piel y \u0000ebre u otro signo de infección. - La embolia grasa tiene distrés respiratorio, petequias y compromiso de conciencia. - La distro\u0000a simpático-re\u0000eja puede tener edema y dolor, que aumenta al estiramiento distal, pero ocurre algunas semanas después y tiene dolor neuropático, asociado a cambios tró\u0000cos de la piel y huesos.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un niño de 4 años presenta pie plano bilateral. No es posible formar el arco plantar, Sin contestar aun al hiperextender el primer ortejo. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Derivar a traumatología",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar resonancia magnética nuclear de pie",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar uso de plantillas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar uso de zapatillas blandas Tiene un pie plano, de tipo rígido (porque nunca se forma el arco), por tanto, se debe derivar para evaluación por especialista. Si hubiese sido \u0000exible (se forma el arco al hiperextender el primer ortejo o todos los ortejos, por ejemplo), se podría observar,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "indicando plantillas, solo en caso de dolor plantar, al caminar. En general, las indicaciones de derivación al especialista en casos de alteraciones del arco plantar son: 1. pie plano rígido, 2. pie plano \u0000exible doloroso y 3. pie cavo.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 20 años presenta aparición de una zona eritematosa en la pierna Sin contestar derecha de 5 cm, asociada a \u0000ebre e intenso dolor. Un día después alcanza 15 cm Puntúa como de diámetro y presenta algunas áreas violáceas y otras negras. La conducta más 1,00 adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar resonancia magnética nuclear y decidir conducta según resultado.",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar penicilina + clindamicina endovenosa y realizar debridamiento quirúrgico",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar cloxacilina + gentamicina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar ceftriaxona + metronidazol y realizar debridamiento quirúrgico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar cloxacilina endovenosa y realizar debridamiento quirúrgico Tiene una fasceítis necrotizante clásica. Se trata con debridación quirúrgica urgente, más tratamiento antibiótico endovenoso. Generalmente se usa penicilina (algunos agregan clindamicina), ya que suele ser por Streptococcus pyogenes. Si se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sobreinfectara con S. aureus, se agrega cloxacilina, pero el agente es el S. pyogenes. La tipo 1 (polimicrobiana) se asocia a pie diabético, escaras y otras patologías de base. Se trata con debridación quirúrgica y antibióticos de amplio espectro que cubran todo.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente de 20 años consulta por aumento de volumen, en relación a la zona Sin contestar proximal de la tibia. Al examen se palpa de consistencia ósea, por lo que se solicita Puntúa como una radiografía de rodilla, que muestra un tumor óseo pediculado, de aspecto 1,00 similar al hueso, que se origina en la metá\u0000sis de la tibia. Está bien delimitado, que no afecta las partes blandas. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Sarcoma de Ewing",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tumor de células gigantes",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Osteocondroma",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Osteoma osteoide",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Osteosarcoma Es un osteocondroma clásico: aspecto benigno (biel delimitado, que respeta partes",
+        "correcta": false
+      }
+    ],
+    "justificacion": "blandas) y pediculado. El sarcoma de Ewing, tumor de células gigantes y osteosarcoma tienen aspecto maligno. El osteoma osteoide sí tiene aspecto benigno, pero es una lesión redondeada, radiolúcida, con un halo radiopaco, ubicado en zona cortical.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente sufre una contusión en el hombro derecho, producto de una caída a Sin contestar nivel, persistiendo con dolor a la movilidad. Al examen presenta dolor a la palpación Puntúa como de la unión acromio-clavicular. ¿Qué radiografía es la más importante para 1,00 con\u0000rmar la sospecha diagnóstica?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "AP de hombro derecho",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Lateral de hombro derecho",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "AP de hombros bilateral comparativa con y sin carga",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "AP de clavícula en abducción",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "AP de escápula en abducción La sospecha diagnóstica es una luxación acromio clavicular o disyunción acromioclavicular, que se estudia con la radiografía AP bilateral comparativa de hombros ya sea en una sola radiografía que vea ambos hombros o en 2 radiografías distintas, que se ponen una junto a la otra para comparar. Está obsoleto el realizarlo con y sin carga, ya que estudios nuevos han demostrado que no varía la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sensibilidad. El manejo es ortopédico en las leves y quirúrgico en las severas (se clasi\u0000can del I al VI y se operan desde el IV en adelante).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente sufre una torcedura de tobillo mientras jugaba fútbol, presentado Sin contestar intenso dolor, que le impide caminar e incluso apoyar el pie. Al examen físico se Puntúa como aprecia equimosis en la zona externa del tobillo y pie y la compresión de los 1,00 maléolos es muy dolorosa. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Luxación de tobillo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fractura de tobillo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Esguince de tobillo grado II",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Esguince de tobillo grado III",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Luxación astrágalo-calcánea Por el mecanismo y por la equimosis, puede ser tanto un esguince, como una fractura. Sin embargo, la imposibilidad de caminar y el dolor a la compresión",
+        "correcta": false
+      }
+    ],
+    "justificacion": "maleolar son indicativos de fractura.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un paciente sufre una fractura de húmero. Es manejado de manera ortopédica, sin Sin contestar cumplir cabalmente las indicaciones de reposo y uso de cabestrillo. Consulta 5 Puntúa como meses después, sin dolor, pero con movilidad anormal, a nivel del tercio medio del 1,00 brazo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Pseudoartrosis",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Consolidación viciosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Retraso de la consolidación",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Osteomielitis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Necrosis avascular La pseudoartrosis o no unión no consolida, por interposición de partes blandas, por lo que queda con movilidad anormal, aunque deja de doler también. Se debe",
+        "correcta": false
+      }
+    ],
+    "justificacion": "estudiar con una radiografía. La mala unión o consolidación viciosa tiene consolidación, con desviación de los ejes. Deja de doler. El retraso en la consolidación demora más tiempo del normal en consolidar, por lo que sigue doliendo, a pesar de que ya no debería doler. Tiene un callo óseo en maduración.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un niño de 2 años presenta claudicación de la marcha, de 2 días de evolución. Al Sin contestar examen físico está de buen aspecto, afebril, con signos vitales normales. Se aprecia Puntúa como molestia al movilizar la cadera derecha. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Enfermedad de Perthes",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Artritis séptica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Epi\u0000siolisis de la cabeza femoral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Displasia de cadera",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sinovitis transitoria Es una sinovitis transitoria clásica: niño de 2 a 5 años, con dolor en la cadera o en la",
+        "correcta": true
+      }
+    ],
+    "justificacion": "rodilla, sin aspecto séptico. Suele ser autolimitada, durando 1 a 2 semanas. - La enfermedad de Perthes suele afectar a niños mayores, entre 5 y 10 años. Algo importante es que estudios más recientes muestran que hay mucha superposición entre las edades de la sinovitis transitorias y la enfermedad de Legg Calvé Perthes (llamada actualmente osteonecrosis idiopática de la cabeza femoral), ya que ambas se presentan con cierta frecuencia entre los 3 y los 8 años (Perthes puede ser en mayores), por tanto, la principal diferencia entre ambas es el tiempo de evolución, ya que la sinovitis suele duran cerca de una semana (solo en pocos casos se alarga y se estudia), mientras que la enfermedad de Perthes suele ser más subaguda. Se diagnostica con la radiografía de caderas, aunque al inicio puede estar normal y ser necesaria una RMN. Se maneja ortopédicamente y, en casos graves, con cirugía. - La epi\u0000siolisis también, entre 12 y 15 años y su clínica se alarga en el tiempo. - La displasia de cadera es un cuadro crónico, con dolor insidioso, que evoluciona a atrosis de cadera y que puede tener cojera, acortamiento de una extremidad, etc. - La artritis séptica tiene \u0000ebre y aspecto séptico, más signos in\u0000amatorios evidentes en la exploración clínica.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un paciente de 48 años sufre una fractura de tobillo izquierdo, la que es manejada Sin contestar quirúrgicamente. Tres días después presenta dolor moderado, edema y eritema de Puntúa como la pierna izquierda. Al examen, presenta signos vitales normales y se constata dolor 1,00 a la palpación de las masas musculares, sin alteraciones en el pulso, sensibilidad o movilidad distal. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Distro\u0000a simpático-re\u0000eja",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome compartimental",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trombosis venosa profunda",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Celulitis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Osteomielitis Es una TVP clásica: dolor, edema, eritema, más el dolor a la palpación de las masas",
+        "correcta": false
+      }
+    ],
+    "justificacion": "musculares (también suele tener signo de Homans: dolor a la dorsi\u0000exión del pie). La distro\u0000a simpático-re\u0000eja o síndrome de dolor regional complejo aparece algunas semanas después y tiene dolor tipo urente, con alodinia, más cambios en la piel, fanéreos y huesos (osteoporosis moteada). Sí puede tener edema y eritema. El síndrome compartimental suele ocurrir solo algunos minutos después de la fractura y se caracteriza por dolor intenso, que aumenta con la movilidad distal pasiva. Además, suele tener edema.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente sufre una luxación posterior de cadera izquierda en un accidente Sin contestar automovilístico. Al examen se constata anestesia e imposibilidad de realizar Puntúa como movimientos con el pie izquierdo. La estructura lesionada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Nervio femoral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cauda equina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Nervio ciático",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Raíz nerviosa L5",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Raíz nerviosa S1 La luxofractura posterior de cadera suele lesionar el nervio ciático. Además, dicho nervio se encarga de la movilidad y sensibilidad por la cara posterior del muslo y por",
+        "correcta": false
+      }
+    ],
+    "justificacion": "debajo de la rodilla (tanto anterior, como posterior).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente de 85 años sufre una caída a nivel, resultando con imposibilidad de Sin contestar caminar e intenso dolor en la zona inguinal. Al examen físico se aprecia posición Puntúa como impúdica y no puede despegar el talón del suelo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Luxación anterior de cadera",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Luxación posterior de cadera",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Fractura de cadera",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Fractura de diá\u0000sis femoral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fractura de cotilo La posición impúdica (abducción, acortamiento y rotación externa) es característica de la fractura de cadera. También el mecanismo de caída a nivel y la imposibilidad",
+        "correcta": false
+      }
+    ],
+    "justificacion": "de levantar el talón del suelo. La luxación posterior, en cambio, tiene posición púdica (aducción, acortamiento y rotación interna). La luxación anterior sí puede tener posición impúdica, pero no se produce por caída a nivel, sino por abducción forzada.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente sufre un accidente laboral, al caer en una zanja, mientras se Sin contestar desempeñaba como trabajador agrícola. Resulta con fractura expuesta del fémur Puntúa como derecho. Al examen se constata una herida de 7 cm de diámetro, con abundantes 1,00 restos de tierra y vegetales. No hay compromiso nervioso ni vascular. ¿Cuál de las siguientes alternativas está MENOS indicada en este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar aseo inmediato con abundante suero \u0000siológico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar la vacuna antitetánica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar cefazolina, gentamicina y metronidazol por vía endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Inmovilizar con una valva de yeso cerrada, compresiva",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Una vez estabilizado y realizado el manejo inicial, debe ser derivado para resolución quirúrgica de\u0000nitiva Tiene una fractura expuesta grado III (por los restos vegetales y por ocurrir en zona agrícola). Se trata con aseo con suero, antibióticos, AINEs, vacunación antitetánica",
+        "correcta": false
+      }
+    ],
+    "justificacion": "y \u0000nalmente aseo quirúrgico, con reducción y osteosíntesis. Si se traslada, debe hacerse con valvas abiertas (para evitar el síndrome compartimental) y largas (para mejorar la inmovilización y reducir el dolor).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "El tratamiento antibiótico empírico de elección en la osteomielitis aguda Sin contestar hematógena, mientras no se cuente con un estudio de sensibilidad, en la actualidad, Puntúa como es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Vancomicina más cefepime",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Penicilina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cloxacilina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Ceftriaxona + metronidazol",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cefazolina + metronidazol El manejo de la osteomielitis es distinto, según se trate de una osteomielitis hematógena (como en este caso, que no tiene una causa aparente) o se trate de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "una osteomielitis por contigüidad (ej. fractura expuesta, pie diabético). - La hematógena se trata con antibióticos endovenosos, ajustados por antibiograma y, si queda tejido infectado residual, se realiza debridamiento quirúrgico. - La por contigüidad se trata con debridamiento quirúrgico (amputación en los casos más graves), más antibióticos, ajustados por antibiograma. * Aunque el S. aureus sensible es el agente más frecuente, actualmente, mientras no se haya aislado el agente, se recomienda dejar cobertura para gram positivos, con cobertura para SAMR y para gram negativos. Ejemplo: Vancomicina + cefepime. Una vez se tiene el antibiograma, se ajusta el tratamiento.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente de 40 años consulta por dolor cervical intenso, que inició luego de Sin contestar levantar a su hija. El dolor se irradia a la mano izquierda y le impide realizar Puntúa como movimientos con el cuello. Al examen físico no presenta dé\u0000cit nervioso. La 1,00 conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar ecografía cervical e iniciar analgésicos y reposo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar resonancia magnética nuclear e iniciar analgésicos y reposo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar analgésicos y reposo relativo",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar uso de collar cervical por riesgo de lesión medular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar TAC de cuello e iniciar analgésicos y reposo Tiene una cervicobraquialgia aguda mecánica clásica, sin signos de alarma (la simple irradiación del dolor a la extremidad superior no es signo de alarma). No requiere exámenes y se trata con reposo relativo, AINES y en una segunda instancia,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "se indica ejercicios de fortalecimiento del dorso y cuello. Si hubiese tenido signos de alarma (dé\u0000cit neurológico, dolor mayor a 6 semanas, \u0000ebre, antecedente de trauma, etc.) se debería pedir una resonancia magnética nuclear.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Una dueña de casa presenta dolor intenso en el codo, en especial al palpar la zona Sin contestar de inserción de los músculos \u0000exores del antebrazo. El diagnóstico es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Epitrocleítis",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Epicondilitis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tendinitis bicipital",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tendinitis tricipital",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tendinitis de Quervein La epitrocleítis o epicondilitis medial o codo del gol\u0000sta, tiene dolor en la zona medial del codo (en el epicóndilo medial), que es donde se insertan los \u0000exores. La epicondilitis o epicondilitis lateral o codo del tenista, tiene dolor en la zona de inserción de los extensores (epicóndilo lateral). Ambas se tratan con AINES, reposo relativo, KNT motora y la banda de descompresión. No es necesario pedir ningún examen, aunque ante la duda diagnóstica, podría usarse la ecografía (no sirven",
+        "correcta": false
+      }
+    ],
+    "justificacion": "radiografía, TAC ni se suele usar la RMN, salvo excepciones). - La tendinitis bicipital distal, duele en la zona media de la cara anterior del codo. - La tendinitis tricipital duele proximal al olécranon, ya que ahí se inserta el tendón del tríceps. - La tendinitis de Quervain duele en la zona lateral de la muñeca y base del pulgar.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente de 45 años presenta intenso dolor, de inicio súbito en el talón izquierdo, Sin contestar mientras jugaba fútbol, quedando con imposibilidad de realizar \u0000exión plantar con Puntúa como ese pie. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Rotura del tendón de Aquiles",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Lesión del nervio peroneo común",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lesión del nervio ciático",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fractura de calcáneo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fractura de astrágalo Es una rotura clásica del tendón de Aquiles: dolor súbito muy intenso (signo del piedrazo o del latigazo), con imposibilidad de \u0000ectar el pie (no puede pisar el acelerador). Suele ser de causa degenerativa. Se diagnostica con la clínica y se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "debe operar.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un paciente sufre varo forzado de la rodilla derecha, mientras hacía deporte, Sin contestar evolucionando con dolor en la rodilla. Al examen presenta dolor a la palpación de la Puntúa como zona lateral de la rodilla, en especial al realizar varo. La maniobra de Appley es 1,00 negativa. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lesión de menisco medial",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Lesión de menisco lateral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lesión de ligamento cruzado anterior",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tendinitis de la pata de ganso (tendinitis ansarina)",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Esguince de rodilla, con lesión del ligamento colateral lateral Es una lesión clásica del ligamento colateral lateral (LCL): mecanismo de varo forzado y dolor en la zona lateral. El tratamiento de primera línea suele ser",
+        "correcta": true
+      }
+    ],
+    "justificacion": "ortopédico, como casi todo esguince. - La lesión de meniscos se produce por mecanismos de torsión y tienen la maniobra de Appley positiva. - La lesión del ligamento cruzado anterior se produce por mecanismo de hiperextensión de la rodilla y tiene inestabilidad, con signo del cajón anterior.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un paciente presenta talalgia crónica, que aparece al caminar un par de cuadras. Sin contestar Los síntomas se han hecho más molestos en el último tiempo, por lo que decide Puntúa como realizarse una radiografía de pie, que muestra la presencia de un espolón calcáneo. 1,00 La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Resolver quirúrgicamente",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar Resonancia Magnética Nuclear de pie",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar calzado blando, plantillas de descarga y AINEs",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar in\u0000ltración local con corticoides",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Inmovilizar con bota corta removible El tratamiento de la talalgia, con y sin espolón calcáneo es igual: calzado cómodo y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "AINEs si está con mucho dolor.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Una niña de 3 meses de edad, nacida por cesárea por podálica, se realiza una Sin contestar radiografía AP de pelvis, la que se muestra en la siguiente imagen (fuente: Puntúa como https://commons.wikimedia.org/wiki/File:R%C3%B6-schwere_HD-re.jpg): La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar correas de Pavlik",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar uso de doble pañal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar yeso pelvipedio",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Resolver quirúrgicamente Tiene una luxación congénita de la cadera izquierda o displasia de cadera. Por tener 3 meses (menos de 10 meses), el tratamiento de elección es el arnés de Pavlik o",
+        "correcta": false
+      }
+    ],
+    "justificacion": "correas de Pavlik.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Dos semanas después de haber sufrido una fractura de pierna, un paciente de 80 Sin contestar años presenta intenso dolor, con alodinia marcada. Se observa adelgazamiento de Puntúa como la piel de la pierna afectada y en la radiografía hay signos de osteoporosis con 1,00 lesiones en sacabocado. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Distro\u0000a simpático re\u0000eja",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Osteomielitis aguda",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Mieloma múltiple",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Osteosarcoma",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Metástasis óseas Es una distro\u0000a simpático-re\u0000eja clásica (o atro\u0000a ósea de Suddeck o síndrome de dolor regional complejo). Se caracteriza por dolor tipo neuropático (alodinia, urente), más cambios tró\u0000cos en la piel y fanéreos, más lesiones óseas en sacabocado (osteoporosis moteada). Se trata con analgesia (ej. AINEs) y estabilizadores del dolor (gabapentina, pregabalina, tricíclicos). Para la osteoporosis, sirven los",
+        "correcta": false
+      }
+    ],
+    "justificacion": "bifosfonatos.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "La complicación más frecuente de las fracturas del astrágalo es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Artrosis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Necrosis avascular",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Infección",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trombosis venosa profunda",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Consolidación viciosa Las fracturas de cuello femoral, de escafoides y de astrágalo se complican con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "necrosis avascular.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "¿Qué estructura se daña más frecuentemente en la luxación anterior de hombro?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Nervio radial",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Nervio circun\u0000ejo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Arteria circun\u0000eja anterior",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Arteria circun\u0000eja posterior",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Nervio mediano Se daña el nervio circun\u0000ejo o axilar. También se pueden dañar las arterias",
+        "correcta": false
+      }
+    ],
+    "justificacion": "circun\u0000ejas, pero lo más frecuente es el nervio axilar.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente sufre una inversión forzada del tobillo izquierdo mientras trotaba. Sin contestar Evoluciona con intenso dolor con los movimientos del pie. Al examen físico se Puntúa como aprecia equimosis del área inframaleolar externa e inestabilidad del tobillo. Se 1,00 solicitan radiografías de tobillo, que resultan normales. Se administran analgésicos y se eleva la extremidad. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Resolver quirúrgicamente",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar ejercicios de caminata",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Inmovilizar con bota ortopédica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar punción articular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar resonancia magnética nuclear Tiene un esguince de rodilla grado 3. No tiene fractura, porque las radiografías están normales y es un esguince grado 3, porque tiene inestabilidad. Se debe inmovilizar, ya sea con un yeso o con una bota removible (idealmente con esta última). Además,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "debe recibir AINEs, frío local y reposo.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un niño de 12 años presenta aumento de volumen y dolor en la pierna derecha. Al Sin contestar examen físico se aprecia aumento de volumen, en relación a la diá\u0000sis de la tibia. Se Puntúa como solicita una radiografía de pierna que muestra un tumor óseo de 7 cm de diámetro 1,00 mayor, con áreas líticas y compromiso del hueso cortical, de aspecto heterogéneo y con reacción perióstica en “tela de cebolla”. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Metástasis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Sarcoma de Ewing",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Osteomielitis crónica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Osteoma osteoide",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Osteocondroma Tiene aspecto maligno (heterogéneo, disrupción de la cortical, reacción perióstica compleja). Además, por ser un niño y estar localizado en la diá\u0000sis, lo más probable",
+        "correcta": false
+      }
+    ],
+    "justificacion": "es que sea un sarcoma de Ewing. - Las metástasis suelen ser múltiples y tener sintomatología del cáncer de base. - La osteomielitis es una lesión lítica y tiene \u0000ebre y dolor, aunque puede ser indistinguible de un sarcoma de Ewing, sin una resonancia magnética. - El osteoma osteoide y el osteocondroma son benignos y por tanto tienen aspecto benigno. - El esteosarcoma (no está en las opciones) puede ser muy similar, pero suele ubicarse en metá\u0000sis o epí\u0000sis (a diferencia del Sarcoma de Ewing que afecta las diá\u0000sis) y se da en adultos mayores, aunque también en adolescentes entre 13 y 16 años.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente de 30 años, con antecedente de promiscuidad sexual consulta por Sin contestar dolor en relación al codo derecho y a la rodilla izquierda. Al examen físico se aprecia Puntúa como febril (t°: 38,8°C), con eritema dolor y signos de derrame articular de las 1,00 articulaciones descritas. Se realiza punción articular, que demuestra un líquido in\u0000amatorio, con presencia de cocáceas Gram negativas intracelulares. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar cipro\u0000oxacino oral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar cloxacilina oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar ceftriaxona endovenosa y realizar drenaje articular quirúrgico",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar cloxacilina endovenosa y realizar drenaje articular quirúrgico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar ceftriaxona endovenosa Tiene una artritis séptica por Neisseria gonorrhoeae (gonococo). Se trata con ceftriaxona endovenosa, más drenaje quirúrgico de la articulación. Vale la pena recordar que la uretritis por gonorrea se trata con ceftriaxona intramuscular, en una",
+        "correcta": false
+      }
+    ],
+    "justificacion": "dosis.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente sufre una caída en bicicleta, golpeándose el hombro izquierdo contra el Sin contestar suelo. Evoluciona con dolor importante, en especial a los movimientos del hombro. Puntúa como Al examen físico se aprecia dolor en la zona acromio-clavicular y signo de la “tecla 1,00 de piano”. El diagnóstico es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Luxación anterior de hombro",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Luxación posterior de hombro",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Disyunción acromioclavicular",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Fractura de clavícula",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fractura de escápula Es una disyunción o luxación acromioclavicular (DAC) clásica: dolor en la unión",
+        "correcta": false
+      }
+    ],
+    "justificacion": "acromioclavicular. En este caso está desplazada, por el signo de la tecla de piano. - Tanto las luxaciones de hombro, como la fractura de clavícula se producen por el mismo mecanismo (caída a nivel, con golpe en el hombre), pero la luxación anterior tiene signo de la charretera y dolor en la articulación glenohumeral. La luxación posterior es más inespecí\u0000ca, pero no afecta la unión acromioclavicular y suele quedar con el brazo en aducción y rotación interna (parecido a la posición púdica de la luxación posterior de cadera, solo que acá es del húmero) y la apó\u0000sis coracoides se vuelve prominente. - La fractura de clavícula puede tener signo de la tecla de piano, pero tendría crépito óseo, dolor a la palpación de la clavícula u otro signo de fractura (aunque en realidad las fracturas de la zona distal de la clavícula pueden ser indistinguibles de una DAC. - Las fracturas de escápula son por golpes en la espalda (habitualmente directo y sugieren maltrato infantil). Tienen dolor en el dorso (donde está la escápula.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un paciente presenta cervicalgia aguda, luego de realizar deporte. El dolor es muy Sin contestar intenso, irradiándose por la cara anterolateral de la extremidad superior derecha, Puntúa como hasta el pulgar. Al examen físico se aprecia limitación de la movilidad cervical, por 1,00 el dolor. La sensibilidad y la movilidad de la mano y el brazo están conservadas. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar reposo relativo y AINES y controlar de modo ambulatorio",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar AINES y reposo y solicitar ecografía cervical",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar AINES y reposo y solicitar RMN de columna cervical",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar AINES y reposo y solicitar radiografía de columna cervical",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hospitalizar y resolver quirúrgicamente Tiene una cervicobraquialgia aguda mecánica clásica, sin signos de alarma (la simple irradiación del dolor a la extremidad superior no es signo de alarma). No requiere exámenes y se trata con reposo relativo, AINES y en una segunda instancia,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "se indica ejercicios de fortalecimiento del dorso y cuello. SI hubiese tenido signos de alarma (dé\u0000cit neurológico [afectación de la sensibilidad, movilidad o re\u0000ejos], dolor mayor a 6 semanas, \u0000ebre, antecedente de trauma, etc.) se debería pedir una resonancia magnética nuclear.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente sufre una fractura segmentaria de la diá\u0000sis humeral, la que es Sin contestar hospitalizada para cirugía. En espera de pabellón, evoluciona con dolor mucho más Puntúa como intenso que el inicial, en especial a la \u0000exión y extensión pasiva del codo. Se aprecia 1,00 edema y dolor del brazo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trombosis venosa profunda",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome compartimental",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Lesión del nervio radial",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Distro\u0000a simpático re\u0000eja",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Lesión de la arteria braquial Es un síndrome compartimental clásico: dolor intenso, que aumenta al estiramiento pasivo distal, más edema (puede tener disminución del pulso), que ocurre al poco tiempo de una fractura. La TVP habría empezado algunos días después y puede tener edema y dolor, pero que aumenta al palpar las masas musculares y al dorsi\u0000ectar el pie (signo de Homans). La lesión del nervio radial tendría imposibilidad de extender la muñeca y los dedos, con afectación de la sensibilidad de la zona posterior de la extremidad. La distro\u0000a simpático-re\u0000eja puede tener edema y dolor, que aumenta al estiramiento distal, pero ocurre algunas semanas",
+        "correcta": false
+      }
+    ],
+    "justificacion": "después y tiene dolor neuropático, asociado a cambios tró\u0000cos de la piel y huesos. La lesión de la arteria braquial tendría dolor (pain), palidez, pulso ausente, paresia, parestesia y poiquilotermia (frialdad), es decir, las 6P.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un paciente sufre una caída de una escalera, cayendo apoyado sobre la extremidad Sin contestar superior izquierda, en extensión, evolucionando con intenso dolor en el codo, que Puntúa como impide cualquier movimiento y deformidad notable. Se solicitan radiografías de 1,00 codo que se muestran a continuación (fuente: https://drreyesjacome- spine.com/2020/12/11/...). El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fractura de cúpula radial",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fractura suprancondílea de húmero",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Luxación de codo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fractura de olécranon",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fractura de apó\u0000sis coronoides Tanto por la clínica (dolor intenso, deformación y equimosis en la fosa cubital), como por la radiografía, tiene una fractura supracondílea de húmero (del húmero",
+        "correcta": false
+      }
+    ],
+    "justificacion": "distal). Suelen ser bastante complicadas, por lo que siempre se deben operar.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente consulta por debilidad para tomar cosas con los dedos anular y Sin contestar meñique izquierdos, asociado a parestesias en dichos dedos. El diagnóstico más Puntúa como probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Atrapamiento cubital",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Atrapamiento radial",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Atrapamiento del mediano",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dedos en gatillo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Retracción isquémica de Volkman Es un atrapamiento cubital clásico: parestesias y debilidad en la \u0000exión del 4° y 5°",
+        "correcta": false
+      }
+    ],
+    "justificacion": "dedos.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "¿Qué alteración haría sospechar una lesión del nervio axilar en un paciente con una Sin contestar luxación anterior de hombro?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Imposibilidad de \u0000ectar el codo y anestesia en la cara anterior del brazo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Imposibilidad de extender el codo y anestesia en la cara posterior del brazo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Imposibilidad de abducir el hombro y anestesia en la zona deltoidea",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Imposibilidad de \u0000ectar la muñeca y anestesia en la cara anterior del antebrazo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Imposibilidad de extender la muñeca y anestesia en la cara posterior del antebrazo El nervio axilar inerva la piel sobre el deltoides y además inerva al deltoides mismo,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que abduce el hombro. La B y la E son lesiones del nervio radial. La D es lesión del nervio mediano (no la clásica).",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "¿Cuál de las siguientes opciones le da un peor pronóstico a un paciente con una Sin contestar fractura expuesta?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Tiempo de evolución de 7 horas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Mecanismo por bala",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Presencia de tierra y restos vegetales en la herida",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Sección neurovascular",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Herida de 5 cm de largo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "La afectación neurovascular es mal pronóstico (grado III C). Los restos vegetales, la evolución mayor de 6 horas, la etiología por arma de fuego y una herida mayor a 10 cm, todas son indicador de gravedad (grado III), pero ninguna es tan grave como la sección neurovascular.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "¿Cuál de las siguientes acciones debe realizarse en primer lugar ante un paciente Sin contestar politraumatizado?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar radiografía de pelvis, tórax y cuello",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Instalar vía venosa periférica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Poner collar cervical",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar TAC de cerebro",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar una completa y detallada anamnesis y examen físico El tratamiento del paciente politraumatizado es el ABC. A: vía aérea y collar cervical; B: ventilación; C: vía venosa, suero y compresión de las heridas; D: buscar dé\u0000cit",
+        "correcta": false
+      }
+    ],
+    "justificacion": "neurológico; E: exponer.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente es atropellado, resultando con una fractura de pelvis desplazada. Sin contestar Evoluciona con hipotensión y taquicardia. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar suero \u0000siológico endovenoso y realizar laparotomía de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar suero \u0000siológico y observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar suero \u0000siológico y realizar colonoscopía de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar suero \u0000siológico y realizar reducción cerrada de la fractura, con férula neumática",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar suero \u0000siológico y realizar sin\u0000ciotomía púbica de urgencia Tiene una fractura de pelvis, complicada por un shock hipovolémico. Habitualmente es por rotura de las venas pélvicas y el tratamiento consiste en reponer \u0000uidos y estabilizar la fractura de manera externa (con férula neumática, tutores externos, hamaca pélvica, o por último una sábana, si es que no están disponibles los demás",
+        "correcta": false
+      }
+    ],
+    "justificacion": "elementos. Sin embargo, es importante aclarar que actualmente se recomienda hacer una ecografía de urgencia (Eco FAST), en especial si hay trauma abdominal asociado, de manera de poder identi\u0000car causas abdominales de hemorragia y shock y, si están presentes (ej. líquido libre y abundante en el peritoneo, que sugiera un hemoperitoneo), se procede a la laparotomía exploradora.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente de 20 años recibe un pelotazo en la mano derecha, con hiperextensión Sin contestar del dedo medio. Evoluciona con intenso dolor, aumento de volumen y equimosis en Puntúa como relación a la articulación interfalán\u0000ca proximal de dicho dedo. La conducta más 1,00 adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar radiografía",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar ecografía",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar inmovilizador de dedo, sin necesidad de imágenes",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar reposo, analgésicos y AINEs, sin necesidad de imágenes",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar kinesioterapia motora del dedo Lo más probable es que sufrió un esguince de dedo, pero es obligatorio descartar",
+        "correcta": false
+      }
+    ],
+    "justificacion": "las fracturas, con una radiografía, dado que tiene equimosis y dolor.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un niño de 7 años presenta dolor inguinal desde hace un par de semanas, que ha Sin contestar ido aumentado, hasta producir cojera. Al examen se produce dolor al realizar Puntúa como movimientos de la cadera izquierda. El diagnóstico más probable y la conducta más 1,00 adecuada son respectivamente:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Epi\u0000siolisis de la cabeza femoral y solicitar radiografía de cadera",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Enfermedad de Perthes y solicitar radiografía de cadera",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Sinovitis transitoria y observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Artritis séptica y realizar punción articular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sarcoma de Ewing y solicitar radiografía de pelvis Es un niño que claudica, lo que puede ser causado por muchas patologías. De",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hecho, para diferenciarlas, el examen de primera línea es la radiografía. Por la edad, entre 5 y 10 años y, en especial por lo prolongado de los síntomas, lo primero a pensar es una enfermedad de Perthes. - La epi\u0000siolisis suele ocurrir entre los 12 y 15 años. - La sinovitis, entre los 2 y 5 años y sus síntomas suelen durar solo una semana. - La artritis séptica tiene \u0000ebre y signos in\u0000amatorios. - El sarcoma de Ewing suele afectar a los adolescentes y niños y suele ubicarse en las diá\u0000sis óseas, aunque también puede estar en la pelvis y en cualquier lugar (incluso partes blandas) a cualquier edad, en realidad. Sin embargo, es mucho más raro.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un niño de 4 años presenta pie plano bilateral. Se aprecia que el arco plantar Sin contestar aparece al levantar el pie, pero que desaparece al pisar. La conducta más adecuada Puntúa como es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar plantillas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar radiografía de pie",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar resonancia magnética nuclear de pie",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Derivar a traumatología infantil Es un pie plano \u0000exible (se forma el arco plantar). Se considera algo normal, por lo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que se debe observar. Si tuviese dolor, se pueden indicar las plantillas de descarga. Si fuera rígido (no se forma el arco, ni siquiera con las maniobras de extensión de los ortejos) o tuviese dolos, se debe derivar. El pie cavo se debe derivar (ej. puede ser un pie bot residual).",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un lactante de 4 meses de edad no ha realizado adecuadamente sus controles Sin contestar pediátricos. Su examen físico es completamente normal. ¿Qué examen Puntúa como recomendaría que se realizara para detectar la presencia de displasia de cadera?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ninguno",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Radiografía AP de pelvis",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Radiografías AP y axial de cadera izquierda y cadera derecha",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Ecografía de caderas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Resonancia magnética de caderas El examen de elección para el screening de displasia de cadera es la ecografía de caderas al mes de vida (es el mejor examen entre el nacimiento y los 4 meses). Sin embargo, desde los 3 - 4 meses la radiografía AP de pelvis pasa a ser el examen de elección, en especial en Chile, en que la normativa obliga a hacer una radiografía de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "pelvis a los 3 meses, como screening a todo niño. El diagnóstico precoz es fundamental, ya que permite un tratamiento sencillo con correas de Pavlik. En cambio, después de los 10 meses se debe evaluar la cirugía o la inmovilización con yesos.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Un paciente presenta una fractura de húmero, la que es manejada ortopédicamente Sin contestar con yeso y posteriormente con un cabestrillo. Usted lo controla 2 meses después ya Puntúa como casi sin dolor, pero se aprecia movilidad anormal en el tercio medio del brazo, por lo 1,00 que solicita una radiografía que muestra psudoartrosis con extremos óseos en “pata de elefante”, con interposición de partes blandas. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Retirar el cabestrillo y observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Resolver quirúrgicamente",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Inmovilizar nuevamente con valva de yeso",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar kinesioterapia motora",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar resonancia magnética nuclear La pseudoartrosis o no unión requiere de cirugía, ya que las partes blandas que se interponen entre los extremos óseos impiden completamente la consolidación. A grandes rasgos, la cirugía consiste en remover las partes blandas y tratar la causa de base. Vale la pena mencionar que, en este caso, se trata de una pseudoartrosis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hipertró\u0000ca, causada por una mala inmovilización. La clásica excepción, que no se opera, es la espondilolisis, en que se separa el cuerpo vertebral de la lámina vertebral, pero las estructuras ligamentosas son su\u0000cientes para mantener la estabilidad.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Un paciente sufre una caída a nivel, golpeándose el hombro contra el suelo. Sin contestar Presenta importante dolor e impotencia funcional, por lo que se solicita una Puntúa como radiografía que muestra una luxación anterior de hombro. No se evidencian lesiones 1,00 óseas y el examen no muestra alteraciones neurovasculares. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Resolver quirúrgicamente de inmediato",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar ejercicios y AINEs",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Reducción cerrada e inmovilización con cabestrillo bloqueado",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar reposo y AINEs",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar TAC de hombro y decidir conducta según resultado La luxación de hombro se trata con reducción cerrada y posterior inmovilización con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "un inmovilizador de hombro. Si recurre, se debe tratar quirúrgicamente. Ninguna de las técnicas de reducción ha demostrado ser mejor que las otras. Tampoco los distintos tipos de inmovilización han demostrado superioridad.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente de 70 años sufre una caída a nivel, resultando con una fractura de Sin contestar cadera derecha, de tipo intertrocantérica, no desplazada (Tronzo 2). ¿Cuál de las Puntúa como siguientes alternativas es mejor para el manejo de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Yeso pelvipedio",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Reposo absoluto en cama, sin necesidad de inmovilizar",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Osteosíntesis con tornillo dinámico",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Prótesis parcial de cadera",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Prótesis total de cadera La fractura de cadera siempre se trata con cirugía. Sin embargo, la cirugía varía según el tipo de fractura. La regla general es la osteosíntesis, con tornillo dinámico de cadera (DHS), en las intertrocantéricas y con un tornillo canulado, en las fracturas de cuello femoral. Si, en cambio, hay necrosis avascular o un riesgo demasiado alto de necrosis avascular (mayor de 65 años, con fractura de cuello desplazada), se indica la prótesis parcial de cadera. Si además hay daño en el cotilo,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "se indica la prótesis total de cadera. Eso sí, hay quienes pre\u0000eren conservar la cadera original siempre y solo indican las prótesis si es que se produce efectivamente la necrosis avascular o si existe alguna otra indicación de reemplazo articular (ej. artrosis severa).",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "¿Cuál de las siguientes fracturas puede ser considerada osteoporótica?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fractura de muñeca",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Fractura de clavícula",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Fractura de pierna",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fractura de tobillo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fractura de antebrazo Las fracturas causadas por la osteoporosis son: vertebrales, muñeca, cadera y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "subcapital de húmero.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un niño de 13 años presenta cojera desde hace 2 semanas, que ha ido en aumento. Sin contestar Además, presenta dolor en la ingle y el muslo derecho. Al examen físico se aprecia Puntúa como en buenas condiciones generales y presenta dolor con los movimientos de la cadera 1,00 derecha. El resto del examen físico es normal. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Epi\u0000siolisis de la cabeza femoral",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Sinovitis transitoria",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Enfermedad de Perthes",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Necrosis avascular de la cabeza femoral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome de Osgood Schlatter Salvo la enfermedad de Osgood Schlatter, que produce dolor en la rodilla (en la inseción del tendón rotuliano), todas las opciones producen dolor en la cadera, por",
+        "correcta": false
+      }
+    ],
+    "justificacion": "lo que la diferencia la hace la edad. - La epi\u0000siolisis de la cabeza femoral suele afectar a niños entre 12 y 15 años, de preferencia obesos. - La sinovitis transitoria suele mejorar en una semana y afecta a niños entre 2 y 5 años, aunque puede ser en mayores. - La enfermedad de Perthes afecta a niños entre 5 y 10 años (rango puede ser más amplio: 3 a 12 años) y sus síntomas son insidiosos y persistentes. - La necrosis avascular de la cabeza femoral afecta a adultos, en especial, a usuarios de corticoides y a alcohólicos.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un hombre de 18 años sufre una caída de altura, cayendo con apoyo de las Sin contestar extremidades superiores. Presenta gran dolor en relación al codo derecho, con Puntúa como equimosis en la fosa cubital. Se solicita una radiografía que se muestra a 1,00 continuación: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fractura supracondílea de húmero",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Fractura de apó\u0000sis coronoides",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Luxación de codo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fractura de olécranon",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fractura de cúpula radial Tanto, por la clínica, como por la imagen, se trata de una fractura supracondílea de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "húmero.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente de 32 años presenta torsión de rodilla derecha mientras jugaba fútbol. Sin contestar Evoluciona con intenso dolor y di\u0000cultades para caminar. Al examen físico presenta Puntúa como dolor en la cara medial de la rodilla derecha e inestabilidad, con signo del bostezo. 1,00 La maniobra de Appley es negativa. La radiografía descarta lesiones óseas. La conducta más adecuada para el manejo de la patología descrita es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar analgésicos y kinesioterapia motora, con ejercicios de fortalecimiento de cuádriceps",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar analgésicos y solicitar nueva radiografía en 2 semanas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar artrocentesis y administrar corticoides intraarticulares",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar analgésicos e inmovilizar la rodilla",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Resolver quirúrgicamente Falta la resonancia magnética para con\u0000rmar la lesión ligamentosa y descartar la lesión meniscal (aunque la maniobra de Appley negativa sugiere que los meniscos están indemnes). Sin embargo, la clínica es muy sugerente de una lesión del ligamento colateral medial, en este caso, grado III, por el signo de bostezo, que da cuenta de una sección completa. Generalmente, se trata con manejo ortopédico (inmovilizador de rodilla), más analgésicos (al igual que todo esguince, puesto que",
+        "correcta": false
+      }
+    ],
+    "justificacion": "es un esguince).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente sufre un accidente en bicicleta, resultando con una fractura de pierna Sin contestar izquierda, la que es manejada de manera quirúrgica. Consulta dos semanas Puntúa como después por aumento del dolor. Al examen físico se aprecia edema de la 1,00 extremidad, con dolor a la palpación de las masas musculares y eritema. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome compartimental",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Distro\u0000a simpático re\u0000eja",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lesión de la arteria poplítea",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trombosis venosa profunda",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Embolia grasa Es una TVP clásica, tanto por el tiempo de evolución (suele iniciar desde el día 2, hasta la consolidación completa), como por la clínica clásica: dolor que aumenta al",
+        "correcta": false
+      }
+    ],
+    "justificacion": "palpar las masas musculares, más edema y eritema o coloración cianótica. La distro\u0000a simpático-re\u0000eja puede tener dolor, edema y eritema, pero además tiene cambios tró\u0000cos en la piel o hueso (osteoporosis moteada), más un dolor de tipo neuropático (urente, con alodinia). El síndrome compartimental suele ocurrir a las pocas horas de la fractura. La lesión arterial también es aguda y se caracteriza por las 6P (pain, paresia, parestesia, palidez, poiquilotermina y pulso ausente). La embolia grasa tiene distrés respiratorio, rash petequial y compromiso de conciencia.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Una paciente presenta di\u0000cultad progresiva para extender el 4° dedo derecho, de 2 Sin contestar años de evolución, el que aumenta hasta la situación que se muestra en la Puntúa como fotografía y que no ha cedido con AINEs ni ejercicios: La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar TAC de dedo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Resolver quirúrgicamente",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar electromiografía",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Educar, en especial sobre cesar totalmente el consumo de alcohol",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar corticoides orales Tiene un “dedo en gatillo” o “dedo en resorte” clásico. Se produce por atrapamiento",
+        "correcta": false
+      }
+    ],
+    "justificacion": "del tendón del \u0000exor profundo de los dedos. Su diagnóstico es clínico. Su tratamiento en agudo suele seguir el siguiente orden: 1. AINEs y férula en mínima \u0000exión por 4-6 semanas, 2. corticoides inyectados localmente y 3. resolución quirúrgica. En resumen, actualmente se recomienda intentar manejo conservador antes de la cirugía. Sin embargo, de las opciones, la única aceptable es la cirugía. El alcohol se correlaciona con la contractura de Dupuytren.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Actualmente, el tratamiento de primera línea de la artritis séptica es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Vancomicina endovenosa más drenaje quirúrgico",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Drenaje quirúrgico solo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Ceftriaxona endovenosa más drenaje quirúrgico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Gentamicina local",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cefazolina más gentamicina más metronidazol por vía endovenosa El tratamiento de la artritis séptica (AS) consiste en antibióticos endovenosos, ajustados por antibiograma, más drenaje quirúrgico, idealmente por vía artroscópica. Generalmente son por S. aureus, por lo que, al no dar más información",
+        "correcta": false
+      }
+    ],
+    "justificacion": "la pregunta, se asume que se trata de una artritis séptica de las más frecuentes. Cuando son por Staphilococcus aureus (lo más frecuente), si bien el tratamiento inicial históricamente ha sido la cloxacilina u otro betalactámico con acción antiesta\u0000locócica, dado el aumento de la prevalencia de esta\u0000lococos resistentes, actualmente se pre\u0000ere iniciar con vancomicina y cambiar el antibiótico, una vez que se tenga el estudio de susceptibilidad. Si en el Gram se ven cocáceas Gram negativas, se asume que es por gonococo y el antibiótico es ceftriaxona. Si en el Gram se ven bacilos Gram negativos, se debe cubrir pseudomona, con dos antibióticos idealmente.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un paciente de 34 años consulta por dolor en relación en el muslo derecho, en Sin contestar especial en la noche, que cede con AINEs. Se solicita una radiografía, que muestra Puntúa como una lesión ósea en el cuello femoral de 1 cm de diámetro, en relación al hueso 1,00 cortical. Respeta a este último y está bien delimitado, con una zona redondeada radiolúcida en su interior y rodeadea de un halo de hueso más radiopaco. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Quiste óseo simple",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Osteosarcoma",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Osteoma osteoide",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Osteocondroma",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tumor de células gigantes Es un osteoma osteoide clásico: aspecto benigno, radiolúcido, con halo radiopaco, en ubicación cortical. Además, es característico que duela más en la noche y que",
+        "correcta": false
+      }
+    ],
+    "justificacion": "disminuya el dolor con los AINEs. Suele afectar mayormente a hombres jóvenes. El quiste óseo simple se ve como una lesión radiolúcida, pero sin halo radiopaco y generalmente sin dolor. El osteocondroma tiene una forma polipoidea y generalmente no tiene síntomas. El tumor de células gigantes es localmente agresivo y produce dolor, sin embargo, se ve de aspecto radiolúcido o heterogéneo y suele afectar a hombres de edad media (40 - 50 años).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente de 30 años consulta por dolor en la rodilla derecha, que aparece al Sin contestar caminar y al hacer ejercicio. Se constata dolor a los movimientos de rotación Puntúa como externa en la rodilla, en posición semi\u0000ectada y la maniobra de Appley es dolorosa, 1,00 en especial en rotación externa. ¿Qué examen es más adecuado para proseguir con el estudio?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Radiografía",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ecografía",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tomografía",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Resonancia magnética",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Contigrafía La clínica sugiere una lesión del menisco interno (duele la maniobra de Appley a la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "rotación externa). Se estudia con resonancia magnética nuclear.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente presenta dolor lumbar irradiado a la extremidad derecha, que inició Sin contestar luego de realizar esfuerzo físico. Se constata debilidad para extender los ortejos y Puntúa como disminución de la sensibilidad del primer ortejo y el dorso del pie. Los re\u0000ejos 1,00 osteotendíneos son normales. La raíz nerviosa afectada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "L1",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "L2",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "L4",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "L5",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "S1",
+        "correcta": false
+      }
+    ],
+    "justificacion": "L1 inerva la zona inguinal. L2 inerva la cara anterior y medial del muslo y algo afecta el re\u0000ejo rotuliano. L4 inerva la zona lateral y anterior del muslo y luego la cara medial de la pierna, hasta el maléolo medial. Junto con L2 y L3, inervan el cuádriceps (extienden la rodilla) y afectan el re\u0000ejo rotuliano. Además, dorsi\u0000ecta el pie. L5 inerva la cara posterior del muslo y luego la cara anterior de la pierna, el empeine. No afecta ningún re\u0000ejo. Extiende los ortejos, en especial, el primero. S1 afecta la cara posterior del muslo y pierna, más la planta del pie y la zona lateral del pie. Afecta el re\u0000ejo aquileano.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente presenta una fractura de húmero, la que se maneja ortopédicamente, Sin contestar con cabestrillo bloqueado. Tres meses después, evolucionan con clara disminución Puntúa como del dolor, sin embargo, presenta movilidad anormal en el tercio medio del brazo. Se 1,00 solicita una radiografía de brazo, que muestra el foco de fractura con material radiolúcido entre los extremos óseos, que se aprecian hipertró\u0000cos, “en pata de elefante”. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mala unión",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Pseudoartrosis",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Osteommielitis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Retraso en la consolidación",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Atro\u0000a ósea de Suddeck Tiene una no unión o pseudoartrosis clásica, en la que las partes blandas se interponen entre los extremos de la fractura, por lo que ya no consolida y se presenta movilidad anormal en la zona, habitualmente ya sin dolor. En este caso, además, es de tipo hipertró\u0000ca (por los extremos en “pata de elefante”), producida",
+        "correcta": false
+      }
+    ],
+    "justificacion": "por una mala inmovilización. - La mala unión, en cambio, sí consolida, pero con desviación, por lo que hay deformación e impotencia funcional, también sin dolor, pero sin movilidad, puesto que ya consolidó. - La osteomielitis presenta dolor, \u0000ebre y signos in\u0000amatorios. - El retraso en la consolidación persiste con dolor por un tiempo mayor al normal, ya que el proceso de consolidación está retrasado, pero avanzando. - La atro\u0000a ósea de Suddeck o distro\u0000a simpático-re\u0000eja se caracteriza por dolor tipo neuropático, asociado a cambios tró\u0000cos de piel y fanéreos (ej. caída de los vellos o cambios en el grosor o color de la piel), más osteoporosis \"moteada\".",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Una paciente de 68 años, presenta una caída a nivel, con golpe en el costado Sin contestar derecho. Presenta imposibilidad de pararse y de levantar el talón derecho. Al Puntúa como examen físico está recostada, en la posición que se observa en la fotografía. Mueve 1,00 normalmente la extremidad izquierda. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fractura de pelvis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fractura de cadera",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Luxación posterior de cadera",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Necrosis avascular de la cabeza femoral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Rotura del tendón Rotuliano",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Está en posición púdica, lo que es característico de la luxación posterior de cadera.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente de 35 años sufre un accidente laboral, sufriendo un aplastamiento de Sin contestar algunos dedos de la mano izquierda, con una máquina compresora. Al examen Puntúa como físico se aprecia herida contusa en los dedos índice y medio izquierdos, con escaso 1,00 sangrado y que permite observar el hueso de las falanges. La radiografía demuestra la presencia de fractura conminuta de ambos dedos. ¿Cuál de las siguientes opciones es la MENOS adecuada para el manejo inicial de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar antibióticos endovenosos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar aseo con abundante suero \u0000siológico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar analgésicos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar la vacuna antitetánica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar fasciotomía amplia Tiene una fractura expuesta, por lo que se debe manejar con todo lo indicado en las alternativas, excepto con la fasciotomía amplia, ya que esta es el manejo del síndrome compartimental. Además, es raro un síndrome compartimental en los",
+        "correcta": true
+      }
+    ],
+    "justificacion": "dedos.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente de 56 años consulta por dolor cervical, que inició luego de hacer Sin contestar ejercicios. El dolor inició de manera súbita y es muy intenso, limitando los Puntúa como movimientos del cuello y cediendo con el reposo. No presenta dé\u0000cit neurológico, ni 1,00 signos in\u0000amatorios. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar reposo relativo y analgésicos orales",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar una radiografía de cuello",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar una resonancia magnética nuclear de cuello",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar un TAC de cuello",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Resolver quirúrgicamente Tiene una cervicobraquialgia aguda mecánica clásica, sin signos de alarma (la simple irradiación del dolor a la extremidad superior no es signo de alarma). No requiere exámenes y se trata con reposo relativo, AINES y en una segunda instancia,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "se indica ejercicios de fortalecimiento del dorso y cuello. Si hubiese tenido signos de alarma (dé\u0000cit neurológico, dolor mayor a 6 semanas, \u0000ebre, antecedente de trauma, etc.) se debería pedir una resonancia magnética nuclear.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente sufre una caída a nivel, mientras jugaba basquetbol, resultando con un Sin contestar golpe en el hombro contra el suelo. Presenta dolor y di\u0000cultad en los movimientos, Puntúa como por lo que se solicita una radiografía, que muestra lo siguiente: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fractura de hombro",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fractura de clavícula",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Luxación anterior de hombro",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Disyunción acromioclavicular",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Contusión de hombro Tiene una disyunción acromioclavicular izquierda, ya que se aprecia que hay un aumento en el espacio acriomioclavicular, así como en el espacio entre la clavícula",
+        "correcta": false
+      }
+    ],
+    "justificacion": "y la escápula en general. La imagen mostrada es la clásica radiografía AP comparativa de hombros en una sola placa.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "¿Qué estructura se suele dañar, en asociación con la lesión mostrada en la Sin contestar radiografía?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Nervio axilar",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Arteria braquial",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Nervio radial",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Arteria circun\u0000eja",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Nervio cubital Tiene una luxación anterior de hombro, la que se asocia a lesión del nervio axilar o circun\u0000ejo. También puede lesionar las arterias circun\u0000ejas anterior y posterior, pero lo más frecuente es la lesión del nervio. La arteria braquial se lesiona en las fracturas supracondíleas de húmero. El nervio radial, en las fracturas de diá\u0000sis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "humeral. El nervio cubital, en las fracturas de codo.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "¿Cuál de las siguientes alteraciones tiene peor pronóstico en un paciente que sufre Sin contestar una fractura expuesta de antebrazo?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Causada por arma de fuego",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Contaminación con tierra y restos vegetales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Herida de 10 cm de largo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "6 horas de evolución al momento de la primera atención",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Pérdida signi\u0000cativa de las partes blandas",
+        "correcta": true
+      }
+    ],
+    "justificacion": "La afectación de partes blandas es de mal pronóstico (grado III B). Los restos vegetales, la evolución mayor de 6 horas, la etiología por arma de fuego y una herida mayor a 10 cm, y la evolución mayor a 6 horas todas son indicador de gravedad (grado III), pero ninguna es tan grave como la afectación de partes blandas (IIIB), ni la sección neurovascular (IIIC).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Un paciente sufre una torsión del tobillo izquierdo, mientras bajaba escaleras, Sin contestar evolucionando con intenso dolor. Al examen se aprecia equimosis en la zona medial Puntúa como del tobillo y dolor a los movimientos de inversión forzada, lo que lo hacen cojear. El 1,00 diagnóstico de sospecha es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Esguince de tobillo",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Fractura de tobillo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Luxación de tobillo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Contusión de tobillo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hemartrosis Es un esguince de tobillo clásico. Por el mecanismo, el dolor y la equimosis, también podría ser una fractura, por lo que hay que solicitar radiografías de tobillo, para descartarla. Sin embargo, la posibilidad de apoyar el pie y la ausencia de dolor",
+        "correcta": false
+      }
+    ],
+    "justificacion": "a la compresión ósea, hace mucho más probable que sea un simple esguince.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Las fracturas de cuello femoral tiene alto riesgo de:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome compartimental",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Pseudoartrosis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Embolia grasa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Necrosis avascular",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Lesión del nervio ciático",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Las fracturas que se complican con necrosis avascular son: 1. Escafoides, 2. Astrágalo y 3. Cadera, en especial las de cuello.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un niño de 4 años presenta pie plano bilateral. Se aprecia que el arco plantar Sin contestar aparece al levantar el pie, pero que desaparece al pisar. La conducta más adecuada Puntúa como es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar plantillas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar radiografía de pie",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar resonancia magnética nuclear de pie",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Derivar a traumatología infantil Tiene un pie plano \u0000exible, ya que se forma el arco al levantar el pie (o al",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hiperextender uno o más ortejos). Por tanto, se debe observar evolución. Si hubiese tenido dolor al pisar, estarían indicadas las plantillas. Si fuera rígido (nunca se forma el arco), estaría indicado derivar al especialista.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un paciente es atropellado, resultando con una fractura de pelvis desplazada. Sin contestar Evoluciona con hipotensión y taquicardia. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar suero \u0000siológico endovenoso y realizar laparotomía de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar suero \u0000siológico y observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar suero \u0000siológico y realizar colonoscopía de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar suero \u0000siológico y realizar reducción cerrada de la fractura, con férula neumática",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar suero \u0000siológico y realizar sin\u0000ciotomía púbica de urgencia Tiene una fractura de pelvis, complicada por un shock hipovolémico. Habitualmente es por rotura de las venas pélvicas y el tratamiento consiste en reponer \u0000uidos y estabilizar la fractura de manera externa (con férula neumática, tutores externos, hamaca pélvica, o por último una sábana, si es que no están disponibles los demás",
+        "correcta": false
+      }
+    ],
+    "justificacion": "elementos. Eso sí, en especial si hay traumatismo abdominal concomitante, en el paciente hemodinámicamente inestable se recomienda actualmente realizar una ecografía de urgencia, para descartar una causa abdominal del shock, que requiera laparotomía de urgencia. Sin embargo, el enunciado da a entender que se está preguntado el manejo clásico de la fractura de pelvis desplazada con hipotensión, en la que estabilizar la pelvis es lo más importante (además, como en todo shock hipovolémico, dar \u0000uidos es lo más urgente).",
+    "archivo_origen": "5.txt"
+  }
+]

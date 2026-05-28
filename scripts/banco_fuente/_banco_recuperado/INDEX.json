@@ -1,0 +1,157 @@
+{
+  "cardio": {
+    "archivos_txt": 9,
+    "archivos_con_preguntas": 6,
+    "total_preguntas": 94,
+    "preguntas_con_respuesta_marcada": 93,
+    "preguntas_con_justificacion": 94
+  },
+  "cx_y_anestesia": {
+    "archivos_txt": 4,
+    "archivos_con_preguntas": 4,
+    "total_preguntas": 82,
+    "preguntas_con_respuesta_marcada": 82,
+    "preguntas_con_justificacion": 81
+  },
+  "dermato": {
+    "archivos_txt": 9,
+    "archivos_con_preguntas": 6,
+    "total_preguntas": 120,
+    "preguntas_con_respuesta_marcada": 119,
+    "preguntas_con_justificacion": 120
+  },
+  "diabetes": {
+    "archivos_txt": 0,
+    "archivos_con_preguntas": 0,
+    "total_preguntas": 0,
+    "preguntas_con_respuesta_marcada": 0,
+    "preguntas_con_justificacion": 0
+  },
+  "endocrino": {
+    "archivos_txt": 8,
+    "archivos_con_preguntas": 7,
+    "total_preguntas": 96,
+    "preguntas_con_respuesta_marcada": 95,
+    "preguntas_con_justificacion": 96
+  },
+  "ginecologia": {
+    "archivos_txt": 3,
+    "archivos_con_preguntas": 3,
+    "total_preguntas": 60,
+    "preguntas_con_respuesta_marcada": 60,
+    "preguntas_con_justificacion": 60
+  },
+  "hemato": {
+    "archivos_txt": 1,
+    "archivos_con_preguntas": 0,
+    "total_preguntas": 0,
+    "preguntas_con_respuesta_marcada": 0,
+    "preguntas_con_justificacion": 0
+  },
+  "infecto": {
+    "archivos_txt": 7,
+    "archivos_con_preguntas": 7,
+    "total_preguntas": 131,
+    "preguntas_con_respuesta_marcada": 130,
+    "preguntas_con_justificacion": 130
+  },
+  "nefro": {
+    "archivos_txt": 8,
+    "archivos_con_preguntas": 0,
+    "total_preguntas": 0,
+    "preguntas_con_respuesta_marcada": 0,
+    "preguntas_con_justificacion": 0
+  },
+  "neuro": {
+    "archivos_txt": 7,
+    "archivos_con_preguntas": 6,
+    "total_preguntas": 90,
+    "preguntas_con_respuesta_marcada": 89,
+    "preguntas_con_justificacion": 90
+  },
+  "novedades": {
+    "archivos_txt": 16,
+    "archivos_con_preguntas": 5,
+    "total_preguntas": 350,
+    "preguntas_con_respuesta_marcada": 349,
+    "preguntas_con_justificacion": 349
+  },
+  "obstetricia": {
+    "archivos_txt": 2,
+    "archivos_con_preguntas": 2,
+    "total_preguntas": 40,
+    "preguntas_con_respuesta_marcada": 40,
+    "preguntas_con_justificacion": 40
+  },
+  "oftalmo": {
+    "archivos_txt": 3,
+    "archivos_con_preguntas": 3,
+    "total_preguntas": 50,
+    "preguntas_con_respuesta_marcada": 50,
+    "preguntas_con_justificacion": 50
+  },
+  "otorrino": {
+    "archivos_txt": 3,
+    "archivos_con_preguntas": 3,
+    "total_preguntas": 50,
+    "preguntas_con_respuesta_marcada": 50,
+    "preguntas_con_justificacion": 50
+  },
+  "pediatria": {
+    "archivos_txt": 22,
+    "archivos_con_preguntas": 4,
+    "total_preguntas": 230,
+    "preguntas_con_respuesta_marcada": 230,
+    "preguntas_con_justificacion": 230
+  },
+  "psiquiatria": {
+    "archivos_txt": 6,
+    "archivos_con_preguntas": 5,
+    "total_preguntas": 100,
+    "preguntas_con_respuesta_marcada": 100,
+    "preguntas_con_justificacion": 100
+  },
+  "repasos": {
+    "archivos_txt": 25,
+    "archivos_con_preguntas": 12,
+    "total_preguntas": 885,
+    "preguntas_con_respuesta_marcada": 884,
+    "preguntas_con_justificacion": 873
+  },
+  "respiratorio": {
+    "archivos_txt": 3,
+    "archivos_con_preguntas": 0,
+    "total_preguntas": 0,
+    "preguntas_con_respuesta_marcada": 0,
+    "preguntas_con_justificacion": 0
+  },
+  "reuma": {
+    "archivos_txt": 4,
+    "archivos_con_preguntas": 0,
+    "total_preguntas": 0,
+    "preguntas_con_respuesta_marcada": 0,
+    "preguntas_con_justificacion": 0
+  },
+  "salud_publica": {
+    "archivos_txt": 4,
+    "archivos_con_preguntas": 3,
+    "total_preguntas": 60,
+    "preguntas_con_respuesta_marcada": 58,
+    "preguntas_con_justificacion": 60
+  },
+  "trauma": {
+    "archivos_txt": 6,
+    "archivos_con_preguntas": 5,
+    "total_preguntas": 100,
+    "preguntas_con_respuesta_marcada": 100,
+    "preguntas_con_justificacion": 100
+  },
+  "uro": {
+    "archivos_txt": 6,
+    "archivos_con_preguntas": 5,
+    "total_preguntas": 72,
+    "preguntas_con_respuesta_marcada": 70,
+    "preguntas_con_justificacion": 72
+  },
+  "_total": 2610
+}

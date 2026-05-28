@@ -1,0 +1,1647 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Una lesión del III nervio craneal presentará todo lo siguiente, EXCEPTO:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Midriasis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Imposibilidad de mirar hacia arriba",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Imposibilidad de mirar hacia abajo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Imposibilidad de mirar hacia medial",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Imposibilidad de cerrar el ojo El III nervio craneal u oculomotor abre el ojo (su lesión produce ptosis). Además, mira hacia arriba, abajo y medial. Finalmente es el encargado de la miosis (su lesión",
+        "correcta": true
+      }
+    ],
+    "justificacion": "produce midriasis). En cambio, el VII nervio craneal o facial es quien cierra el ojo.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente se mete en una pelea, resultando con un puñetazo en el ojo izquierdo. Sin contestar Al examen físico se aprecia los siguiente: La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar analgésicos orales y observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar aseo con suero \u0000siológico abundante e indicar antibióticos tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar antibióticos endovenosos y derivar de manera urgente a unidad de trauma ocular",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Aplicar frío local y realizar sello ocular, con ungüento antibiótico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar eversión tarsal y tinción con \u0000uoresceína Es un trauma ocular severo, ya que tiene discoria (deformación de la pupila), por lo que se sospecha un estallido ocular y se debe derivar urgentemente a la unidad de trauma ocular más cercana. Como médico general, no se debe tocar el ojo, ni aplicarle nada, pero sí se debe instalar una vía venosa y administrar analgésicos y antibióticos endovenosos (ejemplo, vancomicina más ceftazidima; vancomicina cubre Gram positivos, incluyendo el SAMR y la ceftazidima cubre Gram negativos,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "incluyendo Pseudomona).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un niño de 5 meses de edad presenta epífora bilateral, asociada a opacidad de Sin contestar ambas córneas. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Retinoblastoma",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Atresia del conducto nasolagrimal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Conjuntivitis por Chlamydia trachomatis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Queratitis herpética",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Glaucoma congénito Es un glaucoma congénito clásico: epifora, opacidad corneal, fotofobia y buftalmo o megalocórnea. Su diagnóstico es clínico, con\u0000rmado por un oftalmólogo experto. El",
+        "correcta": true
+      }
+    ],
+    "justificacion": "tratamiento es quirúrgico. - El retinolastoma, en cambio, tiene leucocoria, estrabismo y proptosis. - La atresia del conducto lagrimal solo tiene epifora, sin opacidad corneal. - La conjuntivitis por Chlamydia trachomatis es una conjuntivitis bacteriana con tendencia a croni\u0000car, que puede evolucionar a leucomas y tracomas y se asocia a neumonía neonatal en los niños. Los tracomas, en adultos, también son una patología frecuente en países de escasos recursos. - La queratitis herpética tiene ojo rojo profundo, epifora, blefarospasmo y, lo más importante, una úlcera dendrítica.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente de 20 años presenta anisocoria, con ligera midriasis a izquierda. Al Sin contestar examen físico se aprecia que ambas pupilas se contraen a iluminar cualquiera de Puntúa como los ojos, pero que la pupila izquierda siempre es de un tamaño mayor a la pupila 1,00 derecha. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Pupila de Addie",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Pupila de Argyll Robertson",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Defecto pupilar aferente (pupila de Marcus Gunn)",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Defecto pupilar eferente",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome de Claude Bernard Horner Es una pupila de Addie clásica: anisocoria, pero fotorreactiva bilateral, con una",
+        "correcta": false
+      }
+    ],
+    "justificacion": "pupila que habitualmente está más midriática que la otra. La pupila de Argyll Robertson (neurosí\u0000lis), en cambio, pierde el re\u0000ejo fotomotor, pero mantiene el de acomodación.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un paciente presenta dolor ocular izquierdo, que aumenta en situaciones de mucha Sin contestar luz, lo que le obliga a cerrar el ojo. Además, presenta epifora y ojo rojo. Al examen Puntúa como físico se aprecia ojo rojo periquerático, sin otras alteraciones. El diagnóstico más 1,00 probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Conjuntivitis bacteriana",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Conjuntivitis viral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Queratitis aguda",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Uveítis aguda",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Glaucoma agudo Tiene una queratitis aguda clásica: ojo rojo profundo con fotofobia y epifora, sin",
+        "correcta": false
+      }
+    ],
+    "justificacion": "alteración pupilar. Las conjuntivitis tienen ojo rojo super\u0000cial. La uveítis tiene miosis y el glaucoma agudo, midriasis (ambas tiene ojo rojo profundo).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente consulta por fotopsias y visión de puntos negros en la zona superior Sin contestar izquierda del campo visual. No re\u0000ere otros síntomas y la inspección no aporta Puntúa como mayor información. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Derivar urgente a oftalmología",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar una tonometría ocular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar una campimetría visual",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar parche ocular, con ungüento antibiótico y derivar a oftalmología, de manera ambulatoria",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución Por la clínica de entopsias (puntos negros) y fotopsias (puntos luminosos), la sospecha es un desprendimiento de retina (de localización inferior derecha, dado que es contralateral al campo visual). La conducta es realizar un fondo de ojo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "urgente, más tratamiento láser o quirúrgico, lo antes posible.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "¿Cuál de las siguientes alteraciones representa una mayor gravedad en la Sin contestar retinopatía diabética?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Exudados céreos retinales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Vasos de neoformación retinales",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Microaneurismas retinales",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Microhemorragias retinales",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Microinfartos retinales Los vasos de neoformación, son parte de la retinopatía diabética proliferativa. Por tanto, son más graves que todo lo demás (que se ve en la no proliferativa). Lo único más grave son las hemorragias prerretinales y luego las hemorragias vítreas (que ya",
+        "correcta": false
+      }
+    ],
+    "justificacion": "dejan ciego al paciente).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente de 73 años ha presentado una lenta disminución de la agudeza visual, Sin contestar sin otros síntomas. Actualmente tiene agudeza visual 0,2 en un ojo y 0,1 en el otro, Puntúa como por lo que le es muy difícil desarrollar sus actividades de la vida diaria. En el examen 1,00 físico se constata pérdida del rojo pupilar bilateral, con oculomotilidad conservada y re\u0000ejos fotomotor y corneal normales. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hemorragia vítrea",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cataratas",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Glaucoma crónico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Degeneración macular relacionada con la edad (DMRE) e) Retinoblastoma La pérdida lenta de la agudeza visual, en un adulto mayor, sugiere tanto cataratas, como degeneración macular relacionada con la edad (DMRE). Sin embargo, la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "afectación del rojo pupilar solo se ve en la catarata, ya que en la DMRE está normal. El glaucoma crónico no afecta la agudeza visual, sino el campo visual. Además, en el fondo de ojo tiene aumento del diámetro de la excavación papilar.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Según el siguiente esquema: ¿ Cuál es el tratamiento del vicio de refracción descrito?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lentes bifocales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Lentes biconvexos",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Lentes bicóncavos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Lentes cilíndricos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Lentes intraoculares Se aprecia que la imagen se enfoca por detrás de la retina, por tanto tiene una",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hipermetropía, la que se corrige con lentes biconvexos.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente de 65 años presenta un escotoma periférico en el campo visual Sin contestar derecho. Además, al fondo de ojo, se aprecia aumento del diámetro de la Puntúa como excavación papilar. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Retinopatía hipertensiva",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Neuritis óptica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tumor hipo\u0000siario",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Glaucoma de ángulo abierto",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Glaucoma de ángulo estrecho Tiene un glaucoma crónico clásico, también llamado glaucoma de ángulo abierto (el agudo se llama de ángulo estrecho). Se caracteriza por afectación del campo visual, iniciando con escotomas periféricos y terminando con una visión tubular (recién ahí se empieza a afectar la agudeza visual). Además, es característico que aumente la excavación papilar (mayor a 0,3 del diámetro de la papila óptica), ya que el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "glaucoma es una neuropatía óptica, que va dañando el nervio óptico. Se diagnostica con la clínica, sirviendo de apoyo la tonometría (que muestra elevación marcada de la PIO) y la genioscopía (que muestra el cierre del ángulo iridocorneal). Se trata inicialmente con fármacos para bajar la presión intraocular, tales como gotas mióticas (pindolol, timolol, pilocarpina), acetazolamida oral y manitol endovenoso. El tratamiento de\u0000nitivo suele ser la iridotomía láser.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente estaba destapando una cañería con soda cáustica y al echar agua Sin contestar caliente, empezó a burbujear, salpicándole algunas gotas en los ojos. Evoluciona Puntúa como con intenso dolor y eritema ocular. Usted lo evalúa 20 minutos después en un 1,00 servicio de urgencia, que no cuenta con especialistas. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Derivar de inmediato a la unidad de urgencia oftalmológicas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar propacaína tópica y realizar remoción del químico con un cotonito (hisopo) húmedo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lavar con abundante suero \u0000siológico, a chorro, por 20 a 30 minutos y luego aplicar ungüento antibiótico y derivar",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar antibióticos endovenosos y analgésicos, sin tocar el ojo y derivar urgentemente a un centro de mayor complejidad, que cuente con oftalmólogo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Lavar con abundante agua por 30 minutos y enviar a domicilio, sin necesidad de mayor control La causticación ocular es una urgencia no derivable, en que el médico general debe lavar con abundante agua o suero \u0000siológico, a chorro, por 20 a 30 minutos, preocupándose de lavar bien los fondos de saco. Luego de eso, se debe aplicar ungüento antibiótico y derivar. Es discutible si se puede o no poner un parche ocular, dado que podrían generarse sinequias óculo-palpebrales, por lo que la mayoría",
+        "correcta": false
+      }
+    ],
+    "justificacion": "recomienda no hacerlo. La opción D corresponde al manejo de una penetrante ocular o estallido ocular, la que no se debe confundir con la causticación ocular.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente de 18 años consulta por sensación de arenilla ocular, asociada a ojo Sin contestar rojo y secreción serosa en el ojo derecho. Al examen físico se constata ojo rojo Puntúa como super\u0000cial y se palpa una adenopatía preauricular. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Conjuntivitis viral",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Conjuntivitis bacteriana",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Conjuntivitis alérgica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Orzuelo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Dacriocistitis aguda Es una conjuntivitis viral clásica. Es conjuntivitis por el ojo rojo super\u0000cial y la sensación de arenilla ocular. La adenopatía y la secreción serosa orienta fuertemente a una causa viral (adenovirus es el más frecuente). También que se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "vuelva bilateral y que se asocie a \u0000ebre, odinofagia o reacción tarsal folicular.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente de 20 años, con antecedente de espondilitis anquilosante, presenta un Sin contestar cuadro de disminución de la agudeza visual derecha, asociada a dolor ocular Puntúa como ipsilateral. Al examen físico se aprecia ojo rojo profundo, asociado a pequeño 1,00 hipopión y miosis del ojo derecho. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Uveítis aguda",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Neuritis óptica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Epiescleritis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Endoftalmitis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Glaucoma agudo Es una uveítis aguda, tanto por el antecedente de espondilitis anquilosante (se asocia a las pelviespodilopatías y a las enfermedades in\u0000amatorias intestinales), como por la clínica característica: ojo rojo profundo, miosis, hipopión, enoftalmo,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "efecto Tyndall, disminución de la agudeza visual y dolor. La neuritis óptica no produce ojo rojo, sino simplemente amaurosis y escape pupilar (defecto pupilar aferente). La epiescleritis se asocia a artritis reumatoide y produce dilatación de vasos sanguíneos en una zona de la esclera, que blanquean al aplicarles vasoconstrictores (a diferencia de la escleritis, que no blanquea). La endoftalmitis sí tiene ojo rojo e hipopión, pero suele ser masivo y se asocia a infecciones y cirugía, con apertura ocular. El glaucoma agudo tiene mucho dolor, inicio agudo, ojo rojo profundo y midriasis \u0000ja o arreactiva.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente presenta la siguiente campimetría visual: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Glaucoma crónico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Glaucoma agudo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tumor de hipó\u0000sis",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Lesión de la cintilla óptica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Lesión del lóbulo occipital Tiene una hemianopsia bitemporal, por lo que se debe sospechar una lesión de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "quiasma óptico, cuya causa más frecuente es el tumor de hipó\u0000sis.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un paciente recibe un pelotazo en el ojo derecho, evolucionando con algo de dolor y Sin contestar ojo rojo. Al examen físico se aprecia una hemorragia subconjuntival, que abarca la Puntúa como mitad nasal de dicho ojo. Su agudeza visual, oculomotilidad, re\u0000ejo corneal, re\u0000ejo 1,00 fotomotor y fondo de ojo son normales. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar aseo ocular con abundante agua",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar antibióticos y analgésicos endovenosos y derivar a la unidad de trauma ocular más cercana",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar antibióticos tópicos y derivar a oftalmología de inmediato",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar sello ocular con ungüento antibiótico y reposo relativo por 5 días",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar paracetamol oral si hay dolor y controlar de manera ambulatoria Tiene una contusión ocular sin signos de alarma, ya que la hemorragia conjuntival es un hallazgo banal, sin mayor trascendencia. Por tanto, se debe observar y a lo",
+        "correcta": true
+      }
+    ],
+    "justificacion": "más indicar paracetamol, en caso de dolor.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un paciente de 60 años, con antecedente de hipertensión arterial y diabetes, Sin contestar presenta pérdida súbita de la visión del ojo izquierdo, sin dolor ni otros síntomas. Es Puntúa como capaz de distinguir siluetas y de contar dedos, sin embargo, no puede leer ni 1,00 distinguir las caras. El rojo pupilar está presente en ambos ojos. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hemorragia vítrea",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Neuritis óptica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Desprendimiento de retina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trombosis de la vena central de la retina",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Oclusión de la arteria central de la retina Es una TVCR (trombosis de la vena central de la retina) clásica: pérdida de la visión de un ojo, pero que puede ver algo. Se debe realizar un fondo de ojo urgente para",
+        "correcta": false
+      }
+    ],
+    "justificacion": "con\u0000rmar. - La hemorragia vítrea pierde el rojo pupilar. - La neuritis óptica no se instala tan súbitamente y tiene defecto pupilar aferente. - El desprendimiento de retina tiene fotopsias y entopsias, seguidas de una “caída de telón”, más defecto pupilar aferente. - La oclusión de la arteria central de la retina (OACR) tiene pérdida completa de la visión y no es capaza de ver las siluetas, ni contar dedos.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "¿Qué fármacos están contraindicados en el paciente con glaucoma crónico?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Betabloqueantes",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Anticolinérgicos",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "AINEs",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Diuréticos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "IECAs Están contraindicados los fármacos que aumentan la producción de humor acuoso, o que disminuyen su absorción. Lo más importantes, son los anticolinérgicos, como",
+        "correcta": false
+      }
+    ],
+    "justificacion": "los antidepresivos tricíclicos.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una paciente de 25 años presenta amaurosis derecha, que se instaló en el Sin contestar transcurso de algunas horas, asociado a escape pupilar, de un día de evolución, sin Puntúa como otros síntomas. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Neuritis óptica",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Desprendimiento de retina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trombosis de la vena central de la retina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hemorragia vítrea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Oclusión de la arteria central de la retina Es una neuritis óptica clásica, tanto por instalarse de manera aguda, pero no súbita, como por el defecto pupilar aferente o escape pupilar. Se asocia a esclerosis múltiple (EM), por lo que se estudia no solo con resonancia magnética de nervio óptico, sino de cerebro y médula ósea, para descartar otros focos de desmielinización. Se trata con corticoides endovenosos y, luego, con drogas modi\u0000cadoras de la EM en el caso de que sea por esta patología (Ej. Natalizumab,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Ocrelizumab, Rituximab). Recordar que el fondo de ojo suele estar normal, salvo en casos de afectación anterior, en que se produce edema de papila.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente 42 años, jardinero, presenta entrada de una astilla en el ojo. Al día Sin contestar siguiente presenta fotofobia y blefarospasmo, asociado a epífora y ojo rojo Puntúa como profundo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Erosión corneal",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Conjuntivitis aguda",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Queratitis punctata",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Uveítis aguda",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Glaucoma de ángulo estrecho Tanto las queratitis agudas, como las erosiones coneales, como las úlceras corneales tienen la misma clínica: ojo rojo profundo, asociado a epifora, blefarospasmo y fotofobia. El antecedente de la astilla, hace pensar en un cuerpo extraño tarsal, que se producjo la erosión corneal, por lo que se debe evertir el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "párpado y teñir con \u0000uoresceína.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un paciente presenta una oclusión de la arteria central de la retina (OAC), ¿cuál es el Sin contestar examen o conjunto de exámenes más útil para identi\u0000car la etiología de dicha Puntúa como patología?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Recuento de plaquetas, TTPA y TP",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Angiografía carotidea",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hemograma-VHS y biopsia de arteria temporal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Resonancia magnética de cerebro",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Ecografía doppler de carótidas La causa más frecuente de la OAC son las embolias arterio-arteriales, provenientes de la carótida. Por tanto, se estudia igual que un AVE embólico, con Eco-Doppler de carótidas, ecocardiograma y Holter de arritmias, siendo el Doppler carotídeo lo más",
+        "correcta": true
+      }
+    ],
+    "justificacion": "importante.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Paciente de 9 años, de edad es derivado desde su colegio por falta de Sin contestar concentración en clases, al entrevistar a su madre y examinarlo destaca que tiene Puntúa como di\u0000cultad para ver objetos que están lejos pero no así los que están cerca. ¿Cuál es 1,00 el tratamiento más adecuado en este vicio de refracción?:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lentes cilíndricos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Lentes bifocales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lentes biconvexos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Lentes bicóncavos",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Lentes intraoculares Si bien falta información, la sospecha es una miopía, ya que tiene di\u0000cultades para",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ver de lejos (“corto de vista”). La miopía se trata con lentes bicóncavos. La hipermetropía, por el contrario, tiene di\u0000cultades para ver de cerca y se trata con lentes biconvexos.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Paciente de 70 años de edad, con antecedente de HTA y dislipidemia en Sin contestar tratamiento, consulta por cuadro de meses de evolución de disminución de agudeza Puntúa como visual la cual empeora al mirar fuentes luminosas. Al examen físico destaca pérdida 1,00 del rojo pupilar, presentando re\u0000ejos y oculomotilidad normales. El diagnóstico más probable en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Glaucoma",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Catarata",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Presbicia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Retinoblastoma",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Degeneración macular relacionada con la edad La pérdida lenta de la agudeza visual, en un adulto mayor, sugiere tanto cataratas, como degeneración macular relacionada con la edad (DMRE). Sin embargo, la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "afectación del rojo pupilar solo se ve en la catarata, ya que en la DMRE está normal. El encandilamiento, también sugiere más cataratas, aunque rara vez sí se puede ver en la DMRE. El glaucoma crónico no afecta la agudeza visual, sino el campo visual. Además, en el fondo de ojo tiene aumento del diámetro de la excavación papilar.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Paciente de 19 años de edad, consulta por ojo rojo izquierdo, asociado a dolor, Sin contestar prurito y sensación de arenilla local de dos días de evolución. Al examen físico Puntúa como destaca reacción tarsal folicular y presencia de adenopatías delante y detrás de la 1,00 oreja ipsilateral. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Conjuntivitis bacteriana",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Conjuntivitis vírica",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Conjuntivitis alérgica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Queratitis punctata",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Queratitis por cuerpo extraño Es una conjuntivitis viral clásica. Es conjuntivitis por el ojo rojo super\u0000cial y la sensación de arenilla ocular. La adenopatía y la reacción folicular orientan fuertemente a una causa viral (adenovirus es el más frecuente). También que se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "vuelva bilateral y que se asocie a \u0000ebre, odinofagia y secreción serosa. La conjuntivitis alérgica tiene reacción tarsal papilar.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Una niña de 5 años, cursando una sinusitis aguda, presenta eritema periocular Sin contestar izquierdo. Al examen físico presenta oculomotilidad conservada, re\u0000ejos fotomotor, Puntúa como de acomodación y corneal presentes y agudeza visual 20/20 en ambos ojos. El 1,00 tratamiento más adecuado es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Sintomático",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cipro\u0000oxacino",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cefuroximo",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Penicilina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Clindamicina Tiene una celulitis preorbitaria o preseptal. Es una complicación muy frecuente de las sinusitis bacterianas. Se diferencia de la orbitaria o postseptal, que esta última tiene propotosis, disminución de la agudeza visual, afectación de la oculomotilidad o quemosis. Se trata con amoxicilina-clavulánico o con cefuroximo, ya que cubren bien al neumococo y también al esta\u0000lococo áureo, que son las dos causas más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "frecuentes. Si hubiese tenido elementos de celulitis orbitaria, se debería haber pedido una TAC de órbitas y senos paranasales, más antibióticos endovenosos de amplio espectro (ej. vancomicina más ceftriaxona) y, si se absceda, se debe operar y algunos agregan metronidazol.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Lactante de 3 meses de edad, sin antecedentes de importancia, es traído por Sin contestar presentar desviación ocular. Al examen físico se aprecia leve estrabismo del ojo Puntúa como izquierdo de carácter \u0000uctuante. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar castigo ocular alternante",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar fortalecimiento de músculos oculomotores, utilizando prismas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Resolver quirúrgicamente",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar fondo de ojo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución El estrabismo es una causa de derivación oftalmológica, en pediatría, ya que tiene riesgo de desarrollar ambliopía. Sin embargo, si el niño tiene menos de 6 meses y su estrabismo no es \u0000jo, sino \u0000uctuante, es posible mantener una conducta",
+        "correcta": true
+      }
+    ],
+    "justificacion": "expectante, hasta los 6 meses, en que se debe derivar.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Lactante de 2 meses de edad, sin antecedentes de importancia, es traído por Sin contestar presentar epifora a repetición desde hace 3 días, sin otros síntomas. Al examen Puntúa como físico destaca opacidad corneal, sin otros hallazgos. El diagnóstico más probable 1,00 es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Retinoblastoma",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Glaucoma congénito",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Toxoplasmosis congénita",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Atresia lagrimal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tracomas por Chlamydia trachomatis Es un glaucoma congénito clásico: epifora, opacidad corneal, fotofobia y buftalmo o",
+        "correcta": false
+      }
+    ],
+    "justificacion": "megalocórnea. - El retinolastoma, en cambio, tiene leucocoria, estrabismo y proptosis. - La atresia del conducto lagrimal solo tiene epifora, sin opacidad corneal. - EL tracoma producen una conjuntivitis crónica, que si no se trata, evoluciona a cicatrización de la mucosa palpebral y \u0000nalmente evoluciona a opacidad corneal y ceguera. Es causada por Chlamydia trachomatis y se trata con antibióticos que cubran dicha bacteria (doxiciclina o azitromicina).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Paciente de 30 años, boxeador amateur, consulta por golpe en ojo derecho, Sin contestar asociado a aumento de volumen en zona palpebral ipsilateral. Al examen físico Puntúa como destacan parpados edematosos, movimientos oculares normales, pupilas 1,00 simétricas, pero con presencia de hifema. La conducta más adecuada en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar reposo y enviar a domicilio",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar sello ocular con ungüento antibiótico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar lavado ocular con abundante agua por al menos 20 minutos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar control ambulatorio con oftalmólogo.",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Derivar a la unidad de trauma ocular más cercana La presencia de hifema (sangre en la cámara anterior del ojo), hace que sea un trauma ocular severo, por lo que se debe derivar de inmediato a la unidad de trauma ocular más cercana. Debe hacerse en reposo semisentado, para evitar que la sangre tiña al cristalino o a la córnea. Además, se recomienda monitorear frecuentemente",
+        "correcta": true
+      }
+    ],
+    "justificacion": "la presión intraocular, ya que el hifema se puede complicar con un glaucoma agudo. La mayoría se reabsorbe espontáneamente en unas pocas semanas.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente de 70 años consulta por marcada disminución de la visión del ojo Sin contestar derecho, de un día de evolución, asociado a dolor ocular leve. Al examen físico se Puntúa como aprecia un defecto pupilar aferente y el fondo de ojo demuestra edema de papila. El 1,00 diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trombosis de la vena central de la retina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Oclusión de la arteria central de la retina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hemorragia vítrea",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Desprendimiento de retina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Neuritis óptica Tiene una neuritis óptica clásica: amaurosis con escape pupilar. Además, puede",
+        "correcta": true
+      }
+    ],
+    "justificacion": "dolor levemente, en especial con los movimientos del ojo. - El edema de papila es propio de la neuritis óptica anterior, ya que la papila óptica es el punto de inicio del nervio óptico. - La TVCR tiene pérdida súbita de la visión de un ojo, pero mantiene algo de visión (ej. cuenta dedos). - La oclusión de la arteria central de la retina (OACR) tiene pérdida completa de la visión y no es capaza de ver las siluetas, ni contar dedos. La hemorragia vítrea pierde el rojo pupilar. - El desprendimiento de retina tiene fotopsias y entopsias, seguidas de una “caída de telón”, más defecto pupilar aferente.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Paciente de 20 años, sin antecedentes, consulta por ojo rojo super\u0000cial de 2 días de Sin contestar evolución, asociado a lesión en parpado superior derecho. Al examen físico se Puntúa como aprecia lesión eritematosa en zona media palpebral superior, doloroso a la 1,00 palpación. El tratamiento más adecuado para esta patología es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Colirios antibióticos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Antibióticos orales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Quirúrgico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Masajes suaves y aseo ocular",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Corticoides orales Se describe un chalazión o, según la RAE, chalación, que se trata con masajes con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "calor húmedo, al igual que el orzuelo. Aunque muchas veces son indistinguibles, orzuelo y chalazión se pueden diferenciar en que 1. el chalazión demora algunos días en aparecer mientras que el orzuelo suele hacerlo en horas; 2. el orzuelo suele estar ubicado cerca del borde de las pestañas (se obstruye un folículo piloso), mientras que el chalazión está unos milímetros más alejados (se obstruye una glándula de Meibomio), aunque muchas veces el edema impide diferenciarlos y 3. el chalazión suele desaparecer en uno a dos meses, mientras que el orzuelo lo hace en una a dos semanas. Después de ese tiempo, se suelen derivar.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Paciente de 68 años, con antecedente de diabetes mellitus 2 en tratamiento con Sin contestar hipoglicemiantes orales, consulta por ojo rojo asociado a sensación de arenilla Puntúa como ocular. Al examen físico se observa lo siguiente (fuente: Wikipedia): El diagnóstico es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Glaucoma",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Epiescleritis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Pterigion",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Pinguécula",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Queratitis En la foto se ve un pterigion clásico: tumoración de la conjuntiva bulbar, que invade la córnea. En este caso, está en condiciones de ser removido quirúrgicamente, advirtiendo al paciente que tiene riesgo de recurrencia y que debe usar gafas de sol",
+        "correcta": false
+      }
+    ],
+    "justificacion": "con ala ancha y sombrero, para evitar la exposición solar.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Paciente de 70 años, con antecedente de hipertensión arterial y dislipidemia en Sin contestar tratamiento, es traído por presentar caídas frecuentes, resultando una de ellas con Puntúa como fractura de cadera operada. Al examen físico se observa en buenas condiciones, 1,00 pero al realizar examen de campo visual se aprecia alterado. Se realiza campimetría que se muestra a continuación: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lesión de la cintilla óptica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Lesión del quiasma óptico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lesión del lóbulo occipital",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Glaucoma crónico",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Neuritis óptica La campimetría muestra afectación del campo visual periférico, bilateral, mayor en las zonas inferiores. De las opciones, la única posible es el glaucoma crónico, que se caracteriza por afectación del campo visual periférico (imagen A ), evolucionando a una visión tubular (imagen C). La afectación puede ser muy asimétrica, tanto entre ambos ojos, como dentro de las distintas zonas del campo visual de un ojo. Eso sí, la afectación más clásica es el escotoma de Bjerrum, que afecta el campo visual superior y lateral (imagen B) y no de la zona inferior, sin",
+        "correcta": false
+      }
+    ],
+    "justificacion": "embargo, puede tener variadas morfologías. Fuente: https://edumind.com.mx/ - Tanto la lesión de la cintilla óptica, como del lóbulo occipital producen himianopsias homónimas contralaterales. - La lesión del quiasma, produce una hemianopsia bitemporal. - La neuritis óptica produce amaurosis.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente de 25 años, sin antecedentes, consulta por cuadro de dolor ocular de un Sin contestar día de evolución, asociado ojo rojo profundo y epifora. Al examen físico ocular se Puntúa como realiza tinción con \u0000uoresceína que muestra patrón corneal dendrítico. El fármaco 1,00 de elección para el manejo de este paciente es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dexametasona",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Gentamicina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cipro\u0000oxacino",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Ibuprofeno",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Aciclovir Las úlceras dendríticas son propias de la queratitis herpética, que se trata con",
+        "correcta": true
+      }
+    ],
+    "justificacion": "aciclovir tópico, más aciclovir oral. También se puede usar el valaciclovir.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Paciente de 60 años, con antecedentes de diabetes mellitus insulino dependiente, Sin contestar insu\u0000ciencia renal crónica en hemodiálisis e hipertensión, presenta cuadro de Puntúa como fotopsias y entopsias de 2 días de evolución. Actualmente persisten los síntomas y 1,00 se agrega disminución de la agudeza visual. Al examen físico se realiza fondo de ojo que muestra lo siguiente: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Retinopatía diabética proliferativa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Degeneración macular relacionada con la edad",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Oclusión de la arteria central de la retina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Edema macular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Desprendimiento de retina La clínica (fotopsias y entopsias, seguidas de afectación de la visión) sugiere un desprendimiento de retina. El fondo de ojo (en que se ve) lo con\u0000rma. Se debe",
+        "correcta": true
+      }
+    ],
+    "justificacion": "resolver quirúrgicamente.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Lactante de 4 meses, con antecedente de prematurez de 36 semanas, es traído por Sin contestar presentar estrabismo del ojo derecho, sin otros síntomas. Al examen físico se Puntúa como aprecia estrabismo \u0000jo hacia temporal y pérdida del rojo pupilar. El diagnóstico más 1,00 probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Retinoblastoma",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Catarata congénita",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Estrabismo correctivo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Glaucoma crónico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Retinopatía del prematuro Es una pregunta difícil, pero se trata de un retinoblastoma. Su triada característica es leucocoria, estrabismo y proptosis, pero en este caso solo se ve el estrabismo y la pérdida del rojo pupilar, dado que se interpone el retinoblastoma por delante de la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "retina. - La catarata sí tiene leucocoria y pérdida del rojo pupilar, pero no tiene estrabismo. - El estrabismo correctivo no es \u0000jo, sino \u0000uctuante y no tiene afectación del rojo pupilar. - El glaucoma crónico tiene opacidad corneal, buftalmo y epifora. - La retinopatía del prematuro afecta a prematuros de menos de 32 semanas o menos de 1.500 gramos al nacer y puede tener leucocoria. Sin embargo, lo más importante es el riesgo de desprendimiento de retina, de no tratarse oportunamente. Por eso, en recién nacidos menores de 32 semanas o 1.500 gramos se debe seguir con fondos de ojos periódicos, hasta la completa vascularización normal de la retina y, si se desarrolla retinopatía, eventualmente se debe fotocoagular, para evitar la ceguera.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Paciente de 34 años, con antecedente de psoriasis en tratamiento, consulta por Sin contestar cuadro de 3 días de ojo rojo profundo izquierdo, asociado a dolor ocular y Puntúa como disminución de la agudeza visual. Al examen físico se aprecia lo siguiente: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Queratitis aguda",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Glaucoma agudo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Uveítis aguda",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Endoftalmitis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Escleritis Es una uveítis aguda, tanto por el antecedente de psoriasis (se asocia a las pelviespodilopatías y a las enfermedades in\u0000amatorias intestinales), como por la clínica característica: ojo rojo profundo, miosis, hipopión, enoftalmo, efecto Tyndall, disminución de la agudeza visual y dolor. En la foto se ve el ojo rojo profundo y el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hipopión. Se trata con corticoides tópicos, más el tratamiento de la causa de base. - La queratitis aguda sí tiene ojo rojo profundo, pero no tiene hipopión. Además, tiene epifora, blefarospasmo y fotofobia. - El glaucoma agudo tiene mucho dolor, inicio agudo, ojo rojo profundo y midriasis \u0000ja o arreactiva. - La endoftalmitis sí tiene ojo rojo e hipopión, pero suele ser masivo y se asocia a infecciones y cirugías con apertura ocular (ej. cirugía de cataratas). - La escleritis se asocia a artritis reumatoide y produce dilatación de vasos sanguíneos en una zona de la esclera, que no blanquean con los vasoconstrictores y que se asocian a dolor y eventualmente evolucionan a adelgazamiento de la esclera y herniación vítrea (a diferencia de la epiescleritis, que sí blanquea, no duele, es menos roja y suele ser autolimitada).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Paciente diabético tipo 2, IR, con IRC, presenta desviación de ojo izquierdo a Sin contestar izquierda, asociada a midriasis ipsilateral desde hace 14 días. Además, presenta Puntúa como ptosis de dicho ojo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lesión del III nervio craneal",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Lesión del IV nervio craneal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lesión del VI nervio craneal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Lesión del fascículo longitudinal medial",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Lesión del ganglio estrellado Es una parálisis del III nervio craneal clásica, cuya causa más frecuente es la diabetes, seguida por los traumatismos. El III nervio craneal u oculomotor abre el ojo (su lesión produce ptosis). Además, mira hacia arriba, abajo y medial, siendo el encargado de la miosis (su lesión produce midriasis). Finalmente, se produce un",
+        "correcta": false
+      }
+    ],
+    "justificacion": "estrabismo divergente, ya que el VI nervio tracciona al ojo hacia lateral. - El IV nervio craneal mira hacia inferomedial. Su causa más frecuente es el traumatismo, seguido de la diabetes. - El VI nervio craneal mira hacia lateral. Su causa más frecuente es el traumatismo, seguido de la diabetes. - El FLM mira hacia medial en la mirada conjugada (su lesión impide mirar hacia medial y produce nistagmo). Se produce por lesiones de troncoencéfalo (AVE, esclerosis múltiple, tumores). - El ganglio estrellado lleva la vía simpática, por lo que su lesión produce un síndrome de Horner (miosis, ptosis, anhidrosis). La causa más frecuente es el cáncer de pulmón.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Paciente de 35 años, con antecedente de VIH en tratamiento irregular, presenta Sin contestar abolición del re\u0000ejo fotomotor bilateral, pero con presencia de re\u0000ejo de Puntúa como acomodación que permanece normal. Sus pupilas son pequeñas y algo 1,00 anisocóricas. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Coriorretinitis por citomegalovirus",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Pupila de Addie",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Neurosí\u0000lis",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Neuritis óptica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome de Claude Bernard Horner Tiene una pupila de Argyll Robertson: pérdida del re\u0000ejo fotomotor, con preservación del re\u0000ejo de acomodación. Su causa es la neurosí\u0000lis, que se estudio con VDRL o RPR más FTA-ABS o MHA-TP, a lo que, para el caso especí\u0000co de la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "neurosí\u0000lis, se debe agregar el VDRL en líquido cefalorraquídeo. - La coriorretinitis por CMV tiene disminución de la agudeza visual bilateral, progresiva, por lo que se debe hacer un fondo de ojo para diagnosticarla y tratarlo con ganciclovir.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Un paciente presenta imposibilidad de mirar hacia la derecha con el ojo izquierdo. El Sin contestar resto de los movimientos oculares están conservados. La lesión se encuentra en:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Músculo recto superior",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Nervio abducente",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Nervio oculomotor",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Nervio troclear",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Fascículo longitudinal medial No puede mirar hacia medial con un ojo. La mirada hacia medial se realiza mediante el III nervio craneal, pero es coordinada por el fascículo longitudinal medial (FLM), en la mirada conjugada. Como solo está afectada la mirada a medial y no hacia otros lados, la causa es una lesión del FLM. En cambio, el III nervio craneal además",
+        "correcta": true
+      }
+    ],
+    "justificacion": "tendría imposibilidad de mirar hacia arriba y hacia abajo, más ptosis y midriasis.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente de 69 años presenta pérdida completa de la visión del ojo izquierdo, de Sin contestar inicio súbito, que dura cerca de 15 minutos y luego se recupera por completo. La Puntúa como causa más probable de este cuadro es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Embolia arterial",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Trombosis venosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Neuritis óptica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Glaucoma agudo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Desprendimiento de retina Tiene una amaurosis fugax. Es considerada un accidente isquémico transitorio (TIA), el que habitualmente se produce por embolias arterio-arteriales, por lo que se debe estudiar con un eco-Doppler de carótidas. También, por ser adulto mayor, se debe descartar una arteritis de la temporal (AT), solicitando un hemograma y VHS (",
+        "correcta": false
+      }
+    ],
+    "justificacion": "la AT tiene la VHS muy elevada).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un paciente recibe un golpe en el ojo, mientras trabajaba, presentando gran dolor. Al Sin contestar examen físico se aprecia lo siguiente (fuente: https://www.opcionmedica.com.uy/): La conducta inicial más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar compresión ocular y derivar de manera urgente al centro de trauma ocular más cercano",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar lavado ocular con abundante agua y derivar de manera urgente al centro de trauma ocular más cercano",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar antibióticos endovenosos y derivar de manera urgente al centro de trauma ocular más cercano",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Aplicar antibióticos tópicos y derivar de manera urgente al centro de trauma ocular más cercano",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar eversión tarsal y retirar el cuerpo extraño Tiene una laceración ocular, es decir, un trauma ocular gravísimo. Se debe derivar de inmediato a la unidad de trauma ocular más cercana. Como médico general, no se debe tocar el ojo, ni aplicarle nada, pero sí se debe instalar una vía venosa y administrar analgésicos y antibióticos endovenosos (ej. vancomicina más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ceftazidima).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un hombre de 30 años consulta por ojo rojo izquierdo, asociado a dolor y Sin contestar disminución marcada de la agudeza visual. Al examen físico se aprecia ojo rojo Puntúa como profundo, con miosis y algún grado de enoftalmo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Glaucoma de ángulo estrecho",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Glaucoma de ángulo abierto",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Queratitis aguda",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Parálisis facial",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Uveítis aguda",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Es una uveítis clásica: ojo rojo profundo, disminución de la AV, miosis y enoftalmo. Además, puede tener hipopión y efecto Tyndall. - El glaucoma agudo o de ángulo estrecho tiene ojo rojo profundo, con midriasis arre\u0000éctica, más mucho dolor y disminución de la AV. - El glaucoma crónico o de ángulo abierto produce afectación del campo visual, con escotomas periféricos, que evolucionan a una visión tubular. - La queratitis aguda produce ojo rojo profundo y fotofobia, sin afectación pupilar. - La parálisis facial, a nivel ocular, impide que se cierre correctamente el párpado, lo que puede producir una queratitis punctata.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente diabético presenta diplopía de inicio súbito. Al examen físico presenta Sin contestar ptosis y midriasis derecha, con imposibilidad de mirar a medial, a arriba y abajo con Puntúa como el ojo derecho. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lesión del fascículo longitudinal medial",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Lesión del III nervio craneal",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Lesión del IV nervio craneal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Lesión del VI nervio craneal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome de Horner",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una parálisis del III nervio craneal clásica.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente consulta por di\u0000cultad para ver de algunos meses de evolución. La Sin contestar inspección ocular es normal, al igual que la oculomotilidad y los re\u0000ejos. Se realiza Puntúa como un test de Snellen, que muestra agudeza visual 15/20 en OI y 20/20 en OD, sin 1,00 embargo, hay pérdida de la visión periférica en ambos ojos, mayor en el OI. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Glaucoma crónico",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Degeneración macular relacionada con la edad",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Catarata",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Edema macular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Neuritis óptica",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene escotomas bilaterales, mayores en la zona periférica, bastante asimétricos. En otras palabras, tiene un glaucoma crónico. La DMRE, las cataratas y el edema macular no afectan el campo visual, sino la agudeza visual. La neuritis óptica tiene amaurosis.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente sufre pérdida de la visión del ojo izquierdo, de inicio súbito hace un par Sin contestar de horas. Sólo reconoce siluetas y es capaz de contar dedos con dicho ojo. No Puntúa como presentó otros síntomas. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Glaucoma agudo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Embolia arterial retinal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Trombosis venosa retinal",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Desprendimiento de retina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Coriorretinitis Es una TVCR (trombosis de la vena central de la retina) clásica: pérdida de la visión",
+        "correcta": false
+      }
+    ],
+    "justificacion": "de un ojo, pero que puede ver algo. El glaucoma agudo produce ojo rojo profundo con semimidriasis \u0000ja. La oclusión de la arteria central de la retina (OACR) tiene pérdida completa de la visión y no es capaza de ver las siluetas, ni contar dedos. El desprendimiento de retina tiene fotopsias y entopsias, seguidas de una “caída de telón”, más defecto pupilar aferente. La corioretinitis produce disminución progresiva de la agudeza visual.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un niño de 7 meses de edad presenta alteración de la prueba de Hirschberg. La Sin contestar conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar masajes oculares",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar colirios antibióticos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar tonometría ocular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Derivar a oftalmología Tiene estrabismo, por lo que se debe derivar, para evitar que desarrolle ambliopía a futuro. Solo se puede mantener en observación el estrabismo \u0000uctuante, en un menor de 6 meses, por ser frecuente y transitorio. También se derivan si existe",
+        "correcta": true
+      }
+    ],
+    "justificacion": "alteración del cover test y en las endotropias de más 4 meses de edad.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente de 36 años, obrero de la construcción sufre un golpe en el ojo derecho Sin contestar con una herramienta. Al examen presenta disminución de la agudeza visual y Puntúa como deformación de la pupila con dicho ojo. La conducta inicial más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lavar con abundante suero \u0000siológico por al menos 20 minutos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Aplicar ungüento antibiótico y sello ocular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar compresión ocular por 10 minutos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar tinción con \u0000uoresceína",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar analgésicos y antibióticos e.v. y derivar de inmediato a la unidad de trauma ocular Es un trauma ocular severo, ya que tiene discoria (deformación de la pupila), por lo que se sospecha un estallido ocular y se debe derivar urgentemente a la unidad de trauma ocular más cercana. Como médico general, no se debe tocar el ojo, ni aplicarle nada, pero sí se debe instalar una vía venosa y administrar analgésicos y",
+        "correcta": true
+      }
+    ],
+    "justificacion": "antibióticos endovenosos (ej. vancomicina más cefepime).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un paciente es operado de una catarata izquierda. Dos días después presenta dolor Sin contestar ocular y pérdida de la visión de dicho ojo. Al examen se aprecia ojo rojo profundo, Puntúa como con quemosis importante e hipopión que abarca toda la cámara anterior. El 1,00 diagnóstico es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Uveítis aguda",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Glaucoma agudo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Celulitis orbitaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Desprendimiento de retina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Endoftalmitis aguda Es una endoftalmitis clásica: ojo rojo profundo e hipopión masivo. Además, suele tener dolor, pérdida de la visión y quemosis (edema de la conjuntiva bulbar). En este caso es secundaria a la cirugía (que es la causa más frecuente). Debe tratarse con",
+        "correcta": true
+      }
+    ],
+    "justificacion": "antibióticos intraoculares, por lo que se debe derivar de inmediato.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un niño de 3 meses de edad presenta epifora crónica. Al examen se aprecian ojos Sin contestar de mayor tamaño de lo normal. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Atresia lagrimal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Catarata congénita",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Retinoblastoma",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Glaucoma congénito",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Conjuntivistis neonatal por Chlamydia trachomatis Es un glaucoma congénito clásico: epifora y buftalmo (ojos grandes). Además,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "suele presentar megalocórnea y opacidad corneal. Atresia lagrimal: solo epifora. Catarata: leucocoria. Retinoblastoma: leucocoria, estrabismo y proptosis.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "¿Cuál de las siguientes a\u0000rmaciones es compatible con el diagnóstico de Sin contestar astigmatismo?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Es menos frecuente que la hipermetropía",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Se corrige con lentes biconvexos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Se corrige con lentes bicóncavos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "La agudeza visual mejora al mirar por un agujero estenopeico",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Tiene alto riesgo de glaucoma agudo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Todos los vicios de refracción mejoran al mirar por un agujero estenopeico. El astigmatismo es el vicio de refracción más frecuente, seguido de la miopía y luego la hipermetropía. Se corrige con lentes cilíndricos. La hipermetropía, con lentes biconvexos. La miopía, con lentes bicóncavos. El glaucoma agudo se relaciona con la hipermetropía.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente presenta sensación de arenilla ocular bilateral y secreción serosa, Sin contestar asociado a ojo rojo super\u0000cial, con reacción palpebral folicular. El diagnóstico más Puntúa como probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Conjuntivitis viral",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Conjuntivitis alérgica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Conjuntivitis bacteriana",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Cuerpo extraño palpebral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Queratitis punctata",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una conjuntivitis viral clásica. La conjuntivitis alérgica tiene reacción tarsal folicular. La bacteriana no tiene reacción palpebral, sino abundante secreción purulenta y legañas. La queratitis punctata (por ojo seco) tiene clínica de queratitis: ojo rojo profundo, fotofobia, etc.",
+    "archivo_origen": "3.txt"
+  }
+]

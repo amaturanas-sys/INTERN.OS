@@ -1,0 +1,1307 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Una mujer de 34 años presenta metrorragia abundante. Recientemente fue Sin contestar diagnosticada de hipertiroidismo, por lo que está tomando propanolol. Se solicita un Puntúa como test de embarazo, que resulta positivo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Struma ovari",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Embarazo ectópico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Enfermedad de Basedow-Graves",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hiperplasia endometrial",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Embarazo molar Es el clásico caso de una mola completa: metrorragia y otros síntomas (hipertiroidismo en este caso, aunque además puede tener hiperemesis, preclamsia, quistes tecaluteínicos y mayor tamaño uterino). La mola parcial, en cambio, solo",
+        "correcta": true
+      }
+    ],
+    "justificacion": "produce metrorragia.",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Una paciente, cursando un embarazo de 30 semanas, presenta metrorragia escasa, Sin contestar sin otras alteraciones. Se realiza una especuloscopía, que con\u0000rma que la sangre Puntúa como proviene de la cavidad endometrial. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar cesárea de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar corticoides endovenosos y mantener una conducta expectante",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar ecografía obstétrica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar niveles plasmáticos de beta-HCG",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar reposo y observar evolución Las metrorragias de la segunda mitad del embarazo se deben estudiar con una ecografía obstétrica. No tiene clínica de DPPNI, como para interrumpir de inmediato. Es necesario que la ecografía diferencie el DPPNI de la placenta previa,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que son las dos causas de metrorragia de la segunda mitad del embarazo.",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Una paciente de 24 años, primigesta, cursando un embarazo de 35 semanas, con Sin contestar edad gestacional segura, consulta por contracciones uterinas. Al examen físico Puntúa como presenta una dinámica de 2 contracciones cada 10 minutos, la cervicometría 1,00 demuestra cuello completamente borrado y se palpa dilatación cervical de 2 cm. El per\u0000l biofísico es tranquilizador. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar amniocentesis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar corticoides endovenosos y tocolíticos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar tocolíticos endovenosos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar oxitocina en goteo Es un trabajo de parto prematuro (dinámica uterina y dilatación cervical), que, por tener más de 34 semanas, se debe dejar a evolución espontánea. No requiere",
+        "correcta": false
+      }
+    ],
+    "justificacion": "corticoides ni tocolíticos, sino solo la ampicilina, como pro\u0000laxis de SGB. La amniocentesis está indicada en los casos en que han fallado los tocolíticos de primera línea o antes de indicarlos, si es que la cervicometría tiene un cuello menor a 15 mm. Por no estar indicados los tocolíticos, tampoco se indica la anmiocentesis, a pesar de que tenga menos de 15 mm de longitud cervical (tiene 0 mm).",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Una mujer de 19 años, cursando un embarazo de 34 semanas consulta por \u0000ebre Sin contestar alta y malestar general, asociada a disuria intensa. Se solicitan exámenes de orina, Puntúa como que muestran abundantes bacterias y leucocitos urinarios. El urocultivo está 1,00 pendiente. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar cefadroxilo oral y controlar ambulatoriamente",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar cipro\u0000oxacino oral y controlar ambulatoriamente",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar nitrofurantoína oral y controlar ambulatoriamente",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar ceftriaxona endovenosa",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución, a la espera del urocultivo Es una pielonefritis aguda. En el embarazo se tratan con medicamentos endovenosos. En especial cefalosporinas de cualquier generación (primera: cefazolina), aunque muchas recomendaciones sugieren comenzar directamente con cefalosporinas de tercera generación (ceftriaxona) o cuarta generación (cefepime). Si alérgica, se indican aminoglicósidos (aunque son algo tóxicos para el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "feto) o el astreonam. Luego, se ajusta el tratamiento, según el antibiograma.",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Una paciente embarazada acude a su primera ecografía, en la que se visualizan dos Sin contestar sacos gestacionales, con el signo de “lambda”. Tendrá mayor riesgo de desarrollar Puntúa como todas las siguientes patologías, EXCEPTO:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de transfusión feto-fetal",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Parto prematuro",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Rotura prematura de membranas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Preclamsia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Retraso del crecimiento intrauterino El mayor riesgo de todo embarazo gemelar es el parto prematuro. El signo de lambda demuestra que es bicorial y biamniótico. La transfusión feto fetal solo se da",
+        "correcta": false
+      }
+    ],
+    "justificacion": "en los monocoriales biamnióticos.",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Una paciente de 40 años, cursando un embarazo de 28 semanas, se realiza un Sin contestar TTGO con 75 gramos de glucosa, que resulta 100 mg/dl basal y 135 mg/dl a las 2 Puntúa como horas. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar corticoides endovenosos a la madre",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Repetir el TTGO",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar insulinoterapia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar dieta y ejercicio y controlar frecuentemente con hemoglucotest Tiene una diabetes mellitus gestacional, dado que la glicemia basal está en 100 (mayor o igual a 100 es diagnóstico, aunque la glicemia postcarga esté normal; posterga mayor o igual a 140 también es diagnóstica de DMG). Inicialmente se trata con dieta y ejercicio y de segunda línea se usa la insulina NPH + cristalina en esquema intensi\u0000cado (no se usa la insulina glargina); los hipoglicemiantes orales han demostrado ser seguros en el embarazo, en especí\u0000co la metformina y",
+        "correcta": true
+      }
+    ],
+    "justificacion": "glibenclamida. Es una pregunta muy difícil y odiosa, por estar en el límite y tener la glicemia postcarga normal.",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Una mujer de 32 años, cursando un embarazo de 28 semanas, se realiza un Sin contestar hemograma, con hematocrito de 30% y hemoglobina de 10 g/dl. La conducta más Puntúa como adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar hierro oral",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar biopsia de médula ósea",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar prueba de Coombs",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar ecodoppler de arteria cerebral media fetal La anemia en el embarazo se diagnostica con una hemoglobina bajo 11 g/dl o bajo 10,5 g/dl, si está en el segundo semestre. Por tanto, tiene anemia. A menos que el hemograma muestre algo especial (lo que no se describe en el caso, por lo que hay que suponer que no lo hace), toda anemia en el embarazo se trata como si fuera ferropénica. Actualmente, se recomienda solicitar igualmente una ferrita o per\u0000l de hierro en las embarazadas con anemia. Si no responde o si el hemograma o per\u0000l de \u0000erro sugieren otra causa, sí se debe estudiar con otros exámenes y,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "eventualmente, suspender el hierro.",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Una mujer embarazada se realiza un cultivo vaginal a las 35 semanas de gestación, Sin contestar el que resulta positivo para Streptococcus agalactiae. La conducta más adecuada Puntúa como es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar ampicilina endovenosa durante el trabajo de parto",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar cesárea al momento del parto",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar tratamiento antibiótico erradicador, de inmediato",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar amniocentesis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución, sin necesidad de ninguna medida Tiene el screening positivo para SGB, por lo que debe recibir pro\u0000laxis al parto con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ampicilina o penicilina (eritromicina en alérgicas). - Recordar que las otras indicaciones de pro\u0000laxis son: sepsis previa por SGB (siempre) y UCT positivo para SGB (siempre). - Si el cultivo no se ha realizado, también se indica si hay \u0000ebre materna (ampicilina + gentamicina, para cubrir bacterias de corioamnionitis), edad gestacional menor a 37 semanas (según Minsal, esta sería una indicación independiente a si hay o no cultivo), RPM mayor a 18 horas.",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente de 34 años, se realiza un test de embarazo, el que resulta positivo. Sin contestar Acude a la primera ecografía obstétrica, sin embargo, no se visualiza saco Puntúa como gestacional. Se solicitan niveles plasmáticos de beta-HCG, que resulta 8.500 UI/L. 1,00 La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar nuevos niveles de HCG y nueva ecografía en 2 días",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar metotrexato",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Resolver quirúrgicamente",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar misoprostol intravaginal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar legrado uterino Tiene un embarazo ectópico asintomático (Ecografía que no ve saco gestacional + HCG mayor a 1.500-3.500 UI/L, según la fuente). Como tiene HCG mayor a 5.000, ya no es recomendable dar metotrexato por el riesgo de rotura del embarazo ectópico (aunque hasta 10.000 es posible darlo). El tratamiento de elección es la cirugía, que idealmente debe ser una laparoscopía y la paciente debe elegir entre hacer una salpingectomía o salpingotomía (preserva la trompa, pero tiene riesgo de un nuevo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "embarazo ectópico). Vale la pena mencionar que se suele enseñar que no es posible hacer el diagnóstico de embarazo ectópico no complicado solo con una HCG, pero con el valor indicado, la respuesta más correcta es la cirugía. En la vida real sería correcto que la paciente participe en la decisión, según los riesgos que quiera tomar (esperar 2 días para una nueva HCG vs. hacer ahora la laparoscopia).",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Una paciente es diagnosticada de un embarazo molar, mediante una ecografía Sin contestar transvaginal. Se realiza legrado aspirativo, con buena respuesta. La biopsia se Puntúa como informa como “mola completa”. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar seguimiento con niveles periódicos de beta-HCG",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar seguimiento con ecografías transvaginales periódicas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar seguimiento con antígeno carcinoembrionario periódico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar ACO en dosis altas por 6 meses",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar histerectomía Por ser una mola completa, se debe tratar, pero ya fue tratada con el legrado aspirativo. Luego se debe seguir por 1 año (la parcial se sigue por 6 meses), con niveles de HCG y además se debe dar ACO por el mismo tiempo, de modo de evitar que se embarace y positivice la HCG. Si la HCG empieza a elevarse o no decae, se hace el diagnóstico de una neoplasia trofoblástica gestacional (que obligaría a la histerectomía más QT con metotrexato, aunque antes de la cirugía igualmente se le",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hace una EcoTV).",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Una mujer de 34 años VIH positivo en tratamiento antirretroviral, consulta por atraso Sin contestar menstrual. Se realiza un test de embarazo, que resulta positivo. Actualmente está Puntúa como asintomática y su nivel de linfocitos CD4 es de 1.080 por mm3 y su carga viral es 1,00 indetectable. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mantener el tratamiento antirretroviral",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Suspender el tratamiento antirretroviral durante todo el embarazo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Remplazar el tratamiento por monoterapia con efavirenz",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Reemplazar el tratamiento por monoterapia con zidovudina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Suspender el tratamiento hasta la semana 24 y luego reiniciarlo, asegurándose que no reciba efavirenz Si está en TAR y la carga viral está indetectable, es mejor mantenerla. Actualmente el tratamiento del VIH en el embarazo se puede resumir en los siguiente: 1. Todos los pacientes con VIH deberían tener terapia combinada, ya que sus",
+        "correcta": false
+      }
+    ],
+    "justificacion": "potenciales riesgos son menores a los bene\u0000cios. El embarazo no es la excepción. Por tanto, es mejor tratar que no hacerlo y es mejor hacerlo con dos o tres fármacos que solo con uno. 2. La mayoría de los antivirales han demostrado ser seguros en el embarazo. Incluso el efavirenz, que inicialmente se creyó teratogénico, actualmente cuenta con evidencia de ser seguro. 3. Al parto se debe manejar con cesárea si la carga viral está positiva (>1.000 copias aparece como rango en muchos textos). 4. Además se da una carga de zidovudina en el parto. 5. El recién nacido tiene contraindicación de la leche materna y debe recibir triterapia, controlándose con PCR (Elisa y western blot no sirven, ya que resultan falsamente positivos, por los anticuerpos maternos).",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Una paciente presenta un embarazo de 40 semanas, que está en trabajo de parto. Al Sin contestar momento de la rotura de membrana, se produce salida de líquido amniótico claro, Puntúa como pero evoluciona rápidamente con deterioro del registro fetal, el que muestra una 1,00 bradicardia fetal mantenida. El diagnóstico de sospecha es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Rotura uterina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Rotura de vasa previa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Abruptio placentae",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Placenta previa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Procidencia de cordón umbilical Todas las demás producen metrorragia. La procidencia de cordón se caracteriza por sufrimiento fetal, que aparece al romper las membranas (se debe hacer un tacto vaginal urgente, que permite hacer el diagnóstico y presionar la cabeza fetal, para descomprimir el cordón, mientras se va a la cesárea). Si viniera con metrorragia, sería una rotura de vasa previa (metrorragia y sufrimiento fetal luego de la rotura de",
+        "correcta": true
+      }
+    ],
+    "justificacion": "membranas).",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Una paciente de 20 años, cursando un embarazo de 32 semanas, es diagnosticada Sin contestar de un síndrome hipertensivo del embarazo, mediante una semihospitalización, que Puntúa como presenta varias presiones arteriales cercanas a 150/100 mmHg. Se solicita una 1,00 proteinuria cuantitativa, que resulta 500 mg/día. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hospitalizar, solicitar exámenes de severidad de preclamsia y administrar corticoides endovenosos a la madre",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar alfametildopa y controlar ambulatoriamente",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar labetalol endovenoso de inmediato",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar sulfato de magnesio intravenoso de inmediato",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar interrupción del embarazo Por tener una semihospitalización positiva, está hecho el diagnóstico de síndrome hipertensivo del embarazo. Tiene más de 20 semanas, así que puede ser preclamsia. Como tiene la proteinuria positiva (mayor a 300 mg/24 horas) es una preclamsia con seguridad. Se debe hospitalizar y solicitar los exámenes de severidad. Además, como tiene menos de 34 semanas, están obligados los",
+        "correcta": false
+      }
+    ],
+    "justificacion": "corticoides y se debe estudiar, además, con un doppler fetal.",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Una mujer cursa un embarazo de 38+4 semanas, con buen control prenatal, sin Sin contestar complicaciones. Se realiza una fetometría, que muestra un feto de 4.000 g. Su test Puntúa como de tolerancia a la glucosa oral es normal. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Inducir el parto con misoprostol",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar cesárea",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar dieta y ejercicio",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar insulina Es un embarazo de término, con un bebé grande para la edad gestacional. Sin embargo, no cumple con criterios de macrosomía fetal (no es mayor a 4.500g), por lo que no requiere interrupción. Si pasa de los 4.500, sí se deberá proceder a hacer",
+        "correcta": false
+      }
+    ],
+    "justificacion": "una cesárea. En el caso de la diabetes gestacional y pregestacional, que tienen mayor riesgo de retención de hombros, no hay consenso sobre el punto de corte de peso sobre el cual se debe hacer cesárea: - La evidencia sugiere el mismo corte de 4.500 gramos para la DMG y entre 4.000 y 4.500 gramos, según la fuente, para la pregestacional (DMPG). El Minsal ha recogido el corte de 4.500 gramos en sus actualizaciones.",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Una paciente está en trabajo de parto, con dinámica uterina espontánea y ha Sin contestar permanecido en decúbito lateral izquierdo. El registro fetal muestra el siguiente Puntúa como trazado, desde hace 30 minutos: Su tacto vaginal muestra membranas íntegras, con 10 cm de dilatación, en espinas 0. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar cesárea de urgencia",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar rotura de membrana",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar goteo oxitócico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dejar a evolución espontánea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar fórceps Tiene desaceleraciones tardías en todas las contracciones uterinas y además tiene una variabilidad mínima. Por tanto es un MEFI 3 (ominoso), que requiere interrupción por la vía más expedita, ya que se cumplen los criterios de reanimación intrauterina (lateralizar, suspender la oxitocina y dar O2: el único que falta; además, ninguna de las opciones contiene la reanimación intrauterina). Si bien tiene dilatación completa, el descenso fetal es menor a espinas +2, por lo que no se puede hacer fórceps. Por tanto, se debe hacer cesárea de urgencia. Está contraindicado administrar goteo oxitócio. La rotura de membranas podría mostrar meconio, pero no cambia la conducta, porque ya está hecho el diagnóstico de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sufrimiento fetal.",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Una paciente de 24 años, cursando un embarazo de 31 semanas, presenta escasa Sin contestar salida de líquido por genitales. Se realiza test pack de detección de alfa 1 Puntúa como microglobulina placentaria (PAMG-1), que resulta positivo. El tacto vaginal muestra 1,00 cuello uterino cerrado, duro y posterior. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Inducir con misoprostos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Inducir con oxitocina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar corticoides y antibióticos y mantener una conducta expectante",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar cesárea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Dejar evolución espontánea Es una RPM o RPO (ya está con\u0000rmada por la positividad de la PAMG1), por lo que se debe tratar. Por tener menos de 34 semanas, se debe mantener una conducta expectante, administrando corticoides y antibióticos. Si fuera mayor a 34 semanas,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sí se interrumpiría.",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Una paciente de 40 años, está en trabajo de parto desde hace 6 horas. Presenta Sin contestar metrorragia, asociada a dolor en relación a las contracciones uterinas. El útero se Puntúa como palapa hipertónico y se constata un registro de la frecuencia cardiaca fetal con DIP 1,00 2 en todas las contracciones uterinas. La especuloscopía demuestra sangre saliendo del OCE. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar un tacto vaginal",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar corticoides endovenosos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar tocolíticos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar cesárea de urgencia por rotura de vasa previa Es una pregunta complicada y discutible, pero se ha preguntado así tal cual. El cuadro clínico es evidentemente un desprendimiento de placenta (DPPNI), por lo que se debe interrumpir por la vía más expedita. El tacto vaginal es la forma de determinar la vía más expedita, por lo que es la respuesta correcta. No puede ser la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "E, ya que la rotura de vasa previa no tiene dolor, ni contracciones dolorosas.",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una paciente está en trabajo de parto, a las 38 semanas. Presenta 4 CU en 10 Sin contestar minutos, feto en cefálica, con membranas íntegras, 6 cm de dilatación, borramiento Puntúa como completo y descenso en espinas -2. El registro fetal es tranquilizador (MEFI 1). 1,00 Usted la evalúa 2 horas después y persiste sin cambios. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar rotura de membranas",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar oxitocina en goteo endovenoso",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar fórceps",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar cesárea Como no ha avanzado adecuadamente (al estar en fase activa, debió haber dilatado al menos 2 cm en las dos horas), se debe hacer una prueba de trabajo de parto, que consiste en 1. dar anestesia (no aparece en el caso, ni en las opciones), 2. dar aceleración oxitócica para lograr 3 a 5 CU en 10 minutos (ya tiene 4 CU en 10 minutos, por lo que no está indicada) y 3. Romper las membranas (en este caso",
+        "correcta": false
+      }
+    ],
+    "justificacion": "están íntegras, por lo que se deben romper).",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Una mujer de 20 años, cursando un embarazo de 40 semanas de edad gestacional, Sin contestar se realiza un registro basal no estresante, por 20 minutos, que muestra el siguiente Puntúa como trazado: La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Interrumpir el embarazo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar un per\u0000l biofísico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar un test de tolerancia a las contracciones",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Alargar el registro basal no estresante por 20 minutos más El RBNE está no reactivo (no tiene aceleraciones y para ser reactivo requiere al menos 2 en los 20 minutos). Por tanto, se debe alargar por 20 minutos más. Si cambia a reactivo, se observa evolución y se da alta. Si se mantiene no reactivo, se",
+        "correcta": true
+      }
+    ],
+    "justificacion": "debe pedir un PBF o un TTC (porque tiene más de 36 semanas).",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Una mujer de 23 años, cursando un embarazo de 30 semanas, se realiza una Sin contestar ecografía, que muestra la presencia de una placenta previa que cubre Puntúa como completamente el ori\u0000cio cervical interno. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Interrumpir el embarazo, induciendo con misoprostol",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar corticoides y mantener una conducta expectante",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar cesárea de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar amniocentesis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución e inducir con misoprostol a las 37 semanas La placenta previa (se de\u0000ne como la que cubre el OCI) es indicación de cesárea, ya que contraindica absolutamente el parto vaginal. Sin embargo, su diagnóstico no se puede establecer a ciencia cierta antes de las 32 semanas, ya que el útero puede seguir creciendo y el OCI liberarse. La conducta más adecuada es realizar control ecográ\u0000co y, con ello, se podrá de\u0000nir si tendrá o no placenta previa (probablemente sí la tendrá, ya que mientras más cerca está de las 32 semanas, más probable es",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que se quede con ese diagnóstico). - Si estuviera sangrando profusamente o con afectación de la madre o el feto, se indicaría la cesárea. - No se puede inducir con misoprostol, porque está contraindicado el parto vaginal en este momento (ya que tiene una placenta previa actual, aunque exista la posibilidad de que cambie). - La indicación es dar corticoides (tiene menos de 34 semanas y más de 24 semanas), ya que hay algún riesgo de sangrado y, por tanto, de interrupción antes de las 34 semanas). En caso de que siga con placenta previa, se observará evolución, interrumpiendo por cesárea a las 37 semanas.",
+    "archivo_origen": "cuestionario_1.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Una mujer de 40 años, cursando su cuarto embarazo, de 40 semanas, inicia trabajo Sin contestar de parto, con feto en presentación cefálica. Mientras estaba en fase de expulsivo Puntúa como inicia dolor abdominal intenso, asociado a metrorragia escasa. Además, se 1,00 constata cese de las contracciones uterinas. Su embarazo actual no tuvo complicaciones y su parto anterior fue por cesárea, debido a presentación podálica. Se constata que el registro cardiotocográ\u0000co muestra una frecuencia cardiaca fetal basal a 60x’. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Rotura de vasa previa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Desprendimiento prematuro de placenta normoinserta",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Acretismo placentario",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Placenta previa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Rotura uterina Es una rotura uterina clásica: antecedente de cesárea previa, con metrorragia en el",
+        "correcta": true
+      }
+    ],
+    "justificacion": "parto y cese de las contracciones uterinas más sufrimiento fetal. La rotura de vasa previa tiene metrorragia y sufrimiento fetal luego de la rotura de membranas, sin dolor ni afectación materna. El DPPNI tiene contracciones dolorosas, metrorragia y sufrimiento fetal, pero las contracciones no cesan. El acretismo presenta imposibilidad de expulsar la placenta, con abundante metrorragia luego del nacimiento, que obliga a una histerectomía. La placenta previa solo tiene metrorragia abundante, generalmente antes del parto (en la segunda mitad del embarazo)",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Usted recibe a una mujer de 25 años, ya que se realizó un test de embarazo, que Sin contestar resultó positivo. Re\u0000ere que su última regla fue hace 8 semanas y que normalmente Puntúa como ocurren cada 6 a 8 semanas. ¿Cuál es la conducta más adecuada para determinar 1,00 la edad gestacional es esta paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Determinar niveles plasmáticos de subunidad beta-HCG",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar una ecografía transvaginal de inmediato",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Utilizar como referencia la fecha de la última regla",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Utilizar como referencia la fecha en que se tomó la prueba de embarazo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar una ecografía obstétrica a las 20 semanas de amenorrea Como sus reglas son irregulares, su FUR no es con\u0000able y no puede ser usada como método de determinación de la edad gestacional. La ecografía será el método de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "elección y mientras más precoz se realice, más preciso será su resultado.",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Una mujer de 28 años, primigesta, cursando un embarazo de 33 semanas de edad Sin contestar gestacional, inicia contracciones uterinas. Al examen físico se constatan 2 Puntúa como contracciones cada 10 minutos y un cuello uterino con 50% de borramiento y 1 cm 1,00 de dilatación. Las pruebas de bienestar fetal son tranquilizadoras. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar y dejar a evolución espontánea",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar corticoides sistémicos y tocolíticos, y mantener una conducta expectante",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Interrumpir el embarazo mediante cesárea",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar goteo oxitócico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar ecografía obstétrica Tiene un trabajo de parto prematuro, menor a 34 semanas, por lo que se debe manejar con tocolíticos y corticoides. Si tuviese 34 semanas o más, se manejaría con evolución espontánea. Antes del tacto vaginal, habría sido recomendable hacer",
+        "correcta": false
+      }
+    ],
+    "justificacion": "una cervicometría, de modo de evaluar la longitud cervical.",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Una mujer cursando un embarazo de 8 semanas de edad gestacional, inicia Sin contestar metrorragia escasa, sin otros síntomas, que en la especuloscopía se aprecia Puntúa como proveniente del OCE. La subunidad beta resulta 2.000 UI/L y la ecografía 1,00 transvaginal muestra un cuello cerrado, de 4 cm de largo, con un saco gestacional intrauterino, de 40 mm de diámetro, con presencia de un embrión de 12 mm de diámetro con latidos cardiofetales presentes. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar nueva beta-HCG y nueva ecografía en 48 horas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar nueva ecografía en 10 días por sospecha de aborto retenido",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hospitalizar y conducir el trabajo de aborto",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Enviar a domicilio, indicando reposo y control",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar laparoscopía Tiene síntomas de aborto (metrorragia, sin modi\u0000caciones cervicales), además está",
+        "correcta": false
+      }
+    ],
+    "justificacion": "con el embrión vivo. Solo se puede observar evolución. - La opción A (HCG y ecografía en 48 horas) es el manejo del embarazo ectópico (no tiene saco en la ecografía), con HCG menor a 1.500-3.500 (tampoco es el caso). - La opción B (ecografía en 7-14 días) es el manejo del aborto retenido, pero este no tiene metrorragia y, además, exige que haya un huevo anembrionado o un embrión sin latidos (ninguno se cumple, porque hay un embrión y tiene latidos). - Si hubiese estado sin latidos, sí se diagnosticaría un aborto retenido, por tener un embrión sin latidos mayor a 7 mm y se debería conducir el aborto (ej. misoprostol + mifepristona o AMEU) u observar, en espera del inicio espontáneo del trabajo de aborto.",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Una mujer presenta su primer embarazo, con\u0000rmado con subunidad beta. Durante Sin contestar los controles del primer trimestre debe realizarse todos los siguientes exámenes, Puntúa como EXCEPTO:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hemograma",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "VDRL y Elisa para VIH",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Glicemia de ayuno",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Registro basal no estresante",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Grupo y Rh materno El RBNE solo sirve en la segunda mitad del embarazo (en general en el tercer trimestre), para ver la vitalidad fetal. Los demás exámenes se piden al inicio del embarazo. También se piden TORCH, serología para Chagas, urocultivo y la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ecografía transvaginal.",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Una mujer se realiza un test de embarazo, el que resulta positivo. Acude a su primer Sin contestar control obstétrico, donde se realiza una ecografía transvaginal, que no visualiza el Puntúa como saco gestacional. Se solicitan niveles plasmáticos de gonadotro\u0000na coriónica, que 1,00 resultan 1.000 UI/L. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Enviar a domicilio, indicando reposo y mantener los controles normales del embarazo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar metotrexato",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar legrado uterino",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar nueva ecografía en 10 días",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Repetir la ecografía y la beta-HCG en 48 horas Por tener una ecografía negativa, con test de embarazo positivo, la sospecha diagnóstica es un embarazo ectópico. Se debe estudiar con HCG, que si está mayor a 1.500 a 3.500 UI/L (varía según la fuente) con\u0000rma el diagnóstico, pero si está bajo ese rango (como en este caso), se debe controlar en 48 horas con una nueva ecografía y niveles de HCG, ya que también puede tratarse de un embarazo normal",
+        "correcta": true
+      }
+    ],
+    "justificacion": "menor a 5 semanas, que todavía no se ve en la ecografía.",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Usted atiende a una mujer de 46 años, hipertensa, en tratamiento con enalapril e Sin contestar hidroclorotiazida, que consulta debido a que está embarazada, con 5 semanas de Puntúa como amenorrea. ¿Cuál es la conducta más adecuada para el manejo de su hipertensión 1,00 arterial?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mantener el tratamiento",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Suspender el tratamiento farmacológico actual e iniciar betabloqueantes",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Reemplazar el enalapril por losartán y mantener la hidroclorotiazida",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Mantener el enalapril y reemplazar la hidroclorotiazida por espironolactona",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Suspender el tratamiento farmacológico actual e iniciar alfametildopa La HTA crónica, en el embarazo, se debe tratar con alfametildopa (puede agregarse hidralazina), de modo de mantener presiones arteriales bajo 140/90 mmHg (Minsal: bajo 150/100). Los demás antihipertensivos están contraindicados, ya que pueden",
+        "correcta": true
+      }
+    ],
+    "justificacion": "producir malformaciones y otras complicaciones.",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Una paciente cursando un embarazo de primer trimestre, se realiza una ecografía Sin contestar transvaginal, que muestra un embarazo gemelar, con dos sacos gestacionales y Puntúa como signo de “lambda”. Se puede a\u0000rmar que este embarazo tendrá mayor riesgo de 1,00 todo lo siguiente, EXCEPTO:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Parto prematuro",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Rotura prematura de membranas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Secuencia TRAP",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Crecimiento discordante entre ambos gemelos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome hipertensivo del embarazo Como tiene signo de Lambda, es bicorial biamniótico. La secuencia TRAP es",
+        "correcta": false
+      }
+    ],
+    "justificacion": "exclusivo de los monocoriales (también la transfusión feto fetal).",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Una mujer de 25 años, primípara, consulta tres días después del parto por aumento Sin contestar de volumen y dolor, en relación a la cara anterior de axila. Al examen físico se Puntúa como aprecia una masa redonda de 5 cm de diámetro, tensa, muy dolorosa a la palpación, 1,00 con escaso eritema en la piel que la recubre. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar agonistas dopaminérgicos (bromocriptina / cabergolina)",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Educar, indicar analgésicos y observar evolución",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar antibióticos endovenosos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Programar cirugía electiva",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Resolver quirúrgicamente bajo cobertura antibiótica La clínica sugiere una glándula mamaria accesoria, que suele ser de buen pronóstico y que se resuelve espontáneamente (al menos cede el dolor), en unos días. Los dopaminérgicos se usan para suspender la lactancia. La mastitis (eritema en la mama) y el absceso mamario (dolor y aumento de volumen con eritema en la mama, no en la axila) sí se tratan con antibióticos (el absceso, además, se drena",
+        "correcta": false
+      }
+    ],
+    "justificacion": "con cirugía).",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Una paciente de 18 años, cursando un embarazo de 33 semanas de edad Sin contestar gestacional, consulta por marcado compromiso del estado general, asociado a Puntúa como dolor abdominal, vómitos e ictericia, que iniciaron hace dos días. Al examen físico 1,00 presenta presión arterial 150/100 e ictericia de piel y mucosas. En sus exámenes destaca GOT: 400 UI/L, bilirrubina: 7,3 mg/dl, fracción directa: 30%, hematocrito: 28%, LDH: 1.200 UI/L. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hígado graso agudo del embarazo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Colestasia intrahepática del embarazo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Listeriosis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Corioamnionitis clínica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome de HELLP Por la clínica puede ser tanto un hígado graso agudo del embarazo, como un síndrome de HELLP. Sin embargo, la hipertensión arterial, la anemia y la elevación",
+        "correcta": true
+      }
+    ],
+    "justificacion": "de la LDH (hemólisis), sugiere más un síndrome de HELLP. La CIE tiene prurito palmoplantar, con colestasia en las pruebas hepáticas, sin hepatitis.",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Una mujer presenta abundante metrorragia, inmediatamente después del parto, sin Sin contestar dolor. Es posible palpar el fondo uterino entre el ombligo y la apó\u0000sis xifoides. El Puntúa como diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hematoma vaginal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Restos ovulares",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Rotura uterina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Inercia uterina",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Laceración del canal del parto La inercia uterina o atonía uterina es la causa más frecuente de hemorragia puerperal precoz. Además, se caracteriza por tener el útero distendido (por sobre el ombligo). Si hubiese dicho que el útero estaba retraído o a la altura del ombligo (o bajo el ombligo), la respuesta habría sido laceración del canal, ya que es la segunda",
+        "correcta": false
+      }
+    ],
+    "justificacion": "causa.",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "¿Cuál de los siguientes antibióticos le parece más adecuado para el tratamiento de Sin contestar una pielonefritis aguda durante el embarazo?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ceftriaxona endovenosa",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Cipro\u0000oxacino oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Nitrofurantoína oral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Metronidazol endovenoso",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Ampicilina endovenosa En el embarazo, las pielonefritis se deben hospitalizar y tratar con antibióticos, por vía endovenosa, que cubran las bacterias habituales de ITU. Generalmente se iniciaba con cefazolina (primera generación), ya que tienen buena cobertura para Gram negativos, aunque actualmente se recomienda tratar con ceftriaxona (tercera generación) o cefepime (cuarta generación). Si son alérgicas, se pueden usar los",
+        "correcta": false
+      }
+    ],
+    "justificacion": "aminoglicósidos (gentamicina) o el astreonam (más usado en la actualidad). El cipro\u0000oxacino está contraindicado en el embarazo. La ITU baja se puede tratar con cefalosporinas orales (cefradina o cefadroxilo) y si es alérgica con nitrofurantoína. Vale la pena mencionar que tanto la nitrofurantoína, como los aminoglicósidos, deben evitarse, en lo posible, en el embarazo.",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "La pro\u0000laxis de sepsis neonatal por estreptococo grupo B, con ampicilina Sin contestar intravenosa durante el trabajo de parto, en una mujer que no se realizó el cultivo Puntúa como perineal a las 35-35 semanas, está indicada en una de las siguientes situaciones. 1,00 ¿Cuál es?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Más de 42 semanas de edad gestacional",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Diabetes mellitus gestacional",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Fiebre materna",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Preclamsia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Restricción del crecimiento intrauterino Las indicaciones de pro\u0000laxis son: * Siempre (con o sin cultivo): sepsis neonatal previa por SGB, UCT(+) para SGB. El",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Minsal, además, incluye al parto prematuro. * Cultivo perineal positivo para SGB. * Sin realización de cultivo, más \u0000ebre materna (más que pro\u0000laxis, se considera tratamiento, por lo que el esquema antibiótico es más amplio: ampicilina + gentamicina) o RPM mayor a 18 horas. En muchas guías internacionales el parto prematuro es indicación en esta situación (no realización de cultivo). Nota aclaratoria: el parto prematuro, en la práctica, es indicación de pro\u0000laxis por el simple hecho de que no se alcanza a tener el resultado del cultivo, que precisamente se pide a las 36 semanas. Además, la prematurez es el factor de riesgo más importante para sepsis neonatal.",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Una mujer de 20 años cursando un embarazo de 40 semanas de gestación, inicia Sin contestar trabajo de parto, por lo que es ingresada a la sala de parto, administrándose Puntúa como anestesia raquídea. En una evaluación presenta dilatación completa, con feto en 1,00 presentación de vértice, en el primer plano de Hodge, con membranas rotas y 4 contracciones cada 10 minutos. El registro fetal es tranquilizador. Se vuelve a evaluar 2 horas después, sin tener ningún cambio. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar cesárea",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar fórceps",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar goteo oxitócico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar metilergonovina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Mantener conducta expectante Tiene un expulsivo detenido: 10 cm de dilatación, sin descenso en 2 horas. Se debe realizar una prueba de trabajo de parto, sin embargo, dicha prueba ya se realizó espontáneamente, ya que tiene 1. Buena dinámica (3 a 5 CU en 10 min), por lo que",
+        "correcta": false
+      }
+    ],
+    "justificacion": "no requiere oxitocina, 2. Membranas rotas, por lo que no se pueden romper y 3. Anestesia. Por lo tanto, ya tiene diagnosticada la desproporción cefalopélvica y se debe proceder a la cesárea.",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Durante un trabajo de parto se realiza monitorización de la frecuencia cardíaca fetal. Sin contestar Se aprecia que en relación a la mayoría de las contracciones uterinas aparecen Puntúa como desaceleraciones en espejo con estas (desaceleraciones precoces). La conducta 1,00 más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dejar a evolución espontánea",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar aceleración oxitócica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar tocolíticos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar rotura arti\u0000cial de membranas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Interrumpir el embarazo por la vía más expedita Las desaceleraciones precoces o DIP I se consideran normales y por tanto es un",
+        "correcta": false
+      }
+    ],
+    "justificacion": "MEFI I, que se debe observar.",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Una mujer con 35 semanas de gestación acude a control, porque ha notado una Sin contestar disminución en los movimientos fetales y está preocupada. La conducta más Puntúa como adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar un registro basal no estresante de la frecuencia cardíaca fetal",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar un per\u0000l biofísico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar un test de tolerancia a las contracciones",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar una ecografía doppler umbilical",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar una ecografía doppler de arterias uterinas Es una pregunta difícil, ya que las opciones A, B, C y D evalúan el bienestar fetal. Sin embargo, como examen de primera línea ante la disminución de los movimientos fetales, se debe realizar un registro basal no estresante (RBNE). Solo si está no reactivo por 40 minutos, se procede al per\u0000l biofísico (PBF). Sin embargo, vale la pena aclarar que el PBF es una excelente herramienta y también es una respuesta",
+        "correcta": false
+      }
+    ],
+    "justificacion": "correcta, en estricto rigor. - El TTC solo se puede hacer en mayores de 36 semanas y en general se hace después de haber hecho un RBNE (puede inducir un parto prematuro). - El Doppler umbilical es útil, pero para evaluar patologías más crónicas, como la preclamsia o el RCIU. - Finalmente, el Doppler de uterinas no se utiliza en la evaluación fetal, sino que sirve para el screening de preclamsia, aunque su evidencia sea muy escasa.",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Una mujer de 35 años, cursando un embarazo de 30 semanas, presenta salida de Sin contestar abundante líquido claro por genitales. A la especuloscopía no hay cambios y se Puntúa como realiza test de cristalización, el que resulta positivo. El registro basal no estresante 1,00 resulta reactivo. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Interrumpir el embarazo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar corticoides sistémicos y enviar a domicilio con tratamiento antibiótico oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar corticoides sistémicos y tocolíticos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hospitalizar, administrar corticoides sistémicos y antibióticos",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Hospitalizar, administrar corticoides sistémicos, antibióticos y tocolíticos Tiene una rotura prematura de membranas (RPM o RPO), menor de 34 semanas (tiene 30 semanas), por lo que se debe manejar con antibióticos, corticoides y una",
+        "correcta": false
+      }
+    ],
+    "justificacion": "conducta expectante. Se debe hospitalizar. Si hubiese tenido más de 34 semanas, se habría tenido que interrumpir. Los tocolíticos están contraindicados en la rotura de membrana y solo se indican en el parto prematuro menor a 34 semanas, con membranas íntegras.",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una paciente cursando un embarazo de 29 semanas presenta \u0000ebre y malestar Sin contestar general, asociada a leucorrea. Al examen físico de la paciente se constata FC: 105x’, Puntúa como PA: 120/70 mmHg, t°: 38,5°C, sensibilidad a la palpación uterina y la especuloscopía 1,00 demuestra que la leucorrea proviene del OCE. Las pruebas de bienestar fetal son tranquilizadoras. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar gentamicina + clindamicina por vía endovenosa y realizar cesárea",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar corticoides sistémicos y antibióticos intraamnióticos e",
+        "correcta": false
+      }
+    ],
+    "justificacion": "interrumpir el embarazo al alcanzar las 32 semanas. c. Administrar antibióticos por vía endovenosa y mantener una conducta expectante d. Administrar corticoides y antibióticos sistémicos y mantener una conducta expectante e. Realizar amniocentesis de urgencia y decidir conducta según hallazgos Tiene una corioamnionitis clínica clásica: \u0000ebre materna (>37,8°C) más al menos 2 de los siguientes criterios: leucorrea, taquicardia materna, dolor a la palpación uterina, taquicardia fetal (no está en este caso), leucocitosis (no aparece en este caso). También cumple con los criterios modernos: \u0000ebre materna (>38°C) más al menos uno de los siguientes: leucorrea, taquicardia fetal o leucocitosis. Por lo que se cumple el diagnóstico de sospecha, que es su\u0000ciente para tratar. El diagnóstico de\u0000nitivo se realiza con la amniocentesis o la biopsia de la placenta. El tratamiento es la interrupción bajo cobertura antibiótica (idealmente con ampicilina más gentamicina más clindamicina, si se hace cesárea; otros indican clindamicina más gentamicina de entrada). La vía de parto puede ser vaginal, si es que está en trabajo de parto o si es que se puede inducir. Si está contraindicado el parto vaginal o si hay compromiso fetal (ej. taquicardia fetal, sufrimiento fetal), se debe interrumpir por cesárea, dada su rapidez.",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Una paciente con antecedente de preclamsia severa, está en trabajo de parto a la Sin contestar semana 35+0. Presenta 4 contracciones uterinas cada 10 minutos y su cuello tiene Puntúa como 10 cm de dilatación, con feto en presentación cefálica, en espinas 0. Además, recibe 1,00 sulfato de magnesio endovenoso por su patología de base. El monitoreo de la frecuencia cardíaca fetal (FCF) muestra una caída de la FCF, tal como se muestra en la \u0000gura. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar aceleración oxitócica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar tocolíticos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Mantener una conducta expectante",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar fórceps",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar cesárea de urgencia Tiene un registro MEFI III (ominoso), por presencia de una bradicardia mantenida (mayor a 10 min) y variabilidad ausente. Por tanto, se debe interrumpir de inmediato, por la vía más expedita. Vale la pena mencionar que el MEFI III se maneja con reanimación intrauterina (O2 materno, suspender la oxitocina y lateralizar a izquierda), y solo si no responde rápidamente, se interrumpe por la vía más expedita (se espera que responda en algunos minutos, \u0000jándose como máximo 30 minutos, pero pudiendo ser menos, según el registro, como ocurre en la bradicardia",
+        "correcta": true
+      }
+    ],
+    "justificacion": "mantenida, mayor a 10 minutos, en que se procede a interrumpir). La vía más expedita puede ser una cesárea de urgencia (si no se dan las condiciones para un fórcep, como en este caso) o bien un fórceps (si se dan las condiciones obstétricas: 10 cm de dilatación, cefálica, descenso en trecer plano de Hodge o espinas + 2).",
+    "archivo_origen": "cuestionario_2.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Una mujer de 30 años, cursando un embarazo de 35 semanas, consulta por Sin contestar disminución de la percepción de los movimientos fetales. Se realiza un registro Puntúa como basal no estresante que muestra lo siguiente: La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Repetir el registro por 20 minutos adicionales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar per\u0000l biofísico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Interrumpir con misoprostol",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Interrumpir por cesárea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tranquilizar y enviar a domicilio, manteniendo una conducta expectante Tiene un RBNE reactivo (2 o más aceleraciones en 20 minutos; en este caso tiene",
+        "correcta": true
+      }
+    ],
+    "justificacion": "6). Por tanto, se debe tranquilizar.",
+    "archivo_origen": "cuestionario_2.txt"
+  }
+]

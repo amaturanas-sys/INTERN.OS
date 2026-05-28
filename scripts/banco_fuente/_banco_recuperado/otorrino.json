@@ -1,0 +1,1652 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 12 años de edad, con antecedente de dermatitis atópica, consulta Sin contestar por cuadro de 2 años de evolución de obstrucción nasal, asociada a rinorrea y Puntúa como epistaxis intermitentes. Al examen físico no hay hallazgos patológicos. La causa 1,00 más probable de este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cáncer nasosinusal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Naso\u0000broangioma",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Rinitis alérgica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Cuerpo extraño nasal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sinusitis crónica Es una rinitis alérgica clásica, tanto por el antecedente de atopía, como por la clínica de obstrucción nasal, rinorrea y epistaxis (la rinitis alérgica es la causa más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "frecuente de esos 3 síntomas). El cáncer nasosinusal afecta a adultos fumadores y tiene obstrucción y espistaxis unilateral progresivas. El naso\u0000broangioma afecta a adolescentes y tiene obstrucción y marcada epistaxis progresiva. El cuerpo extraño nasal tiene rinorrea purulenta y pútrida unilateral. La sinusitis crónica tiene rinorrea purulenta, descarga posterior, hiposmia, obstrucción nasal, cefalea, \u0000ebre y sensación de presión facial.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Paciente de 7 años, de edad, sin antecedentes, consulta por cuadro de \u0000ebre de 1 Sin contestar día de evolución asociado a gran odinofagia, sin otros síntomas. Al examen físico Puntúa como se aprecia decaído, sudoroso, faringe eritematosa, amígdalas con placas grisáceas, 1,00 sin otros hallazgos. El fármaco de elección para el tratamiento de este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Clindamicina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Amoxicilina",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Acetaminofeno",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Prednisona",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Levo\u0000oxacino Es una amigdalitis estreptocócica, ya que tiene odinofagia intensa de rápida instalación, \u0000ebre, exudado y ausencia de síntomas catarrales (tos, rinorrea o disfonía). Se trata con amoxicilina. Si fuera alérgico, los macrólidos serían de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "elección, aunque la clindamicina sería una buena opción. Desde la óptica de los criterios de Centor (1. Tº > 38º, 2. exudado o hipertro\u0000a, 3. adenopatías, 4. ausencia de síntomas catarrales y 5. edad 3-15 años), tiene 4 puntos, por lo que lo correcto es tratar. 0-1 punto: tratamiento sintomático. 2-3 puntos: prueba de detección de SGA. Tratar si positiva. 4-5 puntos: tratar.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Paciente de 55 años, con antecedente de EPOC tabáquico en tratamiento, consulta Sin contestar por aparición de lesión en lengua que se muestra a continuación (fuente: Puntúa como https://www.sdpt.net/par/leucoplasiapilosa.htm). La conducta más adecuada en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mantener en observación",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar hemograma y vhs",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar biopsia",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar nistatina tópica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar ELISA para VIH Tiene una leucoplaquia o leucoplasia. Suelen ser lesiones premalignas, e incluso puede tratarse de un cáncer. Por ello, se deben biopsiar y luego remover, mediante crioterapia o cirugía. Sí es correcto solicitar Elisa VIH, ya que se asocia a dicha patología y toda persona sexualmente activa se debe hacer dicho examen como screening, pero, en este caso tiene claro el antecedente de tabaquismo como causa",
+        "correcta": false
+      }
+    ],
+    "justificacion": "y se pregunta el manejo de la leucoplasia, que es la biopsia.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Paciente de 45 años de edad, con antecedente de hipertensión arterial en Sin contestar tratamiento con enalapril, consulta por presentar hipoacusia progresiva, mayor a Puntúa como izquierda. La otoscopía, así como el resto de su examen físico, es normal. Se 1,00 solicita una audiometría que se muestra a continuación. (NOTA: solo se muestra la audiometría del oído izquierdo, sin embargo, la del oído derecho es similar) El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Neurinoma del acústico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Otitis media crónica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Presbiacusia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Otoesclerosis",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Ototoxicidad La imagen muestra una hipoacusia de conducción (la vía aérea cae, pero la vía ósea se mantiene normal). Dentro de las opciones, solo la otitis media crónica (OMC) y la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "otoesclerosis son de conducción (las demás son hipoacusias sensorioneurales). Sin embargo, la OMC tiene alterada la otoscopía (habitualmente con una perforación timpánica), por lo que la respuesta correcta es otoesclerosis, que, por cierto, es la causa más frecuente de hipoacusia de conducción, con tímpano sano.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Paciente de 30 años, profesor de colegio, consulta por presentar disfonía desde Sin contestar hace varios meses no asociado a otros síntomas. Re\u0000ere que cuando trabaja Puntúa como mucho, sus síntomas empeoran y que durante el reposo persiste con disfonía. La 1,00 causa más probable en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Nódulos cordales",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Edema de Reinke",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cáncer laríngeo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Disfonía musculotensional",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Parálisis vagal",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Por ser un profesor, lo más probable es que sea de tipo funcional, por abuso vocal. Tanto los nódulos cordales, como la disfonía muscolotensional son funcionales, pero esta última mejora prácticamente por completo al guardar reposo, mientras que los nódulos mantienen algún grado de disfonía, como en este caso. Se debe realizar una naso\u0000broscopía, ya que podría tratarse de otra causa.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Paciente de 24 años, sin antecedentes, sufre caída golpeándose la cara Sin contestar presentando epistaxis moderada. Al examen físico se encuentra deformidad nasal, Puntúa como equimosis en ambos pómulos y a la especuloscopía nasal se aprecia 1,00 engrosamiento del septum. La conducta más adecuada en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar radiografía de cara y observar",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Taponar y realizar reducción de fractura inmediatamente",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Taponar y realizar reducción de fractura de forma diferida",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar drenaje quirúrgico y taponar",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar TAC de cara y taponar El engrosamiento del septum sugiere un hematoma septal, el que requiere drenaje urgente, mediante incisión amplia, ya que se complica con necrosis avascular del cartílago septal. Se recomienda dejar amoxicilina, junto al taponamiento, pero no es",
+        "correcta": false
+      }
+    ],
+    "justificacion": "obligatorio, a menos que tenga signos de infección.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Se desea hacer screening de hipoacusia congénita a un recién nacido, con Sin contestar antecedente de ser hijo PEG y prematuro. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar potenciales evocados auditivos",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar audiometría",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar impedanciometría",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar RMN de troncoencéfalo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución hasta los 2 años El gold standard para el screening de hipoacusia congénita son los potenciales evocados automáticos o BERA. Como alternativas más baratas están las emisiones otoacústicas (EOA), pero si están alteradas, se deben con\u0000rmar con los potenciales evocados. La con\u0000rmación de\u0000nitiva se realiza con potenciales evocados clínicos,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "realizados por un técnico especializado, entrenado para ello.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un niño de 4 años, sin antecedentes, es derivado desde su jardín por retraso en el Sin contestar lenguaje. No re\u0000ere otros síntomas. Al examen destacan tímpanos opacos sin otras Puntúa como alteraciones. Se realiza estudio con impedanciometría que muestra la siguiente 1,00 curva: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Otitis media aguda",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Otitis externa difusa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Otitis media crónica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Otitis media con efusión",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Otitis media recurrente Tiene una curva B (plana), por lo que se con\u0000rma el diagnóstico de OME, que es la causa más frecuente de hipoacusia en los niños y se caracteriza por tímpanos rosados y opacos. La otitis media aguda (OMA) también tiene una curva B, pero su clínica es completamente diferente (\u0000ebre, otalgia e irritabilidad). La otitis externa (OE) no produce hipoacusia, sino otalgia y otorrea. La otitis media crónica (OMC)",
+        "correcta": false
+      }
+    ],
+    "justificacion": "afecta a los adultos. Finalmente, OMA, OE y OMC tienen otoscopías diferentes.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Paciente de 59 años, con antecedente de otitis media aguda a repetición en la niñez, Sin contestar consulta por cuadro de meses de otorrea del oído derecho, la cual ha aumentado en Puntúa como los últimos días agregándose \u0000ebre. Al examen físico se observa eritema en zona 1,00 retroauricular derecha, sensible a la palpación, y a la otoscopía se observa perforación timpánica ipsilateral con presencia de secreción purulenta. El tratamiento de elección frente a este paciente es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Antibióticos endovenosos",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Corticoides endovenosos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cirugía de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Antibióticos tópicos (gotas óticas)",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Antiin\u0000amatorios orales Tiene una otitis media crónica (OMC) clásica (por la perforación y otorrea), complicada con una mastoiditis aguda (por la \u0000ebre y eritema retroauricular). Si bien la OMC se trata con antibióticos tópicos, la mastoiditis obliga a hospitalizarlo y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "tratarlo con antibióticos endovenosos. Los antibióticos de la mastoiditis deben cubrir los microorganismos de la otitis media aguda (ej. ceftriaxona), pero, si proviene de una OMC, además, es fundamental cubrir pseudomona, por lo que quedará con cefepime o alguna otra formulación de amplio espectro, con cobertura de P. aureginosa.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Paciente de 35 años de edad, soltero, con antecedentes de hipertensión arterial y Sin contestar obesidad, consulta por cuadro de fatigabilidad matinal de meses de evolución, Puntúa como asociado a hipersomnia. Su examen físico no aporta mayor información. ¿Cuál es la 1,00 conducta más adecuada con este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar polisomnograma",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar C-PAP nocturno",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar metilfenidato en las mañanas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar naso\u0000broscopía",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar amigdalectomía bilateral La sospecha es un SAHOS (síndrome de apnea hipopnea obstructiva del sueño), ya que tiene obesidad e hipersomnia. De elección, se debe estudiar con una polisomnografía, ya que la clínica tiene mal rendimiento para diagnosticar y evaluar",
+        "correcta": false
+      }
+    ],
+    "justificacion": "el SAHOS. La polisomnografía idealmente se debe hacer con titulación de C-PAP. Los test de SAHOS en el hogar son una opción aceptable y más barata, pero solo si se sospecha que un SAHOS moderado o severo (tiene mala sensibilidad en SAHOS leve), no complicado y sin sospecha de otras patologías (ej. narcolepsia) ni trabajos de alto riesgo (ej. chofer de un buso piloto).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Paciente de 43 años de edad, sin antecedentes, consulta por cuadro de dos días de Sin contestar evolución de otalgia izquierda, asociada a hipoacusia ipsilateral que es \u0000uctuante Puntúa como durante el día. A la otoscopía se observa una araña viva en el interior del conducto 1,00 auditivo externo. La conducta inicial más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Retirar con pinzas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Retirar con suero \u0000siológico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Observar",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar insecticida por CAE",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Retirar con vaselina líquida Por regla general, los cuerpos extraños óticos se derivan, con la excepción de un insecto vivo (en este caso un arácnido), lo que deben matarse con vaselina líquida, aceite vegetal o lidocaína y posteriormente derivarlo. El suero y el agua no logran matarlo, ya que, por la alta tensión super\u0000cial del agua, se forman burbujas y el insecto se mantiene vivo (pero agitado), lo que puede aumentar el daño. El",
+        "correcta": true
+      }
+    ],
+    "justificacion": "insecticida tiene mucho riesgo.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Paciente de 62 años, con antecedente de diabetes mellitus tipo 2 sin tratamiento, Sin contestar consulta por otalgia izquierda y gran decaimiento. Al examen se ve febril (39°C), Puntúa como normotenso y taquicárdico (110 x’), además presenta eritema del pabellón auricular 1,00 izquierdo y en la zona preauricular, asociada a otorrea purulenta. El tratamiento más adecuado en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar gentamicina tópica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar cipro\u0000oxacino tópico asociado a amoxicilina oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar ceftazidima y amikacina ev",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar cefadroxilo y clindamicina ev",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar aseo quirúrgico en pabellón asociado a antisépticos tópicos Tiene una otitis externa maligna (otorrea, otalgia y luego eritema de la oreja o la cara). Es una infección grave, causada por Pseudomona aureginosa, habitualmente en pacientes diabéticos o neutropénicos. Se trata con antibióticos endovenosos antipesudomona (ceftazidima, cefoperazona, cefepime o carbapenémicos, más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "tobramicina, amikacina o kanamicina).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente presenta vértigo de 3 días de evolución, de inicio súbito, muy intenso, Sin contestar asociado a vómitos, con lateropulsiones a derecha y un nistagmo de reposo, Puntúa como horizontal, con fase rápida a izquierda, muy marcado. No tiene signos cerebelosos, 1,00 compromiso de otros pares craneanos ni alteraciones sensitivas o motoras. No presenta síntomas auditivos. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Vértigo postural paroxístico benigno",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Neurinoma del acústico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Enfermedad de Ménière",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Neuronitis vestibular",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Accidente vascular Tiene un vértigo periférico, muy intenso y persistente, por lo que lo más probable es",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que tenga una neuronitis vestibular (se trata con corticoides). - El VPPB se relaciona con los movimientos de la cabeza y solo dura algunos segundos. Se trata con maniobras de reposición. - La enfermedad de Ménière tiene vértigo, más tinitus e hipoacusia, generalmente \u0000uctuantes. Se trata con betahistina. - El neurinoma del acústico también suele tener estos síntomas, solo que más progresivos. - El accidente vascular tendría un vértigo de tipo central: nistagmo multidireccional, pulsiones multilaterales y signos cerebelosos. Su tratamiento es complejo y depende del tipo de accidente vascular (isquémico vs hemorrágico).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Paciente de 10 años de edad, sin antecedentes, es traído por la aparición de Sin contestar aumento de volumen en cuello, de 2 meses de evolución, que se muestra a Puntúa como continuación: La causa más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Quiste branquial",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Quiste conducto tirogloso",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lipoma cervical",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Adenitis infecciosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Quiste sebáceo Es un quiste branquial clásico. Se presenta en niños y adolescentes (aunque está presente desde el nacimiento, solo que pequeño e imperceptible), ubicado en la zona lateral del cuello, generalmente en el borde anterior del músculo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "esternocleidomastoideo. - El quiste tirogloso es similar, pero ubicado en la línea media del cuello. - El lipoma es menos frecuente en el cuello, ya que suele estar en otras ubicaciones (ej. extremidades o espalda). - La adenitis infecciosa tendría signos in\u0000amatorios, aunque los quistes también se pueden infectar, con la diferencia que en los quistes la infección suele ser una complicación posterior a la aparición del mismo (no siempre, ya que, en ocasiones se presentan como una absceso). - El quiste sebáceo suele tener un poro central, por que puede salir el material sebáceo, si es que se presiona.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Paciente de 5 años de edad, sin antecedentes, es traído por cuadro de tos ronca, Sin contestar mayor en la noche, asociado a irritabilidad y \u0000ebre (38°C), al que luego se agrega Puntúa como di\u0000cultad respiratoria. Al examen físico se aprecia cianosis perioral, saturación 1,00 arterial de oxígeno de 93%, estridor inspiratorio, uso de musculatura intercostal. El agente etiológico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Virus parain\u0000uenza",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Haemophilus in\u0000uenzae B",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Neumococo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Streptococcus pyogenes",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Staphilococcus aureus",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una laringitis obstructiva clásica, que es causada por virus parain\u0000uenza.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un adolescente de 15 años presenta un cuadro de coriza y odinofagia, asociada a Sin contestar decaimiento que inició hace 2 días. Al examen se palpan algunas adenopatías Puntúa como cervicales sensibles, faringe eritematosa, con amígdalas aumentadas de tamaño, 1,00 sin exudado. Resto del examen físico es normal. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Angina de Vincent",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Resfrío común",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Mononucleosis infecciosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Adenitis supurada",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Amigdalitis pultácea Es un resfrío común y corriente. También se puede ver como una faringoamigdalitis de características virales, ya que tiene síntomas catarrales (coriza), no tiene",
+        "correcta": false
+      }
+    ],
+    "justificacion": "odinofagia especialmente intensa y no tiene exudado.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Un paciente de 60 años presenta un cuadro de 3 meses de evolución de sensación Sin contestar de presión facial, secreción nasal purulenta y descarga posterior, asociado a Puntúa como disminución del olfato y obstrucción nasal. Se debe iniciar estudio con:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Nasofobroscopía",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "TAC de cavidades paranasales",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Radiografía de cavidades paranasales",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Manometría nasal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cultivo de secreción nasal La clínica es de una sinusitis. Además, por llevar 3 meses (más de 12 semanas) es crónica. Aunque el diagnóstico es predominantemente clínico, la sinusitis crónica se debe estudiar con una TAC de senos paranasales, tanto para apoyar el diagnóstico como, especialmente, para ver si existe alguna causa anatómica que la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "explique.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Un paciente presenta parálisis facial de 2 horas de evolución. Al examen se Sin contestar constata que conserva la capacidad de arrugar la frente y levantar la ceja, sin Puntúa como embargo, no puede sonreír. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar prednisona oral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar Aciclovir oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar prednisona + Aciclovir oral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar electromiografía",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hospitalizar y solicitar una neuroimagen de urgencia Es una parálisis facial central, ya que mantiene la capacidad de arrugar la frente, lo que es característico de las parálisis faciales de causa central. Por tanto, se debe estudiar con una neuroimagen, ya que la causa más frecuente es el accidente",
+        "correcta": true
+      }
+    ],
+    "justificacion": "vascular encefálico (AVE). - Si hubiese sido periférica (sin signos focales, ni afectación de otros pares craneanos, ni posibilidad de arrugar la frente), la conducta correcta habría sido la prednisona sola. - Solo si hubiese tenido vesículas en el trago (síndrome de Ramsey Hunt), sería necesario, además, el aciclovir o valaciclovir, aunque también es aceptable dejarlos en una parálisis facial periférica muy severa o con algún otro signo de infección por herpes (ej. vesículas en la cara).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente de 50 años, con antecedente de tabaquismo crónico, presenta disfonía Sin contestar de varias semanas de evolución, la cual es constante sin variaciones con el uso Puntúa como excesivo de la voz. Al examen físico no presenta otras alteraciones. La conducta 1,00 más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar TAC de cuello",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar ecografía de cuello",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar naso\u0000broscopía",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar antibióticos orales y revaluar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar reposo vocal y observar evolución Toda disfonía crónica se estudia con naso\u0000broscopía. Más aun, en este caso, en",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que se sospecha un cáncer, dado que es fumador y que no varía con el uso vocal.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un niño de 1 año se traga una pila de reloj agrande, presentando llanto y di\u0000cultad Sin contestar para tragar. Se solicita una radiografía que muestra lo siguiente (fuente: Puntúa como https://www.researchgate.net/\u0000gure/Figura-4-Pila-boton-en-esofago-Imagen-de- 1,00 doble-contorno_\u0000g4_237016567): La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar extracción endoscópica",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar TAC abdominal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Observar evolución e indicar control en una semana, o en caso de síntomas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar lactulosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar radiografías de abdomen seriadas Se debe extraer, mediante endoscopía, tanto por ser una pila (las pilas grandes siempre se sacan, independiente de su localización; y las pilas pequeñas habitualmente se deben extraer también, aunque es algo más discutible), como por",
+        "correcta": false
+      }
+    ],
+    "justificacion": "estar en el esófago (por la odinofagia y por verse en el cuello, en la radiografía). Todo cuerpo extraño esofágico se saca. En cambio, si estuviera en el estómago o intestino, se puede observar evolución y solo se extrae, si es que se complica (o si es una pila o imanes). El cuerpo extraño esofágico no se debe confundir con la impactación de comida en el esófago, cuyo manejo puede ser con la observación (si permite tragar líquidos, no tiene dolor ni signos de perforación y no pasa más de 24 horas), o bien, desimpactar con una endoscopía (si tiene cualquiera de los signos de alarma descritos).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 58 años, con antecedente de hipertensión arterial, consulta por Sin contestar vértigo de una hora de evolución, asociado a imposibilidad de caminar. Al examen Puntúa como físico, se aprecia nistagmo multidireccional, asociado a tendencia a caer hacia 1,00 ambos lados y hacia adelante. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Accidente vascular encefálico",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Neuronitis vestibular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Enfermedad de Ménière",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Neurinoma del acústico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Vértigo postural paroxístico benigno Dado que tiene nistagmos multidireccional y lateropulsiones bilaterales, con anteropulsiones, tiene un vértigo central. La causa más frecuente es el accidente",
+        "correcta": false
+      }
+    ],
+    "justificacion": "vascular encefálico. Las demás son causas de vértigo periférico. El vértigo periférico, en cambio, tiene nistagmos unidireccional, con tendencia a caer hacia el lado enfermo y no tiene signos cerebelosos (dismetría, adiadococinecia y ataxia).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente consulta por sensación de oído izquierdo tapado. No ha presentado Sin contestar vértigo ni otros síntomas. El examen físico es normal. Se solicita audiometría, que Puntúa como está pendiente y una impedanciometría, que se muestra a continuación: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Disfunción tubárica",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Otitis media con efusión",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Otesclerosis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Presbiacusia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sano Tiene una curva C (curva desplazada hacia los valores negativos), que es diagnóstica de disfunción tubárica. La OME tiene curvas B (plana) o Cs (baja y desplazada hacia las presiones negativas). La otoesclerosis tiene curca As (baja y con el vértice en el 0). La presbiacusia, como toda hipoacusia sensorioneural, tiene curvas A o normales (de altura normal, con el vértice en el cero), dado que no hay",
+        "correcta": false
+      }
+    ],
+    "justificacion": "alteraciones en el tímpano u oído medio.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un niño de dos años es traído por su madre, por otalgia, asociada a \u0000ebre hasta Sin contestar 38,5 °C, de dos días de evolución. Se realiza otoscopia, que muestra tímpano Puntúa como izquierdo abombado, eritematoso, con una perforación puntiforme, de la que sale 1,00 pus. La madre re\u0000ere que durante este año ha presentado 3 episodios similares (el último hace 2 meses), los que han sido tratados con amoxicilina, con buena respuesta. ¿Qué antibiótico es el más adecuado?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ninguno, solo necesita tratamiento sintomático",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Amoxicilina",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Amoxicilina + ácido clavulánico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Azitromicina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Clindamicina Tiene una otitis media aguda recurrente (3 o más episodios de OMA en un año). La causa es la disfunción tubárica, por lo que no tiene relación con resistencia antibiótica y no es necesario hacer cambio alguno. Por tanto, se sigue indicando la amoxicilina, como tratamiento de elección. Lo que sí se debe hacer, es derivarlo al otorrinolaringólogo, para evaluar la necesidad de instalar tubos de ventilación y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "realizar una adenoidectomía. - La amoxicilina-clavulánico solo se indica en la OMA que no responde a 3 días de amoxicilina, aunque también es aceptable dejarla si recibió amoxicilina en los últimos 15 días. - La azitromicina se indica en alérgicos a la penicilina. * Eso sí, algunos sí recomiendan indicar amoxicilina-ácido clavulánico en las OMAR, incluso cuando ha pasado más de 15 días desde el uso de amoxicilina, pero son la minoría.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente de 18 años presenta epistaxis derecha de 3 meses de evolución, que ha Sin contestar sido intermitente, pero que ha aumentado de frecuencia. Además, re\u0000ere que hace 1 Puntúa como mes siente la fosa nasal derecha totalmente tapada. No fuma, ni consume 1,00 sustancias y no re\u0000ere otras molestias. Consulta ahora por epistaxis, que empezó hace 30 minutos y que no ha parado. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cáncer nasal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cuerpo extraño nasal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Naso\u0000broangioma",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Sinusitis crónica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Mucormicosis Es un naso\u0000broangioma clásico: adolescente con obstrucción nasal y epistaxis ipsilateral progresivas. Es un tumor benigno, que se debe manejar quirúrgicamente,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "para evitar que siga sangrando. El cáncer nasal afecta a adultos, generalmente fumadores, con obstrucción nasal y secreción serosanguinolenta. Además, puede invadir la órbita y producir todo tipo de molestias oculares (proptosis, estrabismo). El cuerpo extraño nasal produce rinorrea pútrida unilateral. La mucormicosis presenta una sinusitis muy agresiva, necrosante, con visualización de hifas de hongos o bien, con necrosis de la nariz o la cara. Suele afectar a diabéticos y pacientes neutropénicos.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un niño de 8 años consulta por odinofagia intensa, asociada a malestar general de Sin contestar un día de evolución, sin otros síntomas. Al examen físico está decaído, con \u0000ebre de Puntúa como 38,8 grados Cesius y se observa la faringe eritematosa, con pequeñas placas 1,00 blanquecinas en ambas amígdalas, que ocupan los surcos amigdalinos. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar tratamiento sintomático",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar amoxicilina más ácido clavulánico oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar amoxicilina oral",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar cultivo faríngeo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar serología para virus Ebstein Baar (IgM VCA) Tiene una clínica muy sugerente de amigdalitis pultácea o estreptocócica: exudado en los surcos, odinofagia intensa, sin signos catarrales y con \u0000ebre. Se trata con amoxicilina oral. Desde el punto de vista de los criterios de Centor (1. Fiebre >38ºC,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "2. Adenopatías cervicales, 3. Edad 3-15 años, 4. Ausencia de signos catarrales, 5. Exudado o hipertro\u0000a amigdalina), tiene 4 puntos, por lo que se debe tratar con antibióticos. - Si hubiese tenido 0 o 1 punto, se trata sintomáticamente, ya que probablemente es viral. - Si hubiese tenido 2 o 3 puntos, se debe pedir una prueba con\u0000rmatoria (generalmente test rápido por ser inmediato, más cultivo, por tener una mayor sensibilidad). Si la prueba está positiva, se trata con antibióticos. Si está negativa, solo se indica tratamiento sintomático. La decisión inicial se suele hacer con la prueba rápida y la decisión \u0000nal se realiza con el cultivo faríngeo, que suele demorar 2 días en tener un resultado.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente de 35 años consulta por hipoacusia bilateral, mayor a derecha. Al Sin contestar examen físico se constata dicha hipoacusia y se objetiva una otoscopía normal. El Puntúa como test de Weber lateraliza a la derecha y se realiza una audiometría, que se muestra a 1,00 continuación. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Sordera súbita",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Otitis media crónica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Otitis media con efusión",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Presbiacusia precoz",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Otoesclerosis La audiometría muestra una hipoacusia de conducción, ya que la vía aérea cayó, pero la vía ósea está normal (escucha sobre los 20 dB). De las opciones, solo la otitis media crónica (OMC), la otitis media con efusión (OME) y la otoesclerosis son de conducción. En cambio, sordera súbita y prebiacusia son sensorioneurales. El paciente tiene la otoscopía normal, por lo que no puede ser la OMC. Además, por ser adulto, es improbable que sea una OME. En adultos, la otoesclerosis es la causa",
+        "correcta": true
+      }
+    ],
+    "justificacion": "más frecuente de hipoacusia de conducción con tímpano sano. * Recordar, eso sí, que el tímpano sano es característico de las hipoacusias sensorioneurales, por lo que la otoesclerosis es la excepción.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un niño de 3 años presenta rinorrea purulenta abundante por la fosa nasal derecha, Sin contestar desde hace dos días. El resto de su examen físico es normal. La conducta más Puntúa como adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar amoxicilina oral y controlar ambulatoriamente",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar corticoides en spray nasal y controlar ambulatoriamente",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar irrigaciones con suero \u0000siológico, en la fosa nasal derecha",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Derivar a otorrinolaringólogo La sospecha es un cuerpo extraño nasal, por lo que se debe derivar, para con\u0000rmar",
+        "correcta": true
+      }
+    ],
+    "justificacion": "su diagnóstico y para ser retirado por el especialista. El diagnóstico suele hacerse con una simple rinoscopía (mirar la nariz con un espéculo nasal y una buena luz), pero este procedimiento suele ser realizado por otorrinolaringólogo. La opción, si no se ve, suele ser la naso\u0000broscopía. En los casos en que la historia es muy sugerente y el diagnóstico lo realiza el médico general, se puede intentar con el paciente las maniobras de soplido unilateral (similar a como se sacan los mocos los futbolistas, tapando una fosa nasal y soplando fuertemente por la otra, hasta botar el cuerpo extraño).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente de 17 años consulta por rinorrea acuosa, asociada a obstrucción nasal Sin contestar bilateral, de dos algunos años de evolución, pero que ha aumentado en el último Puntúa como mes. Re\u0000ere prurito nasal y al examen físico se aprecia ojeroso, con mucosa nasal 1,00 pálida. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar vasoconstrictores nasales tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar corticoides tópicos nasales",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar \u0000ujometría nasal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar clorfenamina oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar prick test, eosinó\u0000los nasales y niveles plasmáticos de IgE El diagnóstico es una rinitis alérgica con clínica clásica (rinorrea, obstrucción, prurito y signos de atopía, con mucosa pálida). Por tanto, el diagnóstico está con\u0000rmado. El tratamiento suele ser con antihistamínicos H1 orales (más fáciles de usar) o con corticoides tópicos (más e\u0000caces). Si los síntomas son graves o si hay obstrucción nasal, como en este caso, se pre\u0000eren los corticoides tópicos, como",
+        "correcta": false
+      }
+    ],
+    "justificacion": "tratamiento de primera línea.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un niño de 12 años consulta por odinofagia muy intensa, asociada a imposibilidad Sin contestar de masticar y de tragar. Al examen físico presenta dolor a la apertura mandibular y Puntúa como se observa faringe eritematosa, con exudado amigdalino. La amígdala derecha está 1,00 desplazada hacia medial y se aprecia aumento de volumen, en relación al pilar amigdalino derecho. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar ecografía cervical",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar TAC de cuello",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar resonancia magnética nuclear",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Enviar a domicilio con amoxicilina oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Inyectar una dosis de penicilina benzatina y enviar a domicilio El diagnóstico de sospecha es un absceso periamigdalino (trismus, dolor y abombamiento del pilar amigdalino anterior). Se debe estudiar con una TAC de cuello y luego se trata con drenaje quirúrgico, en pabellón, bajo cobertura antibiótico, con antibióticos de amplio espectro (ejemplo: ceftriaxona más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "clindamicina).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente de 35 años consulta por rinorrea mucosa, tos, sensación de descarga Sin contestar posterior e hiposmia, de 2 días de evolución, asociado a cefalea, que aumenta al Puntúa como agacharse. El examen físico no aporta mayor información. La conducta más 1,00 adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar TAC de cavidades paranasales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar tratamiento sintomático",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar amoxicilina oral por 14 días",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar clindamicina oral por 10 días",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar cefuroximo oral por 10 a 14 días Tiene clínica de una sinusitis, por lo que el diagnóstico es sinusitis, puesto que es de diagnóstico clínico. Además, por tener menos de 4 semanas, es una sinusitis aguda. Por tener menos de 1 semana, es de etiología viral, por lo que se trata sintomáticamente. Si tuviese más de 7-10 días y no mejora o si inicialmente mejoró, pero luego empeora, se sospecharía que es bacteriana y se trataría con antibióticos por 14 días (amoxicilina es de elección, aunque es aceptable dejar amoxicilina más ácido clavulánico, cefuroximo, ce\u0000xima, cefpodoxima o incluso doxiciclina). También sugiere que sea bacteriana la visualización de pus saliendo por el meato medio. Finalmente, las complicadas con abscesos son bacterianas,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "independientemente del tiempo de evolución.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente de 59 años consulta por disfonía de un mes de evolución, que ha ido en Sin contestar aumento. También presenta tos y carraspera ocasional. ¿Qué examen es más Puntúa como adecuado para evaluarlo?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "TAC de cuello",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ecografía de cuello",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Test pack para virus parain\u0000uenza",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Videodeglución",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Naso\u0000broscopía Toda disfonía crónica se debe estudiar con una naso\u0000broscopía, dado que hay que",
+        "correcta": true
+      }
+    ],
+    "justificacion": "descartar el cáncer y buscar las demás causas.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente de 30 años consulta por epistaxis izquierda abundante, de 20 minutos Sin contestar de evolución. Usted realiza compresión nasal por 15 minutos, sin lograr que la Puntúa como epistaxis pare. ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar lavados con suero \u0000siológico intranasal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Aplicar vasoconstrictores nasales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar taponamiento posterior",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar taponamiento anterior",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Comprimir por 15 minutos más y reevaluar El orden del manejo de la epistaxis es 1. Compresión nasal (se puede agregar oximetazolina o adrenalina tópicas, como vasoconstrictores), 2. Cauterizar con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "nitrato de plazo, mediante rinoscopía directa, 3. Taponamiento anterior y 4. Taponamiento posterior. Si no responde, se hacen cosas más invasivas.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un niño de 2 años presenta retraso del lenguaje. Además, su madre cree que no oye Sin contestar bien. Se realiza otoscopia, que muestra los tímpanos opacos. ¿Cuál es la conducta Puntúa como más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar audiometría",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar impedanciometría",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar audífono",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar VERA y emisiones otoacústicas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar antibióticos orales y controlar en un mes Se sospecha una otitis media con efusión (OME), dado que tiene hipoacusia y tímpanos opacos (en niño). Se estudia con impedanciometría, que suele mostrar",
+        "correcta": false
+      }
+    ],
+    "justificacion": "curvas B o Cs. La audiometría no se puede hacer a los 2 años, ya que requiere de cooperación del niño (generalmente desde los 4-6 años, dependiendo del niño). Si la otoscopia hubiese estado normal, hubiese sido correcto solicitar los potenciales evocados. Además, actualmente se recomienda realizar evaluación de desarrollo en todo niño con retraso de lenguaje, ya que incluso si hay hipoacusia, es posible que haya otra condición de base, como la condición del espectro autista, que requiere intervención precoz.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente presenta vértigo muy intenso, de algunos segundos de duración, que Sin contestar aparece al realizar movimientos de la cabeza, como al levantarse de la cama. ¿Cuál Puntúa como de los siguientes fármacos es más útil para el manejo de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Difenidol",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Diltiazem",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Prednisona",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Fluoxetina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Pregabalina Es una pregunta muy discutible, ya que la clínica es ce vértigo postural paroxístico benigno (VPPB), que generalmente no se trata con fármacos, sino con maniobras de reposición. Sin embargo, de las opciones, el único antivertiginoso es el difenidol y los antivertiginosos sí se pueden indicar en el VPPB. Eso sí, actualmente los antivertiginosos que más se usan en los ataques de vértigo severos son los antihistamínicos, en especial la meclizina y las benzodiacepinas, en especial el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "lorazepam.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "La madre de un recién nacido prematuro solicita realizar alguna prueba para evaluar Sin contestar la audición del niño, ya que un pediatra amigo se lo recomendó. ¿Cuál es la Puntúa como conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar audiometría",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar potenciales evocados auditivos",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar impedanciometría",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar audiometría, impedanciometría y potenciales evocados auditivos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "En este caso, no es necesario solicitar ningún examen para evaluar la audición El gold standard para el screening de hipoacusia congénita son los potenciales evocados o BERA. Como alternativas más baratas están las emisiones otoacústicas (EOA), pero si están alteradas, se deben estudiar con los potenciales evocados. En caso de que los BERA automáticos estén alterados, el examen de elección para con\u0000rmar son los potenciales evocados clínicos o BERA clínicos, que son realizados",
+        "correcta": false
+      }
+    ],
+    "justificacion": "por un técnico especializado. La audiometría no se puede hacer en lactantes, ya que requieren de la cooperación del niño (apretar un botón al escuchar un ruido).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un paciente de 70 año, presenta un accidente vascular encefálico, que es manejado Sin contestar en la UCI, con buena evolución. Al realimentarlo con papilla presenta tos intensa, al Puntúa como tragar. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar régimen hídrico amplio",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Instalar nutrición parenteral total a permanencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar régimen cero, alimentar por sonda nasogástrica y solicitar videodeglución",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar régimen sólido, agregando espesantes a los líquidos ingridos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Mantener la alimentación con papilla e iniciar antibióticos Tiene un trastorno de la deglución, secundario al accidente vascular encefálico. Se debe indicar régimen 0, para evitar la broncoaspiración. Además, se debe estudiar con una video-deglución (gold standard) y alimentar por otra vía (generalmente sonda nasogástrica, si es algo transitorio y no hay vómitos. Si se vuelve permanente",
+        "correcta": false
+      }
+    ],
+    "justificacion": "se hace gastrostomía).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "El diagnóstico de la otitis media crónica se basa en:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "La audiometría",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "La historia clínica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "La otoscopía",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "La impedanciometría",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "El TAC de oídos La OMC se ve como una perforación timpánica crónica en la otoscopía y se asocia a",
+        "correcta": false
+      }
+    ],
+    "justificacion": "otorrea y leve hipoacusia crónicas.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una paciente de 58 años, dibética, insulinorequiriente, consulta por otalgia derecha. Sin contestar Al examen físico se aprecia eritema del pabellón auricular y del conducto auditivo Puntúa como externo, asociado a otorrea abundante. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar cipro\u0000oxacino tópico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar amoxicilina oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar neomicina más bacitracina tópica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar cloxacilina más clindamicina endovenosas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar ceftazidima más amykacina endovenosas Tiene una otitis externa maligna (otorrea, otalgia y luego eritema de la oreja o la cara). Es una infección grave, causada por Pseudomona aureginosa, habitualmente en pacientes diabéticos o neutropénicos. Se trata con antibióticos endovenosos antipesudomona (ceftazidima, cefoperazona, cefepime o carbapenémicos, más",
+        "correcta": true
+      }
+    ],
+    "justificacion": "tobramicina, amikacina o kanamicina).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un niño de 6 años presenta un cuadro compatible con una rinosinusitis aguda. Sin contestar Evoluciona con eritema periocular izquierdo, asociado limitación de los Puntúa como movimientos de dicho ojo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Infección por adenovirus",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Rinitis alérgica, asociada a conjuntivitis alérgica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Obstrucción del conducto nasolacrimal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Celulitis orbitaria",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Celulitis preorbitaria Las celulitis orbitaria y preorbitaria son las complicaciones más frecuentes de las sinusitis bacterianas. Ambas tienen eritema y edema periocular. La orbitaria, además, tiene oftalmoplejía u oftalmoparesia (como en este caso), proptosis, quemosis y disminución de la agudeza visual y de los re\u0000ejos fotomotor y de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "acomodación. Por la sola oftalmoparesia ya es orbitaria. Se debe hospitalizar, estudiar con una TAC de órbitas y cavidades paranasales y tratar con antibióticos endovenosos de amplio espectro: Ej. ceftriaxona más vancomicina y algunos agregan metronidazol. * Nótese que actualmente se recomienda la vancomicina en toda infección grave en las que el S. aureus sea uno de los gérmenes frecuentes.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "¿Cuál es la causa más frecuente de la parálisis del nervio laríngeo recurrente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iatrogénica",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Autoinmune",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cáncer",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Isquémica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Idiopática La causa más frecuente de afectación del nervio laríngeo recurrente es la cirugía de tiroides. Si es unilateral puede producir disfonía con voz bitonal. Si es bilateral, tiene",
+        "correcta": false
+      }
+    ],
+    "justificacion": "riesgo de pérdida de la vía aérea.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un niño se mete un poroto en el oído y no puede sacárselo. La otoscopía lo muestra Sin contestar en el conducto auditivo externo, a 1,5 cm del pabellón auricular. La conducta más Puntúa como adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución y esperar que caiga espontáneamente",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar lavado auricular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar impedanciometría",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Retirar con una pinza balloneta",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Derivar a otorrinolaringología de manera urgente Los cuerpos extraños en el oído se deben derivar al otorrino, ya que la extracción por médico general, sin el instrumental adecuado tiene riesgo de lesionar el conducto auditivo. La única excepción son los insectos vivos, que se deben matar con vaselina líquida, lidocaína o aceite vegetal. El lavado auricular está contraindicado, ya que el cuerpo extraño puede absorber agua y aumentar de",
+        "correcta": true
+      }
+    ],
+    "justificacion": "tamaño, incrementando el daño.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente presenta hipoacusia izquierda. En las pruebas de diapasones la prueba Sin contestar de Weber lateraliza a la izquierda. ¿Cuál de los siguientes diagnósticos es más Puntúa como probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Otoesclerosis izquierda",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Otitis media crónica derecha",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Presbiacusia izquierda",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Trauma acústico derecho",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sordera súbita izquierda La prueba de Weber, normalmente no lateraliza. En las hipoacusias de conducción lateraliza al lado enfermo (como en este caso). En las hipoacusias sensorioneurales lateraliza al lado sano. El caso se trata de una hipoacusia de conducción (otoesclerosis y OME son las únicas dos opciones), del lado izquierdo, por lo que la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "respuesta debe ser la otoesclerosis izquierda.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un niño de 2 años presenta retraso del lenguaje. A la otoscopía se observan ambos Sin contestar tímpanos opacos, por lo que se solicita una impedanciometría, que se muestra en la Puntúa como siguiente imagen: El diagnóstico es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Otoesclerosis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Otitis media aguda",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Otitis media crónica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Otitis media con efusión",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Hipoacusia congénita Tiene una curva B (plana), por lo que se con\u0000rma el diagnóstico de OME, que es la causa más frecuente de hipoacusia en los niños y se caracteriza por tímpanos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "rosados y opacos. La otoesclerosis tiene curva As (baja, con el vértice en el cero). La otitis media aguda (OMA) también tiene una curva B, pero su clínica es completamente diferente (\u0000ebre, otalgia e irritabilidad). La otitis media crónica (OMC) afecta a los adultos y no se hace impedanciometría, por tener una perforación timpánica.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un niño de 10 años presenta otalgia muy intensa, que inició dos días después de Sin contestar haberse bañado en la piscina. A la otoscopía se aprecia conducto auditivo externo Puntúa como eritematoso, con erosiones y otorrea purulenta. El tímpano no presenta 1,00 alteraciones. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar lavado de oídos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar amoxicilina oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar analgésicos orales y prohibir que se moje el oído hasta la resolución espontánea",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar antibióticos tópicos y analgésicos por vía oral",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Hospitalizar e iniciar antibióticos endovenosos El diagnóstico es una otitis externa, probablemente por pseudomona, tanto por el antecedente de exposición a piscinas, como por la otoscopía y clínica. Se trata con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "antibióticos tópicos (generalmente cipro\u0000oxacino o aminoglicósidos) y analgésicos. Se previene evitando que entre agua a los oídos (se llama otitis del nadador) y con lavados con ácido bórico después de nadar.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un adolescente de 15 años presenta un cuadro de odinofagia intensa, asociada a Sin contestar \u0000ebre hasta 39°C, que inició hace 24 horas. Al examen se palpan algunas Puntúa como adenopatías cervicales sensibles, se aprecia una faringe muy eritematosa, con 1,00 amígdalas aumentadas de tamaño, con placas múltiples, bilaterales, en las criptas, de color blanquecino y visualización de petequias en el paladar blando. El agente etiológico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Citomegalovirus",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Bacterias anaerobias",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Estreptococo betahemolítico, grupo A",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Virus de Ebstein Baar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Rinovirus La clínica es muy sugerente de una amigdalitis bacteriana o estreptocócica (\u0000ebre alta, dolor intenso, adenopatías, exudado, petequias y ausencia de signos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "catarralaes). Tiene los 5 puntos del score de Centor. - El CMV y el VEB producen síndromes mononucleósicos, que también tienen odinofagia, \u0000ebre y adenopatías, pero además, hepatoesplenomegalia, ictericia, linfocitosis, y tienen un exudado blanco grande, en la super\u0000cie de las amígdalas (no en los surcos). Además, suelen presentarse de manera subaguda. - Los anaerobios producen la angina de Vincent o úlcero necrótica, con marcada gingivitis, halitosis y úlceras y necrosis de las amígdalas y paladar. - El rinovirus produce un resfrío común, con síntomas catarrales (rinorrea, tos y disfonía).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente de 59 años presenta disfonía de varias semanas de evolución. Re\u0000ere Sin contestar que empeora al hablar mucho, pero que en general siempre tiene algún grado de Puntúa como disfonía. Al examen físico no presenta otras alteraciones. La conducta más 1,00 adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar TAC de cuello",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar ecografía de cuello",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar naso\u0000broscopía",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar antibióticos orales y revaluar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar reposo vocal y observar evolución Todo paciente con disfonía crónica se debe estudiar con una naso\u0000broscopía, para",
+        "correcta": false
+      }
+    ],
+    "justificacion": "determinar la causa y para descartar el cáncer.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un paciente de 63 años consulta por obstrucción nasal derecha, progresiva, Sin contestar asociada a rinorrea purulenta y epistaxis frecuente, síntomas que iniciaron hace Puntúa como cerca de 5 meses. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Poliposis nasal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Sinusitis crónica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Naso\u0000broangioma nasal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Cáncer nasosinusal",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Cuerpo extraño nasal Es la historia clásica del cáncer nasosinusal (adulto mayor, con obstrucción",
+        "correcta": false
+      }
+    ],
+    "justificacion": "progresiva y con epistaxis ipsilateral). La poliposis nasal suele ser en pacinetes alérgicos, con marcada obstrucción bilateral y sinusitis a repetición. El naso\u0000broangioma suele afectar a adolescentes, con obstrucción unilateral y epistaxis ipsilateral (si hubiese sido adolescentes, esta habría sido la respuesta correcta). El cuerpo extraño nasal produce rinorrea purulenta unilateral.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente de 30 años presenta un cuadro de cefalea, rinorrea purulenta y Sin contestar descarga posterior, asociado a hiposmia y obstrucción nasal de 2 semanas de Puntúa como evolución. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Diagnosticar sinusitis aguda e iniciar tratamiento antibiótico",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar TAC de cavidades paranasales y decidir conducta según resultado",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Diagnosticar cuerpo extraño nasal y derivar a otorrinolaringología",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Diagnosticar rinosinusitis viral e iniciar tratamiento sintomático",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Diagnosticar sinusitis subaguda e iniciar amoxicilina + ácido clavulánico Tiene una sinusitis clínica, por lo que tiene sinusitis. Además, por tener menos de 4 semanas, es aguda (la subaguda es entre 4 y 12 semanas y la crónica es mayor a 12 semanas). Además, por tener 14 días, lo más probable es que sea bacteriana y no viral (menor a 7 días son virales), por lo que se debe tratar con antibióticos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "(amoxicilina oral). El TAC de cavidades paranasales se puede pedir, pero la indicación más importante es que tenga más de 4 semanas, es decir, que sea subaguda o crónica (para buscar una causa anatómica), ya que el diagnóstico de sinusitis es clínico y la TAC es solo un elemento más a considerar.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente de 45 años presenta sensación de oído tapado desde hace 5 días, Sin contestar asociado a acúfeno de baja tonalidad. Hace 24 horas inicia vértigo intenso, con Puntúa como di\u0000cultades para caminar y tendencia a caerse al lado derecho. Al examen físico 1,00 destaca nistagmo con fase rápida a izquierda, que disminuye al pedirle que \u0000je la mirada en un punto. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Vértigo postural paroxísico benigno",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Enfermedad de Ménière",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Neuronitis vestibular",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Neurinoma del acústico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Vértigo central Tiene una enfermedad de Ménière clásica, con la triada de vértigo, hipoacusia y tinitus (o acúfeno). Se produce por un hídrops endolinfático y su diagnóstico es clínico, aunque se estudia con examen de VIII par y eventualmente con una RMN para descartar neurinoma del acústico. Su tratamiento es sintomático, con antivertiginosos (betahistina y, durante la crisis, se suelen agregar benzodiacepinas). Vale la pena mencionar que el problema es del oído derecho, ya",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que se cae hacia el lado enfermo y el nistagmo “escapa de la lesión”.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un niño de 4 años presenta un síndrome de apnea del sueño. Al examen físico se Sin contestar aprecia hipertro\u0000a amigdalina grado IV. No ha tenido síntomas de amigdalitis. La Puntúa como conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Derivar para amigdalectomía",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar corticoides orales y revaluar",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar AINEs orales y revaluar",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar antibióticos orales y revaluar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución La hipertro\u0000a amigdalina se puede observar o bien operar. Entre las indicaciones de cirugía están la hipertro\u0000a grado IV (en este caso), la apnea del sueño (también en",
+        "correcta": false
+      }
+    ],
+    "justificacion": "este caso), la amigdalitis crónica y la asimetría amigdalina.",
+    "archivo_origen": "3.txt"
+  }
+]

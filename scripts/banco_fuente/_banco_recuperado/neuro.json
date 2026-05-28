@@ -1,0 +1,2972 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Un paciente consulta en el servicio de urgencia por cefalea de localización Sin contestar parietooccipital, muy intensa, que inició hace una hora y es de carácter opresivo. El Puntúa como dolor inició súbitamente y mantiene una intensidad constante. El diagnóstico de 1,00 sospecha es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Neuralgia de Arnold",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Jaqueca",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cefalea tensional",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Embolia cerebral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hemorragia subaracnoidea Es una pregunta difícil, ya que contiene muy poca información. Sin embargo, tiene dos signos de alarma que orientan fuertemente a una hemorragia subaracnoidea:",
+        "correcta": true
+      }
+    ],
+    "justificacion": "inicio súbito y que sea muy intensa. La neuralgia de Arnold, también es de localización occipital y puede iniciar súbitamente, pero es un dolor de tipo neurálgico, es decir, eléctrico o en ramalazo. La cefalea tensional es de esa localización temporo-occipital, pero no es aguda, sino crónica y va empeorando hacia la tarde. La embolia cerebral, produce un accidente vascular encefálico, con signos focales súbitos, pero habitualmente sin cefalea, a diferencia del AVE hemorrágico, que sí duele y además tiene signos focales.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente presenta cervicobraquialgia, luego de trabajar limpiando una acequia. El Sin contestar dolor se irradia a la extremidad superior derecha, por la cara posterior del brazo y Puntúa como antebrazo, hasta los dedos índice y medio. Además, presenta disminución del 1,00 re\u0000ejo tricipital ipsilateral. La raíz afectada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "C5",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "C6",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "C7",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "C8",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "T1 Las raíces nerviosas no siguen un patrón estricto, mezclándose sus funciones, con las raíces próximas, pero lo más frecuente es que sean de la siguiente forma:",
+        "correcta": false
+      }
+    ],
+    "justificacion": "C5: sensibilidad hombro; abducción hombro (deltoides). C6: sensibilidad cara lateral de brazo y antebrazo y de pulgar; \u0000exión de codo y mano. C7: sensibilidad cara posterior brazo y antebrazo y del índice y dedo medio; extensión de codo y de muñeca y dedos. C8: sensibilidad cara medial de antebrazo y del los dedos anular y meñique; movimientos abducción y aducción de los dedos. T1: sensibilidad cara medial del brazo: movimientos abducción y aducción de los dedos. Re\u0000ejos: Bicipital (C5 y C6) y estilorradial (C6 y C7).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Una paciente de 23 años presenta una neuritis óptica, que es manejada con Sin contestar corticoides, con buena evolución. Dos meses después presenta un cuadro de Puntúa como hemiparesia derecha, que se instala en 2 días. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de Guillain Barré",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Esclerosis múltiple",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Accidente vascular encefálico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tumor cerebral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Miastenia gravis Es una esclerosis múltiple clásica: afecta más a mujeres jóvenes (aunque puede ocurrir a cualquier edad). Se caracteriza por producir neuritis óptica (amaurosis, con escape pupilar) y toda una variedad de signos focales (por la desmielinización del",
+        "correcta": false
+      }
+    ],
+    "justificacion": "SNC), tanto sensitivos como motores (en este caso, hemiparesia). El síndrome de Guillain Barré no afecta el nervio óptico (porque tiene mielina central y el Sd. G-B solo afecta los nervios periféricos). Además, produce tetraparesia \u0000ácida y arre\u0000éctica y no hemiparesia. El AVE tiene inicio súbito (no instalación en 2 días) y además no produce neuritis óptica. El tumor cerebral suele tener HTEC (cefalea, náuseas y edema de papila), más signos focales y convulsiones. La miastenia gravis solo tiene síntomas motores (no neuritis óptica), con debilidad \u0000uctuante y astenia y mucho compromiso de los oculomotores, con ptosis, estrabismo y diplopía.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente sufre un traumatismo encefalocraneano y evoluciona con visión doble. Sin contestar Al examen físico se aprecia estrabismo convergente, e imposibilidad de mirar a la Puntúa como derecha con el ojo derecho. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lesión de III nervio cranea (oculomotor)",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Lesión de IV nervio cranea (troclear)",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lesión de VI nervio cranea (abducens)",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Lesión del fascículo longitudinal medial",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome de Horner",
+        "correcta": false
+      }
+    ],
+    "justificacion": "III: imposibilidad de mirar hacia arriba, medial y abajo. Ptosis y midriasis. Estrabismo divergente. IV: imposibilidad de mirar hacia inferomedial. Estrabismo algo divergente. VI: imposibilidad de mirar hacia lateral. Estrabismo convergente. FLM: imposibilidad de mirar hacia medial, en la mirada conjugada. Nistagmo. Sin las demás alteraciones del III nervio craneal. Horner: ptosis, miosis y anhidrosis de la mitad de la cara.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un paciente de 17 años presenta un cuadro de debilidad generalizada, asociada a Sin contestar parálisis facial bilateral, que se ha instaurado en pocos días. Probablemente Puntúa como presentará, además:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Miosis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Midriasis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Afasia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Abolición de los re\u0000ejos osteotendíneos",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Espasticidad Es un síndrome de Guillain Barré, por lo que cursa con una tetraparesia \u0000áccida (hipotonía) y arre\u0000éctica (abolición de los ROT). Generalmento no afecta los oculomotores (aunque una variante, el síndrome de Miller Fischer o neuropatía craneal múltiple sí lo hace y por tanto puede producir midriasis). La afasia es característica del AVE de arteria cerebral media izquierda, ya que el área de Broca y el área de Wernicke están en la corteza cerebral izquierda. La espasticidad es",
+        "correcta": false
+      }
+    ],
+    "justificacion": "característica del síndrome piramidal de varios días de evolución.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Una polineuropatía suele presentar todos los síntomas y signos mencionados a Sin contestar continuación, EXCEPTO:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hipoestesia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Hiporre\u0000exia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Debilidad de predominio proximal",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Fasciculaciones",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Atro\u0000a muscular La debilidad de las neuropatías es de predominio distal. Las miopatías son las que tienen debilidad proximal. Las demás alteraciones sí se ven, ya que las neuropatías producen principalmente afectación sensitiva, pero también un síndrome de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "segunda monoteurona (síndrome de denervación).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "¿Cuál es el diagnóstico más probable frente a un paciente que presenta Sin contestar súbitamente imposibilidad para evocar palabras y hemiparesia derecha?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Accidente vascular encefálico",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Hemorragia subaracnoidea",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Epilepsia focal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Crisis miasténica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Meningitis herpética La aparición súbita de signos focales (afasia y hemiparesia en este caso) es diagnóstica de AVE, ya que el diagnóstico es clínico. Si bien se debe solicitar una TAC cerebral de urgencia sin contraste, esta imagen es para diferenciar entre un",
+        "correcta": false
+      }
+    ],
+    "justificacion": "AVE hemorrágico (no se tromboliza) de uno hemorrágico (se tromboliza). - La B (HSA) produce cefalea súbita e intensa y puede tener vómitos y signos meníngeos (rara vez, focales). - La C (epilepsia focal) sí puede cursar con esos síntomas, pero la afasia es rara y generalmente tienen otro tipo de manifestaciones, como movimientos involuntarios o convulsiones. - La D (miastenia) tiene debilidad \u0000uctuante y compromiso de los oculomotores. - La E (meningitis herpética) tiene compromiso de conciencia, desorientación y convulsiones, además de \u0000ebre y cefalea.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente de 68 años presenta un cuadro de horas de agitación y desorientación Sin contestar temporoespacial. Al examen físico está muy asustado, diciendo que lo quieren Puntúa como matar. Sus familiares están muy preocupados. El tratamiento farmacológico más 1,00 adecuado para este paciente es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Levodopa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Donepezilo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Risperidona",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Propanolol",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sintomático Es un síndrome confusional agudo o delirium. El tratamiento es buscar y tratar la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "causa de base (generalmente infecciones u otras alteraciones tóxico-metabólicas). Sin embargo, además se lo puede tranquilizar con antipsicóticos en dosis bajas, generalmente haldol o haloperidol, pero también es útil la risperidona y otros antipsicóticos atípicos, que tienen una respuesta similar al haldol. Haldol y haloperidol son sinónimos. La dosis suele ser 0,5 a 1 mg vía oral, intramuscular o incluso endovenoso, aunque puede alargar el QT, por lo que la vía endovenosa se debe evitar en pacientes con riesgo de QT largo. En los pacientes con demencia por cuerpos de Lewy o Parkinson, el haldol tiene más riesgo de agravar el parkinsonismo que los antipsicóticos atípicos. De estos últimos, la quetiapina parece ser la más segura en pacientes con parkinsonismo. - Las benzodiacepinas (ej. lorazepam) sedan más rápido al paciente, pero tienen riesgo de agravar su estado confusional. Por eso, su rol en el delirium no está claro y suelen usarse solo en casos de delirium por privación de alcohol o privación de benzodiazepinas.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Identi\u0000que la asociación incorrecta entre el microorganismo causante de meningitis Sin contestar y el tratamiento antibiótico de elección:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Streptococcus pneumoniae – Ceftriaxona",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Neisseria meningitides – Ceftriaxona",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Listeria monocytogenes – Ampicilina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Haemophilus in\u0000uenzae – Ampicilina",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Escherichia coli – Ceftriaxona",
+        "correcta": false
+      }
+    ],
+    "justificacion": "El Haemophilus in\u0000uenzae también se trata con Ceftriaxona.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un niño de 10 años presenta una convulsión tónico-clónica, por los que sus padres Sin contestar llaman a la ambulancia. Usted lo recibe en el servicio de urgencia 15 minutos Puntúa como después de haber iniciado la crisis y continúa convulsionando en la fase clónica. La 1,00 conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar oxígeno, instalar una vía venosa periférica y mantener una conducta expectante",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar un electroencefalograma de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar lorazepam endovenoso",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar una punción lumbar de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar diazepam intramuscular A pesar de que aún no cumple criterios de un estatus convulsivo (necesita 30 minutos de convulsiones sin recuperación completa), la conducta es detener la crisis de inmediato. De elección se usan benzodiacepinas, en especial el Lorazepam",
+        "correcta": false
+      }
+    ],
+    "justificacion": "(0,1 mg/Kg EV). Si no hay, se puede indicar diazepam.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "La hemisección medular a nivel torácico se caracteriza por:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Imposibilidad de mover la extremidad contralateral, ausencia de sensibilidad termalgésica ipsilateral y ausencia de sensibilidad táctil y vibratoria contralateral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Imposibilidad de mover la extremidad ipsilateral, ausencia de sensibilidad termalgésica contralateral y ausencia de sensibilidad táctil y vibratoria ipsilateral",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Imposibilidad de mover la extremidad ipsilateral, ausencia de sensibilidad termalgésica ipsilateral y ausencia de sensibilidad táctil y vibratoria contralateral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Imposibilidad de mover la extremidad contralateral, ausencia de sensibilidad termalgésica ipsilateral y ausencia de sensibilidad táctil y vibratoria ipsilateral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Imposibilidad de mover la extremidad ipsilateral, ausencia de sensibilidad termalgésica contralateral y ausencia de sensibilidad táctil y vibratoria contralateral La vía motora (corticoespinal) se decusa en el bulbo raquídeo, por lo que la lesión",
+        "correcta": false
+      }
+    ],
+    "justificacion": "medular produce paresia ipsilateral. Lo mismo ocurre con la sensibilidad propioceptiva y táctil \u0000na (cordones posteriores). En cambio, la sensibilidad termalgésica (haz corticoespinal) se decusa de inmediato, en la misma médula, por lo que la alteración de dicha sensibilidad es contralateral.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "¿Cuál de los siguientes síntomas es frecuente en la enfermedad de Parkinson?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mioclonías y mioquimias",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Demencia, presente desde el inicio del cuadro",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Nistagmo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Retrocollis (distonía con extensión cervical)",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Disminución de movimientos de los brazos, durante la marcha La enfermedad de Parkinson se caracteriza por temblor, rigidez, bradicinesia y pérdida de los movimientos involuntarios normales (como el pestañeo, expresión facial y braceo). Puede desarrollar demencia al \u0000nal, luego de muchos años. Si se asocia a demencia desde un inicio, el diagnóstico cambia a demencia por cuerpos",
+        "correcta": true
+      }
+    ],
+    "justificacion": "de Lewy.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente de 45 años presenta debilidad de la pierna izquierda y la mano Sin contestar izquierda. Al examen físico se aprecia aumento del tono muscular, con hiperrre\u0000exia Puntúa como y paresia moderada de ambas extremidades, sin atro\u0000a. Se constata que el re\u0000ejo 1,00 plantar izquierdo es extensor. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Esclerosis lateral amiotró\u0000ca",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome cerebeloso, con compromiso del hemisferio cerebeloso izquierdo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Siringomielia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome piramidal",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Polineuropatía, con denervación muscular Tiene una hemiparesia con aumento de los ROT y tono, más Babinski (re\u0000ejo plantar extensor), todo lo que es propio del síndrome piramidal. La lesión probablemente",
+        "correcta": false
+      }
+    ],
+    "justificacion": "está en la corteza motora, o en la cápsula interna derecha.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente presenta cefalea de predominio matinal, asociado a náuseas y vómitos Sin contestar ocasionales. Se solicita un fondo de ojo que muestra edema de papila bilateral. No Puntúa como presenta signos focales y la resonancia magnética nuclear es normal. El 1,00 diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cefalea Cluster",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome de hipertensión endocraneana",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Tumor cerebral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hidrocefalia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Migraña Tiene la triada clásica del síndrome de HTEC: cefalea matinal, vómitos y edema de papila. Dado que puede ser un tumor cerebral, hay que pedir una imagen, que en este caso lo descartó. Por tanto, el diagnóstico más probable es un pseudotumor",
+        "correcta": false
+      }
+    ],
+    "justificacion": "cerebral, también llamado HTEC idiopática.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Paciente de 65 años, con antecedente de hipertensión arterial, presenta di\u0000cultades Sin contestar para mover el hemicuerpo izquierdo. Al examen neurológico, tiene una hemiparesia Puntúa como facio-braquio-crural izquierda, moderada, sin alteraciones en la sensibilidad. Al 1,00 tercer día se ha recuperado casi por completo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Infarto lacunar",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Crisis isquémica transitoria",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Migraña hemipléjica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Accidente vascular embólico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Infarto aterotrombótico de circulación anterior Los accidentes lacunares se caracterizan por producir sólo hemiparesia o solo hemihipoestesia o ambas y tener una evolución que puede ser favorable, en el sentido que van mejorando (más de 24 horas, ya que si mejoran en menos tiempo, se trata de un accidente isquémico transitorio o AIT). Generalmente no tienen afasia ni otras alteraciones, aunque pueden presentar cefalea. Son causados por HTA (como en este caso). La D y E (AVE embólico o trombótico) tendrían una evolución",
+        "correcta": false
+      }
+    ],
+    "justificacion": "mucho más desfavorable.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un paciente sufre una lesión en la cintilla óptica derecha. ¿Qué alteración esperaría Sin contestar encontrar en la campimetría?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hemianopsia bitemporal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Hemianopsia homónima derecha",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hemianopsia homónima izquierda",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Amaurosis derecha",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Amaurosis izquierda Las lesiones retroquiasmáticas: cintilla, radiación y lóbulo occipital, producen",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hemianopsia homónima contralateral. La lesión de quiasma produce hemianopsia bitemporal (A). La lesión de nervio óptico produce amaurosis ipsilateral.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Un paciente presenta marcha inestable, con aumento de la super\u0000cie de Sin contestar sustentación, asociada a dismetría e imposibilidad de realizar movimientos Puntúa como alternantes. ¿Qué patología es más concordante con el cuadro descrito?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Accidente vascular encefálico lacunar",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Hemorragia cerebelosa",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Accidente vascular talámico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome piramidal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome extrapiramidal Tiene un síndrome cerebeloso clásico: ataxia de la marcha, dismetría y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "adiadococinesia.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una mujer de 68 años presenta un cuadro de 12 meses de evolución de problemas Sin contestar de memoria, ideas paranoides y alucinaciones visuales. Presenta además caídas Puntúa como frecuentes y temblor de la mano izquierda. Los síntomas son \u0000uctuantes, pero 1,00 muestran una tendencia a empeorar. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Demencia por cuerpos de Lewy",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Enfermedad de Alzheimer",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Delirium",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Demencia frontotemporal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hidrocefalia normotensiva Tiene una demencia: problema de memoria y de otras actividades, más los síntomas clásicos de la demencia por cuerpos de Lewy: alucinaciones (pueden ser visuales, auditivas, cenestésicas y suelen ser complejas) y parkinsonismo (caídas y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "temblor de reposo). - Por llevar 12 meses, no puede ser un delirium. Además, no describen ni alteración de la atención, ni del estado de conciencia. - La demencia frontotemporal o de Pick tiene desinhibición del lenguaje y del comportamiento. - La hidrocefalia normotensiva tiene caídas y demencia, pero no alucinaciones ni temblor y, además, suele asociarse a una rápida evolución e incontinencia urinaria.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Existen numerosos medicamentos que sirven para prevenir la ocurrencia de Sin contestar ataques de migraña. Uno de estos medicamentos es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indometacina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Propanolol",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Ergotamina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Verapamilo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tramadol En los pacientes con migraña muy intensa, frecuente o invalidante, como pro\u0000lácticos se usan múltiples familias de fármacos. La regla general es iniciar uno, seleccionándolo según las características especí\u0000cas del paciente y, si no responde, cambiarlo por otra familia de fármacos. Los más usados son:",
+        "correcta": false
+      }
+    ],
+    "justificacion": "- Antidepresivos tricíclicos (ej. amitriptilina en baja dosis). - Betabloqueantes (propanolol y carvedilol). - Anticonvulsivantes (ácido valproico, topiramato). Otros que pueden servir son: - Gabaérgicos (gabapentina). - Bloqueadores del calcio (\u0000unarizina). - Incluso IECA y ARA2 pueden tener algún rol. - Hoy también existen actualmente anticuerpos monoclonales y fármacos que bloquean el receptor CGRP (Calcitonin gene-related peptide) y que pueden ser útiles (erenumab, fremanezumab, galcanezumab, eptinezumab; rimegepant, atogepant). En la crisis sí se pueden usar el paracetamol (de elección en cuadros leves) los AINES (ketorolaco, naproxeno, etc.), los triptanes, ergotamínicos e incluso los opiáceos, corticoides, antieméticos y antipsicóticos (clorpromazina).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "¿Cuál de las siguientes alteraciones NO suele presentarse en la parálisis facial Sin contestar periférica idiopática?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hipoestesia malar",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Imposibilidad de levantar la ceja",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hiperacusia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Disgeusia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Desviación de la comisura labial La hipoestesia demuestra afectación del trigémino (V nervio craneal) y la afectación de otro nervio craneal es muy sugerente de causa central. También orienta a central, que haya posibilidad de levantar la ceja o arrugar la frente, por lo que la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "imposibilidad de hacerlo (B) es de parálisis periférica. La hiperacusia y disgeusia se producen porque una rama del facial (la cuerda del tímpano) inerva al músculo tensor del tímpano y a la lengua (para el sabor).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente presenta de manera súbita una hemianopsia homónima derecha. La Sin contestar conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar una punción lumbar",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar fondo de ojo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar TAC de cerebro de urgencia",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar anticoagulación con heparina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar corticoides orales La aparición súbita de signos focales hace el diagnóstico de un accidente vascular encefálico, cuyo diagnóstico es clínico. Por tanto, se debe proseguir el estudio con un TAC de cerebro, para diferenciar entre un AVE isquémico y un AVE hemorrágico, que tienen un manejo distinto (ej. El AVE isquémico se tromboliza y el hemorrágico",
+        "correcta": false
+      }
+    ],
+    "justificacion": "no). Debe hacerse de inmediato (“tiempo es cerebro”). En este caso que hay una hemianopsia homónima derecha, se debe sospechar una lesión retroquiasmática izquierda (contralateral).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente presenta debilidad de las 4 extremidades, de 4 meses de evolución, que Sin contestar ha ido en aumento. La debilidad es de predominio proximal y al examen físico se Puntúa como aprecia hipertro\u0000a de las masas musculares. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Polineuropatía",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome piramidal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Síndrome de Guillain Barré",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Miastenia gravis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Miopatía Es una miopatía clásica, dado que la debilidad es de predominio proximal y a que no hay atro\u0000a, sino hipertro\u0000a. Ej. de miopatías: Distro\u0000a muscular, polimiositis,",
+        "correcta": true
+      }
+    ],
+    "justificacion": "polimialgia reumática. - La polineuropatía tendría debilidad distal, con atro\u0000a muscular y probablemente síntomas sensitivos. - Algunas miopatías sí tienen atro\u0000a, como la miopatía por cuerpos de inclusión, que produce atro\u0000a de cuádriceps y de antebrazos. Sin embargo, la mayoría no tiene atro\u0000a, sino debilidad. Algunas tienen mialgias, además. - La hipertro\u0000a es más característica de las distro\u0000as musculares. En este caso no se informa la edad del paciente, lo que di\u0000culta la respuesta.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente de 67 años consulta por temblor de la mano izquierda. Al examen se Sin contestar aprecia marcha insegura, con disminución del braceo y temblor de reposo, que Puntúa como desaparece al tomar un objeto. El tratamiento de la patología descrita es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Corticoides orales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Antagonistas beta-adrenérgicos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Agonistas beta-adrenérgicos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Antagonistas dopaminérgicos",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Agonistas dopaminérgicos Es una enfermedad de Parkinson, porque el temblor es de reposo y por que tiene disminución del braceo. Se trata con levodopa o carbidopa (agonistas",
+        "correcta": false
+      }
+    ],
+    "justificacion": "dopaminérgicos).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente sufre una parálisis facial periférica. ¿Qué alteración es MENOS Sin contestar compatible con este diagnóstico y obliga a sospechar una causa central?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lagoftalmo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Disgeusia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Disminución de la sensibilidad del trago",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Debilidad de los músculos masticatorios",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Hiperacusia La debilidad de los músculos masticatorios es por afectación del trigémino (V",
+        "correcta": false
+      }
+    ],
+    "justificacion": "nervio craneal) y la afectación de otro nervio craneal apunta a que es de tipo central. El lagoftalmo es la imposibilidad de cerrar el ojo, ya que el músculo orbicular del párpado es inervado por el nervio facial. La hiperacusia y disgeusia se producen porque una rama del facial (la cuerda del tímpano) inerva al músculo tensor del tímpano y a la lengua (para el sabor). Lo mismo ocurre con la sensibilidad del trago (de hecho si hay un herpes zóster del facial, se producen vesículas en el trago: síndromde Ramsey Hunt).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un paciente presenta disminución progresiva de la sensibilidad termalgésica en las Sin contestar extremidades superiores, conservando la sensibilidad táctil y la sensibilidad de las Puntúa como extremidades inferiores, tanto táctil, como termalgésica. El diagnóstico de 1,00 sospecha es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de Brown Sequard",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome de cauda equina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Síndrome de arteria espinal anterio",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome de arteria espinal posterior",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Siringomielia Es una pregunta difícil, pero la siringomielia va produciendo dilatación del epéndimo (espacio central de la médula espinal, que tiene LCR), por lo que lo primero en afectarse es la comisura anterior, donde se decusa el haz espinotalámico lateral, es decir la sensibilidad termalgésica. Como solo se afectan las \u0000bras que se están",
+        "correcta": true
+      }
+    ],
+    "justificacion": "decusando, se produce una afectación en faja (solo en determinados niveles). Luego, a medida que avanza, se van agregando dé\u0000cits hasta terminar en el síndrome de sección medular completo (se afecta tanto sensibilidad, como motricidad, desde el punto de dilatación, hacia distal).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente presenta hemiparesia derecha, asociada a parálisis facial izquierda. La Sin contestar lesión se encuentra en:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "La corteza motora",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "La médula espinal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "El cerebelo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Los núcleos de la base",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "El puente o protuberancia Tiene un síndrome alterno: afectación de un hemicuerpo (hemiparesia), con afectación de nervios craneales contralaterales (parálisis facial en este caso). Por tanto, tiene una lesión del troncoencéfalo. De las alternativas, la única localizada en el troncoencéfalo es el puente de Barolio o protuberancia anular (además que el",
+        "correcta": true
+      }
+    ],
+    "justificacion": "facial tiene su núcleo ahí). La corteza motora tendría hemiparesia solo de un lado (cara y hemicuerpo). La médula tendría paraparesia o tetraparesia.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Las demencias, como la enfermedad de Alzheimer, se caracterizan por:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Afectación motora",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Afectación sensitiva",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Afectación de la atención",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Afectación de la memoria",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Afectación cuantitativa de la conciencia Lo más evidente al inicio es la pérdida de la memoria reciente. Luego, a medida que avanzan, se van afectando todas las funciones cognitivas superiores. La atención y la conciencia suelen estar conservadas, a diferencia del delirium, en que se afectan",
+        "correcta": false
+      }
+    ],
+    "justificacion": "de manera aguda. Cuando la enfermedad de Alzheimer está más avanzada, comienzan a aparecer las alteraciones conductuales asociadas a demencia, que van desde conductas inapropiadas hasta agresiones.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente presenta un cuadro de parálisis progresiva, con abolición de los re\u0000ejos Sin contestar osteotendíneos. Además, se constata disminución del tono muscular. El Puntúa como diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Polineuropatía",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Esclerosis lateral amiotró\u0000ca",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Esclerosis múltiple",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome de Guillain Barré",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Miastenia gravis Es un síndrome de Guillain Barré clásico: tetraparesia \u0000ácida y arre\u0000éctica de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "instalación progresiva, en cosas de días. La polineuropatía suele tener gran compromiso sensitivo, suelen ser de instalación muy lenta. Pero sí pueden presentar hiporre\u0000exia e hipotonía, porque también son un síndrome de segunda motoneurona (denervación). La esclerosis lateral amiotró\u0000ca produce un cuadro crónico de debilidad, con alteraciones de primera y segunda motoneurona mezcladas (ej. espasticidad, hiperre\u0000exia con fasciculaciones y atro\u0000a), sin alteración sensitiva. La esclerosis múltiple produce signos focales y en particular, neuritis óptica. La miastenia gravis produce debilidad \u0000uctuante, con compromiso de los oculomotores.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "La asociación de midriasis, ptosis y estrabismo es característica de:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de Horner",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Parálisis del tercer nervio craneal",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Lesión del fascículo longitudinal medial",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Infarto de protuberancia anular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Miastenia gravis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "III: imposibilidad de mirar hacia arriba, medial y abajo. Ptosis y midriasis. Estrabismo divergente. Horner: ptosis, miosis y anhidrosis de la mitad de la cara IV: imposibilidad de mirar hacia inferomedial. Estrabismo algo divergente. FLM: imposibilidad de mirar hacia medial, en la mirada conjugada. Nistagmo. Sin las demás alteraciones del III nervio craneal. Protuberancia: síndrome alterno, con afectación del V al VIII nervio craneales. Miastenia gravis: debilidad \u0000uctuante, con ptosis y estrabismo, pero sin midriasis (excepto en la miastenia de Lambert Eaton, en que sí puede haber, pero es muy rara).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "El análisis de líquido cefalorraquídeo, en un paciente con meningitis viral, se Sin contestar caracteriza por:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Pleocitosis de tipo mononuclear, con glucorraquia normal",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Pleocitosis de tipo mononuclear, con glucorraquia disminuida",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Elevación de las proteínas, sin pleocitosis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Pleocitosis, sin elevación de las proteínas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Bandas oligoclonales de inmunoglobulinas La meningitis viral se caracteriza por pleocitosis mononuclear, con glucorraquia normal (mayor a 40 mg/dl). Suelen ser por enterovirus o virus respiratorios. En el caso de la meningoencefalitis herpética, además de la pleocitosis mononuclear, se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "pueden ver abundante hematíes crenados (LCR hemorrágico). - La meningitis tuberculosa es mononuclear con disminución de la glucorraquia (B). - El síndrome de Guillain Barré tiene elevación de las proteínas, sin pleocitosis (disociación albúmino-citológica). - La esclerosis múltiple tiene bandas oligoclonales de inmunoglobulinas.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente de 74 años presenta agitación psicomotora de 48 horas de evolución, Sin contestar asociado a la idea de que fantasmas quieren matarlo. Al examen neurológico no Puntúa como presenta focalidad, aunque no sabe qué año es, ni dónde está. El diagnóstico más 1,00 probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Demencia por cuerpos de Lewy",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Hidrocefalia normotensiva",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Accidente vascular encefálico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Demencia frontotemporal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome confusional agudo Es un síndrome confusional agudo clásico: adulto mayor desorientado y agitado,",
+        "correcta": true
+      }
+    ],
+    "justificacion": "desde hace poco. Las demencias (A, B y D) son cuadros crónicos y progresivos. La por cuerpos de Lewy sí puede tener alucinaciones y un curso \u0000uctuante, pero a largo plazo, junto con parkinsonismo. La hidrocefalia normotensiva tiene caídas, gran torpeza motora e incontinencia urinaria. La demencia frontotemporal tiene desinhibición. El AVE (C) sí tiene inicio agudo, pero se caracteriza por signos focales (ej. hemiparesia, hemihipoestesia, etc.).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un niño de 6 años presenta una convulsión tónico-clónica, de 2 minutos de Sin contestar duración, autolimitada. No había presentado síntomas previos. Al examen físico Puntúa como está en buenas condiciones, sin alteraciones de ningún tipo. Sus exámenes 1,00 generales muestran un hemograma normal, así como los electrolitos plasmáticos, las pruebas hepáticas y las pruebas de función renal. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Meduloblastoma",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Astrocitoma",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Meningitis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Convulsión idiopática",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Epilepsia primaria Hasta ahora el diagnóstico es una primoconvulsión o “primera convulsión”, dado que para hacer el diagnóstico de epilepsia se necesitan al menos dos convulsiones o una convulsión más un electroencefalograma compatible. Sin embargo, dado que se trata de un niño y que el estudio general resultó normal, lo más probable es que efectivamente sea una epilepsia primaria. Vale la pena mencionar que la primera causa de convulsiones en pediatría son las convulsiones febriles (pero no tenía \u0000ebre) y luego las de causa tóxico-metabólica (pero el estudio está normal en este",
+        "correcta": true
+      }
+    ],
+    "justificacion": "caso). Las epilepsias primarias suelen dar convulsiones generalizadas (como pareciera ser el caso). Se estudian con el electroencefalograma. Los tumores, como los astrocitomas, producen crisis focales (además de cefalea y signos focales). Se estudian con una neuroimagen (RMN, por regla general). No siempre es fácil diferenciar una crisis focal que se generaliza de una crisis primariamente generalizada. Por eso, en la actualidad se pide tanto EEG como RMN a todos los pacientes con una primera convulsión, sin una causa evidente. De todos modos, algunos signos de \"lateralización\", que sugieren una causa focal son: desviación de la mirada hacia un lado o giro del cuerpo hacia un lado (crisis versivas), aura o desorientación que preceden a la convulsión, signos focales postconvulsión.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente presenta cefalea intensa, pericocular, asociada a miosis y epifora Sin contestar ipsilaterales. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Accidente vascular encefálico hemorrágico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Accidente vascular isquémico de troncoencéfalo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cáncer de pulmón",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Esclerosis múltiple",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cefalea en racimo Es un cluster o cefalea en racimo clásica: dolor periocular con miosis y ptosis (además puede tener inyección conjuntival = ojo rojo super\u0000cial). No se debe confundir con el glaucoma agudo que también tiene dolor ocular, pero con midriasis",
+        "correcta": true
+      }
+    ],
+    "justificacion": "y ojo rojo profundo. El cáncer de pulmón puede dar un síndrome de Horner (por metástasis del ganglio estrellado), pero es un cuadro crónico de miosis y ptosis, sin dolor.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente presenta cefalea opresiva, recurrente, localizada en la zona occipital, Sin contestar que se irradia al cuello. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cefalea tensional",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Jaqueca",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Neuralgia de Arnold",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome de hipertensión endocraneana",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cefalea mixta Es una cefalea tensional clásica: dolor temporoccipital, irradiado al cuello. Suele ser",
+        "correcta": false
+      }
+    ],
+    "justificacion": "mayor en las tardes. La neuralgia de Arnold también duele en la zona occipital, pero es de tipo eléctrico (en ramalazo). La jaqueca o migraña suele ser de localización frontoparietal, de tipo pulsátil. La cefalea mixta es una mezcla de jaqueca y cefalea tensional.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "El síndrome cerebeloso se caracteriza por todo lo siguiente EXCEPTO:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Pérdida de la propiocepción",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Temblor de intención",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Adiadococinesia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Ataxia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hipotonía Es una pregunta difícil, pero el cerebelo se encarga de la coordinación muscular y no tiene funciones sensitivas, ni siquiera propioceptivas. Sin embargo, sí recibe mucha información propioceptiva, para poder cumplir con su función de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "coordinación motora. La lesión de sus hemisferios se caracteriza por dismetría (temblor de intención), adiadococinesia (imposibilidad de realizar movimientos alternantes, de manera coordinada) e hipotonía ipsilaterales. Además, la lesión del vermix tiene nistagmo multidireccional, vértigo de tipo central, ataxia de la marcha.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente presenta di\u0000cultades para ver, caracterizadas por la pérdida de una Sin contestar parte importante del campo visual izquierdo de ambos ojos. De entre las siguientes Puntúa como alternativas, ¿dónde se encuentra localizada la lesión con mayor probabilidad?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Quiasma óptico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cintilla óptica derecha",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Lóbulo occipital izquierdo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Nervio óptico derecho",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Nervio óptico izquierdo Tiene una hemianopsia homónima izquierda, por lo que tiene una lesión",
+        "correcta": false
+      }
+    ],
+    "justificacion": "retroquiasmática contralateral (cintilla, radiación o lóbulo occipital derecha). Las lesiones del quiasma producen hemianopsia o cuadrantopsia bitemporal. Las lesiones del nervio óptico producen amaurosis ipsilateral.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Una paciente de 30 años presenta un cuadro caracterizado por movimientos Sin contestar involuntarios y rítmicos de la mano derecha, que luego se extienden al brazo Puntúa como derecho. Nunca pierde la conciencia, y está muy preocupada por lo sucedido. El 1,00 diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Epilepsia tónico-clónica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Epilepsia mioclónica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Epilepsia tónica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Crisis parcial compleja",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Crisis parcial simple Es una crisis parcial o focal, porque no inicia con una convulsión generalizada, sino con los movimientos de una extremidad. Se clasi\u0000can en parcial simple y parcial compleja, dependiendo de la conexión con el medio. En este caso, por mantenerla, es de tipo simple. Si la hubiese perdido (ej. Se desorienta y actúa raro por un",
+        "correcta": true
+      }
+    ],
+    "justificacion": "momento), sería compleja.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "La causa más frecuente de hemorragias subaracnoideas espontáneas es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Trastornos de la coagulación",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Infecciones del sistema nerviosos central",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Rotura de aneurismas arteriales encefálicas",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Malformaciones venosas del sistema nervioso central",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Secundaria a hipertensión arterial La causa más frecuente de HSA es traumática, seguida de las espontáneas, por",
+        "correcta": false
+      }
+    ],
+    "justificacion": "rotura de aneurismas cerebrales. La HTA produce hemorragias intracerebrales (AVE hemorrágico).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un paciente de 30 años, diagnosticado de una vasculitis de Wegener, consulta por Sin contestar parestesias y di\u0000cultades para realizar algunos movimientos con los pies y las Puntúa como manos. Al examen físico presenta abolición de los ambos re\u0000ejos aquileanos y del 1,00 re\u0000ejo bicipital derecho, asociado a disminución de la sensibilidad de la planta de los pies, mayor al lado derecho. Además, presenta debilidad para \u0000ectar el 3° y 4° dedos derechos y marcada di\u0000cultad para realizar la eversión de ambos pies. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Polineuropatía",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Esclerosis múltiple",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Mononeuritis múltiple",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Esclerosis lateral amiotró\u0000ca",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Poliradiculoneuropatía desmielinizante Tiene afectación de múltiples nervios y raíces nerviosas. Además, por el antecedente de una vasculitis de vaso pequeño (Wegener) es altamente probable el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "diagnóstico de mononeuritis múltiple, la que se carcateriza por 1. Hipoestesia, 2. Hiporre\u0000exia y 3. Paresia. Puede ser muy similar a una polineuropatía, pero la diferencia es la velocidad con la que aparece (la mononeuritis es más agresiva), la distribución de la afectación (la mononeuritis afecta solo algunos nervios, en cambio la polineuropatía tiene una afectación más difusa) y \u0000nalmente la causa de la mononeuritis múltiple son las vasculitis, mientras que las polineuropatías tiene causas metabólicas (ej. Diabetes).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente de 60 años consulta por desviación de la comisura labial, de inicio Sin contestar súbito, hace algunas horas. Al examen presenta imposibilidad de sonreír y arrugar el Puntúa como mentón con el lado derecho de la cara, asociado a debilidad de los músculos 1,00 masticatorios del mismo lado. Puede fruncir el ceño y arrugar la frente, de ambos lados, con normalidad. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de Guillain Barré",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cefalea cluster",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Síndrome de Ramsey Hunt",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Parálisis de Bell",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Parálisis facial central Es una parálisis facial. Es de tipo central, ya que puede arrugar la frente y fruncir el ceño (en la periférica se afecta toda la hemicara) y además porque tiene afectación del trigémino (V nervio craneal), ya que se afecta la masticación. Por tanto, se debe",
+        "correcta": true
+      }
+    ],
+    "justificacion": "solicitar una neuroimagen de urgencia.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Las miopatías, a diferencia de las neuropatías, se caracterizan por:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Presentar debilidad de predominio proximal, sin atro\u0000a muscular",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Presentar debilidad de predominio proximal, con atro\u0000a muscular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Presentar debilidad de predominio distal, sin atro\u0000a muscular",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Presentar debilidad de predominio distal, con atro\u0000a muscular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Presentar debilidad de predominio distal, con hipoestesia “en guante y calcetín” Las miopatías tienen debilidad proximal sin atro\u0000a (incluso pueden tener hipertro\u0000a muscular). Las neuropatías tienes debilidad distal, con atro\u0000a, también distal, más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hiporre\u0000exia, fasciculaciones y, muy frecuentemente, alteraciones sensitivas. La miopatía por cuerpos de inclusión sí suele tener atro\u0000a de muslos y antebrazos.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente de 69 años presenta un cuadro de dos días de evolución de Sin contestar desorientación e ideas paranoides. Se levantó a las 3 de la mañana y fue Puntúa como encontrado por su esposa en el patio, desorientado y diciendo que alguien estaba 1,00 robando la casa. Ella re\u0000ere que hasta ese momento era un paciente autovalente y que se desempeñaba normalmente en sus actividades sociales. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Enfermedad de Alzheimer",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Demencia por cuerpos de Lewy",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hidrocefalia normotensiva",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Accidente vascular encefálico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Delirium Es un síndrome confusional agudo o delirium clásico: adulto mayor desorientado y",
+        "correcta": true
+      }
+    ],
+    "justificacion": "agitado, de manera aguda. Las demencias (A, B y C) son cuadros crónicos y progresivos. La por cuerpos de Lewy sí puede tener alucinaciones y un curso \u0000uctuante, pero a largo plazo, junto con parkinsonismo. La hidrocefalia normotensiva tiene caídas, gran torpeza motora e incontinencia urinaria. La demencia frontotemporal tiene desinhibición. El AVE (D) sí tiene inicio agudo, pero se caracteriza por signos focales (ej. hemiparesia, hemihipoestesia, etc.).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un niño de 10 años cae de un segundo piso, golpeándose la cabeza contra el suelo Sin contestar y quedando inconsciente por al menos 10 minutos. Después de ese momento Puntúa como despierta algo desorientado y aquejando intenso dolor. Al examen físico presenta 1,00 equimosis retroauricular. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar radiografía de cráneo y decidir conducta según hallazgos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Enviar a domicilio con analgésicos y observación cuidadosa, indicando reconsulta, en caso de que aparezcan signos de alarma",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hospitalizar y solicitar TAC de urgencia sin contraste",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Hospitalizar y realizar punción lumbar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hospitalizar y solicitar resonancia magnética nuclear Es un TEC severo, ya que tiene signos de alarma: intenso dolor (sospechar fractura o formación de hematoma) y la equimosis retroauricular o signo de Battle (sugiere fractura de la base de cráneo). Por tanto, se debe estudiar con un TAC, hospitalizar para el manejo general, con medidas de neuroprotección y manejo de las complicaciones. El solo hecho de haber estado inconsciente o desorientado no es signo de alarma, a menos que dure más de 15 minutos, o que aparezca con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "posterioridad. Recordar las indicaciones de TAC sin contraste: - Edad mayor a 60-65 años. - Uso de anticooagulantes. - Glasgow < 15. - Convulsiones. - Signos focales. - Signos de fractura (hundimiento, - Hipertensión endocraneana clínica: Cefalea intensa, vómitos 2 o más veces, edema de papila. - Compromiso de conciencia, convulsiones o amnesia tardías o persistentes (en cambio, no son signos de alarma si son transitorias y ocurren inmediatamente después del golpe). - Deterioro clínico.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Una paciente de 56 años consulta por cefalea recurrente, de carácter opresivo, Sin contestar localizada en la zona temporo-occipital, la que se irradia al cuello. Suele ser mayor Puntúa como en las tardes y cede al dormir. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de hipertensión endocraneana",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Neuralgia de Arnold",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cefalea cluster (en racimo)",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Jaqueca",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cefalea tensional Es una cefalea tensional clásica: dolor temporoccipital, irradiado al cuello. Suele ser",
+        "correcta": true
+      }
+    ],
+    "justificacion": "mayor en las tardes. El síndrome de HTEC tiene cefalea matinal, holocránea, asociada a vómitos y edema de papila. La cefalea cluster suele cursar con dolor periocular, ptosis, miosis, rinorrea y ojo rojo. La neuralgia de Arnold también duele en la zona occipital, pero es de tipo eléctrico (en ramalazo). La jaqueca o migraña suele ser de localización frontoparietal, de tipo pulsátil.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Una paciente de 68 años consulta por temblor de ambas manos, mayor al lado Sin contestar derecho, que se intensi\u0000ca especialmente al tomar un objeto, como una tasa o un Puntúa como lápiz. Sus movimientos y re\u0000ejos, así como la coordinación motora son normales. 1,00 La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar agonistas dopaminérgicos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar antagonistas dopaminérgicos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar betabloqueantes",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar betaagonistas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar resonancia magnética nuclear de cerebro",
+        "correcta": false
+      }
+    ],
+    "justificacion": "La sospecha es un temblor esencial, que se trata con propanolol (betabloqueante). En quienes tiene contraindicación del betabloqueo, se puede usar la primidona. Que sea asimétrico orienta más a enfermedad de Parkinson (se trata con agonistas dopaminérgicos), pero el Parkinson tiene un temblor de reposo, que desaparece con el movimiento, o al tomar un objeto o adoptar una postura. En este caso, en cambio, aumenta, lo que es característico del temblor esencial, el que también puede ser asimétrico. El temblor de la cabeza y de la voz es muy sugerente de temblor esencial. No tiene signos focales ni ninguna otra alteración.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente de 60 años presenta una hemiparesia braquiocrural derecha, que inició Sin contestar de manera súbita y que duró cerca de 20 minutos, mejorando antes de llegar al Puntúa como servicio de urgencia. Al examen físico presenta normalidad del examen neurológico, 1,00 aunque está muy preocupada por lo que le pasó. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Enviar a domicilio, indicando aspirina, sin necesidad de estudio adicional",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Enviar a domicilio, indicando control ambulatorio, para inicio de anticoagulación a permanencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hospitalizar, solicitar una neuroimagen, iniciar medidas de neuroprotección y realizar estudio de fuente embólica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Hospitalizar, solicitar una neuroimagen, iniciar medidas de neuroprotección y realizar trombolisis intravenosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hospitalizar, solicitar una neuroimagen y observar por 12 horas Tiene un accidente isquémico transitorio (TIA o AIT), cuyo diagnóstico es clínico y que se maneja exactamente igual que un AVE isquémico, es decir, se debe hospitalizar, solicitar una neuroimagen y estudiar la fuente embólica. La única diferencia, es que no requiere trombólisis, ya que se “autotrombolizó”. La alternativa",
+        "correcta": false
+      }
+    ],
+    "justificacion": "E habría sido una respuesta aceptable, pero la C es mejor. Tiene muy alto riesgo de AVE en el corto plazo, por lo que el estudio y manejo de la fuente embólica es fundamental. La neuroimagen debe estar normal. Si muestra una zona de infarto cerebral, algunos autores lo catalogarán como AVE, aún cuando la clínica haya sido transitoria y menor a 24 horas (ej. AVE lacunar). Si bien la de\u0000nición de AIT usa el límite de 24 horas, algunos lo consideran arbitrario y, en la práctica, suelen durar solo algunos minutos.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente presenta estrabismo, asociado a ptosis y midriasis izquierdas. El Sin contestar diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Afectación del tercer nervio craneal",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Afectación del sexto nervio craneal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Síndrome de Claude Bernard Horner",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Miastenia gravis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Afectación del fascículo longitudinal medial III: imposibilidad de mirar hacia arriba, medial y abajo. Ptosis y midriasis, con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "estrabismo divergente. IV: imposibilidad de mirar hacia inferomedial. Estrabismo algo divergente. VI: imposibilidad de mirar hacia lateral. Estrabismo convergente. FLM: imposibilidad de mirar hacia medial, en la mirada conjugada. Nistagmo. Sin las demás alteraciones del III nervio craneal. Horner: ptosis, miosis y anhidrosis de la mitad de la cara. Miastenia gravis: ptosis y estrabismo \u0000uctuantes, más debilidad \u0000uctuante también.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente de 60 años consulta por un cuadro de 3 días de evolución, de debilidad Sin contestar y di\u0000cultad para caminar, que ha ido en claro aumento. Al examen se aprecia Puntúa como paresia de las extremidades superiores e inferiores, asociado a abolición de los 1,00 re\u0000ejos osteotendíneos. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Miastenia gravis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome de Guillain Barré",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Polineuropatía",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Esclerosis múltiple",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Esclerosis lateral amiotró\u0000ca Es un síndrome de Guillain Barré clásico: tetraparesia \u0000ácida y arre\u0000éctica de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "instalación progresiva, en cosas de días. La miastenia gravis produce debilidad \u0000uctuante, con compromiso de los oculomotores. La polineuropatía suele tener gran compromiso sensitivo, suelen ser de instalación muy lenta. Pero sí pueden presentar hiporre\u0000exia e hipotonía, porque también son un síndrome de segunda motoneurona (denervación). La esclerosis múltiple produce signos focales y en particular, neuritis óptica. La esclerosis lateral amiotró\u0000ca produce un cuadro crónico de debilidad, con alteraciones de primera y segunda motoneurona mezcladas (ej. espasticidad, hiperre\u0000exia con fasciculaciones y atro\u0000a), sin alteración sensitiva.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un paciente de 60 años presenta vértigo de inicio súbito, muy intenso, que inició Sin contestar hace cerca de 3 horas. Al examen físico presenta lateropulsiones a derecha y Puntúa como nistagmo horizontal, con fase rápida a izquierda. Ha vomitado en varias 1,00 oportunidades y no se atreve a caminar, porque se cae hacia el lado derecho. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Accidente vascular de troncoencéfalo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Accidente vascular de cerebelo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Accidente vascular de arteria cerebral anterior",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Esclerosis múltiple",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Neuronitis vestibular Tiene un vértigo de tipo periférico: intenso, con nistagmo horizontal y lateropulsiones hacia un solo lado, sin signos focales, ni cerebelosos. De las opciones, la única que produce vértigo periférico es la neuronitis vestibular, que",
+        "correcta": true
+      }
+    ],
+    "justificacion": "además se caracteriza por tener un vértigo constante, de varios días de evolución. Se trata con antivertiginosos, siendo actualmente de elección el lorazepam u otra benzodiacepina. - La A (AVE troncoencefálico), B (AVE cerebeloso) y D (Esclerosis múltiple) pueden producir vértigo, pero de tipo central (ej. nistagmo multidireccional). - La C (AVE de ACA) no produce vértigo, sino hemiparesia e hemihipoestesia de predominio crural.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un paciente de 68 años presenta imposibilidad de evocar palabras de inicio súbito, Sin contestar hace 30 minutos, asociado a imposibilidad de realizar movimientos con la Puntúa como extremidad superior derecha. Al examen físico se constata una hemiparesia 1,00 derecha de predominio braquial, asociada a una afasia de expresión. Se solicita un TAC de cerebro sin contraste, que resulta normal. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Enviar a domicilio con reposo y control ambulatorio",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar medidas de neuroprotección y protocolo de trombólisis endovenosa",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar medidas de neuroprotección y mantener en observación por 24 horas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar TAC de cerebro con contraste",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar de inmediato anticoagulación con heparina, iniciar medidas de neuroprotección y mantener una conducta expectante Es una AVE isquémico, que además está dentro de la ventana para trombólisis (<4,5 horas), por lo que se debe trombolizar urgentemente, más las medidas de neuroprotección. Es un AVE porque el diagnóstico es clínico y se basa en la aparición súbita / ictal de signos focales (hemiparesia y afasia, en este caso). Es",
+        "correcta": false
+      }
+    ],
+    "justificacion": "isquémico, porque el TAC descartó las hemorragias.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "¿Cuál de las siguientes alteraciones haría MENOS probable el diagnóstico de una Sin contestar neuralgia primaria del trigémino?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ubicación del dolor en la zona malar y frontal de una hemicara",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "El dolor se gatilla al tocar algunas zonas de la cara",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Presencia de alodinia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "La movilidad de la cara es normal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Presencia de hipoestesia/anestesia de una hemicara La neuralgia primaria se caracteriza por dolor tipo neurálgico (tipo eléctrico, con alodinia e hiperalgesia), en cualquiera de sus ramas (nasociliar: frente; maxilar: mejilla; mandibular: mandíbula), sin otras alteraciones en el examen físico. La",
+        "correcta": true
+      }
+    ],
+    "justificacion": "presencia de hipoestesia/anestesia sugiere una causa secundaria. Actualmente, tanto la neuralgia primaria como la secundaria obligan a realizar una neuroimagen (RMN). Sin embargo, en la primaria resultará normal y se tratará con carbamacepina (de elección) u otro estabilizador nervioso (ej. gabapentina), mientras que en la secundaria se debe, además, tratar dirigidamente la causa.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Una paciente de 48 años acude al servicio de urgencia por cefalea. Re\u0000ere que con Sin contestar cierta frecuencia presenta cefalea, pero que en esta oportunidad es más intensa Puntúa como que lo habitual y que no ha cedido con ibuprofeno y paracetamol. El dolor es de 1,00 carácter pulsátil, ubicado en la zona frontal y retroocular, mayor al lado izquierdo. Aumenta con la luz y con los ruidos fuertes. Al examen físico no presenta focalidad neurológica y sus signos vitales son normales. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cefalea cluster",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Hemorragia subaracnoidea",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Migraña",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Cefalea tensional",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Accidente vascular hemorrágico Es una migraña, jaqueca o cefalea vascular clásica: cefalea pulsátil, frontoparietal,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "con fotofobia y sonofobia. La cefalea cluster tiene dolor periocular, con ptosis, miosis, rinorrea y ojo rojo. La hemorragia subaracnoidea tiene inicio súbito e intensidad 10/10, con sigons meníngeos y de HTEC. La cefalea tensional es de localización temporo-occipital, irradiada al cuello. El AVE hemorrágico tiene signos focales de inicio súbito, más la cefalea y signos de HTEC.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "¿Qué tratamiento antibiótico es más adecuado para un paciente de 30 años, con Sin contestar una meningitis bacteriana aguda?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ceftriaxona + vancomicina",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Ampicilina + vancomicina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Ceftriaxona + clindamicina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Cefepime + metronidazol",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Imipenem La meningitis bacteriana aguda de los adultos suele ser por neumococo, meningococo y Haemophilus, todos los que son cubiertos por la ceftriaxona o el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "cefotaximo (cefalosporinas de tercera generación). * La vancomicina se agrega para cubrir al neumococo resistente, cuando hay riesgo de resistencia. Si bien antes la tasa de prevalencia de resistencia en Chile era baja, ha subido mucho, por lo que actualmente se recomienda agregar siempre vancomicina, hasta haber descartado la presencia de neumococo. - Los corticoides actualmente están recomendados a todas las edades, mientras no se haya descartado la presencia de neumococo, ya que disminuyen las secuelas causadas por este patógeno. - La ampicilina se agrega en el embarazo y los adultos mayores, para cubrir además Listeria. Recomendación de antibióticos empíricos actuales: * Hasta 1 mes de edad: ampicilina + cefotaximo. Busca cubrir SGB, listeria y Gram (-). * Niños y adultos: Ceftriaxona + vancomicina + dexametasona. Busca cubrir neumococo, haemo\u0000lus y meningococo. * Mayores de 60 años y embarazo: Agregar ampicilina, para cubrir listeria. * Neurocirugía o TEC abierto: asegurar agregar cobertura para pseudomona y S. aureus. Ej. Cefepime + vancomicina.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Una paciente de 70 años presenta fallas reiteradas de la memoria, en especial de la Sin contestar memoria reciente. No ha presentado alucinaciones, pero últimamente ya no puede Puntúa como utilizar dinero ni tampoco cocinar, ya que comete muchos errores. Al examen físico 1,00 no tiene focalidad neurológica, está atenta y vigil y presenta una actitud cooperadora, sin embargo, no es capaz de ubicar correctamente los números dentro de un círculo, de modo que asemejen a un reloj. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Enfermedad de Alzheimer",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Demencia por cuerpos de Lewy",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Demencia frontotemporal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hidrocefalia normotensiva",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Delirium Tiene una demencia: alteraciones de la memoria y otras funciones cognitivas. Como no tiene ningún otro elemento clínico, que oriente a las demás causas de demencia, lo más probable es que sea una enfermedad de Alzheimer, ya que es la causa más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "frecuente de demencia. La demencia por cuerpos de Lewy tiene alucinaciones y parkinsonismo. La demencia frontotemporal tiene desinhibición. La hidrocefalia normotensiva tiene caídas, incontinencia urinaria y torpeza motora. El delirium tiene inicio agudo, con compromiso de la atención, curso \u0000uctuante y compromiso de conciencia.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Una paciente de 28 años consulta por debilidad, que aparece en especial al realizar Sin contestar movimientos reiterados. Su examen físico revela ptosis derecha. El diagnóstico más Puntúa como probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de Guillain Barré",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Polineuropatía",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Miastenia gravis",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Miopatía",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Esclerosis lateral amiotró\u0000ca Es una miastenia gravis clásica: debilidad \u0000uctuante, con compromiso de los ojos (ptosis y estrabismo), y que empeora con los movimientos repetitivos y que es más frecuente en mujeres jóvenes (por ser autoinmune), aunque puede afectar a cualquier persona. La miastenia de Lambert Eaton, en cambio, mejora con las",
+        "correcta": false
+      }
+    ],
+    "justificacion": "repeticiones. El Guillain Barré rara vez afecta los ojos, con excepción del Sd. de Miller Fischer o neuropatía craneal múltiple que sí afecta los pares craneanos con mucha intensidad.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "¿Cuál de las opciones síntomas es MENOS compatible con una jaqueca?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Visión de escotomas centelleantes previo a la cefalea",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Aumento de la cefalea con los ruidos y la luz intensa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Localización frontoparietal y carácter pulsátil",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Presencia de signo de Babinski",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Inicio del dolor en relación a ciertos alimentos El signo de Babinski es patognomónico del síndrome piramidal, por lo que es un signo focal, que hace pensar en otra causa de cefalea. La A, B y C son características de la jaqueca. La E (inicio con alimentos) se puede ver, ya que dentro de los desencadenantes de las crisis de jaqueca, se encuentra la exposición al sol, a las pantallas, la falta de sueño, algunos alimentos y las bebidas alcohólicas, entre",
+        "correcta": false
+      }
+    ],
+    "justificacion": "otros.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente presenta imposibilidad de mirar hacia la derecha con el ojo izquierdo. El Sin contestar resto de los movimientos oculares están conservados. Además, se aprecia leve Puntúa como nistagmo del ojo derecho al mirar a la derecha. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lesión del tercer nervio craneal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Lesión del cuarto nervio craneal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lesión del sexto nervio craneal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Lesión del ganglio estrellado",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Lesión del fascículo longitudinal medial La afectación del fascículo longitudinal medial se caracteriza por imposibilidad de mirar hacia medial, en la mirada conjugada, sin las demás alteraciones del III nervio",
+        "correcta": true
+      }
+    ],
+    "justificacion": "craneal. Además, puede tener nistagmo. - III: imposibilidad de mirar hacia arriba, medial y abajo. Ptosis y midriasis. Estrabismo divergente. - IV: imposibilidad de mirar hacia inferomedial. Estrabismo algo divergente. - VI: imposibilidad de mirar hacia lateral. Estrabismo convergente. - Ganglio estrellado: síndrome de Horner, es decir, ptosis, miosis y anhidrosis de la mitad de la cara.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente de 15 años presenta movimientos involuntarios de la mano izquierda, Sin contestar de 30 segundos de duración, que luego evolucionan a una convulsión tónicoclónica Puntúa como generalizada. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Epilepsia mioclónica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Epilepsia tónicoclónica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lesión focal",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Convulsión idiopática",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Meningitis Tiene una crisis parcial compleja, secundariamente generalizada. Es parcial, porque empezó con movimientos de la mano. Es compleja, porque se desconectó del medio. Y es secundariamente generalizada, porque terminó como una crisis tónico- clónica. Las crisis parciales, de todo tipo (simples o complejas), suelen ser por",
+        "correcta": false
+      }
+    ],
+    "justificacion": "lesiones focales. La importancia en saber reconocerlas es que hacen poco probable una epilepsia primaria y, además, que obligan a hacer una neuroimagen (idealmente RMN) cuanto antes. - La epilepsia mioclónica tiene mioclonías del sueño (“saltitos” al dormirse o despertar) y además convulsiones tónico-clónicas. - La epilepsia tónico-clónica tiene convulsiones tónico-clónicas a repetición, sin el pródromo parcial. - La meningitis tiene \u0000ebre, cefalea y signos meníngeos. Si convulsiona suele ser tónico-clónico, a menos que se asocie a un absceso cerebral u otra lesión focal.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un paciente de 36 años, sin antecedentes de importancia, presenta cefalea muy Sin contestar intensa (10/10), que inició de manera súbita hace 30 minutos y que se ha Puntúa como acompañado de vómitos en varias oportunidades. El dolor es de carácter opresivo y 1,00 al examen físico no se aprecia focalidad neurológica. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar punción lumbar de inmediato",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar TAC de cerebro de urgencia",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar resonancia magnética nuclear de cerebro de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar analgésicos y antieméticos por vía endovenosa y reevaluar en 2 horas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar AINEs y ergotamínicos y enviar a domicilio con propanolol Es una cefalea con signos de alarma: inicio súbito y dolor muy intenso, por lo que se tiene que estudiar con una TAC de cerebro. La sospecha es una hemorragia subaracnoidea, la que también se diagnostica con la TAC sin contraste. La resonancia magnética sería la respuesta correcta ante una sospecha de tumor",
+        "correcta": false
+      }
+    ],
+    "justificacion": "cerebral.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente presenta paresia de las extremidades inferiores, con hiperrre\u0000exia y Sin contestar aumento del tono muscular de dichas extremidades. Además, se constata un re\u0000ejo Puntúa como plantar extensor. ¿En qué lugar se encuentra la lesión con mayor probabilidad?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Corteza motora",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Nervio periférico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tronco encefálico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Médula espinal",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Placa motora Tiene una paraparesia, con afectación de primera motoneurona o síndrome piramidal (Babinski, hiperre\u0000exia e hipertonía). Por tanto, la lesión está en el sistema nervioso central. Por ser paraparesia, lo más probable es que esté en la médula. La corteza motora y el troncoencéfalo tienen hemiparesia. El nervio periférico tiene clínica de segunda motoneurona (denervación). La placa motora tiene la clínica de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "la miastenia gravis.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un paciente de 68 años consulta por disestesias de las extremidades inferiores, de Sin contestar 3 meses de evolución, que se han asociado a debilidad de predominio distal. Al Puntúa como examen físico se constata atro\u0000a de los músculos del pie y disminución de la 1,00 sensibilidad termalgésica en los pies. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Polineuropatía",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Miastenia gravis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Esclerosis lateral amiotró\u0000ca",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome de Guillain Barré",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Mielitis transversa Es una polineuropatía clásica: alteración sensitiva “en guante y calcetín”, con mayor afectación de la sensibilidad termalgésica, más debilidad de predominio distal, hiporre\u0000exia e hipotonía. También es frecuente el dolor de tipo neuropático (urente,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "con alodinia). - La miastenia solo tiene compromiso motor y no sensitivo, de predominio en los ojos y de tipo \u0000uctuante. - La ELA solo tiene compromiso motor, de lenta evolución, con mezcla de sintomatología de primera y segunda motoneurona. Además, suele tener mucha disfagia. Las fasciculaciones son muy frecuentes, en especial en la lengua. - El Guillain Barré tiene una tetraparesia \u0000ácida y arre\u0000éctica, de instalación subaguda. Además, puede tener dolor y afectación sensitiva. - La mielitis transversa tiene dolor de espalda, seguido de un síndrome medular, con paraparesia o tetraparesia (si es muy alta) y nivel sensitivo.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente de 34 años presenta cefalea de un mes de evolución, progresiva, que es Sin contestar mayor en las mañanas. Además, ha convulsionado en una oportunidad. El Puntúa como diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Jaqueca con aura",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tumor cerebral",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Epilepsia primaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Meningitis tuberculosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Esclerosis múltiple Tiene una sospecha de hipertensión endocraneana (HTEC), por la cefalea de predominio matinal. La convulsión orienta mucho a tumor cerebral. Se debe pedir una RMN de cerebro y, mientras, iniciar carbamacepina, fenitoína u otro anticonvulsivante que cubra bien las convulsiones focales (recordar que hay",
+        "correcta": false
+      }
+    ],
+    "justificacion": "anticovulsivantes de amplio espectro y otros que solo sirven para las de tipo focal). - La jaqueca no convulsiona y es de predominio en la tarde (al igual que la cefalea tensional). No tiene signos de HTEC. - La epilepsia primaria y la esclerosis múltiple sí pueden convulsionar, pero no tienen HTEC. - La meningitis tuberculosa tendría \u0000ebre y signos meníngeos. Sí podría tener signos de HTEC y convulsionar.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un niño presenta un cuadro de temblor, sialorrea y di\u0000cultades para caminar. Al Sin contestar examen físico se constata miosis de ambos ojos. La madre cree que pudo haber Puntúa como ingerido algún medicamento o algún tóxico. ¿Qué sustancia es la más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Opiáceos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Organofosforados",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Cocaína",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Antidepresivos tricíclicos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Benzodiacepinas La intoxicación por organofosforados (insecticidas) se caracteriza por una triada:",
+        "correcta": false
+      }
+    ],
+    "justificacion": "temblor, sialorrea y miosis, más la di\u0000cultad motora. Antídoto: atropina. - Lo opiáceos presenta compromiso de conciencia, depresión respiratoria y miosis puntiforme. Antídoto: naloxona. - La cocaína (adrenérgico) tiene HTA, taquicardia, sudoración y midriasis. Se usan benzodiacepinas (relativamente contraindicado el betabloqueo, por riesgo de crisis hipertensiva). - Los ADTC (anticolinérgicos) tienen taquicardia, boca seca, compromiso de conciencia, íleo paralítico y midriasis. No hay antídoto. - Las BDZ tienen compromiso de conciencia y generalmente signos vitales normales, aunque los casos graves pueden tener depresión respiratoria. Antídoto: \u0000umazenil, aunque su duración es muy corta y tiene riesgo de convulsiones y síndrome de abstinencia, por lo que se uso es controvertido.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Una mujer de 30 años presenta un cuadro que se instala en una semana, Sin contestar caracterizado por hemiparesia derecha, asociada a amaurosis derecha, con un Puntúa como defecto pupilar aferente. Además, presenta hipoestesia de la extremidad inferior 1,00 izquierda. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Infarto de troncoencéfalo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Infarto lacunar",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Síndrome de Guillain Barré",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Infarto de arteria cerebral posterior",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Esclerosis múltiple Es una esclerosis múltiple clásica, tanto por ser una mujer joven, como especialmente por tener una neuritis óptica (amaurosis, con escape pupilar) y signos focales. Se estudia con RMN de cerebro y médula y se trata con corticoides en agudo (si no responde, se puede hacer plasmaféresis). Entre las crisis, se trata con interferón, aunque actualmente han demostrado ser bastante mejores algunos anticuerpos monoclonales, en especial nalizumab (anticuerpo contra proteínas leucocitarias necesarias para atravesar la barrera hematoencefálica) y los anticuerpos anti-linfocito B (anti-CD20), como el rituximab, ocrelizumab y",
+        "correcta": true
+      }
+    ],
+    "justificacion": "ofatumumab). - El infarto de troncoencéfalo generalmente cursa con compromiso de conciencia (se afecta la vía activante ascendente) y un síndrome alterno (afectación de un hemicuerpo, con afectación de los nervios craneales contralaterales). - El infarto lacunar suele presentarse con hemiparesia o hemihipoestesia, o con ambas, sin afasia ni compromiso de conciencia y suele tener una evolución favorable. - El AVE de arteria cerebral posterior evoluciona con hemihipoestesia de predominio crural y afectación del campo visual.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente de 70 años presenta temblor de las extremidades superiores, algo Sin contestar mayor en el lado derecho. El temblor aumenta al adoptar una postura o al tomar un Puntúa como objeto. Su marcha es normal y es capaz de coordinar normalmente sus 1,00 movimientos. No presenta disminución de la fuerza de dichas extremidades. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Enfermedad de Parkinson",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome cerebeloso",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Temblor esencial",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Corea de Huntington",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Esclerosis lateral amiotró\u0000ca",
+        "correcta": false
+      }
+    ],
+    "justificacion": "La sospecha es un temblor esencial, que se trata con propanolol (betabloqueante). Que sea asimétrico orienta más a enfermedad de Parkinson (se trata con agonistas dopaminérgicos), pero el Parkinson tiene un temblor de reposo, que desaparece con el movimiento, o al tomar un objeto o adoptar una postura (además, tiene bradicinesia, rigidez y desaparición del pestañeo, braceo). En este caso, en cambio, aumenta, lo que es característico del temblor esencial, que además tiene el resto del examen físico normal.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente es diagnosticado de meningitis meningocócica por la cepa W-135. El Sin contestar tratamiento antibiótico más adecuado es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Imipenem",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ceftriaxona",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Vancomicina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Rifampicina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Moxi\u0000oxacino El meningococo se trata con ceftriaxona, cefotaximo, o bien con penicilina en dosis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "altas.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente presenta movimientos bruscos de los brazos, que son de predominio Sin contestar proximal. ¿A qué tipo de síntoma extrapiramidal corresponde esta descripción?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Distonía",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Disquinesia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Atetosis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Corea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Balismo",
+        "correcta": true
+      }
+    ],
+    "justificacion": "- El balismo se caracteriza por movimiento de predominio proximal, bruscos. - La distonía tiene una contracción tónica de una parte del cuerpo, muy intensa y dolorosa (ej. tortícolis espasmódica: cuello se dobla tónicamente; o la crisis oculogira: ojos se van hacia arriba y no se pueden bajar). - La disquinesia tardía aparece luego de meses o años de tomar antipsicóticos y se caracteriza por movimientos reptantes de la cara, lengua y mentón, que luego evoluciona a afectación de las extremidades, temblor, rigidez. - La atetosis son movimientos reptantes y distales. - El corea con movimientos rítmicos, similar a un baile.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente de 69 años pierde la capacidad de hablar de manera súbita. No puede Sin contestar decir palabras ni nombrar objetos, sin embargo, sí es capaz de entender casi todo lo Puntúa como que se le dice. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "AVE con compromiso del lóbulo frontal izquierdo",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "AVE con compromiso del lóbulo parietal derecho",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "AVE con compromiso de la zona temporoparietal izquierda",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "AVE con compromiso del lóbulo occipital izquierdo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "AVE con compromiso de la zona parietooccipital derecha Tiene una afasia de expresión, o afasia motora o afasia de Broca. El área de broca está ubicada en la corteza frontal izquierda. En cambio el área de Wernicke, encargada de la comprensión del lenguaje, está en el área parietotemporal",
+        "correcta": false
+      }
+    ],
+    "justificacion": "izquierda. Dado que ambas áreas están irrigadas por la arteria cerebral media izquierda, con alguna frecuencia se afectan las dos.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente pierde la propiocepción, la sensibilidad táctil \u0000na y la sensibilidad Sin contestar vibratoria de las extremidades inferiores. ¿Dónde está la lesión con mayor Puntúa como probabilidad?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "En el asta anterior de la médula",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "En la corteza sensitiva",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "En el tálamo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "En los cordones anteriores de la médula (corticoespinales)",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "En los cordones posteriores de la médula - Los cordones posteriores llevan la información sensitiva de tipo vibratoria, propioceptiva y táctil \u0000na. Esta clínica se puede dar en la embolia de la arteria",
+        "correcta": true
+      }
+    ],
+    "justificacion": "espinal posterior. - El asta anterior es el lugar donde hacen sinapsis la primera y segunda motoneurona, por lo que su lesión produce alteración motora mezcladas (ej. Esclerosis lateral amiotró\u0000ca). - La lesión de la corteza sensitiva produce hemihipoestesia contralateral. - La lesión del tálamo también produce hemihipoestesia contralateral. - Los cordones anteriores de la médula tienen la información motora, por lo que su afectación produce paraparesia. Recordar que la decusación motora se produce en el bulbo raquídeo, en la zona llamada \"decusación de las pirámides\" (zona anterior del bulbo). La decusación sensitiva de los cordones posteriores también se produce en el bulbo raquídeo, en la zona posterior llamada \"decusación sensitiva\". La decusación sensitiva de la sensibilidad táctil termalgésica se produce en la misma médula, en la comisura anterior.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente presenta hemipareria y hemihipoestesias derechas de inicio súbito Sin contestar hace 3 horas. Al examen además se constata afasia. La conducta inicial es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar nitroprusiato endovenoso",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar TAC de cerebro sin contraste",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Anticoagular con heparina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar trombolisis endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar trombolisis intrarterial Tiene un AVE clínico (y el diagnóstico es clínico), ya que tiene signos focales de inicio ictal o súbito. Por tanto, se debe solicitar una TAC de cerebro sin contraste, para diferenciar entre un AVE hemorrágico y un AVE isquémico, que se tratan distinto (ej. el AVE isquémico recibe aspirina, trombólisis con activadores del plasminógeno y eventualmente heparina, tolo lo que está contraindicado en el AVE hemorrágico). En este caso, dado que hay afasia, lo más probable es que sea un AVE isquémico de la arteria cerebral media izquierda, dado que hay afasia y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "hemiparesia más hemihipoestesia derechas. La ventana de trombólisis en los AVE isquémicos, actualmente, es de 4,5 horas (antes era 3 horas y es importante entender que cada minuto que pasa signi\u0000ca la muerte de más neuronas. En estricto rigor, la RMN de difusión-perfusión permite identi\u0000car si hay áreas que sean recuperables con trombólisis, independientemente del tiempo transcurrido, por lo que se suele realizar en los lugares donde está disponible.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente de 38 años consulta por cefalea recurrente, intensa, que suele Sin contestar desencadenarse cuando duerme poco y cuando tiene sobrecarga laboral. Es de Puntúa como localización frontoparietal y de carácter pulsátil. Re\u0000ere que en ocasiones viene 1,00 precedida por visión de luces (escotomas centelleantes) y que aumenta con la luz. Actualmente presenta 3 a 4 crisis a la semana. ¿Qué tratamiento farmacológico es más adecuado para prevenir la aparición de estas crisis?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ergotamina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fluoxetina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Sumatriptán",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Donepezilo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Flunarizina Es una jaqueca o migraña clásica. El tratamiento pro\u0000láctico incluye los antidepresivos tricíclicos, el propanolol y la \u0000unarizina (se usa poco actualmente), más los anticonvulsivantes, como el ácido valproico o el topiramato, e incluso algunos antihipertensivos como los IECA y ARA2. Además, para casos refractarios, se han desarrollado algunos anticuerpos monoclonales contra péptido relacionado con el gen de la calcitonina o su receptor. Esto sumado a evitar los",
+        "correcta": true
+      }
+    ],
+    "justificacion": "desencadenantes (ej. debe dormir bien). - El tratamiento de la crisis sí incluye a los ergotamínicos y triptanes, aunque de primera línea se usa el paraceptamol y los AINEs. En las crisis más graves se agregan los ergotamínicos, triptanes, corticoides, antieméticos e incluso antipsicóticos, como la clorpromazina. - No se aconseja el uso crónico de ergotamínicos, ya que producen \"cefalea de rebote\". - El donepezilo es un inhibidor de la aectilcolinesterasa, que se usa en el tratamiento de las demencias.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente con un accidente vascular del hemisferio cerebeloso izquierdo Sin contestar presentará, con mayor probabilidad:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Paresia e hipertonía de las extremidades superior e inferior izquierdas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Paresia e hipertonía de las extremidades superior e inferior derechas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Dismetría y adiadococinesia de las extremidades superior e inferior izquierdas",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Dismetría y adiadococinesia de las extremidades superior e inferior derechas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Paraparesia La afectación del hemisferio cerebeloso produce dismetría (temblor de intención) y adiadococinesia (imposibilidad de realizar movimientos alternantes) ipsilaterales, ya que el cerebelo se comunica con los hemisferios cerebelosos contralaterales, que a su vez se comunica con las extremidades contralaterales (ipsilaterales al",
+        "correcta": false
+      }
+    ],
+    "justificacion": "cerebelo).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un paciente presenta estrabismo convergente, con imposibilidad de mirar hacia la Sin contestar derecha con el ojo derecho. El resto de los movimientos oculares están Puntúa como conservados. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lesión del tercer nervio craneal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Lesión del cuarto nervio craneal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lesión del sexto nervio craneal",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Lesión del séptimo nervio craneal",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Lesión del fascículo longitudinal medial",
+        "correcta": false
+      }
+    ],
+    "justificacion": "III: imposibilidad de mirar hacia arriba, medial y abajo. Ptosis y midriasis. Estrabismo divergente. IV: imposibilidad de mirar hacia inferomedial. Estrabismo algo divergente. VI: imposibilidad de mirar hacia lateral. Estrabismo convergente. VII: imposibilidad de realizar movimientos de la cara, incluyendo cerrar el ojo (se produce lagoftalmo). FLM: imposibilidad de mirar hacia medial, en la mirada conjugada. Nistagmo. Sin las demás alteraciones del III nervio craneal.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "¿Cuál de las siguientes es indicación de estudio con RMN en un paciente con una Sin contestar lumbociática?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Edad menor a 50 años",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dé\u0000cit neurológico progresivo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Dolor de 2 semanas de duración",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dolor muy intenso que limita los movimientos de la espalda",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Dolor de inicio súbito El dé\u0000cit neurológico es un signo de alarma, por lo que debe ser estudiado con RMN. El inicio súbito y el dolor muy intenso son característicos del lumbago",
+        "correcta": false
+      }
+    ],
+    "justificacion": "mecánico. Otros signos de alarma son: baja de peso, antecedente de cáncer, osteoporosis, traumatismo, uso de corticoides, \u0000ebre, duración mayor a 6 semanas, lumbago mayor con el reposo. La simple irradiación del dolor no es signo de alarma, sino que es una simple lumbociática. El dé\u0000cit neurológico, en cambio, sí lo es.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Una mujer de 19 años consulta por debilidad de varios días de evolución, que en Sin contestar ocasiones es más intensa. Al examen se aprecia ptosis izquierda y se constata que Puntúa como se fatiga rápidamente al realizar movimientos repetitivos. El diagnóstico más 1,00 probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de Guillain Barré",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Miastenia Gravis",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Polineuropatía",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Miopatía",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Mononeuritis múltiple Es una miastenia gravis clásica: debilidad \u0000uctuante, con compromiso de los ojos (ptosis y estrabismo), y que empeora con los movimientos repetitivos y que es más frecuente en mujeres jóvenes (por ser autoinmune), aunque puede afectar a cualquier persona. La miastenia de Lambert Eaton, en cambio, mejora con las",
+        "correcta": false
+      }
+    ],
+    "justificacion": "repeticiones. El Guillain Barré rara vez afecta los ojos, con excepción del Sd. de Miller Fischer o neuropatía craneal múltiple que sí afecta los pares craneanos con mucha intensidad. La polineuropatía suele darse en un paciente diabético y produce afectación de la sensibilidad termalgésica distal, más debilidad de predominio distal. La miopatía produce debilidad proximal. La mononeuritis múltiple suele darse en pacientes con vasculitis sistémicas y se presenta como debilidad, arre\u0000exia, hipoestesia, con afectación de varios nervios y raíces nerviosas.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente de 34 años consulta por cefalea de 2 semanas de evolución, que suele Sin contestar ser más intensa en la mañana y que lo despierta en la noche. Además, presenta Puntúa como náuseas y vómitos con frecuencia. El examen físico no tiene focalidad neurológica. 1,00 La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar analgésicos orales y observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar un TAC de cerebro con contraste",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar un electroencefalograma",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar una punción lumbar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar una angioresonancia cerebral El diagnóstico más probable es un síndrome de hipertensión endocraneana (HTEC), dado que tiene cefalea de predominio nocturno y matinal (aumenta al estar recostado), asociado a vómitos y náuseas. Le falta el edema de papila, por lo que lo primero a hacer es el fondo de ojo. Luego, se debe estudiar con una neuroimagen, de preferencia una RMN, ya que es mejor vara ver tumores cerebrales. Si no está la opción, se debe marcar un TAC de cerebro con contraste (ya que se busca un",
+        "correcta": false
+      }
+    ],
+    "justificacion": "tumor). La angioresonancia sirve para buscar aneurismas y lesiones vasculares. La punción lumbar está contraindicada en la HTEC, por riesgo de enclavamiento.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "¿Cuál de los siguientes fármacos tiene más riesgo de producir síntomas Sin contestar extrapiramidales?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Bromocriptina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fluoxetina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Risperidona",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Lorazepam",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Carbamazepina Los síntomas extrapiramidales se producen especialmente con los antagonistas dopaminérgicos, como son los antipsicóticos y los antieméticos. También se pueden ver en otros fármacos, como en la \u0000uoxetina o la \u0000unarizina, pero son",
+        "correcta": false
+      }
+    ],
+    "justificacion": "mucho más raros. De los antipsicóticos, los con mayor riesgo de síntomas extrapiramidales son los antipsicóticos típicos (haloperidol, clorpromazina, tioridazina). Los atípicos tienen menor riesgo (risperidona, olanzapina, aripiprazol) e incluso hay algunos con mínimo riesgo (quetiapina y clozapina, que son los recomendados en pacientes con enfermedad de Parkinson, que requieren antipsicóticos por alguna razón).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente de 65 años presenta temblor de ambas manos, mayor al lado derecho, Sin contestar el que aparece en el reposo y desaparece al tomar un objeto o adoptar una posición. Puntúa como El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Temblor esencial",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Enfermedad de Parkinson",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Corea de Huntington",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome cerebeloso",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome piramidal Es una enfermedad de Parkinson clásica, ya que tiene temblor de reposo, que",
+        "correcta": false
+      }
+    ],
+    "justificacion": "desaparece al adoptar una posición. El temblor esencial, aumenta al hacerlo. El Corea de Huntington tiene movimientos, como un baile y luego evoluciona con demencia. El síndrome cerebeloso tiene un temblor de intención: solo aparece al realizar movimientos (también se llama dismetría). El síndrome piramidal tiene afectación motora, con aumento del tono y de los ROT, más signo de Babinsky.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente de 30 años presenta lumbago, irradiado a la extremidad inferior Sin contestar izquierda. Al examen físico se constata una leve paresia a la extensión de la rodilla, Puntúa como con disminución del re\u0000ejo rotuliano. Además, tiene hipoestesia en la cara medial 1,00 de la pierna, hasta el maléolo medial. ¿Qué raíz es la afectada con mayor probabilidad?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "S2",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "S1",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "L5",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "L4",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "L2",
+        "correcta": false
+      }
+    ],
+    "justificacion": "L1: Sensibilidad zona inguinal. L2-L4: Sensibilidad de cara anterior del muslo, extensión de la rodilla y re\u0000ejo rotuliano. También la aducción del muslo. L4, además, da la sensibilidad de la cara medial de la pierna y participa en la dorsi\u0000exión del pie y la extensión de los dedos, junto a L5. L5: Ningún re\u0000ejo. Sensibilidad de cara posterior del muslo y anterior de la pierna y el empeine. Extensión de los ortejos, en especial del primero. Dorsi\u0000exión del pie. También abducción del muslo. S1: Re\u0000ejo aquileano. Sensibilidad cara posterior del muslo y pierna, también planta del pie, más el borde externo (5° ortejo). Flexión plantar del pie. S2-S4: Sensibilidad del periné y zona pudenda. Control de esfínteres y erección.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Una paciente de 48 años, sin antecedentes de importancia, presenta cefalea de Sin contestar intensidad 10/10, que inició súbitamente hace 2 horas. Al examen físico se constata Puntúa como rigidez de nuca, sin signos focales. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Meningitis aguda",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cefalea en racimo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hemorragia subaracnoidea",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Crisis de jaqueca",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Accidente vascular encefálico hemorrágico Es una HSA clásica: cefalea muy intensa, de inicio súbito/ictal. Además, puede tener",
+        "correcta": false
+      }
+    ],
+    "justificacion": "signos meníngeos (como en este caso: rigidez de nuca). La meningitis no tiene inicio súbito y suele tener \u0000ebre (la HSA también puede desarrollar \u0000ebre). La cefalea en racimo tiene dolor periocular con rinorrea, epifora, ojo rojo, ptosis y miosis. La jaqueca tiene cefalea pulsátil, pfrontoparietal, son sonofobia, fotofobia y en ocasiones, aura. El AVE hemorrágico tiene signos focales, con cefalea que se instala en algunos minutos.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente de 69 años presenta deterioro cognitivo, con alteraciones de la Sin contestar memoria reciente, asociado a caídas, rigidez y movimientos de tipo Puntúa como extrapiramidales. Además, tiene alucinaciones visuales complejas con cierta 1,00 frecuencia. No presenta focalidad neurológica y es capaz de invertir series. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Demencia de Alzheimer",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Demencia por cuerpos de Lewy",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Demencia frontotemporal",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hidrocefalia normotensiva",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Delirium Es una demencia clásica (alteración de la memoria y deterioro cognitivo). Además, tiene los elementos característicos de la demencia por cuerpos de Lewy:",
+        "correcta": false
+      }
+    ],
+    "justificacion": "extrapiramidalismo y alucinaciones complejas. La enfermedad de Alzheimer no tiene ningún otro elemento clínico, que oriente a las demás causas de demencia y es la causa más frecuente de demencia. La demencia frontotemporal tiene desinhibición. La hidrocefalia normotensiva tiene caídas, incontinencia urinaria y torpeza motora. El delirium tiene inicio agudo, con compromiso de la atención (no invierte series), curso \u0000uctuante y compromiso de conciencia.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente de 30 años, sin antecedentes previos, presenta un cuadro, Sin contestar caracterizado por movimientos involuntarios y repetitivos de la mano izquierda, que Puntúa como luego se extienden toda la extremidad y luego a la extremidad inferior izquierda, 1,00 terminando con una convulsión tónico-clónica. ¿Cuál es el examen más adecuado para el estudio de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Electromiografía",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Resonancia magnética nuclear de cerebro",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Prueba de edrofonio",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Electroencefalograma",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "No es necesario solicitar ningún examen a menos que el cuadro se repita Tiene una crisis parcial compleja, secundariamente generalizada. Las crisis parciales son causadas por lesiones focales, por lo que se debe realizar una",
+        "correcta": false
+      }
+    ],
+    "justificacion": "neuroimagen, de preferencia una RMN, en busca de un tumor cerebral. - La A (EMG) se usa en el estudio de las patologías relacionadas con el nervio periférico (muestra un patrón neuropático: nervio no conduce bien): neuropatías por atrapamiento, polineuropatías, síndrome de Guillain Barré, aunque también es de utilidad en las patologías musculares o de la placa motora (muestra un patrón miopático: nervio conduce bien, pero músculo no responde bien). - La C (edrofonio) se usaba antiguamente en el diagnóstico de la miastenia gravis, en que se recuperaban transitoriamente la debilidad. Sin embargo, actualmente se pre\u0000ere hacer pruebas clínica como la prueba de la \"compresa fría\", en que se enfrían los párpados con una compresa con hielo y se ve cómo mejora y luego se complementa con serología (en busca de anticuerpos contra el receptor de acetilcolina) y, en algunos casos, con electromiografía, que muestra que la respuesta muscular va disminuyendo, a medida que se repiten los estímulos. - La D (EEG) se usa en el estudio de las epilepsias primerias de la infancia (no son focales, sino primariamente generalizadas). Las convulsiones siempre se deben estudiar, comenzando por los exámenes generales, en busca de alteraciones matabólicas y luego se estudian con una neuroimagen (RMN generalmente) y, si se sospecha que es una epilepsia primaria, se pide el EEG.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un paciente presenta \u0000ebre alta y compromiso de consciencia cualitativo. Al Sin contestar examen físico se aprecia rigidez de nuca, signo de Brudzinsky y de Kerning. Se Puntúa como realiza punción lumbar, que da salida a un líquido cefalorraquídeo con 240 células, 1,00 85% de mononucleares y 15% de polimorfonucleares, glucosa 20 mg/dl y proteínas 112 mg/dl. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Meningitis bacteriana aguda",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Encefalitis herpética",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Meningitis tuberculosa",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Meningitis por enterovirus",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hemorragia subaracnoidea Es una meningitis tuberculosa, porque tiene pleocitosis (elevación de las células) de predominio mononuclear (MN), con glucosa baja (<40 mhg/dl). Si bien el diagnóstico de\u0000nitivo se realiza identi\u0000cando el bacilo de Koch en el LCR (baciloscopías, cultivo o PCR para TBC), las pruebas especí\u0000cas no tienen un rendimiento muy alto, por lo que el estudio habitual del LCR suele ser de mucha",
+        "correcta": false
+      }
+    ],
+    "justificacion": "utilidad para con\u0000rmar directamente e iniciar el tratamiento. Clínicamente, es muy similar a la meningitis bacteriana, con la diferencia que la meningitis tuberculosa tiene un inicio subagudo y suele cursar con focalidad neurológica o parálisis de los nervios craneales, alteraciones que son más raras en las meningitis bacterianas agudas. El tratamiento se debe iniciar con la sola sospecha y consiste en los 4 fármacos habituales (rifampicina, isoniacida, pirazinamida y etambutol) por 2 meses, seguido de 2 fármacos por 7-10 meses más (total tratamiento: 9 a 12 meses). - Las meningitis bacterianas tienen predominio polimorfonuclear (PMN), con glucosa baja. - La meningitis viral (enterovirus) es de predominio mononuclear (MN), con glucosa normal. - La meningitis herpética es igual a la viral, pero con líquido hemorrágico. - La HSA muestra líquido hemorrágico con xantocromía o con glóbulos rojos crenados (a diferencia de la punción hemorrágica, que tiene sangre recién extraída, sin crenación de los glóbulos rojos).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "¿Cuál de las siguientes alteraciones es compatible con un vértigo de origen Sin contestar periférico?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Asociación a hipoacusia",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Nistagmo muldireccional",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Asociación a hemiparesia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Asociación a parálisis facial",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Asociación a hipoestesia facial La hipoacusia es característica de la enfermedad de Ménière, que es una causa frecuente de vértigo periférico. También se puede ver en la parálisis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "vestibulococlear. - El nistagmo multidireccional es de vértigo central. En el periférico hay nistagmo horizontal, que “escapa de la lesión”. - La hemiparesia es un signo focal, que orienta al origen central. - La parálisis facial (VII nervio craneal) y la hipoestesia facial (V nervio craneal) sí pueden verse en un vértigo periférico (ej. un neurinoma del acústico que comprometa dichos nervios; ej2. una laberintitis aguda que comprometa el facial). Sin embargo, obligan a descartar una causa central, ya que la afectación de cualquiera de los otros nervios craneales sugiere una causa central.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Un paciente de 30 años presenta parálisis facial derecha de 3 horas de evolución. Al Sin contestar examen físico se constata parálisis de toda la hemicara, incluyendo la frente, sin Puntúa como alteración de los movimientos masticatorios, ni de la sensibilidad. No presenta 1,00 otros síntomas y sus signos vitales son normales. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar resonancia magnética nuclear e indicar control ambulatorio con neurólogo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar antidepresivos tricíclicos e indicar control ambulatorio",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hospitalizar, solicitar TAC de cerebro sin contraste e iniciar medidas de neuroprotección",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar prednisona oral, valaciclovir oral e indicar lubricación ocular y control ambulatorio Es una parálisis facial periférica clásica (afectación de toda la hemicara, sin signos focales). Por tanto, se debe tratar con corticoides orales (prednisona), protección ocular y ejercicios de movilidad de la cara. El aciclovir o valacilovir no están indicados en la mayoría de los casos (a pesar que son causados por reactivación de virus herpes simplex, salvo que se trate de un síndrome de Ramsey Hunt (con vesículas en el trago), de que tenga otras manifestaciones de herpes (ej. herpes",
+        "correcta": true
+      }
+    ],
+    "justificacion": "cutáneo) o que la debilidad sea demasiado severa (discutible), como en este caso. Los corticoides son más importantes que los antivirales. - Si hubiese sido central (ej. afectación de otro nervio craneal o hemiparesia o posibilidad de arrugar la frente), sería correcto el solicitar una RMN.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Un paciente de 50 años consulta por dolor en la frente derecha, de tipo neurálgico, Sin contestar que dura pocos segundos, pero que es muy intenso. El paciente re\u0000ere que el dolor Puntúa como se gatilla al tocarse la cara, pero que en ocasiones inicia de manera espontánea. Al 1,00 examen físico presenta re\u0000ejos fotomotores y corneales normales, sensibilidad normal y movimientos faciales y masticatorios conservados. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar AINEs y paracetamol oral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar resonancia magnética nuclear de cerebro, por sospecha de neuralgia secundaria",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar tratamiento con carbamazepina",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar tratamiento con opiáceos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar electroencefalograma Dado que no tiene alteraciones en el examen físico, ni una clínica progresiva, la sospecha diagnóstica es una neuralgia primaria del trigémino (en este caso con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "afectación de la rama nasociliar), por lo que se debe tratar con carbamazepina oral. Actualmente se recomienda realizar una RMN a todas las neuralgias del trigémino y no solo a las que clínicamente parecen ser secundarias. En las primarias, la RMN es normal. - Si hubiese tenido alguna alteración del examen neurológico, sería una neuralgia secundaria, que siempre requiere estudio con RMN, de modo de poder identi\u0000car y tratar la causa.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente presenta paresia de la extremidad inferior derecha. Al examen se Sin contestar aprecia abolición de los re\u0000ejos osteotendíneos de dicha extremidad, con Puntúa como disminución del tono muscular y atro\u0000a muscular. Además, se aprecian varias 1,00 fasciculaciones de distintos grupos musculares. ¿A qué nivel está localizado el problema?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Corteza cerebral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Vía piramidal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Asta anterior de la médula",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Nervio periférico",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Placa neuromuscular (placa motora) Tiene un síndrome de denervación o de segunda motoneurona: debilidad, con atro\u0000a, arre\u0000exia, hipotonía y fasciculaciones. Por tanto, la afectación está en el nervio periférico. La corteza cerebral y la vía piramidal producen un síndrome piramidal o de primera motoneurona. La esclerosis lateral amiotró\u0000ca (degenera el asta anterior de la médula) produce mezcla de ambas. La afectación de la placa motora (ej. miastenia) solo produce debilidad, sin fasciculaciones, ni arre\u0000exia, ni hipotonía. Además, la debilidad suele ser \u0000uctuante y empeorar con los movimientos repetitivos en la miastenia gravis (mejora en la miastenia de Lambert",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Eaton).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un paciente de 68 años, con antecedente de EPOC, en tratamiento con Sin contestar broncodilatadores, es traído por sus familiares por desorientación y agitación Puntúa como psicomotora de 2 días de evolución. Además, presentó alucinaciones visuales de 1,00 monstruos y no reconoce a algunos de sus familiares. Al examen físico se encuentra inatento, sin saber dónde está, ni qué año es. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Demencia por cuerpos de Lewy",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Hidrocefalia normotensiva",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Accidente vascular encefálico de arteria cerebral anterior",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Accidente vascular encefálico de tipo lacunar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Delirium Es un síndrome confusional clásico. Adulto mayor con compromiso de la atención y de la conciencia de inicio agudo. En este caso, es por una probable infección. Es frecuente la agitación, conductas y pensamientos paranoides, las alucinaciones",
+        "correcta": false
+      }
+    ],
+    "justificacion": "visuales (ej. ven personas, monstruos, etc.). - El AVE de arteria cerebral anterior puede cursar con esa clínica, pero además tendría signos focales. - El AVE lacunar generalmente no afecta la conciencia ni el habla. - La demencia por cuerpos de Lewy la hidrocefalia normotensiva son cuadros crónicos, o al menos subagudos.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente indigente, en situación de calle, ingresa al servicio de urgencia por un Sin contestar cuadro de desorientación y di\u0000cultades para caminar. Al examen físico se constata Puntúa como 1 estrabismo divergente, por parálisis del tercer nervio craneal izquierdo, ataxia de la marcha y desorientación temporoespacial, sin otras alteraciones. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome hiperglicémico hiperosmolar",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Encefalopatía de Wernicke",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Encefalopatía de Korsakov",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Accidente vascular encefálico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tuberculosis meníngea Es una encefalopatía de Wernicke clásica: Confusión, oftalmoplejia, coma y ataxia, producida por dé\u0000cit de vitamina B1 o tiamina. Se diagnostica con la clínica, pero, dado que la clínica clásica solo está presente en un tercio de los casos, la recomendación es administrar tiamina endovenosa a cualquier paciente que tenga alto riesgo (alcoholismo, desnutrición, malabsorción), ya sea que esté asintomático, pero cursando con algo que lo pueda descompensar o ya sea que se presenta con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "síntomas incompletos (ej. solo confusión). Sin tratamiento, suele tener un curso letal. Por ello es tan importante recordar su existencia, prevenirla y tratarla oportunamente.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Una paciente de 68 años consulta por temblor de ambas manos, mayor al lado Sin contestar derecho, que se intensi\u0000ca especialmente al tomar un objeto, como una taza o un Puntúa como 1 lápiz. Sus movimientos y re\u0000ejos, así como la coordinación motora son normales. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar resonancia magnética nuclear de cerebro",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar antagonistas dopaminérgicos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar betabloqueantes",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar betagonistas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar agonistas dopaminérgicos Tiene un temblor esencial clásico (aumenta al tomar un objeto o adoptar una",
+        "correcta": false
+      }
+    ],
+    "justificacion": "postura). Se trata con betabloqueantes (propanolol) y, si están contraindicados (ej. EPOC o asma), se trata con primidona. El diagnóstico es clínico y no requiere de ningún examen ni imagen, sino solo de un completo y adecuado examen neurológico.",
+    "archivo_origen": "6.txt"
+  }
+]

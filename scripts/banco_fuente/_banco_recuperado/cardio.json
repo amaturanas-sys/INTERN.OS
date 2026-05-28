@@ -1,0 +1,3104 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 58 años, diabético tipo 2, en tratamiento con metformina, presenta Sin contestar presiones arteriales cercanas a 146/96 en tomas repetidas. Se inicia tratamiento Puntúa como con dieta hiposódica, controlándose 3 meses después, con presiones promedio de 1,00 138/86 mmHg. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mantener indicaciones y controlar en 3 meses más",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar enalapril y controlar ambulatoriamente",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar hidroclorotiazida y controlar en 3 meses más",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar amlodipino y controlar en 3 meses más",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar atenolol y controlar en 3 meses más Actualmente el objetivo de control de presión arterial en pacientes en general, es menor a 140/90, aunque para algunos autores debe ser más estricto (menor a 130/80). Sin embargo, hay relativo consenso en que en los diabéticos, nefrópatas, insu\u0000cientes renales y, según algunos, en quienes tienen un elevado riesgo cardiovascular, el objetivo debe ser menor a 130/80. Por tanto, en este caso, se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "debió haber iniciado directamente con tratamiento farmacológico. Además, actualmente, se recomienda comenzar directamente con dos fármacos, aunque sigue siendo perfectamente aceptable iniciar con uno solo. En este caso, por ser diabético, de elección son los IECA o ARA2 (ambos son perfectamente utilizables y la evidencia actual no privilegia a los IECA sobre los ARA2, sino que se eligen según la disponibilidad de cada uno; el losartán suele usarse una vez al día; el enalapril es un poco más barato). Si se hubiese optado por iniciar dos fármacos al mismo tiempo, sería idealmente un IECA o ARA2 más amlodipino. Las tiazidas producen resistencia a la insulina, así que se usan con cuidado en diabéticos. El betabloqueo puede ocultar los síntomas iniciales de una hipoglicemia, así que también se usan con cuidado en diabéticos.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente de 67 años consulta por disnea de esfuerzos y ortopnea, asociadas a Sin contestar expectoración rosada ocasional. Al examen físico se ausculta un soplo diastólico y Puntúa como crepitaciones bibasales. El electrocardiograma muestra una onda P ancha. El 1,00 diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Estenosis mitral",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Insu\u0000ciencia mitral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Estenosis aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Insu\u0000ciencia aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Insu\u0000ciencia tricúspidea. Tiene clínica clásica de estenosis mitral. Hay síntomas de insu\u0000ciencia cardiaca izquierda, (ortopnea y disnea de esfuerzo) además la hemoptisis clásica, más el soplo diastólico clásico. En electrocardiograma, muestra signos de hipertro\u0000a de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "aurícula izquierda (onda P ancha).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente de 45 años consulta por dolor torácico opresivo intenso, irradiado al Sin contestar brazo izquierdo. Al examen físico está en buenas condiciones, con MP+ sin ruidos Puntúa como agregados y RR2T sin soplos. Se solicita una radiografía de tórax que es normal, al 1,00 igual que el ECG. Se administra oxígeno y aspirina y se controlan troponinas plasmáticas y electrocardiogramas seriados, que permanecen negativas. Al tercer día está en buenas condiciones, ya sin dolor ni alteraciones en el examen físico. ¿Qué examen sería recomendable realizar en este momento?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Test de esfuerzo",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Ecocardiografía",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Coronariografía",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Mioglobina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Holter de arritmias",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene un cuadro clínico de dolor torácico, sugerente de síndrome coronario agudo. Como el electrocardiograma está normal, es sin supradesnivel del ST. Como el paciente evolucionó bien, antes de darlo de alta se debe hacer un test de esfuerzo. Si el test de esfuerzo estuviese alterado, hay que hacerle angioplastia igual. En este caso, se manejó como un síndrome coronario agudo, sin supradesnivel del ST, de bajo riesgo, ya que no se hizo angioplastia. La coronariografía hubiese sido la respuesta correcta en agudo, con un cuadro clínico y signos de alto riesgo ejemplo edema pulmonar agudo. La ecocardiografía si es correcto pedirla, pero en este caso preguntan el manejo pre-alta y por eso es el test de esfuerzo.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente de 28 años consulta por angina de pecho, que aparece al caminar 2 Sin contestar cuadras. Además, presenta ortopnea y al examen físico se objetiva pulso amplio y Puntúa como un soplo sistólico eyectivo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Miocardiopatía hipertró\u0000ca",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Miocardiopatía dilatada",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Estenosis aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Insu\u0000ciencia mitral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Válvula aórtica bicúspide Tiene la clínica clásica de miocardiopatía hipertró\u0000ca obstructiva: angina de pecho, clínica de insu\u0000ciencia cardiaca, pulso Celler o amplio (también se ve en la insu\u0000ciencia aórtica) y soplo sistólico eyectivo. No es estenosis aórtica por la edad (la estenosis aórtica es de adulto mayor, aunque puede ser de paciente menor si hablamos de estenosis aórtica congénita) ni por el pulso (el pulso de la estenosis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "aórtica es parvus et tardus).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Una paciente de 30 años consulta por dolor torácico intenso, que aumenta con la Sin contestar inspiración y que disminuye al adoptar una posición genupectoral. Se solicita un Puntúa como electrocardiograma que muestra elevación del segmento ST en V1 a V6. La 1,00 creatininfosfoquinasa Mb es normal. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar ibuprofeno oral",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar aspirina, oxígeno, nitroglicerina y realizar trombólisis con estreptoquinasa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Anticoagular con heparina y realizar coronariografía de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hospitalizar y solicitar angioTAC de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar dímero D Es una pericarditis aguda clásica (paciente joven con dolor torácico, que aumenta con la inspiración y con supradesnivel del ST difuso en las precordiales) que se trata con ibuprofeno o con otro AINE en dosis altas por vía oral. La B hubiese sido la correcta, si hubiese sido un síndrome coronario agudo (con factores de riesgo y clínica sugerente, que no aumente con la inspiración). La D hubiese sido la correcta",
+        "correcta": false
+      }
+    ],
+    "justificacion": "si en el electrocardiograma hubiese salido el patrón S1Q3T3, por sospecha de TEP. El dímero D no está indicado a menos que haya una baja sospecha de TEP.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Una paciente puérpera de 24 horas, cuyo parto fue por cesárea, presenta disnea de Sin contestar manera súbita, la que se acompaña de dolor torácico que le impide respirar Puntúa como profundamente. El examen físico muestra taquipnea de 35x’, sin otras alteraciones. 1,00 La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar radiografía de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar angioTAC de tórax",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar ecocardiograma transesofágico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar dímero",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar electrocardiograma Tiene una clínica de TEP (disnea y dolor torácico súbito, que aumenta con la inspiración, con antecedentes de puerperio y cesárea). Dado que es de alta probabilidad, la respuesta correcta es el angioTAC de tórax. Si hubiese sido una paciente con la misma clínica, sin ningún factor de riesgo, es decir baja probabilidad de TEP, la respuesta correcta hubiese sido el dímero D. En este caso el dímero D no sirve tanto porque hay alta sospecha como porque la misma cesárea y puerperio lo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "elevan.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un paciente de 40 años consulta por palpitaciones intensas, de media hora de Sin contestar evolución. Al examen físico presenta pulso regular a 150 lpm. Se solicita un Puntúa como electrocardiograma, que muestra una taquicardia regular a 150x’, con QRS angosto, 1,00 por lo que se inicia masaje carotideo, logrando una disminución de la FC a 70 lpm, presentado de inmediatamente el siguiente electrocardiograma: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Taquicardia sinusal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fibrilación auricular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Taquicardia ventricular",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Taquicardia paroxística supraventricular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Flutter auricular El electrocardiograma muestra las ondas P en forma de serrucho características, en las derivaciones inferiores, DII y DIII. El que haya bajado la frecuencia cardiaca con el masaje carotídeo, es característico de la TPSV, pero en ese caso mostraría un ritmo sinusal y no las ondas P de serrucho. En el \u0000utter la FC cae de manera",
+        "correcta": true
+      }
+    ],
+    "justificacion": "transitoria con el masaje carotideo, luego retoma a 150 por minuto.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Una paciente de 69 años, portadora de una insu\u0000ciencia cardiaca, secundaria a una Sin contestar cardiopatía hipertensiva, consulta por marcada disnea y síncopes. Al examen físico Puntúa como presenta FC: 160 lpm, irregular y PA: 70/40 mmHg. El monitor electrocardiográ\u0000co 1,00 es compatible con una \u0000brilación auricular de respuesta ventricular rápida. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar cardioversión eléctrica de inmediato",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar heparina endovenosa y solicitar ecocardiograma transesofágico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar propafenona endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar lanatósido C endovenoso",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar amiodarona endovenosa Por ser una taquiarritmia, con hemodinamia inestable, a respuesta correcta es",
+        "correcta": false
+      }
+    ],
+    "justificacion": "cardioversión eléctrica de inmediato. Esto es lo más importante. Si hubiese estado con hemodinamia estable, sería correcto el ecocardiograma transesofágico para descartar trombos, antes de cardiovertir. La heparina se inicia actualmente en prácticamente todas las FA de reciente diagnóstico (excepto que esté contraindicada o que haya sido autolimitada y de menos de 24-48 horas, en un paciente sin criterios de CHASD2-VAS). Posteriormente, se decide la anticoagulación a permanencia, según los criterios CHASD2-VAS. Los demás fármacos se habrían podido usar si hubiese estado con hemodinámica estable: - La propafenona endovenosa, se usa en la cardioversión farmacológica en corazón sano. La amiodarona en corazón enfermo (como en este caso que tiene cardiopatía hipertensiva) y en pacientes con corazón sano también se puede usar. * La cardioversión farmacológica (en hemodinámica estable) se realiza después de 3-4 semanas de anticoagulación o antes, si es que el ecocardiograma transesofágico descarta trombos (lo ideal). El lanatósido C sería correcta, ya que esta taquicárdica, pero solo si la paciente está con hemodinamia estable, ya que, estando inestable, se debe cardiovertir eléctricamente de inmediato.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente de 60 años consulta por dolor torácico, irradiado al cuello, que inició Sin contestar hace 1 hora y que se asocia a disnea. Al examen físico presenta un RR3T, por Puntúa como presencia de un cuarto ruido, con PA: 140/90 mmHg y FC: 90x’. Se solicita un 1,00 electrocardiograma que muestra un supradesnivel del ST en DI, V5 y V6. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar aspirina, oxígeno y nitroglicerina y realizar trombólisis de urgencia",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar aspirina, oxígeno y nitroglicerina y solicitar un test de esfuerzo de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar aspirina, oxígeno y nitroglicerina y solicitar un angioTAC de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar aspirina, oxígeno y nitroglicerina y solicitar un ecocardiograma de esfuerzo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar analgésicos y solicitar coronariografía diferida. Es un síndrome coronario agudo (dolor torácico, R4) con supradesnivel del ST, de la pared lateral (D1, V5 y V6). Lo más correcto es el manejo general (aspirina, O2, nitroglicerina y ya no se da la mor\u0000na salvo casos muy seleccionados) más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "revascularizar de inmediato, con angioplastia o con trombólisis. - En este caso con menos de 3 horas de dolor, la trombólisis suele tener buen resultado, aunque la angioplastia inmediata sigue siendo el manejo ideal. Por tanto, si hubiese estado disponible la angioplastia, a menos de 90 minutos de distancia, hubiese sido más correcto hacer la angioplastia.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente sufre un infarto miocárdico, evolucionando con compromiso de Sin contestar conciencia una hora después. Usted lo atiende 15 minutos después y constata que Puntúa como no tiene pulso y que no respira. Se inicia masaje cardíaco y se instala un monitor 1,00 electrocardiográ\u0000co, con capacidad de des\u0000brilar. Cinco ciclos después, lo revalúa y constata que persiste sin pulso ni respiración y que el monitor es compatible con una actividad eléctrica sin pulso. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar des\u0000brilación eléctrica y continuar el masaje cardíaco",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar adrenalina endovenosa y continuar el masaje cardíaco",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar atropina endovenosa y continuar el masaje cardíaco",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Continuar el masaje cardíaco",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Suspender las maniobras de reanimación. Es un paro cardio-respiratorio, en ritmo no des\u0000brilable (actividad eléctrica sin pulso) por lo cual se debe manejar con compresiones y adrenalina endovenosa. Si el paciente presentara un ritmo des\u0000brilable: \u0000brilación ventricular o taquicardia ventricular sin pulso, la respuesta correcta hubiese sido la A. Lleva sólo 5 ciclos, por lo cual no se deben suspender las maniobras de reanimación (se suspenden de luego de 20 a 30 minutos). Sí se debe continuar con masaje cardiaco, pero no es su\u0000ciente, por lo que la alternativa D sólo es correcta cuando no contamos con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "drogas ni des\u0000brilador.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "¿Qué fármacos aumentan la sobrevida en los pacientes con insu\u0000ciencia cardíaca Sin contestar congestiva?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "IECAs, espironolactona y betabloqueantes",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "IECAs, digitálicos y furosemida",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Betabloqueantes, digitálicos y bloqueadores del calcio no dihidropiridinicos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Betabloqueantes, amiodarona y bloqueadores del calcio dihidropiridínicos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Digitálicos, furosemia y aspirina Los IECA o ARA2, la espironolactona y betabloqueo, aumentan la sobrevida. Los IECA / ARA2 y el betabloqueador se indican en la mayoría de pacientes. La espironolactona se usa en pacientes con fracción de eyección menor a 35% más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "síntomas, a pesar de los otros fármacos. También se debe tratar la causa de base. El tratamiento estándar suele ser enalapril o losartán, carvedilol y furosemida con o sin espironolactona. Los digitálicos y la furosemida solamente disminuyen los síntomas. En la práctica, la furosemida se usa en la mayoría de pacientes. La digoxina, en cambio, por tener muchos efectos adversos, casi no se recomienda actualmente. Los otros medicamentos, como la amiodarona, bloqueadores de calcio y aspirina solo aumentan la sobrevida, cuando la causa de base está siendo tratada con esos medicamentos: ejemplo, la amiodarona aumenta la sobrevida en la \u0000brilación auricular, los bloqueadores de calcio aumentan la sobrevida en hipertensión arterial y la aspirina aumenta la sobrevida en la cardiopatía coronaria.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "¿Cuál de las siguientes es una indicación de cirugía en un paciente cursando una Sin contestar endocarditis bacteriana aguda?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hemocultivo positivo para Staphilococcus aureus meticilino resistente",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ecocardiograma con un absceso perivalvular",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Presencia de petequias en el examen físico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Antecedente de estenosis mitral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Antecedente de cardiopatía congénita cianótica operada Los 1. abscesos perivalvulares, junto con 2. la insu\u0000ciencia valvular severa o con falla cardíaca asociada, 3. la falta de respuesta a tratamiento, 4. la endocarditis por hongos (porque suele tener mala respuesta) y 5. las embolias a repetición o con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "vegetaciones muy grandes, son indicaciones de cirugía. - La alternativa A es indicación de utilizar vancomicina, aunque actualmente también se recomienda en casos en que no se ha aislado una bacteria aún o no se conoce su per\u0000l de seguridad. - Las alternativas C,D y E son elementos que hacen pensar en endocarditis, pero no son indicaciones de cirugía.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente consulta por debilidad y astenia y parestesias peribucales. Al examen Sin contestar físico se constatan ROT exaltados y fasciculaciones y el electrocardiograma Puntúa como demuestra alargamiento del intervalo QT. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hiponatremia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Hiperkalemia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hipokalemia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hipercalcemia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hipocalcemia Tiene una hipocalcemia clásica (debilidad, parestesias peribucales, tetania con ROT aumentados, fasciculaciones y el característico alargamiento de QT). La hiponantremia tendría clínica de edema cerebral, la hiperkalemia tendría debilidad y un Electrocardiograma con ondas T picudas y ensanchamiento de QRS. La hipokalemia tendría debilidad, con alargamiento del QT, pero sin tetania ni parestesias. La hipercalcemia tendría compromiso de conciencia, acortamiento del",
+        "correcta": true
+      }
+    ],
+    "justificacion": "QT, constipación, debilidad y poliuria.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente de 66 años, hipertenso, consulta por ortopnea y disnea paroxística Sin contestar nocturna. Al examen físico se constatan algunos crépitos bibasales y PA: 150/90 Puntúa como mmHg. Su electrocardiograma muestra signos de hipertro\u0000a ventricular izquierda y 1,00 su radiografía de tórax muestra una silueta cardiaca normal, con redistribución del \u0000ujo sanguíneo pulmonar hacia los ápices. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Miocardiopatía hipertró\u0000ca",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Miocardiopatía dilatada",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cardiopatía coronaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Cardiopatía hipertensiva",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Miocardiopatía restrictiva Es una cardiopatía hipertensiva clásica (antecedente de hipertensión más clínica de insu\u0000ciencia cardiaca izquierda y signos de hipertro\u0000a ventricular izquierda: HTVI,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sin cardiomegalia). La miocardiopatía hipertró\u0000ca, podría tener la misma clínica, el mismo electrocardiograma, pero en un paciente más joven sin el antecedente de hipertensión. La cardiopatía coronaria hubiese tenido antecedente de infarto o de onda Q en electrocardiograma. La miocardiopatía restrictiva tendría una clínica de instalación más rápida, y antecedente de amiloidosis, sin la hipertro\u0000a en el electrocardiograma.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Una paciente de 70 años consulta por dolor torácico muy intenso, de inicio súbito. Sin contestar Al examen físico se constata abolición de los pulsos de las extremidades inferiores. Puntúa como El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Infarto agudo al miocardio, con rotura de músculo papilar",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Infarto agudo al miocardio, en paciente con estenosis aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Infarto agudo al miocardio, con formación de aneurisma ventricular",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tromboembolismo pulmonar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Disección aórtica El dolor torácico más la abolición de los pulsos sugiere fuertemente disección",
+        "correcta": true
+      }
+    ],
+    "justificacion": "aórtica y se debe pedir un Angiotac de tórax urgente. - El infarto agudo del miocardio con rotura de musculo papilar, vendría con clínica de infarto de más de 24 horas, más soplo holosistólico. - El infarto agudo de miocardio, con estenosis aórtica, tendría el soplo eyectivo y clínica de estenosis aórtica. - En el infarto agudo al miocardio, con formación de aneurismas ventricular, tendría fenómenos embólicos mucho tiempo después y supradesnivel del ST persistente en electrocardiograma. - El TEP tendría el dolor torácico que aumenta con la inspiración, trombo\u0000lia, desaturación arterial etc.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Una paciente consulta por astenia y edema de EEII, que iniciaron hace cerca de 3 Sin contestar meses, pero que han ido en aumento. Re\u0000ere que se fatiga fácilmente y al examen Puntúa como se constatan yugulares visibles, con PA: 110/60 mmHg, presenta RR2T con un soplo 1,00 holosistólico y presencia de onda “v” gigante en el pulso venoso. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Estenosis tricúspidea",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Insu\u0000ciencia tricúspidea",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Pericarditis constrictiva",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Pericarditis aguda",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Miocardiopatía dilatada Tiene la clínica clásica de insu\u0000ciencia tricúspidea (clínica de insu\u0000ciencia cardiaca",
+        "correcta": false
+      }
+    ],
+    "justificacion": "derecha, soplo holosistólico, más onda “v” gigante). - La estenosis tricúspidea tendría soplo diastólico y onda “a” gigante. - La pericarditis constrictiva vendría con frotes pericárdicos y colapso “y” prominente. - La pericarditis aguda viene con dolor torácico, que aumenta con la inspiración, supradesnivel del S-T difuso. - La miocardiopatía dilatada tendría insu\u0000ciencia cardiaca del lado izquierdo y signos de cardiomegalia. La miocardiopatía dilatada, también puede tener soplo holosistólico por insu\u0000ciencia mitral.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Un paciente cursando el 4to día postinfarto miocárdico, presenta rápido deterioro Sin contestar del estado hemodinámico y respiratorio y al examen físico se ausculta un soplo Puntúa como holosistólico, que antes no tenía, asociado a frémito. El diagnóstico más probable 1,00 es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Disección aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Rotura de la pared libre ventricular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Rotura del tabique interventricular",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Pseudoaneurima ventricular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Infarto de ventrículo derecho Que esté entre el día 2 y 7 desde el infarto, lo que sugiere una complicación mecánica. Además, el soplo holosistólico sugiere rotura de tabique interventricular (produce CIV aguda) o rotura de músculo papilar (produce insu\u0000ciencia mitral aguda, que no está en las alternativas). Se debe solicitar un ecocardiografía urgente",
+        "correcta": false
+      }
+    ],
+    "justificacion": "(tanto transtorácico como transesofágico sirven) y se manejan con cirugía urgente. - La disección aórtica sería concomitante con el dolor y tendría un soplo diastólico de insu\u0000ciencia aórtica. - La rotura de pared libre ventricular tendría clínica de taponamiento. - El pseudoaneurisma ventricular tendría un supradesnivel del ST persistente y fenómenos embólicos. - El infarto de ventrículo derecho sería concomitante con el dolor torácico, con hipotensión arterial e ingurgitación yugular.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Un paciente presenta de manera súbita dolor de la pierna y pie derechos, asociado a Sin contestar parestesias. Al examen físico se aprecia palidez de la pierna y el pie, con ausencia Puntúa como de pulsos pedio y tibial posterior. La conducta inicial más importante es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Anticoagular con heparina",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar ecografía doppler de EEII",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar PVR (pletismografía de volumen) de EEII",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar aspirina 500 mg a masticar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar reposo con la extremidad inferior derecha levantada Es una isquemia aguda de extremidades inferiores (6P: pain o dolor, parestesias, palidez, pulso ausente) el diagnóstico es clínico y la conducta es anticoagular con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "heparina y revascularizar con urgencia. - La heparina se da como un bolo y luego goteo. - La revascularización se suele hacer con embolectomía abierta o endovascular con catéter. En casos seleccionados, se puede realizar trombólisis. - Generalmente se realiza una angiografía para guiar el procedimiento de embolectomía. También se puede hacer un angioTAC, pero lo importante es que no demore la revascularización, ya que el diagnóstico es clínico. La alternativa B, sería correcta ante una clínica de TVP (dolor, eritema, edema). La alternativa C: PVR, sería aceptable en el caso de una isquemia crónica, aunque actualmente lo más importante para una isquemia crónica es la clínica (se vuelve crítica cuando tiene úlceras isquémicas, dolor de reposo o índice tobillo brazo menor a 0,4). Por tanto, la PVR no necesariamente debe ser solicitada en la actualidad. PVR signi\u0000ca \"registro de volumen de pulso\". La alternativa E (reposo en elevación) sería correcta en una úlcera venosa.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente en \u0000brilación auricular puede mostrar todo lo siguiente, EXCEPTO:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ausencia de onda “P”",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ausencia de onda “a”",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Soplo sistólico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Soplo diastólico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "R4 La \u0000brilación auricular elimina la contracción auricular, por lo que se pierde la onda P (depolarización de la aurícula) en el EKG y no puede haber ni onda “a” del pulso venoso, ni R4, ya que ambos son producidos por la contracción auricular. El soplo no es característico de la FA, pero sí puede estar presente, según la patología de",
+        "correcta": true
+      }
+    ],
+    "justificacion": "base que exista.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un paciente de 69 años, con antecedente de un infarto miocárdico hace 2 años, Sin contestar consulta por palpitaciones, asociado a disnea. Al examen físico presenta Puntúa como sudoración, PA: 90/60 y FC: 150 x’. Se solicita un electrocardiograma que se 1,00 muestra a continuación:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Nuevo infarto miocárdico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Aneurisma ventricular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Taquicardia ventricular",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Fibrilación auricular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Flutter auricular Tiene una taquiarritmia con QRS ancho, lo que es diagnóstico de una taquicardia ventricular. El antecedente de IAM antiguo también orienta y el compromiso hemodinámico obliga a cardiovertir eléctricamente de inmediato (con 100 joules en",
+        "correcta": false
+      }
+    ],
+    "justificacion": "un adulto).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 60 años, sin antecedentes, consulta por palpitaciones intensas, de media hora de evolución. Al examen físico presenta pulso regular a 150 lpm y PA de 60/20 mmHg. Se solicita un electrocardiograma, que muestra una taquicardia regular a 150x', con ondas P de serrucho. El tratamiento más adecuado para el manejo de este paciente es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Propanolol",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Digoxina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Amiodarona",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Cardioversión eléctrica",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Propafenona El EKG muestra un \u0000utter auricular, a una frecuencia cercana a 150 lpm (300/2; el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "número de cuadraditos entre dos QRS es 2). Sin embargo, lo que importa es que tiene una taquiarritmia con hemodinamia inestable (está hipotenso), por lo que se tiene que cardiovertir eléctricamente de inmediato. Si hubiese tenido una hemodinamia estable, lo primero habría sido disminuir la FC con propanolol o digoxina y luego cardiovertirlo farmacológicamente con amiodarona o propafenona.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Una paciente 25 años, usuaria de anticonceptivos orales, presenta disnea de Sin contestar manera súbita, la que se acompaña de dolor torácico que le impide respirar Puntúa como profundamente. Está muy asustada y la familia comenta que ha estado muy 1,00 estresada y angustiada en el último tiempo. El examen físico muestra una paciente en buenas condiciones generales, con taquipnea de 30x', con frecuencia cardíaca 85x' y presión arterial 120/70 mmHg, saturando 98% a FiO2 ambiental. Su examen cardiopulmonar no tiene otras alteraciones. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar radiografía de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar angioTAC de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar ecocardiograma transesofágico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar dímero D",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar electrocardiograma Es una pregunta discutible. Sin embargo, el cuadro es sugerente de un TEP (disena súbita y dolor torácico que aumenta con la inspiración, más taquipnea). Sin embargo, es una paciente joven y de bajo riesgo (solo usa ACO, que aumentan el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "riesgo de TEP, pero solo levemente) y perfectamente puede ser una crisis de pánico. El dímero D es una buena forma de iniciar es estudio en pacientes de bajo riesgo de TEP y si está negativo, se descarta el TEP. En cambio, si está positivo, se debe con\u0000rmar con un angioTAC. SI hubiese tenido algún factor de riesgo adicional o clínica más sugerente (ej. Hemoptisis), la respuesta sin duda habría sido el angioTAC de tórax, que es el examen de elección.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Paciente de 35 años sin antecedentes de importancia consulta por cuadro de 4 Sin contestar meses de evolución caracterizado por disnea de esfuerzos progresiva actualmente Puntúa como de moderados esfuerzos, ortopnea y disnea paroxística nocturna. Al examen 1,00 orientado, yugulares ingurgitadas a 45°, edemas en ambas extremidades inferiores ++, FC 100, PA 130/75, Sat 95% a O2 ambiental, al examen cardiaco destaca choque de la punta desplazado, RR3T por la presencia de un tercer ruido, soplo sistólico en ápex, al examen pulmonar destacan crepites escasos en ambas bases y al examen abdominal hepatomegalia. Rx torax destaca cardiomegalia y ECG muestra signos de hipertro\u0000a ventricular izquierda. ¿Diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Insu\u0000ciencia cardíaca de origen coronario",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Miocardiopatía hipertró\u0000ca",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Miocardiopatía dilatada",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Cardiopatía hipertensiva",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Enfermedad de Takotsubo Tiene clínica de ICC tanto izquierda (disnea paroxística, disnea de esfuerzo y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ortopnea), como derecha (edema de EEII, ingurgitación yugular y hepatomegalia). Además, por tener cardiomegalia, es muy sugerente de una MCP dilatada (en especial por la edad joven). Recordar que tanto MCP dilatada, como hipertró\u0000ca tienen signos de HTVI en el EKG. No tiene FR cardiovascular, como para pensar en cardiopatía coronaria. No tiene antecedente de HTA como para pensar en cardiopatía hipertensiva (además que esta cursa sin caediomegalia). La enfermedad de Takotsubo es una miocardiopatía rara y transitoria, que produce dolor torácico e insu\u0000ciencia cardíaca, en relación a estrés marcado (ej. La muerte de un ser querido: por eso también se llama síndrome del corazón roto). Tiene buen pronóstico y el EKG muestra signos de infarto de pared anterior y apical, pero la coronariografía es normal.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Paciente 15 años sin antecedentes de importancia se realiza un chequeo médico Sin contestar por presentar dolor torácico en algunas ocasiones. Actualmente, está asintomático. Puntúa como Al examen físico destaca FC 68 lpm, PA 120/80, Sat O2 98% a aire ambiental, 1,00 RR2TSS, MP (+) bilateral SRA. Se realiza ECG que destacan extrasístoles ventriculares aisladas sin otras alteraciones. La conducta más adecuada frente a este hallazgo es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar betabloqueo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar holter de aritmias",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar Procainamida",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Prohibir la práctica de deporte",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Explicar la condición encontrada, sin necesidad de mayor estudio El dolor torácico no reviste ningún signo de alarma en este caso. El único hallazgo son las extrasístoles ventriculares frecuentes. El manejo de la ESV depende de la presencia de cardiopatía. Si es un paciente sano (como en este caso), simplemente se observa. En cambio, si es un paciente cardiópata, se debe iniciar betabloqueo o",
+        "correcta": true
+      }
+    ],
+    "justificacion": "amiodarona, para prevenir la aparición de arritmias ventriculares más graves (ej. Taquicardia ventricular: recordar que una taquicardia ventricular es igual a varias ESV seguidas).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Paciente 80 años consulta por pérdida de conciencia mientras caminaba con Sin contestar recuperación completa a los pocos minutos. Relata historia de angina al esfuerzo Puntúa como de algunos meses de evolución. Al examen buenas condiciones, signos vitales PA 1,00 120/85, FC 78, Sat 95% ambiental. Al examen cardiaco pulsos débiles, RR2T con soplo sistólico paraesternal izquierdo irradiado a cuello, el resto del examen segmentario normal. ¿Diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Miocardioapatía hipertró\u0000ca",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síncope vasovagal",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Síncope ortostático",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Estenosis aórtica",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome conversivo Tiene síncopes de esfuerzo, angina y un soplo, lo que es compatible con MCP HT obstructiva y con estenosis aórtica. Sin embargo, la edad (80 años) hace muy probable que sea una estenosis aórtica. También el pulso débil (parvus et tardus), característico de la estenosis aórtica. La MCP HT, en cambio, tiene un pulso amplio",
+        "correcta": false
+      }
+    ],
+    "justificacion": "o Celler y se mani\u0000esta en pacientes más jóvenes, al ser una enfermedad genética.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente de 69 años, con antecedente de un infarto miocárdico hace 2 años, Sin contestar consulta por palpitaciones, asociado a disnea. Al examen físico presenta Puntúa como sudoración, PA: 110/70 y FC: 150 x'. Se solicita un electrocardiograma que se 1,00 muestra a continuación (fuente: https://cardioparamap.com/2016/11/28): La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar adenosina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cardiovertir eléctricamente de inmediato",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar amiodarona endovenosa",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar propanolol y heparina por vía endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Des\u0000brilar eléctricamente de inmediato Si bien el antecedente de IAM antiguo orienta a TV, lo único que se debe considerar para responder es el EKG, que en este caso muestra una taquiarritmia regular, con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "QRS ancho, es decir, una TV clásica. En este caso es monomorfa. * Su manejo, suele ser con cardioversión eléctrica inmediata ya que suelen tener hemodinamia inestable. Sin embargo, en este caso, está con hemodinamia estable desde el punto de vista clínico, por lo que se recomienda primero intentar cardiovertir con amiodarona, procaínamida o lidocaína por vía endovenosa. * Dado que tiene una causa de base y que el riesgo de recurrencia es muy alto, deberá quedar con pro\u0000laxis con amiodarona a permanencia más, idealmente, un des\u0000brilador automático implantable. La TPSV se maneja con maniobras vagales y adenosina. La idea general es que las arritmias ventriculares tienen QRS ancho, mientras que las supraventriculares (\u0000brilación auricular, \u0000utter auricular, TPSV) tienen QRS angosto (salvo los casos con aberrancia: BCRI o BCRD).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Paciente que acude a control ambulatorio con antecedentes de infarto al miocardio Sin contestar anteroseptal con reperfusión adecuada hace dos semanas, actualmente, Puntúa como asintomático cardiovascular. Se controla ECG que destaca supradesnivel en pared 1,00 anterior. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Aneurisma ventricular",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Insu\u0000ciencia mitral isquémica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Isquemia persistente",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Necrosis transmural",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Pericarditis postinfarto El SDST persistente es una forma característica de presentación del aneurisma ventricular (aunque no es tan especí\u0000co), que, además, produce embolias a repetición y tiene riesgo de rotura, con taponamiento y muerte súbita. Como todas las complicaciones mecánicas del IAM, se debe estudiar con ecocardiografía y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "luego debe resolverse quirúrgicamente. La forma más habitual en que se diagnostican es con la ecocardiografía que todo paciente con infarto debe realizarse posteriormente, tanto para ver el grado de daño estructural, como la función ventricular (elemento pronóstico más importante). Si hubiese estado además con dolor torácico, probablemente sería un nuevo IAM transmural. La necrosis transmural se ve inicialmente como un SDST y luego como una onda Q (esta última persiste por toda la vida... si sobrevive).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "¿Cuál de las siguientes es una indicación de cirugía en un paciente cursando una Sin contestar endocarditis bacteriana aguda?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hemocultivo positivo para Staphilococcus aureus meticilino resistente",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ecocardiograma con rotura de velo mitral anterior e insu\u0000ciencia valvular",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Presencia de petequias en el examen físico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Antecedente de estenosis mitral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Antecedente de cardiopatía congénita cianótica operada Son indicación de cirugía: 1. Abscesos, 2. ICC severa por insu\u0000ciencia valvular (es lo más frecuente y es muy común que ocurra en las endocarditis infecciosas agudas por S. aureus); 3. Embolias a repetición o vegetaciones muy grandes, con alto riesgo; 4. Falla de respuesta al tratamiento médico; 5. EBSA por hongos (suele fallar",
+        "correcta": false
+      }
+    ],
+    "justificacion": "el tratamiento médico).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente de 66 años, diabético e hipiertenso, presenta un síndrome coronario Sin contestar agudo hace 3 días, que fue trombolizado 5 horas después de haber iniciado los Puntúa como síntomas, con mejoría sustancial. Estando hospitalizado en la unidad coronaria, 1,00 presenta disnea de rápida instalación, asociado a hipotensión y signos de shock. Al examen físico llama la atención la presencia de un soplo pansistólico, que no se había registrado previamente. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Disección aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Rotura de la pared libre ventricular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Rotura del músculo papilar",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Tromboembolismo pulmonar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Infarto de ventrículo derecho Que esté entre el día 2 y 7 desde el infarto, lo que sugiere una complicación mecánica. Además, el soplo holosistólico sugiere rotura de tabique interventricular (produce CIV aguda) o rotura de músculo papilar (produce insu\u0000ciencia mitral aguda, que no está en las alternativas). La disección aórtica sería concomitante con el dolor y tendría un soplo diastólico de insu\u0000ciencia aórtica. La rotura de pared libre ventricular tendría clínica de taponamiento. El pseudoaneurisma ventricular tendría un supradesnivel del ST persistente y fenómenos embólicos. El infarto de ventrículo derecho sería concomitante con el dolor torácico, con hipotensión arterial e",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ingurgitación yugular.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Una paciente de 65 años, con antecedente de \u0000brilación auricular, hipertensión Sin contestar arterial y diabetes, en tratamiento con rivaroxabán, amiodarona, enalapril, atenolol, Puntúa como metformina y liraglutide consulta, porque, desde hace 1 horas presenta dolor de la 1,00 pierna y pie izquierdos, asociado a parestesias. Al examen físico se aprecia pierna y el pie, con ausencia de pulsos y con llene capilar muy enlentecido. Se anticoagula con heparina. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar embolectomía quirúrgica",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar ecografía doppler de EEII",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar pruebas de coagulación y niveles plasmáticos de factor X activado",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar aspirina y clopidogrel",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar angioTAC de tórax de urgencia Es una isquemia aguda de extremidades inferiores (6P: pain o dolor, parestesias, palidez, pulso ausente), causada por una embolia, en contexto de la \u0000brilación auricular, a pesar de estar anticoagulado. En este momento está en ritmo sinusal, pero ello no descarta que haya estado previamente en \u0000brilación auricular. El diagnóstico de la isquemia aguda es clínico y la conducta es anticoagular con heparina, además de realizar revascularización inmediata (ej. con embolectomía quirúrgica abierta o endovascular, o en casos seleccionados, con trombólisis intra",
+        "correcta": false
+      }
+    ],
+    "justificacion": "arterial. Se realiza una angiografía durante el procedimiento de revascularización. Es aceptable hacer un angioTAC previo, en la medida que no retrase la revascularización.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente de 62 años, con antecedente de diabetes en tratamiento con Sin contestar metformina y glibenclamida, consulta por sensación de opresión precordial y leve Puntúa como dolor, desde hace 3 meses, síntomas que aparecen cuando realiza esfuerzos 1,00 moderados, como caminar un par de cuadras o subir dos pisos de un edi\u0000cio por las escaleras. El dolor se irradia al hombro izquierdo, cede con el reposo, durando cerca de 3 minutos y no se ha asociado a otros síntomas. Se solicita un electrocardiograma, que muestra un trazado normal. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar un ecocardiograma",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar un test de esfuerzo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar troponinas plasmáticas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar angioTAC de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar aspirina, nitroglicerina y acenocumarol, e iniciar un programa de ejercicios Tiene una angina estable, cuyo diagnóstico es clínico. Sin embargo, suelen estudiarse con un test de esfuerzo, ya sea para con\u0000rmar los casos dudosos o,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "especialmente, para determinar el pronóstico y manejo. Dentro de los test de esfuerzos, está el convencional, es decir, el electrocardiograma con ejercicio. Este es el examen ideal, ya que es el que entrega mayor información. Sin embargo, en algunos pacientes no se puede realizar (ej. BCRI, que inutiliza el EKG; amputados; personas que no toleran el ejercicio). En estos casos, se realiza una imagen de estrés, ya sea una ecocardiografía dobutamina (u otro fármaco que aumente la frecuencia cardíaca) o una cintigrafía miocárdica de esfuerzo (ej. con talio más dipiridamol). - El tratamiento suele ser la revascularización, con stent o by-pass coronario. La decisión de usar uno u otro depende de la coronariografía (examen que se pide en todo paciente con angina crónica de riesgo: ej. test de esfuerzo alterado). - También sirven algunos fármacos tanto para aliviar el dolor (nitritos de corta acción, como la nitroglicerina sublingual), como para prevenir los síntomas (principalmente betabloqueo, siendo también útiles los nitritos de larga acción como el isosorbide dinitrato y los bloqueadores del calcio no dihidropiridínico como el verapamilo y el diltiazem). El betabloqueo está contraindicado en la angina vasoespástica o de Prinzmetal. - Sin embargo, de los fármacos, el más importante es la aspirina para prevenir síndromes coronarios agudos. También sirven las estatinas y medicamentos para sus patologías de base, que causan la enfermedad coronaria. * Si hubiese dicho que además tenía síncopes o soplo sistólico, lo más correcto hubiese sido la ecocardiografía, ya que se sospecharía una estenosis aórtica o una MCP HT. * Si hubiese sido una angina inestable (ej. Primer episodio o dolor de reposo), la respuesta hubiese sido el EKG y las troponinas, por tratarse de un síndrome coronario agudo.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente de 20 años presenta síncopes, relacionados con el esfuerzo. Al examen Sin contestar físico, presenta un soplo sistólico eyectivo, con disminución del segundo ruido y Puntúa como pulso de baja amplitud, \u0000liforme. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Miocardiopatía hipertró\u0000ca",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Estenosis aórtica",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Insu\u0000ciencia mitral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Insu\u0000ciencia aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síncope vasovagal Los síncopes de esfuerzo y el soplo eyectivo son compatibles con MCP HT y con estenosis aórtica. La edad (20 años) sugiere una miocardiopatía hipertró\u0000ca, sin embargo la disminución del R2 y el pulso \u0000liforme son compatibles con la estenosis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "aórtica. Por la edad, probablemente es una estenosis aórtica congénita. - La MCP HT tiene pulso amplio (Celler). El soplo de la MCP HT suele aumentar con la maniobra de Valsalva y disminuir con la posición de cuclillas, en cambio, el soplo de la estenosis aórtica hace lo contrario. - La insu\u0000ciencia mitral tiene soplo holosistólico y R1 disminuido. - La estenosis mitral tiene soplo diastólico y R1 aumentado.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente, cursando una neumonía neumocócica, con antecedente de Sin contestar insu\u0000ciencia cardíaca, evoluciona con franco deterioro del estado general. En su Puntúa como examen físico destaca PA: 70/30 mmHg y FC: 130 lpm. Se realiza monitorización 1,00 invasiva, constatándose una marcada disminución de la resistencia vascular periférica. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Shock séptico",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Shock hipovolémico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Shock cardiogénico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Shock ana\u0000láctico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Shock medular La marcada disminución de la RVP (resistencia vascular periférica) es diagnóstica de un shock vasodilatador, que incluye al séptico, medular y ana\u0000láctico. Tanto",
+        "correcta": false
+      }
+    ],
+    "justificacion": "shock hipovolémico, como cardiogénico tienen elevada la RVP. Por la infección de base, lo más probable es que sea séptico. Si hubiese recibido un fármaco y evolucionado con urticaria y angioedema, sería ana\u0000láctico. Asimismo, el antecedente de trauma medular sugiere shock medular. Vale la pena recordar que en contexto de una infección, lo más frecuente es que se trate de un shock hipovolémico, por lo que la primera medida es siempre dar el SF y solo si no responde, se asume que es séptico y se inicia la noradrenalina. Sin embargo, en los casos en que está con un catéter de Swan Ganz, es posible medir la RVP, identi\u0000cando de inmediato el shock vasodilatador.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente de 58 años presenta un cuadro de disnea de esfuerzos, asociada a Sin contestar ortopnea, progresivas, de algunos meses de evolución. Al examen físico se constata Puntúa como un soplo cardíaco sistólico, asociado a desplazamiento del choque de la punta. 1,00 ¿Qué diagnóstico es más compatible?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Insu\u0000ciencia mitral",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Estenosis aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Micardiopatía hipertró\u0000ca",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Pericarditis constrictiva",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Insu\u0000ciencia aórtica La clínica muestra síntomas de ICC izquierda (disnea, ortopnea), más soplo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sistólico (holosistólico) y signos de cardiomegalia. La insu\u0000ciencia mitral tiene todo eso y se caracteriza por un soplo sistólico. La estenosis aórtica y la MCP HT sí tienen la ICC izquierda y el soplo sistólico (mesosistólico), pero no tienen cardiomegalia, sino una HT concéntrica. La insu\u0000ciencia aórtica tiene ICC izquierda y cardiomegalia, pero su soplo es diastólico.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un paciente de 60 años presenta dolor torácico de 30 minutos de evolución, muy Sin contestar intenso, irradiado a la espalda. Al examen físico presenta PA: 220/130, FC: 100x' y Puntúa como se auscultan crepitaciones pulmonares. Además, tiene disminución de los pulsos 1,00 pedios, con normalidad de los pulsos radiales. ¿Cuál de los siguientes fármacos debe administrarse en primer lugar?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Propanolol",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Noradrenalina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Ácido acetilsalicílico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Estreptokinasa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Nitroprusiato Esta pregunta puede ser enfrentada de 2 formas. La primera es sospechar una disección aórtica (dolor torácico intenso, asociado a PA muy elevada y asimetría de pulsos), la que se debe manejar con antihipertensivos endovenosos, como el",
+        "correcta": true
+      }
+    ],
+    "justificacion": "labetalol o el nitroprusiato. La segunda forma es diagnosticar una crisis hipertensiva, con probable compromiso de órganos y riesgo vital (por la probable disección), la que debe manejarse igualmente con fármacos antihipertensivos endovenosos. * Además, se debe solicitar un angioTAC de tórax, por sospecha de una disección aórtica. Eventualmente requerirá cirugía vascular urgente.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un paciente de 25 años consulta por dolor torácico, que aumenta con la inspiración Sin contestar y que cede al inclinarse hacia adelante, por lo que adopta la posición genupectoral. Puntúa como Se solicita un electrocardiograma, que muestra supradesnivel del segmento ST en 1,00 \"j\" en todas las derivaciones precordiales. ¿Qué fármaco es más adecuado para el tratamiento de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Prednisona",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ibuprofeno",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Aciclovir",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Estreptokinasa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Heparina Es una pericarditis aguda clásica, tanto por la clínica (paciente joven con dolor torácico que aumenta con la inspiración y disminuye al inclinarse hacia adelante),",
+        "correcta": false
+      }
+    ],
+    "justificacion": "como por el EKG (SDST \"en J\"). Por tanto se trata con AINES en dosis altas.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Un paciente hipertenso, se realiza un electrocardiograma de control, que muestra el Sin contestar siguiente trazado: La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar un Holter de arritmias",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar un test de esfuerzo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar un marcapasos de\u0000nitivo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar betabloqueantes",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución El trazado muestra un bloqueo aurículo-ventricular de 2º grado (se ve una onda P que no conduce), de tipo Mobitz I (el PR se va alargando progresivamente hasta que la onda P no conduce y luego vuelve a ser corto). Por tanto, si está asintomático, se observa. Recordar que solo reciben marcapasos de\u0000nitivo 1. Los casos sintomáticos, 2. El BAV de 3º grado (o completo), 3. El BAV de 2º grado Mobitz II y 4. el bloqueo trifascicular (los dos últimos por el alto riesgo de evolución a de tercer",
+        "correcta": true
+      }
+    ],
+    "justificacion": "grado). - Recordar que en los casos de bradicardia con hemodinamia inestable, se debe instalar un marcapasos externo transitorio, aunque es correcto iniciar con atropina endovenosa antes. - En el manejo de\u0000nitivo, se se identi\u0000ca una causa reversible y se logra tratar, se puede evitar el uso de marcapasos de\u0000nitivo.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Un paciente de 46 años presenta aumento de volumen y dolor de la pierna izquierda, Sin contestar de 3 días de evolución. Presenta súbitamente dolor torácico, con tope inspiratorio, Puntúa como asociado a disnea. ¿Qué examen es más adecuado para proseguir con el estudio de 1,00 este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Radiografía de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dímero D",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "AngioTAC de tórax",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Angiografía pulmonar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Ecocardiograma La sospecha es un TEP y en este caso es de alto riesgo o alta probabilidad, ya que estuvo precedido por una clínica muy sugerente de TVP. Por tanto se pide el examen",
+        "correcta": false
+      }
+    ],
+    "justificacion": "con\u0000rmatorio, que es el AngioTAC de tórax. - Si hubiese estado hipotenso y no respondiera a volumen, habría sido un TEP masivo y la respuesta sería el ecocardiograma (en busca de hipertensión pulmonar). - Si hubiese tenido clínica de neumotórax (disminución del MP, hipersonoridad), la respuesta habría sido radiografía de tórax.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente de 68 años, cursando una neumonía severa, presenta pérdida de Sin contestar conciencia. Al examen físico se constata ausencia de respiración y de pulso. Se Puntúa como inicia masaje cardíaco y ventilación con ambú y se instala monitor 1,00 electrocardiográ\u0000co. Se reevalúa a los 2 minutos, persistiendo sin cambios y el monitor demuestra ritmo ventricular a 20x'. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Proseguir con el masaje cardíaco y las ventilaciones con ambú, sin medidas adicionales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar intubación orotraqueal y mantener el masaje y las ventilaciones",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar des\u0000brilación eléctrica y mantener el masaje y las ventilaciones",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar adrenalina endovenosa y proseguir con el masaje y las ventilaciones",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Suspender las maniobras de resucitación Es un paro cardiorespiratorio, en actividad eléctrica sin pulso (AESP), es decir, un ritmo no des\u0000brilable, por lo que se debe manejar con las maniobras de RCP, más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "adrenalina ev 1 mg cada 3 a 5 minutos. Recordar que todos los ritmos distintos a la \u0000brilación ventricular, taquicardia ventricular y asistolia se consideran AESP, si es que están asociados a un paro. Las maniobras solo se suspenden después de 20 a 30 minutos de reanimación. La intubación se puede realizar, pero solo si es posible hacerlo, sin interferir con la reanimación, por lo tanto no es prioridad.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un paciente de 60 años hipertenso crónico, en tratamiento con hidroclorotiazida 50 Sin contestar mg al día, consulta en el policlínico por control de salud. Está en buenas Puntúa como condiciones, sin molestias y trae anotadas sus presiones arteriales, las que 1,00 promedian 150/88 mmHg. Además, tiene creatinina plasmática de 0,6 mg/dl, potasio de 3,7 mg/dl, sodio de 136 mg/dl. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mantener el tratamiento",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Aumentar la dosis de la hidroclorotiazida",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Agregar enalapril al tratamiento",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Reemplazar la hidroclorotiazida por un IECA",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar una ecografía doppler abdominal Es una pregunta discutible, con más de una alternativa aceptable, ya que la evidencia es contradictoria y las recomendaciones Minsal no se han adaptado a las",
+        "correcta": false
+      }
+    ],
+    "justificacion": "recomendaciones internacionales, en las que tampoco hay consenso. Sin embargo, está claro que no ha logrado el objetivo de PA <140/90 mmHg (recordar que algunos proponen actualmente que el objetivo sea < 130/80 para todos y no solo para diabéticos e insu\u0000cientes renales). Por ello, se debe avanzar en el tratamiento. Si bien es aceptable reemplazar el fármaco inicial por otro, actualmente se pre\u0000ere iniciar con 2 fármacos desde el diagnóstico, por lo que agregar un segundo fármaco parece una mejor opción. Aunque no hay diferencias claras entre las distintas familias de antihipertensivos, en cuanto a su e\u0000cacia, sí la hay respecto a sus efectos adversos y otros bene\u0000cios, por lo que generalmente se iniciar con un IECA o ARA2, habitualmente más amlodipino. Sin embargo, la decisión del fármaco a elegir dependerá de la comorbilidad y preferencias del paciente. - Agregar enalapril o reeplazar la HCTZ por enalapril, ambas parecen respuestas correctas. La guía Minsal las acepta, pero está algo desactualizada. * Por regla general, la HCTZ se puede indicar entre 50 a 100 mg/día, pero lo habitual es que no se suba la dosis. Además, en este caso, el K+ está en el límite bajo, por lo que subirla podría producir una hipokalemia. - Nuestra recomendación será agregar un nuevo fármaco y solo suspender el primero, si es que está contraindicado por alguna otra razón (ejemplo, efectos adversos).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 60 años, diagnosticado de insu\u0000ciencia cardíaca por cardiopatía Sin contestar hipertensiva y de diabetes mellitus 2, está en tratamiento con enalapril 20 mg cada Puntúa como 12 horas, carvedilol 12,5 mg cada 12 horas, furosemida 20 mg cada 12 horas y 1,00 metformina 850 mg cada 12 horas. Acude a control y re\u0000ere aumento de su disnea basal, la que ahora aparece al caminar una cuadra. Sus signos vitales son normales y su examen físico muestra RR2T sin soplos y MP(+) con escasos crépitos bibasales. ¿Qué conducta es la más adecuada para mejorar el pronóstico de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Agregar espironolactona al tratamiento",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Agregar digoxina al tratamiento",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Agregar amiodarona al tratamiento",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Remplazar el enalapril por losartán",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Remplazar el carvedilol por propanolol Es una ICC y se pregunta por el pronóstico, así que lo más adecuada es iniciar algo que aumente la sobrevida. La espironolactona aumenta la sobrevida, al igual que el betabloqueo y los IECA. La indicación más clara de la espironolactona es el paciente con fracción de eyección menor a 35% (es importante realizar el ecocardiograma tanto para pronóstico como para de\u0000nir el tratamiento) más presencia de síntomas, a pesar del uso de betabloqueo y IECA o ARA2. Actualmente también sirve agregar los SGLT-2, como la dapaglifozina (es un hipoglicemiante,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "pero que aumenta la sobrevida en pacientes con ICC). - La digoxina solo disminuye los síntomas, al igual que los diuréticos. - La amiodarona solo está indicada, si es que además hay una \u0000brilación auricular. - Los ARA2 actualmente se pueden indicar indistintamente con el IECA, pero solo se indica uno de ellos. Solo si el IECA hubiese producido tos o angioedema, habría sido necesario cambiarlo por el ARA2. - El carvedilol es mejor que el propanolol en la ICC, por lo que no debe ser reemplazado por este.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente de 65 años, con antecedente de un infarto agudo al miocardio hace un Sin contestar año, consulta por palpitaciones y disnea. Al examen físico presenta frecuencia Puntúa como cardíaca 150x', con PA: 110/70 mmHg. Se solicita un electrocardiograma que 1,00 muestra una taquicardia regular con complejos QRS anchos (0,20 segundos). La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar propafenona endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar propanolol endovenoso",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar adenosina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar amiodarona endovenosa",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar lanatósido C endovenoso Tiene una taquicardia ventricular (TV), ya que tiene QRS anchos, mayores a 0,12 segundos. Por tanto debe tratarse con amiodarona o con lidocaína, que son los antiarrítmicos de elección para esta arritmia. Eso sí, es muy frecuente que lleguen con hemodinamia inestable (no en este caso) y que requiera de cardioversión eléctrica. Además, para evitar que recurra, suele quedar con betabloqueadores y, por",
+        "correcta": false
+      }
+    ],
+    "justificacion": "si recurre, también debe instalarse un des\u0000brilador automático implantable (DAI). - La propafenona se usa en la \u0000brilación auricular (FA) en pacientes con corazón sano. - El lanatósido C (un tipo de digital), la digoxina y el propanolol se usan en la FA rápida de reciente diagnóstico, para bajar la frecuencia cardíaca. - La adenosina se usa en la taquicardia paroxística supraventricular (TPSV).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente de 69 años, cursando un infarto miocárdico, de 40 minutos de duración, Sin contestar presenta deterioro de su estado general, constatándose frecuencia cardíaca de 40 Puntúa como x'. La conducta inicial es: a)",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar atropina endovenosa",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar propanolol endovenoso",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar adrenalina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar amiodarona endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar cardioversión eléctrica endovenoso Es un IAM complicado con bradicardia. Las causas más frecuentes son las reacciones vagales, que se pueden controlar con atropina endovenosa y la isquemia del sistema excitoconductor, que se maneja con marcapasos externo transitorio y eventualmente un marcapasos de\u0000nitivo. Si no hay mayor información, la primera",
+        "correcta": false
+      }
+    ],
+    "justificacion": "medida suele ser la atropina, para descartar la reacción vagal.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente diabético e hipertenso de 60 años de edad, en tratamiento con dieta y Sin contestar enalapril 20 mg cada 12 horas, acude a control médico, con presiones arteriales Puntúa como promedio 140/90 mmHg y con creatinina 0,8 mg/dl, microalbuminuria negativa, 1,00 sodio: 140 mEq/l, potasio: 4,9 mEq/l, cloro: 110 mEq/L. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Agregar hidroclorotiazida 50 mg al día",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Reemplazar el enalapril por losartán",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Agregar atenolol al tratamiento",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Aumentar la dosis de enalapril a 40 mg cada 12 horas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Mantener el tratamiento y controlar en 3 meses Es un paciente HTA mal controlado, ya que el objetivo de control es menor a 130/80 en el diabético y tiene 140/90. Si hubiese tenido la microalbuminuria positiva,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "estaría aún más descontrolado. Por tanto se debe avanzar en el tratamiento. - Está en dosis máxima de enalapril, así que no se puede subir más y no hay razón para reemplazarlo por un ARA II, como el losartán, ya que tienen e\u0000cacias y riesgos similares (solo si el IECA produce tos o alergia: angioedema se hace necesario reemplazarlo por un ARA II). - Por tanto, las alternativas aceptables serían 1. agregar un nuevo fármaco, en especial actualmente que se recomienda comenzar el tratamiento farmacológico con dos fármacos y 2. reemplazarlo por otro fármaco. - En este caso agregar la HCTZ parece una buena opción, en especial por el K+ en el límite superior (4,9 mEq/L), ya que las tiazidas disminuyen la potasemia. También habría sido correcto agregar amlodipino.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un paciente de 69 años, hipertenso, consulta por dolor torácico muy intenso, de 1 Sin contestar hora de evolución, que ha ido en aumento. Al examen físico se aprecia hipertenso, Puntúa como con PA: 200/120 mmHg, FC: 110 x´, sudoroso y se ausculta un MP(+) con crépitos 1,00 bibasales y RR2T con soplo diastólico. El electrocardiograma muestra una taquicardia sinusal, sin alteraciones del segmento ST. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar angioTAC de tórax",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar angiografía de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar anticoagulación con heparina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar aspirina, oxígeno y nitroglicerina y solicitar troponinas plasmáticas seriadas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar aspirina, oxígeno y nitroglicerina y realizar trombolisis con estreptoquinasa La clínica es muy sugerente de una disección aórtica. Tiene el dolor torácico, está en una crisis hipertensiva y además tiene el soplo diastólico característico de la insu\u0000ciencia aórtica (porque la válvula aórtica se diseca). Con ello ya es su\u0000ciente para realizar el angioTAC de tórax. Que el EKG no muestre signos de isquemia, con mayor razón hace pensar en una disección aórtica. Además del angioTAC, sería correcto darle antihipertensivos por vía endovenosa (labetalol y/o nitroprusiato) y llamar al cirujano cardiovascular de manera urgente, ya que todo apunta a una disección tipo A (el soplo sugiere que se afecta la raíz aórtica), la que requiere",
+        "correcta": false
+      }
+    ],
+    "justificacion": "reemplazo de la aorta. - La alternativa D habría sido correcta si la clínica no hubiese tenido el soplo y hubiese tenido más elementos de síndrome coronario agudo (en este caso sin SDST). - La alternativa E hubiese sido correcta si el EKG hubiese mostrado un SDST y no hubiese habido soplo diastólico. - Los antiagregantes, la anticoagulación y la trombólisis están absolutamente contraindicadas, ya que pueden agravar la hemorragia.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente de 36 años consulta por disnea de esfuerzos, que inició hace un mes y Sin contestar que ha ido en aumento, apareciendo ante pequeños esfuerzos. Además, re\u0000ere que Puntúa como debe dormir semisentado, ya que de lo contrario se ahoga y que en ocasiones 1,00 despierta \"sin aire\" por lo que debe levantarse y respirar profundo antes de poder dormirse nuevamente. Al examen físico se aprecia pulso regular a 80x', presión arterial de 110/70 mmHg, desplazamiento del choque de la punta y se ausculta un soplo sistólico. El electrocardiograma muestra signos de hipertro\u0000a del ventrículo izquierdo, sin otras alteraciones y la radiografía de tórax demuestra cardiomegalia importante. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Miocardiopatía hipertró\u0000ca",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Miocardiopatía dilatada",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Cardiopatía hipertensiva",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Estenosis aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Insu\u0000ciencia aórtica La clínica muestra síntomas de ICC izquierda (disnea, ortopnea y disnea paroxística nocturna), más soplo sistólico y cardiomegalia. Además, por ser un paciente joven, lo más probable es que sea un MCP dilatada. El soplo es por insu\u0000ciencia mitral,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "secundaria a la dilatación del anillo mitrálico. La estenosis aórtica y la MCP HT sí tienen la ICC izquierda y el soplo sistólico (mesosistólico), pero no tienen cardiomegalia, sino una HT concéntrica. La cardiopatía hipertensiva no tiene cardiomegalia ni soplo y debe tener el antecedente de HTA. En el examen sí puede tener un R2 aumentado. La insu\u0000ciencia aórtica tiene ICC izquierda y cardiomegalia, pero su soplo es diastólico.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un paciente de 68 años acude al servicio de urgencia por dolor torácico opresivo, Sin contestar irradiado a los brazos. Es diabético y dislipidémico y toma aspirina, atorvastatina y Puntúa como metformina. Al examen físico está hipotenso (PA: 90/50), taquicárdico, sudoroso, 1,00 con MP+ sin ruidos agregados y RR3T con presencia de un cuarto ruido. Se solicita un electrocardiograma que muestra un supradesnivel del segmento ST en las derivaciones DII, DIII y AVF. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar aspirina, oxígeno y realizar angioplastia de urgencia",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar aspirina, nitroglicerina, mor\u0000na y realizar trombólisis con estreptoquinasa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar aspirina, oxígeno y solicitar troponinas seriadas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar aspirina y solicitar test de esfuerzo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar ecocardiograma transesofágico de urgencia Tiene un síndrome coronario agudo con SDST (de la pared inferior: DII, DIII y AVF), que se puede manejar con angioplastia o trombólisis. Lo ideal es la angioplastia, ya que tiene mejores resultados que la trombólisis. Además, en este caso el paciente está hipotenso (PA: 90/50), lo que contraindica la trombólisis (porque puede agravar la hipotensión), por lo tanto, no hay duda de que la respuesta correcta es la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "angioplastia. En este caso, por la hipotensión, también está contraindicada la nitroglicerina y también la mor\u0000na (aunque actualmente no se recomienda la mor\u0000na, salvo casos muy especí\u0000cos).",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente presenta disnea de inicio súbito, seguida de compromiso de Sin contestar conciencia. Usted lo recibe 10 minutos después y está inconsciente, sin pulso ni Puntúa como respiración. Se inicia masaje cardíaco y se llama al equipo de reanimación, que 1,00 cuenta con un des\u0000brilador. Luego de 5 ciclos de masaje, el paciente permanece en paro y el monitor electrocardiográ\u0000co muestra una taquicardia ventricular sin pulso. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar amiodarona endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar adrenalina endovenosa y continuar el masaje cardíaco",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar des\u0000brilación eléctrica y continuar el masaje cardíaco",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar cardioversión eléctrica sincronizada y reevaluar de inmediato",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Proseguir el masaje cardíaco e iniciar lidocaína por bomba de infusión Es un paciente en paro cardiorrespiratorio. Además está en TVSP, que es un ritmo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "des\u0000brilable, por lo que lo más correcto es des\u0000brilar y mantener el masaje. Si hubiese estado en un ritmo no des\u0000brilable (asistolia y AESP), lo más correcto sería la alternativa B (adrenalina y continuar el RCP). Si estuviese con pulso, es decir, si no estuviese en paro, pero con hemodinamia inestable, lo más correcto sería la cardioversión eléctrica. Si estuviese con pulso y hemodinamia estable, lo más correcto sería la amiodarona, como manejo de la TV con pulso. La amiodarona sí se usa en el manejo del paro en ritmos des\u0000brilables, pero luego de haber des\u0000brilado, seguido de haber des\u0000brilado más adrenalina y \u0000nalmente recién se debe des\u0000brilar más amiodarona o lidocaína.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente de 45 años, hipertenso, consulta por palpitaciones de inicio súbito de Sin contestar una hora de evolución. Al examen está en buenas condiciones generales, con pulso Puntúa como de 80 lpm, irregular y presión arterial 120/80 mmHg. Se solicita un 1,00 electrocardiograma que muestra una \u0000brilación auricular. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar anticoagulación con heparina y solicitar ecocardiograma transesofágico de urgencia",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar cardioversión eléctrica de inmediato",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar masaje carotideo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar verapamilo endovenoso",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar cardioversión farmacológica con propafenona",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una \u0000brilación auricular de reciente diagnóstico, hemodinámicamente estable. En general se sigue tres pilares: 1. Normalizar la FC, 2. Anticoagular y 3 Cardiovertir farmacológicamente, una vez que se haya minimizado el riesgo de embolias. - En este caso tiene una FC de 80 lpm, lo que es normal, por lo que no requiere el control de FC (que se suele hacer con propanolol, verapamilo o digoxina por vía endovenosa). - La anticoagulación actualmente se recomienda en casi todos los pacientes, aunque en las primeras 48 horas es muy improbable que se formen trombos (el problema es que sí es posible que lleve más de 48 horas de FA, solo que no se haya dado cuenta el paciente). - El momento de la trombólisis se de\u0000ne después de que el ecocardiograma transesofágico haya descartado trombos auriculares. En caso de que no esté disponible, se puede cardiovertir en 3-4 semanas. Es aceptable cardiovertir sin un ecocardiograma transesofágico, siempre que lleve menos de 48 horas, pero las recomendaciones actuales sugieren hacer el ecocardiograma siempre. * La cardioversión farmacológica se puede hacer con amiodarona (pacientes con cardiopatía) o con propafenona o \u0000ecainamida (pacientes sin cardiopatía). En este caso, se sospecha que tenga una cardiopatía hipertensiva. * La cardioversión eléctrica habría sido correcta, si es que estuviese hemodinámicamente inestable. * El masaje carotideo sería correcto si se tratara de una TPSV.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente de 60 años consulta por astenia y edema de extremidades inferiores. Al Sin contestar examen físico se aprecia una onda \"a\" aumentada en el pulso venoso y se ausculta Puntúa como un soplo diastólico. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Estenosis pulmonar",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Insu\u0000ciencia pulmonar",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Estenosis tricuspidea",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Insu\u0000ciencia tricuspidea",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Pericarditis constrictiva Es una insu\u0000ciencia tricuspidea clásica (signos de ICC derecha: edema y astenia;",
+        "correcta": false
+      }
+    ],
+    "justificacion": "soplo diastólico y onda \"a\" gigante). Las demás opciones también tienen clínica de ICC derecha, pero la estenosis pulmonar tiene soplo sistólico; la insu\u0000ciencia pulmonar tiene soplo diastólico, sin afectación del pulso venoso y la insu\u0000ciencia tricuspidea tiene soplo holosistólico, con onda \"v\" gigante. La pericarditis constrictiva tiene frotes pericárdicos, signo de Kussmaul y colapso \"y\" prominente.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 60 años, hipertenso, en tratamiento con dieta hiposódica, sin otras Sin contestar patologías, acude a control, objetivándose que la mayoría de sus presiones Puntúa como arteriales son cercanas a 144/96 mmHg. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mantener la dieta y controlar en 3 meses",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar captopril",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar amlodipino",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar nifedipino",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar carvedilol Es un paciente con HTA en tratamiento con medidas no farmacológicas. Como no",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ha logrado el objetivo (menor a 140/90), se debe iniciar tratamiento farmacológico. Además, actualmente, la mayoría de recomendaciones internacionales recomiendan iniciar el tratamiento farmacológico desde el diagnóstico mismo, ya que las medidas no farmacológicas solas suelen tener menores resultados que asociadas a fármacos. No tiene ninguna comorbilidad que indique o contraindique un fármaco en especí\u0000co, por lo que puede usar prácticamente cualquiera. Actualmente se recomienda iniciar con un IECA, ARA-2 o amlodipino. Las tiazidas y el betabloqueo se usan menos como monoterapia, dado su per\u0000l de efectos adversos mayores. Además, suelen tratarse con dos fármacos desde el primer momento, siendo aceptable usar solo uno en presiones menores a 160/100, pero, probablemente mejor con 2 fármacos. De los bloqueadores de calcio dihidropiridínicos, de elección, se usa el amlodipino, porque tanto el nitrendipino como el nifedipino están obsoletos (el nifedipino se usa como tocolítico en el parto prematuro menor de 34 semanas). - Habría sido correcto también indicar enalapril, losartán, o amlodipino más enalapril o losartán.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente consulta por palpitaciones intensas, de inicio súbito, asociados a Sin contestar disnea. Al examen está hemodinámicamente estable, con una frecuencia cardíaca Puntúa como de 180 lpm. Se solicita un electrocardiograma que muestra una taquicardia regular, 1,00 a 180 lpm, con complejos QRS angostos y sin visualización de la onda P. ¿Cuál de los siguientes fármacos es más adecuado para el manejo inicial de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Suero \u0000siológico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Amiodarona",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Adenosina",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Sulfato de magnesio",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Gluconato de calcio",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una TPSV, que se trata con maniobras vagales y luego con adenosina. Se dan hasta 3 dosis de adenosina. Si falla, se da verapamilo y si falla nuevamente, amiodarona. La última línea es la cardioversión eléctrica. La ausencia de onda P es característica de la \u0000brilación auricular, pero la FA es una arritmia irregular, a QRS angosto. En cambio la TPSV es una arritmia regular a QRS angosto, que puede tener onda P o no tenerla (porque queda dentro del QRS). El sulfato de magnesio se usa para la torsades de pointes. El gluconato de calcio sirve para la hiperkalemia, la hipermagnesemia y la hipocalcemia.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente con antecedente de angina estable, a la espera de cirugía de Sin contestar revascularización, consulta por dolor torácico que inició en el reposo y que es un Puntúa como poco más intenso que el dolor habitual. 1,00 ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar electrocardiograma y realizar manejo como un síndrome coronario agudo",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar nitroglicerina y solicitar test de esfuerzo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar aspirina y nitroglicerina y solicitar ecocardiograma con dobutamina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar nitroglicerina e iniciar trombolisis con estreptoquinasa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar bomba de nitroprusiato y solicitar angioTAC de tórax Tiene una angina inestable, tanto por el dolor de reposo, como por la duración distinta (angina que cambia). El manejo de la angina estable es el manejo del",
+        "correcta": false
+      }
+    ],
+    "justificacion": "síndrome coronario agudo, porque es un síndrome coronario agudo. Las anginas inestables (en contraposición con la angina estable) son: - Dolor de reposo. - Dolor diferente al habitual (mayor intensidad o duración). - Primer episodio de angina con el ejercicio. Todas se manejan como SCA.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente de 40 años consulta por disnea de esfuerzo, que aparece al caminar Sin contestar una cuadra. Re\u0000ere que los síntomas iniciaron hace un mes, pero que eran mucho Puntúa como más leves. Además, presenta disnea paroxística nocturna y algún grado de 1,00 ortopnea. Al examen físico se aprecia edema de extremidades inferiores, se ausculta un ritmo regular en 3 tiempos, por presencia de un R3 y se palpa desplazamiento del choque de la punta. ¿Cuál es el tratamiento más adecuado para este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Aspirina y IECA",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "IECA, propanolol e hidroclorotiazida",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Propanolol, ARA II",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "IECA, carvedilol, espironolactona y furosemida",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "IECA y digoxina La clínica sugiere una miocardiopatía dilatada (MCP D): insu\u0000ciencia cardíaca izquierda (o global), cardiomegalia y disfunción sistólica (por el R3). Su tratamiento es el tratamiento de la ICC, con los fármacos que aumentan la sobrevida (1. IECAs o ARA-2, 2. betabloqueo: de elección el carvedilol y 3. espironolactona) y los que disminuyen los síntomas (1. furosemida y 2. digoxina, aunque su uso está limitado",
+        "correcta": false
+      }
+    ],
+    "justificacion": "por su rango terapéutico estrecho). - En este caso, además tiene síntomas, por lo que está en etapa C, en la que se inicia la espironolactona (tiene evidencia en fracción de eyección baja, menor a 35%, más síntomas a pesar del uso de los demás fármacos) - En cambio, en la etapa B (solo cambios estructurales), bastan los IECA y el betabloqueo. De todas las opciones, la mejor es la D, aunque también habría sido correcto indicar IECA/ARA-2, carvedilol y furosemida, sin la espironolactona, ya que no indican el valor de la fracción de eyección. - Además, en casos más graves, se evalúa indicar un marcapasos de resincronización miocárdica (además, vienen con DAI, por si hay arritmias) e incluso el trasplante cardíaco.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un paciente de 80 años presenta un síncope mientras caminaba. Al examen físico Sin contestar se ausculta un soplo sistólico eyectivo, con disminución del R2. ¿Qué diagnóstico es Puntúa como el más probable?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Estenosis mitral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Insu\u0000ciencia mitral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Estenosis aórtica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Insu\u0000ciencia aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Bloqueo AV Es una estenosis aórtica clásica: síncopes de esfuerzo, soplo eyectivo o",
+        "correcta": false
+      }
+    ],
+    "justificacion": "mesosistólico y disminución del R2. La estenosis mitral tiene soplo diastólico y aumento del R1. La insu\u0000ciencia mitral tiene soplo holosistólico y disminución del R1. La insu\u0000ciencia aórtica tiene soplo diastólico y disminución del R2. El BAV completo tiene bradicardia y R1 de intensidad variable.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente presenta dolor en la pierna izquierda, asociada a aumento de volumen. Sin contestar Dos días después presenta súbitamente disnea y dolor torácico tipo puntada. La Puntúa como conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar radiografía de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar ecocardiografía transesofágica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar dímero D",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar angioTAC",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar aspirina La sospecha es un TEP y en este caso es de alto riesgo o alta probabilidad, ya que estuvo precedido por una clínica muy sugerente de TVP. Por tanto se pide el examen",
+        "correcta": false
+      }
+    ],
+    "justificacion": "con\u0000rmatorio, que es el AngioTAC de tórax. Si hubiese sido de baja probabilidad (ej. Sospecha de crisis de pánico), se debería pedir un dímero D. Si hubiese estado hipotenso, habría sido un TEP masivo y la respuesta sería el ecocardiograma. Si hubiese tenido clínica de neumotórax (disminución del MP, hipersonoridad), la respuesta habría sido radiografía de tórax. Si no hubiese estado disponible el angioTAC, se debe anticoagular de inmediato y dar soporte. Además, si está disponible el eco-Doppler de EEII y se con\u0000rma la TVP, se da por con\u0000rmado el TEP, a pesar de no contar con un angioTAC (si está disponible se debe pedir).",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un paciente de 65 años, cursando un IAM de pared inferior de 3 horas de evolución, Sin contestar presenta deterioro del estado circulatorio y se objetiva que presenta una frecuencia Puntúa como cardíaca de 30 lpm. La primera medida a realizar es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar adenosina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar lidocaína",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar un digitálico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar atropina",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar adrenalina Es un IAM complicado con bradicardia. Las causas más frecuentes son las reacciones vagales, que se pueden controlar con atropina endovenosa y la isquemia del sistema excitoconductor, que se maneja con marcapasos externo transitorio y eventualmente un marcapasos de\u0000nitivo. Si no hay mayor información, la primera medida suele ser la atropina (tanto en bradicardia en contexto de infarto, como otras bradicardias con hemodinamia inestable), para descartar la reacción vagal, que induce el bloqueo auriculoventricular completo. Sin embargo, vale la pena aclarar que, si la sospecha no es una reacción vagal, la atropina no debe demorar la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "instalación del marcapasos externo transitorio.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente de 69 años consulta por dolor abdominal intenso, que ha ido en Sin contestar aumento. Al examen físico está pálido e hipotenso y se palpa una masa pulsátil en Puntúa como el epigastrio, que no se mueve con la inspiración. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Disección aórtica tipo A",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Disección aórtica tipo B",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Aneurisma aórtico abdominal roto",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Infarto miocárdico de pared inferior",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Embolia mesentérica Es un aneurismoa aórtico abdominal roto clásico (AAA roto). Tiene el dolor, el shock hipovolémico y la masa pulsátil. El hecho que no se mueva con la inspiración, da cuenta que está localizado en el retroperitoneo (tanto la aorta, como el hematoma",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que se forma al romperse el auneurisma suelen ser retroperitoneales). La otra forma de presentación clásica es igual a un cólico renal, pero con compromiso hemodinámico, en un paciente generalmente con factores de riesgo cardiovascular, ya que su etiología principal es la ateromatosis.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente hipertenso, asintomático se realiza un electrocardiograma, como parte Sin contestar de su chequeo habitual, constatándose el siguiente trazado: La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar un Holter de arritmias",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Derivar para marcapasos de\u0000nitivo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar propanolol",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar amiodarona Tiene un BAV de segundo grado, Mobitz I (El segmento PR se alarga, hasta que no conduce una onda P). Se observa, al igual que el BAV de primer grado (alargamiento del PR, pero toda onda P conduce). Solo si es sintomático (síncopes), requiere",
+        "correcta": false
+      }
+    ],
+    "justificacion": "marcapasos. En cambio, el Mobitz II (PR constante y algunas ondas P no conducen) y el de tercer grado (disociación AV), sí se tratan con marcapasos.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "¿Qué fármaco es de elección para iniciar el tratamiento en un paciente, Sin contestar diagnosticado de hipertensión arterial de tipo renovascular, que no tiene daño renal Puntúa como ni de otros parénquimas?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Enalapril",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Amlodipino",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hidroclorotiazida",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Atenolol",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hidralazina Hay dos grandes causas de HTA-RV: 1. Ateromatosis (sobre todo en mayores de 50 y con factores de riesgo cardiovascular) y 2. Displasia \u0000bromuscular (generalmente en menores de 50 años, más frecuente en mujeres y personas con antecedentes",
+        "correcta": false
+      }
+    ],
+    "justificacion": "familiares). El tratamiento de primera línea de la HTA-RV son los IECAs o los ARA-2, tanto cuando hay estenosis de una sola arteria renal como cuando la hay de de ambas. - Solo si es que los fármacos fallan, no son tolerados o producen elevación de la creatinina (lo que pasa con cierta frecuencia en la HTA RV), se debe indicar la angioplastia con un stent (la cirugía abierta solo se usa en casos seleccionados en que anatómicamente es muy difícil de insertar un stent). Por tanto, el resumen es 1. IECA / ARA2, 2. Stent y 3. Cirugía.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente de 70 años presenta un cuadro de dolor torácico intenso, que luego se Sin contestar acompaña de hipotensión arterial. Al examen físico se aprecian yugulares Puntúa como ingurgitadas. Se solicita un electrocardiograma que muestra supradesnivel del 1,00 segmento ST en las derivadas AVF, DII y DIII y se solicitan derivadas derechas que muestran supradesnivel del segmento ST en las precordiales derechas V3R, V4R y V5R. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar pericardiocentesis de inmediato",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar oxígeno, nitroglicerina, mor\u0000na y aspirina y realizar trombolisis de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar oxígeno, nitroglicerina, mor\u0000na y aspirina y realizar angioplastia de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar suero \u0000siológico, iniciar oxígeno, aspirina y realizar angioplastia de urgencia",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar AngioTAC de tórax de urgencia Tiene un infarto de ventrículo derecho, tanto por la clínica (hipotensión e ingurgitación yugular, en articular asociado a IAM de pared inferior: SDST en DII, DIII y AVF). La forma en que se diagnostica es con las precordiales derechas, que suele mostrar SDST en V4R, así que ya está con\u0000rmado (cuando queda la duda, se puede hacer un ecocardiograma de urgencia, que muestra la disfunción del ventrículo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "derecho). - El tratamiento es principalmente el del manejo general del infarto, pero está prohibido dar cualquier fármaco que hipotense (como la nitroglicerina, la mor\u0000na o la trombólisis), por lo que no pueden ser la B ni la C. Además, se debe administrar suero \u0000siológico. En caso de que siga hipotenso y no responda al volumen, se puede agregar dopamina u otras drogas vasoactivas. * La pericardiocentesis hubiese sido correcta en la rotura de pared libre, que cursa con taponamiento y tiene la misma clínica, pero habitualmente algunos días después del IAM, ya que es una complicación mecánica.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente de 80 años, hipertenso en tratamiento con atenolol, presenta Sin contestar palpitaciones desde hace un mes. Al examen físico se palpa un pulso irregular y su Puntúa como electrocardiograma muestra una \u0000brilación auricular de respuesta ventricular lenta, 1,00 a 70 lpm. Está en buenas condiciones. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar aspirina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar anticoagulación con rivaroxabán",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar clopidogrel",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Suspender el atenolol e iniciar un IECA",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución Es una FA crónica. Está con atenolol desde antes y su FC está controlada (el objetivo del control de frecuencia es mantenerla entre 60 y 90 lpm), por lo que no es necesario dar control de frecuencia ni de ritmo. Para decidir si se quedará con anticoagulación oral (cumarínicos o nuevos anticoagulantes), es necesario calcular el puntaje CHADS2-VAS: en este caso es mayor de 75 años (1 punto + 1 punto VAS) e hipertenso (1 punto), por lo que tiene un puntaje total de 3 puntos, lo que obliga la anticoagulación. Por la edad, idealmente se debe indicar un nuevo anticoagulante",
+        "correcta": false
+      }
+    ],
+    "justificacion": "oral. La aspirina, eventualmente se podría dar, por tener alto riesgo cardiovascular (HTA y edad avanzada), pero, en los casos en que está anticoagulado, no suele indicarse el tratamiento antiagregante, salvo que haya un riesgo muy elevado de trombosis.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "¿Cuál es el agente etiológico más frecuente de la endocarditis bacteriana subaguda, Sin contestar de 10 días de evolución, en un paciente sin factores de riesgo conocidos ni Puntúa como hospitalizaciones recientes?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Streptococcus pyogenes",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Streptococcus viridans",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Staphilococcus epidermidis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Entorococcus faecium",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Kingella Kingae El agente de la EBSA (mayor a 7 días) es el Streptococcus viridans, seguido del",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Enterococo. - En la endocarditis aguda (menor a 7 días), lo más frecuente es el Staphilococcus aureus, en especial, si está asociado a algún catéter o invasión. Además, el S. aureus es la principal causa de endocarditis infecciosa, tomando en cuenta tanto las agudas como las subagudas. De hecho, actualmente, se ha tendido a borrar la diferencia entre \"agudas\" y \"subagudas\", ya que la gran mayoría son agudas y a que la microbiología queda demostrada en el mismo hemocultivo que se usa para el diagnóstico. Por tanto, el tratamiento suele ser dirigido a la bacteria que se identi\u0000ca. En los casos en que no se identi\u0000ca una bacteria, actualmente se recomienda cubrir siempre SAMR, además de las demás bacterias mencionadas. Lo mismo si es que se identi\u0000ca un S. aureus y aún no se tiene el antibiograma. - El Staphilococcus epidermidis es causa de la sepsis asociada a catéter, en la que la infección está solo en el catéter y no en el corazón. Sin embargo, también es la cuarta causa de endocarditis.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente de 79 años presenta un síncope de cerca de 40 segundos de duración, Sin contestar mientras estaba sentado en la mesa. Los familiares que presenciaron el episodio Puntúa como re\u0000eren que estaba tranquilo conversando, cuando súbitamente perdió la 1,00 consciencia y se golpeó con la mesa, recuperándose por completo unos segundos después. No presentó otros síntomas. ¿Cuál es la causa más probable de su síncope?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Vasovagal",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cardiogénico",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Neurológico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Conversivo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Disautonómico Es un síncope de reposo, por lo que lo más probable es que se trate de un síncope",
+        "correcta": false
+      }
+    ],
+    "justificacion": "cardiogénico. - Los síncopes vasovagales se caracterizan por un prodromo sintomático de malestar, parestesias, náuseas, etc. - El cardiogénico suele ser de reposo (típico de las bradiarritmias, aunque también se puede ver en arritmias ventriculares autolimitadas) o relacionado con el esfuerzo (taquiarritmias, por ejemplo en estenosis aórtica o MCP hipertró\u0000ca). Las arritmias graves y que se mantienen en el tiempo suelen presentarse como muerte súbita o shock cardiogénico, en lugar de un simple síncope. - El neurológico, es clásico de las crisis atónicas y se caracteriza por pérdida del control de esfínteres. - El conversivo suele no golpearse y estar en relaciones al estrés. - El disautonómico incluye al vasovagal y al situacional (que suele ser después de orinar o de defecar).",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "La hipercalcemia en el electrocardiograma suele presentar:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ondas T picudas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ondas T invertidas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Supradesnivel del segmento ST",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Acortamiento del intervalo QT",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Alargamiento del intervalo QT",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Las ondas T picudas son de la hiperkalemia. Las ondas T invertidas son características de isquemia (también en MCP HT). El SDST se ve en los IAM transmurales y en la pericarditis aguda. También en los aneurismas ventriculares (en que es persistente el SDST). El acortamiento del QT se ve en la hipercalcemia y en la intoxicación con digitálicos. El alargamiento del QT se ve en la hipocalcemia, hipokalemia e hipomagnesemia y se asocia a torsión de puntas.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "¿Cuál de los siguientes pacientes NO necesita antiarrítmicos como Sin contestar betabloqueantes, amiodarona, lidocaína, etc.?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Paciente cursando un infarto miocárdico, que inicia con extrasístoles ventriculares frecuentes en su electrocardiograma",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Paciente con antecedente de un infarto hace 6 meses, que presenta extrasístoles ventriculares frecuentes en su electrocardiograma",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Paciente con extrasístoles ventriculares frecuentes, que aparecen luego de realizar una agioplastía por un infarto miocárdico",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Paciente con miocardiopatía hipertró\u0000ca, que presenta extrasístoles ventriculares frecuentes en su electrocardiograma",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Paciente con miocardiopatía dilatada, que presenta extrasístoles ventriculares frecuentes en su electrocardiograma",
+        "correcta": false
+      }
+    ],
+    "justificacion": "- Las ESV en pacientes sanos y asintomáticos, simplemente se observan. - Las ESV, en contexto de IAM, pueden observarse si es que son asintomáticas y escasas. Sin embargo, si es que son muy frecuentes o complejas (salvas de 3 o más), tienen elevadísimo riesgo de evolucionar a una taquicardia ventricular (TV), por lo que requieren fármacos (betabloqueo o amiodarona). - Las ESV en contexto de cardiopatías (B, D y E) se asocian a desarrollo de taquicardia ventricular, por lo que se tratan con betabloqueo y, si no responden, con ablación con catéter o amiodarona. Se debe evaluar la necesidad de un des\u0000brilador automático implantable, si el riesgo de TV es demasiado alto. - Finalmente la C, es una arritmia de reperfusión (hasta 30 minutos postreperfusión), las que se observan, a menos que sea una TV mayor a 30 segundos.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Un paciente de 30 años consulta por disnea de esfuerzo y angina de pecho. En su Sin contestar examen físico se constata un pulso amplio y un soplo sistólico eyectivo. ¿Qué Puntúa como examen es el más adecuado para con\u0000rmar la sospecha diagnóstica?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ecocardiografía",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Holter de arritmias",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Coronariografía",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Test de esfuerzo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Radiografía de tórax La sospecha es una miocardiopatía hipertró\u0000ca. La disnea (ICC), la angina y el soplo también se ven en la estenosis aórtica, pero el pulso amplio es de MCP HT (también de la insu\u0000ciencia aórtica), en cambio, la estenosis aórtica tiene un pulso pequeño y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "lento (parvus et tardus). De todos modos, cualquiera que haya sido sus sospecha, igual se debe pedir una ecocardiografía, así que es una pregunta fácil.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Un paciente sufre una herida con arma blanca en el pecho, evolucionando con Sin contestar hipotensión e ingurgitación yugular. La conducta inicial más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar compresiones torácicas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar suero \u0000siológico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar pericardiocentesis",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Instalar un catéter venoso central",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar radiografía de tórax Tiene una clínica de taponamiento cardíaco agudo, por hemopericardio (herida penetrante, seguida de hipotensión e ingurgitación yugular, sin compromiso",
+        "correcta": false
+      }
+    ],
+    "justificacion": "pulmonar). Por tanto, se debe realizar la pericardiocentesis de manera urgente. - Si hubiese tenido clínica pulmonar (desviación de la tráquea, asimetría torácica, etc.), la sospecha habría sido un neumotórax a tensión y la conducta sería puncionar el segundo espacio intercostal en la línea medioclavicular (o el quinto espacio en la línea axilar anterior). - Si hubiese estado bien, sin complicaciones, la conducta hubiese sido la radiografía de tórax, ya que esa es la forma en que se estudian las heridas por arma blanca, sin signos de alarma en el tórax. En el abdomen, en cambio, es con la exploración digital; o con laparotomía si es que están hemodinámicamente inestables o tienen signos peritoneales). Estos detalles se verán en cirugía.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente diabético, dislipidémico y fumador, en tratamiento con glibenclamida, Sin contestar metformina, y atorvastatina, consulta por dolor en las pantorrillas, mayor en la Puntúa como pierna derecha, que aparece al caminar 3 cuadras y que le impide seguir 1,00 caminando. Su examen físico es normal. Además de suspender el cigarrillo y optimizar el control de sus factores de riesgo cardiovascular, se debe:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar angiografía de extremidades inferiores",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar resonancia magnética de columna",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar ecografía Doppler de extremidades inferiores",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar anticoagulación a permanencia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar ejercicios de caminata e iniciar aspirina Tiene clínica de una claudicación intermitente, sin signos de isquemia crítica (no hay dolor de reposo, ni úlceras arteriales ni un índice tobillo brazo menor a 0,5). Por",
+        "correcta": true
+      }
+    ],
+    "justificacion": "tanto, se deben manejar los FR CV e iniciar un programa de ejercicios. El diagnóstico es clínico y la mejor forma de objetivar la severidad es con pruebas no invasivas, en especial, el índice tobillo brazo (ITB) que simplemente compara las presiones arteriales del tobillo y brazo: - Si el ITB es mayor a 1, es normal. - Entre 0,9 y 0,5 es compatible con claudicación intermitente. - Entre 0,4 y valores menores es compatible con isquemia crítica (que requiere vascularización. También son útiles los registros de volumen de pulso, como la pletismografía de volumen, que si bien suelen usarse mucho en la isquemia crítica, también dan información útil en la isquemia no crítica, como en este caso. * La angiografía sería correcta para una isquemia aguda de EEII (dolor súbito, con palidez y frialdad, disminución de pulsos, paresisay parestesias). Además, se anticoagula y se revasculariza con urgencia. * La RMN de columna sería correcta para una raquiestenosis (dolor lumbar irradiado a las EEII, que aumenta al caminar, en adultomayor). * La ecografía Doppler de EEII sirve en la trombosis venosa profunda (TVP).",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "En un paciente cursando un infarto agudo al miocardio, ¿qué hallazgo Sin contestar electrocardiográ\u0000co es indicación de trombólisis?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Infradesnivel del ST",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Imagen de bloqueo completo de rama izquierda",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Imagen de bloqueo completo de rama derecha",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Inversión de la onda T",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Presencia de \u0000brilación auricular La trombólisis solo se indica en el síndrome coronario agudo con SDST, y solo si es",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que no hay disponibilidad de angioplastia. El BCRI agudo, es equivalente a un SDST. Es importante recordar que el SCA sin SDST es una contraindicación de la trombólisis y, por tanto, debe ser manejado con otras medidas (ej. angioplastia o solo medidas farmacológicas conservadoras, según el riesgo), pero nunca con trombólisis.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 49 años, diabético tipo 2, en tratamiento con metformina y Sin contestar glibenclamida, presenta presiones arteriales cercanas a 138/92 en tomas repetidas, Puntúa como además en sus exámenes de ingreso al programa cardiovascular destaca creatinina 1,00 de 0,7mg/dL y un índice microalbuminuria-creatininuria de 300. Sus exámenes previos eran similares. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mantener indicaciones y controlar en 1 mes",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar enalapril y controlar en 1 mes",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar hidroclorotiazida y controlar en 1 mes",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar amlodipino y controlar en 1 mes",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar atenolol y controlar en 1 mes Es un paciente hipertenso, mal controlado, ya que la PA diastólica está en 92 mmHg y el objetivo en diabéticos es que sea menor a 130/80 mmHg. Además, por tener albuminuria, es un paciente con nefropatía diabética inicial, por lo que el objetivo de PA, en este caso, es también menor a 130/80 o incluso menor a 120-125/80. El tratamiento farmacológico de elección en los pacientes diabéticos son los IECA o los ARA2 y para rematar, por la misma albuminuria, está directamente indicado el IECA o ARA2. También sería correcto que iniciara inmediatamente con dos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "fármacos (ej. enalapril + diltiazem).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente de 67 años consulta por astenia y edema de extremidades inferiores, no Sin contestar asociado a otros síntomas. Al examen físico se ausculta un soplo diastólico y Puntúa como ondas \"a\" gigantes en el pulso venoso. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Estenosis mitral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Insu\u0000ciencia mitral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Estenosis tricuspidea",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Insu\u0000ciencia aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Insu\u0000ciencia tricuspidea Es una estenosis tricúspidea clásica: clínica de ICC derecha (edema), con soplo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "diastólico, más las onda \"a\" gigantes en el pulso venoso. La estenosis mitral tiene clínica de ICC izquierda, más el soplo diastólico. La insu\u0000ciencia mitral tiene ICC izquierda, más soplo holosistólico. La insu\u0000ciencia aórtica tiene ICC izquierda, más soplo diastólico. La insu\u0000ciencia tricúspidea tiene ICC derecha, más soplo holosistólico y onda \"v\" gigante en el pulso venoso.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Paciente 58 años, tabáquico, hipertenso, dislipidémico, con historia de angina Sin contestar estable en tratamiento irregular con aspirina, enalapril y atorvastatina. Se realiza un Puntúa como test de esfuerzo que resulta positivo. ¿Cuál de las siguientes sería la conducta más 1,00 adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar ecocardiografía",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar coronariografía",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Agregar propanolol al tratamiento habitual",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar cintigrafía talio-dipiridamol",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar trombolisis endovenosa El estudio de la angina estable es con un test de esfuerzo, o un equivalente (ecocardiografía de esfuerzo o cintigrafía de esfuerzo) y en caso de estar alterado, se sigue con una coronariografía, para decidir cómo revascularizar (by-pass",
+        "correcta": false
+      }
+    ],
+    "justificacion": "coronario vs angioplastia coronaria, dependiendo del número de vasos afectados). La ecocardiografía estaría indicada si hubiese síncopes, soplo u otra cosa que orientara a estenosis aórtica o miocardiopatía hipertró\u0000ca. La cintigrafía de perfusión miocárdica (talio dipiridamol), se pide, en lugar del test de esfuerzo, cuando el paciente no tolera el esfuerzo, está amputado o cuando hay un BCRI.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente de 38 años consulta por angina de pecho, que aparece al caminar 2 Sin contestar cuadras. Además presenta ortopnea y al examen físico se ausculta un soplo Puntúa como sistólico eyectivo que disminuye al ponerse en cuclillas y aumenta a la 1,00 bipedestación. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Miocardiopatía hipertró\u0000ca",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Miocardiopatía dilatada",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Estenosis aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Insu\u0000ciencia mitral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Válvula aórtica bicúspide La angina, la ortopnea y el soplo son característicos, tanto de la MCP HT, como de la estenosis aórtica. Así que la diferencia es por la edad (joven sugiere más MCP HT) y por el soplo, que en la MCP HT disminuye con las cuclillas y aumenta al ponerse de pie y con la maniobra de Valsalva, mientras que en la estenosis aórtica pasa lo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "contrario.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Paciente de 78 años inicia dolor retroesternal seguido de pérdida de conciencia. Al Sin contestar examen paciente no responde, no respira y tiene pulso ausente. Se realizan Puntúa como maniobras de resucitación cardiopulmonar y se conecta al monitor cardíaco 1,00 mostrando lo siguiente: ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Finalizar con maniobras de RCP",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar adrenalina 1mg ev",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar des\u0000brilación eléctrica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar amiodarona 300mg ev",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar lidocaína ev Tiene un paro cardiorrespiratorio y el EKG muestra una taquicardia ventricular, por lo tanto tiene una TVSP (taquicardia ventricular sin pulso), lo que es un ritmo des\u0000brilable. Por eso, lo más adecuado es des\u0000brilar y proseguir con el masaje. Si no responde, en 2 minutos se vuelve a des\u0000brilar y se inicia la adrenalina ev. Si sigue sin responder, se vuelve a des\u0000brilar, se mantiene la adrenalina y se inicia la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "amiodarona.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Una paciente de 30 años consulta por dolor torácico intenso, que aumenta con la Sin contestar inspiración y que disminuye al adoptar una posición genupectoral. Se solicita Puntúa como creatininfosfoquinasa Mb que resulta normal y un electrocardiograma que se 1,00 muestra a continuación: La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar ibuprofeno oral",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar aspirina, oxígeno, nitroglicerina y realizar trombolisis con estreptoquinasa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Anticoagular con heparina y realizar coronariografía de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hospitalizar y solicitar angioTAC de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar dímero D La clínica es de una pericarditis aguda (dolor torácico en una persona joven y que disminuye en la posición genupectoral). El EKG muestra los característicos SDST en \"J\", en casi todas las derivaciones precordiales (V2 a V6) y en varias de las demás",
+        "correcta": false
+      }
+    ],
+    "justificacion": "derivaciones. Por tanto, el diagnóstico está con\u0000rmado y el tratamiento es con AINEs en dosis altas (ejemplo ibuprofeno 800 mg cada 8 horas).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un paciente consulta por debilidad y astenia y parestesias peribucales. Al examen Sin contestar físico se constatan ROT exaltados y fasciculaciones y el electrocardiograma Puntúa como demuestra alargamiento del intervalo QT. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hiponatremia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Hiperkalemia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hipokalemia",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hipercalcemia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hipocalcemia Es una hipocalcemia clásica: astenia, debilidad, parestesias peribucales, más la",
+        "correcta": true
+      }
+    ],
+    "justificacion": "tetania (fasciculaciones, hiperre\u0000exia) y QT largo. La hiponatremia produce edema cerebral (cefalea y compromiso de conciencia, con edema de papila). La hipokalemia produce debilidad y alargamiento del QT, sin tetania. La hipercalcemia produce debilidad, astenia, poliuria, constipación y compromiso de conciencia, con acortamiento del QT.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente de 66 años, hipertenso, consulta por ortopnea y disnea paroxística Sin contestar nocturna. Al examen físico se constatan algunos crépitos bibasales y PA: 150/90 Puntúa como mmHg. Su electrocardiograma muestra signos de hipertro\u0000a ventricular izquierda y 1,00 su radiografía de tórax muestra una silueta cardiaca normal, con redistribución del \u0000ujo sanguíneo pulmonar hacia los ápices. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Miocardiopatía hipertró\u0000ca",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Miocardiopatía dilatada",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cardiopatía coronaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Cardiopatía hipertensiva",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Miocardiopatía restrictiva Es una cardiopatía hipertensiva clásica. Tiene el antecedente de HTA, con clínica de ICC izquierda (ortopnea y DPN), sin cardiomegalia, ya que es una hipertro\u0000a",
+        "correcta": false
+      }
+    ],
+    "justificacion": "concéntrica. La MCP HT puede tener el mismo cuadro, pero es en pacientes más jóvenes y sin antecedente de HTA. La MCP dilatada tiene cardiomegalia. La cardiopatía coronaria tendría el antecedente de IAM y puede tener ondas Q en el EKG. La MCP restrictiva tiene clínica de ICC derecha e izquierda y se asocia a miloidosis, con deterioro rápido y mal pronóstico.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Una paciente de 70 años consulta por dolor torácico muy intenso, de inicio súbito. Sin contestar Al examen físico se constata abolición de los pulsos de las extremidades inferiores. Puntúa como El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Infarto agudo al miocardio, con rotura de músculo papilar",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Infarto agudo al miocardio, en paciente con estenosis aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Infarto agudo al miocardio, con formación de aneurisma ventricular",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tromboembolismo pumonar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Disección aórtica La abolición de los pulsos de las EEII es muy sugerente de una disección aórtica, ya",
+        "correcta": true
+      }
+    ],
+    "justificacion": "que el \u0000ap de disección produce obstrucción de la aorta y sus ramas. La rotura de músculo papilar tendría un soplo holosistólico y acontecería algunos días después del IAM. La estenosis aórtica tendría soplo sistólico, R2 disminuido, antecedente de ICC, angina y síncopes. El aneurisma ventricular se presenta como embolias a repetición, después de un IAM, con SDST persistente en el EKG. El TEP es un dolor de inicio agudo, que aumenta con la inspiración, con antecedente de trombo\u0000lias y que se asocia a \u0000ebre, hemoptisis, desaturación arterial y disnea.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "¿Cuál es el tratamiento más adecuado para un paciente con una insu\u0000ciencia Sin contestar cardíaca por Miocardiopatía Dilatada, en capacidad funcional III?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Aspirina, enalapril y atenolol",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Aspirina, captopril, furosemida y carvedilol",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Enalapril, carvedilol y furosemida",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Digoxina, furosemida y losartán",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Digoxina, furosemida y acenocumarol La MCP dilatada se trata como una insu\u0000ciencia cardíaca (ICC) común y corriente, más el tratamiento de la causa, en el caso de ser secundaria (a alcoholismo o",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Chagas, por ejemplo). El tratamiento de la ICC consiste en fármacos que aumentan la sobrevida (IECAs o ARA2, betabloqueo y espironolactona) y fármacos que disminuyen los síntomas (furosemida en la mayoría y digoxina en casos seleccionados). - El enalapril es el fármaco más usado y con mayor impacto en la sobrevida. El captopril, en cambio, tiene una vida media demasiado corta. - El betabloqueante de elección es el carvedilol (con efecto anti alfa1, además). - Desde la etapa B (solo cambios estructurales), ya se inician los IECA y el betabloqueo. - En este caso, por estar en capacidad funcional III (disnea de reposo), equivale a la etapa C de la ICC (con síntomas), por lo que el tratamiento mínimo suele ser enalapril + carvedilol + furosemida. La espironolactona se debe agregar en casos con fracción de eyección <35% más síntomas a pesar de IECA y betabloqueo. - En la etapa D, además, se debe evaluar si se instala un marcapasos de resincronización o si se realiza un trasplante cardíaco.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente de 69 años, dislipidémico e hipertenso, consulta en la urgencia por Sin contestar dolor torácico, de carácter opresivo, intenso, que se asocia a sudoración y malestar. Puntúa como Al examen físico presenta signos vitales normales con murmullo pulmonar 1,00 presente, sin otros ruidos en el examen pulmonar y se ausculta un ritmo regular en 3 tonos, por presencia de un R4, en el examen cardiaco. Se solicita un electrocardiograma, que muestra inversión de la onda T en las derivaciones DII, DIII y AVF. La conducta inmediata más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar trombolisis de urgencia",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar cintigrafía de perfusión miocárdica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar test de esfuerzo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar radiografía de tórax y administrar aspirina y captopril",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar oxígeno, nitroglicerina y aspirina, solicitar troponinas plamáticas y hospitalizar Es un síndrome coronario agudo (SCA): dolor torácico opresivo, con R4 y antecedentes de factores de riesgo cardiovascular. Además, el EKG muestra signos de isquemia en la pared inferior (inda T invertida en DII, DIII y AVF). Como no hay supradesnivel del segmento ST, el diagnóstico es un SCA sin SDST, que se maneja con el manejo general y angioplastia, en el caso de que sea de alto riesgo (por score de TIMI, tiene 2 puntos: edad mayor a 65 años y FR cardiovascular). Sin embargo, está absolutamente contraindicada la trombólisis. De las alternativas, la E es la",
+        "correcta": true
+      }
+    ],
+    "justificacion": "única aceptable, ya que supone el manejo del SCA. La trombólisis sería correcta, si hubiese habido un SDST o un BCRI.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente de 70 años presenta dolor torácico de 1 hora de evolución, con Sin contestar intensidad 10/10, asociado a sensación de muerte inminente. Al examen físico está Puntúa como taquicárdico e hipertenso y se constata la presencia de un soplo diastólico intenso. 1,00 Se solicita un electrocardiograma, que muestra alteraciones inespecí\u0000cas del segmento ST. La conducta inicial más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar aspirina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar angioTAC",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar trombolisis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar coronariografía",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Asministrar heparina El soplo diastólico intenso, es característico de la disección aórtica, porque el \u0000ap de disección rompe la válvula aórtica. Que no haya signos de isquemia en el EKG hace muy improbable un IAM. Dada la sospecha de disección, se debe pedir un angioTAC de tórax. Una vez con\u0000rmada, se manejará con cirugía urgente, al tratarse de una disección tipo A (al afectar la raíz aórtica y la válvula aórtica). Si estuviera hipertenso, también requeriría antihipertensivos por vía endovenosa (labetalol y/o",
+        "correcta": false
+      }
+    ],
+    "justificacion": "nitroprusiato). La A, C y E están absolutamente contraindicadas (agravan la hemorragia y pueden matar al paciente).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente de 53 años presenta un síncope mientras comía con su familia. Al Sin contestar examen físico presenta bradicardia de 50 lpm, por lo que se solicita un Puntúa como electrocardiograma, que muestra una enfermedad del nodo sinusal. La conducta 1,00 más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar marcapasos",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar amiodarona",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar un Holter de arritmias",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar atenolol Tiene una enfermedad del nodo sinusal (ENS) sintomática, por lo que está indicado el marcapasos. Por el contrario, la ENS asintomática simplemente se observa. Los",
+        "correcta": false
+      }
+    ],
+    "justificacion": "síntomas más frecuentes de la ENS justamente son los síncopes de reposo.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Una paciente de 40 años es diagnosticada de hipertensión arterial, mediante un Sin contestar per\u0000l de presión de 3 tomas, con presiones arteriales cercanas 170/110 mmHg. En Puntúa como sus exámenes generales destacan una creatininemia de 1,3 mg/dl y una 1,00 hipokalemia de 2,8 mEq/l. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hipertensión esencial",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Hipertensión renovascular",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Nefropatía médica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Feocromocitoma",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Hipertensión del delantal blanco Lo más probable es que sea una HTA secundaria, tanto por las PA tan elevadas, como por la edad, como por el K+ alterado, La hipokalemia orienta a HTA renovascular (RV) y a hiperaldosteronismo primario (HAP), sin embargo, la falla renal (creatininemia elevada) es más característica de la HTA RV. La edad joven orienta más a HAP que a HTA RV, aunque puede ser debido a alteraciones",
+        "correcta": false
+      }
+    ],
+    "justificacion": "vasculares congénitas o a la displasia \u0000bromuscular de la arteria renal. (Nota: la displasia \u0000bromuscular es un conjunto heterogéneo de enfermedades que producen estenosis y dilatación de arterias medianas, de causa probablemente genética, aunque con el tabaquismo como factor de riesgo para generar complicaciones. Suele ser más frecuente en mujeres). - No es una nefropatía médica, ya que si bien cursa con elevación de la creatinina, también cursa con hiperK+ (como buena insu\u0000ciencia renal) y suele tener edema. - La HTA del delantal blanco tiene todo estrictamente normal, solo que el paciente se pone muy nervioso al tomarle la PA, lo que eleva sus cifras de PA (se estudia con Holter de PA). - El feocromocitoma se caracteriza por síntomas de tipo paroxístico de palpitaciones, angustia y crisis hipertensivas.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Una paciente de 45 años, dislipidémica, en tratamiento con dieta, acude a control. Sin contestar Presenta glicemia de ayuno de 80 mg/dl, triglicéridos de 325 mg/dl, colesterol HDL Puntúa como de 32 mg/dl y LDL de 90 mg/dl. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Mantener las indicaciones",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar una estatina",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar un \u0000brato",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar orlistat",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar metformina Es una paciente joven, de bajo riesgo cardiovascular, por lo que el objetivo de colesterol LDL es menor a 160 mg/dl, por lo que el colesterol LDL está normal. Los TG sí están elevados (mayor a 150) y el HDL está bajo (menor a 50). Por tanto, en este caso la prioridad serán los TG, ya que a pesar de que estén bajo 500, el LDL está normal. Como ya está en tratamiento con dieta, es momento de iniciar",
+        "correcta": false
+      }
+    ],
+    "justificacion": "fármacos y para los TG, la elección son los \u0000bratos. - Eso sí, no hay evidencia clara sobre la real utilidad de los \u0000bratos en estos casos, en que el LDL está normal y el riesgo cardiovascular es bajo.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un paciente fumador, de 68 años, consulta por dolor en la pantorrilla derecha, que Sin contestar aparece al caminar 2 cuadras y que le obliga a detenerse, cediendo con el reposo. Puntúa como No presenta otros síntomas y el examen físico no aporta mayor información, salvo 1,00 un índice tobillo brazo (ITB) de 0,8. Sus exámenes generales son normales. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Suspender el cigarrillo solicitar angiografía de extremidad inferior",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Suspender el cigarrillo, iniciar aspirina e indicar un programa de ejercicios",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Suspender el cigarrillo, administrar heparina y solicitar angioTAC de EEII",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Suspender el cigarrillo e iniciar anticoagulación con cumarínicos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Suspender el cigarrillo y resolver quirúrgicamente Es una claudicación intermitente, sin signos de isquemia crítica (índice tobillo/brazo menor a 0,5, úlcera arterial o dolor de reposo). Por tanto, debe ser manejada con control de sus factores de riesgo cardiovascular, más un programa de ejercicios, que le permita mejorar su tolerancia al ejercicio (induce la formación de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "colaterales). * Actualmente la prueba más importante en la enfermedad arterial periférica es el simple índice tobillo brazo, que si está menor a 0,9 con\u0000rma el diagnóstico de enfermedad arterial periférica y, si es de 0,4 o menos, es compatible con isquemia crítica, que requiere revascularización. * Los registros de volumen de pulso (PVR), como la pletismografía todavía se pueden usar y no es obligatorio usarlos solo en pacientes con isquemia crítica, ya que también entregan información útil en pacientes con isquemia no crítica, como en este caso. * Por regla general no es necesario realizar una angiografía o un angioTAC en la isquemia crónica, salvo que ya se haya decidido que se resolverá con revascularización quirúrgica, ya que sirve para determinar algunos aspectos prácticos de la cirugía. En cambio, en la isquemia aguda suelen ser muy útiles (a pesar de que la clínica y la revascularización urgente siguen siendo lo más importante). - La heparina y la angiografía serían correctas en una embolia de extremidades inferiores (las 6P). - La ecografía Doppler de EEII es correcta en la TVP.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Un paciente de 50 años, diabético e hipertenso, presenta una \u0000brilación auricular Sin contestar crónica, sin tratamiento. Acude a control y re\u0000ere que ocasionalmente presenta Puntúa como palpitaciones y su frecuencia cardíaca basal es 100 x minuto, irregular. La conducta 1,00 más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar anticoagulación con cumarínicos e iniciar control de frecuencia con atenolol",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar cardioversión eléctrica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar un Holter de arritmias",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar aspirina y control de ritmo con amiodarona",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Solicitar ecocardiograma transesofágico, administrar heparina endovenosa y realizar cardioversión farmacológica en 2 semanas Tiene una FA crónica, en que se debe hacer todo lo siguiente: 1. Elegir entre control de frecuencia (con atenolol, verapamilo o digoxina; esta última con un rango terapéutico muy estrecho) y control de ritmo (con amiodarona: en cardiópatas o propafenona/\u0000ecainamida: en corazón sano). De ser posible lograr el objetivo, actualmente se pre\u0000ere intentar el control de ritmo, aunque sigue siendo aceptable el control de frecuencia (en este caso tiene frecuencia sobre 90, por lo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que como mínimo se debe dar control de frecuencia). 2. Además, se debe elegir entre anticoagular o no hacerlo, según el CHADS2. En este caso es diabético e hipertenso, por lo que tiene 2 puntos del CHADS2, lo que obliga a iniciar anticoagulación, la que se puede hacer tanto con cumarínicos (TACO) como con los nuevos anticoagulantes orales (NACO o DACO, según si se usa la palabra \"nuevos\" o \"directos\"). 3. Tratar las demás patologías. En este caso, se deben indicar hipoglicemiantes, antihipertensivos, eventualmente aspirina si tiene alto riesgo cardiovascular (en los casos en que está anticogulado, se debe ponderar el riesgo de trombosis vs el de hemorragia, antes de mezclar aspirina y anticoagulantes). La alternativa A cumple con lo anterior, al anticoagular e indicar control de frecuencia. También habría sido correcto anticoagular con NACO y dejar control de ritmo. La B sería correcta si estuviera con hemodinamia inestable. La C es correcta en caso de que hubiese una sospecha de FA paroxística, con EKG normales (no es el caso, porque ya se diagnosticó). La D sería correcta si el CHADS 2 hubiese tenido un puntaje menor y alguna otra indicación de aspirina (ej. alto riesgo cardiovascular, que en este caso lo tiene). La E sería parcialmente correcta si fuese una FA aguda (se anticoagula y se pide el EcoTE para decidir si se cardiovierte ahora o en 3 a 4 semanas más).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Un paciente de 46 años presenta aumento de volumen y dolor de la pierna izquierda, Sin contestar de 3 días de evolución. Presenta súbitamente dolor torácico, con tope inspiratorio, Puntúa como asociado a disnea, confusión y presiones arteriales de 60/40 mmHg, que no 1,00 mejoran luego de administrar 1.500 cc de suero \u0000siológico. ¿Qué examen es más adecuado para proseguir con el estudio de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Radiografía de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dímero D",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "AngioTAC de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "AngioRMN de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Ecocardiograma La clínica es muy sugerente de un TEP masivo, ya que tiene el antecedente de clínica de TVP y evoluciona con una clínica compatible con un TEP, pero con hemodinamia inestable que no responde a volumen, lo que lo vuelve masivo. El TEP masivo se estudia con ecocardiografía y se trata con trombólisis urgente. La ecocardiografía muestra hipertensión pulmonar (presión arteria pulmonar mayor a 25 mmHg), con lo que se con\u0000rma el diagnóstico y se pasa directamente a la",
+        "correcta": true
+      }
+    ],
+    "justificacion": "trombólisis. Actualmente no se utiliza casi la angiografía pulmonar. En cambio, el TEP no masivo se estudia con angioTAC de tórax y se trata con anticoagulación (heparina y luego TACO por al menos 6 meses).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente de 21 años consulta por disnea y palpitaciones de 20 minutos de Sin contestar evolución, que iniciaron súbitamente. Previo a esto había tenido otros episodios Puntúa como similares, pero que duraban mucho menos y se detenían también súbitamente. Su 1,00 FC es 176 x' y su presión arterial es 130/90 mmHg. El resto del examen físico no aporta mayor información. Se solicita un electrocardiograma que muestra lo siguiente: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fibrilación auricular",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Flutter auricular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Taquicardia paroxística supraventricular",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Taquicardia ventricular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Taquicardia sinusal El EKG muestra una taquicardia regular con QRS angosto. Además, no se ve la onda",
+        "correcta": false
+      }
+    ],
+    "justificacion": "P. Por tanto es una TPSV. La FA sería irregular, con QRS angosto y sin onda P. El \u0000utter auricular podría verse también como una taquiarritmia con QRS angosto, pero tendría ondas P de serrucho. La TV tendría QRS ancho. La taquicardia sinusal, obligatoriamente tiene onda P.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un recién nacido de 30 días de vida, ha tenido un mal incremento ponderal y Sin contestar pareciera fatigarse al mamar. Al examen físico tiene crépitos pulmonares y se Puntúa como ausculta un soplo continuo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Tetralogía de Fallot",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Coartación aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Comunicación interauricular",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Comunicación interventricular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Ductus arterioso persistente Es un DAP clásico: con el soplo continuo (también llamado sistodiastólico o en",
+        "correcta": false
+      }
+    ],
+    "justificacion": "maquinaria). La tetralogía de Fallot tiene cianosis que no responde a O2 al 100%. La coartación aórtica tiene disminución de los pulsos pedios, más un soplo eyectivo. La CIA tiene un soplo eyectivo, más desdoblamiento del segundo ruido. La CIV tiene un soplo holosistólico. Nota: CIA y CIV pequeños pueden ser asintomáticos y/o tener una auscultación cardíaca normal.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "La asociación de disnea de esfuerzo, ortopnea, disnea paroxística nocturna, Sin contestar cardiomegalia, soplo diastólico y danza arterial es característica de: Puntúa como 1",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Estenosis aórtica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Insu\u0000ciencia aórtica",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Miocardiopatía dilatada",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Insu\u0000ciencia mitral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Estenosis mitral",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una insu\u0000ciencia aórtica clásica (ver resumen de semiología cardíaca).",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente de 68 años, hipertenso, presenta angina de pecho, que aparece al Sin contestar caminar dos cuadras y que cede con el reposo. Su examen físico es normal, al igual Puntúa como 1 que su electrocardiograma. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar troponinas plasmáticas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar test de esfuerzo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar ecocardiograma",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar radiografía de tórax",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Realizar angioplastia La angina crónica se diagnostica con la clínica y se estudia con test de esfuerzo,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "para determinar el pronóstico y la necesidad de revascularización. Luego, se suele hacer una coronariografía para determinar la vía de revascularización (angioplastía si hay enfermedad de 1 o 2 vasos; o by-pass coronario, si hay enfermedad de 3 vasos, de 2 vasos con compromiso de la arteria descendente anterior o en zonas en que no se puede instalar un stent: tronco coronaria izquierda, ostium). El test de esfuerzo convencional suele tener mejor rendimiento, por lo que suele ser de elección (caminata más electrocardiograma de 12 derivaciones). Sin embargo, en algunos casos (BCRI, amputado, paciente que no tolera el ejercicio), se puede reemplazar por imágenes de esfuerzo, como la ecocardiografía-dobutamina o la cintigrafía miocárdica con talio y dipiridamol.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente de 70 años, hipertenso, se realiza una ecografía abdominal, como parte Sin contestar de un cuadro de constipación, que muestra un aneurisma de la aorta abdominal de Puntúa como 1 7 cm de diámetro. No ha presentado dolor abdominal y el resto de su examen físico es normal. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Derivar a cirugía vascular para resolución a la brevedad",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar uso de faja y controlar con ecografías periódicas",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar anticoagulación con heparina y mejorar el control de sus factores de riesgo cardiovascular",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar aspirina y mejorar el control de sus factores de riesgo cardiovascular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Asegurar un adecuado control de la presión arterial y de los otros factores de riesgo cardiovascular y observar evolución Los aneurismas de la aorta abdominal mayores a 5 cm son de resolución",
+        "correcta": false
+      }
+    ],
+    "justificacion": "quirúrgica.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente de 65 años, cursando un IAM de pared inferior de 3 horas de evolución, Sin contestar presenta deterioro del estado circulatorio y se objetiva que presenta una frecuencia Puntúa como 1 cardíaca de 30 lpm. La primera medida a realizar es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar adenosina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar lidocaína",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Administrar un digitálico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar atropina",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar adrenalina La primera medida en un paciente con bradicardia, cursando un infarto, es administrar atropina. Si no responde, o si la clínica no orienta a una descarga vagal,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "se debe instalar un marcapasos transitorio. Lo mismo aplica a otras causas de bloqueo aurículo-ventricular con hemodinamia inestable: primero atropina y si no responde, marcapasos externo transitorio. La decisión de dejar un marcapasos de\u0000nitivo depende de si la causa de la bradicardia es identi\u0000cada y tratada (en este caso, la isquemia puede ser reversible y evitarse el uso de marcapasos de\u0000nitivo). Si la causa es irreversible (ej. degenerativa), se indica marcapasos de\u0000nitivo en el BAV de tercer grado, en el de segundo grado Mobitz II y en el trifasicular. El de segundo grado Mobitz I y la enfermedad del nodo sinusal rara vez lo requieren, estando indicado solo si son sintomáticos (ej. síncopes por bradicardia).",
+    "archivo_origen": "6.txt"
+  }
+]

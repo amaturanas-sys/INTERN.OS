@@ -1,0 +1,3962 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "Un paciente presenta una placa eritematosa de larga evolución en el tobillo derecho, Sin contestar que es muy pruriginosa. Al examen físico se aprecian signos de rasquido, con Puntúa como engrosamiento de la piel y liqueni\u0000cación. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Liquen plano",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Liquen simple crónico (neurodermatitis)",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Eccema numular",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Psoriasis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Dermatitis de contacto Es un liquen simple crónico clásico: placa liqueni\u0000cada y pruriginosa, secundaria a",
+        "correcta": false
+      }
+    ],
+    "justificacion": "rascarse. Los tobillos son sitios clásicos, ya que se rascan con el otro pie. El liquen plano también puede estar en los tobillos (suele estarlo), pero son pápulas pruriginosas. El eccema numular se caracteriza por lesiones redondeadas (como monedas) y se asoacia a atopía.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente de 69 años presenta una lesión hiperqueratósica, irregular en la oreja Sin contestar izquierda, que en ocasiones sangra. Apareció hace 2 años y actualmente Puntúa como compromete gran parte del hélix. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Carcinoma basocelular",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Carcinoma espinocelular",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Dermatitis seborreica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Queratosis actínica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Queratosis seborreica",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tanto por la evolución, como porque sangra, lo más probable es que sea un cáncer. Además, está en una zona fotoexpuesta. Al describirse como hiperqueratósica, hace que lo más probable sea una cáncer espinocelular (también por la ulceración).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente de 44 años es diagnosticado de epilepsia, por lo que inicia tratamiento Sin contestar anticonvulsivante. Una semana después inicia con aparición de lesiones cutáneas Puntúa como generalizadas, dolorosas, que consisten en bulas con contenido hemorrágico, que 1,00 se rompen, dejando grandes zonas expuestas. La piel sana se desprende al traccionarla, ejerciendo una presión moderada. El diagnóstico es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Exantema multiforme menor",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome de Steven Johnson",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Necrosis epidérmica tóxica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome de piel escaldada",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Pen\u0000goide ampolloso Es una necrosis epidermolítica tóxica clásica, con el signo de Nikolsky (se desprende la epidermis). Es muy grave y se debe tratar en UCI, con ciclosporina, corticoides sistémicos, inmunoglobulina endovenosa (la inmunoglobulina no tiene mucha evidencia, eso sí), más el manejo de las lesiones cutáneas, oculares y de la vía aérea, indicando antibióticos ante la aparición de algún signo de infección (la primera causa de muerte es la sepsis). Eso sí, lo más importante para lograr la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "recuperación es suspender el fármaco que la desencadena. - El eritema multiforme menor y el síndrome de Steven Johnson sí pueden desencadenarse por los anticonvulsivantes, pero no tienen Nikolsky. El síndrome de Steven Johnson tiene un continuo con la NET, solo que menos severa. El manejo es similar, pero de mejor pronóstico. - El síndrome de piel escaldada y el pén\u0000go sí lo tiene, pero la piel escaldada afecta a niños y no tiene relación con los fármacos y el pén\u0000go es una enfermedad crónica, habitualmente sin relación a los fármacos (aunque sí existe todo tipo de reacciones cutáneas a fármacos, incluyendo el pén\u0000go y pen\u0000goide por fármacos).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Una paciente consulta por aparición recurrente de placas eritematosas, en las Sin contestar manos, el tronco y la cabeza, indoloras, de 1-2 cm de diámetro, que aumentan al Puntúa como exponerse al sol y que al desaparecer dejan cicatrices levemente deprimidas y 1,00 áreas de alopecia permanente en el cuero cabelludo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Tiña",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Lupus discoide",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Síndrome de Sweet",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dermatitis seborreica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Psoriasis Es un lupus discoide clásico: placas eritematosas que dejan cicatriz, en zonas fotoexpuestas. Dejan cicatriz, por afectar la dermis, por tanto, cuando se afecta el cuero cabelludo, puede dejar zonas de alopecia cicatricial permanente. Si bien se suele dar de manera aislada, también se puede dar en contexto de un lupus",
+        "correcta": false
+      }
+    ],
+    "justificacion": "eritematoso sistémico (LES) y, de hecho, es un criterio de LES. - El síndrome de Sweet es una reacción cutánea que se da en contexto de una leucemia mieloide aguda, o como reacción a fármacos o a algunas infecciones y se caracteriza por \u0000ebre, neutro\u0000lia y placas eritematosas dolorosas (su otro nombre es “erupción neutrofílica febril\").",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un paciente de 18 años presenta placas levemente eritematosas, con descamación Sin contestar suave en el tronco, de 5 días de evolución, sin otros síntomas. El diagnóstico más Puntúa como probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Psoriasis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dermatitis seborreica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Psoriasis guttata",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Pitiriasis versicolor",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Pitiriasis rosada Es una pitiriasis rosada clásica: lesiones eritematodescamativas limitadas al tronco. Pueden ser pruriginosas o asintomáticas. Generalmente no requiere ningún tipo de tratamiento, ya que suele desaparecer espontáneamente en un lapso de 2 a 3 meses. Así que, se debe educar al paciente sobre ello. En los casos muy severos, se pueden indicar corticoides tópicos y algunos indican aciclovir, ya que se cree que es causada por virus herpes 7 o 6, aunque la evidencia sobre su etiología y el rol de",
+        "correcta": true
+      }
+    ],
+    "justificacion": "los antivirales es escasa (quedarse con la idea de que no requiere tratamiento). - La psoriasis se localiza en zonas extensoras y cuero cabelludo, sobrepasando la línea del pelo. - La dermatitis seborreica se localiza en cejas, nariz y cuero caberrudo, respetando la línea del pelo. - La psoriasis guttata se localiza en todo el cuerpo, respetando las palpas y plantas y tiene lesiones similares a gotas (en su tamaño). - La pitiriasis versicolor sí se localiza en el tronco, pero son lesiones hipopigmentadas.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente presenta máculas hipopigmentadas en la espalda, especialmente en la Sin contestar zona central. No ha tenido otros síntomas y presenta leve descamación al raspar la Puntúa como lesión con una pinza. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Micosis fungoide",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tiña corporis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Pitiriasis versicolor",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Vitíligo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Pitiriasis alba Es una pitiriasis versicolor clásica: máculas hipopigmentadas en pecho y espalda, con signo del uñetazo (descaman al rasparlas). El tratamiento suele ser con antimicóticos tópicos (champú de ketoconazol o terbina\u0000na tópica). En los casos severos o refractarios se usan antimicóticos orales (\u0000uconazol o itraconazol son de elección). Las recurrencias son frecuentes, por lo que es importante educar en evitar el sudor y bañarse después de hacer ejercicio e, incluso, se puede indicar",
+        "correcta": false
+      }
+    ],
+    "justificacion": "champú de ketoconazol una vez al mes, como pro\u0000laxis. - La micosis fungoide es un linfoma cutáneo crónico, que inicia como máculas hiperpigmentadas o eritematosas, evoluciona a placas y luego a tumores, en un tiempo de años. - El vitíligo son máculas acrómicas en cara, extremidades, genitales y axilas y luego se pueden extender a otros lugares. - La pitiriasis alba también tienen máculas hipoogmentadas y sí puede descamar, pero se localiza en la cara y en los hombros y se asocia atopía.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un niño presenta dermatitis atópica. La medida más importante para el tratamiento Sin contestar crónico de este paciente es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Antihistamínicos orales",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Protector solar",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Crema humectante",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Corticoides tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Inhibidores de los leucotrienos orales",
+        "correcta": false
+      }
+    ],
+    "justificacion": "La humectación y el uso de emolientes es la medida más importante para la atopía. Si está muy activa, se pueden indicar corticoides tópicos. Los inhibidores de la calcineurina (ej. tacrolimus) se pueden usar y, de hecho se pre\u0000eren antes que los corticoides en pliegues y zonas en que se puede atro\u0000ar la piel. De última línea, están los biológicos (dupilumab, por ejemplo, que es un anticuerpo contra el IL-4). También debe recibir bloqueador solar, como todos, pero la crema humectante es lo principal.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un niño presenta una mácula congénita, eritematosa, de bordes de\u0000nidos, que Sin contestar compromete la frente y la región periocular derecha. No tiene otros síntomas. El Puntúa como diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Nevus \u0000ammeus",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Mancha salmón",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Nevo de Ota",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Erisipela",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Celulitis Como está solo en un lado de la cara, es un nevus \u0000ammeus. La mancha salmón está en la línea media. El nevo de Ota es azul, pero sí está en la mitad de la cara. La erisipela sí tiene bordes nítidos, pero no es congénita. La celulitis tampoco es",
+        "correcta": false
+      }
+    ],
+    "justificacion": "congénita y tiene bordes difusos.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente de 56 años presenta pápulas y pústulas que comprometen la cara. Sin contestar Además presenta eritema y descamación de los párpados y ha presentado varios Puntúa como chalaziones en el último tiempo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lupus discoide",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Lupus eritematoso sistémico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Acné",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Rosácea",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Dermatitis atópica Es una rosácea clásica (pápulas y pústulas sobre una base eritematosa en la cara, sin comedones), con el compromiso ocular clásico (hace blefaritis, chalaziones y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "queratitis). El manejo incluye: 1. evitar los desencadenantes de eritema (ej. comidas, cambios de temperatura, alcohol) y usar bloqueador solar, 2. Manejo del eritema con vasoconstrictores tópicos (actualmente se usa la brimonidina), 3. para las telangiectasias, se puede usar tratamiento láser, 4. Para las pústulas y pápulas, se recomienda el metronidazol tópico (no se sabe bien cómo funciona) o la doxiciclina oral. 5. Los casos severos, se tratan con isotretinoína o láser.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente asintomático, se realiza varios exámenes, entre los que destacan Elisa Sin contestar VIH negativo y VDRL positivo, solicitados puesto que había tenido relaciones Puntúa como sexuales sin protección. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar RPR",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Repetir el VDRL",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar MHA-TP (microhemaglutinación para Treponema pallidum)",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar penicilina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar penicilina benzatina intramuscular Tiene un VDRL positivo, por lo que se debe con\u0000rmar con una prueba treponémica,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "como el MHA TP o el FTA ABS. - En los pacientes que ya tuvieron sí\u0000lis y fueron tratados con éxito (con normalización del VDRL), se trata directamente toda nueva elevación del VDRL, sin necesidad de con\u0000rmar con pruebas treponémicas, ya que resultan siempre alteradas. - Solo en los pacientes con clínica de sí\u0000lis primaria, se trata de inmediato, ya que los exámenes suelene estar negativos al inicio (igual se piden y se sigue con ellos). - En los pacientes con clínica de sí\u0000lis secundaria, embarazadas, sí se pide la prueba treponémica, pero se trata antes de tener el resultado. - El RPR puede usarse en lugar del VDRL, pero si uno de ellos está positivo, no es necesario pedir el otro, ya que son pruebas equivalentes.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un paciente de 60 años presenta una lesión en la espalda de 0,8 cm de diámetro, Sin contestar hiperpigmentada, de color heterogéneo y bordes irregulares. El diagnóstico más Puntúa como probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Nevo atípico",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Nevo melanocítico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Nevo de Ito",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Nevo de spilus",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Nevo de Sutton Tiene varios signos de alarma: borde irregular, color heterogéneo y diámetro mayor a 6mm. Por tanto es nevo atípico, que debe resecarse y enviar a biopsia, para descartar un melanoma. La ubicación más frecuente de melanoma en hombres es la espalda y en mujeres, en las piernas, aunque realmente puede ocurrir en cualquier lugar, siendo más frecuente en las zonas que se han expuesto al sol y sufrido",
+        "correcta": false
+      }
+    ],
+    "justificacion": "quemaduras solares.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un paciente presenta eritema, pápulas y vesículas ubicadas en la cara, cuello y Sin contestar manos, asociadas a ardor, que aparecieron hace un día, luego de haber participado Puntúa como en una excursión al cerro. Algunos de sus acompañantes manifestaron síntomas 1,00 similares. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dermatitis de contacto",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Prúrigo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Reacción fototóxica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Reacción fotoalérgica",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Quemadura Es una clásica reacción fotoalérgica al litre, también llamada \u0000tofotodermatosis. El litre es un árbol que está ubicado en los cerros de la zona central de Chile. Es bastante común y, lamentablemente es muy similar a otros árboles del bosque escleró\u0000lo, típico de la zona central de Chile. Por esa razón, la recomendación es siempre usar bloqueador solar al hacer trekking y evitar el contacto de la piel con los árboles. De todos modos, les dejamos algunas imágenes para que lo conozcan:",
+        "correcta": false
+      }
+    ],
+    "justificacion": "No hay ninguna descripción de la foto disponible. Fuente imágenes: Fundación Reforestemos y Nativos de Cantillana.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un niño de 6 años presenta prurito generalizado, de 2 semanas de evolución, que ha Sin contestar ido en aumento. Al examen físico se aprecia pápulas, costras y signos de rasquido Puntúa como en el abdomen, el área genital, las axilas y en las zonas interdigitales. El diagnóstico 1,00 más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dermatitis herpetiforme",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dermatitis de contacto alérgica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Dermatitis atópica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Escabiosis",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Hidrosadenitis Es una sarna o escabiosis clásica, con tendencia a ubicarse en pliegues, abdomen y zona interdigital. El diagnóstico suele ser clínico, pero se sugiere con\u0000rmarlo con un ácaro test. El tratamiento de elección es con permetrina tópica al 5%, siendo una alternativa la ivermectina oral. En los casos en que se forma una costra (sarna noruega) se pre\u0000ere el uso combinado de ambos fármacos. La vaselina azufrada al 6% se ha recomendado en niños menores de 2-3 meses y en embarazadas y mujeres dando lactancia (así lo dice la guía ministerial que es antigua), pero la verdad es que la evidencia muestra que la permetrina es bastante segura en estos grupos y se puede dar sin problemas, siendo incluso recomendada como",
+        "correcta": false
+      }
+    ],
+    "justificacion": "tratamiento de primera línea, por varias guías internacionales. - La dermatitis herpetiforme se caracteriza por vesículas pruriginosas en las zonas extensoras. - La dermatitis atópica se ubica en pliegues cubitales y poplíteos. - La hidrosadenitis se caracteriza por nódulos y abscesos en las axilas (obstrucción e infección de las glándulas apocrinas).",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente se entierra una espina en la maño izquierda, evolucionado dos días Sin contestar después con eritema, aumento de volumen y dolor en la mano, asociado a \u0000ebre Puntúa como hasta 38,5°C. Al examen se aprecia zona eritematosa de 6 cm de diámetro, con 1,00 bordes poco claros, sin exudado. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Fasceítis necrotizante",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Celulitis",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Erisipela",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Ectima",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Impétigo Como los bordes son poco claros (difusos), lo más probable es que sea una celulitis. La erisipela tiene bordes claros o nítidos. La fasceítis necrotizante tiene",
+        "correcta": false
+      }
+    ],
+    "justificacion": "aspecto necrótico (áreas violáceas o negruzcas). Se trata con cloxacilina o cefalosporinas (clindamicina en alérgicos). Eso sí, si se sospecha SAMR (ej. hospitalización reciente) o si está grave (séptico), actualmente se recomienda dejar directamente vancomicina u otro fármaco, que cubra SAMR. - Si el paciente está bien y tiene una lesión pequeña, se puede indicar tratamiento oral. - Si, en cambio, está séptico, febril y decaído o con lesión de gran tamaño, se debe iniciar endovenoso. Si hubiese tenido bordes claramente de\u0000nidos, sería una erisipela, que es causada por Streptococcus pyogenes (Grupo A), el que se trata de elección con penicilina G endovenosa. En alérgicos, de elección serán las cefalosporinas o, si están contraindicadas (ej. alergia a la penicilina mediada por IgE o severa), se usa la clindamicina. A modo de resumen y recordatorio: ¿Cómo matar a un Streptococcus pyogenes? Penicilina, amoxicilina, cloxacilina, \u0000ucloxacilina, cefalosporinas, clindamicina. ¿Cómo matar a un Staphilococcus aureus meticilino sensible? Cloxacilina, \u0000ucloxacilina, cefalosporinas, clindamicina. ¿Cómo matar a un Staphilococcus aureus meticilino resistente? Oral: Cotrimoxazol + rifampicina; Endovenoso: vancomicina, linezolid, daptomicina.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un paciente de 68 años presenta lesiones hiperpigmentadas en la frente, pómulos y Sin contestar tronco, caracterizadas por papulas hiperqueratósicas, de color café y bordes bien Puntúa como delimitados, con super\u0000cie untuosa, suave al tacto, con algunas pequeñas \u0000suras. 1,00 El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Nevo melanocítico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Melanoma",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Léntigo solar",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Queratosis seborreica",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Queratosis actínica Son queratosis seborreicas clásicas: lesiones rugosas e hiperpigmentadas, suaves",
+        "correcta": false
+      }
+    ],
+    "justificacion": "al tacto. Los nevos, léntigos y melanoma suelen ser máculas y no son hiperqueratósicos. Las queratosis actínicas son eritemasosas y descamativa sy no son hiperpigmentadas. Además son ásperas al tacto.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un paciente nota aparición de una pequeña lesión en el surco balanoprepucial, que Sin contestar no duele ni presenta prurito. Ha crecido lentamente en los últimos 3 meses, Puntúa como presentándose como una lesión polipoidea de cerca de 5mm de diámetro. El agente 1,00 etiológico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Virus herpes simplex",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Treponema pallidum",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Virus papiloma humano",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Chlamydia trachomatis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Pox virus Es un condiloma acuminado clásico, que es causado por el virus papiloma humano,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "serotipos 6 y 11.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Un paciente de 22 años presenta desde hace 5 días, aparición de una lesión Sin contestar eritematosa muy pruriginosa en la cara latero-dorsal de los dedos pulgar, índice y Puntúa como medio derecho, con múltiples vesículas tensas, muy pruriginosas. El diagnóstico 1,00 más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dermatitis de contacto alérgica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Liquen simple",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Liquen plano",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Eccema dishidrótico",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Dermatitis atópica Es un eccema dishidrótico o pónfolix o dishidrosis clásica: vesículas tendas y pruriginosas, sobre base eritematosa, en manos y pies (se asocian a alergia y a infección por hongos). El tratamiento suele ser con corticoides tópicos, durante los brotes y, si es muy intenso, se puede dar prednisona oral. Además, es muy frecuente que se identi\u0000quen desencadenantes claros, como contactantes (ej. detergente), los",
+        "correcta": false
+      }
+    ],
+    "justificacion": "cuales hay que evitar. - La dermatitis de contacto alérgica puede verse igual, pero suele ser sin vesículas y ubicarse en las zonas de contacto con el alérgeno. - El liquen simple es una placa eritematosa, pruriginosa y liqueni\u0000cada (demarcación del dibujo cutáneo), sin vesículas.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "La lesión elemental de la urticaria es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Roncha",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Pápula",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Mácula",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Nódulo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Vesícula La urticaria se presenta como ronchas o pseudopápulas, que cuando son muy grandes evolucionan a habones y en casos más graves, también puede haber",
+        "correcta": false
+      }
+    ],
+    "justificacion": "angioedema y shock ana\u0000láctico.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente de 12 años presenta una zona de alopecia en el cuero cabelludo, Sin contestar caracterizado por una placa eritematosa, con descamación, levemente pruriginosa, Puntúa como observándose algunos cabellos quebrados. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar antimicóticos tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar corticoides tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar antimicóticos orales",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar antibióticos tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución Es una tiña capitis clásica: placa alopécica en el cuero cabelludo, con signos in\u0000amatorios, descamación y pelos quebrados (a diferencia de la alopecia areata",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que no tiene pelos ni signos in\u0000amatorios). La griseofulvina oral es el tratamiento de elección para la tiña capitis, causada por el Microsporum canis. Es mejor que la terbina\u0000na para el microsporum. Es importante que el tratamiento debe ser oral, a diferencia de algunas otras tiñas. En el caso de la tiña tricofítica (menos frecuente), se puede usar tanto la griseofulvina como la terbina\u0000na (esta última será una opción aceptable si es que se con\u0000rma que el agente es un Trichophyton.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un hombre de 23 años consulta porque luego de afeitarse, evoluciona con múltiples Sin contestar pústulas en la mejilla derecha, que luego se hacen con\u0000uente, dando origen a una Puntúa como masa de 5 cm, \u0000uctuante, eritematosa, con varias pústulas en su super\u0000cie. El 1,00 agente etiológico es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Propionibacterium acnes",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Pseudomona aureginosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Streptococcus pyogenes",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Anaerobios",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Staphilococcus aureus Es una foliculitis aguda, que evoluciona a un ántrax cutáneo. Ambas son causadas",
+        "correcta": false
+      }
+    ],
+    "justificacion": "por el S. aureus. El tratamiento de las foliculitis leves puede ser la observación o la aplicación de antibióticos tópicos (mupirocina o clindamicina), pero, cuando es muy extensa o no mejora, se trata con antibióticos que cubran S. aureus meticilino sensible (ej. cloxacilina, cefadroxilo). Sin embargo, cuando evoluciona a un antrax, es necesario drenarlo quirúrgicamente y dar tratamiento antibiótico endovenoso.",
+    "archivo_origen": "1.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 70 años consulta por una lesión negra en la cara, que ha crecido en el último tiempo. Re\u0000ere que Sin contestar apareció hace 4 años, como una pequeña mácula muy oscura, en la mejilla izquierda, pero que ha ido creciendo Puntúa como poco a poco. Actualmente se aprecia como una mácula hiperpigmentada, de color irregular, de 2 cm de diámetro. 1,00 El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Melanoma acral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Melanoma léntigo maligno",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Léntigo solar",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Queratosis seborreica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Carcinoma basocelular",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es un léntigo maligno clásico: mácula hiperpigmentada de lento crecimiento, grande e irregular. El lugar más frecuente es en la cara y debe ser extirpado, ya que es un melanoma. Generalmente demora muchos años en profundizar, por lo que suele tener buen pronóstico. Sin embargo entre un 5% y un 20% evoluciona a melanoma invasivo, por lo que se recomienda extirparlos desde el diagnóstico. - Los melanomas acrales son los melanomas ubicados en zonas acrales (manos y pies), por lo que toda lesión hiperpigmentada en dichas zonas, debe ser evaluada por un dermatólogo. Imagen de ejemplo (fuente: https://www.pcds.org.uk/clinical-guidance/lentigo-maligna-melanoma-and-lentigo- maligna):",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente de 30 años presenta lesiones muy pruriginosas en las muñecas y en los tobillos, consistentes en Sin contestar pequeñas pápulas eritemato-violáceas, recidivantes. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Eccema dishidrótico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Eccema numular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Dermatitis atópica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Liquen escleroso",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Liquen plano",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Es un liquen plano clásico, caracterizado por pápulas pruriginosas, en muñecas y tobillos, las que se describen como pápulas pequeñas, pruriginosas, poligonales, púrpuras y prillantes (brillantes). Algunas imágenes de referencia: Liquen Plano, Síntomas, Causas y Tratamiento - Dr. Gabriel Serrano Fuente: https://drgabrielserrano.com/ Fuente: https://www.institutimipo.com Fuente: http://cdeermard.com",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "¿Cuál de los siguientes es un tratamiento adecuado para un paciente con gonorrea?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Penicilina benzatina intramuscular en una dosis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ceftriaxona intramuscular en una dosis",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Clindamicina oral por 10 días",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Doxiciclina oral por 10 días",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Metronidazol oral en una dosis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "El tratamiento de elección para la gonorrea es la ceftriaxona 250 mg IM por una vez (algunas recomendaciones internacionales pre\u0000eren 500 mg). - Como alternativa, se puede usar la azitromicina 2g oral, por una vez; el cipro\u0000oxacino 500 mg oral por una vez; y la ce\u0000xima 800 mg oral, por una vez (cefalosporina de tercera generación oral). No sirven las cefalosporinas de primera y segunda generaciones. * Además, se debe dejar cobertura para Chlamydia trachomatis con doxiciclina 100 mg c/12 horas por 7-10 días o con azitromicina 1g vo por una vez. La coinfección es frecuente y la primera causa de falta de respuesta no es la resistencia, sino, precisamente, la coinfección con clamidia, que no se trata adecuadamente.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un niño presenta lesiones costrosas en la zona perioral e infranasal, que aprecieron hace 24 horas. Al examen se Sin contestar aprecia eritema y costras claras en las zonas descritas. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de Steven Johnson",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Impétigo",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Escarlatina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Ectima",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Dermatitis de contacto",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es un impétigo clásico, con las costras mielicéricas características. Se puede tratar con antibióticos orales o tópicos. Además, se suele \"descostrar\" con un paño húmedo, de manera cuidadosa. Se pre\u0000eren los orales cuando son lesiones muy extensas o cuando no responde al tratamiento tópico. Por ser una patología generalmente leve, no es necesario cubrir SAMR, a menos que no responda y se aísle dicho patógeno. Tratamiento tópico: mupirocina o furazolidona. Tratamiento oral: cefadroxilo, \u0000ucloxacilina, cloxacilina e incluso amoxicilina + ácido clavulánico. Si es por SAMR: clindamicina o cotrimoxazol oral.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Una mujer de 23 años consulta por lesiones cutáneas de algunos días de evolución, que no presentan dolor ni Sin contestar prurito. Al examen físico se observan múltiples placas de 5-20 mm de diámetro, ubicadas en el tronco, de color Puntúa como levemente eritematoso, con una \u0000na descamación. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Sí\u0000lis secundaria",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Psoriasis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Pitiriasis versicolor",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Lupus discoide",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Pitiriasis rosada de Gibert",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Es una pitiriasis rosada clásica: lesiones eritematodescamativas en tronco y zona proximal de las extremidades, de color rosadas. Suele ser autolimitada, resolviéndose en 2 a 3 meses y no requiere tratamiento. Algunos ejemplos de imagen: Fuente: https://www.ryzdermatech.com/ Fuente: https://semanario\u0000des.com/2014/01/24/pitiriasis-rosada/ - La sí\u0000lis secundaria afecta todo el cuerpo, incluyendo palmas y plantas. - La psoriasis afecta zonas extensoras y cuero cabelludo. La pitiriasis versicolor tiene máculas hipopigmentadas en pecho y espalda. El lupus discoide tiene placas eritamodescamativas en zonas fotoexpuestas y deja cicatriz (y alopecia cicatricial de\u0000nitiva).",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente de 69 años presenta una lesión de 1 cm de diámetro en la nariz, con borde levantado y brillante y una Sin contestar ulceración central. No duele ni presenta otros síntomas. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Aplicar nitrógeno líquido",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Aplicar corticoides tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar biopsia por punción",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Resecar quirúrgicamente y enviar a estudio anatomopatológico",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Es un carcinoma basocelular clásico, por lo que debe ser removido y enviado a biopsia. Imagen referencial: Fuente: https://www.tuasaude.com/es/carcinoma-basocelular/",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Una paciente de 25 años presenta \u0000ebre intermitente, asociado a eritema y lesiones papulares en el dorso nasal y Sin contestar ambas mejillas, respetando el surco nasogeniano. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dermatomiositis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Rosácea",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Acné",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Lupus sistémico",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Lupus cutáneo subagudo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es un lupus eritematoso sistémico clásico, con la “mariposa lúpica” descrita.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente presenta una placa eritematosa de 15 cm de diámetro mayor en la pierna izquierda, con bordes Sin contestar difíciles de de\u0000nir. Sus signos vitales son normales. El tratamiento más adecuado es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cloxacilina endovenosa",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Penicilina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Vancomicina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Clindamicina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cefadroxilo oral",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una celulitis clásica, ya que tiene bordes difusos. Se debe cubrir esta\u0000lococo aureus. En los casos graves o con factores de reisgo, actualmente se recomienda cubrir de entrada al SAMR (si hipotenso, taquicárdico, \u0000ebre alta, lesiones abscedadas, rápida progresión, paciente recientemente hospitalizado o con uso reciente de fármacos antiesta\u0000locócicos, inmunodeprimidos, etc.). Suele tratarse por vía endovenosa, con cloxacilina o cefazolina (clindamicina en alérgicos). Solo cuando lleva la menos 2 días afebril, bajo antibióticos y la lesión va en retroceso, se puede cambiar el tratamiento a vía oral, con cefadroxilo, \u0000ucloxacilina o cloxacilina. Si se debe cubrir SAMR, se indica vancomicina endovenosa.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un niño presenta una lesión eritematosa congénita en el labio inferior, solevantada, de aspecto vascular, que crece Sin contestar lentamente, a la misma velocidad que el niño. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hemangioma",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Higroma quístico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Mancha salmón",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Nevus \u0000ameus",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Malformación vascular",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Que crezca a la par con el niño es característico de una malformación vascular (además suelen estar presentes desde el nacimiento). Los hemangiomas, en cambio, suelen crecer muy rápido y luego tienden a involucionar. El higroma quístico es una masa cervical grande y congénita, sugerente de genopatías.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente de 28 años presenta pápulas pruriginosas que suelen aparecer en las fosas poplíteas. Tiene Sin contestar tendencia a la sequedad de la piel y se aprecia queratosis pilar. Además se aprecian sus labios partidos. El Puntúa como diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dermatitis herpetiforme",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Psoriasis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Dermatitis atópica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Liquen plano",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Liquen simple crónico",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una dermatitis atópica clásica, tanto por los signos de atopía (sequedad de la piel, queratosis pilar y labios partidos), como por la ubicación clásica de las lesiones: fosas poplíteas y pliegues cubitales. En niños es muy frecuente el compromiso de mejillas y del cuello. Fuente: https://www.mayoclinic.org/",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un hombre de 25 años consulta por “hongos en los pies”. Al examen físico se aprecia hiperqueratosis y Sin contestar descamación de la piel interortejo y algunas zonas de la planta, sin compromiso ungueal. La conducta más Puntúa como adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar griseofulvina oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar terbina\u0000na tópica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar \u0000uconazol oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar itraconazol endovenoso",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una tiña pedis, que suele ser por Trichophytom rubrum, por lo que se trata con antimicóticos tópicos. De elección la terbina\u0000na, aunque puede servir el clotrimazol. - Si hubiese tenido compromiso ungueal (onicomicosis), el tratamiento tendría que haber sido oral, también con terbina\u0000na.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Una paciente presenta una placa hiperpigmentada y liqueni\u0000cada, de 6 cm de diámetro, usualmente pruriginosa, Sin contestar no dolorosa, ubicada en la zona infraumbilical, de varias semanas de evolución, que en ocasiones disminuye de Puntúa como tamaño, pero luego vuelve a crecer. Además se aprecian sus dedos agrietados. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dermatomiositis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Esclerodermia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Liquen simple crónico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Liquen plano",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Dermatitis de contacto alérgica",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Solo por la ubicación, es posible sospechar una dermatitis de contacto alérgica. En el ombligo, por alergia al níquel (del botón del pantalón o de la hebilla del cinturón). En los dedos, por el lavalozas u otro producto de limpieza. La dermatomiositis tiene rash en párpados (heliotropo), en tronco (en manto) y en nudillos (Gottron). La esclerodermia tiene esclerosis de dedos, fenómeno de Raynaud, disfagia y telangiectasias faciales, con fascies de pájaro. El liquen simple crónico puede verse como una placa pruriginosa u liqueni\u0000cada y puede estar hiperpigmentada, pero la ubicación suele ser una zona de rasquido (tobillos, cuello, espalda y brazos). El liquen plano son pápulas en tobillos y muñecas.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Una paciente de 65 años presenta lesiones ampollosas, recidivantes, que aparecen en el abdomen y en la cara Sin contestar \u0000exora de las extremidades. Re\u0000ere que son pruriginosas y que no dejan cicatriz. Al examen físico se aprecian Puntúa como bulas tensas, difíciles de romper, en las zonas descritas, con compromiso de la mucosa oral. El diagnóstico más 1,00 probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Por\u0000ria",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Epidermolisis bulosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Síndrome de piel escaldada",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Pén\u0000go vulgar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Pen\u0000goide ampolloso",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Todas las enfermedades de las opciones producen ampollas. El pen\u0000goide se caracteriza por ampollas tensas, difíciles de romper y compromiso frecuente de mucosas. Esto se debe a que los anticuerpos atacan la lámina basal, pero los queratinocitos se mantienen unidos, como una capa fuerte de epidermis. - La por\u0000ria tiene hipertricosis de las cejas y ampollas en la cara. - La epidemolisis bulosa afecta a niños (por ser congénita): “niños con piel de cristal” y tiene síntomas similares al pén\u0000goide. - La piel escaldada también afecta a niños, tiene Nikolsjy (+) y tiene ampollas \u0000ácidas, que se instalan muy rápido, ya que la toxina exfoliativa del S. aureus ataca la unión interqueratinocito. - El pén\u0000go tiene ampollas \u0000ácidas, fáciles de romper, ya que los anticuerpos también atacan la unión interqueratinocitos.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente presenta \u0000ebre y un exantema generalizado. Como antecedente, relata múltiples parejas sexuales en Sin contestar el último tiempo, por lo que se decide solicitar un VDRL, que resulta positivo y un MHA-TP, que resulta negativo. La Puntúa como conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Administrar penicilina benzatina 1,2 millones UI por una vez",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Administrar penicilina benzatina 2,4 millones UI por 3 veces",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar RPR",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Solicitar microscopía de campo oscuro de una de las lesiones",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Descartar la sí\u0000lis como diagnóstico, ya que se trata de un falso positivo",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Es una pregunta difícil, ya que tiene el exantema más el VDRL positivo, lo que suele ser indicación de tratamiento, mientras se con\u0000rma el diagnóstico con el MHA-TP. Sin embargo, dado que el MHA-TP está negativo, el diagnóstico es un falso positivo del VDRL y se debe buscar otra causa que explique el exantema y la \u0000ebre.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un paciente de 18 años presenta pápulas y pústulas en el pecho y espalda, asociado a comedones. El diagnóstico Sin contestar más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Pitiriasis versicolor",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Varicela",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Acné",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Prúrigo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Foliculitis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "La presencia de comedones hace el diagnóstico de acné, de manera inmediata. Además, la ubicación más frecuente de las lesiones es cara, pecho y espalda. El prúrigo se caracteriza por vesículas y pápulas pruriginosas, que suelen aparecen en las extremidades y tronco, luego de picaduras de insectos o de exposición a algunas plantas. Es más frecuente en niños. La foliculitis sí tiene pústulas, en relación a los folículos pilosos, pero sin comedones.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un paciente de 25 años es hospitalizado por una neumonía ATS III, la que es manejada adecuadamente con Sin contestar antibióticos endovenosos. Algunos días después de iniciar el tratamiento, presenta aparición de lesiones Puntúa como generalizadas, que abarcan el 20% de la super\u0000cie corporal, consistentes en eritema, pápulas, vesículas y bulas 1,00 dolorosas, con compromiso de la mucosa oral y ojo rojo, sin signo de Nikolsky. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Reacción ana\u0000láctica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Eritema multiforme menor",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Síndrome de piel escaldada",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome de Steven Johnson",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Necrosis epidermotóxica",
+        "correcta": false
+      }
+    ],
+    "justificacion": "En un SSJ (síndrome de Steven Johnson clásico): pápulas y vesículas, con afectación de las mucosas y conjuntivas y sin signo de Nikolsky (si estuviera, sería una necrosis epidermolítica tóxica o NET). El SSJ suele afectar entre el 10% y 30% de la super\u0000cie cutánea, mientras que la NET suele afectar más del 30%. Sin embargo, actualmente ambas se consideran una misma enfermedad, solo que con un grado distinto de severidad. Su tratamiento suele ser inmunomoduladores (ciclosporina) más corticoides sistémicos (prednisona; metilprednisolona si severo) e inmunoglobulina en los casos severos (aunque no tiene tanta evidencia). Eso sí, lo más importante es retirar el fármaco y cuidar las lesiones. - El eritema multiforme menor (EMM) tiene lesiones en tiro al blanco. - La reacción ana\u0000láctica tiene angioedema o urticaria (habones y ronchas), más hipotensión que no responde a suero \u0000siológico.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "La lesión elemental del léntigo solar es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Placa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Pseudopápula",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Pápula",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Mácula",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Nódulo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Los léntigos solares son máculas (manchas) hiperpigmentadas.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Un paciente de 60 años presenta una lesión eritematosa en el paladar duro, que no duele y que ha crecido Sin contestar lentamente en los últimos 2 años. Al examen físico de aprecia una placa eritematosa, de 2,5 cm de diámetro, de Puntúa como bordes irregulares. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar antifúngicos tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar exámenes para descartar lupus",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar corticoides tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Biopsiar la lesión",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una eritroplaquia, que se debe biopsiar ya que puede tratarse de un cáncer espinocelular o de una lesión premaligna. Tiene mayor riesgo de ser o evolucionar a un cáncer invasor que la leucoplaquia.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente de 17 años presenta caída del cabello en un área de 5 cm en la cabeza. Al examen físico se aprecia Sin contestar una placa pruriginosa, descamativa, con algunos cabellos quebrados. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Alopecia areata",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Psoriasis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Dermatitis seborreica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Tiña capitis",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Lupus discoide",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una tiña capitis clásica: placa alopécica descamativa, con signos in\u0000amatorios y presencia de pelos quebrados. Se trata con griseofulvina oral, ya que suele ser por Microsporum canis. - La alopecia areata produce alopecia en un área, sin signos in\u0000amatorios ni cabellos quebrados. - La psoriasis y la dermatitis seborreica afectan el cuero cabelludo, con eritema y descamación, pero sin alopecia. - El lupus discoide, cuando afecta el cuero cabelludo, produce alopecia permanente en el tiempo. Además suele afectar otras zonas fotoexpuestas (ej. Cara) y tiene placas eritematosas, que dejan cicatriz.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Una paciente presenta \u0000ebre, disuria y aparición de úlceras múltiples, en los labios vaginales, dolorosas, con Sin contestar tendencia a con\u0000uir. El agente etiológico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Virus herpes simplex tipo 2",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Virus papiloma humano",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Haemophilus drucreyi",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Treponema pallidum",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Chlamydia trachomatis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es un herpes genital clásico: úlceras genitales múltiples, con \u0000ebre y disuria. El diagnóstico suele ser clínico, aunque se puede objetivar con la PCR para virus herpes simplex (VHS), que ha desplazado a las técnicas más antiguas como el cultivo viral, dado que la PCR es actualmente más sensible que el cultivo. El tratamiento antiviral se recomienda tanto en el primer episodio (primoinfección) como las recurrencias, con aciclovir o valaciclovir oral. El valaciclovir tiene la ventaja de usarse solamente 2 veces al día, por lo que cada vez se pre\u0000ere más. Finalmente, la dosis de valaciclovir clásicamente ha sido de 500 mg c/12 horas por 5 a 7 días, pero, actualmente existen varias recomendaciones que sugieren usar 1 gramo cada 12 horas por 5-7 días. Mientras antes se inicie el tratamiento, menor es la tasa de recurrencias. - El virus papiloma produce condilomas acuminados. - El H. ducreyi produce el chancroide o chancro blando (úlcera única dolorosa). - El T. pallidum produce la sí\u0000lis (chancro: úlcera única indolora). - La Chlamydia trachomatis produce el linfogranuloma venéreo y la uretreitis no gonocócica.",
+    "archivo_origen": "2.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un niño presenta pápulas pruriginosas en las mejillas y los antebrazos. Al examen Sin contestar se aprecia pitiriasis alba en la cara. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dermatitis seborreica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Pitiriasis versicolor",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Demodecidiosis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dermatitis de contacto",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Dermatitis atópica Tanto por los signos de atopía (pitiriasis alba), como por la ubicación clásica (mejillas en niños, más zonas \u0000exoras: cara anterior de antebrazos y pliegues",
+        "correcta": true
+      }
+    ],
+    "justificacion": "cubitales), se trata de una dermatitis atópica. La demodecidiosis es causada por el ácaro démodex y puede exacerbar o producir rosácea.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente de 18 años presenta aparición de placas eritematosas, en tiro al blanco, Sin contestar ubicadas en el tronco y extremidades, de entre 1 y 4 cm de diámetro, luego de haber Puntúa como recibido un tratamiento con AINEs por una faringitis aguda. El diagnóstico más 1,00 probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Necrosis epidermotóxica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome de Steven Johnson",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Mononucleosis infecciosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome de Sweet",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Eritema multiforme menor Las lesiones en target o tiro al blanco son características del eritema multiforme menor (EMM). Suele ser causado por infección por virus herpes simplex (VHS) y, en segundo lugar, por fármacos. Su diagnóstico es clínico (solo se biopsia en casos atípicos) y su tratamiento suele ser la simple observación, retirando la causa de base (ej. retirar el fármaco). En los casos causados por VHS se recomienda usar",
+        "correcta": true
+      }
+    ],
+    "justificacion": "antivirales, pero por el VHS en sí, ya que no cambia mayormente el curso del EMM. - La necrosis epidermotóxica tiene ampollas y signo de Nikolsly (es muy grave). - El síndrome de Steven Johnson puede tener lesiones en tiro al blanco, pero afecta mucosas y conjuntivas y tiene vesículas y bulas además. - La mononucleosis puede tener exantema (30% de los casos, que sube a 90% si usa amoxicilina o ampicilina), pero le falta la odinofagia, \u0000ebre y adenopatías del síndrome mononucleósico.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Una paciente de 70 años presenta varias lesiones costrosas, indoloras, ubicadas en Sin contestar la frente y las orejas. Al examen físico se aprecias pequeñas placas de algunos Puntúa como milímetros de diámetro, eritematosas, hiperqueratósicas, secas, muy adherentes. El 1,00 diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dermatitis seborreica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Queratosis actínica",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Carcinomas basocelulares",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Carcinomas espinocelulares",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Psoriasis Son queratosis actínicas clásicas: lesiones ásperas en zonas fotoexpuestas, caracterizadas por placas eritematosas e hiperqueratósicas pequeñas. Tienen riesgo de evolucionar a carcinoma espinocelular, por lo que se tratan con crioterapia. Si son múltiples y muy abundantes, después de la crioterapia de las",
+        "correcta": false
+      }
+    ],
+    "justificacion": "lesiones más grandes, se suele indicar, además, \u0000uorouracilo tópico. - La dermatitis seborreica tiene eritema y descamación amarillenta y puede afectar el cuero cabelludo, la zona perinasal y la zona ciliar (cejas), pero no las orejas y no se ve como pequeñas placas, sino como placas grandes. - Los carcinomas basocelulares se ven como lesiones de borde brillante (perlado), con telangiectasias adyacentes, úlcera central. - Los carcinomas espinocelulares suelen ser de mayor tamaño y tienen tendencia a ulcerarse. Además, es raro que sean múltiples, aunque puede ocurrir. - La psoriasis también tiene placas más grandes y la escama no es tan adherente.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente de 35 años presenta máculas blancas de algunos centímetros de Sin contestar diámetro, distribuidas en las zonas periocular, peribucal, los dedos y el pene. No Puntúa como tiene otros síntomas. El diagnóstico es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Pitiriasis alba",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Pitiriasis versicolor",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Vitíligo",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Nevo de Sutton",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Leucoplaquias Es un vitíligo clásico: máculas acrómicas en cara, manos y pies, genitales, axilas y también pueden estar en otras zonas. Su tratamiento inicial suelen ser los corticoides tópicos de alta potencia (ej. clobetasol o betametasona por 2-3 meses, descansar un mes y retomarlo). Como alternativa, están los inhibidores de la calcineurina (tacrolimus, pimecrolimus) tópicos, en especial en zonas de piel que tienden a atro\u0000arse con los corticoides (ej. axilas y genitales). Existen múltiples otras terapias de manejo del especialista (ruxolitinib, fototerapia UVB, Psoraleno",
+        "correcta": false
+      }
+    ],
+    "justificacion": "más UVA, etc.). Sin embargo, a modo de cultura general, los casos muy agresivos (ej. múltiples lesiones que progresan muy rápido), se recomienda de entrada usar corticoides orales más fototerapia para estabilizar la enfermedad. - La pitiriasis alba suele tener máculas hipopigmentadas, en la cara y hombros o brazos, con borde difuso y \u0000na descamación. Se asocia a atopía. - La pitiriasis versicolor también tiene máculas hipopigmentadas, en el pecho y espalda. Se asocia al sudor, ya que se produce por un hongo. - El nevo de Sutton se caracteriza por tener una lesión hiperpigmentada, rodeada por un halo hipopigmentado. Se asocia a vitíligo, pero si se vuelve muy irregular, se debe sospechar melanoma. - Las leucoplaquias están en las mucosas, no en la piel y se caracterizan por ser placas blanquecinas de lento crecimiento, que suponen una lesión premaligna.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un niño de 8 meses de edad, sin antecedentes de importancia, presenta en las Sin contestar últimas 24 horas, \u0000ebre y aparición de múltiples vesículas y bulas generalizadas que Puntúa como se hacen con\u0000uentes y se rompen con facilidad, dejando una importante super\u0000cie 1,00 de la super\u0000cie corporal expuesta. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de piel escaldada",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Pén\u0000go",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Pen\u0000goide",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Necrosis epidermotóxica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Síndrome de Steven Johnson Es un síndrome de piel escaldada clásico (se abrevia como SSSS por su nombre en inglés), tanto por la edad (lactantes), como por la clínica: aparece eritema y luego vesículas, pústulas y bulas, que se rompen fácil, dejando zonas de piel sin epidermis. Además tiene Nikolsky (+): se desprende la epidermis al traccionarla, ya que la toxina exfoliativa ataca la unión interqueratinocito. El diagnóstico es clínico (aunque sí es aceptable cultivar la zona en la que se sospecha se aloja la infección esta\u0000llocócica, para conocer el antibiograma). El tratamiento suele ser hospitalizado, con manejo de las heridas, soporte y antibióticos antiesta\u0000locócicos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "(cloxacilina endovenosa o cefalosporinas de primera generación, como cefazolina). La clindamicina se puede agregar y, de hecho, algunos la recomiendan por su efecto en reducir la producción de toxinas (aunque no tiene mayor evidencia clínica). La vancomicina es una opción, pero, por ahora, la gran mayoría de los SSSS son por S. aureus meticilino sensible. - El pén\u0000go y pen\u0000goide son enfermedades autoinmunes crónicas, con vesículas recidivantes. El pén\u0000go tiene ampollas fáciles de romper y signo de Nikolsky (anticuerpos contra la unión interqueratinocito). El pen\u0000goide, en cambio, tiene ampollas tensas, difíciles de romper y no tiene signo de Nikolsky, ya que los anticuerpos atacan la lámina basal, manteniéndose los queratinocitos unidos en una capa fuerte. - La NET y el SSJ son reacciones a fármacos y suelen ser muy graves, con importante afectación de mucosas y compromiso cutáneo. La NET tiene Nikolsky; el SSJ, no.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente de 17 años presenta múltiples pústulas y pápulas en cara, pecho y Sin contestar espalda, que en los últimos días han aumentado en cantidad, formándose nódulos Puntúa como in\u0000amatorios con\u0000uentes, apareciendo además \u0000ebre alta. En sus exámenes 1,00 destaca leucocitosis importante, con predominio de neutró\u0000los. El diagnóstico es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Erupción neutrofílica febril",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Acné fúlminas",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Erisipela",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Celulitis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Antrax cutáneo Tiene un acné fúlminas clásico: acné severo, con síntomas sistémicos (\u0000ebre,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "leucocitosis, etc.). El tratamiento de elección, actualmente son los corticoides (ej. prednisona) más isotretinoína. Los antibióticos, como la tetraciclina, se han usado históricamente, pero no queda clara su real utilidad y algunos estudios sugieren que podrían tener menor respuesta, por lo que no se recomiendan como primera línea, sino solo si no responde o hay signos sugerentes de sobreinfección. Cuando solo tiene los nódulos in\u0000amatorios con\u0000uentes, pero sin los síntomas sistémicos, se llama acné conglobata y se trata con isotretinoína. - La erupción neutrofílica febril, o síndrome de Sweet, se caracteriza por \u0000ebre, leucocitosis y placas eritematosas y dolorosas en distintas zonas del cuerpo. Se produce en contexto de leucemia mieloide aguda",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un recién nacido presenta una pequeña lesión roja solevantada en la zona sacra. Un Sin contestar mes después, la lesión ha crecido bastante, alcanzando los 4 cm de diámetro. El Puntúa como diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Nevus \u0000ameus",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Malformación vascular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Hemangioma",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Mancha salmón",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Granuloma piógeno Es un hemangioma clásico: nódulo rojo en lactante, que crece más rápido que el niño y luego tiende a involucionar. La ubicación sacra es clásica, además de la ubicación periocular, nasal y peribucal. Si está en la zona sacra, es obligatorio descartar una espina bí\u0000da oculta, con una ecografía lumbosacra. Si son múltiples, se debe descartar la presencia de hemangiomas hepáticos con una ecografía",
+        "correcta": false
+      }
+    ],
+    "justificacion": "abdominal. El tratamiento suele ser precoz, con propanolol oral (tiene riesgo de hipoglicemias en lactantes, por lo que se debe evitar el ayuno) y, si está contraindicado (ej. SBO), se indican corticoides orales. Sin embargo, en caso de hemangiomas pequeños, no complicados, ni deformantes, se pueden observar o manejar con timolol tópico, a \u0000n de evitar los efectos adversos del propanolol.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "El tratamiento de la sarna en los prescolares es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lindano tópico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Vaselina azufrada",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Permetrina tópica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Sintomático",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Ketoconazol tópico El tratamiento de elección de la sarna es la permetrina al 5%, en loción. La vaselina azufrada, de acuerdo a las recomendaciones chilenas, es de elección en los menores de 3 meses, en la lactancia y en el embarazo, aunque si falla (30% de fracasos), se debe indicar igualmente la permetrina. Además, muchas recomendaciones internacionales pre\u0000eren la permetrina, por ser segura en embarazo, lactancia (se lava antes de dar de mamar) y niños, aunque no existen",
+        "correcta": false
+      }
+    ],
+    "justificacion": "estudios de seguridad en menores de 2 meses.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente de 27 años presenta placas eritematosas, descamativas, ubicadas en Sin contestar los codos y rodillas, con lesiones tipo ungueales puntiformes, depremidas. El Puntúa como diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Liquen plano",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Tiña",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Psoriasis",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Liquen simple",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Eccema dishidrótico",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una psoriasis clásica: placas eritematodescamativas en zonas extensoras. Además, tiene las lesiones ungueales clásicas, en picotazo de pájaro. El eccema dishidrótico se caracteriza por vesículas muy pruriginosas y tensas, ubicadas en las manos y pies, que aparecen con el estrés y con la exposición a contactantes.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "¿Cuál de las siguientes lesiones representa un mayor riesgo?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Nevo de Ito",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Nevo congénito gigante",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Nevo de Ota",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Nevo de Spilus",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Nevo de Sutton El nevo congénito gigante tiene altísimo riesgo de evolucionar a un melanoma, por",
+        "correcta": false
+      }
+    ],
+    "justificacion": "lo que se debe extirpar. Las demás son lesiones sin mayor riesgo, salvo estético. El nevo de Sutton o nevo halo (tiene un área depigmentada alrededor) es frecuente en adolescentes y niños, como una única lesión. Eso sí, puede ser una reacción a un melanoma, así que, si el nevo central es atípico, si son múltiples o si se da en un adulto de edad avanzada, casos en los que se debe biopsiar.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Una paciente presenta, de manera recurrente, aparición de pseudopápulas muy Sin contestar pruriginosas en distintas zonas del cuerpo. Al examen se constata Puntúa como dermatogra\u0000smo. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dermatitis de contacto alérgica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dermatitis atópica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Liquen plano",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Urticaria",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Escabiosis Las pseudopápulas o ronchas son las lesiones elementales de la urticaria. El dermatogra\u0000smo también es frecuente en la urticaria, aunque se ve en otras patologías, como el lupus y el hipertiroidismo. El tratamiento suele ser con antihistamínicos orales (ej. cetirizina, fexofenadina o incluso loratadina), idealmente de los no sedantes. Los corticoides no se indican, a menos que haya angioedema",
+        "correcta": false
+      }
+    ],
+    "justificacion": "importante o que no responda a los antihistamínicos. Las demás también pueden ser pruriginosas, pero tienen pápulas y no pseudopápulas.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Una paciente de 65 años presenta lesiones ampollares, recurrentes, distribuidas en Sin contestar la cara, tronco y extremidades, que se rompen fácilmente, que iniciaron hace cerca Puntúa como de un año, pero que han ido en aumento. Al examen, además es posible desprender 1,00 la piel sana, al traccionarla con una presión moderada. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Pén\u0000go",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Pen\u0000goide",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Por\u0000ria cutánea",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome de piel escaldada",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Necrosis epidermotóxica Se describe un pén\u0000go clásico: lesiones ampollares fáciles de romper, con signo de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Nikolsky (se desprende la epidermis al presionarla). El pen\u0000goide no tiene Nikolsky y sus ampollas son tensas y difíciles de romper. La por\u0000ria es muy rara en Chile y sí tiene ampollas, pero en zonas fotoexpuestas y muchas veces tiene además hipertricosis facial. La piel escaldada es un cuadro agudo, con ampollas generalizadas y signo de Nikolsky, que afecta a lactantes. La NET también es un cuadro agudo con Nilolsky positivo, por exposición a fármacos.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Una mujer de 40 años consulta por una lesión hiperpigmentada, ubicada en la Sin contestar pierna derecha. Al examen físico se precia una lesión macular hiperpigmentada, de Puntúa como color heterogéneo y bordes irregulares, de 10 mm de diámetro. No presenta prurito, 1,00 ni otros síntomas. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Realizar biopsia excisional de la lesión",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar biopsia por punción",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar corticoides tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Derivar a PUVA terapia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observar evolución Tiene varios signos de alarma: color heterogéneo, bordes irregulares y más de 6 mm de diámetro, por lo que es un nevo atípico y se debe extirpar, por la posibilidad de que sea un melanoma. Si la biopsia demuestra un melanoma, se deben ampliar los márgenes (1 cm de margen si tiene una profundidad de menos de 1mm; 2 cm de margen si tiene una profundidad mayor de 1 mm). De todos modos, el manejo es",
+        "correcta": false
+      }
+    ],
+    "justificacion": "resorte del especialista.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Una paciente presenta una placa moderadamente pruriginosa en la zona Sin contestar infraumbilical, liqueni\u0000cada y con lesiones similares en ambas orejas. El Puntúa como diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Liquen plano",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Liquen simple crónico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Dermatitis de contacto alérgica crónica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Dermatitis de contacto irritativa crónica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Dermatitis atópica Solo por la ubicación, parece una dermatitis de contacto alérgica, con alergia al níquel: afecta las orejas por alergia a los aros y afecta el ombligo por alergia al",
+        "correcta": false
+      }
+    ],
+    "justificacion": "botón del pantalón o a la hebilla del cinturón. El liquen plano tiene pápulas en tobillos y muñecas. El liquen simple crónico tiene una placa liqueni\u0000cada en una zona de rasquido. La dermatitis irritativa exige exposición a un irritante. La dermatitis atópica suele estar ubicada en las fosas poplíteas y cubitales.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un paciente presenta hace unos días aparición de placas eritematosas Sin contestar descamativas de hasta 1 cm de diámetro, que comprometen la cara, tronco y Puntúa como extremidades, respetando palmas y plantas. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Pitiriasis rosada",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Psoriasis vulgar",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Psoriasis guttata",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Sí\u0000lis secundaria.",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Pitiriasis versicolor Salvo la pitiriasis versicolor, que produce lesiones hipopigmentadas en pecho y espalda, todas las opciones presentan lesiones eritematodescamativas, pero la distribución hace la diferencia. La pitiriasis rosada se limita al tronco. La psoriasis está en zonas extensoras (espalda, rodillas, codos). La psoriasis guttata es generalizada, pero respetando palmas y plantas (como este caso). La sí\u0000lis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "secundaria afecta las palmas y plantas. A modo de cultura general, el tratamiento de la psoriasis guttata suele ser la fototerapia con luz UVB.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "El tratamiento de la uretritis no gonocócica es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ceftriaxona intramuscular",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Doxicilina oral",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Cipro\u0000oxacino oral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Amoxicilina + ácido clavulánico oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Metronidazol oral La uretritis no gonocócica suele ser causada por Chlamydia trachomatis y por Mycoplasma genitalium / Ureaplasma urealyticum. Todas se cubren con doxicilina por 10 días. Como alternativa sirve la azitromicina 1g por una vez, aunque muchas veces se tiene que agregar clindamicina, ya que puede haber resistencia en el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Mycoplasma.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Un niño de 3 años presenta lesiones costrosas, amarillentas alrededor de la boca, Sin contestar que aparecieron hace 2 días y han aumentado. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Impétigo",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Ectima",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Erisipela",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Escarlatina",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Dermatitis seborreica Es un impétigo vulgar clásico, con las costras mielicéricas peribucales y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "perinasales. El ectima es similar, pero ulcerado (llega a la dermis y deja cicatriz). La erisipela es una placa roja, de bordes de\u0000nidos. La escarlatina es un exantema papular, áspero, con especial compromiso de pliegues cubitales y poplíteos, asociado a una amigdalitis u otra infección estreptocócica. La dermatitis seborreica afecta el cuero cabelludo, la zona nasal y las cejas, con descamación amarillenta.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "¿Cuál de las siguientes patologías afecta más frecuentemente la mucosa oral?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Rosácea",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Liquen simple crónico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Psoriasis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Liquen plano",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Pitiriasis rosada de Gibert El 50% de los líquenes planos tienes afectación de la mucosa oral, la que se ve",
+        "correcta": false
+      }
+    ],
+    "justificacion": "como una placa reticular de color blanquecino. La rosácea afecta los ojos.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente presenta \u0000ebre y aparición de una placa eritematosa en la pierna Sin contestar izquierda, de 10 cm de diámetro y bordes claramente visibles, asociado a presencia Puntúa como de un cordón eritematoso que asciende por el muslo. El tratamiento de elección es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Ceftriaxona endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Penicilina endovenosa",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Cloxacilina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Vancomicina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Clindamicina endovenosa Se describe una erisipela (bordes nítidos), con una linfangitis. Es causada por Streptococcus pyogenes, por lo que se trata con penicilina o ampicilina endovenosa. En alérgicos, se usan las cefalosporinas (salvo en alergias severas y/o mediadas por IgE) o la clindamicina. La cloxacilina también lo cubre, pero se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "pre\u0000ere la penicilina, por tener un espectro más acotado.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Una paciente de 50 años presenta eritema facial desde hace algunos meses, en Sin contestar especial cuando consume alcohol. En el último tiempo nota aparición de pápulas y Puntúa como pústulas en las mejillas. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Rosácea",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Lupus eritematoso sistémico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lupus discoide (lupus cutáneo subagudo)",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dermatomiositis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Acné Es una rosácea clásica (eritema con pápulas y pústulas en la cara). El alcohol es uno de los desencadenantes clásicos (junto a los cambios de temperatura, la",
+        "correcta": false
+      }
+    ],
+    "justificacion": "exposición solar y los condimentos). El lupus sistémico puede tener síntomas similares, pero afecta a personas más jóvenes y no tiene mucha relación con el alcohol, pero sí con la exposición solar.",
+    "archivo_origen": "3.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 27 años consulta por lesiones pruriginosas en sus tobillos. Al Sin contestar examen físico presenta múltiples lesiones papulares, muy pruriginosas, de color Puntúa como eritemato-violáceas. Re\u0000ere que en ocasiones aumentan en cantidad y en otras 1,00 tienden a disminuir. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dermatitis atópica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dermatitis de contacto alérgica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Urticaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Liquen simple crónico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Liquen plano Es un liquen plano clásico: lesiones papulares pruriginosas, ubicadas en muñecas o",
+        "correcta": true
+      }
+    ],
+    "justificacion": "tobillos. Además, suelen ser de color púrpura y tienden a la cronicidad. La dermatitis atópica suele afectar fosas cubitales y poplíteas y se asocia a piel seca y otros signos de atopía. La urticaria tiene pseudopápulas o ronchas y en ocasiones, habones (roncha muy grande). El liquen simple crónico sí puede afectar los tobillos, pero no son pápulas sino una placa pruriginosa y liqueni\u0000cada (con la piel engrosada y con demarcación del dibujo cutáneo).",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente de 19 años inicia tratamiento antibiótico, por una amigdalitis. Es traído Sin contestar dos días después por su madre, ya que presenta múltiples lesiones en \"tiro al Puntúa como blanco\" en el tronco y las extremidades. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Escarlatina",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Erisipela",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Mononucleosis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Eritema multiforme menor",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Alergia a la penicilina Las lesiones en diana o en tiro al blanco son características del eritema multiforme menor (EMM). En este caso es causado por una reacción a fármacos. El tratamiento más importante es simplemente retirar el fármaco que lo causa. Sin embargo, se debe recordar que la causa más frecuente del EMM es la infección por virus herpes simplex, que se trata con aciclovir, aunque no cambie mayormente el curso del EMM",
+        "correcta": false
+      }
+    ],
+    "justificacion": "en sí. - La escarlatina es un exantema papular en piel de gallina, que respeta el triángulo de Filatov. - La mononucleosis sí puede producir un exantema, en relación a la administración de aminopenicilinas, pero es de tipo morbiliforme (maculo-papular eritematoso), sin lesiones en tiro al blanco.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Un paciente de 18 años presenta aparición de múltiples placas eritematosas, con Sin contestar \u0000na descamación, en el tronco, que no duelen ni pican. Re\u0000ere que una semana Puntúa como antes solo tenía una lesión en la espalda, algo más grande que las demás. El 1,00 diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Pitiriasis rosada",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Urticaria",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Psoriasis gutatta",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Psoriasis vulgar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sí\u0000lis secundaria Es una pitiriasis rosada clásica: mancha heráldica que algunos días después es seguida de un exantema eritematodescamativo que afecta el tronco. Es",
+        "correcta": false
+      }
+    ],
+    "justificacion": "autolimitada, durando 2 a 3 meses. Se debe educar al paciente sobre ello. - La urticaria no tiene placas, sino ronchas. Se trata con antihistamínicos. - La psoriasis guttata sí tiene lesiones eritematodescamativas, pero afectan además la cabeza y extremidades (respetando palmas y plantas). Se trata con fototerapia UVB. - La sí\u0000lis secundaria afecta palmas y plantas. Se trata con penicilina. - La psoriasis vulgar tiene placas en espalda, cuero cabelludo y zonas extensoras (rodillas, codos). Se trata con corticoides tópicos y crema humectante (ej. de urea). Los casos más graves se tratan con fototerapia.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Consulta un paciente de 30 años por lesiones recidivantes en el cuero cabelludo, Sin contestar consistentes en eritema asociado a abundante descamación. Al examinarlo se Puntúa como aprecia también compromiso del puente nasal. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dermatitis de contacto",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Rosácea",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lupus sistémico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dermatitis seborreica",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Lupus discoide Es una dermatitis seborreica clásica: eritema y descamación amarillenta, que afecta el cuero cabelludo (sin sobrepasar la línea de implantación del pelo, a diferencia de la psoriasis), la zona nasal y ciliar (cejas). En adultos se suele tratar con champú de ketoconazol y/o corticoides tópicos de baja potencia en las lesiones más in\u0000amatorias. En lactantes, en cambio, se suele observar, ya que es autolimitada,",
+        "correcta": false
+      }
+    ],
+    "justificacion": "aunque se puede usar vaselina líquida o aceite mineral para limpiar las costras. - La dermatitis de contacto afecta las zonas de contacto y puede tener distintos dignos de in\u0000amación, como eritema, rezumación y vesículas (aguda), solo eritema y pápulas (subaguda) o liqueni\u0000cación y cambios en la pigmentación (crónica). - El lupus discoide sí puede afectar el cuero cabelludo, pero como placas eritematosas y descamativas, con caída de cabello, que involucionan dejando una cicatriz e incluso alopecia cicatricial.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Un paciente de 48 años consulta por una lesión en la espalda. Re\u0000ere que ha Sin contestar crecido lentamente desde hace 2 años. Actualmente mide 1,5 mm. Ver foto: ¿Cuál es la conducta más adecuada?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar corticoide tópico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Realizar biopsia con dermatomo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Realizar biopsia excisional",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar crioterapia La foto tiene aspecto de melanoma (irregular, de color heterogéneo, que ha crecido y que mide más de 6 mm). Sin embargo, hasta antes de la biopsia, el diagnóstico es un nevo atípico, que se debe biopsiar de manera excisional, para asegurar que no sea un melanoma. Si se con\u0000rma el melanoma, se deben ampliar los márgenes, hacer la biopsia de ganglio centinela y eventualmente indicar radioterapia, disección",
+        "correcta": false
+      }
+    ],
+    "justificacion": "ganglionar e inmunoterapia.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un niño de 4 meses de edad presenta aumento de volumen eritematoso, en relación Sin contestar al labio superior, en la zona derecha. La madre re\u0000ere que la lesión apareció hace un Puntúa como mes, pero que ha crecido considerablemente, siendo de 1 cm de diámetro 1,00 actualmente. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar evolución",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar corticoides orales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar corticoides tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar propanolol oral",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Resolver quirúrgicamente Tiene un hemangioma infantil clásico (nódulo violáceo que crece más rápido que el niño). El tratamiento de elección actualmente es el propanolol oral, salvo que tenga alguna contraindicación (ej. SBOR) o que se trate de un hamangioma muy pequeño y en un sitio irrelevante (en este caso, puede ser deformante). Los corticoides orales tópicos son una alternativa, cuando el propanolol está contraindicado o genera muchos efectos adversos. La resolución quirúrgica se da como última línea cuando sangran o se complican y no responden al tratamiento farmacológico. Si hubiese sido una malformación (crece al mismo ritmo que el niño), se puede observar o",
+        "correcta": false
+      }
+    ],
+    "justificacion": "tratar con láser, si es que afecta estéticamente.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un paciente consulta por aparición de múltiples ampollas en el tronco y algunas en Sin contestar las extremidades. Al examen físico se aprecian dichas ampollas tensas, que no se Puntúa como rompen al presionarlas. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Pén\u0000go",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Reacción fotoalérgica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Impetigo buloso",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Pen\u0000goide",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Prúrigo Tiene un pen\u0000goide clásico: ampollas tensas y difíciles de romper, con tendencia a la cronicidad y frecuentemente con afectación de las mucosas. Se trata con corticoides sistémicos y tópicos. La tetraciclina puede tener un efecto",
+        "correcta": false
+      }
+    ],
+    "justificacion": "inmunomodulador. - El pén\u0000go tiene ampollas \u0000ácidas, fáciles de romper. El impétigo buloso también, con la diferencia que están localizadas en la zona de infección. - El prúrigo es una reacción pápulo-vesicular que se afecta extremidades y tronco, con prurito y que ocurre luego de picadura de insectos o de exposición a ciertas plantas.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente de 35 años presenta un cuadro de \u0000ebre, asociado a aparición de una Sin contestar placa eritematosa en la pierna derecha. Al examen se aprecia la placa sensible, de Puntúa como 15 cm de diámetro mayor, de bordes nítidos, asociada a un cordón eritematoso que 1,00 asciende por el muslo. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Solicitar resonancia magnética nuclear",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Iniciar cloxacilina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar penicilina endovenosa",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar amoxicilina oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar prednisona oral Se describe una erisipela (bordes nítidos), con una linfangitis. Es causada por Streptococcus pyogenes, por lo que se trata con penicilina o ampicilina endovenosa. En alérgicos, se usa la clindamicina o cefalosporinas como la cefazolina (salvo que tenga reacciones severas o por IgE, que sí contraindican el uso de cefalosporinas). La cloxacilina también lo cubre, pero se pre\u0000ere la penicilina, por tener un espectro más acotado. Si hubiese tenido mucho dolor o bulas hemorrágicas, podría haber sido una fasceítis necrotizante inicial, por lo que",
+        "correcta": false
+      }
+    ],
+    "justificacion": "se tendría que estudiar con la resonancia magnética nuclear.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un niño de 7 años presenta una lesión en cuero cabelludo, con escaso prurito. Al Sin contestar examen físico se aprecia una placa in\u0000amatoria de 4 cm de diámetro, con caída de Puntúa como los pelos, y algunos pelos quebrados. ¿Qué tratamiento es más adecuado?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Corticoides tópico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Antibióticos tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Griseofulvina oral",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Terbina\u0000na oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Terbina\u0000na tópica Es una tiña capitis clásica (placa alopécica, in\u0000amatoria con pelos quebrados). Se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "trata con griseofulvina oral de elección (cubre al Microsporum canis). La terbina\u0000na oral es para la onicomicosis. La terbina\u0000na tópica es de elección para la tiña corporis (también sirve el clotrimazol tópico). Si hubiese tenido una alopecia areata (sin signos in\u0000amatorios ni pelo quebrados), los corticoides tópicos habrían sido la respuesta (aunque lo principal es el manejo del estrés).",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Una paciente de 23 años presenta eritema de color violeta en los párpados Sin contestar superiores. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Rosácea",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Lupus discoide",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Lupus sistémico",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dermatomiositis",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Esclerodermia La dermatomiositis se caracteriza por 3 afectaciones cutáneas: 1. Rash heliotropo (el de este caso), 2. Rash de Gottron (afectación de nudillos) y 3. Rash en manto",
+        "correcta": false
+      }
+    ],
+    "justificacion": "(afectación de espalda y hombros). La rosácea sí puede tener afectación ocular, pero es más una blefaritis: eritema y descamación de los párpados, con especial afectación del borde cercano a las pestañas.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Una mujer consulta por prurito en la zona genital, de varias semanas de evolución. Sin contestar Al examen físico se aprecia eritema y atro\u0000a cutánea alrededor de la vulva, sin Puntúa como compromiso de la mucosa. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Candidiasis genital",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Liquen escleroso",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Dermatitis de contacto alérgica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dermatitis de contacto irritativa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cáncer espinocelular Es un liquen escleroso o escleroatró\u0000co clásico: lesión pruriginosa, blanquecina o",
+        "correcta": false
+      }
+    ],
+    "justificacion": "eritematosa, atró\u0000ca en la mucosa perivulvar, perianal o en el pene y prepucio. La candidiasis afecta la mucosa principalmente y tiene una leucorrea en “leche cortada” y prurito. La dermatitis de contacto alérgica también es un diagnóstico posible, pero sí afecta la mucosa, además de la piel, y por otro lado el cuadro clínico es característico del liquen escleroso.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un niño realiza una excursión a la precordillera, con algunos amigos. Es traído por Sin contestar aparición de lesiones eritematosas, con algunas vesículas y pequeñas bulas, en la Puntúa como cara y los antebrazos, de disposición lineal, que presentan ardor. El diagnóstico más 1,00 probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Reacción fototóxica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Fitofotodermatosis",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Dermatitis de contacto alérgica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Prúrigo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Pén\u0000go Es una reacción al litre (árbol de la zona central de Chile) clásica. La disposición lineal es por la forma en que se produce el roce con las hojas del árbol. Requiere además de exposición solar, por lo que se llama reacción fotoalérgica o",
+        "correcta": false
+      }
+    ],
+    "justificacion": "\u0000tofotodermatosis (\u0000to = planta; foto = luz). No se debe confundir a la reacción fototóxica, que es la que ocurre al exponerse al sol, habiendo consumido algunos medicamentos, como las tetraciclinas y la isotretinoína.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un recién nacido presenta una mácula eritematosa de 15 x 8 mm de diámetro, en la Sin contestar línea media de la frente. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Nevus \u0000ammeus",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Mancha salmón",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Nevo de Ito",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Hemangioma",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Nevo de Ota Como está en la línea media y es una mácula eritematosa, es una mancha salmón o “picotazo de la cigüeña”. Tiene buen pronóstico y desaparece espontáneamente en",
+        "correcta": false
+      }
+    ],
+    "justificacion": "algunos meses. El nevus \u0000ammeus es una mácula grande, ubicada en una mitad de la cara o en otra zona del cuerpo, que no pasa la línea media (o lo hace muy poco). El nevo de Ito es una mácula azulosa en el tórax u hombro (en el Hombr-Ito); el nevo de Ota es una máculo azulosa en la mitad de la cara (en la Car-Ota) El hemnagioma es un nódulo o tumor que crece rápido, de color rojo.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Un paciente de 70 años consulta por una lesión solevantada en la nariz, Sin contestar caracterizada por tener un borde levantado y brillante y una depresión central, que Puntúa como ha crecido lentamente, llegando a un centímetro de diámetro en la actualidad. El 1,00 diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Carcinoma espinocelular",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Molusco contagioso",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Queratosis seborreica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Carcinoma basocelular",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Granuloma anular Es un cáncer basocelular clásico: lesión en zona fotoexpuesta, con borde perlado",
+        "correcta": false
+      }
+    ],
+    "justificacion": "(brillante), depresión central. El cáncer espinocelular es hiperqueratósico. El molusco contagioso suele ser más de una lesión, con umbilicación central. El granuloma anular es una placa, que va creciendo, de borde papular y tendencia a la curación central, similar a una tiña corporis, pero sin afectación de los vellos ni descamación (porque es dérmico y no epidérmico). Se asocia a diabetes.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Un paciente de 45 años consulta por un exantema eritematoso descamativo, Sin contestar generalizado, con afectación de las palmas y plantas. Re\u0000ere haber tenido sí\u0000lis Puntúa como hace 5 años, la que trató exitosamente. ¿Qué examen es más adecuado para 1,00 estudiarlo ahora?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cultivo de una de las lesiones",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "PCR para T. pallidum",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "RPR",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "FTA-ABS",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Elisa VIH Tiene clínica de sí\u0000lis secundaria (exantema eritematodescamativa, con afectación de palmas y plantas). Lo habitual es que se inicie el estudio con una prueba no treponémica (VDRL o RPR) y si está positiva, se debe tratar (por tener clínica de sí\u0000lis secundaria), pero, además, se debe con\u0000rmar con una prueba treponémica (FTA-ABS y MHA-TP) para estar seguro (aunque ya se haya tratado). Sin embargo, en este caso, como ya tuvo sí\u0000lis, no sirven las pruebas treponémicas, ya que permanecen positivas de por vida. El Elisa VIH sí hay que pedirlo, porque si ha tenido 2 veces sí\u0000lis, es probable que tenga más enfermedades de transmisión",
+        "correcta": false
+      }
+    ],
+    "justificacion": "sexual, pero, en este caso se está preguntando la sí\u0000lis.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "¿Cuál es el tratamiento más adecuado para una mujer de 35 años diagnosticada de Sin contestar sarna?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Permetrina tópica al 5%",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Permetrina tópica al 1%",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Vaselina azufrada",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Ivermectina oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Lindano tópico",
+        "correcta": false
+      }
+    ],
+    "justificacion": "El tratamiento de elección de la sarna es la permetrina al 5%, en loción. La guía chilena recomienda la vaselina azufrada en los menores de 3 meses, en la lactancia y en el embarazo, aunque si falla (30% de fracasos), se debe indicar igualmente la permetrina. Eso sí, la evidencia muestra que la permetrina es segura y más e\u0000caz, por lo que muchas recomendaciones la ponen como tratamiento de primera línea en todos los casos. Los piojos se tratan con champú de permetrina al 1%.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Una paciente de 40 años consulta por eritema facial, asociado a aparición de Sin contestar múltiples pápulas y pústulas, localizadas en la frente, mejillas y nariz. Además, se Puntúa como aprecian algunas telangiectasias faciales, sin presencia de comedones. El 1,00 tratamiento de primera línea es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Metronidazol tópico",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Peroxido de benzoílo tópico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Betametasona tópica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Mupirocina tópica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Cefadroxilo oral Se describe una rosácea clásica. El manejo incluye: 1. evitar los desencadenantes de eritema (ej. comidas, cambios de temperatura, alcohol) y usar bloqueador solar, 2. Manejo del eritema con vasoconstrictores tópicos (actualmente se usa la brimonidina), 3. para las telangiectasias, se puede usar tratamiento láser, 4. Para las pústulas y pápulas, se recomienda el metronidazol tópico (no se sabe bien cómo funciona, pero es el fármaco más e\u0000caz y algunos creen que lo hace disminuyendo del ácaro démodex) o la doxiciclina oral. 5. Los",
+        "correcta": false
+      }
+    ],
+    "justificacion": "casos severos, se tratan con isotretinoína o láser.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Un paciente de 65 años presenta 4 lesiones eritematosas e hiperqueratósicas en la Sin contestar frente, de un año de evolución, que no duelen ni presentan otros síntomas. Al Puntúa como examen se aprecian pequeñas lesiones algo solevantadas, de 3 a 5 mm de 1,00 diámetro, muy ásperas al tacto. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Carcinoma basocelular",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Carcinoma espinocelular",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Queratosis actínica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Queratosis seborreica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Léntigos solares Son queratosis actínicas clásicas: placas pequeñas, indoloras, en zonas fotoexpuestas, hiperqueratósicas, muy adherentes y ásperas al tacto. Se tratan con",
+        "correcta": false
+      }
+    ],
+    "justificacion": "crioterapia y, en casos que hay demasiadas lesiones, con \u0000uorouracilo tópico. Los carcinomas suelen ser lesiones únicas (no siempre), más grandes. El basocelular no es hiperqueratósico, sino de borde brillante y ulceración. El espinocelular sí es hiperqueratósico y áspero, pero más grande y con tendencia a ulcerarse.",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Un paciente presenta \u0000ebre alta, asociada a parición de una lesión de gran tamaño Sin contestar en el muslo derecho, muy dolorosa y con zona violáceas y negruzcas, como se Puntúa como aprecia en la fotografía. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Iniciar penicilina + cloxacilina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar resonancia magnética nuclear y decidir conducta según hallazgo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Solicitar ecografía y decidir conducta según hallazgo",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Administrar penicilina + clindamicina endovenosas y realizar debridación quirúrgica de inmediato",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Administrar antibióticos de amplio espectro por vía endovenosa, asociado a corticoides sistémicos en altas dosis Tiene una fascitis necrosante o fasceítis necrotizante tipo II (monomicrobiana, clásica de inmunocompetentes). Es causada por Streptoccus pyogenes o Estreptococo grupo A (SGA). Se trata con antibióticos endovenosos más debridación quirúrgica urgente. El antibiótico de elección para el SGA es la penicilina y en las infecciones graves (ej. shock tóxico o fasceítis), se recomienda agregar clindamicina. Por eso, en este caso, se debe dejar penicilina sódica más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "clindamicina endovenosa. El diagnóstico es clínico y se con\u0000rma con la exploración quirúrgica. La RMN puede servir para con\u0000rmarla, siempre que exista duda y no retrase la cirugía (en este caso está clarísimo).",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un paciente de 35 años consulta por disuria y malestar general, asociado a Sin contestar aparición de múltiples lesiones genitales, como las que se muestran en la Puntúa como fotografía. ¿Qué tratamiento es más útil para el tratamiento de este paciente?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Podo\u0000lino tópico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Aciclovir oral",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Penicilina benzatina intramuscular",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Azitromicina oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Corticoides orales La imagen muestra un herpes genital, en su primoinfección (múltiples vesículas en",
+        "correcta": false
+      }
+    ],
+    "justificacion": "genitales). Se trata con aciclovir o valaciclovir (también las recurrencias).",
+    "archivo_origen": "4.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Paciente de 16 años, sin antecedentes, consulta por aparición de lesiones en su Sin contestar frente. Al examen físico se aprecian comedones en su rostro, asociados a pápulas y Puntúa como algunas pústulas en la frente, sin otros hallazgos. La conducta más adecuada es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Corticoides orales y metronidazol tópico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Queratinolíticos tópicos y corticoides tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Queratinolíticos tópicos e isotretinoina oral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Antibióticos orales y puvaterapia",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Queratinolíticos tópicos y antibióticos tópicos",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Tiene un acné comedoniano y pápulo-pustular. Actualmente se ha estudiado más en detalle múltiples fármacos en el tratamiento del acné. Los queratolíticos, en especial, los retinoides tópicos (ej. adapaleno, tretinoína, tazaroteno) son el tratamiento de primera línea, de elección, en el acné únicamente comedoniano. Como alternativas están el ácido azelaico y el ácido salicílico solos. Si no responde o si es acné in\u0000amatorio (con pústulas y pápulas, como en este caso), se primera línea se indica un retinoide más un antimicrobiano tópico (ej. peróxido de benzoílo o clindamicina). En los casos más graves, se pueden usar terapias sistémicas, tales como la isotretinoína oral (fármaco que cambia el curso de la enfermedad y logra remisión a largo plazo, pero reseca mucho la piel y labios, además de tener reacciones adversas tales como hepatitis y reacciones fototóxicas) y, en casos seleccionados, los antibióticos orales, en especial las tetraciclinas, como la doxiciclina o la minociclina. También, en mujeres, pueden servir los anticonceptivos con progestinas antiandrogénicas como la drospirenona, dienogest o clormadinona. También podría servir la espironolactona, aunque tiene riesgo de hiperkalemia.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Paciente de 26 años, sin antecedentes, consulta por caída de cabello, al examen Sin contestar físico se observa una placa alopécica de aproximadamente 2 cm de diámetro Puntúa como levemente eritematosa y con presencia de pelos quebradizos. El tratamiento de 1,00 elección para este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Clotrimazol tópico",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Terbina\u0000na oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Griseofulvina oral",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Corticoides tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Observación Es una tiña capitis, la que se trata con griseofulvina, vía oral, puesto que curbe bien",
+        "correcta": false
+      }
+    ],
+    "justificacion": "al Microsporum canis y es de elección. El \u0000uconazol sí puede usarse, pero se pre\u0000ere para las infecciones por cándida y tiene evidencia algo más limitada. Si hubiese venido sin signos in\u0000amatorios ni presencia de ningún cabello en el área afectada, sería una alopecia areata y el tratamiento habría sido correcto los corticoides tópicos o intralesionales, aunque si la pérdida de cabello es mayor al 50%, se debe derivar para tratamientos más complejos (ej. inhibidores JAK). Por ser autolimitada en muchos casos, si es pequeña y al paciente no le importa mayormente, se puede incluso observar.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Paciente de 37 años, sin antecedentes, consulta por una lesión a nivel dorsal. Al Sin contestar examen físico se observa esta lesión hiperpigamentada de 5 mm de diámetro: La conducta más adecuada en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Realizar biopsia excisional",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar radioterapia local",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar corticoides tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Biopsiar el borde de la lesión Es un nevo melanocítico común. No tiene ningún signo de alarma, ya que es",
+        "correcta": false
+      }
+    ],
+    "justificacion": "pequeño, homogéneo, regular. Se debe observar.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un niño de 5 meses de edad es traído por su madre, por lesiones en su cara. Al Sin contestar examen físico se aprecian pápulas eritematosas y descamación en ambas mejillas Puntúa como y también algunas en los codos. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dermatitis seborreica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Escabiosis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Dermatitis atópica",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Liquen plano",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Millium sebáceo Es una dermatitis atópica clásica. Se debe recordar que en los lactantes, los sitios clásicos son las mejillas, las zonas extensoras (codos y rodillas) y el cuero cabelludo, es decir, las zonas de roce. En los niños mayores, en cambio, las zona",
+        "correcta": false
+      }
+    ],
+    "justificacion": "más frecuentes son las zonas \u0000exoras, es decir, las zonas de sudor.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Estudiante de medicina de 24 años, sin antecedentes, consulta por presentar Sin contestar lesiones eritematosas en ambas manos, muy pruriginosas, que iniciaron hace 10 Puntúa como días y han ido en aumento. Al examen físico se aprecian vesículas y pápulas en las 1,00 caras laterales de los dedos pulgar e índice de ambas manos, sobre una base eritematosa. El diagnóstico más probable es: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dermatitis atópica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Herpes zóster",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Dermatitis de contacto alérgica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dishidrosis",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Impétigo buloso Es una dishidrosis, o eccema dishidrótico o pónfolix clásico. Se caracteriza por prurito intenso, con aparición de vesículas muy tensas en particular en los dedos y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "también en manos y pies, afectando tanto el dorso, como las palmas y plantas. Suele desencadenarse en periodos de estrés o por contacto con alérgenos, los que deben identi\u0000carse y evitarse. Se trata con corticoides tópicos más antihistamínicos orales. Los casos muy severos se manejan con prednisona oral.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Lactante de 5 meses, con antecedente de prematurez, es traída por aparición de Sin contestar lesiones en zona del pañal, asociado a irritabilidad. Al examen físico se observa lo Puntúa como siguiente: ¿Qué tratamiento está indicado en este caso?",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Indicar cambios frecuentes de pañal y aplicación de crema humectante",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Indicar cambios frecuentes de pañal y antimicóticos tópicos",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Indicar cambios frecuentes de pañal y antimicóticos orales",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Indicar cambios frecuentes de pañal y antibióticos tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Indicar cambios frecuentes de pañal y antibióticos orales",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una micosis o candidiasis del pañal (ya que se ven las lesiones satélites). La dermatitis del pañal, en general se trata con óxido de zinc como barrera, más los cambios frecuentes del pañal. Cuando existe alta sospecha de cándida, por presencia de lesiones satélites y/o compromiso de los pliegues, además, se agregan los antimicóticos tópicos, como nistatina o clotrimazol.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Paciente de 50 años, con antecedente de diabetes en regular tratamiento, consulta Sin contestar por presencia de caspa abundante y sequedad frontal. Al examen físico se observa Puntúa como leve eritema de cuero cabelludo asociado a caspa abundante, además se 1,00 encuentran lesiones similares en frente y cejas. El fármaco más adecuado para el manejo de este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Permetrina al 1%",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ketoconazol tópico",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Griseofulvina oral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Metronidazol tópico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Prednisona oral Tiene una dermatitis seborreica clásica: eritema y descamación en cuero cabelludo, cejas, nariz y frente. Es causada por un hongo, el Pitirosporum ovale, por lo que el tratamiento de primera línea son los antimicóticos tópicos (champú de ketoconazol en el cuero cabelludo; crema de clotrimazol o ketoconazol en la cara). Además, se puede agregar un poco de corticoides tópicos en especial si las lesiones faciales",
+        "correcta": false
+      }
+    ],
+    "justificacion": "son muy in\u0000amatorias. En los lactantes, en cambio, se debe observar o, a lo más, indicarles vaselina líquida para remover las costras. Solo en casos extremos que persistente, se usan fármacos. Si los padres insisten en que quieren un fármaco, pues se los educa amablemente; si siguen insistiendo se les dice \"aers... ¿quién es el dostor?\".",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Paciente de 43 años, con antecedente de sí\u0000lis tratada hace 1 año, consulta por Sin contestar aparición de lesiones en manos y en algunas zonas del tronco de una semana de Puntúa como evolución, asociado a prurito y sensación febril. Re\u0000ere haber tomado AINEs y 1,00 paracetamol hace una semana por lesión deportiva. Al examen físico se observa las siguientes lesiones: El diagnóstico más probable en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Eritema multiforme menor",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Sí\u0000lis secundaria",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Molusco contagioso",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Pónfolix",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Prúrigo insectario Se ven lesiones en tiro al blanco, por lo que es un eritema multiforme menor. Está difícil, porque el cuadro clínico es inespecí\u0000co. La sí\u0000lis también puede tener placas similares, pero sin la imagen en tiro al blanco. El molusco contagioso tiene nódulos, no placas, con una depresión al medio. El pónfolix tiene vesículas tensas y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "pruriginosas en los dedos, manos y pies.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Lactante de 3 meses de edad, es traído por presentar aumento de volumen en Sin contestar parpado superior derecho, de color rojo, que apareció hace un mes y que ha ido en Puntúa como aumento, llegando incluso a ocluir parcialmente el ojo del menor, tal como se 1,00 aprecia en la fotografía: La conducta más adecuada en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Observar",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Solicitar ecografía de super\u0000cie",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Iniciar tratamiento con corticoides",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Iniciar tratamiento con propanolol",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Iniciar tratamiento con antibióticos Tiene un hemangioma, que debe tratarse preferentemente con propanolol oral. Los corticoides orales o tópicos también sirven, pero el propanolol es de elección, tanto",
+        "correcta": false
+      }
+    ],
+    "justificacion": "por su efectividad, como por los menores efectos adversos. Si bien hay casos que se pre\u0000eren observar, en este caso es un hemangioma grande, ubicado en un área en la que puede deformar o afectar la vista, por lo que, sin mucha duda, se debe tratar. Además, es adecuado el control con oftalmólogo en las lesiones perioculares.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Paciente de 50 años, con antecedente de VIH en tratamiento irregular, consulta por Sin contestar aparición de lesiones en brazo derecho. Al examen físico presenta pequeñas Puntúa como pápulas eritematosas de aproximadamente 5mm de diámetro, con una pequeña 1,00 excavación central. El agente causal de estas lesiones es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Virus herpes simplex",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Citomegalovirus",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Virus herpes 8",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Toxoplasma gondii",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Virus pox",
+        "correcta": true
+      }
+    ],
+    "justificacion": "Es un molusco contagioso clásico, que es causado por el virus pox. El virus herpes 8 produce el sarcoma de Kaposi.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un niño de 5 años presenta, desde hace meses, pápulas indoloras en el dorso de los Sin contestar dedos y las manos, que en ocasiones presentan prurito escaso. Además, han Puntúa como aparecido nuevas lesiones similares, en la cara y en un antebrazo, siguiendo un 1,00 patrón de distribución lineal. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Liquen plano",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Liquen simple crónico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Fenómeno de Köebner",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Verrugas planas",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Dermatitis atópica Es una pregunta difícil, ya que hace falta una imagen para estar seguro. Sin embargo, la distribución lineal y la cronicidad de las lesiones es muy sugerente de las verrugas planas, que suelen afectar en especial la zona peribucal y perioral, más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "las manos y antebrazos. - El liquen plano tiene pápulas en muñecas y tobillos. El liquen simple crónico tiene una placa pruriginosa y liqueni\u0000cada. - El fenómeno de Köebner es aquel en que, al golpearse en una zona de la piel, aparecen lesiones similar al de otra enfermedad cutánea que el paciente tiene (ej. el paciente tiene psoriasis o vitíligo y al golpearse, le aparece la psoriasis o vitíligo en la zona del trauma). Sí es frecuente que tenga disposición lineal. Algunas imágenes de verrugas planas: Fuente: https://clinicaalova.com/tratamientos/dermatologia/verrugas-y-molluscum/ Fuente: https://dermatologiaclinica.es/enfermedad/verrugas-planas/",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Embarazada de 30 semanas, sin antecedentes, consulta por lesiones eritematosas Sin contestar en antebrazos, genitales, manos y tronco, asociadas a prurito. Al examen físico se Puntúa como aprecian lesiones eritematosas papulares y maculares en patrón sinuoso, con 1,00 signos de grataje, por lo que se decide realizar un ácaro test, que resulta positivo. El tratamiento de elección, en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Permetrina oral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Puvaterapia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Corticoides locales",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "DEET (N,N-diethil-m-toluamida)",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Vaselina azufrada Tiene una escabiosis o sarna, que suele tratarse con permetrina tópica, al 5%. Sin embargo, por estar embarazada, de acuerdo a la guía chilena, de elección es la vaselina azufrada y solo de segunda línea se indica la permetrina. Lo mismo sucede en la lactancia y en los menores de 3 meses. Sin embargo, la evidencia actual muestra que es segura la permetrina tópica en estos grupos (solo falta la evidencia",
+        "correcta": true
+      }
+    ],
+    "justificacion": "en menores de 2 meses, pero probablemente sea segura en dicho grupo). Si le dieron permetrina oral, pues la pueden intoxicar severamente, ya que solo se da tópica. El DEET es el principio activo de la mayoría de repelentes con buena e\u0000cacia (idealmente concentraciones del 20% o más para que sea realmente e\u0000caz).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente de 23 años, sin antecedentes, consulta por disminución de fuerza de Sin contestar extremidades asociadas a aparición de lesiones en sus manos. Al examen físico se Puntúa como aprecia lo siguiente: El diagnóstico más probable en este caso es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lupus",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Esclerodermia",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Urticaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Sí\u0000lis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Dermatomiositis Se ve el eritema sobre las articulaciones metacarpofalángicas e interfalángicas, lo que se conoce como rash de Gottron, que es una manifestación clásica de la",
+        "correcta": true
+      }
+    ],
+    "justificacion": "dermatomiositis.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "La asociación de onicolisis y onicogrifosis en algunos ortejos de un paciente sin Sin contestar otros síntomas, es muy sugerente de:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Onicomicosis",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Onicocriptosis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Psoriasis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Liquen plano",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sí\u0000lis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Onicolisis signi\u0000ca que la uña se despega parcialmente del lecho ungueal. Onicogrifosis es que la uña se vuelve gruesa. Ambos se ven en la onicomicosis. Onicocriptosis es un término técnico para referirse a la “uña encarnada”. La psoriasis sí puede tener esas cosas, pero lo más clásico son los pits o picotazos ungueales y las “manchas oleosas”.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Una paciente presenta aparición de ampollas generalizadas, que afecta tanto el Sin contestar tronco, como la cara y las extremidades. Las lesiones son dolorosas con un patrón Puntúa como de aparición crónico-recidivante. El signo de Nikolsky es positivo. El diagnóstico 1,00 más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Epidermolisis bulosa",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Prúrigo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Pén\u0000go",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Pen\u0000goide",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Necrosis epidermotóxica El signo de Nikolsky solo está en 3 enfermedades: pén\u0000go, piel escaldada y necrosis epidermotóxica (NET). Además, la clínica crónica es sugerente de pén\u0000go, ya que la NET es un cuadro agudo, en razón a exposición a fármacos y la piel",
+        "correcta": false
+      }
+    ],
+    "justificacion": "escaldada es agudo, en relación a una infección esta\u0000locócica en lactantes.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un paciente de 80 años presenta una lesión solevantada de 1 centímetro de Sin contestar diámetro, en la mejilla derecha, de bode brillante elevado, con una depresión central. Puntúa como El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cáncer espinocelular",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Cáncer basocelular",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Queratosis seborreica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Queratosis actínica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Léntigo maligno Es un carcinoma basocelular clásico (borde perlado, ubicado en zona fotoexpuesta, en un adulto mayor). El tratamiento de elección es la resección quirúrgica con pequeño margen (4-5 mm y, si está en una zona importante estéticamente, incluso puede ser menor, con pequeñas resecciones con biopsias intraoperatorias, hasta",
+        "correcta": false
+      }
+    ],
+    "justificacion": "que se con\u0000rmen los márgenes negativos, lo que se conoce como técnica de Mohs. - La queratosis seborreica es hiperpigmentada y de super\u0000cie irregular y agrietada, pero suave al tacto. - La actínica es hiperqueratósica y muy áspera. - El léntigo maligno es un tipo de melanoma, hiperpigmentado, irreguar y grande, que crece lento, habitualmente en la cara.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Un paciente presenta aparición de ronchas generalizadas, que desaparecen Sin contestar espontáneamente, pero recidivan con frecuencia. Las lesiones son muy Puntúa como pruriginosas y aumentan al rascarse. Al examen físico destaca dermatogra\u0000smo. Se 1,00 solicita TSH, hemograma y per\u0000l bioquímico, que resultan normales. El tratamiento de elección para este paciente es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Antihistamínicos orales",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Corticoides orales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Corticoides tópicas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Levotiroxina oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Crema humectante Tiene una urticaria crónica clásica (ronchas recidivantes y dermatogra\u0000smo). Se",
+        "correcta": false
+      }
+    ],
+    "justificacion": "trata con antihistamínicos orales, más evitar los agentes desencadenantes (ej. alérgenos, perfumes, etc.).",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Un paciente presenta aparición de lesiones eritematosas, con descamación blanca Sin contestar sobre las rodillas, como se aprecia en la fotografía: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Psoriasis",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Liquen simple crónico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Liquen plano",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dermatitis atópica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Dermatitis seborreica",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una psoriasis clásica: placas eritematosas en las rodillas.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "El loxocelismo cutáneo se mani\u0000esta clínicamente como:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Una mácula",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Una úlcera",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Una placa",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Un nódulo",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Un tumor La lesión clásica es la placa livedoide, que si bien puede estar ulcerada al centro, sigue siendo una gran placa, con varios colores concéntricos (rojo, blanco, violáceo",
+        "correcta": false
+      }
+    ],
+    "justificacion": "y puede terne un centro negro o necrótico). Ejemplos de imágenes: Fuente: http://www.cenetec-difusion.com/ Fuente: wikipedia.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Un adolescente presenta aparición de lesiones en la cara, desde hace 3 días, las que Sin contestar han aumentado. Al examen físico se aprecia lo siguiente: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Acné",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Rosácea",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Erisipela",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Impétigo",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Ántrax",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es un impétigo clásico, con las costras mielicéricas. Se trata con descostraje con un paño húmedo y antibióticos tópicos (mupirocina, clindamicina, polimixina B). En los casos con más lesiones, que no responden o en los que el paciente no copera con el tratamiento tópico, se trata con antibióticos orales (cloxacilina, \u0000ucloxacilina o cefadroxilo). Por ser una enfermedad leve, no es necesario cubrir SAMR de entrada.",
+    "archivo_origen": "5.txt"
+  },
+  {
+    "numero": 1,
+    "enunciado": "Un paciente de 10 años es hospitalizado por una celulitis, recibiendo tratamiento Sin contestar antibiótico endovenoso. Evoluciona al día siguiente con \u0000ebre alta, odinofagia y Puntúa como aparición de vesículas y luego bulas en el tronco, extremidades y la cara, que 1,00 respetan el cuero cabelludo. También aparecen ampollas en la boca, las que son muy dolorosas y di\u0000cultan la ingesta. Afecta cerca de un 15% de la super\u0000cie cutánea. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de Steven Johnson",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Necrosis epidermotóxica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Epidermolisis bulosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome de piel escaldada",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Ectima gangrenoso Es un SSJ clásico. Es potencialmente grave, por lo que se debe hospitalizar, suspender el fármaco, manejar las heridas y administrar ciclosporina más",
+        "correcta": false
+      }
+    ],
+    "justificacion": "corticoides. Si se agrava, se puede intentar agregar inmunoglobulina endovenosa.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 2,
+    "enunciado": "Un paciente consulta por lesiones recidivantes, muy pruriginosas en las muñecas y Sin contestar antebrazos, como muestra la foto: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Verrugas planas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dermatitis atópica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Molusco contagioso",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Liquen plano",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Liquen simple crónico",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es un liquen plano clásico.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Una mujer consulta por prurito vulvar. Al examen físico se aprecia que la mucosa Sin contestar vaginal está indemne, sin embargo, la piel circundante es pálida, algo eritmatosa y Puntúa como lisa, con signos de grataje. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Liquen plano",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Liquen escleroso",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Candidiasis genital",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Dermatitis de contacto",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Dermatitis atópica",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es un liquen escleroso clásico.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Un paciente de 23 años consulta por aparición de múltiples lesiones en el tronco y Sin contestar la zona proximal de las extremidades, que inició hace una semana. Las lesiones Puntúa como consisten en placas rosadas, con una \u0000na y escasa descamación. No duelen y se 1,00 aprecian especialmente en la espalda y pecho. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Pitiriasis versicolor",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Pitiriasis rosada",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Sí\u0000lis secundaria",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Psoriasis",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Urticaria Es una pitiriasis rosada clásica. La placa más grande, probablemente es la mancha",
+        "correcta": false
+      }
+    ],
+    "justificacion": "heráldica.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Una paciente de 45 años consulta por caída de cabello. Al examen físico se aprecia Sin contestar una zona alopécica redonda, bien delimitada, de 5 cm de diámetro en la zona Puntúa como parietal izquierda. No presenta signos in\u0000amatorios y el resto del cuero cabelludo 1,00 es normal. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Lupus discoide",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Lupus sistémico",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Alopecia areata",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Alopecia androgénica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Tiña capitis",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una alopecia areata clásica.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 6,
+    "enunciado": "Un paciente de 65 años consulta por una lesión solevantada en la mano derecha, Sin contestar que ha crecido lentamente en los últimos dos años y se ha ulcerado en algunas Puntúa como ocasiones. Al examen físico se observa lo siguiente: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Queratosis seborreica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Queratosis actínica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Melanoma acral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Carcinoma basocelular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Carcinoma espinocelular Es un cuerno cutáneo maligno, que es una forma de presentación del carcinoma",
+        "correcta": true
+      }
+    ],
+    "justificacion": "epidermoide o espinocelular.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Un paciente presenta \u0000ebre, asociada a una lesión eritematosa en la pierna Sin contestar izquierda. Al examen físico se aprecia una placa eritematosa, brillante, de 12 x 20 Puntúa como cm de diámetro, con aumento de la temperatura local. El tratamiento más adecuado para este paciente es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Cefadroxilo oral",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Ceftriaxona endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Cloxacilina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Clindamicina endovenosa",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Penicilina endovenosa Es una erisipela, por lo que se trata de elección con penicilina endovenosa. El borde",
+        "correcta": true
+      }
+    ],
+    "justificacion": "es fácil de de\u0000nir.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Un paciente consulta por aparición de una lesión en el pene. No re\u0000ere dolor ni otros Sin contestar síntomas y al examen físico se aprecia lo siguiente: El agente etiológico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Treponema pallidum",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Haemophilus ducreyi",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Virus herpes simplex",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Virus papiloma humano",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Neisseria gonorreae Es una sí\u0000lis primaria o chancro clásico, por lo que es causada por el T. pallidum. Si bien se deben solicitar pruebas treponémicas y no treponémicas, el manejo más importante es tratar de inmediato, ya que suele tener dichas pruebas negativas al inicio y el resultado no cambiará la conducta. Por eso se dice que el diagnóstico de la sí\u0000lis primaria es clínico. Luego se seguirá con títulos de VDRL (deberían subir y",
+        "correcta": false
+      }
+    ],
+    "justificacion": "luego bajar).",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Un paciente consulta por aparición de una lesión en la planta del pie izquierdo, que Sin contestar le produce dolor al pisar. Al examen físico se aprecia una tumoración de 8 mm de Puntúa como diámetro, hiperqueratósica, con algunos puntos negros en su super\u0000cie. Además, se 1,00 aprecia una lesión similar, pero de solo 4 mm en la misma planta del pie. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Verruga plantar",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Melanoma acral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Queratosis actínica",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Queratosis seborreica",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Granuloma piógeno Es una verruga plantar clásica, con la hiperqueratosis y los puntos negros clásicos",
+        "correcta": false
+      }
+    ],
+    "justificacion": "(vasos trombosados).",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Un paciente consulta por eritema y ardor en ambas axilas, que inició hace 24 horas. Sin contestar Al examen físico se aprecia una placa eritematosa, en cada axila. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Prúrigo",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dermatitis de contacto alérgica",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Hidrosadenitis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Pén\u0000go",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Impétigo buloso Es una dermatitis de contacto clásica, al desodorante. La hidrosadenitis es una patología en que se obstruyen las glándulas sudoríparas apocrinas, generando dolor",
+        "correcta": false
+      }
+    ],
+    "justificacion": "y abscesos.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 11,
+    "enunciado": "Un niño presenta lesiones vesiculares y papulares, que aparecieron hace 48 horas Sin contestar en las extremidades y el tronco. Al examen se aprecia lo siguiente: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Síndrome de Steven Johnson",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Impétigo",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Escarlatina",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Varicela",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Prúrigo Es un prúrigo clásico, tanto por la clínica (vesículas generalizadas, mayores en extremidades y tronco), como por la imagen. La varicela, en cambio, siempre afecta",
+        "correcta": true
+      }
+    ],
+    "justificacion": "la cabeza y está precedida por un cuadro febril, con mialgias y malestar general.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Un recién nacido presenta una lesión roja en la cara y oreja derechaa, como se Sin contestar aprecia en la fotografía. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Hemangioma",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Mancha salmón",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Nevus \u0000ammeus",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Malformación vascular",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Nevo de Ota Es un nevus \u0000ammeus clásico, también llamado mancha de Oporto o mancha de",
+        "correcta": false
+      }
+    ],
+    "justificacion": "vino tinto.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Un paciente de 69 años consulta por una lesión oscura en la cara, como la que se Sin contestar aprecia en la fotografía: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Carcinoma basocelular",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Lentigo maligno",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Melanoma acral",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Lentigo solar",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Queratosis seborreica",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es un melanoma lentigo maligno o simplemente lentigo maligno clásico.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Una paciente consulta por ardor ocular, asociado a enrojecimiento de la cara. Al Sin contestar examen físico se aprecia eritema de los párpados y de las mejillas y frente, con Puntúa como abundantes pápulas y pústulas sobre las áreas eritematosas. El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dermatomiositis",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Rosácea",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Acné conglobata",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Lupus eritematoso sistémico",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Lupus cutáneo subagudo Es una rosácea clásica, con la afectación ocular clásica. Además, no respeta el",
+        "correcta": false
+      }
+    ],
+    "justificacion": "surco nasogeniano (afecta el mentón), por lo que no parece lupus.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 15,
+    "enunciado": "El tratamiento de primera línea del acné comedoniano es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Retinoides tópicos",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Antibióticos orales",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Antibióticos tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Isotretinoína oral",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Corticoides tópicos Actualmente se ha estudiado más en detalle múltiples fármacos en el tratamiento",
+        "correcta": false
+      }
+    ],
+    "justificacion": "del acné. Los retinoides tópicos (ej. adapaleno, tretinoína, tazaroteno) son el tratamiento de primera línea, de elección, en el acné únicamente comedoniano. Como alternativas están el ácido azelaico y el ácido salicílico solos. Si no responde o si es acné in\u0000amatorio (con pústulas y pápulas), se primera línea se indica un retinoide más un antimicrobiano tópico (ej. peróxido de benzoílo o clindamicina). En los casos más graves, se pueden usar terapias sistémicas, tales como la isotretinoína oral (fármaco que cambia el curso de la enfermedad y logra remisión a largo plazo, pero reseca mucho la piel y labios, además de tener reacciones adversas tales como hepatitis y reacciones fototóxicas) y, en casos seleccionados, los antibióticos orales, en especial las tetraciclinas, como la doxiciclina o la minociclina. También, en mujeres, pueden servir los anticonceptivos con progestinas antiandrogénicas como la drospirenona, dienogest o clormadinona. También podría servir la espironolactona, aunque tiene riesgo de hiperkalemia.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Un niño de 6 años presenta aparición de lesiones cutáneas en las extremidades Sin contestar inferiores, consistentes en pápulas rojas, que no blanquean con la compresión. Las Puntúa como lesiones no duelen y el niño está en buenas condiciones generales. Al examen físico 1,00 se constata lo siguiente: El diagnóstico más probable es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Púrpura de Schönlein Henoch",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Síndrome de Steven Johnson",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Tiña corporis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Síndrome de Kawasaki",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Sarampión",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Es una púrpura de Schönlein Henoch clásica.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 17,
+    "enunciado": "La manifestación cutánea más frecuente de la espondilitis anquilosante y otras Sin contestar pelviespondiloartropatías es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Sequedad de piel",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dermatomiositis",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Eritema nodoso",
+        "correcta": true
+      },
+      {
+        "letra": "d",
+        "texto": "Dermatitis herpetiforme",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Esclerodermia El eritema nodoso y luego el pioderma gangrenoso son las patologías cutáneas más frecuentes asociadas a las pelviespondilopatías y también a las enfermedades",
+        "correcta": false
+      }
+    ],
+    "justificacion": "in\u0000amatorias intestinales. La sequedad de la piel es sugerente de dermatitis atópica. La dermatomiositis es sugerente de cáncer, ya que es un síndrome paraneoplásico. La dermatitis herpetiforme es sugerente de de enfermedad celíaca. La esclerodermia suele ser primaria y no secundaria a otras enfermedades.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Un niño de 4 años es diagnosticado de escabiosis en su colegio. El tratamiento más Sin contestar adecuado es:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Loción de permetrina",
+        "correcta": true
+      },
+      {
+        "letra": "b",
+        "texto": "Ivermectina oral",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Pomada de vaselina azufrada",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Organofosforados tópicos",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Antihistamínicos orales La permetrina al 5% es el tratamiento de elección de la sarna, excepto en embarazadas, lactancia y niños menores de 2-3 meses de edad, en que se pre\u0000ere la vaselina azufrada, según el Minsal. Sin embargo, las recomendaciones actuales en muchas guías internacionales es tratar con permetrina a embarazadas y nodrizas (sí se tienen que lavar el pezón antes de amamantar) y, en los niños pequeños, menores de 2 meses, sí se deja la vaselina azufrada, por no existir estudio de seguridad, pero, si no responde a la vaselina azufrada, se indica",
+        "correcta": false
+      }
+    ],
+    "justificacion": "permetrina igual.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Las alteraciones dermatológicas en la nariz del paciente, en la fotografía de más Sin contestar abajo, son una consecuencia de:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Dermatitis seborreica",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Dermatitis atópica",
+        "correcta": false
+      },
+      {
+        "letra": "c",
+        "texto": "Dermatomiositis",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Rosácea",
+        "correcta": true
+      },
+      {
+        "letra": "e",
+        "texto": "Lupus",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Tiene una rino\u0000ma, que es la etapa \u0000nal de la rosácea.",
+    "archivo_origen": "6.txt"
+  },
+  {
+    "numero": 20,
+    "enunciado": "El vitíligo se mani\u0000esta como:",
+    "opciones": [
+      {
+        "letra": "a",
+        "texto": "Pápulas",
+        "correcta": false
+      },
+      {
+        "letra": "b",
+        "texto": "Máculas",
+        "correcta": true
+      },
+      {
+        "letra": "c",
+        "texto": "Placas",
+        "correcta": false
+      },
+      {
+        "letra": "d",
+        "texto": "Pseudopápulas",
+        "correcta": false
+      },
+      {
+        "letra": "e",
+        "texto": "Vesículas",
+        "correcta": false
+      }
+    ],
+    "justificacion": "Se caracteriza por máculas acrómicas o apigmentadas.",
+    "archivo_origen": "6.txt"
+  }
+]
