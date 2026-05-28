@@ -4,6 +4,7 @@ import { seedIfNeeded } from "./db/seed.js";
 import { toast } from "./ui/dom.js";
 
 import { vistaHome } from "./ui/home.js";
+import { leerVersion } from "./version.js";
 import { vistaQuizFiltros } from "./modos/quiz-temas.js";
 import { vistaCasosLista, vistaCaso } from "./modos/casos-clinicos.js";
 import { vistaDefiniciones } from "./modos/definiciones.js";
@@ -36,6 +37,11 @@ alCambiar((segmentos) => {
 async function arranque() {
   const splash = document.getElementById("splash");
   const setMsg = (m) => { const s = document.getElementById("splash-msg"); if (s) s.textContent = m; };
+  // Versión visible en <title> y splash desde el primer instante.
+  const v = await leerVersion();
+  document.title = `EUNACOM v${v.version} — Estudio offline`;
+  const splashSub = document.getElementById("splash-version");
+  if (splashSub) splashSub.textContent = `v${v.version}${v.commit !== "local" ? " · " + v.commit : ""}`;
   try {
     const r = await seedIfNeeded(setMsg);
     if (r.sembrado) toast(`Banco inicial cargado (${r.preguntas} preguntas).`, "ok");

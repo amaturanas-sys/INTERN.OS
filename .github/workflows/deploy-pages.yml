@@ -34,6 +34,18 @@ jobs:
           # evitando el paso manual en Settings -> Pages.
           enablement: true
 
+      - name: Estampar versión (semver + SHA + fecha)
+        run: |
+          APP_VERSION=$(cat VERSION | tr -d '[:space:]')
+          GIT_SHA=$(git rev-parse --short HEAD)
+          BUILD_DATE=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          echo "Estampando v${APP_VERSION} build ${GIT_SHA} (${BUILD_DATE})"
+          # data/version.json: leído por la app
+          sed -i "s/__APP_VERSION__/${APP_VERSION}/g; s/__GIT_SHA__/${GIT_SHA}/g; s/__BUILD_DATE__/${BUILD_DATE}/g" data/version.json
+          # service-worker: cache name único por deploy (invalida automáticamente)
+          sed -i "s/__GIT_SHA__/${GIT_SHA}/g" service-worker.js
+          cat data/version.json
+
       - name: Subir artefacto del sitio
         uses: actions/upload-pages-artifact@v3
         with:

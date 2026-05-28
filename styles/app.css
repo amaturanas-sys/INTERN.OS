@@ -53,7 +53,9 @@ h3 { margin: 18px 0 10px; }
 
 /* Home */
 .home__hero { padding: 8px 4px 18px; }
+.home__hero-titulo { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
 .home__hero h1 { margin: 0; font-size: 34px; color: var(--teal); }
+.home__version { font-size: 12px; color: var(--muted); border: 1px solid var(--line); padding: 2px 8px; border-radius: 999px; font-family: monospace; }
 .home__resumen { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
 .home__resumen span { background: var(--card); border: 1px solid var(--line); padding: 6px 12px; border-radius: 999px; font-size: 13px; }
 .home__resumen .pill { background: var(--teal-d); border-color: var(--teal); }
@@ -241,6 +243,7 @@ textarea { resize: vertical; }
 /* Splash */
 .splash { position: fixed; inset: 0; z-index: 100; display: grid; place-content: center; justify-items: center; gap: 16px; background: var(--bg); }
 .splash__logo { font-size: 36px; font-weight: 800; color: var(--teal); letter-spacing: 2px; }
+.splash__version { font-family: monospace; font-size: 12px; margin: 4px 0 12px; }
 .spinner { width: 38px; height: 38px; border: 4px solid var(--line); border-top-color: var(--teal); border-radius: 50%; animation: spin 1s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
 

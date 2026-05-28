@@ -6,13 +6,15 @@ import { estadisticasRepaso, sesionDelDia } from "../repaso/sm2.js";
 import { leerProgreso, registrarRespuesta, registrarSesion } from "../db/stats.js";
 import { runMcq } from "./mcq.js";
 import { requiereImagenFaltante } from "./imagen.js";
+import { leerVersion, etiquetaCorta } from "../version.js";
 
 const hoy = () => new Date().toISOString().slice(0, 10);
 
 export async function vistaHome() {
-  const [nPreg, nCasos, nDefs, rep, g, objetivo] = await Promise.all([
+  const [nPreg, nCasos, nDefs, rep, g, objetivo, ver] = await Promise.all([
     count("preguntas"), count("casos_clinicos"), count("definiciones"),
     estadisticasRepaso(), leerProgreso(), getConfig("objetivo_diario", 30),
+    leerVersion(),
   ]);
   const pct = g.total_respondidas ? Math.round((g.total_correctas / g.total_respondidas) * 100) : 0;
   const hoyKey = hoy();
@@ -34,7 +36,10 @@ export async function vistaHome() {
 
   mount(el("div", { class: "home" }, [
     el("div", { class: "home__hero" }, [
-      el("h1", { text: "EUNACOM" }),
+      el("div", { class: "home__hero-titulo" }, [
+        el("h1", { text: "EUNACOM" }),
+        el("span", { class: "home__version", title: ver.fecha_build || "", text: etiquetaCorta(ver) }),
+      ]),
       el("p", { class: "muted", text: "Estudio offline · material del Dr. Guevara" }),
       el("div", { class: "home__resumen" }, [
         el("span", {}, `${pct}% acierto`),
