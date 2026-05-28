@@ -1,5 +1,7 @@
 // Service Worker: cachea toda la app para uso 100% offline.
-const CACHE = "eunacom-v5";
+// CACHE incluye el SHA del commit (estampado por el workflow de deploy)
+// para que cada release invalide automáticamente la caché previa.
+const CACHE = "eunacom-__GIT_SHA__";
 
 const ASSETS = [
   "./",
@@ -14,6 +16,7 @@ const ASSETS = [
   "./data/banco_inicial.json",
   "./data/casos_iniciales.json",
   "./data/definiciones_iniciales.json",
+  "./data/version.json",
   "./src/app.js",
   "./src/ui/dom.js",
   "./src/ui/router.js",
@@ -33,6 +36,7 @@ const ASSETS = [
   "./src/modos/casos-clinicos.js",
   "./src/modos/definiciones.js",
   "./src/modos/marcadas.js",
+  "./src/version.js",
 ];
 
 self.addEventListener("install", (e) => {

@@ -1,0 +1,5 @@
+{
+  "version": "__APP_VERSION__",
+  "commit": "__GIT_SHA__",
+  "fecha_build": "__BUILD_DATE__"
+}
