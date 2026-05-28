@@ -1,7 +1,21 @@
 // Runner genérico de sesiones MCQ. Lo usan el Modo 1 (quiz) y el Modo 3 (definiciones).
-import { el, clear, mount, badge } from "./dom.js";
+import { el, clear, mount, badge, toast } from "./dom.js";
 import { vistaImagen } from "./imagen.js";
 import { navegar } from "./router.js";
+
+async function marcarParaRevisar(item, btn) {
+  try {
+    const { put } = await import("../db/db.js");
+    if (!item._raw) return;
+    item._raw.marcada_revision = !item._raw.marcada_revision;
+    item.onMarcarStore = item.onMarcarStore || "preguntas";
+    await put(item.onMarcarStore, item._raw);
+    toast(item._raw.marcada_revision ? "Marcada para revisar." : "Desmarcada.", "ok");
+    if (btn) btn.textContent = item._raw.marcada_revision ? "🚩 Marcada (deshacer)" : "🚩 Marcar para revisar";
+  } catch (e) {
+    toast("No se pudo marcar: " + e.message, "error");
+  }
+}
 
 // items: [{ id, tipo, enunciado, opciones:[{letra,texto,correcta}], explicacion, imagen,
 //           subtitulo, onEdit }]
@@ -109,6 +123,8 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
     const acciones = el("div", { class: "runner__acciones" }, [
       item.onEdit ? el("button", { class: "btn btn--ghost btn--sm",
         onClick: () => item.onEdit() }, "✎ Editar/corregir") : null,
+      item.onMarcar ? el("button", { class: "btn btn--ghost btn--sm",
+        onClick: (ev) => marcarParaRevisar(item, ev.currentTarget) }, "🚩 Marcar para revisar") : null,
       el("button", { class: "btn btn--ghost btn--sm", onClick: () => salir() }, "Salir"),
     ]);
 

@@ -1,5 +1,5 @@
 // Service Worker: cachea toda la app para uso 100% offline.
-const CACHE = "eunacom-v4";
+const CACHE = "eunacom-v5";
 
 const ASSETS = [
   "./",
@@ -32,6 +32,7 @@ const ASSETS = [
   "./src/modos/quiz-temas.js",
   "./src/modos/casos-clinicos.js",
   "./src/modos/definiciones.js",
+  "./src/modos/marcadas.js",
 ];
 
 self.addEventListener("install", (e) => {

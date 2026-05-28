@@ -62,3 +62,72 @@ export async function estadisticasRepaso() {
     aprendidas: all.filter((c) => c.repeticiones >= 3).length,
   };
 }
+
+// Arma una "sesión del día" mezclando, en orden de prioridad:
+//   1) repaso pendiente SM-2 hoy (hasta la mitad del target)
+//   2) preguntas que han fallado más que acertado (curado)
+//   3) preguntas nunca respondidas (descubrimiento)
+// Devuelve la lista de objetos de preguntas (ya hidratados, no refs).
+export async function sesionDelDia(target = 20) {
+  const todasPreg = (await getAll("preguntas")).filter(
+    (q) => q.utilizable !== false
+  );
+  const porId = new Map(todasPreg.map((q) => [q.id_unico, q]));
+  const cards = await getAll("repaso");
+  const hoy = HOY();
+
+  // 1) Repaso pendiente (solo preguntas, ignorar casos/defs)
+  const pendIds = cards
+    .filter((c) => c.tipo === "pregunta" && c.proxima_revision <= hoy)
+    .sort((a, b) => (a.proxima_revision < b.proxima_revision ? -1 : 1))
+    .map((c) => c.id);
+
+  // 2) Falladas históricas (respondidas > correctas)
+  const falladas = todasPreg
+    .filter((q) => {
+      const e = q.estadisticas_usuario || {};
+      return (e.veces_respondida || 0) > 0 &&
+        (e.veces_correcta || 0) < (e.veces_respondida || 0);
+    })
+    .sort((a, b) => {
+      const ea = a.estadisticas_usuario || {};
+      const eb = b.estadisticas_usuario || {};
+      const ra = (ea.veces_correcta || 0) / (ea.veces_respondida || 1);
+      const rb = (eb.veces_correcta || 0) / (eb.veces_respondida || 1);
+      return ra - rb; // peor primero
+    })
+    .map((q) => q.id_unico);
+
+  // 3) Nuevas (nunca respondidas)
+  const nuevas = todasPreg
+    .filter((q) => !(q.estadisticas_usuario && q.estadisticas_usuario.veces_respondida))
+    .map((q) => q.id_unico);
+  // mezcla las nuevas
+  for (let i = nuevas.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [nuevas[i], nuevas[j]] = [nuevas[j], nuevas[i]];
+  }
+
+  const seleccion = new Set();
+  const tomarHasta = (lista, max) => {
+    for (const id of lista) {
+      if (seleccion.size >= target) return;
+      if (seleccion.size - antesDeBloque >= max) return;
+      if (porId.has(id) && !seleccion.has(id)) seleccion.add(id);
+    }
+  };
+  let antesDeBloque = 0;
+  tomarHasta(pendIds, Math.ceil(target * 0.5));
+  antesDeBloque = seleccion.size;
+  tomarHasta(falladas, Math.ceil(target * 0.3));
+  antesDeBloque = seleccion.size;
+  tomarHasta(nuevas, target); // completar con nuevas
+  // si aún falta y no quedan nuevas, completar con resto (re-repasos blandos)
+  antesDeBloque = 0;
+  if (seleccion.size < target) {
+    const resto = todasPreg.map((q) => q.id_unico).sort(() => Math.random() - 0.5);
+    tomarHasta(resto, target);
+  }
+
+  return [...seleccion].map((id) => porId.get(id));
+}

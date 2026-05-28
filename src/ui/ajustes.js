@@ -8,6 +8,7 @@ export async function vistaAjustes() {
     count("preguntas"), count("casos_clinicos"), count("definiciones"),
   ]);
   const fechaSeed = await getConfig("seed_fecha", "—");
+  const objetivo = await getConfig("objetivo_diario", 30);
   const offline = navigator.onLine ? "Conectado" : "Sin conexión (funciona igual)";
 
   let estimacion = "n/d";
@@ -22,6 +23,21 @@ export async function vistaAjustes() {
       fila("Preguntas", nPreg), fila("Casos", nCasos), fila("Definiciones", nDefs),
       fila("Banco cargado", fechaSeed === "—" ? "—" : new Date(fechaSeed).toLocaleString()),
       fila("Almacenamiento", estimacion), fila("Estado", offline),
+    ]),
+    el("h3", { text: "Objetivo diario" }),
+    el("div", { class: "form" }, [
+      el("label", { class: "form__row" }, [
+        el("span", { class: "form__label", text: "Preguntas por día" }),
+        (() => {
+          const inp = el("input", { type: "number", min: "5", max: "200", step: "5", value: String(objetivo) });
+          inp.addEventListener("change", async () => {
+            const v = Math.max(5, Math.min(200, parseInt(inp.value, 10) || 30));
+            await setConfig("objetivo_diario", v);
+            toast(`Objetivo: ${v} preguntas/día`, "ok");
+          });
+          return inp;
+        })(),
+      ]),
     ]),
     el("h3", { text: "Respaldo" }),
     el("div", { class: "runner__acciones" }, [

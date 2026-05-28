@@ -96,6 +96,8 @@ function normalizar(q) {
     version: q.version_actual,
     subtitulo: [q.especialidad_principal, q.tema_validado, q.dificultad_estimada].filter(Boolean),
     onEdit: () => navegar(`editar/pregunta/${encodeURIComponent(q.id_unico)}`),
+    onMarcar: true,
+    onMarcarStore: "preguntas",
     _raw: q,
   };
 }
