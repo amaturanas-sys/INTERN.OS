@@ -1,7 +1,7 @@
 // Listado de preguntas con búsqueda y filtro por especialidad,
 // pensado para curar el banco (clic -> editor con trazabilidad).
-import { el, mount, badge } from "../ui/dom.js";
-import { getAll } from "../db/db.js";
+import { el, mount, badge, toast } from "../ui/dom.js";
+import { getAll, put } from "../db/db.js";
 import { navegar } from "../ui/router.js";
 
 const PAGE = 30;
@@ -66,21 +66,32 @@ export async function vistaListadoPreguntas() {
     conteoLbl.textContent = `${filtradas.length} pregunta(s) — página ${pagina + 1} de ${Math.max(1, Math.ceil(filtradas.length / PAGE))}`;
     const slice = filtradas.slice(pagina * PAGE, (pagina + 1) * PAGE);
     slice.forEach((p) => {
-      const li = el("li", { class: "buscar-pregs__item" }, [
-        el("button", {
-          class: "buscar-pregs__btn",
-          onClick: () => navegar(`editar/pregunta/${encodeURIComponent(p.id_unico)}`),
-        }, [
-          el("div", { class: "chips" }, [
-            p.especialidad_principal ? badge(p.especialidad_principal) : null,
-            p.tema_validado ? badge(p.tema_validado) : null,
-            p.version_actual > 1 ? badge(`v${p.version_actual}`, "badge--edit") : null,
-            p.marcada_revision ? badge("🚩 marcada") : null,
-            p.utilizable === false ? badge("no usable") : null,
-          ]),
-          el("p", { class: "buscar-pregs__enun", text: p.enunciado }),
+      const btnAbrir = el("button", {
+        class: "buscar-pregs__btn",
+        onClick: () => navegar(`editar/pregunta/${encodeURIComponent(p.id_unico)}`),
+      }, [
+        el("div", { class: "chips" }, [
+          badge(p.id_unico, "badge--id"),
+          p.especialidad_principal ? badge(p.especialidad_principal) : null,
+          p.tema_validado ? badge(p.tema_validado) : null,
+          p.version_actual > 1 ? badge(`v${p.version_actual}`, "badge--edit") : null,
+          p.marcada_revision ? badge("🚩 marcada") : null,
+          p.utilizable === false ? badge("no usable") : null,
         ]),
+        el("p", { class: "buscar-pregs__enun", text: p.enunciado }),
       ]);
+      const btnMarcar = el("button", {
+        class: "btn btn--ghost btn--sm",
+        title: p.marcada_revision ? "Quitar marca" : "Marcar para revisar",
+        onClick: async (ev) => {
+          ev.stopPropagation();
+          p.marcada_revision = !p.marcada_revision;
+          await put("preguntas", p);
+          toast(p.marcada_revision ? "Marcada." : "Desmarcada.", "ok");
+          aplicar();
+        },
+      }, p.marcada_revision ? "🚩" : "☆");
+      const li = el("li", { class: "buscar-pregs__item" }, [btnAbrir, btnMarcar]);
       resultadosBox.appendChild(li);
     });
     const totalP = Math.max(1, Math.ceil(filtradas.length / PAGE));

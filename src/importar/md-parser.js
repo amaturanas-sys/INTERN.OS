@@ -213,7 +213,7 @@ export function parseMarkdown(text) {
     const tipo = (it.fm.tipo || "").toLowerCase();
     const secciones = parseSections(it.body);
     try {
-      if (tipo === "mcq") {
+      if (tipo === "mcq" || tipo === "pregunta") {
         const q = buildMcq(it.fm, secciones, i);
         if (!q.opciones.length) out.errores.push(`Ítem ${i + 1} (mcq): sin opciones válidas.`);
         else out.preguntas.push(q);

@@ -91,7 +91,9 @@ export async function vistaAjustes() {
         { label: "Cancelar", clase: "btn--ghost" },
         { label: "Borrar", clase: "btn--danger", onClick: async () => {
           for (const s of ["preguntas", "casos_clinicos", "definiciones", "progreso_usuario", "repaso"]) await clearStore(s);
+          // Limpiar marcadores de seed para forzar re-sembrado en el próximo arranque.
           await setConfig("seed_done", false);
+          await setConfig("seed_banco_version", null);
           toast("Datos borrados. Recargando…", "ok");
           setTimeout(() => location.reload(), 800);
         } },
