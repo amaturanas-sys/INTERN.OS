@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "v2-nomenclatura",
-    "descripcion": "Set inicial de casos clínicos paso a paso para los temas más preguntados en EUNACOM.",
-    "total": 19
+    "version": "v3-guias",
+    "descripcion": "Casos clínicos paso a paso para temas más preguntados en EUNACOM, incluyendo escenarios alineados con guías actualizadas 2024-2026.",
+    "total": 26
   },
   "casos": [
     {
@@ -1774,6 +1774,867 @@
           "snapshot": null
         }
       ]
+    },
+    {
+      "id": "CASO-GUIA-001-ASMA",
+      "titulo": "Asma con exacerbación moderada — GINA 2026",
+      "especialidad": "pulmonar",
+      "tema": "asma",
+      "nivel": "intermedio",
+      "guia_fuente": "GINA 2026",
+      "version_actual": 1,
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Mujer 28 años, asma persistente conocida hace 5 años. Refiere disnea progresiva y sibilancias desde hace 48 h tras IVRS. Solo ha usado salbutamol a demanda (8 puffs en las últimas 24 h). Sin ICS de mantención. En consulta: FR 26, FC 110, SpO₂ 92% aire ambiental, sibilancias difusas con espiración prolongada. ¿Cuál es el manejo INICIAL correcto?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Salbutamol 4–10 puffs con aerocámara c/20 min × 1 h + O₂ controlado para SpO₂ 93–95% + prednisona 40 mg VO",
+              "correcta": true,
+              "feedback": "Correcto. GINA 2026 mantiene SABA con aerocámara, O₂ a SpO₂ 93–95% (no >95%), corticoides sistémicos en exacerbación moderada."
+            },
+            {
+              "letra": "b",
+              "texto": "Iniciar ICS-formoterol a demanda y enviar a casa",
+              "correcta": false,
+              "feedback": "Es exacerbación con SpO₂ 92% y FR 26 — requiere tratamiento agudo en box antes."
+            },
+            {
+              "letra": "c",
+              "texto": "Salbutamol nebulizado continuo + adrenalina IM 0,3 mg",
+              "correcta": false,
+              "feedback": "Adrenalina IM es para anafilaxia, no para exacerbación asmática."
+            },
+            {
+              "letra": "d",
+              "texto": "Aminofilina IV en infusión",
+              "correcta": false,
+              "feedback": "GINA 2026 reafirma: NO usar aminofilina rutinaria en exacerbación."
+            },
+            {
+              "letra": "e",
+              "texto": "Antibiótico empírico (amoxicilina-clavulánico)",
+              "correcta": false,
+              "feedback": "No hay indicación de antibiótico — IVRS es la causa, no requiere ATB salvo infección documentada."
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "diagnostico",
+          "enunciado": "A las 2 h responde parcialmente: SpO₂ 94%, FR 22, FC 100, sibilancias menos intensas. Decide ingresar para observación. Al revisar su tratamiento de mantención antes del alta, ¿cuál es el esquema PREFERIDO según GINA 2026 para una paciente con asma persistente y exacerbación reciente?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Salbutamol a demanda como único tratamiento",
+              "correcta": false,
+              "feedback": "ELIMINADO de GINA 2026 — SABA monoterapia es contraindicado."
+            },
+            {
+              "letra": "b",
+              "texto": "Budesónida-formoterol 200/6, 1 inhalación c/12h + a demanda (MART, Track 1 Step 3)",
+              "correcta": true,
+              "feedback": "Correcto. Track 1 con ICS-formoterol como mantención + rescate (MART/AIR) es preferido por GINA 2026."
+            },
+            {
+              "letra": "c",
+              "texto": "Salmeterol-fluticasona dos veces al día + salbutamol como rescate",
+              "correcta": false,
+              "feedback": "Esquema de Track 2; GINA 2026 prefiere Track 1 con ICS-formoterol como rescate."
+            },
+            {
+              "letra": "d",
+              "texto": "Tiotropio inhalado como monoterapia",
+              "correcta": false,
+              "feedback": "LAMA monoterapia no es estándar en asma persistente."
+            },
+            {
+              "letra": "e",
+              "texto": "Omalizumab inicial",
+              "correcta": false,
+              "feedback": "Biológico se reserva para asma severa no controlada en Steps 4–5 con fenotipado."
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "La paciente pregunta sobre vacunas y prevención. ¿Cuál de las siguientes recomendaciones es INCORRECTA según las guías vigentes 2026?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Vacuna anti-influenza anual",
+              "correcta": false,
+              "feedback": "Es correcta."
+            },
+            {
+              "letra": "b",
+              "texto": "Educación sobre técnica inhalatoria y plan de acción escrito",
+              "correcta": false,
+              "feedback": "Es correcta."
+            },
+            {
+              "letra": "c",
+              "texto": "Vacuna PCV20 o PCV21 (neumococo)",
+              "correcta": false,
+              "feedback": "Es correcta — GOLD/GINA 2026 incorporan PCV20/PCV21."
+            },
+            {
+              "letra": "d",
+              "texto": "Antibiótico profiláctico mensual con azitromicina",
+              "correcta": true,
+              "feedback": "INCORRECTA. Azitromicina profiláctica no es estándar en asma sin bronquiectasias o asma neutrofílica refractaria."
+            },
+            {
+              "letra": "e",
+              "texto": "Vacuna anti-VSR si comorbilidad pulmonar crónica",
+              "correcta": false,
+              "feedback": "Es correcta para enfermedad pulmonar crónica ≥50 años."
+            }
+          ]
+        }
+      ],
+      "resumen_final": "Caso clave de manejo agudo y crónico de asma según GINA 2026:\n• Exacerbación moderada: SABA con aerocámara + O₂ titulado a SpO₂ 93–95% + prednisona 40 mg VO × 5 días.\n• NO SABA monoterapia de mantención (eliminado).\n• Track 1 (preferido): ICS-formoterol como mantención y rescate (AIR/MART).\n• Vacunas: influenza, neumococo (PCV20/PCV21), VSR, COVID, herpes zóster."
+    },
+    {
+      "id": "CASO-GUIA-002-FA",
+      "titulo": "FA de novo con HTA y DM — ESC 2024",
+      "especialidad": "cardiología",
+      "tema": "fibrilacion_auricular",
+      "nivel": "intermedio",
+      "guia_fuente": "ESC AF 2024",
+      "version_actual": 1,
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Hombre 68 años con HTA + DM2 + obesidad (IMC 32). Consulta por palpitaciones de 3 días. PA 145/85, FC irregular 110, sin disnea ni signos de IC. ECG muestra fibrilación auricular sin onda P, RR irregular. Aplicando el esquema AF-CARE y el nuevo score CHA₂DS₂-VA, ¿cuál es la conducta correcta?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "CHA₂DS₂-VA = 3 (HTA 1 + DM 1 + edad 65-74 1) → iniciar DOAC",
+              "correcta": true,
+              "feedback": "Correcto. CHA₂DS₂-VA 3 indica OAC (≥2). DOAC preferido sobre warfarina en FA no valvular."
+            },
+            {
+              "letra": "b",
+              "texto": "CHA₂DS₂-VASc = 4 → iniciar AAS",
+              "correcta": false,
+              "feedback": "ESC 2024: el sexo ya no se cuenta (CHA₂DS₂-VA), y AAS NO está indicado para prevenir ACV en FA — solo OAC."
+            },
+            {
+              "letra": "c",
+              "texto": "No anticoagular hasta confirmar FA persistente >30 segundos",
+              "correcta": false,
+              "feedback": "Con FA documentada en ECG de 12 derivaciones no se requiere monitorización adicional para indicar OAC."
+            },
+            {
+              "letra": "d",
+              "texto": "Iniciar AAS + clopidogrel como alternativa a OAC",
+              "correcta": false,
+              "feedback": "La doble antiagregación NO sustituye OAC para profilaxis de ACV en FA."
+            },
+            {
+              "letra": "e",
+              "texto": "Cardioversión eléctrica inmediata sin anticoagulación previa",
+              "correcta": false,
+              "feedback": "Sin urgencia hemodinámica, cardioversión inmediata sin OAC ≥3 sem o ecotransesofágico negativo es riesgosa."
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "manejo",
+          "enunciado": "Inicia apixabán. El paciente tiene 68 años, peso 78 kg, creatinina 1,0 mg/dL. ¿Qué dosis le indica?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Apixabán 5 mg c/12h",
+              "correcta": true,
+              "feedback": "Correcto. Para reducir a 2,5 mg c/12h necesita ≥2 de: edad ≥80, peso ≤60 kg, Cr ≥1,5 mg/dL. No cumple ninguno."
+            },
+            {
+              "letra": "b",
+              "texto": "Apixabán 2,5 mg c/12h",
+              "correcta": false,
+              "feedback": "Subdosis. NO reducir fuera de criterios — evitar infradosificación."
+            },
+            {
+              "letra": "c",
+              "texto": "Apixabán 10 mg c/12h",
+              "correcta": false,
+              "feedback": "Es la dosis de fase aguda de TVP/TEP, no de FA."
+            },
+            {
+              "letra": "d",
+              "texto": "Apixabán 5 mg/día",
+              "correcta": false,
+              "feedback": "Apixabán siempre se dosifica c/12h en FA, no una vez al día."
+            },
+            {
+              "letra": "e",
+              "texto": "Apixabán 7,5 mg c/12h",
+              "correcta": false,
+              "feedback": "No existe esa presentación."
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "diagnostico",
+          "enunciado": "Al aplicar AF-CARE más allá de la anticoagulación, ¿cuál de los siguientes componentes es el MÁS importante para este paciente con obesidad e HTA?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Reducción de peso explícita ≥10% como meta",
+              "correcta": true,
+              "feedback": "Correcto. ESC 2024 establece pérdida ≥10% como meta explícita en obesos con FA (pilar C: comorbilidades)."
+            },
+            {
+              "letra": "b",
+              "texto": "Ablación con catéter inmediata como única opción",
+              "correcta": false,
+              "feedback": "Ablación es Clase I en FA paroxística para reducir síntomas/recurrencia, pero AF-CARE prioriza control de comorbilidades primero."
+            },
+            {
+              "letra": "c",
+              "texto": "Iniciar amiodarona como control de ritmo",
+              "correcta": false,
+              "feedback": "Si requiere control de ritmo, amiodarona NO es 1ª línea por toxicidad."
+            },
+            {
+              "letra": "d",
+              "texto": "Cierre de orejuela percutáneo",
+              "correcta": false,
+              "feedback": "Cierre de orejuela es IIa solo si contraindicación a OAC, no como prevención primaria."
+            },
+            {
+              "letra": "e",
+              "texto": "AAS adicional a apixabán",
+              "correcta": false,
+              "feedback": "Aumenta riesgo de sangrado sin beneficio antitrombótico."
+            }
+          ]
+        }
+      ],
+      "resumen_final": "FA según ESC 2024 — esquema AF-CARE:\n• [C] Comorbilidades primero: pérdida ≥10% peso, control PA, DM, apnea, alcohol.\n• [A] Anticoagulación según CHA₂DS₂-VA (sin sexo): ≥2 indica OAC.\n• [R] Reducir síntomas: control frecuencia (BB) o ritmo (ablación Clase I en FA paroxística).\n• [E] Reevaluación dinámica.\n\nDOAC preferido. NO reducir dosis fuera de criterios. AAS no sustituye OAC."
+    },
+    {
+      "id": "CASO-GUIA-003-TEP",
+      "titulo": "TEP intermedio-alto en paciente postquirúrgico — AHA 2026",
+      "especialidad": "cardiología",
+      "tema": "tep",
+      "nivel": "avanzado",
+      "guia_fuente": "AHA/ACC PE 2026",
+      "version_actual": 1,
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Mujer 62 años, 7º día postoperatorio de prótesis de cadera. Presenta disnea súbita y dolor torácico. PA 100/60, FC 115, FR 26, SpO₂ 90% aire ambiental. Wells: 7,5 puntos (TEP probable). AngioTC confirma TEP segmentario bilateral. Ecocardio bedside: dilatación de VD con TAPSE 14 mm. Troponina I 0,08 ng/mL (elevada). NT-proBNP 950 pg/mL. ¿En qué categoría de riesgo la clasifica?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Alto riesgo (shock)",
+              "correcta": false,
+              "feedback": "No hay shock — PA 100/60 sostenida no cumple criterio (<90 sostenida >15 min)."
+            },
+            {
+              "letra": "b",
+              "texto": "Intermedio-alto (disfunción VD + biomarcadores positivos)",
+              "correcta": true,
+              "feedback": "Correcto. AHA/ACC 2026 — intermedio-alto = disfunción VD + biomarcadores positivos sin shock."
+            },
+            {
+              "letra": "c",
+              "texto": "Intermedio-bajo",
+              "correcta": false,
+              "feedback": "Intermedio-bajo sería solo uno de los dos (VD O biomarcadores), no ambos."
+            },
+            {
+              "letra": "d",
+              "texto": "Bajo riesgo",
+              "correcta": false,
+              "feedback": "Bajo riesgo requiere sPESI 0, sin disfunción VD ni biomarcadores."
+            },
+            {
+              "letra": "e",
+              "texto": "No clasificable sin centellograma V/Q",
+              "correcta": false,
+              "feedback": "AngioTC es gold standard; la clasificación se hace con clínica + VD + biomarcadores."
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "manejo",
+          "enunciado": "Tratamiento inicial. Considerando la categoría intermedio-alto y los ensayos PEERLESS / HI-PEITHO (2024-2026), ¿cuál es la conducta MÁS apropiada en un centro con PERT disponible?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Anticoagulación con heparina + monitorización estrecha",
+              "correcta": false,
+              "feedback": "Es lo mínimo aceptable; sin embargo HI-PEITHO 2026 mostró superioridad de CDT facilitado por US en este perfil."
+            },
+            {
+              "letra": "b",
+              "texto": "Trombolisis sistémica con alteplasa 100 mg en 2 h",
+              "correcta": false,
+              "feedback": "Trombolisis sistémica es para alto riesgo (shock); en intermedio-alto el riesgo de sangrado supera el beneficio."
+            },
+            {
+              "letra": "c",
+              "texto": "Activar PERT y evaluar trombectomía mecánica (FlowTriever) o CDT facilitado por ultrasonido (EKOS)",
+              "correcta": true,
+              "feedback": "Correcto. PEERLESS 2024 (FlowTriever > CDT en intermedio-riesgo) y HI-PEITHO 2026 (CDT-US ↓61% endpoint compuesto vs anticoag). Decisión PERT."
+            },
+            {
+              "letra": "d",
+              "texto": "Filtro de vena cava como única medida",
+              "correcta": false,
+              "feedback": "Filtro IVC se reserva para contraindicación absoluta a anticoagulación; nunca como única medida."
+            },
+            {
+              "letra": "e",
+              "texto": "ECMO V-A",
+              "correcta": false,
+              "feedback": "ECMO V-A solo en alto riesgo refractario tras trombolisis o como puente a trombectomía."
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "diagnostico",
+          "enunciado": "Se realiza trombectomía mecánica exitosa. La paciente se estabiliza y se inicia apixabán. Como fue un TEP provocado por cirugía mayor reciente, ¿cuál es la duración correcta de anticoagulación?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "3 meses",
+              "correcta": true,
+              "feedback": "Correcto. Factor mayor transitorio (cirugía) → 3 meses de anticoagulación es estándar."
+            },
+            {
+              "letra": "b",
+              "texto": "6 meses fijos siempre",
+              "correcta": false,
+              "feedback": "6 meses se usa en provocados por factor menor; cirugía mayor es factor mayor."
+            },
+            {
+              "letra": "c",
+              "texto": "Anticoagulación indefinida obligatoria",
+              "correcta": false,
+              "feedback": "Indefinida es para TEP no provocado o factor persistente (cáncer, trombofilia, recurrente)."
+            },
+            {
+              "letra": "d",
+              "texto": "Suspender al alta hospitalaria",
+              "correcta": false,
+              "feedback": "Incorrecto — duración mínima 3 meses."
+            },
+            {
+              "letra": "e",
+              "texto": "Cambiar a warfarina por 1 año",
+              "correcta": false,
+              "feedback": "DOAC se mantiene; warfarina no es preferida sin indicación específica."
+            }
+          ]
+        }
+      ],
+      "resumen_final": "TEP según AHA/ACC 2026:\n• Estratificación: alto (shock), intermedio-alto (VD+biomarcadores+), intermedio-bajo (uno), bajo (sPESI 0).\n• Alto: trombolisis sistémica (alteplasa 100 mg/2 h).\n• Intermedio-alto: anticoagulación + considerar CDT-US (HI-PEITHO 2026) o trombectomía mecánica (PEERLESS 2024) vía PERT.\n• Intermedio-bajo / bajo: DOAC primera línea; bajo con sPESI 0 → ambulatorio.\n• Duración: 3 m si factor mayor transitorio; INDEFINIDA si no provocado o persistente."
+    },
+    {
+      "id": "CASO-GUIA-004-SEPSIS",
+      "titulo": "Shock séptico de origen abdominal — SSC 2026",
+      "especialidad": "urgencias",
+      "tema": "sepsis",
+      "nivel": "avanzado",
+      "guia_fuente": "Surviving Sepsis 2026",
+      "version_actual": 1,
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Hombre 58 años con DM2 mal controlada. Consulta por dolor abdominal difuso, fiebre 39 °C, vómitos. PA 88/52, FC 124, FR 28, SpO₂ 94%. Glasgow 14. Abdomen distendido con dolor difuso. Lactato 3,4 mmol/L, leucocitos 18.000/mm³ con desviación izquierda, creatinina 1,9 mg/dL (basal 0,9). Aplicando SSC 2026, ¿cuál herramienta de tamizaje es la PREFERIDA en este paciente hospitalizado?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "qSOFA por su simplicidad",
+              "correcta": false,
+              "feedback": "SSC 2026 DEGRADA qSOFA por baja sensibilidad (~23%) — no usar como única herramienta."
+            },
+            {
+              "letra": "b",
+              "texto": "NEWS2 sobre qSOFA",
+              "correcta": true,
+              "feedback": "Correcto. SSC 2026 prefiere NEWS2 (sens ~73%), MEWS o SIRS sobre qSOFA en hospitalizados."
+            },
+            {
+              "letra": "c",
+              "texto": "SIRS exclusivamente",
+              "correcta": false,
+              "feedback": "SIRS aceptable pero NEWS2 es preferida."
+            },
+            {
+              "letra": "d",
+              "texto": "Solo lactato como tamizaje",
+              "correcta": false,
+              "feedback": "Lactato es marcador de resucitación, no herramienta de tamizaje aislada."
+            },
+            {
+              "letra": "e",
+              "texto": "Solo PCR sérica",
+              "correcta": false,
+              "feedback": "PCR es marcador inflamatorio, no validado para tamizaje de sepsis."
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "manejo",
+          "enunciado": "Diagnóstico: shock séptico de probable origen abdominal. ¿Cuál de las siguientes conductas iniciales NO se ajusta a SSC 2026?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Hemocultivos antes de antibióticos, sin retrasar éstos por la toma",
+              "correcta": false,
+              "feedback": "Correcta."
+            },
+            {
+              "letra": "b",
+              "texto": "Cristaloides balanceados (Ringer lactato o Plasma-Lyte) sobre SF",
+              "correcta": false,
+              "feedback": "Correcta."
+            },
+            {
+              "letra": "c",
+              "texto": "Esperar a completar 30 mL/kg antes de iniciar noradrenalina",
+              "correcta": true,
+              "feedback": "INCORRECTA. SSC 2026 acepta vasopresores PRECOCES junto a fluidos si shock inestable; no esperar a completar el bolo."
+            },
+            {
+              "letra": "d",
+              "texto": "Piperacilina-tazobactam IV antes de 1 hora",
+              "correcta": false,
+              "feedback": "Correcta — pip-tazo cubre foco abdominal (anaerobios + BGN), y antibiótico ≤1 h en shock."
+            },
+            {
+              "letra": "e",
+              "texto": "Reevaluar lactato seriadamente",
+              "correcta": false,
+              "feedback": "Correcta — umbral 2 mmol/L para resucitar y reevaluar dinámicamente."
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "diagnostico",
+          "enunciado": "A las 6 h: persiste hipotenso, requiere noradrenalina 0,30 µg/kg/min para MAP 65, lactato 3,1, ya recibió 30 mL/kg de Ringer. ¿Qué intervención adicional se justifica?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Vitamina C IV en megadosis + hidrocortisona + tiamina",
+              "correcta": false,
+              "feedback": "VITAMINS y LOVIT fueron NEGATIVOS — SSC 2026 NO recomienda vitamina C."
+            },
+            {
+              "letra": "b",
+              "texto": "Hidrocortisona IV 200 mg/d (50 mg c/6 h) por vasopresores en escalada",
+              "correcta": true,
+              "feedback": "Correcto. Hidrocortisona en shock séptico con noradrenalina ≥0,25 µg/kg/min por ≥4 h."
+            },
+            {
+              "letra": "c",
+              "texto": "Iniciar inmunoglobulinas IV",
+              "correcta": false,
+              "feedback": "No es estándar en sepsis no específica."
+            },
+            {
+              "letra": "d",
+              "texto": "Hemoperfusión con polimixina B de rutina",
+              "correcta": false,
+              "feedback": "SSC 2026 sugiere EN CONTRA (TIGRIS con señal solo en shock endotóxico — área en evolución)."
+            },
+            {
+              "letra": "e",
+              "texto": "Cambiar Ringer lactato por gelatinas o coloides",
+              "correcta": false,
+              "feedback": "No se recomiendan coloides; mantener cristaloides balanceados."
+            }
+          ]
+        }
+      ],
+      "resumen_final": "Shock séptico según SSC 2026:\n• Tamizaje: NEWS2 (preferido) sobre qSOFA (degradado).\n• Bundle hora-1: lactato + hemocultivos + ATB amplio espectro ≤1 h en shock + cristaloides balanceados (30 mL/kg condicional, individualizar).\n• Vasopresores PRECOCES junto a fluidos (noradrenalina 1ª línea), MAP ≥65.\n• Hidrocortisona 200 mg/d si vasopresores en escalada.\n• NO vit C, NO HAT therapy, NO polimixina B de rutina."
+    },
+    {
+      "id": "CASO-GUIA-005-DM2",
+      "titulo": "DM2 con ASCVD y obesidad — AACE 2026",
+      "especialidad": "endocrino",
+      "tema": "diabetes",
+      "nivel": "intermedio",
+      "guia_fuente": "AACE 2026",
+      "version_actual": 1,
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Hombre 54 años con DM2 (HbA1c 8,2%), IAM hace 2 años (ASCVD establecida), IMC 34, eGFR 75. Toma metformina 850 mg c/12h y atorvastatina 40 mg. PA controlada. AACE 2026 prioriza qué pilar terapéutico antes de la HbA1c?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Comorbilidades (CV/renal/hepáticas) — evaluar protección CV-renal primero",
+              "correcta": true,
+              "feedback": "Correcto. AACE 2026 introduce el «comorbidities-/complications-centric» ANTES que el glucose-centric."
+            },
+            {
+              "letra": "b",
+              "texto": "Glicemia ayuno como única guía",
+              "correcta": false,
+              "feedback": "No — ya no es así en AACE 2026."
+            },
+            {
+              "letra": "c",
+              "texto": "Iniciar insulina basal de inmediato por HbA1c >8%",
+              "correcta": false,
+              "feedback": "Insulina se inicia con HbA1c >10%, síntomas catabólicos o glicemia >300."
+            },
+            {
+              "letra": "d",
+              "texto": "Suspender metformina antes de añadir nada",
+              "correcta": false,
+              "feedback": "Metformina sigue válida; no se suspende rutinariamente."
+            },
+            {
+              "letra": "e",
+              "texto": "Aumentar metformina a 1000 mg c/8h",
+              "correcta": false,
+              "feedback": "No es la conducta principal; la prioridad es protección CV/renal."
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "manejo",
+          "enunciado": "Decide intensificar terapia. Considerando que es ASCVD establecida + obesidad, ¿cuál es la elección PREFERIDA según AACE 2026?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Glibenclamida 5 mg/día",
+              "correcta": false,
+              "feedback": "AACE 2026 LIMITA sulfonilureas — sin beneficio CV/renal, riesgo hipoglicemia, ↑peso."
+            },
+            {
+              "letra": "b",
+              "texto": "Sitagliptina 100 mg/día",
+              "correcta": false,
+              "feedback": "DPP-4i: rol limitado, peso-neutro, sin beneficio CV — no preferido en ASCVD."
+            },
+            {
+              "letra": "c",
+              "texto": "Semaglutida SC semanal (GLP-1 RA con beneficio CV probado)",
+              "correcta": true,
+              "feedback": "Correcto. AACE 2026 prefiere GLP-1 RA con beneficio CV probado (semaglutida, dulaglutida, liraglutida) en ASCVD + obesidad."
+            },
+            {
+              "letra": "d",
+              "texto": "Pioglitazona 30 mg/día",
+              "correcta": false,
+              "feedback": "Útil si resistencia insulínica/MASH; pero no es la 1ª línea con ASCVD."
+            },
+            {
+              "letra": "e",
+              "texto": "Insulina glargina nocturna",
+              "correcta": false,
+              "feedback": "Indicada con HbA1c >10% o glicemia >300; no es la preferida ahora."
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "diagnostico",
+          "enunciado": "A los 6 meses: HbA1c 6,8%, IMC 31. Pierde 7% del peso. Desarrolla microalbuminuria 60 mg/g (nueva). eGFR 70. ¿Qué intervención agrega?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Empagliflozina 10 mg/d (SGLT2i)",
+              "correcta": true,
+              "feedback": "Correcto. ERC con albuminuria → SGLT2i 1ª línea por protección renal (eGFR ≥20 permite uso)."
+            },
+            {
+              "letra": "b",
+              "texto": "Suspender semaglutida y volver a metformina sola",
+              "correcta": false,
+              "feedback": "Funciona bien; no suspender."
+            },
+            {
+              "letra": "c",
+              "texto": "Glibenclamida añadida",
+              "correcta": false,
+              "feedback": "Sulfonilureas no agregan beneficio CV/renal y aumentan riesgo de hipoglicemia."
+            },
+            {
+              "letra": "d",
+              "texto": "Insulina NPH nocturna",
+              "correcta": false,
+              "feedback": "HbA1c 6,8% no requiere insulina."
+            },
+            {
+              "letra": "e",
+              "texto": "DPP-4i",
+              "correcta": false,
+              "feedback": "No combinar DPP-4 con GLP-1 y no ofrece protección renal."
+            }
+          ]
+        }
+      ],
+      "resumen_final": "DM2 según AACE 2026 — comorbidities-centric:\n• Evaluar IC, ERC, ASCVD, MASLD, obesidad ANTES de glicemia.\n• ASCVD → GLP-1 RA con beneficio CV probado (semaglutida, dulaglutida, liraglutida).\n• ERC → SGLT2i (1ª línea, independiente de HbA1c).\n• Obesidad → GLP-1 RA o tirzepatida (GIP/GLP-1).\n• Sulfonilureas: LIMITAR/discontinuar. Metformina válida sin comorbilidad mayor.\n• HbA1c <7,5%: monoterapia. 7,5–9%: dual. >9%: triple. >10% o síntomas: INSULINA."
+    },
+    {
+      "id": "CASO-GUIA-006-DISLIPIDEMIA",
+      "titulo": "Dislipidemia con Lp(a) elevada — AHA 2026",
+      "especialidad": "cardiología",
+      "tema": "dislipidemia",
+      "nivel": "intermedio",
+      "guia_fuente": "AHA/ACC 2026",
+      "version_actual": 1,
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Mujer 48 años, sin eventos CV, padre con IAM a los 50. Sin DM. PA 130/80. IMC 26. LDL-C 160 mg/dL, HDL 50, TG 130. PREVENT a 10 años: 8% (intermedio). ¿Qué examen ADICIONAL solicita por primera vez según AHA 2026?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Lp(a) sérica UNA VEZ EN LA VIDA",
+              "correcta": true,
+              "feedback": "Correcto. AHA 2026 incorpora Lp(a) como cribado de por vida en TODOS los adultos (Clase I), primera vez en guía estadounidense."
+            },
+            {
+              "letra": "b",
+              "texto": "Apo A-I",
+              "correcta": false,
+              "feedback": "No estándar en cribado."
+            },
+            {
+              "letra": "c",
+              "texto": "Homocisteína",
+              "correcta": false,
+              "feedback": "No es marcador establecido para guiar manejo."
+            },
+            {
+              "letra": "d",
+              "texto": "Cribado de Lp(a) cada 5 años",
+              "correcta": false,
+              "feedback": "Lp(a) es genéticamente determinada — UNA SOLA VEZ basta."
+            },
+            {
+              "letra": "e",
+              "texto": "Solo perfil lipídico estándar repetido",
+              "correcta": false,
+              "feedback": "AHA 2026 añade Lp(a) como nuevo Clase I."
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "manejo",
+          "enunciado": "Lp(a) resulta 180 nmol/L (significativamente elevada, umbral >125). Riesgo intermedio (PREVENT 8%) + Lp(a) alta + historia familiar. ¿Cuál es el manejo inicial?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Estatina alta intensidad (atorvastatina 40-80 o rosuvastatina 20-40)",
+              "correcta": true,
+              "feedback": "Correcto. AHA 2026 sube la indicación: Lp(a) elevada + riesgo intermedio justifica estatina alta intensidad para LDL <70 si posible."
+            },
+            {
+              "letra": "b",
+              "texto": "Solo dieta y ejercicio sin estatina",
+              "correcta": false,
+              "feedback": "Insuficiente con Lp(a) elevada + riesgo intermedio."
+            },
+            {
+              "letra": "c",
+              "texto": "iPCSK9 como monoterapia",
+              "correcta": false,
+              "feedback": "iPCSK9 es add-on a estatina + ezetimiba, no monoterapia."
+            },
+            {
+              "letra": "d",
+              "texto": "Pelacarsen (ASO anti-Lp(a))",
+              "correcta": false,
+              "feedback": "Pelacarsen está en fase 3 (HORIZON, 2026); aún no aprobado."
+            },
+            {
+              "letra": "e",
+              "texto": "Niacina + fenofibrato",
+              "correcta": false,
+              "feedback": "AHA 2026: NO recomendados como add-on rutinario a estatina."
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "diagnostico",
+          "enunciado": "A los 3 meses con rosuvastatina 20 mg: LDL-C 95 mg/dL. La paciente no tolera subir dosis por mialgias. ¿Cuál es el siguiente paso según AHA 2026 (Clase I)?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Añadir ezetimiba 10 mg/d",
+              "correcta": true,
+              "feedback": "Correcto. Ezetimiba es Clase I como PRIMER add-on no-estatina cuando LDL no llega a meta."
+            },
+            {
+              "letra": "b",
+              "texto": "Cambiar a inclisiran de entrada",
+              "correcta": false,
+              "feedback": "Inclisiran tras estatina + ezetimiba; orden establecido por AHA 2026."
+            },
+            {
+              "letra": "c",
+              "texto": "Suspender estatina y manejar con dieta",
+              "correcta": false,
+              "feedback": "Mialgias suelen ser manejables; estatina de baja dosis o alternativa antes de suspender."
+            },
+            {
+              "letra": "d",
+              "texto": "Fenofibrato + niacina",
+              "correcta": false,
+              "feedback": "No recomendado como add-on a estatina."
+            },
+            {
+              "letra": "e",
+              "texto": "iPCSK9 directo sin pasar por ezetimiba",
+              "correcta": false,
+              "feedback": "El orden es: estatina + ezetimiba → iPCSK9 o inclisiran si LDL persiste alto."
+            }
+          ]
+        }
+      ],
+      "resumen_final": "Dislipidemia según AHA/ACC 2026:\n• Cribado: PREVENT (NO Pooled Cohort); Lp(a) UNA VEZ EN LA VIDA en todo adulto.\n• Metas LDL-C: intermedio <100; alto <70 o ↓≥50%; muy alto <55.\n• Estatina alta intensidad: ASCVD, LDL ≥190, DM con factores, muy alto/alto riesgo.\n• Escalada Clase I: estatina → + ezetimiba → + iPCSK9 (alirocumab, evolocumab) o inclisiran (c/6 meses).\n• Ácido bempedoico en intolerancia (CLEAR Outcomes ↓MACE 13%).\n• TG 150-499 con ASCVD/DM: icosapent ethyl 4 g/d (REDUCE-IT)."
+    },
+    {
+      "id": "CASO-GUIA-007-HPYLORI",
+      "titulo": "H. pylori — ACG 2024 (sin claritromicina como 1ª línea)",
+      "especialidad": "gastroenterología",
+      "tema": "h_pylori",
+      "nivel": "intermedio",
+      "guia_fuente": "ACG 2024",
+      "version_actual": 1,
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Mujer 45 años con dispepsia y úlcera duodenal en endoscopía. Test de aliento para H. pylori positivo. Vive en Chile (área de alta resistencia a claritromicina). Sin alergias. ¿Cuál es el tratamiento de PRIMERA LÍNEA según ACG 2024?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Triple terapia con claritromicina + amoxicilina + PPI × 14 días",
+              "correcta": false,
+              "feedback": "ACG 2024 ELIMINA esta como 1ª línea por resistencia >15% a claritromicina en muchas regiones."
+            },
+            {
+              "letra": "b",
+              "texto": "Cuádruple con bismuto × 14 días (PPI + bismuto + tetraciclina + metronidazol)",
+              "correcta": true,
+              "feedback": "Correcto. ACG 2024: primera línea es cuádruple con bismuto optimizada × 14 d o vonoprazan dual."
+            },
+            {
+              "letra": "c",
+              "texto": "Levofloxacina + amoxicilina × 7 días",
+              "correcta": false,
+              "feedback": "Levo se reserva para fallo de 1ª línea o rifabutina triple."
+            },
+            {
+              "letra": "d",
+              "texto": "PPI solo × 14 días",
+              "correcta": false,
+              "feedback": "PPI solo NO erradica H. pylori."
+            },
+            {
+              "letra": "e",
+              "texto": "Metronidazol solo",
+              "correcta": false,
+              "feedback": "Monoterapia no erradica."
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "diagnostico",
+          "enunciado": "¿Cuándo y cómo confirma erradicación?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Test de aliento o antígeno fecal ≥4 semanas post-tratamiento",
+              "correcta": true,
+              "feedback": "Correcto. ACG 2024 — test ≥4 semanas tras finalizar antibióticos (y suspender PPI ≥2 sem)."
+            },
+            {
+              "letra": "b",
+              "texto": "Serología IgG anti-H. pylori inmediatamente",
+              "correcta": false,
+              "feedback": "Serología persiste positiva por años — NO útil para confirmar erradicación."
+            },
+            {
+              "letra": "c",
+              "texto": "Endoscopía obligatoria a los 6 meses",
+              "correcta": false,
+              "feedback": "Solo si úlcera gástrica o complicación, no rutinaria."
+            },
+            {
+              "letra": "d",
+              "texto": "No requiere confirmación si los síntomas mejoran",
+              "correcta": false,
+              "feedback": "Síntomas no son fiables para confirmar erradicación."
+            },
+            {
+              "letra": "e",
+              "texto": "Test de aliento al día siguiente del último antibiótico",
+              "correcta": false,
+              "feedback": "Falsos negativos por PPI o antibiótico reciente."
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "El test de aliento 6 semanas después es POSITIVO (no se erradicó). ¿Qué alternativa de 2ª línea recomienda según ACG 2024?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Rifabutina triple (PPI + amoxicilina + rifabutina) × 14 días",
+              "correcta": true,
+              "feedback": "Correcto. Rifabutina triple es alternativa de rescate (también vonoprazan dual si no se usó antes)."
+            },
+            {
+              "letra": "b",
+              "texto": "Repetir la misma cuádruple con bismuto",
+              "correcta": false,
+              "feedback": "No se repite el mismo esquema fallido."
+            },
+            {
+              "letra": "c",
+              "texto": "Volver a claritromicina",
+              "correcta": false,
+              "feedback": "Tras fallar primera línea sin claritromicina, NO usarla."
+            },
+            {
+              "letra": "d",
+              "texto": "Suspender tratamiento porque dos intentos son suficientes",
+              "correcta": false,
+              "feedback": "Si persiste sintomática o úlcera complicada, se intentan esquemas de rescate."
+            },
+            {
+              "letra": "e",
+              "texto": "Bismuto + omeprazol como única medida",
+              "correcta": false,
+              "feedback": "Bismuto solo no erradica H. pylori."
+            }
+          ]
+        }
+      ],
+      "resumen_final": "H. pylori según ACG 2024:\n• Primera línea: CUÁDRUPLE CON BISMUTO × 14 días (PPI + bismuto + tetraciclina + metronidazol) o VONOPRAZAN DUAL (vonoprazan 20 mg c/12h + amoxicilina 1 g c/8h × 14 d).\n• ELIMINADA la triple con claritromicina como 1ª línea por resistencia >15%.\n• Confirmación: test de aliento o antígeno fecal ≥4 sem post-tratamiento (suspender PPI ≥2 sem).\n• Rescate (2ª línea): rifabutina triple o vonoprazan dual (si no usado), levofloxacina."
     }
   ]
 }
