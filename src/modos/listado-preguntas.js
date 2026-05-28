@@ -33,6 +33,7 @@ export async function vistaListadoPreguntas() {
     el("option", { value: "no-editadas" }, "No editadas"),
     el("option", { value: "marcadas" }, "Marcadas para revisar"),
     el("option", { value: "no-utilizables" }, "No utilizables"),
+    el("option", { value: "inactivas" }, "Inactivas (sin opción correcta)"),
   ]);
   const resultadosBox = el("ul", { class: "buscar-pregs__lista" });
   const conteoLbl = el("p", { class: "muted" });
@@ -46,6 +47,7 @@ export async function vistaListadoPreguntas() {
       if (estadoFiltro === "no-editadas" && p.version_actual > 1) return false;
       if (estadoFiltro === "marcadas" && !p.marcada_revision) return false;
       if (estadoFiltro === "no-utilizables" && p.utilizable !== false) return false;
+      if (estadoFiltro === "inactivas" && !p.inactivo) return false;
       if (q) {
         const blob = normalizar(
           p.enunciado + " " +
@@ -77,6 +79,7 @@ export async function vistaListadoPreguntas() {
           p.version_actual > 1 ? badge(`v${p.version_actual}`, "badge--edit") : null,
           p.marcada_revision ? badge("🚩 marcada") : null,
           p.utilizable === false ? badge("no usable") : null,
+          p.inactivo ? badge("inactiva", "badge--mal") : null,
         ]),
         el("p", { class: "buscar-pregs__enun", text: p.enunciado }),
       ]);

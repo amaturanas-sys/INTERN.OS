@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "v3-guias",
-    "descripcion": "Definiciones de fármacos, conceptos, herramientas y guías clínicas actualizadas (2014-2026). Incluye consensos de nomenclatura y guías primarias (GINA, GOLD, ESC, SSC, ADA, AACE, AHA, ACG).",
+    "version": "v4-mcq-aligned",
+    "descripcion": "Definiciones de fármacos, conceptos, herramientas y guías clínicas en formato MCQ. Las definiciones tipo guía conservan el contenido extenso en `explicacion` y un MCQ clave para repaso activo.",
     "total": 50
   },
   "definiciones": [
@@ -1387,173 +1387,823 @@
     },
     {
       "id": "DEF-NOM-001",
-      "termino": "Síndrome de ovario poliendocrino metabólico (SOPEM)",
       "tipo": "concepto",
-      "categoria": "ginecología/endocrino",
-      "definicion": "Nueva denominación del antiguo síndrome de ovario poliquístico (SOP), introducida por el consenso internacional 2023 para resaltar el componente metabólico (resistencia insulínica, dislipidemia, riesgo cardiovascular). Criterios de Rotterdam vigentes (2 de 3 + exclusión de otras causas): oligo/anovulación, hiperandrogenismo clínico o bioquímico, morfología ovárica poliquística (≥20 folículos por ovario y/o volumen >10 mL en ecografía transvaginal de alta resolución). Manejo: estilo de vida, metformina, anticonceptivos combinados; letrozol/clomifeno si busca embarazo.",
-      "fuente": "International evidence-based guideline for assessment and management of PCOS, 2023."
+      "concepto": "Síndrome de ovario poliendocrino metabólico (SOPEM)",
+      "pregunta": "¿Cuántos criterios de Rotterdam se requieren para el diagnóstico de síndrome de ovario poliendocrino metabólico (SOPEM)?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "1 de 3",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "2 de 3 + exclusión de otras causas",
+          "correcta": true
+        },
+        {
+          "letra": "c",
+          "texto": "3 de 3 obligatorios",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Solo morfología ecográfica",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "Solo hiperandrogenismo bioquímico",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Nueva denominación del antiguo síndrome de ovario poliquístico (SOP), introducida por el consenso internacional 2023 para resaltar el componente metabólico (resistencia insulínica, dislipidemia, riesgo cardiovascular). Criterios de Rotterdam vigentes (2 de 3 + exclusión de otras causas): oligo/anovulación, hiperandrogenismo clínico o bioquímico, morfología ovárica poliquística (≥20 folículos por ovario y/o volumen >10 mL en ecografía transvaginal de alta resolución). Manejo: estilo de vida, metformina, anticonceptivos combinados; letrozol/clomifeno si busca embarazo.",
+      "especialidad": "gineco",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "International evidence-based guideline for assessment and management of PCOS, 2023.",
+      "vigencia": "",
+      "categoria_original": "ginecología/endocrino"
     },
     {
       "id": "DEF-NOM-002",
-      "termino": "Síndrome de disfunción metabólica",
       "tipo": "concepto",
-      "categoria": "medicina interna/endocrino",
-      "definicion": "Nueva denominación del síndrome metabólico, reflejando el continuo fisiopatológico de resistencia insulínica e inflamación de bajo grado más que un agrupamiento estático de criterios. Definición operacional (ATP-III modificada / IDF, vigente): ≥3 de — perímetro abdominal aumentado según etnia, TG ≥150 mg/dL, HDL bajo (<40 H, <50 M), PA ≥130/85 o tratamiento antihipertensivo, glicemia en ayunas ≥100 mg/dL o DM. Riesgo CV y de DM2 elevado; manejo: dieta mediterránea, ejercicio, pérdida de peso, tratar componentes específicos.",
-      "fuente": "ATP-III; IDF consensus; AHA/ACC scientific statement."
+      "concepto": "Síndrome de disfunción metabólica",
+      "pregunta": "Para el diagnóstico de síndrome de disfunción metabólica (antes síndrome metabólico) según la definición operacional vigente (IDF/ATP-III), se requieren ≥3 de los siguientes EXCEPTO:",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Perímetro abdominal aumentado por etnia",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "TG ≥150 mg/dL",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "HDL bajo (<40 H, <50 M)",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Microalbuminuria ≥30 mg/g",
+          "correcta": true
+        },
+        {
+          "letra": "e",
+          "texto": "PA ≥130/85 o tratamiento",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Nueva denominación del síndrome metabólico, reflejando el continuo fisiopatológico de resistencia insulínica e inflamación de bajo grado más que un agrupamiento estático de criterios. Definición operacional (ATP-III modificada / IDF, vigente): ≥3 de — perímetro abdominal aumentado según etnia, TG ≥150 mg/dL, HDL bajo (<40 H, <50 M), PA ≥130/85 o tratamiento antihipertensivo, glicemia en ayunas ≥100 mg/dL o DM. Riesgo CV y de DM2 elevado; manejo: dieta mediterránea, ejercicio, pérdida de peso, tratar componentes específicos.",
+      "especialidad": "medicina_interna",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "ATP-III; IDF consensus; AHA/ACC scientific statement.",
+      "vigencia": "",
+      "categoria_original": "medicina interna/endocrino"
     },
     {
       "id": "DEF-NOM-003",
-      "termino": "Enfermedad hepática esteatósica asociada a disfunción metabólica (MASLD)",
       "tipo": "concepto",
-      "categoria": "gastroenterología",
-      "definicion": "Reemplazo de NAFLD (esteatosis hepática no alcohólica). Si hay inflamación y daño hepatocitario: MASH (antes NASH). Diagnóstico: esteatosis hepática por imagen/biopsia + ≥1 criterio cardiometabólico (IMC ≥25 o perímetro abdominal aumentado, glicemia ≥100/HbA1c ≥5,7% o DM, PA ≥130/85 o tratamiento, TG ≥150, HDL bajo). Si hay consumo alcohólico moderado: MetALD. Manejo: pérdida de peso 7-10% (resuelve MASH en muchos), control cardiometabólico, semaglutida (off-label), resmetirom aprobado en MASH F2-F3.",
-      "fuente": "AASLD-EASL-ALEH multisociety Delphi consensus, Hepatology 2023."
+      "concepto": "Enfermedad hepática esteatósica asociada a disfunción metabólica (MASLD)",
+      "pregunta": "¿Cuál criterio cardiometabólico es suficiente, junto con esteatosis, para diagnosticar MASLD (antes NAFLD)?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Solo glicemia ≥126 mg/dL",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "Cualquier criterio cardiometabólico (IMC ≥25, glicemia alterada, HTA, dislipidemia, perímetro abdominal aumentado)",
+          "correcta": true
+        },
+        {
+          "letra": "c",
+          "texto": "Biopsia con esteatosis >30%",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Resistencia insulínica medida con HOMA-IR",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "Consumo alcohólico significativo",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Reemplazo de NAFLD (esteatosis hepática no alcohólica). Si hay inflamación y daño hepatocitario: MASH (antes NASH). Diagnóstico: esteatosis hepática por imagen/biopsia + ≥1 criterio cardiometabólico (IMC ≥25 o perímetro abdominal aumentado, glicemia ≥100/HbA1c ≥5,7% o DM, PA ≥130/85 o tratamiento, TG ≥150, HDL bajo). Si hay consumo alcohólico moderado: MetALD. Manejo: pérdida de peso 7-10% (resuelve MASH en muchos), control cardiometabólico, semaglutida (off-label), resmetirom aprobado en MASH F2-F3.",
+      "especialidad": "gastroenterologia",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "AASLD-EASL-ALEH multisociety Delphi consensus, Hepatology 2023.",
+      "vigencia": "",
+      "categoria_original": "gastroenterología"
     },
     {
       "id": "DEF-NOM-004",
-      "termino": "Presión arterial marcadamente elevada asintomática (AMBP)",
       "tipo": "concepto",
-      "categoria": "cardiología/urgencias",
-      "definicion": "Reemplaza el término «urgencia hipertensiva» (AHA 2025). Se define como PA ≥180/120 mmHg SIN daño agudo de órgano blanco. El cambio nominal evita la sugerencia equívoca de tratamiento inmediato endovenoso. Manejo: reposo 30 min, descartar síntomas de daño orgánico (cefalea intensa, dolor torácico, déficit neurológico, disnea), reiniciar u optimizar régimen antihipertensivo oral, seguimiento en 24-72 h. Reducción de PA gradual (horas-días). NO usar nifedipino sublingual. Distinguir de EMERGENCIA hipertensiva: PA elevada + daño agudo (encefalopatía, IAM, edema pulmonar agudo, disección aórtica, eclampsia, ACV) → UCI, antihipertensivos IV, descenso 20-25% en 1 h.",
-      "fuente": "AHA/ACC Scientific Statement on Hypertensive Crises, 2025."
+      "concepto": "Presión arterial marcadamente elevada asintomática (AMBP)",
+      "pregunta": "Una mujer 65 años llega a urgencia con PA 195/115 sin síntomas, sin daño de órgano blanco. Según la AHA 2025, ¿cuál es la conducta correcta para esta presión arterial marcadamente elevada asintomática (AMBP)?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Nifedipino sublingual inmediato",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "Reposo 30 min, optimizar régimen oral, seguimiento 24–72 h",
+          "correcta": true
+        },
+        {
+          "letra": "c",
+          "texto": "Ingreso a UCI con nitroprusiato IV",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Alta sin tratamiento",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "Captopril 50 mg sublingual",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Reemplaza el término «urgencia hipertensiva» (AHA 2025). Se define como PA ≥180/120 mmHg SIN daño agudo de órgano blanco. El cambio nominal evita la sugerencia equívoca de tratamiento inmediato endovenoso. Manejo: reposo 30 min, descartar síntomas de daño orgánico (cefalea intensa, dolor torácico, déficit neurológico, disnea), reiniciar u optimizar régimen antihipertensivo oral, seguimiento en 24-72 h. Reducción de PA gradual (horas-días). NO usar nifedipino sublingual. Distinguir de EMERGENCIA hipertensiva: PA elevada + daño agudo (encefalopatía, IAM, edema pulmonar agudo, disección aórtica, eclampsia, ACV) → UCI, antihipertensivos IV, descenso 20-25% en 1 h.",
+      "especialidad": "cardio",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "AHA/ACC Scientific Statement on Hypertensive Crises, 2025.",
+      "vigencia": "",
+      "categoria_original": "cardiología/urgencias"
     },
     {
       "id": "DEF-NOM-005",
-      "termino": "Lesión renal aguda (LRA / AKI)",
       "tipo": "concepto",
-      "categoria": "nefrología",
-      "definicion": "Reemplazo de «insuficiencia renal aguda» (KDIGO). Criterios: ↑creatinina sérica ≥0,3 mg/dL en 48 h, O ↑a ≥1,5× basal en 7 días, O diuresis <0,5 mL/kg/h durante ≥6 h. Estadios: I (1,5-1,9× o ↑0,3); II (2,0-2,9×); III (≥3× o creat ≥4 o terapia renal de reemplazo o, en <18 años, eGFR <35). Causas: prerrenal (50%, hipovolemia, IC, shock, AINEs/IECA en flujo marginal), renal/intrínseca (NTA por isquemia o nefrotóxicos — aminoglucósidos, contraste, vancomicina, cisplatino; GN; NIA), postrenal (obstrucción bilateral o de monorreno). Manejo: corregir causa, optimizar volemia, evitar nefrotóxicos, ajuste de fármacos por TFG; TRR si refractario.",
-      "fuente": "KDIGO Clinical Practice Guideline for AKI."
+      "concepto": "Lesión renal aguda (LRA / AKI)",
+      "pregunta": "Según KDIGO, ¿cuál NO es criterio diagnóstico de lesión renal aguda (LRA)?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Aumento de creatinina ≥0,3 mg/dL en 48 h",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "Aumento de creatinina ≥1,5× basal en 7 días",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Diuresis <0,5 mL/kg/h por ≥6 h",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "TFG <60 mL/min mantenida por 3 meses",
+          "correcta": true
+        },
+        {
+          "letra": "e",
+          "texto": "Requerimiento de terapia renal de reemplazo",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Reemplazo de «insuficiencia renal aguda» (KDIGO). Criterios: ↑creatinina sérica ≥0,3 mg/dL en 48 h, O ↑a ≥1,5× basal en 7 días, O diuresis <0,5 mL/kg/h durante ≥6 h. Estadios: I (1,5-1,9× o ↑0,3); II (2,0-2,9×); III (≥3× o creat ≥4 o terapia renal de reemplazo o, en <18 años, eGFR <35). Causas: prerrenal (50%, hipovolemia, IC, shock, AINEs/IECA en flujo marginal), renal/intrínseca (NTA por isquemia o nefrotóxicos — aminoglucósidos, contraste, vancomicina, cisplatino; GN; NIA), postrenal (obstrucción bilateral o de monorreno). Manejo: corregir causa, optimizar volemia, evitar nefrotóxicos, ajuste de fármacos por TFG; TRR si refractario.",
+      "especialidad": "nefro",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "KDIGO Clinical Practice Guideline for AKI.",
+      "vigencia": "",
+      "categoria_original": "nefrología"
     },
     {
       "id": "DEF-NOM-006",
-      "termino": "Deficiencia de arginina-vasopresina (AVP-D)",
       "tipo": "concepto",
-      "categoria": "endocrino",
-      "definicion": "Nueva denominación de «diabetes insípida central» (consenso 2022-2023, respaldado por The Lancet, AACE, ENEA, etc.). Su contraparte renal (antes «diabetes insípida nefrogénica») se denomina ahora «resistencia a arginina-vasopresina» (AVP-R). El cambio evita confusión letal con diabetes mellitus en órdenes médicas. Clínica: poliuria hipotónica (>3 L/d, densidad <1010), polidipsia, nicturia. Diagnóstico: test de privación de agua; copeptina basal >21,4 pmol/L → AVP-R; estimulación con suero hipertónico o arginina mide copeptina para diferenciar AVP-D de polidipsia primaria (mejor precisión que el test clásico). Tratamiento: AVP-D → desmopresina (oral, intranasal o SC). AVP-R → tiazidas, dieta hiposódica, AINEs, amilorida (si litio).",
-      "fuente": "Christ-Crain et al., Lancet 2022; AACE/AAP statements 2023."
+      "concepto": "Deficiencia de arginina-vasopresina (AVP-D)",
+      "pregunta": "¿Cuál es la prueba diagnóstica de mayor precisión actualmente para diferenciar deficiencia de arginina-vasopresina (AVP-D, antes diabetes insípida central) de polidipsia primaria?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Test de privación de agua clásico",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "Copeptina estimulada con suero hipertónico o arginina",
+          "correcta": true
+        },
+        {
+          "letra": "c",
+          "texto": "Osmolaridad urinaria basal",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Resonancia magnética hipofisaria",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "AVP plasmática directa",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Nueva denominación de «diabetes insípida central» (consenso 2022-2023, respaldado por The Lancet, AACE, ENEA, etc.). Su contraparte renal (antes «diabetes insípida nefrogénica») se denomina ahora «resistencia a arginina-vasopresina» (AVP-R). El cambio evita confusión letal con diabetes mellitus en órdenes médicas. Clínica: poliuria hipotónica (>3 L/d, densidad <1010), polidipsia, nicturia. Diagnóstico: test de privación de agua; copeptina basal >21,4 pmol/L → AVP-R; estimulación con suero hipertónico o arginina mide copeptina para diferenciar AVP-D de polidipsia primaria (mejor precisión que el test clásico). Tratamiento: AVP-D → desmopresina (oral, intranasal o SC). AVP-R → tiazidas, dieta hiposódica, AINEs, amilorida (si litio).",
+      "especialidad": "endocrino",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "Christ-Crain et al., Lancet 2022; AACE/AAP statements 2023.",
+      "vigencia": "",
+      "categoria_original": "endocrino"
     },
     {
       "id": "DEF-NOM-007",
-      "termino": "Mpox (antes monkeypox / viruela del mono)",
       "tipo": "concepto",
-      "categoria": "infectología",
-      "definicion": "Renombrado por la OMS en 2022 para reducir estigmatización geográfica. Agente: virus Orthopoxvirus (familia Poxviridae). Clados I (antes Congo Basin, mortalidad ~3-10%) y II (antes West African, <1%); brote multinacional 2022 fue clado IIb. Transmisión: contacto piel/mucosas, gotitas, fómites; brote actual predominantemente por contacto sexual (HSH). Clínica: pródromo (fiebre, mialgias, linfadenopatía característica) → exantema vesículo-pustular sincrónico (mismo estadio), centrífugo o anogenital; proctitis dolorosa frecuente en brote actual. Diagnóstico: PCR de hisopado de lesión. Tratamiento: soporte; tecovirimat (TPOXX) en graves o inmunocomprometidos. Profilaxis pre y post-exposición: JYNNEOS (MVA-BN), 2 dosis SC separadas por 28 días.",
-      "fuente": "OMS technical brief 2022-2024; CDC guidance."
+      "concepto": "Mpox (antes monkeypox / viruela del mono)",
+      "pregunta": "Respecto a mpox (antes viruela del mono), señale lo CORRECTO:",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Profilaxis con vacuna JYNNEOS (MVA-BN), 2 dosis SC c/28 días",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Tratamiento de primera línea: aciclovir IV",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Solo se transmite por mordedura de animales",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Clado II es el más virulento",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "El brote 2022 fue por clado I",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Renombrado por la OMS en 2022 para reducir estigmatización geográfica. Agente: virus Orthopoxvirus (familia Poxviridae). Clados I (antes Congo Basin, mortalidad ~3-10%) y II (antes West African, <1%); brote multinacional 2022 fue clado IIb. Transmisión: contacto piel/mucosas, gotitas, fómites; brote actual predominantemente por contacto sexual (HSH). Clínica: pródromo (fiebre, mialgias, linfadenopatía característica) → exantema vesículo-pustular sincrónico (mismo estadio), centrífugo o anogenital; proctitis dolorosa frecuente en brote actual. Diagnóstico: PCR de hisopado de lesión. Tratamiento: soporte; tecovirimat (TPOXX) en graves o inmunocomprometidos. Profilaxis pre y post-exposición: JYNNEOS (MVA-BN), 2 dosis SC separadas por 28 días.",
+      "especialidad": "infecto",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "OMS technical brief 2022-2024; CDC guidance.",
+      "vigencia": "",
+      "categoria_original": "infectología"
     },
     {
       "id": "DEF-NOM-008",
-      "termino": "Colangitis biliar primaria (CBP)",
       "tipo": "concepto",
-      "categoria": "gastroenterología/hepatología",
-      "definicion": "Reemplaza «cirrosis biliar primaria» (conserva sigla CBP). Cambio nominal porque la cirrosis es una complicación tardía, no la enfermedad. Es una colangiopatía autoinmune crónica que afecta predominantemente a mujeres de 40-60 años, con destrucción progresiva de conductillos biliares intrahepáticos. Clínica: fatiga, prurito, ictericia tardía, xantomas; asociaciones — síndrome de Sjögren, tiroiditis. Diagnóstico (2 de 3): FA ≥1,5× normal por ≥6 meses; AMA (antimitocondriales) ≥1:40 — específicos en >95% — o anti-sp100/gp210; biopsia con colangitis linfocítica granulomatosa no-supurativa (no obligatoria si serología típica). Tratamiento: ácido ursodeoxicólico 13-15 mg/kg/d primera línea; ácido obeticólico o bezafibrato si no responde.",
-      "fuente": "EASL CPG 2017; AASLD practice guidance 2018; nomenclatura 2014 (Beuers et al.)."
+      "concepto": "Colangitis biliar primaria (CBP)",
+      "pregunta": "Tratamiento de primera línea de colangitis biliar primaria (CBP, antes cirrosis biliar primaria) en una mujer 50 años con FA 3× elevada y AMA positivos:",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Corticoides IV",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "Ácido ursodeoxicólico 13–15 mg/kg/d",
+          "correcta": true
+        },
+        {
+          "letra": "c",
+          "texto": "Inmunoglobulinas IV",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Trasplante hepático inmediato",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "Plasmaféresis",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Reemplaza «cirrosis biliar primaria» (conserva sigla CBP). Cambio nominal porque la cirrosis es una complicación tardía, no la enfermedad. Es una colangiopatía autoinmune crónica que afecta predominantemente a mujeres de 40-60 años, con destrucción progresiva de conductillos biliares intrahepáticos. Clínica: fatiga, prurito, ictericia tardía, xantomas; asociaciones — síndrome de Sjögren, tiroiditis. Diagnóstico (2 de 3): FA ≥1,5× normal por ≥6 meses; AMA (antimitocondriales) ≥1:40 — específicos en >95% — o anti-sp100/gp210; biopsia con colangitis linfocítica granulomatosa no-supurativa (no obligatoria si serología típica). Tratamiento: ácido ursodeoxicólico 13-15 mg/kg/d primera línea; ácido obeticólico o bezafibrato si no responde.",
+      "especialidad": "gastroenterologia",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "EASL CPG 2017; AASLD practice guidance 2018; nomenclatura 2014 (Beuers et al.).",
+      "vigencia": "",
+      "categoria_original": "gastroenterología/hepatología"
     },
     {
       "id": "DEF-NOM-009",
-      "termino": "Trastorno neurocognitivo mayor (TNC mayor, DSM-5)",
       "tipo": "concepto",
-      "categoria": "neurología/psiquiatría",
-      "definicion": "Denominación DSM-5 que reemplaza «demencia». Subtipos: enfermedad de Alzheimer, vascular, cuerpos de Lewy, frontotemporal, enfermedad de Parkinson, HIV, trauma, sustancias/medicamentos, etiología múltiple. Criterios: (a) evidencia de deterioro cognitivo significativo desde un nivel previo de funcionamiento en ≥1 dominio cognitivo — atención compleja, función ejecutiva, aprendizaje y memoria, lenguaje, perceptivo-motor, cognición social — basado en preocupación del individuo/cuidador/clínico y evaluación neuropsicológica objetiva; (b) interfiere con la autonomía en actividades de la vida diaria; (c) no ocurre exclusivamente en contexto de delirium; (d) no se explica mejor por otro trastorno mental. Variante leve = «trastorno neurocognitivo leve» (no interfiere con autonomía). Cribado: MMSE, MoCA, ACE-III. Estudio etiológico: TC/RM, B12, TSH, VDRL/VIH si riesgo; LCR (biomarcadores Aβ/tau) o PET-amiloide en casos seleccionados.",
-      "fuente": "DSM-5 / DSM-5-TR; consenso APA."
+      "concepto": "Trastorno neurocognitivo mayor (TNC mayor, DSM-5)",
+      "pregunta": "Según DSM-5, ¿en cuántos dominios cognitivos al menos debe haber deterioro significativo para diagnosticar trastorno neurocognitivo mayor (antes demencia)?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "1 dominio",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "2 dominios",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "3 dominios",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "4 dominios",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "Todos los dominios",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Denominación DSM-5 que reemplaza «demencia». Subtipos: enfermedad de Alzheimer, vascular, cuerpos de Lewy, frontotemporal, enfermedad de Parkinson, HIV, trauma, sustancias/medicamentos, etiología múltiple. Criterios: (a) evidencia de deterioro cognitivo significativo desde un nivel previo de funcionamiento en ≥1 dominio cognitivo — atención compleja, función ejecutiva, aprendizaje y memoria, lenguaje, perceptivo-motor, cognición social — basado en preocupación del individuo/cuidador/clínico y evaluación neuropsicológica objetiva; (b) interfiere con la autonomía en actividades de la vida diaria; (c) no ocurre exclusivamente en contexto de delirium; (d) no se explica mejor por otro trastorno mental. Variante leve = «trastorno neurocognitivo leve» (no interfiere con autonomía). Cribado: MMSE, MoCA, ACE-III. Estudio etiológico: TC/RM, B12, TSH, VDRL/VIH si riesgo; LCR (biomarcadores Aβ/tau) o PET-amiloide en casos seleccionados.",
+      "especialidad": "neurologia",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "DSM-5 / DSM-5-TR; consenso APA.",
+      "vigencia": "",
+      "categoria_original": "neurología/psiquiatría"
     },
     {
       "id": "DEF-NOM-010",
-      "termino": "Trastorno de síntomas neurológicos funcionales (TSNF / FND)",
       "tipo": "concepto",
-      "categoria": "neurología/psiquiatría",
-      "definicion": "Denominación DSM-5 e ICD-11 que reemplaza «trastorno conversivo». Criterios DSM-5: (a) ≥1 síntoma de alteración de la función motora voluntaria o sensitiva; (b) hallazgos clínicos que demuestran incompatibilidad entre el síntoma y enfermedades neurológicas o médicas reconocidas — signos positivos como signo de Hoover (debilidad de extensión de cadera que mejora con flexión contralateral), distractibilidad del temblor, prueba de la fuerza variable, movimientos en zigzag al caminar, etc.; (c) el síntoma no se explica mejor por otro trastorno; (d) causa malestar/disfunción clínicamente significativa. NO se requiere probar estresor o conflicto psicológico (cambio respecto a DSM-IV). Manejo: comunicación diagnóstica positiva («tienes una alteración real en el procesamiento, no estás fingiendo, es tratable»), fisioterapia y terapia ocupacional especializadas en FND, TCC para comorbilidades.",
-      "fuente": "DSM-5; ICD-11; Stone J. et al., functional neurological disorder guidance."
+      "concepto": "Trastorno de síntomas neurológicos funcionales (TSNF / FND)",
+      "pregunta": "Respecto al trastorno de síntomas neurológicos funcionales (TSNF, antes trastorno conversivo) en DSM-5, ¿qué cambió respecto a DSM-IV?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Se requiere demostrar un estresor psicológico previo",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "Ya NO se requiere probar conflicto psicológico; basta con signos positivos de incompatibilidad",
+          "correcta": true
+        },
+        {
+          "letra": "c",
+          "texto": "Solo se diagnostica en mujeres",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Es un trastorno de personalidad",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "Se trata solo con psicoanálisis",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Denominación DSM-5 e ICD-11 que reemplaza «trastorno conversivo». Criterios DSM-5: (a) ≥1 síntoma de alteración de la función motora voluntaria o sensitiva; (b) hallazgos clínicos que demuestran incompatibilidad entre el síntoma y enfermedades neurológicas o médicas reconocidas — signos positivos como signo de Hoover (debilidad de extensión de cadera que mejora con flexión contralateral), distractibilidad del temblor, prueba de la fuerza variable, movimientos en zigzag al caminar, etc.; (c) el síntoma no se explica mejor por otro trastorno; (d) causa malestar/disfunción clínicamente significativa. NO se requiere probar estresor o conflicto psicológico (cambio respecto a DSM-IV). Manejo: comunicación diagnóstica positiva («tienes una alteración real en el procesamiento, no estás fingiendo, es tratable»), fisioterapia y terapia ocupacional especializadas en FND, TCC para comorbilidades.",
+      "especialidad": "neurologia",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "DSM-5; ICD-11; Stone J. et al., functional neurological disorder guidance.",
+      "vigencia": "",
+      "categoria_original": "neurología/psiquiatría"
     },
     {
       "id": "DEF-GUIA-001",
-      "termino": "GINA 2026 — Manejo del asma",
-      "tipo": "guia",
-      "categoria": "pulmonar",
-      "definicion": "GINA 2026 (Global Initiative for Asthma) — actualización mayo 2026.\n\nCAMBIOS CLAVE 2026:\n• SABA en monoterapia ELIMINADO en todos los escalones (toda exposición a SABA debe acompañarse de ICS).\n• AIR con ICS-SABA formalmente incorporado al Step 1 del Track 2 (estudio BATURA: redujo exacerbaciones graves ~50% vs SABA solo).\n• Saturación O₂ objetivo 93–95% (no >95%) en adultos, adolescentes y niños 6–11.\n• Nuevos biológicos: depemokimab (anti-IL-5 ultra-prolongado, SC c/26 semanas, ≥12 años con asma eosinofílica grave) y omalizumab-igec (biosimilar anti-IgE).\n• 4 flowcharts nuevos de exacerbación (atención primaria y urgencias).\n\nTRACK 1 — PREFERIDO (ICS-formoterol como rescate, AIR/MART):\n• Steps 1–2: budesónida-formoterol 200/6 (o 160/4,5) a demanda.\n• Step 3: budesónida-formoterol 200/6, 1 inh c/12h + a demanda (MART dosis baja).\n• Step 4: budesónida-formoterol 200/6, 2 inh c/12h + a demanda (MART dosis media).\n• Step 5: añadir LAMA (tiotropio 5 µg/d) + derivar a fenotipado + biológico.\n\nTRACK 2 — ALTERNATIVO (rescate con SABA o ICS-SABA):\n• Step 1 (NUEVO): ICS-SABA a demanda (budesónida-albuterol 80/180, 1–2 inh).\n• Step 2: ICS dosis baja diaria + rescate.\n• Step 3: ICS-LABA dosis baja + rescate.\n• Step 4: ICS-LABA dosis media + rescate ± LAMA.\n• Step 5: ICS-LABA dosis alta + LAMA + biológico.\n\nEXACERBACIÓN AGUDA (adultos/adolescentes):\n• Salbutamol 4–10 puffs con aerocámara c/20 min × 1 h.\n• Oxígeno controlado, meta SpO₂ 93–95%.\n• Ipratropio 4–8 puffs (o 0,5 mg nebulizado) c/20 min × 3 en moderada-grave.\n• Prednisona 40–50 mg VO × 5–7 días (adultos) o 1–2 mg/kg/d × 3–5 d (niños).\n• Sulfato de Mg 2 g IV en 20 min en grave refractaria.\n• NO antibióticos rutinarios.\n\nBIOLÓGICOS PARA ASMA SEVERA — qué fenotipo a cuál:\n• Omalizumab: alérgica + IgE 30–1500 UI/mL, ≥6 años.\n• Mepolizumab: eosinofílica (eos ≥150 si OCS-dep o ≥300 último año), ≥6 a; 100 mg SC c/4 sem.\n• Benralizumab: eosinofílica; 30 mg SC c/4 sem × 3 luego c/8 sem.\n• Dupilumab: T2-alta (eos ≥150 y/o FeNO ≥25), especial si dermatitis atópica o poliposis nasal; 200–300 mg SC c/2 sem.\n• Tezepelumab: asma grave con o sin fenotipo T2 (única opción T2-baja); 210 mg SC c/4 sem, ≥12 a.\n• Depemokimab (NUEVO 2026): eosinofílica grave, ≥12 a; SC c/26 semanas.",
-      "fuente": "GINA 2026 Strategy Report — ginasthma.org/2026-gina-strategy-report/",
-      "vigencia": "2026"
+      "tipo": "concepto",
+      "concepto": "GINA 2026 — Manejo del asma",
+      "pregunta": "Según GINA 2026, en Track 1 (preferido), ¿cuál es el medicamento de RESCATE preferido en TODOS los escalones del adulto?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Salbutamol a demanda en monoterapia",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "Budesónida-formoterol (ICS-formoterol) a demanda",
+          "correcta": true
+        },
+        {
+          "letra": "c",
+          "texto": "Bromuro de ipratropio",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Salmeterol-fluticasona",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "Beclometasona en monoterapia",
+          "correcta": false
+        }
+      ],
+      "explicacion": "GINA 2026 (Global Initiative for Asthma) — actualización mayo 2026.\n\nCAMBIOS CLAVE 2026:\n• SABA en monoterapia ELIMINADO en todos los escalones (toda exposición a SABA debe acompañarse de ICS).\n• AIR con ICS-SABA formalmente incorporado al Step 1 del Track 2 (estudio BATURA: redujo exacerbaciones graves ~50% vs SABA solo).\n• Saturación O₂ objetivo 93–95% (no >95%) en adultos, adolescentes y niños 6–11.\n• Nuevos biológicos: depemokimab (anti-IL-5 ultra-prolongado, SC c/26 semanas, ≥12 años con asma eosinofílica grave) y omalizumab-igec (biosimilar anti-IgE).\n• 4 flowcharts nuevos de exacerbación (atención primaria y urgencias).\n\nTRACK 1 — PREFERIDO (ICS-formoterol como rescate, AIR/MART):\n• Steps 1–2: budesónida-formoterol 200/6 (o 160/4,5) a demanda.\n• Step 3: budesónida-formoterol 200/6, 1 inh c/12h + a demanda (MART dosis baja).\n• Step 4: budesónida-formoterol 200/6, 2 inh c/12h + a demanda (MART dosis media).\n• Step 5: añadir LAMA (tiotropio 5 µg/d) + derivar a fenotipado + biológico.\n\nTRACK 2 — ALTERNATIVO (rescate con SABA o ICS-SABA):\n• Step 1 (NUEVO): ICS-SABA a demanda (budesónida-albuterol 80/180, 1–2 inh).\n• Step 2: ICS dosis baja diaria + rescate.\n• Step 3: ICS-LABA dosis baja + rescate.\n• Step 4: ICS-LABA dosis media + rescate ± LAMA.\n• Step 5: ICS-LABA dosis alta + LAMA + biológico.\n\nEXACERBACIÓN AGUDA (adultos/adolescentes):\n• Salbutamol 4–10 puffs con aerocámara c/20 min × 1 h.\n• Oxígeno controlado, meta SpO₂ 93–95%.\n• Ipratropio 4–8 puffs (o 0,5 mg nebulizado) c/20 min × 3 en moderada-grave.\n• Prednisona 40–50 mg VO × 5–7 días (adultos) o 1–2 mg/kg/d × 3–5 d (niños).\n• Sulfato de Mg 2 g IV en 20 min en grave refractaria.\n• NO antibióticos rutinarios.\n\nBIOLÓGICOS PARA ASMA SEVERA — qué fenotipo a cuál:\n• Omalizumab: alérgica + IgE 30–1500 UI/mL, ≥6 años.\n• Mepolizumab: eosinofílica (eos ≥150 si OCS-dep o ≥300 último año), ≥6 a; 100 mg SC c/4 sem.\n• Benralizumab: eosinofílica; 30 mg SC c/4 sem × 3 luego c/8 sem.\n• Dupilumab: T2-alta (eos ≥150 y/o FeNO ≥25), especial si dermatitis atópica o poliposis nasal; 200–300 mg SC c/2 sem.\n• Tezepelumab: asma grave con o sin fenotipo T2 (única opción T2-baja); 210 mg SC c/4 sem, ≥12 a.\n• Depemokimab (NUEVO 2026): eosinofílica grave, ≥12 a; SC c/26 semanas.",
+      "especialidad": "respiratorio",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "GINA 2026 Strategy Report — ginasthma.org/2026-gina-strategy-report/",
+      "vigencia": "2026",
+      "categoria_original": "pulmonar"
     },
     {
       "id": "DEF-GUIA-002",
-      "termino": "GOLD 2026 — Manejo de EPOC",
-      "tipo": "guia",
-      "categoria": "pulmonar",
-      "definicion": "GOLD 2026 (Global Initiative for COPD) — vigente desde diciembre 2025.\n\nCAMBIOS CLAVE 2026:\n• Grupo E ahora incluye pacientes con ≥1 exacerbación moderada O grave/año (antes ≥2 moderadas o ≥1 grave).\n• Adopción de criterios de Roma para clasificar severidad de exacerbaciones.\n• Vacuna PCV21 incorporada junto a PCV20.\n• Nuevo capítulo de tecnologías (telemedicina, IA, dispositivos portátiles).\n• Advertencia explícita: NO escalar farmacoterapia tras LABA+LAMA si persiste disnea sin antes revisar técnica inhalatoria, rehabilitación y comorbilidades.\n\nDIAGNÓSTICO: FEV1/FVC <0,70 POST-broncodilatador + síntomas + factor de riesgo. Severidad GOLD 1–4 por FEV1 post-BD: ≥80, 50–79, 30–49, <30.\n\nGRUPOS ABE (eliminado C y D):\n• A: 0 exacerbaciones último año + mMRC 0–1 (CAT <10).\n• B: 0 exacerbaciones + mMRC ≥2 (CAT ≥10).\n• E: ≥1 exacerbación moderada o ≥1 grave (hospitalización), independiente de síntomas.\n\nTRATAMIENTO INICIAL:\n• A: un broncodilatador (LAMA o LABA).\n• B: LABA + LAMA en inhalador único.\n• E: LABA + LAMA; añadir ICS (triple terapia) si eosinófilos sangre ≥300 céls/µL (fenotipo eosinofílico).\n• ICS NO recomendado si eos <100 o antecedente de neumonías a repetición o micobacterias.\n• Biológicos (dupilumab, mepolizumab) si exacerbaciones persisten en triple terapia con eos ≥300.\n\nEXACERBACIÓN (criterios de Roma): empeoramiento agudo ≤14 días.\n• Leve: aumentar SABA/SAMA.\n• Moderada/grave: SABA + ipratropio + prednisona 40 mg/d × 5 días + O₂ controlado (SpO₂ 88–92%) + VNI si pH <7,35 y PaCO₂ >45.\n• Antibióticos × 5 días si: 3 criterios de Anthonisen, 2 con purulencia, o ventilación mecánica. Opciones: amoxi-clav, macrólido, doxiciclina; fluoroquinolona si riesgo Pseudomonas.\n\nVACUNAS 2026:\n• Influenza anual.\n• Neumococo: PCV20 o PCV21 dosis única (alternativa PCV13/15 + PPSV23).\n• COVID-19 según esquema local.\n• VSR ≥50 años con enfermedad pulmonar crónica.\n• Herpes zóster (Shingrix 2 dosis), Tdap.\n\nCESACIÓN TABÁQUICA (estándar referenciado):\n• Vareniclina (más eficaz): 0,5 → 1 mg c/12h × 12 sem.\n• Bupropión SR: 150 mg/d × 3 d → 150 mg c/12h × 7–12 sem.\n• TRN: parche + chicle/comprimido de rescate.\n• Citisina como alternativa emergente.",
-      "fuente": "GOLD 2026 Report — goldcopd.org/2026-gold-report-and-pocket-guide/",
-      "vigencia": "2026"
+      "tipo": "concepto",
+      "concepto": "GOLD 2026 — Manejo de EPOC",
+      "pregunta": "Según GOLD 2026 (EPOC), ¿cuál es el umbral de eosinófilos en sangre que apoya añadir ICS al broncodilatador dual (triple terapia) en grupo E?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "≥50 céls/µL",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "≥100 céls/µL",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "≥300 céls/µL",
+          "correcta": true
+        },
+        {
+          "letra": "d",
+          "texto": "≥500 céls/µL",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "Independiente del recuento",
+          "correcta": false
+        }
+      ],
+      "explicacion": "GOLD 2026 (Global Initiative for COPD) — vigente desde diciembre 2025.\n\nCAMBIOS CLAVE 2026:\n• Grupo E ahora incluye pacientes con ≥1 exacerbación moderada O grave/año (antes ≥2 moderadas o ≥1 grave).\n• Adopción de criterios de Roma para clasificar severidad de exacerbaciones.\n• Vacuna PCV21 incorporada junto a PCV20.\n• Nuevo capítulo de tecnologías (telemedicina, IA, dispositivos portátiles).\n• Advertencia explícita: NO escalar farmacoterapia tras LABA+LAMA si persiste disnea sin antes revisar técnica inhalatoria, rehabilitación y comorbilidades.\n\nDIAGNÓSTICO: FEV1/FVC <0,70 POST-broncodilatador + síntomas + factor de riesgo. Severidad GOLD 1–4 por FEV1 post-BD: ≥80, 50–79, 30–49, <30.\n\nGRUPOS ABE (eliminado C y D):\n• A: 0 exacerbaciones último año + mMRC 0–1 (CAT <10).\n• B: 0 exacerbaciones + mMRC ≥2 (CAT ≥10).\n• E: ≥1 exacerbación moderada o ≥1 grave (hospitalización), independiente de síntomas.\n\nTRATAMIENTO INICIAL:\n• A: un broncodilatador (LAMA o LABA).\n• B: LABA + LAMA en inhalador único.\n• E: LABA + LAMA; añadir ICS (triple terapia) si eosinófilos sangre ≥300 céls/µL (fenotipo eosinofílico).\n• ICS NO recomendado si eos <100 o antecedente de neumonías a repetición o micobacterias.\n• Biológicos (dupilumab, mepolizumab) si exacerbaciones persisten en triple terapia con eos ≥300.\n\nEXACERBACIÓN (criterios de Roma): empeoramiento agudo ≤14 días.\n• Leve: aumentar SABA/SAMA.\n• Moderada/grave: SABA + ipratropio + prednisona 40 mg/d × 5 días + O₂ controlado (SpO₂ 88–92%) + VNI si pH <7,35 y PaCO₂ >45.\n• Antibióticos × 5 días si: 3 criterios de Anthonisen, 2 con purulencia, o ventilación mecánica. Opciones: amoxi-clav, macrólido, doxiciclina; fluoroquinolona si riesgo Pseudomonas.\n\nVACUNAS 2026:\n• Influenza anual.\n• Neumococo: PCV20 o PCV21 dosis única (alternativa PCV13/15 + PPSV23).\n• COVID-19 según esquema local.\n• VSR ≥50 años con enfermedad pulmonar crónica.\n• Herpes zóster (Shingrix 2 dosis), Tdap.\n\nCESACIÓN TABÁQUICA (estándar referenciado):\n• Vareniclina (más eficaz): 0,5 → 1 mg c/12h × 12 sem.\n• Bupropión SR: 150 mg/d × 3 d → 150 mg c/12h × 7–12 sem.\n• TRN: parche + chicle/comprimido de rescate.\n• Citisina como alternativa emergente.",
+      "especialidad": "respiratorio",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "GOLD 2026 Report — goldcopd.org/2026-gold-report-and-pocket-guide/",
+      "vigencia": "2026",
+      "categoria_original": "pulmonar"
     },
     {
       "id": "DEF-GUIA-003",
-      "termino": "ESC 2024 — Fibrilación auricular y esquema AF-CARE",
-      "tipo": "guia",
-      "categoria": "cardiología",
-      "definicion": "ESC/EACTS 2024 Guidelines on Atrial Fibrillation — vigente.\n\nCAMBIOS CLAVE vs ESC 2020:\n• Nuevo esquema AF-CARE reemplaza al «ABC pathway».\n• CHA₂DS₂-VASc → CHA₂DS₂-VA (eliminado sexo como criterio independiente).\n• Ablación con catéter Clase I como PRIMERA LÍNEA en FA paroxística (antes IIa).\n• Cierre de orejuela (LAAC) sube a Clase IIa en contraindicación a OAC.\n• Anticoagulación de FA subclínica (AHRE/SCAF) recomendación IIb-B en alto riesgo embólico + bajo riesgo hemorrágico (tras NOAH-AFNET 6 y ARTESiA).\n• Reducción ≥10% de peso explícita como meta en obesos con FA.\n\nESQUEMA AF-CARE (cada letra es un pilar):\n• [C] Comorbidity & risk factor management — HTA, IC, DM, obesidad ≥10%, apnea del sueño, alcohol, actividad física.\n• [A] Avoid stroke and thromboembolism — anticoagulación según CHA₂DS₂-VA.\n• [R] Reduce symptoms — control de frecuencia/ritmo, ablación temprana.\n• [E] Evaluation and dynamic reassessment — reevaluar fenotipo periódicamente.\n\nANTICOAGULACIÓN — Umbrales CHA₂DS₂-VA:\n• 0 → no anticoagular.\n• 1 → considerar OAC (IIa).\n• ≥2 → OAC recomendado (I).\n\nDOACs preferidos sobre warfarina, EXCEPTO en válvula mecánica o estenosis mitral moderada-severa (warfarina INR 2-3).\n\nDOSIS DOACs (FANV):\n• Apixabán 5 mg c/12h; 2,5 c/12h si ≥2 de: ≥80 a, ≤60 kg, Cr ≥1,5 mg/dL.\n• Rivaroxabán 20 mg/d; 15 mg/d si ClCr 15–49.\n• Edoxabán 60 mg/d; 30 mg/d si ClCr 15–50, ≤60 kg o inhibidor P-gp.\n• Dabigatrán 150 mg c/12h; 110 mg c/12h si ≥80 a, HAS-BLED ≥3, ClCr 30–50.\n\nREVERSIÓN:\n• Idarucizumab 5 g IV → dabigatrán.\n• Andexanet alfa → apix/rivaroxabán en sangrado mayor (ANNEXA-I 2024: mejor hemostasia pero ↑eventos trombóticos 10,3% vs 5,6%).\n• CCP 4F (50 UI/kg) → alternativa o edoxabán (sin antídoto específico).\n\nCONTROL DE RITMO vs FRECUENCIA:\n• Frecuencia: meta laxa <110 lpm; estricta <80 si síntomas. Primera línea betabloqueante.\n• Ritmo: si sintomático o IC. ABLACIÓN Clase I en FA paroxística y FA + IC con FEVI reducida (CASTLE-AF).\n\nFA SUBCLÍNICA (SCAF/AHRE detectada por dispositivos):\n• Anticoagular IIb-B si alto riesgo embólico + bajo riesgo hemorrágico.\n• Episodios <6 min no requieren OAC.\n\nTRIPLE/DUAL TERAPIA EN SCA + FA:\n• Triple (AAS + clopidogrel + DOAC): HASTA 1 SEMANA post-ICP.\n• Dual (DOAC + clopidogrel): hasta 12 meses.\n• Después: DOAC solo.",
-      "fuente": "Van Gelder IC, et al. Eur Heart J 2024;45:3314–3414.",
-      "vigencia": "2024"
+      "tipo": "concepto",
+      "concepto": "ESC 2024 — Fibrilación auricular y esquema AF-CARE",
+      "pregunta": "¿Cuál es el cambio principal en el score de riesgo embólico de FA según ESC 2024?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Se eliminó el sexo (CHA₂DS₂-VA en vez de VASc)",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Se duplicó el peso de la edad",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Se reemplazó por HAS-BLED",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Se agregó el IMC",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "Se eliminó la diabetes",
+          "correcta": false
+        }
+      ],
+      "explicacion": "ESC/EACTS 2024 Guidelines on Atrial Fibrillation — vigente.\n\nCAMBIOS CLAVE vs ESC 2020:\n• Nuevo esquema AF-CARE reemplaza al «ABC pathway».\n• CHA₂DS₂-VASc → CHA₂DS₂-VA (eliminado sexo como criterio independiente).\n• Ablación con catéter Clase I como PRIMERA LÍNEA en FA paroxística (antes IIa).\n• Cierre de orejuela (LAAC) sube a Clase IIa en contraindicación a OAC.\n• Anticoagulación de FA subclínica (AHRE/SCAF) recomendación IIb-B en alto riesgo embólico + bajo riesgo hemorrágico (tras NOAH-AFNET 6 y ARTESiA).\n• Reducción ≥10% de peso explícita como meta en obesos con FA.\n\nESQUEMA AF-CARE (cada letra es un pilar):\n• [C] Comorbidity & risk factor management — HTA, IC, DM, obesidad ≥10%, apnea del sueño, alcohol, actividad física.\n• [A] Avoid stroke and thromboembolism — anticoagulación según CHA₂DS₂-VA.\n• [R] Reduce symptoms — control de frecuencia/ritmo, ablación temprana.\n• [E] Evaluation and dynamic reassessment — reevaluar fenotipo periódicamente.\n\nANTICOAGULACIÓN — Umbrales CHA₂DS₂-VA:\n• 0 → no anticoagular.\n• 1 → considerar OAC (IIa).\n• ≥2 → OAC recomendado (I).\n\nDOACs preferidos sobre warfarina, EXCEPTO en válvula mecánica o estenosis mitral moderada-severa (warfarina INR 2-3).\n\nDOSIS DOACs (FANV):\n• Apixabán 5 mg c/12h; 2,5 c/12h si ≥2 de: ≥80 a, ≤60 kg, Cr ≥1,5 mg/dL.\n• Rivaroxabán 20 mg/d; 15 mg/d si ClCr 15–49.\n• Edoxabán 60 mg/d; 30 mg/d si ClCr 15–50, ≤60 kg o inhibidor P-gp.\n• Dabigatrán 150 mg c/12h; 110 mg c/12h si ≥80 a, HAS-BLED ≥3, ClCr 30–50.\n\nREVERSIÓN:\n• Idarucizumab 5 g IV → dabigatrán.\n• Andexanet alfa → apix/rivaroxabán en sangrado mayor (ANNEXA-I 2024: mejor hemostasia pero ↑eventos trombóticos 10,3% vs 5,6%).\n• CCP 4F (50 UI/kg) → alternativa o edoxabán (sin antídoto específico).\n\nCONTROL DE RITMO vs FRECUENCIA:\n• Frecuencia: meta laxa <110 lpm; estricta <80 si síntomas. Primera línea betabloqueante.\n• Ritmo: si sintomático o IC. ABLACIÓN Clase I en FA paroxística y FA + IC con FEVI reducida (CASTLE-AF).\n\nFA SUBCLÍNICA (SCAF/AHRE detectada por dispositivos):\n• Anticoagular IIb-B si alto riesgo embólico + bajo riesgo hemorrágico.\n• Episodios <6 min no requieren OAC.\n\nTRIPLE/DUAL TERAPIA EN SCA + FA:\n• Triple (AAS + clopidogrel + DOAC): HASTA 1 SEMANA post-ICP.\n• Dual (DOAC + clopidogrel): hasta 12 meses.\n• Después: DOAC solo.",
+      "especialidad": "cardio",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "Van Gelder IC, et al. Eur Heart J 2024;45:3314–3414.",
+      "vigencia": "2024",
+      "categoria_original": "cardiología"
     },
     {
       "id": "DEF-GUIA-004",
-      "termino": "Anticoagulación 2024-2026 — DOACs, reversión y manejo del sangrado",
-      "tipo": "guia",
-      "categoria": "cardiología/hematología",
-      "definicion": "NOTA: no existe guía ESC 2026 específica sobre anticoagulación (ESC Congress 2026: Múnich, ago 2026). Síntesis basada en ESC AF 2024, ESC PE 2019, ESC Valvular 2021/2025, CHEST 2024 antitrombóticos y AHA/ACC PE 2026.\n\nDOSIS DE TRATAMIENTO DOACs PARA TVP/TEP:\n• Apixabán: 10 mg c/12h × 7 días → 5 mg c/12h. Extendido (>6 m): 2,5 mg c/12h.\n• Rivaroxabán: 15 mg c/12h × 21 días → 20 mg/d con comida. Extendido: 10 mg/d.\n• Edoxabán: tras ≥5 d HBPM, 60 mg/d (30 mg si criterios de reducción).\n• Dabigatrán: tras ≥5 d HBPM, 150 mg c/12h.\n\nAJUSTE POR FUNCIÓN RENAL:\n• Apixabán: menos dependiente de TFG; usable hasta ClCr 15.\n• Rivaroxabán: reducir si ClCr 15–49; evitar <15.\n• Edoxabán: evitar <15 y >95 mL/min.\n• Dabigatrán: evitar <30 mL/min (alta eliminación renal).\n• Si TFG <15: NO DOAC; usar warfarina o HBPM ajustada.\n\nREVERSIÓN DE SANGRADO MAYOR:\n• Dabigatrán → idarucizumab 5 g IV (2 viales de 2,5 g).\n• Apixabán/Rivaroxabán → andexanet alfa (bolo + infusión 2 h) en HIC y otros sangrados con riesgo vital. ANNEXA-I 2024: ↑eventos trombóticos: monitorizar.\n• Cualquier DOAC sin antídoto → CCP 4F (50 UI/kg) + soporte.\n• Edoxabán → sin antídoto específico; CCP 4F.\n• Carbón activado si ingesta <2–4 h.\n• Diálisis útil para dabigatrán (no para los anti-Xa).\n\nWARFARINA — INR OBJETIVO:\n• FANV: 2,0–3,0; TTR objetivo >70%.\n• Válvula aórtica mecánica: 2,5–3,0.\n• Válvula mitral mecánica: 3,0–3,5.\n• SAF: 2,0–3,0 (alto riesgo: 3,0–3,5).\n• Reversión electiva: suspender 5 d.\n• Sangrado mayor: CCP 4F + vitamina K 10 mg IV (no plasma fresco como primera línea).\n\nCONTRAINDICACIONES DOACs:\n• Válvula mecánica (RE-ALIGN: ↑eventos con dabigatrán).\n• Estenosis mitral reumática moderada-severa.\n• SAF triple positivo (TRAPS: rivaroxabán inferior a warfarina).\n• Embarazo y lactancia.\n\nTRIPLE/DUAL TERAPIA SCA + FA: ver ESC 2024 AF — 1 semana triple + 11 meses dual.",
-      "fuente": "ESC AF 2024; CHEST 2024 antithrombotic; AHA/ACC PE 2026.",
-      "vigencia": "2024–2026"
+      "tipo": "concepto",
+      "concepto": "Anticoagulación 2024-2026 — DOACs, reversión y manejo del sangrado",
+      "pregunta": "¿Cuál es la duración de la TRIPLE terapia (AAS + clopidogrel + DOAC) tras SCA/ICP en paciente con FA, según ESC 2024?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Hasta 1 semana post-ICP",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "1 mes",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "3 meses",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "6 meses",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "12 meses",
+          "correcta": false
+        }
+      ],
+      "explicacion": "NOTA: no existe guía ESC 2026 específica sobre anticoagulación (ESC Congress 2026: Múnich, ago 2026). Síntesis basada en ESC AF 2024, ESC PE 2019, ESC Valvular 2021/2025, CHEST 2024 antitrombóticos y AHA/ACC PE 2026.\n\nDOSIS DE TRATAMIENTO DOACs PARA TVP/TEP:\n• Apixabán: 10 mg c/12h × 7 días → 5 mg c/12h. Extendido (>6 m): 2,5 mg c/12h.\n• Rivaroxabán: 15 mg c/12h × 21 días → 20 mg/d con comida. Extendido: 10 mg/d.\n• Edoxabán: tras ≥5 d HBPM, 60 mg/d (30 mg si criterios de reducción).\n• Dabigatrán: tras ≥5 d HBPM, 150 mg c/12h.\n\nAJUSTE POR FUNCIÓN RENAL:\n• Apixabán: menos dependiente de TFG; usable hasta ClCr 15.\n• Rivaroxabán: reducir si ClCr 15–49; evitar <15.\n• Edoxabán: evitar <15 y >95 mL/min.\n• Dabigatrán: evitar <30 mL/min (alta eliminación renal).\n• Si TFG <15: NO DOAC; usar warfarina o HBPM ajustada.\n\nREVERSIÓN DE SANGRADO MAYOR:\n• Dabigatrán → idarucizumab 5 g IV (2 viales de 2,5 g).\n• Apixabán/Rivaroxabán → andexanet alfa (bolo + infusión 2 h) en HIC y otros sangrados con riesgo vital. ANNEXA-I 2024: ↑eventos trombóticos: monitorizar.\n• Cualquier DOAC sin antídoto → CCP 4F (50 UI/kg) + soporte.\n• Edoxabán → sin antídoto específico; CCP 4F.\n• Carbón activado si ingesta <2–4 h.\n• Diálisis útil para dabigatrán (no para los anti-Xa).\n\nWARFARINA — INR OBJETIVO:\n• FANV: 2,0–3,0; TTR objetivo >70%.\n• Válvula aórtica mecánica: 2,5–3,0.\n• Válvula mitral mecánica: 3,0–3,5.\n• SAF: 2,0–3,0 (alto riesgo: 3,0–3,5).\n• Reversión electiva: suspender 5 d.\n• Sangrado mayor: CCP 4F + vitamina K 10 mg IV (no plasma fresco como primera línea).\n\nCONTRAINDICACIONES DOACs:\n• Válvula mecánica (RE-ALIGN: ↑eventos con dabigatrán).\n• Estenosis mitral reumática moderada-severa.\n• SAF triple positivo (TRAPS: rivaroxabán inferior a warfarina).\n• Embarazo y lactancia.\n\nTRIPLE/DUAL TERAPIA SCA + FA: ver ESC 2024 AF — 1 semana triple + 11 meses dual.",
+      "especialidad": "cardio",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "ESC AF 2024; CHEST 2024 antithrombotic; AHA/ACC PE 2026.",
+      "vigencia": "2024–2026",
+      "categoria_original": "cardiología/hematología"
     },
     {
       "id": "DEF-GUIA-005",
-      "termino": "Surviving Sepsis Campaign 2026 — Bundle hora-1 y SOFA/NEWS2",
-      "tipo": "guia",
-      "categoria": "urgencias/UCI",
-      "definicion": "Surviving Sepsis Campaign 2026 — abril 2026 en Critical Care Medicine. 129 statements, 46 nuevos vs SSC 2021.\n\nDEFINICIONES (Sepsis-3 vigente, NO existe Sepsis-4):\n• Sepsis: disfunción orgánica potencialmente mortal por respuesta desregulada del huésped a infección (↑SOFA ≥2 puntos).\n• Shock séptico: sepsis + vasopresores para MAP ≥65 + lactato >2 mmol/L pese a resucitación adecuada.\n\nTAMIZAJE — CAMBIO MAYOR:\n• qSOFA DEGRADADO: no usar como herramienta única (sensibilidad ~23%).\n• Preferir NEWS2 (sens ~73%) o MEWS o SIRS en hospitalizados.\n• SOFA: sigue siendo estándar para definir disfunción orgánica.\n\nBUNDLE HORA-1:\n• Lactato: medir; si >2 mmol/L resucitar y repetir seriadamente (umbral bajado de 4 a 2 mmol/L).\n• Hemocultivos antes de antibióticos (sin retrasarlos en shock).\n• Antibióticos:\n  – Shock séptico o sepsis probable: ≤1 hora.\n  – Sepsis posible sin shock: hasta 3 horas tras evaluación (permite diferir si baja probabilidad — favorece stewardship).\n• Fluidos: 30 mL/kg cristaloides en 3 h (recomendación DÉBIL, individualizar; CLOVERS y CLASSIC no mostraron beneficio de estrategia liberal vs restrictiva).\n• Cristaloides balanceados (Plasma-Lyte, Ringer lactato) sobre SF 0,9%.\n• Vasopresores: noradrenalina primera línea; iniciar precoz junto a fluidos si shock inestable, no esperar a completar 30 mL/kg.\n• MAP objetivo ≥65 mmHg (en AM considerar objetivo menor).\n• Vasopresina o adrenalina como segunda línea.\n\nANTIBIOTICOTERAPIA EMPÍRICA POR FOCO:\n• Abdominal: pip-tazo o carbapenémico (anaerobios + BGN).\n• Urinario: ceftriaxona; cefepime/pip-tazo si riesgo MDR. NO anaerobios.\n• NAC severa: ceftriaxona + macrólido; vancomicina + pip-tazo si riesgo SAMR/Pseudomonas.\n• Piel/partes blandas: vancomicina + pip-tazo (SAMR + BGN); clindamicina si fascitis.\n• Foco desconocido: pip-tazo o meropenem ± vancomicina.\n• Antifúngicos solo si factores de riesgo (inmunosupresión, ATB prolongado, hospitalización prolongada, foco abdominal).\n\nCORTICOIDES:\n• Hidrocortisona IV 200 mg/d (50 mg c/6h o infusión continua) en shock séptico con vasopresores en escalada (típicamente noradrenalina ≥0,25 µg/kg/min por ≥4 h).\n\nCAMBIOS RECIENTES — qué NO hacer:\n• NO ácido ascórbico/HAT therapy (VITAMINS, LOVIT negativos).\n• Hemoperfusión con polimixina B: sugerida en contra (TIGRIS 2026 con señal en shock endotóxico — área en evolución).\n• Estrategia restrictiva NO superior a liberal: individualizar.",
-      "fuente": "Prescott HC, et al. Crit Care Med 2026;54(4); también Intensive Care Med 2026.",
-      "vigencia": "2026"
+      "tipo": "concepto",
+      "concepto": "Surviving Sepsis Campaign 2026 — Bundle hora-1 y SOFA/NEWS2",
+      "pregunta": "Según SSC 2026, ¿qué herramienta de tamizaje de sepsis se PREFIERE sobre qSOFA en pacientes hospitalizados?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "qSOFA por su simplicidad",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "NEWS2 o MEWS",
+          "correcta": true
+        },
+        {
+          "letra": "c",
+          "texto": "SOFA en todo paciente febril",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Solo lactato sérico",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "Solo PCR",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Surviving Sepsis Campaign 2026 — abril 2026 en Critical Care Medicine. 129 statements, 46 nuevos vs SSC 2021.\n\nDEFINICIONES (Sepsis-3 vigente, NO existe Sepsis-4):\n• Sepsis: disfunción orgánica potencialmente mortal por respuesta desregulada del huésped a infección (↑SOFA ≥2 puntos).\n• Shock séptico: sepsis + vasopresores para MAP ≥65 + lactato >2 mmol/L pese a resucitación adecuada.\n\nTAMIZAJE — CAMBIO MAYOR:\n• qSOFA DEGRADADO: no usar como herramienta única (sensibilidad ~23%).\n• Preferir NEWS2 (sens ~73%) o MEWS o SIRS en hospitalizados.\n• SOFA: sigue siendo estándar para definir disfunción orgánica.\n\nBUNDLE HORA-1:\n• Lactato: medir; si >2 mmol/L resucitar y repetir seriadamente (umbral bajado de 4 a 2 mmol/L).\n• Hemocultivos antes de antibióticos (sin retrasarlos en shock).\n• Antibióticos:\n  – Shock séptico o sepsis probable: ≤1 hora.\n  – Sepsis posible sin shock: hasta 3 horas tras evaluación (permite diferir si baja probabilidad — favorece stewardship).\n• Fluidos: 30 mL/kg cristaloides en 3 h (recomendación DÉBIL, individualizar; CLOVERS y CLASSIC no mostraron beneficio de estrategia liberal vs restrictiva).\n• Cristaloides balanceados (Plasma-Lyte, Ringer lactato) sobre SF 0,9%.\n• Vasopresores: noradrenalina primera línea; iniciar precoz junto a fluidos si shock inestable, no esperar a completar 30 mL/kg.\n• MAP objetivo ≥65 mmHg (en AM considerar objetivo menor).\n• Vasopresina o adrenalina como segunda línea.\n\nANTIBIOTICOTERAPIA EMPÍRICA POR FOCO:\n• Abdominal: pip-tazo o carbapenémico (anaerobios + BGN).\n• Urinario: ceftriaxona; cefepime/pip-tazo si riesgo MDR. NO anaerobios.\n• NAC severa: ceftriaxona + macrólido; vancomicina + pip-tazo si riesgo SAMR/Pseudomonas.\n• Piel/partes blandas: vancomicina + pip-tazo (SAMR + BGN); clindamicina si fascitis.\n• Foco desconocido: pip-tazo o meropenem ± vancomicina.\n• Antifúngicos solo si factores de riesgo (inmunosupresión, ATB prolongado, hospitalización prolongada, foco abdominal).\n\nCORTICOIDES:\n• Hidrocortisona IV 200 mg/d (50 mg c/6h o infusión continua) en shock séptico con vasopresores en escalada (típicamente noradrenalina ≥0,25 µg/kg/min por ≥4 h).\n\nCAMBIOS RECIENTES — qué NO hacer:\n• NO ácido ascórbico/HAT therapy (VITAMINS, LOVIT negativos).\n• Hemoperfusión con polimixina B: sugerida en contra (TIGRIS 2026 con señal en shock endotóxico — área en evolución).\n• Estrategia restrictiva NO superior a liberal: individualizar.",
+      "especialidad": "urgencias",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "Prescott HC, et al. Crit Care Med 2026;54(4); también Intensive Care Med 2026.",
+      "vigencia": "2026",
+      "categoria_original": "urgencias/UCI"
     },
     {
       "id": "DEF-GUIA-006",
-      "termino": "TEP 2026 — Guía AHA/ACC/ACCP/ACEP/CHEST y CDT",
-      "tipo": "guia",
-      "categoria": "cardiología/pulmonar",
-      "definicion": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for Acute PE — primera guía conjunta multisocietaria para TEP agudo (feb 2026).\n\nESTRATIFICACIÓN DE RIESGO (categorías ESC):\n• Alto riesgo: shock/hipotensión sostenida (PAS <90 o caída ≥40 por >15 min).\n• Intermedio-alto: disfunción VD (TC o eco) + biomarcadores positivos (troponina, BNP).\n• Intermedio-bajo: solo uno de los anteriores.\n• Bajo riesgo: sPESI 0, sin disfunción VD, biomarcadores normales.\n\nDIAGNÓSTICO:\n• Probabilidad pre-test: Wells o Geneva revisado (PE likely/unlikely).\n• Dímero D ajustado por edad (>50 a): umbral = edad × 10 µg/L (no <500 fijo).\n• Algoritmo YEARS: 3 ítems (signos TVP, hemoptisis, TEP como dx más probable). 0 ítems → DD <1000 excluye; ≥1 ítem → DD <500 excluye.\n• AngioTC pulmonar = gold standard.\n• V/Q en embarazo, ERC, alergia contraste.\n• Ecocardio bedside: signos sobrecarga VD (dilatación VD, hipocinesia, McConnell, septum en D, TAPSE <16 mm, 60/60). Indispensable en inestabilidad.\n\nTRATAMIENTO POR CATEGORÍA:\n• ALTO RIESGO (shock): TROMBOLISIS SISTÉMICA — alteplasa 100 mg IV en 2 h (o 0,6 mg/kg en 15 min si paro). Si contraindicada/falla → trombectomía mecánica o CDT. Soporte (noradrenalina, ECMO V-A si refractario).\n• INTERMEDIO-ALTO: anticoagulación + monitorización estrecha.\n  – HI-PEITHO (NEJM 2026): CDT con ultrasonido (EKOS) redujo 61% endpoint compuesto (muerte/descompensación/recurrencia a 7 d) vs anticoag sola.\n  – PEERLESS 2024: trombectomía mecánica (FlowTriever) superior a CDT (win ratio 5,01).\n• INTERMEDIO-BAJO / BAJO: DOAC primera línea.\n• BAJO RIESGO (sPESI 0, HESTIA negativo): manejo ambulatorio con DOAC.\n\nANTICOAGULACIÓN:\n• Apixabán 10 mg c/12h × 7 d → 5 mg c/12h; extendida 2,5 mg c/12h tras 6 m.\n• Rivaroxabán 15 mg c/12h × 21 d → 20 mg/d; extendida 10 mg/d.\n• Cáncer activo: DOAC o HBPM mientras enfermedad activa.\n\nDURACIÓN:\n• Provocado por factor mayor transitorio (cirugía, trauma): 3 meses.\n• Factor menor transitorio (viaje, estrógenos, embarazo): 3–6 meses.\n• No provocado o factor persistente (cáncer, trombofilia, recurrente): INDEFINIDA (apixabán 2,5 c/12h o rivaroxabán 10 mg/d).\n• Herramientas: HERDOO2, DASH, Vienna.\n\nTROMBECTOMÍA MECÁNICA (FlowTriever, Inari):\n• Indicada en alto riesgo con contraindicación a trombolisis, falla de trombolisis, o intermedio-alto con deterioro.\n• FLASH registry: MAE 1,8%, mortalidad 30 d 0,8%.\n• Decisiones idealmente vía PERT (Pulmonary Embolism Response Team).",
-      "fuente": "2026 AHA/ACC PE Guideline; ESC PE 2019; HI-PEITHO NEJM 2026.",
-      "vigencia": "2026"
+      "tipo": "concepto",
+      "concepto": "TEP 2026 — Guía AHA/ACC/ACCP/ACEP/CHEST y CDT",
+      "pregunta": "Paciente con TEP categoría intermedio-alto (disfunción VD + biomarcadores positivos), sin shock. Según AHA/ACC 2026 y ensayos PEERLESS/HI-PEITHO, ¿cuál es la conducta más apropiada en un centro con PERT?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Trombolisis sistémica de inmediato",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "Anticoagulación sola y observación pasiva",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Activar PERT y evaluar trombectomía mecánica o CDT-US",
+          "correcta": true
+        },
+        {
+          "letra": "d",
+          "texto": "Filtro de vena cava única medida",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "Aspirina 300 mg como antitrombótico",
+          "correcta": false
+        }
+      ],
+      "explicacion": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for Acute PE — primera guía conjunta multisocietaria para TEP agudo (feb 2026).\n\nESTRATIFICACIÓN DE RIESGO (categorías ESC):\n• Alto riesgo: shock/hipotensión sostenida (PAS <90 o caída ≥40 por >15 min).\n• Intermedio-alto: disfunción VD (TC o eco) + biomarcadores positivos (troponina, BNP).\n• Intermedio-bajo: solo uno de los anteriores.\n• Bajo riesgo: sPESI 0, sin disfunción VD, biomarcadores normales.\n\nDIAGNÓSTICO:\n• Probabilidad pre-test: Wells o Geneva revisado (PE likely/unlikely).\n• Dímero D ajustado por edad (>50 a): umbral = edad × 10 µg/L (no <500 fijo).\n• Algoritmo YEARS: 3 ítems (signos TVP, hemoptisis, TEP como dx más probable). 0 ítems → DD <1000 excluye; ≥1 ítem → DD <500 excluye.\n• AngioTC pulmonar = gold standard.\n• V/Q en embarazo, ERC, alergia contraste.\n• Ecocardio bedside: signos sobrecarga VD (dilatación VD, hipocinesia, McConnell, septum en D, TAPSE <16 mm, 60/60). Indispensable en inestabilidad.\n\nTRATAMIENTO POR CATEGORÍA:\n• ALTO RIESGO (shock): TROMBOLISIS SISTÉMICA — alteplasa 100 mg IV en 2 h (o 0,6 mg/kg en 15 min si paro). Si contraindicada/falla → trombectomía mecánica o CDT. Soporte (noradrenalina, ECMO V-A si refractario).\n• INTERMEDIO-ALTO: anticoagulación + monitorización estrecha.\n  – HI-PEITHO (NEJM 2026): CDT con ultrasonido (EKOS) redujo 61% endpoint compuesto (muerte/descompensación/recurrencia a 7 d) vs anticoag sola.\n  – PEERLESS 2024: trombectomía mecánica (FlowTriever) superior a CDT (win ratio 5,01).\n• INTERMEDIO-BAJO / BAJO: DOAC primera línea.\n• BAJO RIESGO (sPESI 0, HESTIA negativo): manejo ambulatorio con DOAC.\n\nANTICOAGULACIÓN:\n• Apixabán 10 mg c/12h × 7 d → 5 mg c/12h; extendida 2,5 mg c/12h tras 6 m.\n• Rivaroxabán 15 mg c/12h × 21 d → 20 mg/d; extendida 10 mg/d.\n• Cáncer activo: DOAC o HBPM mientras enfermedad activa.\n\nDURACIÓN:\n• Provocado por factor mayor transitorio (cirugía, trauma): 3 meses.\n• Factor menor transitorio (viaje, estrógenos, embarazo): 3–6 meses.\n• No provocado o factor persistente (cáncer, trombofilia, recurrente): INDEFINIDA (apixabán 2,5 c/12h o rivaroxabán 10 mg/d).\n• Herramientas: HERDOO2, DASH, Vienna.\n\nTROMBECTOMÍA MECÁNICA (FlowTriever, Inari):\n• Indicada en alto riesgo con contraindicación a trombolisis, falla de trombolisis, o intermedio-alto con deterioro.\n• FLASH registry: MAE 1,8%, mortalidad 30 d 0,8%.\n• Decisiones idealmente vía PERT (Pulmonary Embolism Response Team).",
+      "especialidad": "cardio",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "2026 AHA/ACC PE Guideline; ESC PE 2019; HI-PEITHO NEJM 2026.",
+      "vigencia": "2026",
+      "categoria_original": "cardiología/pulmonar"
     },
     {
       "id": "DEF-GUIA-007",
-      "termino": "AACE 2026 — Algoritmo de DM2 comorbidities-centric",
-      "tipo": "guia",
-      "categoria": "endocrino",
-      "definicion": "AACE Consensus Statement: Algorithm for Management of Adults With Type 2 Diabetes — 2026 Update. Endocrine Practice, marzo 2026.\n\nCAMBIO DE PARADIGMA:\nLas comorbilidades CV/renales/hepáticas se evalúan ANTES que la HbA1c. La elección de fármaco depende primero de qué órgano hay que proteger.\n\nOBJETIVOS GLICÉMICOS (individualizados):\n• General: HbA1c ≤6,5% si alcanzable de forma segura.\n• Joven, sin complicaciones, DM corta evolución: ≤6,5%.\n• Comorbilidad, alto riesgo hipoglicemia, larga duración, deterioro cognitivo: meta menos estricta (>6,5%).\n• Adulto mayor frágil / expectativa vida limitada: 7–8%.\n• Glicemia ayuno: <110 mg/dL sin hipoglicemia.\n\nALGORITMO DE INICIO (glucose-centric, una vez evaluado comorbidities):\n• HbA1c <7,5% → monoterapia (preferir GLP-1 RA o SGLT2i si hay indicación cardio-reno; metformina si sin comorbilidad mayor).\n• HbA1c 7,5–9% → dual desde el inicio.\n• HbA1c >9% sin síntomas → triple.\n• HbA1c >10%, glicemia >300 o síntomas catabólicos → INSULINA ± otros.\n\nGLP-1 RA con beneficio CV probado:\n• Semaglutida (1ª línea ASCVD; reduce ACV).\n• Dulaglutida (reduce ACV).\n• Liraglutida.\n• Tirzepatida (GIP/GLP-1 dual): opción racional T2D + obesidad + AOS.\n• Retatrutida (triple GLP-1/GIP/glucagón): fase 2, no recomendado aún (~17% pérdida peso a 36 sem en T2D).\n\nSGLT2i primera línea en:\n• Insuficiencia cardiaca (HFrEF y HFpEF).\n• ERC (independiente de HbA1c, eGFR ≥20).\n• Empagliflozina, dapagliflozina, canagliflozina.\n\nAJUSTE POR COMORBILIDAD:\n• Obesidad → GLP-1 RA o tirzepatida.\n• IC → SGLT2i.\n• ERC → SGLT2i; añadir GLP-1 RA si albuminuria persiste.\n• ASCVD → GLP-1 RA con beneficio CV probado o SGLT2i.\n• MASLD/MASH → GLP-1 RA, pioglitazona.\n• AOS → tirzepatida.\n\nOTROS FÁRMACOS:\n• Metformina: válida primera línea SIN comorbilidad mayor; ya no obligatoria si hay indicación cardio-reno.\n• Sulfonilureas: LIMITAR/DISCONTINUAR — sin beneficio CV/renal, riesgo hipoglicemia, ↑peso.\n• DPP-4i: rol limitado, peso-neutro; NO combinar con GLP-1 RA.\n• Pioglitazona: útil si resistencia insulínica, prediabetes, antecedente TIA/ACV.\n\nINSULINA:\n• Basal análoga (glargina, degludec) preferida sobre NPH.\n• Titular cada 2–5 días a ayuno <110 mg/dL.\n• Evitar sobrebasalización: si postprandial alto, añadir GLP-1 RA o prandial (lispro, aspart, glulisina).\n\nCGM (monitoreo continuo): fuertemente recomendado en MDI o alto riesgo hipoglicemia. Métricas: TIR, TBR, variabilidad, GMI.",
-      "fuente": "AACE Consensus Statement 2026 — Endocrine Practice, marzo 2026.",
-      "vigencia": "2026"
+      "tipo": "concepto",
+      "concepto": "AACE 2026 — Algoritmo de DM2 comorbidities-centric",
+      "pregunta": "¿Cuál es el cambio de paradigma central de AACE 2026 en DM2?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Iniciar siempre con insulina basal",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "Comorbidities-centric ANTES que glucose-centric",
+          "correcta": true
+        },
+        {
+          "letra": "c",
+          "texto": "Volver a sulfonilureas como 1ª línea",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Suspender metformina rutinariamente",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "Iniciar todos con bomba de insulina",
+          "correcta": false
+        }
+      ],
+      "explicacion": "AACE Consensus Statement: Algorithm for Management of Adults With Type 2 Diabetes — 2026 Update. Endocrine Practice, marzo 2026.\n\nCAMBIO DE PARADIGMA:\nLas comorbilidades CV/renales/hepáticas se evalúan ANTES que la HbA1c. La elección de fármaco depende primero de qué órgano hay que proteger.\n\nOBJETIVOS GLICÉMICOS (individualizados):\n• General: HbA1c ≤6,5% si alcanzable de forma segura.\n• Joven, sin complicaciones, DM corta evolución: ≤6,5%.\n• Comorbilidad, alto riesgo hipoglicemia, larga duración, deterioro cognitivo: meta menos estricta (>6,5%).\n• Adulto mayor frágil / expectativa vida limitada: 7–8%.\n• Glicemia ayuno: <110 mg/dL sin hipoglicemia.\n\nALGORITMO DE INICIO (glucose-centric, una vez evaluado comorbidities):\n• HbA1c <7,5% → monoterapia (preferir GLP-1 RA o SGLT2i si hay indicación cardio-reno; metformina si sin comorbilidad mayor).\n• HbA1c 7,5–9% → dual desde el inicio.\n• HbA1c >9% sin síntomas → triple.\n• HbA1c >10%, glicemia >300 o síntomas catabólicos → INSULINA ± otros.\n\nGLP-1 RA con beneficio CV probado:\n• Semaglutida (1ª línea ASCVD; reduce ACV).\n• Dulaglutida (reduce ACV).\n• Liraglutida.\n• Tirzepatida (GIP/GLP-1 dual): opción racional T2D + obesidad + AOS.\n• Retatrutida (triple GLP-1/GIP/glucagón): fase 2, no recomendado aún (~17% pérdida peso a 36 sem en T2D).\n\nSGLT2i primera línea en:\n• Insuficiencia cardiaca (HFrEF y HFpEF).\n• ERC (independiente de HbA1c, eGFR ≥20).\n• Empagliflozina, dapagliflozina, canagliflozina.\n\nAJUSTE POR COMORBILIDAD:\n• Obesidad → GLP-1 RA o tirzepatida.\n• IC → SGLT2i.\n• ERC → SGLT2i; añadir GLP-1 RA si albuminuria persiste.\n• ASCVD → GLP-1 RA con beneficio CV probado o SGLT2i.\n• MASLD/MASH → GLP-1 RA, pioglitazona.\n• AOS → tirzepatida.\n\nOTROS FÁRMACOS:\n• Metformina: válida primera línea SIN comorbilidad mayor; ya no obligatoria si hay indicación cardio-reno.\n• Sulfonilureas: LIMITAR/DISCONTINUAR — sin beneficio CV/renal, riesgo hipoglicemia, ↑peso.\n• DPP-4i: rol limitado, peso-neutro; NO combinar con GLP-1 RA.\n• Pioglitazona: útil si resistencia insulínica, prediabetes, antecedente TIA/ACV.\n\nINSULINA:\n• Basal análoga (glargina, degludec) preferida sobre NPH.\n• Titular cada 2–5 días a ayuno <110 mg/dL.\n• Evitar sobrebasalización: si postprandial alto, añadir GLP-1 RA o prandial (lispro, aspart, glulisina).\n\nCGM (monitoreo continuo): fuertemente recomendado en MDI o alto riesgo hipoglicemia. Métricas: TIR, TBR, variabilidad, GMI.",
+      "especialidad": "endocrino",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "AACE Consensus Statement 2026 — Endocrine Practice, marzo 2026.",
+      "vigencia": "2026",
+      "categoria_original": "endocrino"
     },
     {
       "id": "DEF-GUIA-008",
-      "termino": "ADA 2026 — Hipoglicemia",
-      "tipo": "guia",
-      "categoria": "endocrino",
-      "definicion": "ADA Standards of Care in Diabetes 2026, Capítulo 6 — Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises. Diabetes Care 2026;49(Suppl 1):S132-S149.\n\nCLASIFICACIÓN ADA/EASD (vigente):\n• Nivel 1 (alerta/leve): glicemia <70 mg/dL (3,9 mmol/L) y ≥54.\n• Nivel 2 (clínicamente significativa): glicemia <54 mg/dL (3,0); umbral de síntomas neuroglucopénicos.\n• Nivel 3 (severa): alteración del estado mental/físico que requiere asistencia de otra persona (no se define por valor de glicemia).\n\nRECONOCIMIENTO:\n• Adrenérgicos/autonómicos (~60–70 mg/dL): temblor, palpitaciones, sudoración, ansiedad, hambre, palidez.\n• Neuroglucopénicos (<54): confusión, dificultad para concentrarse, visión borrosa, lenguaje farfullante, convulsiones, coma.\n• Hypoglycemia unawareness: episodio nivel 2 sin síntomas — restaurar percepción evitando hipoglicemia 2–3 semanas y relajando metas.\n\nTRATAMIENTO AGUDO:\n• CONSCIENTE — Regla de 15: 15 g HC rápida (preferir glucosa oral; jugo, azúcar) → recontrolar a los 15 min → repetir hasta >70 mg/dL → comida o snack.\n• INCONSCIENTE EXTRAHOSPITALARIO — Glucagón:\n  – IM o SC 1 mg adultos / niños >25 kg (0,5 mg si <25 kg).\n  – Intranasal (Baqsimi) 3 mg, 1 actuación en una fosa, NO requiere inhalación.\n  – SC listo (Gvoke) 1 mg.\n  – Respuesta esperada ~15 min; repetir si no responde.\n• HOSPITAL con acceso IV: dextrosa 25 g IV (50 mL D50% o 100 mL D25%) → infusión D5–D10% hasta euglicemia estable.\n\nPREVENCIÓN (nuevo 2026):\n• Rec. 5.47: cribado anual de miedo a hipoglicemia.\n• Rec. 6.17: incluir glucosa oral en botiquines de trabajo/escuelas.\n• CGM con alertas predictivas ampliado a todo usuario de insulina.\n• Sistemas híbridos automáticos (AID).\n• Educación estructurada (DAFNE, BGAT), identificación médica visible.\n• Glucagón prescrito a TODO paciente con riesgo de nivel 2–3.\n\nHIPOGLICEMIA INDUCIDA — fármacos clave:\n• Insulina (principal causa).\n• Sulfonilureas: glibenclamida mayor riesgo (vida media larga + metabolitos activos); EVITAR en AM/ERC (Beers). Glimepirida menor riesgo, preferida si SU necesaria. Glinidas (repaglinida) menor riesgo.\n• Alcohol (inhibe gluconeogénesis hepática).\n• Comorbilidad: sepsis, IRC, IH, deficiencia cortisol, hipotiroidismo severo, desnutrición.\n\nEN NO DIABÉTICOS — Tríada de Whipple (Endocrine Society):\n(1) síntomas compatibles + (2) glicemia <55 mg/dL documentada + (3) resolución con glucosa. Solo evaluar si se cumple.\n• Hiperinsulinismo endógeno (insulinoma): insulina ≥3 µU/mL, péptido C ≥0,6 ng/mL, proinsulina ≥5 pmol/L con glicemia <55; test de ayuno 72 h; localización por TC/RM, EUS, PET-68Ga-exendina.\n• Hipoglicemia reactiva postprandial: post-bariátrica (dumping tardío), idiopática; manejo dietético (HC complejos, comidas fraccionadas).",
-      "fuente": "ADA Diabetes Care 2026;49(Suppl 1):S132-S149.",
-      "vigencia": "2026"
+      "tipo": "concepto",
+      "concepto": "ADA 2026 — Hipoglicemia",
+      "pregunta": "Paciente diabético insulinizado encontrado inconsciente en su casa, sin acceso IV. Según ADA 2026, ¿cuál es la conducta inicial?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Glucosa IV 50 g de inmediato",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "Glucagón 1 mg IM/SC o intranasal 3 mg (Baqsimi)",
+          "correcta": true
+        },
+        {
+          "letra": "c",
+          "texto": "Esperar paramédicos sin tratamiento",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Adrenalina IM",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "Insulina regular adicional",
+          "correcta": false
+        }
+      ],
+      "explicacion": "ADA Standards of Care in Diabetes 2026, Capítulo 6 — Glycemic Goals, Hypoglycemia, and Hyperglycemic Crises. Diabetes Care 2026;49(Suppl 1):S132-S149.\n\nCLASIFICACIÓN ADA/EASD (vigente):\n• Nivel 1 (alerta/leve): glicemia <70 mg/dL (3,9 mmol/L) y ≥54.\n• Nivel 2 (clínicamente significativa): glicemia <54 mg/dL (3,0); umbral de síntomas neuroglucopénicos.\n• Nivel 3 (severa): alteración del estado mental/físico que requiere asistencia de otra persona (no se define por valor de glicemia).\n\nRECONOCIMIENTO:\n• Adrenérgicos/autonómicos (~60–70 mg/dL): temblor, palpitaciones, sudoración, ansiedad, hambre, palidez.\n• Neuroglucopénicos (<54): confusión, dificultad para concentrarse, visión borrosa, lenguaje farfullante, convulsiones, coma.\n• Hypoglycemia unawareness: episodio nivel 2 sin síntomas — restaurar percepción evitando hipoglicemia 2–3 semanas y relajando metas.\n\nTRATAMIENTO AGUDO:\n• CONSCIENTE — Regla de 15: 15 g HC rápida (preferir glucosa oral; jugo, azúcar) → recontrolar a los 15 min → repetir hasta >70 mg/dL → comida o snack.\n• INCONSCIENTE EXTRAHOSPITALARIO — Glucagón:\n  – IM o SC 1 mg adultos / niños >25 kg (0,5 mg si <25 kg).\n  – Intranasal (Baqsimi) 3 mg, 1 actuación en una fosa, NO requiere inhalación.\n  – SC listo (Gvoke) 1 mg.\n  – Respuesta esperada ~15 min; repetir si no responde.\n• HOSPITAL con acceso IV: dextrosa 25 g IV (50 mL D50% o 100 mL D25%) → infusión D5–D10% hasta euglicemia estable.\n\nPREVENCIÓN (nuevo 2026):\n• Rec. 5.47: cribado anual de miedo a hipoglicemia.\n• Rec. 6.17: incluir glucosa oral en botiquines de trabajo/escuelas.\n• CGM con alertas predictivas ampliado a todo usuario de insulina.\n• Sistemas híbridos automáticos (AID).\n• Educación estructurada (DAFNE, BGAT), identificación médica visible.\n• Glucagón prescrito a TODO paciente con riesgo de nivel 2–3.\n\nHIPOGLICEMIA INDUCIDA — fármacos clave:\n• Insulina (principal causa).\n• Sulfonilureas: glibenclamida mayor riesgo (vida media larga + metabolitos activos); EVITAR en AM/ERC (Beers). Glimepirida menor riesgo, preferida si SU necesaria. Glinidas (repaglinida) menor riesgo.\n• Alcohol (inhibe gluconeogénesis hepática).\n• Comorbilidad: sepsis, IRC, IH, deficiencia cortisol, hipotiroidismo severo, desnutrición.\n\nEN NO DIABÉTICOS — Tríada de Whipple (Endocrine Society):\n(1) síntomas compatibles + (2) glicemia <55 mg/dL documentada + (3) resolución con glucosa. Solo evaluar si se cumple.\n• Hiperinsulinismo endógeno (insulinoma): insulina ≥3 µU/mL, péptido C ≥0,6 ng/mL, proinsulina ≥5 pmol/L con glicemia <55; test de ayuno 72 h; localización por TC/RM, EUS, PET-68Ga-exendina.\n• Hipoglicemia reactiva postprandial: post-bariátrica (dumping tardío), idiopática; manejo dietético (HC complejos, comidas fraccionadas).",
+      "especialidad": "endocrino",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "ADA Diabetes Care 2026;49(Suppl 1):S132-S149.",
+      "vigencia": "2026",
+      "categoria_original": "endocrino"
     },
     {
       "id": "DEF-GUIA-009",
-      "termino": "AHA/ACC 2026 — Dislipidemia, Lp(a) y PREVENT",
-      "tipo": "guia",
-      "categoria": "cardiología",
-      "definicion": "2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia (Circulation, marzo 2026). Reemplaza la guía 2018 de Blood Cholesterol. Cambio de nombre clave: «dislipidemia» (incluye LDL-C, TG y Lp(a)).\n\nCRIBADO:\n• Niños 9–11 años: panel lipídico universal. Desde los 2 años si historia familiar de ASCVD prematura, hipercolesterolemia severa o HF.\n• Adultos: panel cada 5 años (mínimo) desde los 19 años.\n• Lp(a) UNA VEZ EN LA VIDA en todos los adultos (Clase I, primera vez en guía estadounidense). Umbral significativo: ≥125 nmol/L (~50 mg/dL).\n• ApoB útil cuando TG >200, DM, o LDL-C logrado <70.\n\nESTRATIFICACIÓN DE RIESGO:\n• PREVENT (AHA 2023) ENDORSADA — incluye eGFR, omite raza, BMI solo para IC. Calcula riesgo a 10 y 30 años.\n• Pooled Cohort Equations: DEPRECATED.\n• Categorías PREVENT: bajo <3%, borderline 3–<5%, intermedio 5–<10%, alto ≥10%; muy alto = ASCVD establecida con eventos recurrentes o múltiples condiciones de alto riesgo.\n\nMETAS LDL-C (la guía RESTAURA metas numéricas):\n• Bajo/borderline: estilo de vida; estatina si otros factores.\n• Intermedio (PREVENT 5–<10%): LDL-C <100 mg/dL, no-HDL-C <130.\n• Alto riesgo (ASCVD establecida, ≥10%): LDL-C <70 mg/dL o reducción ≥50%.\n• Muy alto riesgo (ASCVD recurrente, DM con múltiples factores): LDL-C <55.\n\nESTATINAS:\n• Alta intensidad: atorvastatina 40–80, rosuvastatina 20–40 → ASCVD clínica, muy alto/alto riesgo, LDL ≥190, DM con factores, SCA al ingreso.\n• Moderada: atorva 10–20, rosuva 5–10, simva 20–40 → intermedio, CKD ≥3 (atorvastatina preferida; rosuva ≤10).\n\nESCALADA (Clase I):\n1. Estatina alta intensidad → si LDL no llega a meta:\n2. + Ezetimiba 10 mg/d → si no:\n3. + iPCSK9 (alirocumab, evolocumab) si LDL ≥70 (muy alto riesgo) o ≥100 (alto).\n4. Inclisiran 284 mg SC dosis 0, mes 3, luego cada 6 meses — alternativa a iPCSK9.\n5. Ácido bempedoico en intolerancia a estatinas (CLEAR Outcomes: ↓MACE 13%).\n\nLp(a) ELEVADA — Manejo actual:\n• Intensificar control de otros factores (LDL más agresivo, PA, no fumar).\n• Sin terapia Lp(a)-específica aprobada aún.\n• En pipeline: pelacarsen (HORIZON, 2026), olpasiran (OCEAN(a), 2027), lepodisiran, muvalaplin (oral).\n\nTG ALTOS:\n• 150–499 mg/dL + ASCVD/DM con factor adicional, post-meta LDL: ICOSAPENT ETHYL 4 g/d (REDUCE-IT: ↓25% MACE). Único TG-lowering con outcomes.\n• Fenofibrato y niacina: NO recomendados como add-on rutinario.\n• ≥500: prioridad prevenir pancreatitis (fenofibrato, ω-3, dieta).\n• HDL bajo aislado: NO target farmacológico.",
-      "fuente": "Circulation 2026 — DOI 10.1161/CIR.0000000000001423.",
-      "vigencia": "2026"
+      "tipo": "concepto",
+      "concepto": "AHA/ACC 2026 — Dislipidemia, Lp(a) y PREVENT",
+      "pregunta": "¿Qué examen incorpora AHA/ACC 2026 como cribado UNA VEZ EN LA VIDA en TODO adulto, por primera vez en una guía estadounidense?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "ApoA-I",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "Lp(a) (lipoproteína a)",
+          "correcta": true
+        },
+        {
+          "letra": "c",
+          "texto": "Homocisteína",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Coronariografía",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "Score de calcio coronario obligatorio",
+          "correcta": false
+        }
+      ],
+      "explicacion": "2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia (Circulation, marzo 2026). Reemplaza la guía 2018 de Blood Cholesterol. Cambio de nombre clave: «dislipidemia» (incluye LDL-C, TG y Lp(a)).\n\nCRIBADO:\n• Niños 9–11 años: panel lipídico universal. Desde los 2 años si historia familiar de ASCVD prematura, hipercolesterolemia severa o HF.\n• Adultos: panel cada 5 años (mínimo) desde los 19 años.\n• Lp(a) UNA VEZ EN LA VIDA en todos los adultos (Clase I, primera vez en guía estadounidense). Umbral significativo: ≥125 nmol/L (~50 mg/dL).\n• ApoB útil cuando TG >200, DM, o LDL-C logrado <70.\n\nESTRATIFICACIÓN DE RIESGO:\n• PREVENT (AHA 2023) ENDORSADA — incluye eGFR, omite raza, BMI solo para IC. Calcula riesgo a 10 y 30 años.\n• Pooled Cohort Equations: DEPRECATED.\n• Categorías PREVENT: bajo <3%, borderline 3–<5%, intermedio 5–<10%, alto ≥10%; muy alto = ASCVD establecida con eventos recurrentes o múltiples condiciones de alto riesgo.\n\nMETAS LDL-C (la guía RESTAURA metas numéricas):\n• Bajo/borderline: estilo de vida; estatina si otros factores.\n• Intermedio (PREVENT 5–<10%): LDL-C <100 mg/dL, no-HDL-C <130.\n• Alto riesgo (ASCVD establecida, ≥10%): LDL-C <70 mg/dL o reducción ≥50%.\n• Muy alto riesgo (ASCVD recurrente, DM con múltiples factores): LDL-C <55.\n\nESTATINAS:\n• Alta intensidad: atorvastatina 40–80, rosuvastatina 20–40 → ASCVD clínica, muy alto/alto riesgo, LDL ≥190, DM con factores, SCA al ingreso.\n• Moderada: atorva 10–20, rosuva 5–10, simva 20–40 → intermedio, CKD ≥3 (atorvastatina preferida; rosuva ≤10).\n\nESCALADA (Clase I):\n1. Estatina alta intensidad → si LDL no llega a meta:\n2. + Ezetimiba 10 mg/d → si no:\n3. + iPCSK9 (alirocumab, evolocumab) si LDL ≥70 (muy alto riesgo) o ≥100 (alto).\n4. Inclisiran 284 mg SC dosis 0, mes 3, luego cada 6 meses — alternativa a iPCSK9.\n5. Ácido bempedoico en intolerancia a estatinas (CLEAR Outcomes: ↓MACE 13%).\n\nLp(a) ELEVADA — Manejo actual:\n• Intensificar control de otros factores (LDL más agresivo, PA, no fumar).\n• Sin terapia Lp(a)-específica aprobada aún.\n• En pipeline: pelacarsen (HORIZON, 2026), olpasiran (OCEAN(a), 2027), lepodisiran, muvalaplin (oral).\n\nTG ALTOS:\n• 150–499 mg/dL + ASCVD/DM con factor adicional, post-meta LDL: ICOSAPENT ETHYL 4 g/d (REDUCE-IT: ↓25% MACE). Único TG-lowering con outcomes.\n• Fenofibrato y niacina: NO recomendados como add-on rutinario.\n• ≥500: prioridad prevenir pancreatitis (fenofibrato, ω-3, dieta).\n• HDL bajo aislado: NO target farmacológico.",
+      "especialidad": "cardio",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "Circulation 2026 — DOI 10.1161/CIR.0000000000001423.",
+      "vigencia": "2026",
+      "categoria_original": "cardiología"
     },
     {
       "id": "DEF-GUIA-010",
-      "termino": "ACG 2024-2026 — H. pylori, HDA, pancreatitis, EII y encefalopatía hepática",
-      "tipo": "guia",
-      "categoria": "gastroenterología",
-      "definicion": "Síntesis de guías ACG vigentes 2021–2026 más relevantes para EUNACOM.\n\nH. PYLORI (ACG 2024 — Chey et al., Am J Gastroenterol sept 2024):\n• Se ELIMINA triple terapia con claritromicina como 1ª línea (resistencia >15%).\n• Primera línea: CUÁDRUPLE CON BISMUTO × 14 días (PPI + bismuto + tetraciclina + metronidazol) O VONOPRAZAN DUAL (vonoprazan 20 mg c/12h + amoxicilina 1 g c/8h × 14 d).\n• Alternativa: rifabutina triple.\n• Confirmar erradicación con test de aliento o antígeno fecal ≥4 sem post-tratamiento.\n\nHDA NO VARICEAL (ACG 2021, vigente):\n• Transfundir GR si Hb <7 g/dL.\n• Glasgow-Blatchford 0–1 → alta desde urgencias.\n• Eritromicina IV pre-endoscopía (procinético).\n• Endoscopía dentro de 24 h.\n• Forrest Ia/Ib/IIa/IIb → terapia endoscópica DUAL (inyección + térmica o clips).\n• PPI IV bolo + infusión continua 72 h post-hemostasia.\n\nHDA VARICEAL (AASLD 2024 — referencia):\n• Profilaxis primaria (várices alto riesgo): carvedilol (preferido) o ligadura.\n• Sangrado agudo: TERLIPRESINA o octreotida + ligadura endoscópica + CEFTRIAXONA 1 g/d × 7 días.\n• Prevención secundaria: BB no selectivo + ligadura.\n\nPANCREATITIS AGUDA (ACG 2024):\n• Diagnóstico: 2 de 3 (dolor típico, lipasa/amilasa >3× normal, imagen).\n• RINGER LACTATO preferido sobre SF.\n• Resucitación MODERADA (no agresiva), reevaluar a 6 h, meta: ↓BUN.\n• NO TC rutinaria al ingreso — solo si diagnóstico incierto o no mejora a 48–72 h.\n• Nutrición enteral <48 h.\n• Antibióticos solo en NECROSIS INFECTADA confirmada.\n• Colangitis con PA biliar → CPRE <24 h.\n• PA biliar leve → COLECISTECTOMÍA en la misma hospitalización.\n\nERGE (ACG 2022):\n• Síntomas clásicos sin alarma → prueba empírica con PPI antes de comidas × 8 semanas.\n• Endoscopía si disfagia, pérdida de peso, sangrado o riesgo de Barrett.\n• pH-metría/impedancia si PPI falla.\n• PPI a dosis mínima efectiva por seguridad a largo plazo.\n\nEII — CROHN y CU (ACG 2025):\n• Nuevos biológicos aprobados: risankizumab, mirikizumab, guselkumab (anti-IL-23) y upadacitinib (JAK).\n• YA NO se requiere falla a terapia convencional antes de biológicos.\n• Infliximab IV + tiopurina superior a monoterapia.\n• CU severa aguda: infliximab; si albúmina <2,5 → intensificar dosis.\n• Vedolizumab y infliximab subcutáneos disponibles.\n\nCONSTIPACIÓN CRÓNICA (AGA-ACG 2023):\n• 1ª línea: PEG (polietilenglicol) + fibra.\n• Si falla: secretagogos — linaclotida, plecanatida, lubiprostona, prucaloprida (agonista 5-HT4). Bisacodilo/senósidos como estimulantes. Tenapanor para IBS-C.\n\nENCEFALOPATÍA HEPÁTICA (ACG 2026 — primera guía ACG dedicada):\n• Manifiesta: LACTULOSA titulada a 2–3 deposiciones blandas/día (1ª línea, prevención de recurrencia).\n• Añadir RIFAXIMINA 550 mg c/12h en EH aguda y profilaxis secundaria ambulatoria.\n• PEG alta dosis como alternativa a lactulosa.\n• Suplementar zinc si déficit.\n\nASCITIS (AASLD 2021):\n• Restricción de sodio <2 g/d.\n• Espironolactona ± furosemida 100:40 mg.\n• Paracentesis con ALBÚMINA IV si extracción >5 L (8 g/L extraído).",
-      "fuente": "ACG/AASLD guidelines 2021–2026 — journals.lww.com/ajg",
-      "vigencia": "2021–2026"
+      "tipo": "concepto",
+      "concepto": "ACG 2024-2026 — H. pylori, HDA, pancreatitis, EII y encefalopatía hepática",
+      "pregunta": "Según ACG 2024, ¿cuál es la primera línea para erradicación de H. pylori en regiones con resistencia a claritromicina >15%?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Triple terapia con claritromicina × 7 días",
+          "correcta": false
+        },
+        {
+          "letra": "b",
+          "texto": "Cuádruple con bismuto × 14 d O vonoprazan dual × 14 d",
+          "correcta": true
+        },
+        {
+          "letra": "c",
+          "texto": "Monoterapia con amoxicilina",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Levofloxacina × 7 días",
+          "correcta": false
+        },
+        {
+          "letra": "e",
+          "texto": "Solo PPI a dosis altas",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Síntesis de guías ACG vigentes 2021–2026 más relevantes para EUNACOM.\n\nH. PYLORI (ACG 2024 — Chey et al., Am J Gastroenterol sept 2024):\n• Se ELIMINA triple terapia con claritromicina como 1ª línea (resistencia >15%).\n• Primera línea: CUÁDRUPLE CON BISMUTO × 14 días (PPI + bismuto + tetraciclina + metronidazol) O VONOPRAZAN DUAL (vonoprazan 20 mg c/12h + amoxicilina 1 g c/8h × 14 d).\n• Alternativa: rifabutina triple.\n• Confirmar erradicación con test de aliento o antígeno fecal ≥4 sem post-tratamiento.\n\nHDA NO VARICEAL (ACG 2021, vigente):\n• Transfundir GR si Hb <7 g/dL.\n• Glasgow-Blatchford 0–1 → alta desde urgencias.\n• Eritromicina IV pre-endoscopía (procinético).\n• Endoscopía dentro de 24 h.\n• Forrest Ia/Ib/IIa/IIb → terapia endoscópica DUAL (inyección + térmica o clips).\n• PPI IV bolo + infusión continua 72 h post-hemostasia.\n\nHDA VARICEAL (AASLD 2024 — referencia):\n• Profilaxis primaria (várices alto riesgo): carvedilol (preferido) o ligadura.\n• Sangrado agudo: TERLIPRESINA o octreotida + ligadura endoscópica + CEFTRIAXONA 1 g/d × 7 días.\n• Prevención secundaria: BB no selectivo + ligadura.\n\nPANCREATITIS AGUDA (ACG 2024):\n• Diagnóstico: 2 de 3 (dolor típico, lipasa/amilasa >3× normal, imagen).\n• RINGER LACTATO preferido sobre SF.\n• Resucitación MODERADA (no agresiva), reevaluar a 6 h, meta: ↓BUN.\n• NO TC rutinaria al ingreso — solo si diagnóstico incierto o no mejora a 48–72 h.\n• Nutrición enteral <48 h.\n• Antibióticos solo en NECROSIS INFECTADA confirmada.\n• Colangitis con PA biliar → CPRE <24 h.\n• PA biliar leve → COLECISTECTOMÍA en la misma hospitalización.\n\nERGE (ACG 2022):\n• Síntomas clásicos sin alarma → prueba empírica con PPI antes de comidas × 8 semanas.\n• Endoscopía si disfagia, pérdida de peso, sangrado o riesgo de Barrett.\n• pH-metría/impedancia si PPI falla.\n• PPI a dosis mínima efectiva por seguridad a largo plazo.\n\nEII — CROHN y CU (ACG 2025):\n• Nuevos biológicos aprobados: risankizumab, mirikizumab, guselkumab (anti-IL-23) y upadacitinib (JAK).\n• YA NO se requiere falla a terapia convencional antes de biológicos.\n• Infliximab IV + tiopurina superior a monoterapia.\n• CU severa aguda: infliximab; si albúmina <2,5 → intensificar dosis.\n• Vedolizumab y infliximab subcutáneos disponibles.\n\nCONSTIPACIÓN CRÓNICA (AGA-ACG 2023):\n• 1ª línea: PEG (polietilenglicol) + fibra.\n• Si falla: secretagogos — linaclotida, plecanatida, lubiprostona, prucaloprida (agonista 5-HT4). Bisacodilo/senósidos como estimulantes. Tenapanor para IBS-C.\n\nENCEFALOPATÍA HEPÁTICA (ACG 2026 — primera guía ACG dedicada):\n• Manifiesta: LACTULOSA titulada a 2–3 deposiciones blandas/día (1ª línea, prevención de recurrencia).\n• Añadir RIFAXIMINA 550 mg c/12h en EH aguda y profilaxis secundaria ambulatoria.\n• PEG alta dosis como alternativa a lactulosa.\n• Suplementar zinc si déficit.\n\nASCITIS (AASLD 2021):\n• Restricción de sodio <2 g/d.\n• Espironolactona ± furosemida 100:40 mg.\n• Paracentesis con ALBÚMINA IV si extracción >5 L (8 g/L extraído).",
+      "especialidad": "gastroenterologia",
+      "imagen": null,
+      "version_actual": 1,
+      "historial_ediciones": [],
+      "fuente_guia": "ACG/AASLD guidelines 2021–2026 — journals.lww.com/ajg",
+      "vigencia": "2021–2026",
+      "categoria_original": "gastroenterología"
     }
   ]
 }

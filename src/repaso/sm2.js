@@ -70,8 +70,9 @@ export async function estadisticasRepaso() {
 // Devuelve la lista de objetos de preguntas (ya hidratados, no refs).
 export async function sesionDelDia(target = 20) {
   const todasPreg = (await getAll("preguntas")).filter(
-    (q) => q && q.id_unico && q.utilizable !== false &&
-           Array.isArray(q.opciones) && q.opciones.length > 0
+    (q) => q && q.id_unico && q.utilizable !== false && q.inactivo !== true &&
+           Array.isArray(q.opciones) && q.opciones.length > 0 &&
+           q.opciones.some((o) => o.correcta)
   );
   const porId = new Map(todasPreg.map((q) => [q.id_unico, q]));
   const cards = await getAll("repaso");

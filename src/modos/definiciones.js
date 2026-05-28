@@ -6,10 +6,18 @@ import { navegar } from "../ui/router.js";
 import { registrarRespuesta, registrarSesion } from "../db/stats.js";
 import { pendientesHoy } from "../repaso/sm2.js";
 
-const ETIQUETA = { farmaco: "Fármacos", concepto: "Conceptos", herramienta: "Herramientas diagnósticas" };
+const ETIQUETA = {
+  farmaco: "Fármacos",
+  concepto: "Conceptos",
+  herramienta: "Herramientas diagnósticas",
+  guia: "Guías clínicas",
+};
 
 export async function vistaDefiniciones() {
-  const todas = await getAll("definiciones");
+  // Filtrar ítems con schema válido (pregunta + opciones); evita "se omite" en runner.
+  const todas = (await getAll("definiciones")).filter(
+    (d) => d && d.pregunta && Array.isArray(d.opciones) && d.opciones.length > 0
+  );
   const tipos = [...new Set(todas.map((d) => d.tipo))];
 
   const fTipo = el("select", {}, [
@@ -54,7 +62,7 @@ export async function vistaDefiniciones() {
       imagen: d.imagen,
       editado: d.version_actual > 1,
       version: d.version_actual,
-      subtitulo: [ETIQUETA[d.tipo] || d.tipo, d.concepto].filter(Boolean),
+      subtitulo: [ETIQUETA[d.tipo] || d.tipo, d.concepto || d.termino].filter(Boolean),
       onEdit: () => navegar(`editar/definicion/${encodeURIComponent(d.id)}`),
       _raw: d,
     }));
@@ -62,7 +70,8 @@ export async function vistaDefiniciones() {
       titulo: "Definiciones", subtitulo: modoRepaso.checked ? "Modo repaso" : "Práctica libre", items,
       onAnswer: (item, correcta) =>
         registrarRespuesta({ store: "definiciones", item: item._raw, correcta,
-          tema: item._raw.concepto, ref: { tipo: "definicion", id: item.id } }),
+          tema: item._raw.concepto || item._raw.termino || "definicion",
+          ref: { tipo: "definicion", id: item.id } }),
       onFinish: (r) => registrarSesion({ modo: "definiciones", ...r }),
     });
   }
