@@ -37,6 +37,13 @@ const NAV_ALIAS = {
   editar: "quiz",
   importar: "quiz",
 };
+const TITULOS = {
+  "": "Inicio", quiz: "Quiz por temas", casos: "Casos clínicos",
+  caso: "Caso clínico", definiciones: "Definiciones", marcadas: "Marcadas",
+  preguntas: "Buscar preguntas", importar: "Importar contenido",
+  progreso: "Mi progreso", ajustes: "Ajustes", editar: "Editor",
+};
+let _versionTag = "";
 alCambiar((segmentos) => {
   const raw = segmentos[0] || "";
   const base = NAV_ALIAS[raw] || raw || "home";
@@ -44,6 +51,9 @@ alCambiar((segmentos) => {
     const target = b.dataset.nav || "home";
     b.classList.toggle("activo", target === base || (base === "home" && target === ""));
   });
+  // Title por vista: ayuda en tabs del navegador y al compartir el shortcut.
+  const seccion = TITULOS[raw] || (raw ? raw.charAt(0).toUpperCase() + raw.slice(1) : "Inicio");
+  document.title = `${seccion} — InternOS${_versionTag}`;
 });
 
 async function arranque() {
@@ -51,7 +61,8 @@ async function arranque() {
   const setMsg = (m) => { const s = document.getElementById("splash-msg"); if (s) s.textContent = m; };
   // Versión visible en <title> y splash desde el primer instante.
   const v = await leerVersion();
-  document.title = `InternOS v${v.version} — EUNACOM`;
+  _versionTag = ` v${v.version}`;
+  document.title = `InternOS${_versionTag}`;
   const splashSub = document.getElementById("splash-version");
   if (splashSub) splashSub.textContent = `v${v.version}${v.commit !== "local" ? " · " + v.commit : ""}`;
   try {
@@ -108,11 +119,22 @@ window.addEventListener("beforeinstallprompt", (e) => {
     btn.hidden = false;
     btn.addEventListener("click", async () => {
       btn.hidden = true;
-      deferredPrompt.prompt();
-      await deferredPrompt.userChoice;
+      // Otra pestaña pudo haber consumido el evento entre montaje y clic.
+      if (!deferredPrompt) return;
+      try {
+        deferredPrompt.prompt();
+        await deferredPrompt.userChoice;
+      } catch (_) { /* user canceled */ }
       deferredPrompt = null;
     }, { once: true });
   }
 });
 
-arranque();
+// Catch de último recurso: errores de arranque ya tienen try/catch interno,
+// pero si algo se cuela (await fuera del bloque), no queremos unhandledrejection
+// silenciosa.
+arranque().catch((e) => {
+  console.error("[arranque]", e);
+  const msg = document.getElementById("splash-msg");
+  if (msg) msg.textContent = "Error al iniciar: " + (e && e.message || "desconocido");
+});

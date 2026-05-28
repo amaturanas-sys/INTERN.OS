@@ -72,16 +72,30 @@ export async function vistaAjustes() {
   async function restaurar(e) {
     const f = e.target.files[0];
     if (!f) return;
-    try {
-      const dump = JSON.parse(await f.text());
-      if (dump.preguntas) await bulkPut("preguntas", dump.preguntas);
-      if (dump.casos_clinicos) await bulkPut("casos_clinicos", dump.casos_clinicos);
-      if (dump.definiciones) await bulkPut("definiciones", dump.definiciones);
-      if (dump.progreso_usuario) await bulkPut("progreso_usuario", dump.progreso_usuario);
-      if (dump.repaso) await bulkPut("repaso", dump.repaso);
-      toast("Banco restaurado.", "ok");
-      navegar("ajustes");
-    } catch (err) { toast("Archivo inválido: " + err.message, "error"); }
+    let parsed;
+    try { parsed = JSON.parse(await f.text()); }
+    catch (err) { toast("Archivo inválido: " + (err.message || "no es JSON"), "error"); return; }
+
+    const pasos = [
+      ["preguntas",        parsed.preguntas],
+      ["casos_clinicos",   parsed.casos_clinicos],
+      ["definiciones",     parsed.definiciones],
+      ["progreso_usuario", parsed.progreso_usuario],
+      ["repaso",           parsed.repaso],
+    ].filter(([, arr]) => Array.isArray(arr) && arr.length);
+    if (!pasos.length) { toast("El archivo no contiene datos restaurables.", "error"); return; }
+
+    for (let i = 0; i < pasos.length; i++) {
+      const [store, arr] = pasos[i];
+      toast(`Restaurando ${store}… (${i + 1}/${pasos.length})`, "info");
+      try { await bulkPut(store, arr); }
+      catch (err) {
+        toast(`Falló al restaurar ${store}: ${err && err.message || "error"}`, "error");
+        return;
+      }
+    }
+    toast(`Restauración completa: ${pasos.length} stores.`, "ok");
+    navegar("ajustes");
   }
 
   function borrarTodo() {

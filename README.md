@@ -1,14 +1,14 @@
-# EUNACOM — PWA de estudio offline
+# InternOS — PWA de estudio EUNACOM offline
 
 Plataforma de estudio EUNACOM como **Progressive Web App instalable**, pensada para
-una **tablet Android** y diseñada para funcionar **100% offline**. Implementa la
-arquitectura descrita en `arquitectura_pwa_eunacom.md`: tres modos de estudio, banco
-editable con trazabilidad, soporte de imágenes, importación de material `.md` y repaso
-espaciado.
+una **tablet Android** y diseñada para funcionar **100% offline**. Tres modos de
+estudio, banco editable con trazabilidad, soporte de imágenes, importación de
+material `.md` y repaso espaciado SM-2.
 
-> Fuente de verdad del contenido: material del Dr. Guevara. El banco incluido aquí es
-> una **muestra inicial de cardiología** para que la app sea funcional; el banco completo
-> de 2.610 preguntas se carga reemplazando `data/banco_inicial.json` o vía el importador `.md`.
+> Fuente del contenido: material del Dr. Guevara + síntesis de guías clínicas
+> 2024-2026 (GINA, GOLD, ESC, AHA, ADA, AACE, SSC, ACG). Banco actual: **4 017
+> preguntas**, **26 casos clínicos** y **50 definiciones** (fármacos, conceptos,
+> herramientas y guías).
 
 ## Qué incluye
 

@@ -14,10 +14,19 @@ import { el } from "./dom.js";
 // Devuelve un nodo con la imagen de apoyo, o null si no hay.
 export function vistaImagen(imagen) {
   if (!imagen || !imagen.presente || !imagen.data) return null;
-  return el("figure", { class: "imagen-apoyo" }, [
-    el("img", { src: imagen.data, alt: imagen.descripcion || "Imagen de apoyo" }),
+  const fig = el("figure", { class: "imagen-apoyo" }, [
+    el("img", {
+      src: imagen.data,
+      alt: imagen.descripcion || "Imagen de apoyo",
+      loading: "lazy",
+      decoding: "async",
+      // Si el dataURL es inválido / quedó truncado, ocultamos el figure
+      // entero en lugar de mostrar el icono roto del navegador.
+      onError: (e) => { if (e.target.parentElement) e.target.parentElement.style.display = "none"; },
+    }),
     imagen.descripcion ? el("figcaption", { text: imagen.descripcion }) : null,
   ]);
+  return fig;
 }
 
 // ¿El ítem queda fuera del quiz por requerir imagen y no tenerla?

@@ -67,8 +67,14 @@ export function toast(mensaje, tipo = "info") {
 }
 
 export function modal(titulo, contenido, acciones = []) {
+  // Restaurar foco al elemento que abrió el modal al cerrarse.
+  const foco_previo = document.activeElement;
   const overlay = el("div", { class: "modal-overlay" });
-  const cerrar = () => overlay.remove();
+  const cerrar = () => {
+    overlay.remove();
+    document.removeEventListener("keydown", onKey);
+    if (foco_previo && foco_previo.focus) foco_previo.focus();
+  };
   overlay.addEventListener("click", (e) => { if (e.target === overlay) cerrar(); });
 
   const botones = acciones.map((a) =>
@@ -78,16 +84,36 @@ export function modal(titulo, contenido, acciones = []) {
     }, a.label)
   );
 
-  const box = el("div", { class: "modal" }, [
+  const tituloId = "modal-titulo-" + Math.random().toString(36).slice(2, 8);
+  const box = el("div", {
+    class: "modal", role: "dialog", "aria-modal": "true", "aria-labelledby": tituloId,
+  }, [
     el("div", { class: "modal__head" }, [
-      el("h3", { text: titulo }),
+      el("h3", { id: tituloId, text: titulo }),
       el("button", { class: "modal__x", onClick: cerrar, "aria-label": "Cerrar" }, "✕"),
     ]),
     el("div", { class: "modal__body" }, [contenido]),
     el("div", { class: "modal__foot" }, botones),
   ]);
   overlay.appendChild(box);
+
+  // Focus trap: Tab/Shift+Tab queda dentro del modal; Escape cierra.
+  function focusables() {
+    return box.querySelectorAll("button, [href], input, select, textarea, [tabindex]:not([tabindex='-1'])");
+  }
+  function onKey(e) {
+    if (e.key === "Escape") { e.preventDefault(); cerrar(); return; }
+    if (e.key !== "Tab") return;
+    const f = Array.from(focusables()).filter((n) => !n.disabled);
+    if (!f.length) return;
+    const primero = f[0], ultimo = f[f.length - 1];
+    if (e.shiftKey && document.activeElement === primero) { e.preventDefault(); ultimo.focus(); }
+    else if (!e.shiftKey && document.activeElement === ultimo) { e.preventDefault(); primero.focus(); }
+  }
+  document.addEventListener("keydown", onKey);
   document.body.appendChild(overlay);
+  // Focus inicial al primer botón (típicamente "Cerrar" o la primera acción).
+  setTimeout(() => { const f = focusables()[0]; if (f) f.focus(); }, 0);
   return { cerrar, overlay };
 }
 

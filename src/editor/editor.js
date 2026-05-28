@@ -84,9 +84,32 @@ export async function abrirEditor(tipo, id) {
     el("label", { class: "form__row" }, [el("span", { class: "form__label", text: "Nota" }), nota]),
   ]);
 
+  // Snapshot del estado inicial para detectar cambios sin guardar.
+  const baseline = JSON.stringify(snapshotEditable(tipo, item));
+  function huboCambios() {
+    // Comparamos el snapshot original con el estado actual leído del form.
+    const actual = snapshotEditable(tipo, {
+      ...item,
+      enunciado: refs.enunciado?.value ?? item.enunciado,
+      justificacion: refs.justificacion?.value ?? item.justificacion,
+      concepto: refs.concepto?.value ?? item.concepto,
+      pregunta: refs.pregunta?.value ?? item.pregunta,
+      explicacion: refs.explicacion?.value ?? item.explicacion,
+      titulo: refs.titulo?.value ?? item.titulo,
+      resumen_final: refs.resumen?.value ?? item.resumen_final,
+      opciones: refs._ops ? leerOpciones(refs) : item.opciones,
+    });
+    return JSON.stringify(actual) !== baseline ||
+      fuente.value.trim() !== "" || nota.value.trim() !== "";
+  }
+  const cancelar = () => {
+    if (huboCambios() && !confirm("Tienes cambios sin guardar. ¿Salir igualmente?")) return;
+    navegar(volver(tipo));
+  };
+
   const acciones = el("div", { class: "runner__acciones" }, [
     el("button", { class: "btn btn--primary", onClick: guardar }, "Guardar versión"),
-    el("button", { class: "btn btn--ghost", onClick: () => navegar(volver(tipo)) }, "Cancelar"),
+    el("button", { class: "btn btn--ghost", onClick: cancelar }, "Cancelar"),
     item.historial_ediciones && item.historial_ediciones.length
       ? el("button", { class: "btn btn--ghost", onClick: verHistorial }, `Ver historial (${item.historial_ediciones.length})`) : null,
   ]);
