@@ -36,6 +36,7 @@ const ASSETS = [
   "./src/modos/casos-clinicos.js",
   "./src/modos/definiciones.js",
   "./src/modos/marcadas.js",
+  "./src/modos/listado-preguntas.js",
   "./src/version.js",
 ];
 
