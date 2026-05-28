@@ -10,7 +10,7 @@ function normalizar(s) {
   return (s || "")
     .toLowerCase()
     .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "");
+    .replace(/[\u0300-\u036f]/g, "");  // marcas combinantes (tildes)
 }
 
 export async function vistaListadoPreguntas() {
