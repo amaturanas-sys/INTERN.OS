@@ -1,0 +1,548 @@
+Título: 6  Salud Pública   Epidemiología descriptiva - YouTube
+URL: https://youtu.be/-uy3ID36QOE
+
+[Música]
+Hola cómo están les tengo una mala
+noticia esta clase de epidemiología
+descriptiva es larga es difícil pero es
+muy importante así que mucha atención
+por favor ya ahora hay una buena noticia
+igual que eventualmente se pueden
+entender estos conceptos y tener buenas
+estas preguntas de del del eunacom en el
+fondo en salud pública ya así que repito
+es algo que es difícil que va a ser un
+poquito denso a lo mejor pero les pido
+ahí el mayor esfuerzo por mantener la
+atención en la clase Ya ahora como
+concepto inicial que es la epidemiología
+descriptiva es la que busca generar
+información ya y no busca relaciones de
+causaefecto A diferencia de la
+epidemiología analítica que es
+justamente la que busca el el el dar
+explicaciones de causa eh y efecto a
+distintas cosas ya ahora en esta clase
+vamos a hablar de varios conceptos de la
+incidencia de la prevalencia que ambas
+son eh las tasas de morbilidad por si
+acaso vamos a hablar Igualmente de la
+letalidad y de la mortalidad y de las
+diferencias entre esos conceptos y vamos
+a ver varios ejercicios eh Como
+relacionados con esos cuatro conceptos
+Además vamos a hablar de la la
+vigilancia epidemiológica que es un
+concepto que se pregunta mucho y que e y
+que actualmente está muy de moda con el
+tema de del covid y finalmente vamos a
+ver algunos conceptos en epidemiología
+que hay que saber entender hay que saber
+diferenciar y eh Hay que saber
+identificar eh las preguntas también así
+que vamos a hacer algunos ejercicios con
+eso también ya así que empecemos
+empecemos ya empecemos con las tasas de
+morbilidad ustedes saben que son dos la
+tasa de prevalencia por un lado y la
+tasa de incidencia por otro lado Ya
+ahora cómo se calcula la la tasa de
+prevalencia acuérdense que son los casos
+actuales los que hay en este momento
+dividido por la población total ya la
+tasa de incidencia en cambio son los
+casos nuevos y son los casos nuevos que
+ocurren en un determinado lapso de
+tiempo así que habitualmente uno habla
+de incidencia acumulada y que se acumula
+durante ese lapso de de de tiempo cierto
+y como Igualmente dividido por la
+población que estaba expuesta o por la
+la la la población que tenía el riesgo
+de eventualmente de como desarrollar
+esta enfermedad Ya ahora la otra forma
+de definirlo o la otra forma de
+estimarlo Es que la eh la prevalencia es
+la probabilidad de estar enfermo en este
+momento como son los casos actuales es
+justamente los casos que están enfermos
+en este momento ya en cambio el caso de
+incidencia es la la la probabilidad de
+enfermarme hacia el futuro en el sentido
+en que son los casos nuevos así que
+Obviamente si yo digo que la tasa de
+incidencia de cierta enfermedad es de 5
+por 100,000 Eso quiere decir que el
+riesgo de que yo me enferme durante ese
+año cierto va a ser de 5 en en 100,000
+Ya ahora cómo se calculan cómo se
+estiman cómo se obtienen estos datos en
+el caso de las tasas de prevalencia se
+obtienen con estudios transversales que
+su otro nombre son los estudios de
+prevalencia y que por si acaso los vamos
+a ver después en otra clase Ya y en
+cambio la incidencia se calcula con los
+estudios de coortes en el sentido en que
+son estudios en que yo agarro un grupo
+de personas y los voy siguiendo en el
+tiempo y ahí voy y calculo la incidencia
+acumulada en ese periodo de tiempo ya
+ahora existe una variante de la
+incidencia que es la tasa de ataque ya
+en el sentido en que las tasas de
+incidencia por regla general se evalúa
+la incidencia Durante un año pero esta
+tasa de de ataque mide una incidencia en
+un corto plazo ya y es la que se usa en
+los brotes y en las epidemias y en las
+pandemias también como como ocurre
+actualmente con la pandemia del covid ya
+y en esta tasa de ataque se calcula el
+el famoso índice r0 que muestra la
+velocidad con la cual se están
+contagiando las personas actualmente ya
+si es que es mayor a uno Esto me muestra
+que la enfermedad está en expansión O
+sea que cada vez hay más casos Si es que
+es igual a uno Eso quiere decir que la
+enfermedad se está está manteniendo y
+que los casos nuevos son habitualmente
+igual a los casos que se van eh
+mejorando o que van falleciendo o sea
+que van saliendo ya y finalmente eh
+cuando es menor a uno eso eh muestra que
+la la enfermedad el brote la epidemia
+cierto va en disminución va en retirada
+ya y como para que quede más claro esto
+veamos eh La Curva epidemiológica del
+covid en Chile ya eso es hasta el día de
+hoy que se está grabando el video en la
+fase inicial en la que se eleva cierto
+ahí eh habría un r eh mayor a uno hay
+cada día más casos cierto en la en la
+parte de la curva en que va bajando en
+cambio el r0 sería menor a uno y
+finalmente en la parte en que se en que
+se mantiene Más estable Ahí sería igual
+a uno ya ahora también hay un r0 = a 1
+en la parte de arriba de la curva
+epidemiológica por si acaso como para
+que lo lo tengan Claro ya ahora vamos a
+ver esto qué es lo que me sirve más la
+incidencia o la eh o la la la
+prevalencia de una enfermedad o sea
+ambas me muestran la morbilidad pero
+ambas me dan una información distinta
+que eventualmente me sirve más para un
+objetivo o para otro ya en una
+enfermedad infecciosa por por la general
+lo que uno usa es la tasa de incidencia
+Y eso aplica a todas las enfermedades
+agudas por regla general en el el
+sentido en que lo que me interesa es
+justamente los casos nuevos de la
+enfermedad en cambio en una enfermedad
+Crónica como la diabetes en la
+insuficiencia renal Crónica en el daño
+hepático crónico ahí lo que me sirve
+habitualmente es la tasa de prevalencia
+ya Y fíjense también se incluye ahí al
+VIH a el virus hepatitis c ya en el
+sentido en que son infecciones que son
+crónicas Así que eh en la anterior que
+habíamos visto ahí el impacto de una
+enfermedad infecciosa repito la regla
+general si es la incidencia A menos que
+sea una infección Crónica que ahí hay
+que elegir la la la tasa de prevalencia
+en cambio Ya ahora en el caso de que yo
+quiera evaluar el impacto de una
+enfermedad que tiene una corta duración
+ejemplo un infarto o un tep en ese caso
+Sí o sí debo usar la incidencia por lo
+mismo que habíamos dicho una una
+enfermedad aguda cierto que o se mejora
+en pocos días o bien se muere también y
+eso hace que la prevalencia no me sirva
+mucho ya en el sentido en que dejan de
+ser un caso actual en el caso del cáncer
+de pulmón por ejemplo que es una
+enfermedad con una alta letalidad
+Igualmente lo que me sirve es la tasa de
+incidencia Ya ahora en el impacto de la
+obesidad que es una enfermedad Crónica
+no transmisible cierto y que es Crónica
+obviamente la la eh la tasa de
+prevalencia va a ser la más la más
+importante y lo mismo ocurre en general
+con todos los factores de riesgo
+cardiovascular Ya ahora cómo determino
+el éxito de una campaña de prevención
+del VIH ya habíamos dicho antes que el
+VIH lo que más me me servía por ser una
+infección Crónica era la tasa de
+prevalencia pero en este caso lo que yo
+quiero ver es si es que la campaña tuvo
+éxito o no así que lo que me sirve es la
+tasa de incidencia ya yo tengo que ver
+que efectivamente haya caído la tasa de
+incidencia de la enfermedad y ahí recién
+voy a poder decir que esta campaña fue
+exitosa ya el calcular Los costos del
+tratamiento del VIH para para el país
+ahí obviamente lo que me interesa para
+ver cuánto voy a gastar en los
+medicamentos antivirales son el número
+de pacientes que actualmente hay
+enfermos Así que obviamente la tasa de
+prevalencia va a ser lo más importante
+Ya Cómo determino el éxito del tamizaje
+del cáncer ya esta es una pregunta muy
+difícil y la verdad es que no es ninguna
+de las dos lo que me sirve acá en
+general es la la tasa de mortalidad de
+cáncer Ya ahora si es que no eh si es
+que no apareciera como dentro de las
+opciones la tasa de mortalidad que es lo
+que habitualmente que uno usa como el
+indicador de éxito para las
+intervenciones de screening de los
+cánceres en general en ese caso yo
+debería elegir la prevalencia y la
+explicación es que acuérdense que el
+tamizaje no afecta en absoluto la
+incidencia de las enfermedades ya
+finalmente como veo el éxito de la
+vacunación Obviamente con la tasa de
+incidencia que debería caer idealmente
+llegar a cero cierto ya vemos siguiente
+tema La mortalidad y la letalidad ya les
+dije una clase larga así que que
+tenganme harta paciencia ya la
+mortalidad son las muertes que ocurren
+cierto por una por una determinada
+enfermedad en el caso de las
+mortalidades específicas estamos
+hablando dividido por la población en
+cambio en el caso de la letalidad son
+las muertes por una enfermedad
+determinada cierto pero dividido por los
+casos de esa enfermedad Ya Así que la
+letalidad mira solamente a las personas
+que se enfermaron de eso en cambio la
+mortalidad ve al total de la población Y
+ambos como numerador cierto eh Usan el
+el el mismo número cierto que son las
+muertes causadas por esa determinada
+enfermedad ahora la mortalidad sería la
+probabilidad de morirme de una
+determinada enfermedad ya en cambio la
+letalidad es la la la la probabilidad de
+morirme de esa enfermedad si es que yo
+me enfermo de esa enfermedad ya o sea si
+es que alguien va y me dice doctor tengo
+anta ahí qué es lo que me interesa la
+letalidad obviamente ya en el sentido en
+que ya está enfermo ahora tanto la
+mortalidad como la letalidad se eh
+evalúan Y se determinan y se obtiene el
+valor con estudios de coortes la
+diferencia es que en la mortalidad Yo
+sigo a la coorte de la población
+completa en cambio en la letalidad Yo
+sigo a la coorte de los pacientes
+enfermos Solamente ya ahora cómo voy a
+determinar la gravedad de la enfermedad
+con mortalidad o con la letalidad
+Obviamente con la letalidad ya en el
+sentido en que me dice si es que es muy
+grave o o no Si es que se va a morir si
+es que se enferma o no Ya cómo voy a ver
+finalmente el impacto de la pandemia de
+de El covid Bueno se va a medir de
+muchas formas Pero entre estas dos cosas
+lo que lo que más me va a importar es la
+mortalidad ya durante mucho tiempo se
+hizo mucho énfasis en la letalidad que
+era baja cierto pero recuerden que
+finalmente el evitar que la gente se
+enferme es lo más es lo más importante y
+la mortalidad como por esta enfermedad
+va a ser lo más importante también ya
+cómo voy a ver el éxito de un
+tratamiento nuevo para una enfermedad es
+viendo la reducción de la letalidad Así
+que como para el tratamiento de una
+enfermedad que se aplica obviamente en
+alguien que ya está enfermo es viendo la
+letalidad y finalmente cómo veo el éxito
+de una campaña de screening o de una
+campaña que evita cierta enfermedad que
+es eventualmente mortal es Obviamente
+con la mortalidad con la reducción en
+ese indicador Ese es el más importante
+Ya ahora la letalidad también es
+importante pero sepan que por por por
+convención en general las campañas de
+screening se evalúan como con el
+objetivo de a largo plazo reducir la
+tasa de mortalidad por esa enfermedad
+que se está buscando tempranamente ya
+vamos con otro tema insisto una clase
+densa ya vamos a ver el tema de la
+vigilancia epidemiológica qué es esto ya
+es cómo se vigila las distintas
+enfermedades infecciosas que hay como
+para evitar que se se expandan se
+contagien etcétera ya hay tres
+estrategias la vigilancia activa la la
+vigilancia centinela y la vigilancia
+pasiva Esos son los tres tipos por si
+acaso ya en la vigilancia activa hay un
+sistema de notificación obligatoria que
+sería el caso de la covid por ejemplo ya
+y hay de dos tipos la notificación
+inmediata que apenas yo veo al paciente
+con la sospecha de la enfermedad lo
+tengo que notificar de inmediato en ese
+momento versus la la notificación diaria
+que habitualmente se hace o al día
+siguiente o durante el mismo día en la
+tarde ya y que me hace elegir una u otra
+Que quede bien claro ambas son
+vigilancia activa porque ambas vienen
+con la notificación obligatoria pero lo
+que me hace elegir entre ambas
+habitualmente es la virulencia de la
+enfermedad dígase Qué tan grave es y qué
+tan contagiosa es si es muy grave y o
+muy contagiosa obviamente hay que avisar
+de inmediato O sea si es que alguien me
+dice hay un brote o hay un caso de
+meningitis meningo cosis eso hay que
+notificarlo pero ahora ya ya ahora que
+quede bien claro la vigilancia activa se
+notifica no ante la confirmación de la
+enfermedad sino que ante la sospecha de
+la enfermedad ya en el sentido en que el
+examen de confirmación puede demorar
+mucho tiempo y esa persona puede seguir
+como como eh eh contagiando a a más
+personas y que quede bien claro No es
+cualquier enfermedad deben ser las
+enfermedades que sean o muy virulentas y
+la virulencia insisto tiene relación con
+la gravedad y con la contagiosidad o
+bien que sean muy raras ejemplo alguna
+enfermedad que en chile no no hay así
+como enfermedad de lime uno dice si es
+que hay un caso hay que notificarlo
+inmediatamente también ya y finalmente A
+quiénes que se notifica esto a la seremi
+de salud ya la seremi de salud que es
+una de las instituciones que vamos a ver
+más adelante cierto y que representa al
+Ministerio de salud en la regiones es la
+autoridad sanitaria encargada del
+control epidemiológico y de la
+vigilancia epidemiológica en general en
+Chile por si acaso Ya ahora la
+vigilancia de tipo centinela se hace a
+través de eh un cosas que se llaman los
+centros Centinelas que son algunos
+hospitales algunos eh algunos
+consultorios algunas clínicas que son
+las únicas obligadas a por un lado hacer
+un estudio etiológico de distintas como
+enfermedades ejemplo en las enfermedades
+respiratorias virales ir a buscar qué
+virus en específico es y ellas son las
+únicas con la obligación de notificar ya
+y habitualmente se refiere a eh a
+infecciones que son frecuentes de hecho
+las más clásicas acá son las diarreas y
+las infecciones virales respiratorias
+son las que más se se controlan a través
+de los centros sentinelas por si acaso
+Ya ahora finalmente está la vigilancia
+pasiva que es este como control
+estadístico anual o mensual que se hace
+que es el que se aplica por regla
+general a la gran mayoría de las
+enfermedades y eh Igualmente se va a
+entregar este como información a la
+seremi y al ministerio finalmente que es
+quien va y reúne toda la información de
+las distintas seremis de las distintas
+regiones y finalmente emite un informe
+Ya ahora como para que quede bien claro
+Qué enfermedades son las que están en
+cada una de estas en el caso de la
+vigilancia activa son todas las obvias
+todas las infecciones raras o muy graves
+Van como vigilancia activa la lista está
+en el resumen de salud pública Así que
+tienen que revisarlo de ahí ya ahora
+incluye como algunas cosas que no no son
+tan claras cualquier brote ya aunque sea
+una enfermedad que no sea tan grave o
+que no sea tan infrecuente si es que hay
+un brote de esa enfermedad hay que
+notificarlo inmediatamente ya Eso
+incluye las intoxicaciones alimentarias
+porque Recuerden que la seremi de salud
+es la que fiscaliza finalmente a los
+restaurantes Así que si es que hay
+alguna intoxicación en un casino en un
+restaurante eso hay que notificarlo
+inmediatamente ya también cualquier
+Muerte inexplicada en un paciente sano
+si es que alguien de de la Nada se muere
+eso hay que notificarlo porque hay que
+buscar de que se murió en el sentido en
+que eventualmente puede ser alguna
+infección rara y muy grave ya y
+finalmente algunas enfermedades de
+transmisión sexual pero no todas
+solamente las más graves dígase el VIH
+cierto que es la más letal cierto la
+sífilis igualmente y la gonorrea esas
+tres son las únicas infecciones de
+transmisión sexual que sí se notifican
+obligatoriamente el mismo día o de
+inmediato por si acaso ya luego yo teng
+tengo la vigilancia centinela ya había
+habíamos dicho aplica a esas cuatro
+cosas a las infecciones respiratorias
+altas ya a los virus respiratorios a las
+diarreas Igualmente O sea a los virus de
+la gua ya a la varicela que es el único
+exantema como importante que que que se
+notifica a través de este sistema que si
+se fijan es algo frecuente como habíamos
+dicho y el resto de las enfermedades de
+transmisión sexual también ya y
+finalmente la vigilancia pasiva es todo
+el resto de las enfermedades más las
+infecciones no transmisibles cierto que
+incluyen algunas infecciones como la itu
+por ejemplo o la celulitis que
+habitualmente no se contagian o bien que
+sean leves como ejemplo un impétigo eh
+un una una tiña o alguna otra cosa que
+no sea muy grave En general simplemente
+se hace la vigilancia pasiva Ya ahora si
+yo les digo ejemplo el anta obviamente
+activa el ébola activa ya el tifus
+exantemático activa también bien ya el
+dengue o la enfermedad de Chikungunya o
+cualquiera de eso todas esas son activas
+Así que en general las que se notifican
+de manera obligatoria son todas bien
+obvias Ya ahora el último tema acá los
+conceptos epidemiológicos que hay que
+saber reconocer vamos a ver que es una
+endemia que es un brote que es epidemia
+y que es pandemia ya la endemia son los
+casos que habitualmente ocurren de una
+manera más o menos estable en una
+población Ya ahora Esto sí puede venir
+con una variación estacional ejemplo el
+anta en Chile es endémico siempre hay
+algunos poquitos casos de anta eh Y en
+el verano hay más anta en el sentido en
+que hay más ratones de cola larga que
+son los que contagian el anta ya eh la
+neumonía es endémica también obviamente
+ya los brotes es cuando yo tengo dos
+casos o más y esto es super importante
+que estén relacionados entre sí y que
+estén fuera de lo habitual ejemplo que
+yo tenga dos casos en una familia de de
+el coqueluche o que haya algunos casos
+en un colegio de alguna determinada como
+enfermedad o que todas las personas que
+se contagiaron de sarampión iban en el
+mismo avón etcétera ya o sea deben estar
+con de alguna forma relacionados ya la
+epidemia es cuando el brote ya se hace
+más grande cierto en el sentido en que
+ya empieza a ver muchos casos ya eh es
+algo como
+eh absolutamente fuera de lo habitual ya
+de hecho eh no está muy clara la
+diferencia entre un brote y una epidemia
+pero en general desde el momento en que
+dejan de estar relacionados entre ellos
+en que se pierde la trazabilidad Ese es
+como el punto de inflexión que que me
+hace la diferencia entre ambos conceptos
+y finalmente la pandemia cierto que todo
+el mundo ya estamos aburridos de esa
+palabra es cuando ya se extiende por el
+mundo ya así que vamos con algunos
+ejemplos como para ver si es que quedó
+claro varios casos de coqueluche en un
+colegio eso ya lo dijimos cierto sería
+un br obviamente en el sentido en que es
+en un único colegio Así que hay al algún
+elemento como de relación entre la las
+personas enfermas hay 50 casos
+aproximados de anta al año en Chile eso
+ya lo dijimos también sería endemia en
+el sentido en que todos los años hay más
+o menos esos casos a veces hay 30 a
+veces hay hay 60 a veces hay 20 pero más
+o menos un número de de de ese tipo
+ahora el año 2019 hubo más casos de anta
+de lo habitual mucho más más casos de lo
+del de lo que había ocurrido los años
+anteriores y en ese caso eh si es que no
+están relacionados entre sí en absoluto
+sería Igualmente una endemia solamente
+que una endemia con una carga de
+contagio un poquito más alta pero si que
+están relacionados entre sí ejemplo uno
+dice en tal ciudad fue que hubo eh una
+cantidad de de de casos muy alos como
+fue el año 2019 en ese caso Sí sería un
+brote de anta ya el VIH es una pandemia
+obviamente en el sentido en que está
+extendido por todo el mundo el ébola que
+hubo en Sierra Leona y el Liberia eh
+fueron brotes Aunque finalmente llegaron
+a ser una epidemia en el sentido en que
+llegó a a a haber cerca de 10,000 casos
+cierto así que se transformó en una
+epidemia pero localizada en esos países
+no más ya eh la enfermedad de chagas en
+chile o en Perú o en Bolivia cierto
+serían endémicas en el sentido en que
+hay hay casos todos los años ya el
+dengue en isla de Pascua acuérdense que
+isla de Pascua es el único lugar de todo
+chile en donde está el el el mosquito
+que transmite el dengue el aedes egipti
+en el norte de chile a veces van y
+encuentran uno que otro pero son bien
+raros y son como llevados por algún
+camión y luego esos se mueren por si
+acaso pero en isla de Pascua Sí hay ya
+así que eh habitualmente No hay casos de
+dengue ya Así que cuando hay caso uno
+habla de un brote de dengue ya Así que
+que quede eso bien claro en isla de
+Pascua sí eventualmente va a haber
+dengue Fiebre amarilla Chikungunya y el
+virus cica que son todos transmitidos
+por el mismo por el mismo cierto y
+cada vez que haya siquiera un caso de
+esto vamos a estar hablando de eh algo
+fuera de lo habitual Así que dos casos o
+más ya serían un brote de dengue ya y
+bueno Esa fue esta clase un poco densa
+es dena para mí también por si acaso ya
+así que ojalá les haya quedado lo más
+clara posible ya un abz que estén bien
+[Música]

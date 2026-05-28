@@ -1489,7 +1489,97 @@
           "url": "https://youtu.be/MAn3uw9O8uo"
         }
       ]
+    },
+    "salud_publica": {
+      "cantidad": 17,
+      "transcripciones": [
+        {
+          "archivo": "administracion_en_salud.txt",
+          "titulo": "Administración en salud",
+          "url": "https://youtu.be/F_4sYuYjzIY"
+        },
+        {
+          "archivo": "determinantes_del_nivel_de_salud.txt",
+          "titulo": "3  Salud Pública   Determinantes del nivel de Salud - YouTube",
+          "url": "https://youtu.be/TI9rN0ec840"
+        },
+        {
+          "archivo": "epi_analitica.txt",
+          "titulo": "7  Salud Pública   Epidemiología analítica - YouTube",
+          "url": "https://youtu.be/nnEPtHKAPhg"
+        },
+        {
+          "archivo": "epi_descriptiva.txt",
+          "titulo": "6  Salud Pública   Epidemiología descriptiva - YouTube",
+          "url": "https://youtu.be/-uy3ID36QOE"
+        },
+        {
+          "archivo": "estructura_del_sis_salud_chileno.txt",
+          "titulo": "Estructura del Sis salud chileno",
+          "url": "https://youtu.be/EAa2yRJFlPI"
+        },
+        {
+          "archivo": "etica_medica.txt",
+          "titulo": "Etica médica",
+          "url": "https://youtu.be/tMR9Yd6As4M"
+        },
+        {
+          "archivo": "ges.txt",
+          "titulo": "GES",
+          "url": "https://youtu.be/5MltTLCkjEY"
+        },
+        {
+          "archivo": "historia_natural_de_la_enfermedad.txt",
+          "titulo": "2   Salud pública   Historia natural de la enfermedad mp4 - YouTube",
+          "url": "https://youtu.be/bq7dd5_hEnA"
+        },
+        {
+          "archivo": "instituciones_del_sis_salud_chileno.txt",
+          "titulo": "Instituciones del Sis salud chileno",
+          "url": "https://youtu.be/yPlkBQLoz-M"
+        },
+        {
+          "archivo": "licencias_medicas.txt",
+          "titulo": "Licencias médicas",
+          "url": "https://youtu.be/d0j2GZPqsPo"
+        },
+        {
+          "archivo": "medidas_de_asociacion_e_impacto.txt",
+          "titulo": "8  Salud Pública   medidas de asociación e impacto - YouTube",
+          "url": "https://youtu.be/HZprf6e7SMc"
+        },
+        {
+          "archivo": "nociones_de_estadistica.txt",
+          "titulo": "5   Salud Pública   Nociones de estadística mp4 - YouTube",
+          "url": "https://youtu.be/wDk9MJmmaJk"
+        },
+        {
+          "archivo": "prevension_en_salud.txt",
+          "titulo": "4   Salud Pública   Prevención en salud mp4 - YouTube",
+          "url": "https://youtu.be/sfA8ls0TOZc"
+        },
+        {
+          "archivo": "responsabilidad_y_mala_praxis.txt",
+          "titulo": "Responsabilidad y mala praxis",
+          "url": "https://youtu.be/QBbztOZIC5Y"
+        },
+        {
+          "archivo": "salud_publica_resumen.txt",
+          "titulo": "Salud publica resumen",
+          "url": "https://youtu.be/0N7VVl3bBzk"
+        },
+        {
+          "archivo": "test_diagnosticos.txt",
+          "titulo": "9  Salud Pública   Tests diagnósticos - YouTube",
+          "url": "https://youtu.be/31fw4K8JWCA"
+        },
+        {
+          "archivo": "tipos_de_estudios_epidemiologicos.txt",
+          "titulo": "10  Salud Pública   Tipos de estudios epidemiológicos - YouTube",
+          "url": "https://youtu.be/e-z0SVT_Lno"
+        }
+      ]
     }
   },
-  "total": 283
+  "total": 300
 }

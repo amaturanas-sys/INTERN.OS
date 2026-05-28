@@ -1,0 +1,340 @@
+Título: 5   Salud Pública   Nociones de estadística mp4 - YouTube
+URL: https://youtu.be/wDk9MJmmaJk
+
+[Música]
+jola Cómo están en este video vamos a
+hablar de algunas nociones de
+estadística y vamos a dar el concepto de
+una variable y los distintos tipos de
+variables vamos a ver varios ejemplos en
+el sentio que ahí se va a entender un
+poquito mejor vamos a ver la forma en
+que se agrupan estas variables en que se
+resumen con las tendencias o sea con las
+medidas de tendencia central perdón y
+con las medidas de dispersión aparte de
+eso vamos a ver el el concepto de los
+percentiles y algunos ejemplos y
+finalmente vamos a hacer un resumen de
+lo más importante de estadística ya así
+que empecemos con estas nociones básicas
+de estadística y que ahí sale que son
+Ultra básicas porque de verdad que vamos
+a ver algo muy muy superficial en
+algunos pocos minutos No más ya
+empecemos con Qué es una variable una
+variable es algo que puede adoptar
+distintos valores ejemplo puede ser más
+o menos o cinco o ocho o hombre o mujer
+etcétera A diferencia de una constante
+que es algo que siempre tiene eh Como el
+mismo valor ya en segundo lugar las
+variables pueden ser de tipo
+cuantitativas que expresan una cantidad
+o de tipo eh cualitativas que son las
+que expresan una una una cualidad o una
+calidad Ya ahora las cuantitativas a su
+vez se subdividen en variables continuas
+que son las que pueden adquirir
+distintos valores dentro de los números
+reales ejemplo el peso que yo puedo
+pesar 78 kg o 79 kg o 79,5 kg versus las
+discretas que solamente pueden adquirir
+algunos de estos valores y no todos como
+ejemplo yo puedo tener cinco dedos o
+cuatro dedos pero no como tres dedos y
+medio ya o yo puedo tener cinco factores
+de riesgo o tres factores de riesgo pero
+no tres com2 eh factores de riesgo yo yo
+no sé si es que queda claro Ah si que se
+entiende Ya ahora en el caso de las
+cualitativas pueden ser dicotómicas
+simplemente dos valores ejemplo hombre
+mujer en el caso del sexo eh o eh o sí o
+no En el caso de una exposición o
+enfermo y sano cierto o en en el caso de
+un un tratamiento por ejemplo el
+tratamiento a versus el tratamiento b o
+bien pueden adquirir más valores y ahí
+se llaman eh las variables eh ecita
+Divas politómicas como ejemplo puede ser
+el tratamiento a el tratamiento b y el
+tratamiento c ya finalmente pueden ser
+de tipo ordinales que son las que son eh
+con algún orden Aunque sigan sigan
+expresando una calidad ejemplo que diga
+eh que es muy poco poco regular mucho Y
+todavía más ya más que mucho Ya ahora
+algo importantísimo las cuantitativas ya
+dijimos son un número que se puede sumar
+se puede promediar se puede sacar la
+defición estándar y la forma en que
+habitualmente se agregan es con el
+promedio y alguna medida de dispersión
+como la deviación estándar por ejemplo
+que está escrita ahí ya en el caso de
+las cualitativas en cambio la única
+forma de expresarlas es diciendo qué
+tanto se repiten Cuál es su frecuencia
+Cuál es su porcentaje ejemplo yo puedo
+decir el 80% de las personas que están
+acá están sanas ya o bien la mitad de
+las personas que están en este lugar son
+hombres y la otra mitad son mujeres
+ahora algo super importante como para
+que no se confundan la misma información
+Se puede entregar con más de un tipo de
+variable ya ejemplo yo puedo estar
+hablando de los valores de la presión
+arterial de una persona y puedo
+expresarlo de manera cuantitativa y
+decir ejemplo tiene 145 con 99 mm de
+mercurio o o 120 con 80 cierto o bien
+puedo darlo como una variable dicotómica
+así su su presión está normal o está
+alterada o bien puedo darla de manera
+ordinal Por ejemplo y decir está normal
+está un poco alta está hipertenso en
+etapa uno está hipertenso en en en etapa
+dos por ejemplo ya con el peso
+Exactamente lo mismo yo puedo decir que
+él pesa 75 kg y expresarlo de una manera
+cuantitativa o bien de una manera
+absolutamente cualitativa cierto
+diciendo está normal o anormal o bien
+ordinal cierto con bajo peso el el peso
+normal con sobrepeso con obesidad
+etcétera ya así que que quede bien bien
+claro el diferenciar el tipo de variable
+Igualmente es algo importante y yo no
+puedo llegar y decir el peso siempre es
+cuantitativa por ejemplo en el sentido
+en que se puede expresar de otra forma
+ya vamos con unos ejemplos y aquí al fin
+va a quedar un poco más claro pero les
+advierto desde ya uno confunde la
+variable con el promedio o con la
+frecuencia Así que tengan harto cuidado
+ya así que las preguntas acá son cuáles
+son las variables así de básico ya yo
+les digo el % de de los pacientes con
+antibióticos se curan versus el 70 por
+de los pacientes con placebo ya y que
+quede bien claro acá ese 90 por y ese 70
+por no son las variables ya en el
+sentido en que la la la variable es lo
+que puede adquirir un distinto valor en
+una persona ejemplo yo no puedo decir
+como un paciente se cura en un 90 por
+bueno en est ror si se puede decir pero
+pero en en en lo que está redactado ahí
+No ya acá las variables son dos número
+uno es el tratamiento que se está dando
+que en este caso adquiere dos valores
+así que es dicotómica cierto antibiótico
+versus el placebo y la segunda variable
+es el se mejora sí o no así que tengo
+dos variables que son dicotómicas y
+ambas son de tipo cualitativa ya así que
+fíjense un poco más difícil de lo que
+uno piensa ya en este otro caso Los
+hombres tienen una hemoglobina de 15 mg
+por decilitro y las mujeres también de
+15 mg por decilitro en promedio ya acá
+las las variables nuevamente no es el 15
+mg por decilitro ese es el promedio sino
+que es el sexo por un lado hombre versus
+mujer así que esa sería de tipo
+dicotómica y y Obviamente si es
+dicotómica es cualitativa y la segunda
+sería el nivel de hemoglobina cierto que
+si bien en ambos en ambos grupos está en
+15 en cada individuo obviamente varió
+Así que en ese caso sería una una
+variable de tipo cuantitativa ya
+finalmente se siguen a pacientes
+covid-19 con obesidad y con normopeso y
+se calcula el porcentaje de casos graves
+ya nuevamente acá las variables sería
+una el el tener normopeso versus
+obesidad o sea el peso y que en este
+caso está expresado de manera
+cualitativo y la segunda variable sería
+el agravarse o no Ya el evolucionar a un
+un un caso grave sí o no así que
+nuevamente sería una segunda variable de
+tipo cualitativo también y dicotómica ya
+un poco más difícil de lo que uno piensa
+ya sigamos acá eh vamos ahora con las
+medidas de tendencia central hay que
+saber cuáles son y con las medidas de
+dispersión que nuevamente hay que saber
+cuáles son Ya ahora que quede esto bien
+claro estas medidas solamente se pueden
+calcular en las variables cuantitativas
+en las cualitativas No ya así que Cuáles
+son las de tendencia central el el
+promedio que es el que habitualmente uno
+ve y que que esto bien claro el promedio
+es sinónimo de la media ya Y eso hay que
+no confundirlo con la mediana que es
+sinónimo de percentil 50 Ni con la moda
+que es el número que más se repite que
+lo vamos a ver después ya pero repito el
+promedio y la media Sí son lo mismo pero
+no son lo mismo que la mediana Ya ahora
+en el caso de las medidas de dispersión
+la que más se usa es la defición
+estándar cierto que como para que se
+entienda que es la definición estándar
+es el promedio en el cual los distintos
+valores se alejan del promedio yo no sé
+si es que quedó eso muy muy claro pero
+es eso de si es que yo calculo el el el
+el promedio y veo Cuánto se aleja cada
+uno de los individuos de de este
+promedio el promedio de lo cuánto se
+alejan de ese promedio es la deviación
+estándar ya si no lo entendieron no
+importa por si acaso ahora las otras
+medidas de dispersión que hay que saber
+que existen cierto son la varianza el
+rango el error estándar etcétera ahora
+vamos aquí con un ejemplo de las medidas
+de tendencia central Yo tengo un
+paciente que llega con esa eh esos
+valores de de de glicemia cierto y me
+dicen calcule la media y la forma de
+calcular un promedio todo el mundo lo lo
+debió haber aprendido en el colegio
+cierto que es sumarlo y dividirlo por el
+total y en ese caso eh eh me tienen que
+creer que es es 164,6 ese es el valor yo
+lo calculé con la calculadora antes de
+hacer esta diapositiva la mediana Ya hay
+que ver los dos números que están en el
+centro se fijan ahí ahí están ordenados
+desde el menor que es 67 hasta el mayor
+que es el el 620 y la mediana justo el
+que está al medio en este caso resulta
+que hay dos que están al medio que sería
+el 72 y el 88 Así que en este caso hay
+que eh eh promediar losos Ya y el el
+promedio entre 72 y 88 es 80 Así que la
+mediana del pres 50 es 80 por si acaso
+ahora la moda es simplemente el número
+que más se repite que en este caso si se
+fijan el único número que se repite es
+el 70 Así que la moda sería el 70
+justamente Ya ahora fíjense que hay un
+número que el que está ahí más abajo el
+620 que el 620 es un número totalmente
+diferente a los otros es como un outlier
+uno que está como muy muy alejado del de
+de el resto de los valores y veamos qué
+es lo que pasa al eliminar Ese número ya
+que es lo que pasa al sacar los valores
+extremos ya la media ya aquí va y me
+cambia a 99,0 O sea fíjense me bajó de
+160 a 99 bajó un montón en el caso de la
+mediana ahora el número que está al
+medio es justamente el el 72 ya en el
+sentido en que al sacar un número ya no
+hay dos números al medio sino que
+solamente hay uno y ahí eh Baja un
+poquito hasta 72 y la moda sigue siendo
+el número que más se repite el 70 Así
+que sigue Exactamente igual así que
+Repito Qué es lo que pasa cuando yo
+elimino los valores extremos lo que yo
+hago es afectar a al a la media o al
+promedio y no tanto a las otras medidas
+de tendencia central y eso es super
+importante tenerlo bien claro que cuando
+yo tengo outliers muy grandes a veces no
+me sirve el promedio o la media sino que
+debería tender a ver más a la mediana ya
+así que de todo esto que es lo único
+importante la mediana me sirve más
+cuando tengo valores muy como alejados
+del promedio ya vamos ahora con las
+medidas de dispersión simplemente vamos
+a explicar el concepto ejemplo aquí yo
+Yo tengo dos curvas de gaus una es
+estrecha cierto esa de ahí la otra es un
+poquito más ancha en la que es más
+estrecha ahí tengo menos dispersión en
+el sentido en que todos los valores se
+se concentran como cerca del promedio en
+cambio en esta que es más ancha cierto
+en ese caso hay más dispersión y como
+ejemplo eh ahí yo tengo algunas
+glicemias con valores como bien
+parecidos entre ellos En cambio acá
+Tengo otras glicemias que van y y y
+promed medan Exactamente lo mismo pero
+si se fijan son como valores muy
+distintos Así que vienen con una
+dispersión que es bastante más grande ya
+ahora finalmente este concepto de El
+percentil qué es esto si me dicen está
+en el percentil 50 por ejemplo se
+refiere a que está eh Como por sobre ese
+como porcentaje de la población en ese
+determinado valor ejemplo alguien me
+dice yo estoy en el percentil 99 de la
+altura Eso quiere decir que eh su altura
+es mayor a la del 99 como por de la
+población en general o bien el peso
+fetal está en el percentil 75 Eso quiere
+decir que el peso de ese niño es eh
+mayor al al peso del 75 por del resto de
+los fetos de esa misma edad gestacional
+ya Así que como para que quede bien
+claro ahora veamos como un poquito de
+las equivalencias aproximadas de los
+percentiles respecto a las deviacion
+estándar y esto me aplica solamente a
+una curva de distribución normal ya en
+el sentido En que si no hay una curva de
+distribución normal se me altera todo
+esto pero en general el el el promedio
+suele estar en el percentil 50 y si se
+acuerdan el percentil 50 era lo mismo
+que la mediana pero no era lo mismo que
+el promedio y ahora estoy diciendo todo
+lo contrario y la explicación es que
+estamos repito en una curva con una
+dispersión normal y en la dispersión
+normal o en la distribución normal que
+diga en en ese caso el promedio sí es
+equivalente a la mediana por si acaso es
+equivalente al presen el 50 en en el
+caso de más menos una desviación
+estándar más una deviación estándar
+habitualmente calsa con el percentil 84
+y menos una deviación estándar
+habitualmente calsa con el percentil 16
+más menos dos deviacion estándar van y
+calzan respectivamente con el presenil
+98 las más dos deviacion estándar y con
+el presenil dos las menos dos
+desviaciones estándar y ya las más menos
+tres desviaciones estándar habitual
+norment ya son los extremos como más
+absolutos cierto Y serían equivalentes
+al percentil 100 y al percentil cero
+respectivamente Ya ahora qué es lo más
+importante de toda esta clase de
+estadística y Acá hay que poner harta
+Atención por favor lo más importante es
+que si es que no entendió No importa así
+que no se angustie esto de acá no van a
+a a mejorar mucho más o o va a empeorar
+mucho su puntaje en elacom por la
+estadística Así que quédense tranquilos
+ahí si que quieren ve el video una vez
+más pero lo más importante es no sufran
+por salud pública ya Así que nos vemos
+en el siguiente video que estén muy bien
+[Música]

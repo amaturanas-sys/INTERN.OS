@@ -1,0 +1,606 @@
+Título: 10  Salud Pública   Tipos de estudios epidemiológicos - YouTube
+URL: https://youtu.be/e-z0SVT_Lno
+
+[Música]
+Hola cómo están en este video vamos a
+hablar de los tipos de estudios
+epidemiológicos que es un tema de los
+que se pregunta en salud pública y que
+no es difícil pero que es un poquito
+largo Así que vamos a ver cuáles son los
+distintos tipos de estudios así como un
+resumen luego vamos a ver los estudios
+ecológicos que son los más sencillos los
+transversales o de prevalencia que es su
+otro nombre luego los estudios de casos
+y controles los estudios de coortes y
+Finalmente nos vamos a centrar en los
+estudios eh experimentales cierto que
+son los ensayos clínicos y algunos otros
+estudios experimentales que hay que
+conocer ya así que empecemos con eh la
+clasificación general se se clasifican a
+grandes rasgos en estudios de tipo
+observacional y experimentales ya ahora
+los clásicos observacionales son los que
+están ahí los ecológicos los
+transversales los de casos y controles y
+de coortes y los experimentales en
+cambio los más característicos son el
+ensayo clínico el ensayo de campo los de
+intervención comunitaria y los
+metaanálisis por si acaso que vamos a a
+ver en qué se diferencian y cuáles son
+las características de cada uno ahora
+existen también los estudios cuasi
+experimentales que son muy similar a los
+experimentales por si acaso con la
+diferencia que no hay un grupo de
+control y ahí vamos a ver qué
+repercusiones tiene eso finalmente ahora
+cuál es la gran diferencia entre los
+observacionales y los experimentales que
+en los experimentales se controlan las
+variables eh se se realiza una
+intervención y esto se lo pido como un
+favor importante no me lo confundan con
+los estudios descriptivos y los
+analíticos ya los descriptivos
+acuérdense eran los que buscaban
+encontrar una determinada información
+ejemplo la incidencia o la historia
+natural de una enfermedad los analíticos
+en cambio eran los que buscaban una
+relación de causa efecto y ejemplo los
+de casos de controles y los de coortes
+habitualmente son analíticos en el
+sentido en que intentan ver si un factor
+de riesgo es la causa de una enfermedad
+Así que a grandes rasgos qué hacía que
+fuera analítico que buscara relaciones
+de causa efecto mediante estes de
+hipótesis qué es lo que hace en cambio
+que sean experimentales que se controle
+una variable que se realice una
+intervención Más allá de eh simplemente
+ser un expectador Ya ahora empecemos con
+los estudios ecológicos su
+característica más importante es que los
+sujetos de estudio no son personas no
+son individuos sino que son poblaciones
+ejemplo un país o una ciudad en segundo
+lugar no usa las variables individuales
+de cada una de las personas sino que se
+usan las variables llamadas secundarias
+o agregadas ejemplo la tasa de
+mortalidad por una enfermedad en en un
+país o bien el consumo Eh Eh Eh Eh
+promedio de bebidas alcohólicas o de
+cigarrillos en una población
+etcétera como cosa importante son
+estudios muy baratos en general uno
+entra a buscar esta información
+simplemente en internet el haber creado
+esa información Eso es difícil y y
+depende de cada país pero el hacer el
+estudio en sí es barato y es algo
+simplemente exploratorio en el sentido
+en que simplemente sirve como para para
+generar una idea general acerca si es
+que hay alguna relación entre alguna
+cosa o no Ya Ahora hay una cosa que no
+hay que olvidarse jamás que es en todo
+estudio ecológico y en todo estudio en
+general hay que hacer siempre un ajuste
+de tasas eh Al menos por edad y aquí el
+ejemplo más característico yo estoy
+viendo y y y comparando a la población
+de Suiza con la de Nigeria por ejemplo y
+veo que en Suiza hay mucho más cáncer de
+próstata aquí en Nigeria y me queda la
+duda si efectivamente hay más cáncer o
+si es solamente dada por la diferencia
+de la edad de la población en el sentido
+en que en Suiza la edad eh eh promedio
+de la población es mucho más alta que en
+Nigeria y la cantidad de adultos mayores
+es mucho más grande Así que lo que uno
+hace ahí es un ajuste de tasa y con esas
+tasas ajustadas por edad ahí recién yo
+puedo hacer una comparación que sea
+fidedigna ahora veamos un ejemplo de un
+estudio ecológico se revisa en internet
+el consumo de cigarrillos per cápita en
+50 países y se contrasta con las tasas
+de mortalidad por distintos cánceres
+intentando buscar alguna relación entre
+el tabaquismo y el cáncer Ya ahora si se
+fijan yo simplemente entré a internet y
+busqué estas variables agregadas digase
+el consumo per cápita y por otro lado la
+tasa de mortalidad de los distintos
+cánceres vamos con con el segundo tipo
+de estudio observacional cierto que son
+los estudios transversales o de
+prevalencia aquí Recuerden que cada
+individuo se valía se evalúa Solamente
+una vez O sea yo voy y mido alguna
+variable en cada persona Solamente en un
+instante y de ahí viene el nombre de
+transversal que se hace solamente en un
+momento del tiempo o estudios de de de
+prevalencia en el sentido en que
+acuérdense que la prevalencia son los
+casos actuales los que ocurren en un
+determinado momento ahora que quede bien
+claro el estudio puede pue durar mucho
+tiempo y puede extenderse durante
+ejemplo 2 años pero a cada persona sí se
+le evalúa solamente en un determinado
+instante y lo ideal es que no duren
+tanto tiempo tampoco por si acaso ahora
+lo que se mide son las prevalencias de
+las distintas enfermedades y también de
+los factores de riesgo en el sentido en
+que yo puedo intentar buscar alguna
+asociación entre el factor de riesgo y
+la enfermedad pero como cosa importante
+como se miden en un instante no tengo la
+la relación de la temporalidad yo no
+tengo una causa que ocurra antes que el
+efecto Así que al no tener esto
+solamente puedo ver asociación pero no
+puedo inferir Al menos no con algún
+grado de de certeza elevada que haya
+causalidad o sea una de las limitaciones
+de los estudios transversales A
+diferencia de los longitudinales que son
+los que se extienden a lo largo del
+tiempo es que los transversales no
+pueden ver causalidad sino que solamente
+asociación vamos aquí con un ejemplo se
+mide la hemoglobina glicosilada la a1 c
+en 100 pacientes obesos y en 200
+pacientes normopeso y se comparan los
+resultados viendo si que está elevado o
+no viendo si es que hay diabéticos o no
+y viendo el el nivel de control
+metabólico entre ambos pero si se fijan
+a cada uno se lo ve en un instante y se
+les mide esto solamente en una
+oportunidad ahora si se lo si se lo
+controlara nuevamente en algún tiempo
+más en ese caso ya se transformaría en
+un estudio de cortes en el sentido en
+que el decorte es el que hace un
+seguimiento hacia el futuro vamos ahora
+con el tercer tipo de estudio que es el
+estudio de casos y controles que se
+pregunta mucho por si acaso que el sesgo
+más característico si recuerdan cuál era
+era el sesgo de memoria en el sentido en
+que se se le pregunta hacia el pasado si
+es que estuvo expuesto no a un factor de
+riesgo y como buen estudio retrospectivo
+la memoria es frágil cierto así que
+viene con con el sesgo de memoria y en
+este caso lo que se hace habitualmente
+Es que se seleccionan a pacientes que
+están enfermos de una determinada
+enfermedad que se llaman los casos y se
+compara con eh los pacientes que están
+sanos que se llaman los controles cierto
+y se ve si es que estuvieron expuestos a
+un factor de riesgo antes o a distintos
+factores de riesgo en la sentido en que
+yo puedo agarrar ejemplo a los con
+cáncer y a los sin cáncer y les pregunto
+si es que fumaron si estuvieron
+expuestos a alcohol si es que estuvieron
+expuestos a radiación o a lo que yo
+quiera ya ahora es obviamente
+retrospectivo pero es longitudinal que
+longitudinal significa que se extiende
+en el tiempo pero retrospectivo es que
+se extiende hacia el pasado por si acaso
+es bastante barato Así que si si es que
+hay una restricción en el presupuesto
+como para hacer un estudio de coorte que
+es un poquito mejor en ese caso me quedo
+con los de casos y controles que aún así
+son buenos estudio y de hecho es el
+óptimo y sería incluso mejor que el de
+casos eh sería perdón Mejor que el
+estudio de coortes en el caso de las
+enfermedades que sean muy raras o que o
+que demoren demasiado tiempo en aparecer
+porque ejemplo si yo quiero estudiar la
+histiocitosis x y hago un seguimiento a
+los pacientes como para ver si es que
+desarrollan esta enfermedad hacia el
+futuro si es que hago un estudio de
+cohorte me me demoraría demasiado tiempo
+o bien tendría que agarrar una cohorte
+con demasiados pacientes porque es una
+enfermedad muy rara Así que ahí
+idealmente yo veo a los pacientes que ya
+tienen histiocitosis x diagnosticada y
+los comparo con los controles y les
+pregunto hacia el pasado mejor así que
+en ese caso el óptimo es un estudio de
+casos de controles Y eso se ha
+preguntado varias veces por si acaso y
+además sería el óptimo en el caso de las
+enfermedades que demoran demasiado
+tiempo en aparecer y aquí ejemplo si voy
+y intento Buscar la relación entre
+Alzheimer y la lactancia materna Así que
+eh hago una cohorte con eh lactantes que
+están en lactancia materna exclusiva y
+lo sigo con el tiempo para ver si les da
+Alzheimer cierto en ese caso me voy a
+demorar demasiado tiempo en la cohorte
+me va a salir muy caro voy a venir con
+el sesgo de las pérdidas y finalmente el
+médico que está haciendo el estudio se
+va a morir antes de que le dé Alzheimer
+a los adultos mayores ahora el ejemplo
+igual Es malo en este caso para los
+casos de controles Porque si les
+pregunto a la gente que ya tiene
+Alzheimer si tomaba lactancia materna
+cuando era niño se le va a haber
+olvidado Igualmente acuérdense del sejo
+de de memoria aquí peor todavía pero
+veámoslo con el ejemplo del parkinson o
+de que haya un buen registro ya así que
+repito enfermedades que demoran mucho
+tiempo en aparecer lo ideal es casos y
+controles en vez del estudio de cohortes
+ahora veamos un ejemplo se comparan 100
+pacientes con cáncer de pulmón serían
+los casos y 100 pacientes sanos que
+serían los controles y se les pregunta
+su hábito de fumar y en el cu en el
+cuestionario que se les hace se les
+puede Preguntar lo que uno quiera por si
+acaso e ese es un ejemplo de los más
+clásicos Acuérdese que lo que uno
+Calcula en el estudio de casos y
+controles es el ot ratio lo mismo en los
+los eh en los estudios transversales ya
+en cambio en el estudio de coortes
+recordemos que lo que se podía calcular
+acá era el riesgo relativo porque eh
+justamente se calculaba las incidencias
+hacia futuro ahora Cuál era el sesgo de
+el estudio de coortes si lo recuerdan
+era el sesgo por las pérdidas en el
+sentido en que duran bastantes años y
+uno tiene que que ir asegurándose que
+estos pacientes lleguen al control en el
+futuro y si es que no llegan eso va
+sesgando el estudio ya las pérdidas van
+alterando la la calidad del estudio
+eh En este caso lo que se hace es
+seleccionan a pacientes que están
+expuestos a un factor de riesgo y eh a
+otros pacientes que están no expuestos a
+este factor de riesgo y se siguen en el
+futuro determinando si es que aparece
+una o más enfermedades y fíjense acá la
+diferencia con el de casos y controles
+en el de Caso controles yo empezaba con
+los enfermos y sanos con los casos y
+controles acá en cambio empiezo con pura
+gente sana que los divido en gente
+expuesta o no expuesta a un factor de
+riesgo y luego voy a ver si es que se
+enferman o no ahora lo que se mide acá
+es la incidencia y por lo mismo ya
+dijimos se puede calcular el riesgo
+relativo y es de tipo eh prospectivo En
+el sentido en que va hacia el futuro o
+sea es longitudinal porque se extiende
+en el tiempo pero es de los prospectivos
+porque Mira hacia el futuro es mucho más
+caro que el estudio de casos lo que el
+estudio de casos y controles ya pero es
+de mejor calidad Así que en general si
+yo tengo un estudio de coortes que dice
+algo y un estudio de casos y controles
+que dice algo un poco distinto el que
+gana siempre es el de coortes por si
+acaso ahora por qué no puedo usar un
+ensayo clínico en algunas situaciones y
+el de cortes es el óptimo recordemos que
+el ensayo clínico es experimental yo
+hago ahí una intervención Y en este caso
+si es que es para un una una medida que
+evita alguna enfermedad o para un un
+tratamiento el ensayo clínico es el
+óptimo pero si es en cambio para un
+factor de riesgo Ahí vengo con la la
+limitante ética que yo no puedo llegar y
+decirle Oye sabes qué Yo quiero ver si
+es que el Arsénico o el cianuro cierto
+van y y producen alguna enfermedad Así
+que a ustedes les voy a dar un placeo y
+a ustedes les voy a dar cianuro o
+Arsénico cierto en ese caso no puedo
+hacerlo en cambio en en el estudio de
+coortes yo sí puedo ver a personas que
+ya estaban expuestas a Arsénico por
+alguna otra razón y las sigo hacia el
+futuro y veo si efectivamente la
+exposición Arsénico le genera algún
+cáncer o alguna otra enfermedad
+adicional
+vamos aquí con un ejemplo se seleccionan
+los pacientes fumadores o sea los
+expuestos y los pacientes no fumadores
+que son los no expuestos y los sigo por
+10 años evaluando la aparición de el
+cáncer y de patologías cardiovascular ya
+Ese es el clásico ejemplo del estudio de
+coortes el estudio de coortes más grande
+que uno debería conocer es el estudio de
+Framingham que si se acuerda si se
+acuerdan es el que veía los factores de
+riesgo cardiovascular Y si bien era algo
+que demoraba mucho tiempo en aparecer
+aún así fue un estudio de muy buena
+calidad y que eh como era algo
+importante de determinar se se incurrió
+en el fondo en los gastos y en el tiempo
+que significaba seguir una cohorte muy
+grande durante mucho tiempo de manera de
+obtener información que fuera muy muy
+fidedigna vamos ahora con los
+experimentales que ya dijimos los
+estudios eh experimentales eran los
+cuales yo intervenía en los cuales yo
+controlaba una variable y el más
+característico por si acaso es el ensayo
+clínico todo el mundo los conoce cierto
+en general yo yo lo divido a los sujetos
+de estudio en en distintos grupos y
+estos grupos son expuestos a distintas
+intervenciones ejemplo un medicamento
+versus otro medicamento versus cirugía o
+versus un placebo o versus la mezcla de
+los medicamentos o versus la mezcla de
+un medicamento más una cirugía o sea
+fíjense yo puedo dar distintas
+intervenciones dentro de ellas se puede
+incluir el placebo y dentro de ellas se
+puede incluir las mezclas de
+intervenciones también ya y lo que voy
+midiendo son los distintos resultados
+ejemplo veo si es que se mejoran o si es
+que se mueren si es que tienen efectos
+adversos si tienen complicaciones si
+tienen alteraciones de laboratorio
+etcétera yo puedo ir midiendo las
+distintas cosas que estime conveniente
+ahora ve también incidencias incidencia
+de muerte incidencia de complicaciones
+incidencia de efectos adversos
+incidencia de alteraciones en el
+laboratorio y es obviamente como va
+hacia el futuro es de tipo prospectivo
+también con la diferencia que este
+dijimos es experimental a diferencia del
+de coortes que era
+observacional a ver habíamos dicho en la
+clase de riesgos que muchas veces se
+hacen ensayos clínicos aleatorizados o
+randomizados que son sinónimos el
+randomizado es el anglicismo de
+aleatorizado por si acaso que la razón
+para para hacer esto era evitar el sesgo
+de selección ya en algunas otras
+oportunidades uno hacía el doble ciego
+que lo que se buscaba era evitar el
+sesgo de información o sesgo de medición
+cierto en el sentido en que el evaluador
+y el sujeto de estudio no saben qu qué
+intervención es la que van a recibir o
+la que están recibiendo cierto Y de esa
+manera se evita que entreguen una
+información que esté sesgada por ese
+conocimiento ya así que que que quede
+bien claro para evitar algunos sesgos se
+aleatorizar y se evita el sesgo de
+selección y se hace el doble ciego y se
+evita uno de los sesgos de información
+aquí como ejemplo se tratan con
+hidroxicloroquina versus con placebo los
+pacientes covid-19 que están grav y veo
+justamente los resultados que ya vimos
+que la hidroxicloroquina al menos a la
+fecha de la grabación de este video no
+servía ya ahora eh en algunas
+oportunidades en los ensayos clínicos
+dijimos que se usaba el placebo y el
+placebo que quede bien claro se usa para
+evitar la información o o o o o la la
+suciedad que entrega a los resultados
+del estudio el efecto placebo y que es
+este efecto placebo que yo solamente Por
+recibir un medicamento Por recibir una
+intervención yo ya como que siento que
+me voy a mejorar y tengo una una una
+predisposición a mejorarme mucho más de
+hecho que quede bien claro está lleno de
+de de placebos que uno como médico
+muchas veces usa o bien que se venden en
+en el sistema de salud como menos eh
+tradicional cierto como la homeopatía
+las flores de baj y todas esas cosas que
+sirven pero no sirven mucho solamente
+sirven debido a que tienen un efecto
+placebo Ya y de hecho está demostrado
+que en general el dar esos tratamientos
+retrasa la medicina como con con una
+evidencia que la respalde cierto y
+finalmente genera daño Así que como
+mucho cuidado con con indicar esas cosas
+ya ahora finalmente recuerden esta
+limitación ética del placebo yo
+solamente puedo dar un placebo cuando no
+existe un un un tratamiento que sea sea
+bueno y ejemplo yo no puedo llegar y
+decir voy a usar este nuevo antibiótico
+para la pielonefritis cierto así que a
+ustedes a este grupo les doy el el nuevo
+antibiótico y a este otro grupo les doy
+un placeo y veo cómo andan y después me
+dicen mire este antibiótico era super
+bueno porque no no se mu murió ninguno
+en cambio acá se murió el 15% eso
+obviamente es algo que sería totalmente
+antiético Así que el el placebo se debe
+usar para evitar el efecto placebo pero
+acordándose que solamente se puede usar
+cuando no hay un tratamiento que sea
+bueno o bien cuando es una enfermedad
+que no se va a complicar con ninguna
+cosa más grave ahora en general los
+ensayos clínicos siguen distintas etapas
+en general empiezan con etapas como
+exploratorias en el laboratorio luego en
+animales luego en voluntarios sanos y
+finalmente ya en los voluntarios
+enfermos y repito voluntarios sanos y
+voluntarios enfermos porque todas las
+personas que participan en un estudio
+tienen que ser voluntarios Obviamente
+con un buen consentimiento informado hay
+otro tipo de estudios experimentales que
+son los famosos ensayos de campo que hay
+algunas personas que los llaman
+directamente ensayo clínico No más
+porque son una variante de los ensayos
+clínicos que la única diferencia que que
+que tienen con los ensayos clínicos
+comunes y corrientes Es que la
+intervención no es una medida que que
+que Cure sino que es una medida
+preventiva ya y el ejemplo más
+característico son las vacunas por si
+acaso pero Pueden ser otras también y
+los participantes en este caso Son son
+personas que están sanas en el sentido
+en que son personas sanas que yo quiero
+evitar que se enfermen en el futuro como
+es algo que evita una enfermedad y es
+gente sana habitualmente lo que sí
+requieren es un tamaño muestral un n que
+sea bastante grande y eso hace que sean
+estudios habitualmente caros y lo hemos
+visto ahora con con la vacuna del covid
+19 cierto que si se dan cuenta Son son
+unos enes supergres de miles de
+participantes ya y que quede bien claro
+las vacunas son El ejemplo clásico pero
+no son el único puede ser también una
+dieta alguna vitamina o alguna otra eh
+medida que evite alguna enfermedad Ya
+aparte de eso yo tengo el estudio de
+intervención comunitaria que es un
+estudio experimental también en el
+sentido en que yo intervengo pero la
+gran diferencia es que no se interviene
+en un sujeto sino que se interviene en
+la población con una interv mención que
+yo no sé si es que les va a llegar a
+todas las personas o solamente algunas Y
+tampoco sé con Con qué intensidad le va
+a llegar a cada una de las personas de
+esa población ahora los ejemplos más
+clásicos de intervenciones comunitarias
+son eh las campañas educativas ejemplo
+yo hago un una campaña de educación
+sexual de de prevención del cólera de
+prevención del VIH o de lo que sea de
+evitar el consumo de drogas ya Y
+obviamente yo no sé quiénes van a ver
+los afiches quiénes van a ver eh los los
+eh los spots en en la televisión o en la
+radio etcétera ya segundo lugar El yodar
+la sal el florar el agua el echar los
+folatos en la harina que son cosas que
+se hacen en Chile por si acaso pero que
+antes se estudiaron en el sentido en que
+eh se yo daba la sal en algunos lugares
+y se comparaba efectivamente si es que
+había o no algún beneficio en cuanto al
+hipotiroidismo al boso endémico cierto
+En comparación con otros lugares ya lo
+lo mismo con el fluor del agua pal
+lascares o con los folatos en la harina
+para evitar los defectos del tubo neural
+en la embarazada ahora finalmente están
+los metaanálisis que más que un estudio
+son un resumen de otros estudios ya de
+hecho es un estudio que resume muchos
+ensayos clínicos similares Así que en en
+general son los que tienen la mejor
+evidencia científica eh eh Porque el el
+científico va a estudiar varios de los
+ensayos clínicos que ya existen va a
+tener que seleccionarlos bien Eso sí En
+el sentido en que se selecciona mal los
+ensayos clínicos va a salir un mal
+metaanálisis y de esa manera agarra los
+datos que están en esto y los une y los
+interpreta de una manera agregada y la
+información científica que se obtiene
+ahí es mucho más fuerte por si acaso ya
+y finalmente están los estudios cuasi
+experimentales que ya dijimos que eran
+los que venían sin un grupo Control y
+recordemos que siguen siendo
+experimentales porque hay una
+intervención en el sentido en que se
+controla una variable cierto pero vienen
+con las siguientes limitaciones número
+uno nos quedamos con la duda si es que
+los resultados que vemos están ensuciado
+por el efecto placebo o no Porque no hay
+un grupo de control justamente y aparte
+de eso Puede que haya algún otro sesgo
+que no estoy midiendo bien como un sesgo
+de de de selección por ejemplo y que el
+grupo que estoy interviniendo en
+realidad no sea representativo de la
+población eh Que estoy estudiando Así
+que eh lo ideal es evitar los estudios
+cuasi experimentales y hacer en su lugar
+un ensayo clínico
+Ya ahora Cuál es el el consejo de esto
+ya en en este caso el consejo es sí No
+es simplemente dejar de sufrir sino que
+deben hacer las preguntas que hay en en
+la página web en la plataforma web de
+manera de que quede bien claro Cuáles
+son los distintos tipos de estudio y
+sepan diferenciarlos y por ningún motivo
+se queden con la idea de que un
+determinado tema es eh es siempre eh
+Como estudiado con un tipo de estudio
+sino que deben saber como diferenciar
+los diseños de cada uno de estos
+estudios de manera de ejemplo saber muy
+bien Si es de cohortes si es un estudio
+transversal o si es un estudio de casos
+y controles ya o bien si un estudio
+ecológico versus si es un estudio de
+intervención comunitaria no confundir
+ese tipo de cosas ya y bueno Esa fue
+esta clase eh un poquito larga pero es
+algo que se pregunta así que apréndase
+lo que esté muy
+[Música]
+bien fore

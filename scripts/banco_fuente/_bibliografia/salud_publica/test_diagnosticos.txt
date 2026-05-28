@@ -1,0 +1,320 @@
+Título: 9  Salud Pública   Tests diagnósticos - YouTube
+URL: https://youtu.be/31fw4K8JWCA
+
+[Música]
+Hola cómo están en en esta clase vamos a
+hablar de un tema super difícil en
+verdad es superfácil pero uno se
+confunde muy fácil que son los test
+diagnósticos vamos a hablar de la famosa
+sensibilidad especificidad y todas esas
+cosas ya vamos a saber cómo se calcula
+la sensibilidad la especificidad los
+valores predictivos tanto el valor eh eh
+predictivo positivo como el valor eh
+predictivo negativo los dos ya y lo más
+importante vamos a saber cuándo me están
+hablando de una cosa y cuándo de la otra
+que eso es lo que la gente se confunde
+Así que vamos a centrarnos en particular
+en ejemplos y y algunas preguntas
+relativo a este tema Ya esta es de las
+cosas que se pregunta más así que hay
+que saberlo superb y hay que entenderlo
+bien como en el sentido En que si es
+aplicable a la medicina de una manera an
+por si acaso como para la toma de
+decisiones de qué examen usar ahora la
+forma en que empieza habitualmente es
+con una tabla con los enfermos y los
+sanos al lado cierto y aparte de eso se
+ve dentro de los enfermos eh Y de los
+sanos a los cuales se les aplica este
+test diagnóstico los que tienen el test
+positivo y los que tienen el test
+negativo Ya ahora en el primer cuadro
+acá los enfermos que tienen un test
+positivos son los verdaderos positivos
+ya son un verdadero positivo en el
+sentido en que está positivo y era
+verdadero porque sí estaba enfermo Ya
+luego los sanos con un test positivo se
+llaman los falsos positivos porque
+aunque están positivo en verdad se
+equivocó Porque estaba sano ya así que
+es como bien lógico que Que qué cosa
+significa luego los enfermos con el test
+negativo son los falsos negativos en el
+sentido en que acuérdense que el test
+está negativo así que es negativo Pero
+estaba enfermo Así que Obviamente el
+resultado es falso está erróneo está
+equivocado y finalmente eh los
+verdaderos negativos son los que estaban
+sanos y el test salió obviamente
+negativo como confirmando que estaba
+sano ya así que está negativo y está en
+lo correcto Así que es un verdadero
+negativo Ya ahora habiendo dicho eso que
+suena bien lógico vamos con lo difícil
+ya la sensibilidad se calcula hacia
+abajo y la especificidad también se
+calcula hacia abajo O sea la fórmula y
+de la sensibilidad son los verdaderos
+positivos partido por el total de
+enfermos y si se fijan hacia abajo el
+total de enfermos son los verdaderos
+positivos más los falsos negativos ya
+ahí yo le puse como un circulito en la
+parte inicial de la flecha en sentido de
+que arriba van los verdaderos positivos
+y abajo va el total de enfermos por si
+acaso ya en el caso de la especificidad
+y fíjense que el circulito ahora está
+abajo ya se calcula como los verdaderos
+negativos ya dividido por el total de
+sanos dígase los falsos positivos más
+los verdaderos negativos ya en cambio
+hacia el el lado es que se calculan los
+valores predictivos positivos y valores
+predictivos negativos y el valor
+predictivo positivo son los verdaderos
+positivos dividido por el total de Test
+que estaban con el resultado positivo ya
+y por el contrario eh o en cambio los eh
+el valor predictivo negativo son los
+verdaderos negativos Pero esto dividido
+por el total de exámenes negativo ya
+hasta uno dice Oh qué sencillo se me
+olvidó todo cierto y está bien en el
+fondo Esto no es algo muy fácil pero sí
+me interesa que vean lo que les voy a
+mostrar ahora la sensibilidad está
+partido por el total de enfermos y en
+general cuando yo hablo del total de
+enfermos estoy hablando de sensibilidad
+o cuando yo hablo de un paciente el cual
+yo sé que está enfermo estoy seguro que
+está enfermo estoy hablando de
+sensibilidad ya en el caso de la
+especificidad si hablo del total de los
+pacientes sanos seguramente estoy
+hablando de la especificidad y lo mismo
+si tengo un paciente que está sano y
+estoy 100% seguro que ese paciente está
+sano estoy hablando de especificidad
+también ya en el caso del valor eh eh
+predictivo positivo me está hablando de
+los test que están positivos del el
+total de Test positivo o sea si yo sé
+que estoy hablando de el total de los
+resultados positivos o bien sé que tengo
+un paciente que llega con su resultado
+que está positivo ya estoy hablando de
+valor predictivo positivo y lo mismo si
+es que llegan con el examen negativo un
+paciente que ya tiene el examen negativo
+o bien el total de los exámenes
+negativos voy a estar hablando del valor
+predictivo negativo ya o sea hay que
+saber con qué se relaciona cada una de
+estas cosas que ya vemos que se
+relacionan con más de una cosa porque la
+fórmula incluyen mucha información pero
+me interesa que eh se aprendan esto más
+o menos como de memoria en el sentido en
+que ayuda a a a responder estas
+preguntas que vamos a ver ahora Así que
+empecemos
+ya un paciente tiene su ap elevado y la
+pregunta es tengo cáncer doctor y ahí la
+respuesta obviamente es qué es lo que
+tengo tengo un ap elevado tengo un test
+positivo Así que la respuesta va a ser
+usted tiene cáncer con una una eh eh
+probabilidad equivalente al valor
+predictivo positivo de su ap elevado ya
+O sea que quede bien claro ahí como yo
+ya tengo un resultado que está alterado
+estamos hablando del valor predictivo eh
+eh positivo ya el que dijo sensibilidad
+está malo ya el que dijo especificidad
+está malo también porque aquí lo que yo
+tengo es el resultado ya Qué porcentaje
+de los cánceres de mam se diagnostican
+con la mamografía ya aquí van y les voy
+a dar alun algunos segundos como para
+que que que lo piensen ustedes si se
+fijan me están hablando del total de los
+cánceres de mama y me preguntan del
+total de los cánceres de mama Cuántos
+son como diagnosticados con la
+mamografía y cuántos no así que aquí
+sería la sensibilidad ya y obviamente el
+porcentaje de cáncer que sea
+diagnosticado con este examen es
+equivalente a la sensibilidad de ese
+examen ya el siguiente el 5% de las
+personas sanas tiene Ana que están
+positivo y esto es cierto por si acaso
+entonces aquí la pregunta es de qué me
+están hablando las personas sanas o de
+los Ana positivos ya me están hablando
+del total de las personas sanas o del
+total de Ana positivos ya Y esta es muy
+muy difícil pero el que la tuvo buena
+muy bien el que no aprenda ahora mismo
+pero esta es la especificidad ya Y por
+qué porque me está diciendo que del
+total de personas sanas el 5% de los
+exámenes está alterado ya o sea están
+falsamente ente positivo en cambio el 95
+por estaría negativo así que si bien me
+entregaron la información al revés en
+este caso la especificidad sería de 95
+por. ya si es que esto le fundió el
+cerebro Descanse un ratito unos 10
+segundos y de ahí lo vuelve a ver ya
+hasta que hasta que lo entienda bien
+ahora eh la probabilidad de detectar a
+un enfermo es un paciente que sabemos
+que está enfermo Así que obviamente me
+están hablando de la sensibilidad acá ya
+así que la sensibilidad es más se define
+como la probabilidad de un test de
+detectar a un enfermo o sea de resultar
+como eh un examen positivo en un
+paciente que seguro está enfermo Ya
+llega una paciente y les dice Oh a mi
+mamá le salió normal la colonoscopía ya
+o sea uno ya sabe que tiene un resultado
+que está negativo o sea lo que hay que
+ver acá es el valor predictivo negativo
+o sea uno uno le dice mire el valor
+predictivo negativo de la colonoscopía
+es 99,99 por Así que con un
+99,999% su mamá no tiene cáncer de colon
+Ya ahora vamos con unas frases
+interesantes relacionado con lo anterior
+ya para descartar una enfermedad se
+requiere un examen con una alta Ya
+sensibilidad o especificidad ya ahí
+vayan y y y piénsenlo bien dice para
+descartar en ese caso se requiere una
+alta sensibilidad y vamos a explicarlo
+esto con otras palabras que es la única
+forma que se puede explicar por si acaso
+Así que si suena muy largo Porque así es
+no más ya para descartar una enfermedad
+se requiere un examen con una alta
+sensibilidad y la explicación es que los
+exámenes muy sensibles resultan Eh Eh Eh
+alterados o o positivos en los pacientes
+enfermos por lo tanto si es que está
+negativo quiere decir que no está
+enfermo Ya y por lo tanto descarto por
+qué Porque si es que hubiese estado
+enfermo dado que es muy sensible le
+habría salido un examen alterado ya no
+sé si quedó claro lo voy a
+repetir por qué yo requiero una alta
+sensibilidad
+para descartar una enfermedad porque si
+el examen es muy sensible me detecta
+todos los enfermos y por lo tanto si
+dijo que estaba negativo es porque no
+está enfermo y por lo tanto descarto por
+qué Porque el examen era muy sensible Y
+si hubiese estado enfermo lo hubiese
+detectado fui bien redundante en esto
+pero espero que haya quedado Claro ya lo
+mismo acá para confirmar una enfermedad
+se requiere un examen con una alta y en
+este caso sería especificidad y la
+explicación es la misma pero pero al
+revés ya es como en el mismo modo pero
+en sentido con contrario ya en el
+sentido en que eh para confirmar una
+enfermedad yo requiero un examen con una
+alta especificidad porque los exámenes
+muy específicos resultan negativos en
+los pacientes sanos y por lo tanto si
+este paciente hubiese estado sano le
+habría salido negativo así que si es que
+está positivo es porque no está sano
+sino que está enfermo no s s que se
+entiende Ya lo repito para confirmar una
+enfermedad se requiere un examen con una
+alta especificidad por qué Porque si es
+que está negativo es que eh o sea si que
+hubiese estado sano ya si hubiese estado
+sano seguro le sale negativo y acá
+obviamente al al haberle salido eh
+alterado es porque el paciente está
+enfermo porque repito si hubiese estado
+sano le habría salido negativo porque es
+un examen muy específico ya enredado
+super enredado Pero espero que haya
+quedado claro ahora
+eh Cuáles son las características de las
+pruebas de screening en general ya uno
+de los test diagnósticos que se usan a
+veces son las pruebas de screening que
+me sirven justamente luego para eh eh
+confirmar con algún examen que sea mejor
+ya pero dentro de sus características no
+se usan en cualquier enfermedad se usan
+solamente en enfermedades que son eh
+potencialmente graves nadie me va a
+hacer un screening de refrío cierto
+segundo lugar debe tener una etapa
+inicial que sea eh eh tratable en el
+sentido en que ejemplo un gido blastoma
+multiforme que es absolutamente
+incurable en general incluso cuando son
+bien pequeños no no vale la pena a como
+hacer una prueba de de screening y una
+enfermedad que sea muy leve y que se
+pueda se pueda manejar fácil Incluso en
+las etapas más tardías y sin que genere
+mayor daño tampoco requiere de un
+screening por si acaso se requiere
+aparte que el test sea relativamente
+barato en el sentido que si es demasiado
+caro el aplicarlo a toda la la la la
+población obviamente aumenta mucho Los
+costos en salud Así que obviamente
+imposible hacerlo ya Y al menos que sea
+mucho más barato que el examen
+confirmatorio ya y como es de screening
+se requiere que descarte así que se
+exige que tenga una alta sensibilidad Ya
+ahora y qué pasa con la con la
+especificidad la verdad es que
+igualmente Yo le exijo que venga con una
+eh Como especificidad que sea al menos
+aceptable O sea la sensibilidad debe ser
+alta Sí o sí y la la especificidad yo
+puedo como sacrificarla un poquito pero
+no tanto Tampoco porque si es que tengo
+un examen que es s sensible pero que es
+cero específico no me sirve para
+absolutamente nada por si acaso ahora
+cómo debe ser la prueba confirmatoria y
+aquí el clásico error es decir que debe
+ser muy específica Y eso es correcto
+Pero además debe ser muy sensible en el
+sentido en que el screening debe ser muy
+sensible y más o menos específico y la
+prueba confirmatoria debe ser muy
+sensible y muy específica y el ejemplo
+más claro es el Elizabeth ih con el
+Western Blood Aunque la verdad es que
+actualmente el el ih de cuarta
+generación cierto es muy sensible y es
+muy específico también casi tanto como
+el Western ya y bueno Esa fue esta clase
+Así que nos vemos ahí en los siguientes
+temas van a ser un poquito más dinámicos
+ya que estén muy bien
+[Música]

@@ -1,0 +1,509 @@
+Título: 8  Salud Pública   medidas de asociación e impacto - YouTube
+URL: https://youtu.be/HZprf6e7SMc
+
+[Música]
+Hola cómo están en este video vamos a ha
+de un tema que es difícil así que mucha
+atención vamos a ver las medidas de
+asociación y las medidas de impacto que
+todo esto sigue estando dentro del Gran
+tema de la epidemiología analítica ya
+así que vamos a ver dentro de las
+medidas de asociación al riesgo relativo
+vamos a ver tamb el ot ratio vamos a ver
+que el ot ratio se usa en algunas eh
+oportunidades en cambio el riesgo
+relativo se usa en otras vamos a ver
+además el concepto de intervalo de
+confianza que es muy difícil por si
+acaso y que se pregunta pero que en en
+este video va a quedar bien claro ya
+vamos a ver además las medidas de
+impacto dígase el riesgo atribuible y
+todos los derivados del riesgo
+atribuible incluyendo el nnt y el nnh
+que vamos a ver qué qué son ya y
+finalmente un gran consejo en en en este
+tema que ahí les va a quedar todo s
+super claro Así que empecemos con las
+medidas de asociación partiendo por la
+más importante de todas que es el riesgo
+relativo ya eh Me indica el número de
+veces que aumenta el riesgo de algo
+ejemplo si yo les digo que el riesgo
+relativo es eh cinco quiere decir que
+aumenta cinco veces este riesgo ahora
+como algo importante si es que fuera
+menor a uno si es que fuera ejemplo 0,5
+esto quiere decir que me disminuye en
+cambio el riesgo a la mitad Ya ahora la
+forma en que se calcula es como la
+divisi ión de las incidencias dígase la
+incidencia en los expuestos a un factor
+de riesgo o a un medicamento o alguna
+cosa así dividido por la incidencia en
+los no expuestos Ya ahora que quede bien
+claro como requiere de incidencias
+Solamente se puede calcular en los
+estudios que se ven hacia hacia el
+futuro en los prospectivos cierto dígase
+en los ensayos clínicos que
+habitualmente uno ve un riesgo relativo
+más más bajo cierto menor a uno o bien
+en los decortes que es el clásico para
+los factores de riesgo por caso ya o sea
+nuevamente Repito no lo puedo usar o no
+lo puedo calcular en los que son de caso
+eh de casos y controles ni en los que
+son transversales en el sentido en que
+ahí no hay una incidencia Ya ahora la
+forma de interpretar esto de acá es bien
+sencilla si es mayor a uno quiere decir
+que aumenta el riesgo si es igual a uno
+quiere decir que ni aumenta ni disminuye
+el riesgo O sea que no hay asociación
+porque Recuerden que es una medida de
+asociación dice que En cambio es menor a
+uno esto quiere decir que me disminuy el
+riesgo de que ocurra lo que sea que
+estoy evaluando ahora el ot ratio que es
+la otra medida de asociación acuérdense
+que es simplemente un estimador del
+riesgo relativo pero que eh yo cuando no
+tengo incidenci y cuando no puedo
+calcular el riesgo relativo en ese caso
+estoy obligado a estimarlo mediante este
+ot rti así que sería el de elección en
+los estudios eh eh transversales que
+también se llaman estudios de
+prevalencia y también en los estudios
+retrospectivos como por por ejemplo en
+el estudio eh de casos y controles Ya
+ahora la forma de calcular esto y les
+adelanto que hay que calcularlo hay que
+saber cómo eh hacerlo en general parte
+con una tabla similar a la que está ahí
+que arriba van por un lado los enfermos
+y los sanos obviamente y de arriba hacia
+abajo van los expuestos y los no
+expuestos a un factor de riesgo y
+obviamente ahí está la a la B la c y la
+d que la a serían las personas que no
+estaban expuestas al factor de riesgo
+cierto pero que se enferman bueno y que
+se enferman la B serían los que estaban
+expuestos pero que se mantuvieron sanos
+eh la c sería los que no estaban
+expuestos y aún así se enfermaron y
+finalmente la d serían los que no
+estaban expuestos y se mantuvieron sanos
+Ya ahora les menciono eso porque lo
+vamos a ver con más detalle de manera de
+entender cómo se calcula el riesgo
+relativo y cómo se calcula el o ratio ya
+Cuál es la fórmula del riesgo relativo
+es esa fórmula que está ahí a partido
+por a+ b divido c par por c + d ya y
+como para que se entienda esto
+recordemos que el riesgo relativo era la
+razón de las incidencias cierto dígase
+eh la incidencia de los expuestos menos
+eh No dividido Perdón la incidencia en
+los no expuestos y la incidencia en los
+expuestos es justamente a paro por a + b
+en el sentido en que dentro de los
+expuestos la a son los que se enfermaron
+cierto y esto dividido el total de
+expuestos que es justamente a + b que
+está ahí ahí encerrado con ese círculo
+ya la incidencia en los no expuestos en
+cambio son los que se enferman dentro de
+los no expuestos dígase la letra c
+dividido por el total de no expuestos
+dígase ahí el c+ d Ya ahora en el caso
+de lot ratio el cálculo es mucho más
+complejo Que eso La verdad Pero
+afortunadamente se me simplifica la
+ecuación al al final y me queda de esa
+forma a * d dividido el c * b ya así que
+a grandes rasgos hay que multiplicar de
+de manera Cruzada por si acaso si a por
+d todo esto dividido por eh c * b ya o
+por B por c como ustedes quieran Ya
+ahora algo importantísimo al momento de
+que enfrenten a la pregunta de le unac
+asegúrense que el cuadro bien y que
+estén los enfermos y los sanos cierto Y
+que aparte estén los expuestos y los no
+expuestos en ese orden si que se los
+ponen al revés por ejemplo con con los
+enfermos al otro lado o con los
+expuestos y los no expuestos de manera
+invertida yo Les recomiendo que hagan
+una nueva tabla en la misma hoja del del
+examen y que la pongan en orden cierto y
+ahí uno evita
+confundirse vamos a ver ahora este
+concepto del intervalo de confianza que
+se ha preguntado mucho en el último
+tiempo y en general uno habla de un
+intervalo de confianza al 95 por en el
+sentido en que es como el espejo de El p
+menor a 0,05 que si se acuerdan el p
+menor a 5% era cuando era algo
+significativo en cambio Eh Al verlo con
+el intervalo de confianza vamos a ver
+que va a ser significativo cuando no
+pasa por el uno ya Así que cuál es la
+forma de interpretar un intervalo de
+confianza es la siguiente si es que el
+intervalo de confianza va y pasa por el
+número uno en ese caso no es
+significativo si es que en cambio no
+pasa por el número uno en ese caso sí es
+significativo Y esto no quedó en
+absoluto claro ahora pero va a quedar
+claro con los ejemplos que vamos a ver
+después por si acaso ya Qué significa
+que el intervalo de confianza no pase
+por el número uno significa lo mismo que
+el p sea menor a 0,05 o sea significa
+que sí hay diferencias significativas
+repito va a quedar más claro en unos
+minutos más cuando veamos los ejemplos
+ya vamos con estos ejemplos me dicen que
+tiene un riesgo relativo de 2.4 o sea
+aumenta del riesgo sería un factor de
+riesgo que me lo aumenta 2,4 veces y me
+dicen que el intervalo de confianza va
+desde dos que es mayor a uno cierto
+hasta 2.8 que también es mayor a uno así
+que no pasa por el uno y uno dice Sí es
+estadísticamente significativo en en en
+otras palabras es un intervalo de
+confianza que es significativo así que
+es un factor de riesgo que me aumenta el
+riesgo de manera estadísticamente
+significativa ya fue super redundante yo
+lo sé pero aún así es necesario como
+para que claro y ahora vamos a serc más
+redundantes todavía Así que sigamos
+viendo más ejemplos aquí tengo un ratio
+que me dice que es de 1,2 uno dice es
+mayor a uno aumenta al riesgo es un un
+factor de riesgo pero el intervalo de
+confianza va desde el 0,7 que es menor a
+1o hasta el 2,0 que es mayor a 1 o sea
+aquí si pasa por el uno y como pasa por
+el uno uno dice Esto no es significativo
+en otras palabras yo digo tiene un otro
+ratio de 1,2 O sea me aumenta el riesgo
+en un 20% sin embargo yo con un 95 eh eh
+Por de confianza puedo afirmar que me
+disminuye el riesgo en un en un 30% en
+el sentido que es lo que le falta al 0,7
+para llegar al 1 es 0,3 el 30% o me lo
+aumenta al doble así que me queda la
+duda te baja el riesgo entonces o te
+aumenta el riesgo y uno dice Bueno no
+estoy seguro Así que no es significativo
+en el sentido en que pasa por el uno ya
+el siguiente el riesgo relativo de 14
+uno dice un factor de riesgo que aumenta
+14 veces el riesgo o sea un factor de
+riesgo muy importante pero me dan un
+intervalo de confianza que es muy amplio
+que va desde dos o sea que me aumenta el
+riesgo dos veces hasta 32 O sea que me
+aumenta el riesgo 32 veces y en este
+caso uno dice Igualmente no pasa por el
+uno así que sí es significativo Entonces
+fíjense en este caso es un factor de
+riesgo real es un factor de riesgo que
+no pasa por el uno así que es
+estadísticamente significativo pero aún
+así viene con un intervalo de confianza
+muy grande lo cual me queda la duda que
+tanto aumenta el riesgo pero sí me queda
+super Claro que sí aumenta el riesgo
+porque no pasa por el uno ya va quedando
+un poquito más claro si es que no vamos
+con otro más ya tengo un riesgo relativo
+de 0,85 o sea aquí me disminuye el
+riesgo y me dicen que con un 95 de
+confianza Eh me baja el riesgo en un 25%
+hasta que me lo baja solamente en un 5%
+O sea que va de 075 hasta 095 en ambos
+casos el 075 y el 095 son números
+menores a uno no Así que en este caso yo
+digo sí es significativo ahora la
+diferencia de este es que el riesgo
+relativo está en 0,85 o sea es menor a
+uno y por lo tanto en este caso no es un
+factor de riesgo sino que es un factor
+de de de protección por si acaso ya
+ejemplo un medicamento que tenga ese
+número uno dice es un medicamento que sí
+sirve porque sí me baja el riesgo de
+muerte o de complicaciones o de lo que
+sea que que se est que se esté midiendo
+ahí y lo hace de manera estadísticamente
+significativa porque el riesgo relativo
+no pasa por el uno
+eh el siguiente me dicen que el urti es
+de 0,2 O sea me disminuye el riesgo y me
+lo disminuye mucho cierto me lo
+disminuye en un 80% pero el riesgo
+relativo va desde 0,01 hasta 0,4 o sea
+viene con un Rango que es bien amplio
+pero aún así el 0,01 es menor que 1 y el
+0,4 es menor que 1 también así que no
+pasa por el uno y por lo tanto Sí es
+estadísticamente significativo así que
+nuevamente yo digo Este sí es un factor
+que me disminuye el riesgo es un factor
+de de de protección real
+estadísticamente significativo ya y por
+si no les quedó claro vamos con un
+último ejemplo cierto que me dice que el
+riesgo relativo es de 0,76 con el
+intervalo de confianza que va desde 035
+menor que 1 hasta 1,02 que es mayor que
+1 y en este caso un dice no es
+significativo porque pasa por el uno en
+otras palabras yo digo tengo un riesgo
+relativo de 0,76 y por lo tanto esto me
+disminuye el riesgo en un 24 sin embargo
+con un 95 de confianza puedo afirmar que
+lo baja entre un 65 por o me lo aumenta
+en un 2% Y nuevamente me quedo con la
+duda Entonces lo baja o lo aumenta y
+como no estoy seguro es lo mismo que
+decir no hay diferencias
+estadísticamente significativas ya quedó
+claro e salud pública Lo siento Ya vamos
+con una pregunta que se ha hecho en el
+eacon Viene un vendedor y les dice
+doctor este medicamento reduce a la
+mitad las muertes por infarto y uno dice
+mire Qué interesante Muéstrame los
+números y les dice tiene un riesgo
+relativo de 0 5 o sea efectivamente me
+disminuye el riesgo a la mitad ya Pero
+además me dicen que viene con intervalo
+de confianza al 95 por que va entre 0,3
+Y 0.7 fíjense ambos son números menores
+a uno así que sí es estadísticamente
+significativo y uno le dice Dígame por
+favor Cómo se llama el medicamento y
+cuánto cuesta como para empezar a
+dárselo a mis pacientes siempre siempre
+y cuando Obviamente el examen eh el el
+el estudio esté bien hecho ahora si es
+que en cambio me dicen que el el valo de
+confianza va de 0,07 a 1,22 en ese caso
+uno dice bueno eh ahí sí pasa por el uno
+así que no habría diferencia
+estadísticamente significativa queda
+claro en resumidas cuentas ahí uno dice
+disminuye el riesgo y es
+estadísticamente significativo en cambio
+acá disminuye el riesgo igual pero no es
+estadísticamente significativo así que
+me quedo con la duda con que ustedes eh
+sean capaces de hacer Esa diferencia es
+suficiente ahora esto se ha preguntado
+mucho así que viene una tercera pregunta
+que que ha aparecido en el unacon varias
+veces en que se pregunta cuál es el
+factor de riesgo más importante Ya y Se
+entregan todas esas alternativas Así que
+las vamos ir viendo una por una la letra
+a dice que tiene un riesgo relativo de
+0,5 y que va entre 0,4 y 0,6 que no pasa
+por el uno así que es estadísticamente
+significativo pero fíjense tengo un
+riesgo un riesgo relativo que es menor a
+uno así que en este caso no es un factor
+de riesgo es un factor eh eh protector
+Así que queda absolutamente eh
+descartada Esa alternativa luego me
+dicen riesgo relativo de 2,5 en la B de
+4,5 en la c de 7,3 en la d y de 2,6 en
+la e Así que todos esos sí son mayores a
+uno en ese caso sí aumentan el riesgo
+Así que hay que ver los intervalos de
+confianza como para ver si es que pasan
+por el uno o no como para ver si es que
+son significativos o no en la B va de
+dos a tres ambos mayores a uno así que
+no pasa por el uno es significativo en
+la c va de tres hasta seis Así que
+nuevamente no pasa por el uno así que es
+significativo en la d va de 0,9 que es
+menor a uno cierto hasta el 15 Así que
+ahí si si si pasa por el uno y queda
+absolutamente descartado por ese 0,9 y
+en la e ocurre Exactamente lo mismo
+empieza en 0,7 que disminuye el riesgo
+cierto así que si pasa por el uno en el
+sentido que llega hasta el 5,2 Así que
+queda también descartado ya ahora entre
+la b y la c que ambos sí son factores de
+riesgo y ambos sí son estadísticamente
+significativo me quedo con el que tiene
+el número más grande dígase me quedo con
+la alternativa c en el sentido en que
+tiene un un riesgo relativo de de 4,5 En
+comparación con el de 2,5 Así que
+aumenta el riesgo 4,5 veces en
+comparación con el otro que solamente
+lumenta 2,5 veces ya Y si es que el el
+cerebro ya se les fundió con las medidas
+de asociación ahora vamos con un tema
+más difícil todavía Ya vamos a ver y a
+recordar las otras medidas de impacto
+por un lado está el riesgo atribuible
+después viene el riesgo atribuible
+poblacional luego viene el riesgo
+atribuible porcentual y finalmente está
+el riesgo atribuible poblacional
+porcentual o porcentual poblacional ya
+acá vienen con unas fórmulas que son un
+poco complicadas no hay que sabér selas
+por si acaso pero sí hay que hay que
+entender bien el concepto y vamos a
+intentar que quede claro con unos
+ejemplos también así que empecemos que
+era el riesgo atribuible este exceso de
+riesgo en los pacientes que están
+expuestos y que quede bien claro es de
+los pacientes expuestos ya Y en este
+caso la fórmula es el riesgo atribuible
+esig igual a la incidencia de los
+expuestos menos la incidencia de los no
+expuestos ya Cuál era el riesgo
+atribuible poblacional y que ahí en la
+fórmula Me falta una p por si acaso
+sería el exceso de riesgo en la
+población y en en esta población hay
+algunas personas que sí están expuestas
+al factor de riesgo pero hay otras
+personas que no están expuestas al
+factor de riesgo y la fórmula es bien
+similar con la diferencia que es la eh
+incidencia de la población menos la
+incidencia en los no expuestos y repito
+la gran diferencia con el anterior Es
+que aquí Hay personas expuestas al
+factor de riesgo pero otras que no lo
+están Luego de eso está el riesgo
+atribuible porcentual que es el
+porcentaje de casos causados por un
+factor de riesgo en los pacientes
+expuestos dígase con esa fórmula que
+está ahí que da lo mismo por si acaso
+pero el tema es que es un es Qué
+porcentaje de los casos es causado por
+un factor de riesgo y en Quiénes en los
+expuestos e Eh Esto acá es muy muy
+similar a el riesgo atribuible
+porcentual poblacional que sería el
+porcentaje de casos causados Igualmente
+por el factor de riesgo pero no en los
+expuestos sino que en la población
+nuevamente en las cuales hay alguien que
+está expuesto y hay otras personas que
+no lo están ya así que en resumen Los
+porcentuales me hablan del porcentaje de
+casos causados por un factor de riesgo y
+los poblacionales me hablan que se
+refiere a la población en cambio los no
+poblacionales son solamente en el grupo
+de los pacientes que están expuestos al
+factor de riesgo ya si no entendieron no
+importa tanto pero aún así eh lo que hay
+que saber es saber interpretarlo Así que
+vamos con estos ejemplos ya me dicen lo
+siguiente Me dicen el 90 por de los
+cánceres de pulmón son causados
+directamente por el cigarrillo digamos
+esto en chile o sea en la población
+chilena del total de cánceres que hay el
+90 por son causados por el cigarrillo y
+en ese caso no dice me están hablando
+del riesgo atribuible porcentual
+poblacional ya en el sentido que se
+refiere al porcentaje de casos causados
+por un factor de riesgo en la población
+en la cuales algunas personas fuman y
+otras personas No fuman ya el eh
+siguiente caso Si no existiera la
+obesidad y los factores de riesgo
+cardiovascular se habrían evitado el 50%
+de las muertes por covid-19 ya eh que
+quede bien claro ese es un número que yo
+inventé solamente para este ejercicio no
+es la la realidad O al menos yo no
+conozco Cuál es el número Exacto acá
+Pero nuevamente me están hablando del
+riesgo atribuible porcentual poblacional
+Por qué Porque Qué porcentaje son las
+muertes que se habrían evitado si es que
+se elimina el factor de riesgo bueno el
+porcentaje
+de muertes causadas por ese factor de
+riesgo y si me dice que se habría
+evitado el 50% de las muertes por covid
+eso quiere decir que eh del 50% de las
+muertes por covid eran causadas
+directamente por este factor de riesgo
+que era la obesidad y los factores de
+riesgo cardiovascular ya no sé si va
+quedando claro vamos con más ejemplos
+como para que quede más claro ya en los
+diabéticos me dicen que el 80% de las
+insuficiencias renales se deben a la
+diabetes en este caso no me hablan de la
+población completa me hablan de los
+diabéticos o sea de los expuestos al
+factor de riesgo llamada diabetes así
+que sería el riesgo atribuible
+porcentual Solamente porque me habla de
+el porcentaje de casos de una enfermedad
+causada por un factor de riesgo en el
+grupo de los pacientes expuestos ya y
+finalmente una vacuna eh e presentaba
+efectos adversos pero el placebo también
+ya en el sentido en que no es el el
+placebo el que genere el el efecto
+adverso pero ustedes saben que los
+pacientes Pueden decir que igualmente
+sienten alguna molestia o les pue dar
+fiebre y dolor de cabeza por otras
+razones igual y se calculó que de cada
+ocho pacientes vacunados uno tenía
+efectos adversos que eran directamente
+atribuibles a la vacuna en este caso
+estamos hablando del nnh Y en este caso
+sería un nnh de8 porque es uno de cada
+ocho o sea hay que darle la vacuna a a
+ocho pacientes para que uno sea dañado
+debido a un efecto adverso de de esta
+vacuna ya y lo más importante de toda
+esta clase que ya sé que fue una clase
+muy densa Así que Pónganme mucha
+atención por favor no sufran ya no
+sufran con con estos temas da lo mismo
+ya si es que alguien eh No entiende esto
+bien vea el video de nuevo y si es que
+no lo quiere ver de nuevo sigue con
+otras cosas en el sentido en que el
+unacon tiene 180 preguntas de muchos
+temas y esos temas obviamente valen más
+la la la la pena y los va a hacer ser
+mejores médicos que saber el riesgo
+atribuible porcentual poblacional Así
+que mucho ánimo ya y que estén muy bien
+ya una un abrazo
+[Música]

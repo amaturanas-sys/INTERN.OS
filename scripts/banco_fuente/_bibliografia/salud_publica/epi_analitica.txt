@@ -1,0 +1,524 @@
+Título: 7  Salud Pública   Epidemiología analítica - YouTube
+URL: https://youtu.be/nnEPtHKAPhg
+
+[Música]
+Hola cómo están en estos videos vamos a
+hablar de la epidemiología analítica
+ahora que a diferencia de la descriptiva
+la analítica sí Busca relaciones de
+causa efecto y esto habitualmente se
+hace eh con los test de hipótesis Así
+que vamos a ver por un lado la
+causalidad vamos a ver Los criterios de
+causalidad de bradford Hills aparte de
+esto vamos a hablar de los test de
+hipótesis del concepto de una manera muy
+superficial por si acaso vamos a hablar
+del error eh aleatorio vamos a hablar
+también de los errores sistemáticos
+también llamados sejos que se preguntan
+mucho por si acaso vamos a ver varios
+ejemplos en el sentido en que la forma
+en que se preguntan habitualmente es con
+con un caso en que hay que identificar
+Qué tipo de sesgo hay y finalmente vamos
+a mencionar los conceptos de validez
+fiabilidad y relevancia clínica ya así
+que empecemos va a ser una una clase un
+poquito densa pero no tan densa como la
+anterior ya empecemos con Los criterios
+de causalidad de bradford Hills ya que
+son todos los que están ahí ya número
+uno está el el el criterio de asociación
+o de fuerza de asociación que tiene que
+ver que al aumentar la frecuencia de la
+causa aumenta la frecuencia del efecto
+Ya y se mide con el riesgo relativo y
+con el ot ratio que son las medidas de
+asociación que las vamos a ver después
+por si acaso ya ya luego está la
+congruencia que se refiere a Que varios
+estudios que busquen como esta misma
+relación de causa efecto vengan con
+resultados similares uno dice son
+congruentes entre sí les creo un poco
+más ya luego esto viene la
+reproductibilidad que que se refiere a
+que el estudio
+sea replicable perdón y esto tiene
+relación eh con algunos eventos que
+ocurren Solamente una vez ejemplo que
+hay una una pandemia de coronavirus y
+uno se queda con la duda de cuál habrá
+sido el origen del coronavirus si es que
+habrá sido un murciélago un pangolín o
+lo que sea en el sentido en que no hay
+eh algo como eh que se pueda replicar ya
+aparte de esto de acá está la el
+relación dosis efecto que es bien obvio
+en el fondo si yo a mayor dosis tengo un
+un mayor efecto lo más probable es que
+lo que yo estoy administrando sea la
+causa de ese efecto Ya luego esto viene
+la plausibilidad biológica que hay es un
+concepto que que se ha preguntado y que
+hay que tenerlo bien claro que es que
+venga con una explicación científica
+racional ejemplo si yo digo con el
+coronavirus sigamos cierto que el
+coronavirus va y produce esta eh Como
+reacción en los pulmones muy grave
+porque hay una activación de la cascada
+inflamatoria con infiltración de no sé
+linfocitos t y macrófagos bla bla bla y
+lo explico todo científicamente
+aceptable uno dice hay una plausibilidad
+biológica ya si por el contrario voy y y
+digo el coronavirus Es malo de adentro y
+por eso es que va y afecta solamente a
+la gente con odio en su corazón uno dice
+no eso es un invento de alguien que no
+sabe ciencia Ya ahora la secuencia
+Temporal y ahí va con un asterisco en el
+sentido en que se considera el único
+sinequanon según algunos autores o sea
+es el que debe estar Sí o sí que la
+causa ocurra antes que el efecto en el
+sentido En que si yo tengo el efecto
+antes que la causa obviamente no puede
+ser eh Como efecto de de esa causa ya
+bueno sonó un poquito raro pero está
+bien dicho por si acaso pero la
+secuencia temporal es eso que la la
+causa esté antes de que se produzca el
+efecto y de esa manera puede ser la
+causa ya luego está la especificidad que
+quiere decir que esta causa va y genera
+un único efecto ahora que queden bien
+claro los Los criterios de causalidad en
+general Eh no tienen por qué estar todos
+Ya sino que basta que estén algunos ya
+aparte de esto la eh analogía que una
+causa similar vaya y genere un efecto
+similar ejemplo voy a intentar usar un
+nuevo antibiótico y veo que tiene un
+efecto similar al antibiótico que que
+era bien parecido ya yo digo yo puedo eh
+imaginarme que justamente este nuevo
+antibiótico es la causa de este eh
+efecto que ya había visto antes en un
+antibiótico similar ya aparte de esto
+está la evidencia experimental que es
+super importante que en el momento en
+que yo ya empiezo a hacer un ensayo
+clínico Yo empiezo a hacer un estudio en
+el cual intervengo o sea un estudio
+experimental en ese momento es cuando al
+fin obtengo la información más más como
+indiscutible ya y finalmente está el
+tema de la cesación de la exposición que
+en el fondo yo retiro la causa y con eso
+cesa el efecto Ya eh se han preguntado
+varias de estas cosas ya y las Vamos a
+repasar con un ejemplo bien bien rápido
+en el caso de la asociación se preguntó
+de esta forma eh Hay cuatro estudios que
+muestran que hay riesgos relativos entre
+tres y cuatro para este factor de riesgo
+en en relación a una determinada
+enfermedad ya uno dice me están dando el
+riesgo relativo entre tres y cuatro Así
+que uno dice hay fuerza de asociación lo
+malo es que también había congruencia en
+el sentido en que los ensayos clínicos
+me me mostraban un un un resultado
+similar ya eh la plausibilidad biológica
+se se preguntó igual mente como se ha
+entendido que la úlcera se genera por la
+inflamación eh gatillada Por el
+helicobacter pilory y uno dice Bueno en
+ese caso habría una explicación
+científico racional ya y se preguntó
+también la sensación de la exposición y
+se preguntó de esta forma se ha visto
+que el tratar al helicobacter pilory
+disminuye la recurrencia de las úlcera Y
+en este caso qué qué eh criterio de
+causalidad El que se está como evaluando
+y sería el de la sensación de la
+exposición en el sentido en que deja de
+estar la causa deja de estar el
+helicobacter pilory Y eso disminuye la
+recurrencia de la úlcera que sería el
+efecto Ya ahora hablemos un poquito de
+los test de hipótesis ya eh
+habitualmente Yo tengo dos hipótesis una
+la h0 o hipótesis nula versus la h1 o
+hipótesis alternativa ya y la eh
+hipótesis nula dice no hay diferencia en
+el fondo ambas cosas son iguales o o
+bien la característica que yo estoy
+buscando Acá no está presente ya en
+cambio la hipótesis alternativa es s hay
+diferencia entre estas dos poblaciones
+entre estos dos tratamientos entre estos
+tres eh Como grupos de intervención
+etcétera o bien la característica que yo
+estoy buscando acá sí está presente Ya
+ahora con el test de hipótesis yo hago
+un un trabajo estadística eh Como
+estadístico perdón y determino El error
+aleatorio ya que que quede bien claro es
+el error causado por el azar ya y que
+quede bien claro desde antes la forma de
+yo disminuir el error aleatorio es
+aumentando el tamaño muestral Así que
+que quede bien claro eh las muestras muy
+pequeñas vienen habitualmente con un
+riesgo más alto de que haya error
+aleatorio ya así que aumentar el n
+aumentar el tamaño muestral es lo que
+más ayuda para disminuir este tipo de
+error Ya ahora el eh El error aleatorio
+cierto es de dos tipos por un lado está
+El error tipo uno que también se llama
+error Alfa y por otro lado está El error
+tipo dos que también se llama error Beta
+ya y más o menos lo que significan son
+esto que está acá el tipo uno es decir
+sí hay diferencia pero en verdad no
+había diferencia ya en el sentido que
+hay un error me equivoqué cierto el tipo
+dos o Beta e no no no no hay ninguna
+diferencia pero la verdad es que sí
+había diferencia Ya ahora de los dos se
+considera más grave el tipo uno por si
+acaso el decir esto sí sirve este
+medicamento sí es útil esta vacuna sí es
+buena esta es la causa de esto y resulta
+que al final no lo era eso se considera
+más grave Así que habitualmente lo que
+uno va y utiliza como para definir si un
+medicamento o un tratamiento Es bueno o
+no es el riesgo de caer en un error tipo
+uno ya de hecho eso se calcula con el
+famoso número p que el número p es la
+probabilidad de cometer un error tipo
+uno es la la la probabilidad de Alfa de
+El error tipo Alfa ya y por regla
+general se dice que si es muy bajito si
+es un riesgo menor a 0,05 que es lo
+mismo de decir menor a 5% en ese caso va
+y gana h1 o sea cuando me dice hay
+diferencia y el p es de 3% Por ejemplo
+yo digo sí efectivamente hay diferencia
+y estas diferencias son estadísticamente
+significativas ya si es que En cambio es
+mayor o igual a 0,05 o mayor o igual a
+5% en ese caso yo digo mira había
+diferencias pero no puedo descartar h0
+en el sentido en que son diferencias que
+no son estadísticamente significativas
+porque el riesgo de estar cometiendo un
+error tipo uno es muy alto es mayor a 5%
+que es lo máximo que se aguanta como por
+convención científica Ya ahora y la
+típica pregunta es y cómo se calcula
+esto y la verdad es que se calcula con
+todos estos test de chi cuadrado t de
+student análisis de varianza etcétera
+que Afortunadamente no se ha preguntado
+en los últimos 7 años Así que no lo
+vamos a enseñar aunque sea como sea está
+en el resumen Así que si lo quieren
+buscar lo buscan ahí ya ahora sigamos
+con el siguiente tipo de error que son
+los errores sistemáticos que es sinónimo
+de un sesgo por si acaso ya en este caso
+hay distintos tipos de sesgo eh uno de
+los más frecuentes son los sesgos de
+selección ya que son en los cuales eh yo
+voy y selecciono a una muestra que no es
+representativa de de de la población ya
+de ahí vamos a ver algunos ejemplos que
+aquí la forma ideal de de evitar este
+sesgo es mediante la aleatorización
+ejemplo si yo voy a comparar dos
+medicamentos yo voy y a a mi a mi
+muestra la aleatorizado cierto y mando
+unos para un lado y mando otro como para
+el otro lado por azar y de manera como
+por el mismo azar le asigno un
+medicamento o el otro ya ahora uno de
+los tipos de eh eh de sesgos de
+selección es el sesgo de exclusión que
+lo que yo hago es dejar fuera a un grupo
+relativamente importante eh en en un
+estudio ejemplo estoy estudiando algo
+que tenga que ver con el covid y dejo
+fuera a los pacientes con factores de
+riesgo cardiovascular Que obviamente ya
+sabemos que los factores de de riesgo eh
+los factores de riesgo cardiovascular se
+asocian a que se agrave el covid Así que
+dejarlo fuera sería un sesgo de
+exclusión ya luego están los los sesgos
+de información que también se llaman
+sesgos de medida por si acaso o sesgos
+de medición y que en resumidas cuentas
+que se mide mal Ya ahora las causas por
+las cuales se está midiendo mal y se
+está obteniendo una información
+inadecuada cierto es que el instrumento
+Es malo ya sea eh eh Porque no está
+calibrado o no está validado por ejemplo
+ya o bien hay un sesgo del evaluador que
+él está evaluando mal o del evaluado que
+me está dando una información que no es
+correcta y en general eh Como para
+evitar este tipo de de de de sesgo del
+evaluador y del sujeto de estudio cierto
+se usa el famoso doble ciego en el
+sentido en que ni el ni el evaluador ni
+el evaluado saben Con qué medicamento
+está Y de esa forma eh No se induce a
+que me diga Más o menos una cosa en el
+sentido En que si yo sé que estoy con un
+placeo voy a estar con esa como con ese
+sesgo a a a a pensar que no me sirve
+para nada ya luego está el sesgo de
+memoria que es característico de los
+estudios retrospectivos que simplemente
+que se le olvidó ya y ejemplo eh yo le
+le le pregunto si se consumió alcohol y
+me dice que no que consumía muy poco
+pero se olvida de toda la universidad en
+que se consumía mucho ya el cesgo de las
+pérdidas que es el característico de de
+los los estudios que duran mucho tiempo
+y que son eh de tipo eh prospectivos En
+el sentido en que eh yo tengo que ir
+siguiendo a los pacientes Pero estos
+pacientes nunca vuelven a control así
+Así que nunca sé qué es lo que pasó con
+ellos se pierden ya y finalmente tengo
+los sesgos por variable confunden que
+hay que entender bien acá el concepto de
+una variable confunden que son aquellas
+que están eh Como asociadas a la
+variable dependiente y a la variable
+independiente también ya vamos a ver
+algunos ejemplos acá pero el ejemplo más
+clásico que que que se enseña es que eh
+se hizo un estudio que comparaba el
+consumo de alcohol con el cáncer de
+esófago y se vio que sí había una
+asociación que era importante pero luego
+se vio que el consumo de alcohol se
+asociaba al consumo de cigarrillo y que
+el cáncer de esófago también se asociaba
+al consumo de cigarrillo Así que la
+variable confunden era justamente esto
+el consumo de de de cigarrillos que
+estaba como relacionada con ambas
+variables ya y finalmente al hacer un
+análisis estratificado o idealmente
+antes de hacer el estudio al hacer una
+aleatorización estratificada de esa
+manera se soluciona ya y de hecho se
+hizo eso y se separó en los pacientes
+que que fumaban por un lado y los que no
+fumaban como por el otro lado y se hizo
+esa esa misma comparación y se vio que
+en los pacientes que no fumaban no había
+ninguna relación entre el consumo de
+alcohol y el desarrollo de cáncer de
+esófago Así que finalmente Todo estaba
+explicado por la variable confunden en
+cambio en el grupo de los pacientes que
+sí fumaban sí había un una relación así
+que se interpretó como que eh el el
+alcohol no no no era como la causa de el
+cáncer de esófago pero sí era un un como
+un coadyuvante un potenciador del efecto
+del cigarrillo como para generar el
+cáncer de esófago ahora aún así en ese
+mismo ejemplo hay una nueva variable
+confunden que es el número de
+cigarrillos fumados en el sentido de que
+las personas que consumen alcohol
+habitualmente fuman más cigarrillos que
+los que no consumen ya bueno sigamos
+vamos a ver ahora el sesgo de
+notificación que es un sesgo en el cual
+no se notifica o no se comunica una
+información que es relevante Simplemente
+porque antes no estaba como incluida en
+el diseño del estudio y vamos a ver ahí
+algún ejemplo pero ejemplo eh yo veo que
+se le cae el pelo a las personas que
+vacuné con la vacuna covid ya eh eh pero
+como nunca lo había visto como dentro de
+la lista de efectos adversos simplemente
+voy y no lo comunico ya y finalmente
+está el sesgo de publicación que es un
+sesgo muy frecuente y muy grave como
+pero que no es del estudio sino que es
+del sistema es que se publica mucho
+menos lo que no es interesante y es muy
+y es muy muy eh eh frecuente que cuando
+un tratamiento no encuentra diferencia
+significativa o no determina que un
+medicamento sirve habitualmente no se
+publica y nadie se entera que ese
+medicamento efectivamente no servía Ya
+ahora repito el sesgo de publicación No
+es un sesgo del estudio sino que es un
+problema del sistema de publicación en
+general Ya ahora vamos con algunos
+ejemplos y hay que identificar Qué tipo
+de sesgo es cada uno de los ejercicios
+que vamos a ver ahora ya número uno un
+estudio de casos y controles estudia la
+relación entre el hábito de consumir
+alcohol y el cáncer de vejiga
+encontrando asociación sin embargo no se
+no se evaluó el hábito tabáquico
+nuevamente muy similar al caso que ya
+vimos este sería un sesgo por por
+variable confunden ya número dos un
+estudio de coortes muestra que el grupo
+de obesos desarrolló diabetes con más
+frecuencia que el grupo eh de normo peso
+sin embargo se realizó el el doble de
+glicemias en los pacientes obesos ya en
+este caso Este es un sesgo de medición y
+en específico es un sesgo de frecuencia
+de la medición en el sentido en que
+mientras yo más veces evalúo más riesgo
+tengo de encontrar esa alteración y
+siguiendo aquí con los ejemplos se les
+pide a los sujetos de un estudio que eh
+compara dos antihipertensivos que se
+controlen su presión arterial en en la
+casa sin embargo no se los no se los
+capacita bien para
+eh usar el aparato de la toma de presión
+ya aquí obviamente habría un sesgo de
+medición ya en el sentido en que Eh no
+está validado ni está como bien bien
+calibrado el sistema de medición de esta
+variable de la de la presión arterial ya
+una vacuna experimental que presenta
+cuatro suicidios entre 200 personas que
+la recibieron lo que no Se informa por
+no estar en los outcomes a evaluar aquí
+obviamente alguien puede decir y Qué
+relación hay entre un suicidio y una
+vacuna así que por lo mismo no lo
+informo pero aún así es de las cosas que
+si son cuatro de 200 hay que informarlo
+sí o sí habría un sesgo de notificación
+ya que ya lo explicamos antes y que si
+bien nunca se enseña eh si se ha
+preguntado en elacom al menos una vez ya
+se observa que las mujeres que consumen
+anticonceptivos orales tienen una mayor
+incidencia de cáncer de cuello uterino
+ya acá si que el estudio está bien hecho
+eventualmente está sin ningún sesgo pero
+hay una Clara variable confunden por si
+acaso que es la actividad sexual en el
+sentido en que eh la actividad sexual se
+eh relaciona con los anticonceptivos en
+el sentido en que usan los
+anticonceptivos justamente para no
+embarazarse y se relaciona también con
+el cáncer de cuello uterino en el
+sentido en que acuérdense que la la
+causa es justamente el virus papiloma
+humano que se transmite por via sexual
+ya el siguiente ejemplo se tratan con
+anticuerpos monoclonales a los pacientes
+covid-19 más graves y se compara con con
+con pacientes con cuadro moderado que
+están tratados con corticoides y comparo
+obviamente los anticuerpos monoclonales
+versus los corticoides aquí en este caso
+hay un sesgo evidente cierto y es un
+sesgo de selección que quede bien claro
+en el sentido en que yo seleccioné a los
+pacientes de una manera no aleatorizada
+sino que arbitraria cierto y que induce
+a un error
+ahora vamos con estos conceptos en
+general vamos a ver el concepto de
+fiabilidad de validez y de relevancia
+clínica que tienen alguna relación con
+con los errores que vimos antes ya la
+fiabilidad se relaciona con el el el
+error aleatorio se refiere a que venga
+sin error aleatorio que venga con un p
+menor a 0,05 cierto la validez en
+cambios que venga sin cescos que venga
+sin errores sistemáticos ahora no hay
+que eh eh confundir la validez de un
+estudio también llamada la validez
+interna con la validez externa que es la
+la la capacidad de extrapolar los
+resultados de un estudio que está bien
+hecho a una población que es distinta en
+el sentido en que ejemplo si yo hice un
+estudio en gente joven No puedo luego
+extrapolarlo a las mujeres embarazadas
+en el sentido en que ahí habría un un un
+problema de validez externa o a los
+niños o a los adultos mayores ya y
+finalmente la relevancia clínica se
+refiere a que el estudio está bien hecho
+y lo que ustedes quieran pero los
+resultados que que me da no son útiles
+desde el punto de vista clínico y está
+lleno de estudios que están super bien
+hechos y que me muestran un p de 0,05
+sin ningún sesgo pero al Ver el
+resultado no tiene ninguna importancia
+Más allá de alguna alteración en el
+laboratorio por ejemplo aquí ejemplos ya
+la hidroxicloroquina demostró disminuir
+la replicación viral invitro y uno dice
+Ah muy muy bonito pero qué me importa
+cierto ahí no hay relevancia clínica en
+absoluto en el sentido en que lo que
+importa es si es que disminuye o no la
+mortalidad o la letalidad de la
+enfermedad Ya los anticuerpos
+monoclonales redujeron la letalidad en
+un 20% ya y el p me salió de 0,2 ya así
+que uno dice Oh fueron buenos porque
+redujeron la letalidad en un 20% pero el
+p si se fijan es de 0,2 o sea es mayor a
+0,05 Así que en ese caso no hay
+fiabilidad hay un error aleatorio muy
+grande es más 0,2 es sinónimo de 20% y
+aquía un 20% y un 0,2 al lado es
+solamente coincidencia por si acaso pero
+que el p sea 0 com eh que sea 0,2 ya me
+dice no hay diferencia significativa o
+sea el estudio no es fiable ya y
+finalmente el estudio no incluyó a los
+adultos mayores aquí eh seguramente
+habría un cesgo ya sería un sesgo de
+selección en el sentido en que hay un
+sesgo de exclusión cierto y que
+eventualmente era importante que los
+adultos mayores estuvieran incluidos si
+es que es algo que está estudiando el
+covid por ejemplo ya y bueno Esa fue
+esta clase densa como toda salud pública
+pero vamos vamos que se puede tener al
+menos alguna de las preguntas buenas de
+salud pública comom ya harto Ánimo que
+estén
+[Música]
+bien than
