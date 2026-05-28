@@ -75,12 +75,23 @@ function reqToPromise(req) {
   });
 }
 
+// Cache in-memory para `getAll(store)` — evita re-leer todo el banco (4 000+
+// preguntas, ~7 MB en RAM) cada vez que una vista lo necesita. Se invalida
+// automáticamente en cualquier operación de escritura sobre el mismo store.
+const _cacheGetAll = new Map();
+export function invalidarCache(store) {
+  if (store) _cacheGetAll.delete(store);
+  else _cacheGetAll.clear();
+}
+
 export async function put(store, value) {
+  _cacheGetAll.delete(store);
   const db = await openDB();
   return reqToPromise(tx(db, store, "readwrite").put(value));
 }
 
 export async function bulkPut(store, values) {
+  _cacheGetAll.delete(store);
   const db = await openDB();
   return new Promise((resolve, reject) => {
     const t = db.transaction(store, "readwrite");
@@ -97,11 +108,16 @@ export async function get(store, key) {
 }
 
 export async function getAll(store) {
+  if (_cacheGetAll.has(store)) return _cacheGetAll.get(store);
   const db = await openDB();
-  return reqToPromise(tx(db, store, "readonly").getAll());
+  const p = reqToPromise(tx(db, store, "readonly").getAll());
+  _cacheGetAll.set(store, p);
+  try { return await p; }
+  catch (e) { _cacheGetAll.delete(store); throw e; }
 }
 
 export async function del(store, key) {
+  _cacheGetAll.delete(store);
   const db = await openDB();
   return reqToPromise(tx(db, store, "readwrite").delete(key));
 }
@@ -112,6 +128,7 @@ export async function count(store) {
 }
 
 export async function clearStore(store) {
+  _cacheGetAll.delete(store);
   const db = await openDB();
   return reqToPromise(tx(db, store, "readwrite").clear());
 }

@@ -7,7 +7,7 @@
   --card-2: #f5f8fc;
   --line: #d9e2ee;
   --txt: #1b2a44;
-  --muted: #6b7c97;
+  --muted: #58688b;  /* ~4.7:1 sobre --bg (WCAG AA texto pequeño) */
   --teal: #2f80c2;
   --teal-d: #1f4e79;
   --ok: #16a34a;
