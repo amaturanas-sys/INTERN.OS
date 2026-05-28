@@ -1,7 +1,7 @@
 {
-  "name": "EUNACOM — Estudio offline",
-  "short_name": "EUNACOM",
-  "description": "Plataforma de estudio EUNACOM 100% offline: quiz por temas, casos clínicos y definiciones, con banco editable.",
+  "name": "InternOS — Estudio EUNACOM offline",
+  "short_name": "InternOS",
+  "description": "InternOS: plataforma de estudio EUNACOM 100% offline (quiz por temas, casos clínicos, definiciones y banco editable).",
   "lang": "es-CL",
   "dir": "ltr",
   "start_url": "./index.html",

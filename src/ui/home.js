@@ -37,10 +37,10 @@ export async function vistaHome() {
   mount(el("div", { class: "home" }, [
     el("div", { class: "home__hero" }, [
       el("div", { class: "home__hero-titulo" }, [
-        el("h1", { text: "EUNACOM" }),
+        el("img", { src: "assets/icon.svg", alt: "InternOS", class: "home__logo" }),
         el("span", { class: "home__version", title: ver.fecha_build || "", text: etiquetaCorta(ver) }),
       ]),
-      el("p", { class: "muted", text: "Estudio offline · material del Dr. Guevara" }),
+      el("p", { class: "muted", text: "Estudio EUNACOM offline · material del Dr. Guevara" }),
       el("div", { class: "home__resumen" }, [
         el("span", {}, `${pct}% acierto`),
         el("span", {}, `🔥 ${g.racha_dias || 0} día(s) de racha`),

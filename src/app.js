@@ -39,7 +39,7 @@ async function arranque() {
   const setMsg = (m) => { const s = document.getElementById("splash-msg"); if (s) s.textContent = m; };
   // Versión visible en <title> y splash desde el primer instante.
   const v = await leerVersion();
-  document.title = `EUNACOM v${v.version} — Estudio offline`;
+  document.title = `InternOS v${v.version} — EUNACOM`;
   const splashSub = document.getElementById("splash-version");
   if (splashSub) splashSub.textContent = `v${v.version}${v.commit !== "local" ? " · " + v.commit : ""}`;
   try {
