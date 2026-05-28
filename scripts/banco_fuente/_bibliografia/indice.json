@@ -1579,7 +1579,97 @@
           "url": "https://youtu.be/e-z0SVT_Lno"
         }
       ]
+    },
+    "traumatologia": {
+      "cantidad": 17,
+      "transcripciones": [
+        {
+          "archivo": "artrosis_monoartritis.txt",
+          "titulo": "Artrosis / monoartritis",
+          "url": "https://youtu.be/US9TmT_4fe8"
+        },
+        {
+          "archivo": "complicaciones_fracturas3.txt",
+          "titulo": "Complicaciones fracturas3",
+          "url": "https://youtu.be/8t1OJywLJmo"
+        },
+        {
+          "archivo": "complicaciones_fracturas_1.txt",
+          "titulo": "Complicaciones fracturas 1",
+          "url": "https://youtu.be/AK_V4X5vnRI"
+        },
+        {
+          "archivo": "complicaciones_fracturas_2.txt",
+          "titulo": "Complicaciones fracturas 2",
+          "url": "https://youtu.be/nLa7_QfFVQU"
+        },
+        {
+          "archivo": "extremidad_inferior.txt",
+          "titulo": "extremidad inferior",
+          "url": "https://youtu.be/_fgEnUCZraY"
+        },
+        {
+          "archivo": "extremidad_superior.txt",
+          "titulo": "extremidad superior",
+          "url": "https://youtu.be/TyOONwGYmBA"
+        },
+        {
+          "archivo": "fractura_cadera.txt",
+          "titulo": "Fractura cadera",
+          "url": "https://youtu.be/lMR-ftGnf30"
+        },
+        {
+          "archivo": "fractura_expuesta.txt",
+          "titulo": "Fractura expuesta",
+          "url": "https://youtu.be/m3HDJxvWNtg"
+        },
+        {
+          "archivo": "generalidades_fracturas.txt",
+          "titulo": "Generalidades fracturas",
+          "url": "https://youtu.be/CcvD8iOtklA"
+        },
+        {
+          "archivo": "hombro.txt",
+          "titulo": "Hombro",
+          "url": "https://youtu.be/aC-zgpIldeQ"
+        },
+        {
+          "archivo": "infecion_de_piel_y_partes_blandas.txt",
+          "titulo": "Infeción de piel y partes blandas",
+          "url": "https://youtu.be/SVVek4k5llU"
+        },
+        {
+          "archivo": "lumbago_cervicaalgia_hombro_doloroso_codo_doloroso_tendinitis_bursitis_fibromialgia.txt",
+          "titulo": "Lumbago/ Cervicaalgia / Hombro doloroso / Codo doloroso / Tendinitis / Bursitis/ Fibromialgia",
+          "url": "https://youtu.be/Cyf9wrI8rkE"
+        },
+        {
+          "archivo": "partes_blandas.txt",
+          "titulo": "partes blandas",
+          "url": "https://youtu.be/IlnMbUA1h5Q"
+        },
+        {
+          "archivo": "politraumatismo_y_fractura_pelvis.txt",
+          "titulo": "Politraumatismo y fractura pelvis",
+          "url": "https://youtu.be/feZ1NqvkDRw"
+        },
+        {
+          "archivo": "rodilla.txt",
+          "titulo": "rodilla",
+          "url": "https://youtu.be/jp6UlbKgKPQ"
+        },
+        {
+          "archivo": "trauma_infantil.txt",
+          "titulo": "Trauma infantil",
+          "url": "https://youtu.be/sKe1ml2xyTA"
+        },
+        {
+          "archivo": "tu_oseos.txt",
+          "titulo": "Tu óseos",
+          "url": "https://youtu.be/rGQMCxtXnyI"
+        }
+      ]
     }
   },
-  "total": 300
+  "total": 317
 }
