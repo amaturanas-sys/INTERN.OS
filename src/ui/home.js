@@ -1,4 +1,4 @@
-// Pantalla de inicio (dashboard) con acceso a los tres modos y utilidades.
+// Landing: identidad InternOS + estadísticas, sesión veloz, modos, curación, herramientas.
 import { el, mount } from "./dom.js";
 import { navegar } from "./router.js";
 import { count, getConfig, getAll } from "../db/db.js";
@@ -11,48 +11,44 @@ import { leerVersion, etiquetaCorta } from "../version.js";
 const hoy = () => new Date().toISOString().slice(0, 10);
 
 export async function vistaHome() {
-  const [nPreg, nCasos, nDefs, rep, g, objetivo, ver] = await Promise.all([
+  const [nPreg, nCasos, nDefs, rep, g, objetivo, ver, todasPreg] = await Promise.all([
     count("preguntas"), count("casos_clinicos"), count("definiciones"),
     estadisticasRepaso(), leerProgreso(), getConfig("objetivo_diario", 30),
-    leerVersion(),
+    leerVersion(), getAll("preguntas"),
   ]);
+  const marcadas = todasPreg.filter((q) => q.marcada_revision).length;
+  const editadas = todasPreg.filter((q) => (q.version_actual || 1) > 1).length;
+
   const pct = g.total_respondidas ? Math.round((g.total_correctas / g.total_respondidas) * 100) : 0;
   const hoyKey = hoy();
   const respondidasHoy = (g.por_dia && g.por_dia[hoyKey]) ? g.por_dia[hoyKey].respondidas : 0;
   const objetivoPct = Math.min(100, Math.round((respondidasHoy / objetivo) * 100));
-  const marcadas = await contarMarcadas();
-
-  function tarjeta(icono, titulo, desc, ruta, meta) {
-    return el("button", { class: "modo-card", onClick: () => navegar(ruta) }, [
-      el("div", { class: "modo-card__icono", text: icono }),
-      el("div", { class: "modo-card__cuerpo" }, [
-        el("h3", { text: titulo }),
-        el("p", { class: "muted", text: desc }),
-        meta ? el("span", { class: "modo-card__meta", text: meta }) : null,
-      ]),
-      el("span", { class: "lista__flecha", text: "›" }),
-    ]);
-  }
 
   mount(el("div", { class: "home" }, [
+    // ---- Hero con logo + versión ----
     el("div", { class: "home__hero" }, [
       el("div", { class: "home__hero-titulo" }, [
         el("img", { src: "assets/icon.svg", alt: "InternOS", class: "home__logo" }),
         el("span", { class: "home__version", title: ver.fecha_build || "", text: etiquetaCorta(ver) }),
       ]),
       el("p", { class: "muted", text: "Estudio EUNACOM offline · material del Dr. Guevara" }),
-      el("div", { class: "home__resumen" }, [
-        el("span", {}, `${pct}% acierto`),
-        el("span", {}, `🔥 ${g.racha_dias || 0} día(s) de racha`),
-        rep.pendientes ? el("span", { class: "pill" }, `${rep.pendientes} para repasar`) : null,
-      ]),
     ]),
 
-    // -------- Sesión del día --------
+    // ---- Estadísticas rápidas ----
+    el("div", { class: "home__stats" }, [
+      stat("Respondidas", g.total_respondidas || 0),
+      stat("Acierto", `${pct}%`),
+      stat("Racha", `🔥 ${g.racha_dias || 0}`),
+      stat("Repaso", rep.pendientes || 0, "para hoy"),
+      stat("Marcadas", marcadas, "por revisar"),
+      stat("Editadas", editadas, "con fuente"),
+    ]),
+
+    // ---- Sesión veloz ----
     el("div", { class: "card sesion-dia" }, [
       el("div", { class: "sesion-dia__cab" }, [
-        el("h2", { text: "Hoy" }),
-        el("span", { class: "muted", text: `${respondidasHoy} / ${objetivo} preguntas` }),
+        el("h2", { text: "Sesión veloz" }),
+        el("span", { class: "muted", text: `${respondidasHoy} / ${objetivo} hoy` }),
       ]),
       el("div", { class: "progress" }, [
         el("div", {
@@ -62,35 +58,68 @@ export async function vistaHome() {
       ]),
       el("div", { class: "runner__acciones" }, [
         el("button", { class: "btn btn--primary",
-          onClick: () => iniciarSesionDelDia(Math.max(10, Math.min(30, objetivo - respondidasHoy)))
-        }, respondidasHoy >= objetivo ? "¡Meta lograda! Una más" : "Comenzar sesión del día"),
+          onClick: () => iniciarSesionDelDia(20)
+        }, "⚡ 20 preguntas rápidas"),
+        el("button", { class: "btn btn--ghost",
+          onClick: () => iniciarSesionDelDia(Math.max(5, objetivo - respondidasHoy))
+        }, respondidasHoy >= objetivo ? "+1 más" : `Completar día (${Math.max(0, objetivo - respondidasHoy)})`),
       ]),
       heatmap(g.por_dia, objetivo),
     ]),
 
+    // ---- Modos de estudio ----
+    el("h3", { class: "home__sub", text: "Modos" }),
     el("div", { class: "modos" }, [
-      tarjeta("📝", "Quiz por temas", "MCQ clásico con filtros y feedback inmediato.", "quiz", `${nPreg} preguntas`),
+      tarjeta("📝", "Quiz por temas", "Filtra por especialidad, tema, dificultad.", "quiz", `${nPreg} preguntas`),
       tarjeta("🩺", "Casos clínicos", "Casos paso a paso, lineales con feedback.", "casos", `${nCasos} casos`),
-      tarjeta("💡", "Definiciones", "Conceptos, fármacos y herramientas en MCQ.", "definiciones", `${nDefs} definiciones`),
+      tarjeta("💡", "Definiciones", "Conceptos, fármacos y herramientas.", "definiciones", `${nDefs} definiciones`),
     ]),
+
+    // ---- Curación activa ----
+    el("h3", { class: "home__sub", text: "Curación" }),
+    el("div", { class: "modos" }, [
+      tarjeta("✎", "Editar preguntas", "Buscar, corregir y enriquecer con bibliografía.", "preguntas", `${nPreg} en el banco`),
+      marcadas > 0
+        ? tarjeta("🚩", "Marcadas", "Cola personal para revisar y corregir.", "marcadas", `${marcadas} pendientes`)
+        : tarjeta("🚩", "Marcadas", "Aparecerán aquí al usar 🚩 durante un quiz.", "marcadas", "vacía"),
+      tarjeta("📂", "Importar .md / .txt", "Añade preguntas, casos o definiciones por archivo.", "importar"),
+    ]),
+
+    // ---- Herramientas ----
     el("h3", { class: "home__sub", text: "Herramientas" }),
     el("div", { class: "modos" }, [
-      marcadas > 0
-        ? tarjeta("🚩", "Preguntas marcadas", "Cola de preguntas para revisar y corregir.", "marcadas", `${marcadas} en la cola`)
-        : null,
-      tarjeta("📂", "Importar material", "Carga preguntas/casos/definiciones desde .md.", "importar"),
-      tarjeta("📊", "Mi progreso", "Estadísticas, temas débiles y repaso.", "progreso"),
-      tarjeta("⚙️", "Ajustes", "Datos, almacenamiento y estado offline.", "ajustes"),
+      tarjeta("📊", "Mi progreso", "Estadísticas, temas débiles y sesiones recientes.", "progreso"),
+      tarjeta("⚙️", "Ajustes", "Objetivo diario, exportar / restaurar, offline.", "ajustes"),
     ]),
   ]));
+}
+
+function stat(label, valor, sub) {
+  return el("div", { class: "home__stat" }, [
+    el("div", { class: "home__stat-val", text: String(valor) }),
+    el("div", { class: "home__stat-lbl", text: label }),
+    sub ? el("div", { class: "home__stat-sub", text: sub }) : null,
+  ]);
+}
+
+function tarjeta(icono, titulo, desc, ruta, meta) {
+  return el("button", { class: "modo-card", onClick: () => navegar(ruta) }, [
+    el("div", { class: "modo-card__icono", text: icono }),
+    el("div", { class: "modo-card__cuerpo" }, [
+      el("h3", { text: titulo }),
+      el("p", { class: "muted", text: desc }),
+      meta ? el("span", { class: "modo-card__meta", text: meta }) : null,
+    ]),
+    el("span", { class: "lista__flecha", text: "›" }),
+  ]);
 }
 
 async function iniciarSesionDelDia(target) {
   const lista = (await sesionDelDia(target)).filter((q) => !requiereImagenFaltante(q));
   if (!lista.length) {
     mount(el("div", { class: "card" }, [
-      el("h2", { text: "Sesión del día" }),
-      el("p", { class: "muted", text: "No quedan preguntas disponibles hoy." }),
+      el("h2", { text: "Sesión veloz" }),
+      el("p", { class: "muted", text: "No quedan preguntas disponibles." }),
       el("button", { class: "btn btn--primary", onClick: () => navegar("") }, "Volver"),
     ]));
     return;
@@ -111,8 +140,8 @@ async function iniciarSesionDelDia(target) {
     _raw: q,
   }));
   runMcq({
-    titulo: "Sesión del día",
-    subtitulo: `${items.length} preguntas mezclando repaso + falladas + nuevas`,
+    titulo: "Sesión veloz",
+    subtitulo: `${items.length} preguntas: repaso + falladas + nuevas`,
     items,
     onAnswer: (item, correcta) => registrarRespuesta({
       store: "preguntas", item: item._raw, correcta,
@@ -120,11 +149,6 @@ async function iniciarSesionDelDia(target) {
     }),
     onFinish: (r) => registrarSesion({ modo: "diaria", ...r }),
   });
-}
-
-async function contarMarcadas() {
-  const all = await getAll("preguntas");
-  return all.filter((q) => q.marcada_revision).length;
 }
 
 function heatmap(porDia, objetivo) {
