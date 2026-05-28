@@ -1,0 +1,57 @@
+{
+  "generado": "2026-05-28T02:20:43",
+  "fuentes": {
+    "banco_recuperado_brutas": 2610,
+    "banco_actual_en_vivo": 2029,
+    "total_brutas": 4639
+  },
+  "fusion": {
+    "preguntas_unicas_final": 4017,
+    "duplicados_eliminados": 622,
+    "solo_en_banco_actual": 1692,
+    "solo_en_recuperado": 2218,
+    "en_ambos_fusionadas": 107
+  },
+  "reparaciones": {
+    "ligaduras_NUL_detectadas_en_recuperado": 1869,
+    "bleeds_reparados_recuperado": 346,
+    "bleeds_reparados_actual": 258,
+    "bleeds_reparados_total_post_dedup": 505,
+    "bleeds_baja_confianza_para_revision": 80
+  },
+  "distribucion_por_especialidad": {
+    "mixto": 836,
+    "pediatria": 434,
+    "dermato": 279,
+    "cardio": 263,
+    "infecto": 263,
+    "psiquiatria": 245,
+    "endocrino": 228,
+    "neurologia": 228,
+    "cirugia": 163,
+    "uro": 149,
+    "obstetricia": 147,
+    "gineco": 145,
+    "otorrino": 125,
+    "trauma": 114,
+    "oftalmo": 109,
+    "hemato": 98,
+    "medicina_interna": 85,
+    "salud_publica": 60,
+    "nefro": 35,
+    "ambigua": 6,
+    "geriatria": 3,
+    "urgencias": 2
+  },
+  "simulacros_preservados": {
+    "EUNACOM 2017": 180,
+    "EUNACOM 2013": 180,
+    "EUNACOM 2016": 180,
+    "EUNACOM 2018": 180,
+    "Repaso Módulo 1": 70,
+    "Repaso Módulo 3 (3)": 70,
+    "Repaso Módulo 2": 70,
+    "Repaso Módulo 3 (1)": 70,
+    "Repaso Módulo 3 (2)": 70
+  }
+}

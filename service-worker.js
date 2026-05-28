@@ -1,5 +1,5 @@
 // Service Worker: cachea toda la app para uso 100% offline.
-const CACHE = "eunacom-v2";
+const CACHE = "eunacom-v3";
 
 const ASSETS = [
   "./",

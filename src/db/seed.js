@@ -14,12 +14,15 @@ async function fetchJson(url) {
 }
 
 export async function seedIfNeeded(onProgress = () => {}) {
-  const yaSembrado = await getConfig("seed_done", false);
-  const nPreguntas = await count("preguntas");
-  if (yaSembrado && nPreguntas > 0) return { sembrado: false };
-
   onProgress("Cargando banco de preguntas…");
   const banco = await fetchJson(FUENTES.preguntas);
+  const versionBanco = (banco.meta && banco.meta.version) || "v0";
+  const versionSembrada = await getConfig("seed_banco_version", null);
+  const nPreguntas = await count("preguntas");
+  // Re-sembrar si: nunca se sembró, el store quedó vacío, o cambió la versión.
+  if (versionSembrada === versionBanco && nPreguntas > 0) {
+    return { sembrado: false };
+  }
   await bulkPut("preguntas", banco.preguntas || []);
 
   onProgress("Cargando casos clínicos…");
@@ -31,9 +34,11 @@ export async function seedIfNeeded(onProgress = () => {}) {
   await bulkPut("definiciones", defs.definiciones || []);
 
   await setConfig("seed_done", true);
+  await setConfig("seed_banco_version", versionBanco);
   await setConfig("seed_fecha", new Date().toISOString());
   return {
     sembrado: true,
+    version: versionBanco,
     preguntas: (banco.preguntas || []).length,
     casos: (casos.casos || []).length,
     definiciones: (defs.definiciones || []).length,
