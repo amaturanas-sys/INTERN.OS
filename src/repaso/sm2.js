@@ -1,8 +1,7 @@
 // Algoritmo de repaso espaciado tipo SM-2 (SuperMemo 2).
 // Capa opcional sobre los tres modos. Cada ítem se referencia con ref = "tipo:id".
 import { get, put, getAll } from "../db/db.js";
-
-const HOY = () => new Date().toISOString().slice(0, 10);
+import { hoyISO as HOY } from "../ui/dom.js";
 
 function addDays(isoDate, days) {
   const d = new Date(isoDate + "T00:00:00");

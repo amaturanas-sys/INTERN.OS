@@ -203,6 +203,9 @@ function buildCaso(fm, secciones, bodyLines, n) {
 
 // API principal: devuelve { preguntas:[], casos:[], definiciones:[], errores:[] }
 export function parseMarkdown(text) {
+  // Quita BOM UTF-8 y normaliza CRLF. Sin esto, archivos exportados de
+  // Excel/Notepad rompen el primer "---" del front-matter.
+  text = (text || "").replace(/^﻿/, "").replace(/\r\n/g, "\n");
   const items = splitItems(text);
   const out = { preguntas: [], casos: [], definiciones: [], errores: [] };
   if (items.length === 0) {

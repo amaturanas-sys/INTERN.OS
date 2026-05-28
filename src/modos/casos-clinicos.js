@@ -8,14 +8,19 @@ import { registrarRespuesta, registrarSesion } from "../db/stats.js";
 
 export async function vistaCasosLista() {
   const casos = await getAll("casos_clinicos");
-  const cards = casos.map((c) => el("div", { class: "lista__item",
-    onClick: () => navegar(`caso/${encodeURIComponent(c.id)}`) }, [
+  // <button> en vez de <div> → focuseable + Enter/Espacio + anunciado por SR.
+  const cards = casos.map((c) => el("button", {
+    class: "lista__item", type: "button",
+    "aria-label": `Abrir caso: ${c.titulo}`,
+    onClick: () => navegar(`caso/${encodeURIComponent(c.id)}`),
+  }, [
     el("div", {}, [
       el("h3", { text: c.titulo }),
-      el("p", { class: "muted", text: `${c.especialidad} · ${c.tema} · ${c.etapas.length} etapas` }),
+      el("p", { class: "muted",
+        text: `${c.especialidad} · ${c.tema} · ${(c.etapas || []).length} etapas` }),
     ]),
     c.version_actual > 1 ? badge(`editado · v${c.version_actual}`, "badge--edit") : null,
-    el("span", { class: "lista__flecha", text: "›" }),
+    el("span", { class: "lista__flecha", "aria-hidden": "true", text: "›" }),
   ]));
 
   mount(el("div", { class: "card" }, [
@@ -42,7 +47,8 @@ export async function vistaCaso({ id }) {
     return;
   }
 
-  const etapas = caso.etapas.slice().sort((a, b) => a.orden - b.orden);
+  // (a.orden ?? 0): si una etapa importada perdió `orden`, no devuelve NaN.
+  const etapas = caso.etapas.slice().sort((a, b) => (a.orden ?? 0) - (b.orden ?? 0));
   let idx = 0;
   const decisiones = [];
   const cont = el("div", { class: "card runner" });
@@ -131,9 +137,15 @@ export async function vistaCaso({ id }) {
       ]),
     );
 
-    registrarRespuesta({ store: "casos_clinicos", item: null, correcta: pct >= 60,
-      tema: caso.tema, ref: { tipo: "caso", id: caso.id } });
-    registrarSesion({ modo: "caso", id: caso.id, total: decisiones.length, aciertos, pct });
+    // Sólo contar si efectivamente hubo decisiones — un caso 100% narrativo
+    // no debería penalizar como "respuesta incorrecta" por pct=0.
+    if (decisiones.length > 0) {
+      Promise.allSettled([
+        registrarRespuesta({ store: "casos_clinicos", item: null, correcta: pct >= 60,
+          tema: caso.tema, ref: { tipo: "caso", id: caso.id } }),
+        registrarSesion({ modo: "caso", id: caso.id, total: decisiones.length, aciertos, pct }),
+      ]).then((rs) => rs.forEach((r) => r.status === "rejected" && console.error(r.reason)));
+    }
   }
 
   mount(cont);

@@ -1,4 +1,5 @@
 {
+  "id": "/intern.os/",
   "name": "InternOS — Estudio EUNACOM offline",
   "short_name": "InternOS",
   "description": "InternOS: plataforma de estudio EUNACOM 100% offline (quiz por temas, casos clínicos, definiciones y banco editable).",
@@ -8,12 +9,20 @@
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#0b1220",
+  "background_color": "#f5f8fc",
   "theme_color": "#1f4e79",
   "categories": ["education", "medical"],
+  "prefer_related_applications": false,
   "icons": [
     { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
     { "src": "assets/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Sesión veloz",       "short_name": "Veloz",   "url": "./index.html#/",            "description": "20 preguntas rápidas (repaso + falladas + nuevas)" },
+    { "name": "Quiz por temas",     "short_name": "Quiz",    "url": "./index.html#/quiz",        "description": "Filtra por especialidad y dificultad" },
+    { "name": "Casos clínicos",     "short_name": "Casos",   "url": "./index.html#/casos",       "description": "Casos lineales paso a paso" },
+    { "name": "Definiciones",       "short_name": "Definir", "url": "./index.html#/definiciones", "description": "Fármacos, conceptos y guías" },
+    { "name": "Marcadas",           "short_name": "🚩",      "url": "./index.html#/marcadas",    "description": "Cola personal para revisar" }
   ]
 }

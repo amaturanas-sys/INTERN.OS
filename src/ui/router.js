@@ -25,8 +25,12 @@ function match(segmentos) {
     for (let i = 0; i < r.partes.length; i++) {
       const p = r.partes[i];
       if (p === "*") break;
-      if (p.startsWith(":")) params[p.slice(1)] = decodeURIComponent(segmentos[i] || "");
-      else if (p !== segmentos[i]) { ok = false; break; }
+      if (p.startsWith(":")) {
+        // decodeURIComponent lanza URIError ante secuencias inválidas
+        // (%E0%A4%A). Tratamos URLs malformadas como crudas para evitar crash.
+        try { params[p.slice(1)] = decodeURIComponent(segmentos[i] || ""); }
+        catch (_) { params[p.slice(1)] = segmentos[i] || ""; }
+      } else if (p !== segmentos[i]) { ok = false; break; }
     }
     if (ok) return { handler: r.handler, params };
   }
@@ -49,7 +53,16 @@ async function render() {
       catch (e) {
         console.error("[router]", e);
         const v = document.getElementById("vista");
-        if (v) v.innerHTML = `<div class="card"><h2>Error al cargar la vista</h2><p>${e.message}</p><pre style="overflow:auto;max-width:100%">${(e.stack||"").split("\n").slice(0,5).join("\n")}</pre></div>`;
+        if (v) {
+          // Mensaje amigable + detalles colapsables (no stack en crudo).
+          const detalle = ((e && e.message) || "Error desconocido").toString().slice(0, 240);
+          v.innerHTML = `<div class="card"><h2>Algo falló al cargar la vista</h2>` +
+            `<p class="muted">${detalle}</p>` +
+            `<div class="runner__acciones">` +
+              `<button class="btn btn--primary" onclick="location.hash='#/'">Volver al inicio</button>` +
+              `<button class="btn btn--ghost" onclick="location.reload()">Recargar</button>` +
+            `</div></div>`;
+        }
       }
     } else {
       // Ninguna ruta matcheó: redirige a inicio sin recursión.

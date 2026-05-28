@@ -1,5 +1,18 @@
 // Helpers mínimos de DOM y UI (sin framework).
 
+// Atajo común: fecha YYYY-MM-DD local (se usa en stats, editor, home, sm2).
+export const hoyISO = () => new Date().toISOString().slice(0, 10);
+
+// Shuffle Fisher-Yates (usado por quiz-temas y definiciones).
+export function mezclar(a) {
+  const arr = a.slice();
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
 export function el(tag, props = {}, children = []) {
   const node = document.createElement(tag);
   for (const [k, v] of Object.entries(props)) {
@@ -29,6 +42,11 @@ export function clear(node) {
 export function mount(view) {
   const root = document.getElementById("vista");
   clear(root);
+  // Emite una señal para que los runners (mcq, casos) limpien listeners
+  // globales (keydown, etc.) al re-entrar al mismo hash o cambiar de vista.
+  // Sin esto, navegar a #/quiz dos veces seguidas dejaba el listener viejo
+  // activo y un tap registraba como dos.
+  document.dispatchEvent(new CustomEvent("vista:cambia"));
   root.appendChild(view);
   root.scrollTop = 0;
   window.scrollTo(0, 0);
@@ -38,7 +56,8 @@ let toastTimer = null;
 export function toast(mensaje, tipo = "info") {
   let t = document.getElementById("toast");
   if (!t) {
-    t = el("div", { id: "toast" });
+    // role + aria-live para que lectores de pantalla anuncien el toast.
+    t = el("div", { id: "toast", role: "status", "aria-live": "polite", "aria-atomic": "true" });
     document.body.appendChild(t);
   }
   t.className = `toast toast--${tipo} toast--visible`;
@@ -74,9 +93,4 @@ export function modal(titulo, contenido, acciones = []) {
 
 export function badge(texto, clase = "") {
   return el("span", { class: `badge ${clase}` }, texto);
-}
-
-export function escapeHtml(s) {
-  return String(s == null ? "" : s)
-    .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }

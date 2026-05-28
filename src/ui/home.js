@@ -1,5 +1,5 @@
 // Landing: identidad InternOS + estadísticas, sesión veloz, modos, curación, herramientas.
-import { el, mount } from "./dom.js";
+import { el, mount, hoyISO } from "./dom.js";
 import { navegar } from "./router.js";
 import { count, getConfig, getAll } from "../db/db.js";
 import { estadisticasRepaso, sesionDelDia } from "../repaso/sm2.js";
@@ -7,8 +7,6 @@ import { leerProgreso, registrarRespuesta, registrarSesion } from "../db/stats.j
 import { runMcq } from "./mcq.js";
 import { requiereImagenFaltante } from "./imagen.js";
 import { leerVersion, etiquetaCorta } from "../version.js";
-
-const hoy = () => new Date().toISOString().slice(0, 10);
 
 export async function vistaHome() {
   const [nPreg, nCasos, nDefs, rep, g, objetivo, ver, todasPreg] = await Promise.all([
@@ -20,7 +18,7 @@ export async function vistaHome() {
   const editadas = todasPreg.filter((q) => (q.version_actual || 1) > 1).length;
 
   const pct = g.total_respondidas ? Math.round((g.total_correctas / g.total_respondidas) * 100) : 0;
-  const hoyKey = hoy();
+  const hoyKey = hoyISO();
   const respondidasHoy = (g.por_dia && g.por_dia[hoyKey]) ? g.por_dia[hoyKey].respondidas : 0;
   const objetivoPct = Math.min(100, Math.round((respondidasHoy / objetivo) * 100));
 

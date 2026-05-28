@@ -1,10 +1,10 @@
 // Capa de acceso a IndexedDB. Wrapper de promesas propio (sin dependencias)
 // para que la app funcione 100% offline sin librerías externas.
 
-export const DB_NAME = "eunacom_db";
-export const DB_VERSION = 1;
+const DB_NAME = "eunacom_db";
+const DB_VERSION = 1;
 
-export const STORES = {
+const STORES = {
   preguntas: { keyPath: "id_unico" },
   casos_clinicos: { keyPath: "id" },
   definiciones: { keyPath: "id" },
@@ -15,8 +15,12 @@ export const STORES = {
 
 let _dbPromise = null;
 
-export function openDB() {
+function openDB() {
   if (_dbPromise) return _dbPromise;
+  if (typeof indexedDB === "undefined") {
+    return Promise.reject(new Error(
+      "IndexedDB no disponible. Revisa que el navegador no esté en modo privado."));
+  }
   _dbPromise = new Promise((resolve, reject) => {
     const req = indexedDB.open(DB_NAME, DB_VERSION);
     req.onupgradeneeded = (e) => {

@@ -3,6 +3,9 @@
 // para que cada release invalide automáticamente la caché previa.
 const CACHE = "eunacom-__GIT_SHA__";
 
+// Precache CORE: shell de la app + sidecar de metadata.
+// El banco completo (~8 MB) se cachea bajo demanda en el primer fetch — así
+// el `install` del SW es rápido y robusto en conexiones lentas/iOS.
 const ASSETS = [
   "./",
   "./index.html",
@@ -13,7 +16,7 @@ const ASSETS = [
   "./assets/icon-maskable-512.png",
   "./assets/favicon-64.png",
   "./assets/icon.svg",
-  "./data/banco_inicial.json",
+  "./data/banco_meta.json",
   "./data/casos_iniciales.json",
   "./data/definiciones_iniciales.json",
   "./data/version.json",
@@ -40,9 +43,15 @@ const ASSETS = [
   "./src/version.js",
 ];
 
+// Tolerante a fallos: si un asset individual no se puede cachear, el SW
+// igual se instala. Antes, `addAll` rechazaba atómicamente al primer 404.
 self.addEventListener("install", (e) => {
   e.waitUntil(
-    caches.open(CACHE).then((c) => c.addAll(ASSETS)).then(() => self.skipWaiting())
+    caches.open(CACHE).then((c) =>
+      Promise.all(ASSETS.map((a) =>
+        c.add(a).catch((err) => console.warn("[sw] skip asset", a, err.message))
+      ))
+    ).then(() => self.skipWaiting())
   );
 });
 

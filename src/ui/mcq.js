@@ -1,5 +1,9 @@
 // Runner genérico de sesiones MCQ. Lo usan el Modo 1 (quiz) y el Modo 3 (definiciones).
 import { el, clear, mount, badge, toast } from "./dom.js";
+
+// Reporta fallos de persistencia al usuario; antes iban silenciados a console.
+const reportar = (etiqueta) => (e) =>
+  toast(`${etiqueta}: ${(e && e.message) || "error"}`, "error");
 import { vistaImagen } from "./imagen.js";
 import { navegar } from "./router.js";
 
@@ -140,7 +144,7 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
       onSiguiente = () => sigBtn.click();
       feedback.appendChild(sigBtn);
 
-      if (onAnswer) Promise.resolve(onAnswer(item, correcta)).catch(console.error);
+      if (onAnswer) Promise.resolve(onAnswer(item, correcta)).catch(reportar("No se guardó la respuesta"));
     }
 
     const acciones = el("div", { class: "runner__acciones" }, [
@@ -177,15 +181,16 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
       onSiguiente();
     }
   }
-  window.addEventListener("keydown", manejarTecla);
-  // Si el usuario navega sin pasar por "Salir" / "Ver resultados"
-  // (ej. usando el navbar inferior), limpiamos el listener global.
+  // AbortController + evento `vista:cambia` (emitido por mount()) cubren
+  // ambos casos de limpieza: cambio de hash y re-mount al mismo hash.
+  const limpieza = new AbortController();
+  window.addEventListener("keydown", manejarTecla, { signal: limpieza.signal });
   function limpiezaPorRuta() {
-    window.removeEventListener("keydown", manejarTecla);
-    window.removeEventListener("hashchange", limpiezaPorRuta);
     terminada = true;
+    limpieza.abort();
   }
-  window.addEventListener("hashchange", limpiezaPorRuta);
+  window.addEventListener("hashchange", limpiezaPorRuta, { signal: limpieza.signal });
+  document.addEventListener("vista:cambia", limpiezaPorRuta, { signal: limpieza.signal });
 
   function siguienteBtn() {
     const ultima = i === items.length - 1;
@@ -196,7 +201,7 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
 
   function salir() {
     if (respuestas.length === 0) {
-      window.removeEventListener("keydown", manejarTecla);
+      limpieza.abort();
       navegar(""); return;
     }
     finalizar();
@@ -205,7 +210,7 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
   function finalizar() {
     if (terminada) return;
     terminada = true;
-    window.removeEventListener("keydown", manejarTecla);
+    limpieza.abort();
     const total = respuestas.length;
     const pct = total ? Math.round((aciertos / total) * 100) : 0;
     clear(cont);
@@ -220,7 +225,7 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
         el("button", { class: "btn btn--ghost", onClick: () => history.back() }, "Otra sesión"),
       ]),
     );
-    if (onFinish) Promise.resolve(onFinish({ total, aciertos, pct, respuestas })).catch(console.error);
+    if (onFinish) Promise.resolve(onFinish({ total, aciertos, pct, respuestas })).catch(reportar("No se guardó la sesión"));
   }
 
   mount(cont);
