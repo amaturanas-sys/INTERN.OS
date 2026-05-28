@@ -99,6 +99,16 @@ textarea { resize: vertical; }
 .runner__progress { text-align: right; font-size: 13px; display: flex; flex-direction: column; gap: 2px; }
 .progress { height: 6px; background: var(--bg-2); border-radius: 999px; overflow: hidden; margin: 12px 0 16px; }
 .progress__fill { height: 100%; background: var(--teal); transition: width .3s; }
+.progress__fill--ok { background: var(--ok); }
+.sesion-dia { padding: 16px; }
+.sesion-dia__cab { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; }
+.sesion-dia__cab h2 { margin: 0; }
+.heatmap { display: grid; grid-template-columns: repeat(30, 1fr); gap: 3px; margin-top: 14px; }
+.heatmap__c { display: block; aspect-ratio: 1; border-radius: 3px; background: var(--bg-2); }
+.heatmap__c--1 { background: rgba(47,128,194,.25); }
+.heatmap__c--2 { background: rgba(47,128,194,.5); }
+.heatmap__c--3 { background: rgba(47,128,194,.75); }
+.heatmap__c--4 { background: var(--teal); }
 .enunciado__texto { font-size: 17px; line-height: 1.5; white-space: pre-wrap; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
 
@@ -250,3 +260,18 @@ textarea { resize: vertical; }
 .modal__foot { padding: 12px 16px; border-top: 1px solid var(--line); display: flex; justify-content: flex-end; gap: 10px; }
 
 @media (min-width: 720px) { .modos { grid-template-columns: 1fr 1fr; } }
+
+/* Preguntas marcadas */
+.marcadas { list-style: none; padding: 0; margin: 12px 0 0; display: grid; gap: 10px; }
+.marcadas__item { display: flex; gap: 12px; padding: 12px; border: 1px solid var(--line); border-radius: 12px; }
+.marcadas__cuerpo { flex: 1; min-width: 0; }
+.marcadas__enunciado { margin: 6px 0 0; font-size: 14px; line-height: 1.4;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.marcadas__acc { display: flex; flex-direction: column; gap: 6px; }
+
+/* Bibliografía sugerida en editor */
+.biblio-sug { padding: 10px; border: 1px dashed var(--line); border-radius: 10px; margin: 8px 0 12px; background: rgba(31,78,121,.03); }
+.biblio-sug__lista { list-style: none; padding: 0; margin: 6px 0 0; display: grid; gap: 6px; }
+.biblio-sug__item { display: flex; gap: 10px; align-items: center; justify-content: space-between; }
+.biblio-sug__link { color: var(--teal-d); text-decoration: none; font-size: 13px; }
+.biblio-sug__link:hover { text-decoration: underline; }

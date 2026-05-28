@@ -75,6 +75,7 @@ export async function abrirEditor(tipo, id) {
   const nota = el("textarea", { rows: 2, placeholder: "Motivo del cambio (opcional)" });
   const traza = el("div", { class: "form trazabilidad" }, [
     el("h3", { text: "Trazabilidad del cambio" }),
+    bibliografiaSugeridaUI(item, fuente),
     el("label", { class: "form__row" }, [el("span", { class: "form__label", text: "Fuente *" }), fuente]),
     el("label", { class: "form__row" }, [el("span", { class: "form__label", text: "Nota" }), nota]),
   ]);
@@ -220,6 +221,33 @@ function bloqueImagen(estado) {
   );
   repintarPrevia();
   return wrap;
+}
+
+function bibliografiaSugeridaUI(item, fuenteInput) {
+  const refs = Array.isArray(item.bibliografia_sugerida) ? item.bibliografia_sugerida : [];
+  if (!refs.length) return null;
+  return el("div", { class: "biblio-sug" }, [
+    el("p", { class: "form__label", text: "Bibliografía sugerida (Dr. Guevara)" }),
+    el("ul", { class: "biblio-sug__lista" }, refs.slice(0, 3).map((r) =>
+      el("li", { class: "biblio-sug__item" }, [
+        r.url
+          ? el("a", { href: r.url, target: "_blank", rel: "noopener noreferrer",
+              class: "biblio-sug__link", text: r.titulo || r.archivo || r.url })
+          : el("span", { text: r.titulo || r.archivo || "—" }),
+        el("button", {
+          class: "btn btn--ghost btn--sm",
+          onClick: () => {
+            const txt = r.titulo
+              ? `Clase Dr. Guevara — ${r.titulo}${r.url ? " (" + r.url + ")" : ""}`
+              : (r.url || r.archivo || "");
+            fuenteInput.value = txt;
+            fuenteInput.dispatchEvent(new Event("input"));
+            fuenteInput.focus();
+          },
+        }, "Usar esta fuente"),
+      ])
+    )),
+  ]);
 }
 
 function bloqueRequiere(estado, tipo) {

@@ -10,8 +10,10 @@ async function progresoGlobal() {
     g = {
       id: "global", total_respondidas: 0, total_correctas: 0,
       racha_dias: 0, ultimo_dia: null, por_tema: {}, sesiones: [],
+      por_dia: {}, // "YYYY-MM-DD" -> { respondidas, correctas }
     };
   }
+  if (!g.por_dia) g.por_dia = {};
   return g;
 }
 
@@ -33,12 +35,19 @@ export async function registrarRespuesta({ store, item, correcta, tema, ref }) {
   g.por_tema[t] = g.por_tema[t] || { respondidas: 0, correctas: 0 };
   g.por_tema[t].respondidas += 1;
   if (correcta) g.por_tema[t].correctas += 1;
-  // racha
+  // racha + conteo del día (con poda de >60 días)
   const d = hoy();
   if (g.ultimo_dia !== d) {
     const ayer = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
     g.racha_dias = g.ultimo_dia === ayer ? g.racha_dias + 1 : 1;
     g.ultimo_dia = d;
+  }
+  g.por_dia[d] = g.por_dia[d] || { respondidas: 0, correctas: 0 };
+  g.por_dia[d].respondidas += 1;
+  if (correcta) g.por_dia[d].correctas += 1;
+  const corte = new Date(Date.now() - 60 * 86400000).toISOString().slice(0, 10);
+  for (const k of Object.keys(g.por_dia)) {
+    if (k < corte) delete g.por_dia[k];
   }
   await put("progreso_usuario", g);
 }
