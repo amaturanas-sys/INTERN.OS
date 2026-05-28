@@ -62,9 +62,29 @@ document.querySelectorAll("[data-nav]").forEach((b) => {
 });
 
 // Service worker (offline).
+// Cuando aparece una versión nueva del SW (cache name distinto por SHA),
+// fuerza el reload del cliente para que use los nuevos JS/CSS.
 if ("serviceWorker" in navigator) {
-  window.addEventListener("load", () => {
-    navigator.serviceWorker.register("./service-worker.js").catch((e) => console.warn("SW:", e));
+  let recargando = false;
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (recargando) return;
+    recargando = true;
+    location.reload();
+  });
+  window.addEventListener("load", async () => {
+    try {
+      const reg = await navigator.serviceWorker.register("./service-worker.js");
+      reg.addEventListener("updatefound", () => {
+        const sw = reg.installing;
+        if (!sw) return;
+        sw.addEventListener("statechange", () => {
+          if (sw.state === "installed" && navigator.serviceWorker.controller) {
+            // Hay un SW nuevo listo; el controllerchange disparará el reload.
+            sw.postMessage({ type: "SKIP_WAITING" });
+          }
+        });
+      });
+    } catch (e) { console.warn("SW:", e); }
   });
 }
 

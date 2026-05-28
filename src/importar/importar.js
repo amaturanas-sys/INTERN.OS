@@ -82,9 +82,9 @@ export async function vistaImportar() {
   }
 
   mount(el("div", { class: "card" }, [
-    el("h2", { text: "Importar material (.md)" }),
-    el("p", { class: "muted", text: "Selecciona uno o varios archivos .md con el formato de front-matter. Se previsualiza antes de incorporar." }),
-    el("label", { class: "form__row" }, [el("span", { class: "form__label", text: "Archivos .md" }), file]),
+    el("h2", { text: "Importar material (.md / .txt)" }),
+    el("p", { class: "muted", text: "Selecciona uno o varios archivos .md o .txt con el formato de front-matter. Se previsualiza antes de incorporar." }),
+    el("label", { class: "form__row" }, [el("span", { class: "form__label", text: "Archivos .md / .txt" }), file]),
     previa,
     el("details", { class: "ayuda" }, [
       el("summary", { text: "Ver formato esperado (convención .md)" }),
