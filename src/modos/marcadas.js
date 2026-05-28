@@ -56,7 +56,9 @@ export async function vistaMarcadas() {
 }
 
 async function practicar(marcadas) {
-  const lista = marcadas.filter((q) => q.utilizable !== false && !requiereImagenFaltante(q));
+  const lista = marcadas.filter((q) =>
+    q.utilizable !== false && q.inactivo !== true && !requiereImagenFaltante(q) &&
+    Array.isArray(q.opciones) && q.opciones.some((o) => o.correcta));
   if (!lista.length) { toast("No hay marcadas utilizables.", "error"); return; }
   const items = lista.map((q) => ({
     id: q.id_unico,

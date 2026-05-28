@@ -58,10 +58,34 @@ self.addEventListener("activate", (e) => {
   );
 });
 
-// Cache-first: todo está precacheado; si falta, va a la red y guarda copia.
+// Estrategia:
+//   - data/*.json → network-first (con fallback a caché). Permite re-seed de
+//     contenido actualizado aún si el CACHE name no rotó (dev local, edición de
+//     contenido vía workflow distinto, etc.).
+//   - resto → cache-first (assets estáticos versionados por SHA).
+function esDataJson(url) {
+  try {
+    const u = new URL(url, self.location.origin);
+    return u.pathname.endsWith(".json") && u.pathname.includes("/data/");
+  } catch (_) { return false; }
+}
+
 self.addEventListener("fetch", (e) => {
   const req = e.request;
   if (req.method !== "GET") return;
+  if (esDataJson(req.url)) {
+    e.respondWith(
+      fetch(req).then((res) => {
+        if (res && res.status === 200 && req.url.startsWith(self.location.origin)) {
+          const copia = res.clone();
+          caches.open(CACHE).then((c) => c.put(req, copia));
+        }
+        return res;
+      }).catch(() => caches.match(req))
+    );
+    return;
+  }
+  // Cache-first para el resto (assets versionados por SHA).
   e.respondWith(
     caches.match(req).then((hit) => {
       if (hit) return hit;

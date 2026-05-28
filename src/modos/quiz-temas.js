@@ -34,7 +34,7 @@ export async function vistaQuizFiltros() {
   const modoRepaso = el("input", { type: "checkbox" });
 
   const requierenImg = todas.filter(requiereImagenFaltante).length;
-  const disponibles = todas.filter((q) => q.utilizable !== false && !requiereImagenFaltante(q)).length;
+  const disponibles = todas.filter((q) => q.utilizable !== false && q.inactivo !== true && !requiereImagenFaltante(q) && Array.isArray(q.opciones) && q.opciones.some((o) => o.correcta)).length;
 
   const view = el("div", { class: "card" }, [
     el("h2", { text: "Modo 1 · Quiz por temas" }),
@@ -56,7 +56,7 @@ export async function vistaQuizFiltros() {
   function valor(nodo) { return nodo.querySelector("select").value; }
 
   async function iniciar() {
-    let lista = todas.filter((q) => q.utilizable !== false && !requiereImagenFaltante(q));
+    let lista = todas.filter((q) => q.utilizable !== false && q.inactivo !== true && !requiereImagenFaltante(q) && Array.isArray(q.opciones) && q.opciones.some((o) => o.correcta));
     const esp = valor(fEsp), tema = valor(fTema), sist = valor(fSist), dif = valor(fDif), frec = valor(fFrec);
     if (esp) lista = lista.filter((q) => q.especialidad_principal === esp);
     if (tema) lista = lista.filter((q) => q.tema_validado === tema);
