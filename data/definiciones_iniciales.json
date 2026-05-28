@@ -1,7 +1,8 @@
 {
   "meta": {
-    "descripcion": "Definiciones en formato MCQ (Modo 3). Muestra inicial según el esquema 5.3.",
-    "fecha_generacion": "2026-05-26"
+    "version": "v1",
+    "descripcion": "Definiciones de fármacos, conceptos y herramientas diagnósticas más preguntadas.",
+    "total": 30
   },
   "definiciones": [
     {
@@ -10,84 +11,1379 @@
       "concepto": "Furosemida",
       "pregunta": "¿Cuál es el mecanismo de acción de la furosemida?",
       "opciones": [
-        { "letra": "a", "texto": "Inhibe el cotransportador Na-K-2Cl en la rama ascendente del asa de Henle", "correcta": true },
-        { "letra": "b", "texto": "Inhibe el cotransportador Na-Cl en el túbulo contorneado distal", "correcta": false },
-        { "letra": "c", "texto": "Antagoniza el receptor de aldosterona en el túbulo colector", "correcta": false },
-        { "letra": "d", "texto": "Inhibe la anhidrasa carbónica en el túbulo proximal", "correcta": false }
+        {
+          "letra": "a",
+          "texto": "Inhibe el cotransportador Na-K-2Cl en la rama ascendente del asa de Henle",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Inhibe el cotransportador Na-Cl en el túbulo contorneado distal",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Antagoniza el receptor de aldosterona en el túbulo colector",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Inhibe la anhidrasa carbónica en el túbulo proximal",
+          "correcta": false
+        }
       ],
-      "explicacion": "La furosemida es un diurético de asa que inhibe el cotransportador Na-K-2Cl en la rama ascendente gruesa del asa de Henle, produciendo una diuresis potente. Efectos adversos: hipokalemia, hipovolemia, ototoxicidad.",
+      "explicacion": "Furosemida: diurético de asa, inhibe Na-K-2Cl en rama ascendente gruesa del asa de Henle. Indicado en IC congestiva, edema pulmonar, hipertensión refractaria. Efectos adversos: hipokalemia, hipovolemia, ototoxicidad, hiperuricemia.",
       "especialidad": "cardio",
-      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
       "version_actual": 1,
-      "historial_ediciones": []
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
     },
     {
       "id": "DEF-FARM-002",
       "tipo": "farmaco",
       "concepto": "Espironolactona",
-      "pregunta": "¿Cuál es el mecanismo de acción de la espironolactona?",
+      "pregunta": "¿Cuál es la indicación principal de la espironolactona en IC con FE reducida?",
       "opciones": [
-        { "letra": "a", "texto": "Antagonista del receptor de aldosterona (ahorrador de potasio)", "correcta": true },
-        { "letra": "b", "texto": "Bloqueador de canales de calcio", "correcta": false },
-        { "letra": "c", "texto": "Inhibidor de la ECA", "correcta": false },
-        { "letra": "d", "texto": "Betabloqueador no selectivo", "correcta": false }
+        {
+          "letra": "a",
+          "texto": "Reducción de mortalidad en IC NYHA II-IV con FE <35%",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Solo control de edema refractario",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Tratamiento del hiperaldosteronismo aislado",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Prevención de litiasis renal",
+          "correcta": false
+        }
       ],
-      "explicacion": "La espironolactona antagoniza el receptor mineralocorticoide (aldosterona), es ahorradora de potasio y reduce mortalidad en IC con FE reducida. Riesgo: hiperkalemia y ginecomastia.",
+      "explicacion": "Espironolactona: antagonista del receptor mineralocorticoide. Reduce mortalidad en IC-FEr (RALES). Monitoreo de K y creatinina. Efecto adverso: ginecomastia (menor con eplerenona).",
       "especialidad": "cardio",
-      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
       "version_actual": 1,
-      "historial_ediciones": []
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-FARM-003",
+      "tipo": "farmaco",
+      "concepto": "Enalapril (IECA)",
+      "pregunta": "¿Cuál es el efecto adverso más característico de los IECA?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Tos seca persistente por acumulación de bradiquinina",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Hipertensión rebote",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Bradicardia severa",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Hepatitis tóxica",
+          "correcta": false
+        }
+      ],
+      "explicacion": "IECA: inhiben la ECA, reducen angiotensina II. Indicación: HTA, IC, nefroprotección en DM. Efectos adversos: tos seca (10-20% por bradiquinina), angioedema, hiperkalemia, IRA en estenosis bilateral. Contraindicado en embarazo.",
+      "especialidad": "cardio",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-FARM-004",
+      "tipo": "farmaco",
+      "concepto": "Metformina",
+      "pregunta": "¿Cuál es la primera línea de tratamiento farmacológico en DM2?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Metformina, salvo contraindicación",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Insulina basal de entrada",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Sulfonilurea desde el inicio",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "iSGLT2 monoterapia",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Metformina: biguanida, reduce gluconeogénesis hepática y mejora sensibilidad a la insulina. Primera línea en DM2. Contraindicada en TFG <30. Efecto adverso: intolerancia GI, acidosis láctica (rara). Suspender 48 h antes de contraste yodado.",
+      "especialidad": "endocrino",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-FARM-005",
+      "tipo": "farmaco",
+      "concepto": "Salbutamol",
+      "pregunta": "¿Cuál es el mecanismo del salbutamol?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Agonista β₂-adrenérgico → broncodilatación",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Antagonista muscarínico",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Corticoide inhalado",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Antileucotrieno",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Salbutamol: agonista β₂ de corta acción (SABA). Broncodilatación rápida. Indicación: crisis asmática, broncoespasmo. Efectos adversos: tremor, taquicardia, hipokalemia con dosis altas.",
+      "especialidad": "medicina_interna",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-FARM-006",
+      "tipo": "farmaco",
+      "concepto": "AAS (ácido acetilsalicílico)",
+      "pregunta": "¿Cuál es la dosis de AAS en el manejo agudo del IAM?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "300 mg masticable de carga",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "100 mg vía oral",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "500 mg vía intramuscular",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Solo si hay confirmación enzimática",
+          "correcta": false
+        }
+      ],
+      "explicacion": "AAS en SCA: 162-325 mg masticable lo antes posible (irreversible inhibición de COX-1 y producción de tromboxano A2). Mantención 75-100 mg/día indefinido tras IAM.",
+      "especialidad": "cardio",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-FARM-007",
+      "tipo": "farmaco",
+      "concepto": "Heparina de bajo peso molecular",
+      "pregunta": "¿Cuál es el monitoreo recomendado en una paciente embarazada con HBPM?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Anti-factor Xa",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "TTPa",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "INR",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "No requiere monitoreo nunca",
+          "correcta": false
+        }
+      ],
+      "explicacion": "HBPM (enoxaparina, dalteparina): inhibe principalmente factor Xa. No prolonga TTPa de forma confiable. En embarazo, obesidad mórbida o IR se usa anti-Xa para titular dosis. Antídoto parcial: protamina.",
+      "especialidad": "medicina_interna",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-FARM-008",
+      "tipo": "farmaco",
+      "concepto": "Ceftriaxona",
+      "pregunta": "¿Cuál es la cobertura empírica de ceftriaxona en meningitis bacteriana del adulto?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Neisseria meningitidis, S. pneumoniae y H. influenzae",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Solo gramnegativos entéricos",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Solo S. aureus meticilino-resistente",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Anaerobios exclusivamente",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Ceftriaxona: cefalosporina de 3ª generación. Cobertura amplia para gramnegativos y la mayoría de gérmenes meníngeos típicos. En adulto se asocia vancomicina por resistencia del neumococo. En neonatos NO se usa por desplazamiento de bilirrubina.",
+      "especialidad": "infecto",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-FARM-009",
+      "tipo": "farmaco",
+      "concepto": "Morfina",
+      "pregunta": "¿Cuál es el efecto adverso más relevante a vigilar en una dosis aguda de morfina EV?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Depresión respiratoria",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Hipertensión severa",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Crisis convulsiva",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Hipertermia maligna",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Morfina: agonista μ. Analgesia potente. Riesgos: depresión respiratoria, hipotensión, prurito, constipación, retención urinaria. Antídoto: naloxona (vida media corta, dosis repetidas si es necesario).",
+      "especialidad": "urgencias",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-FARM-010",
+      "tipo": "farmaco",
+      "concepto": "Sulfato de magnesio",
+      "pregunta": "¿Cuál es la indicación del sulfato de magnesio en obstetricia?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Profilaxis y manejo de eclampsia en preeclampsia severa",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Inducción del parto",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Tratamiento de la diabetes gestacional",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Profilaxis de hemorragia postparto",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Sulfato de magnesio: anticonvulsivante de elección en eclampsia y profilaxis en preeclampsia severa. Dosis: 4-6 g EV en 20 min + 1-2 g/h. Vigilar reflejos osteotendinosos, FR y diuresis. Antídoto: gluconato de calcio.",
+      "especialidad": "obstetricia",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
     },
     {
       "id": "DEF-CONC-001",
       "tipo": "concepto",
       "concepto": "Pulso paradójico",
-      "pregunta": "¿Qué define al pulso paradójico?",
+      "pregunta": "¿Cuál es la definición clásica de pulso paradójico?",
       "opciones": [
-        { "letra": "a", "texto": "Caída de la presión arterial sistólica >10 mmHg durante la inspiración", "correcta": true },
-        { "letra": "b", "texto": "Aumento de la PA sistólica durante la inspiración", "correcta": false },
-        { "letra": "c", "texto": "Ausencia total de pulso radial en inspiración", "correcta": false },
-        { "letra": "d", "texto": "Pulso irregularmente irregular", "correcta": false }
+        {
+          "letra": "a",
+          "texto": "Disminución >10 mmHg de la PAS en inspiración",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Pulso irregular sin onda P",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Pulso fuerte en parálisis cardíaca",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Equivalente al signo de Beck",
+          "correcta": false
+        }
       ],
-      "explicacion": "El pulso paradójico es una caída exagerada (>10 mmHg) de la PA sistólica durante la inspiración. Es característico del taponamiento cardíaco, también presente en asma grave y pericarditis constrictiva.",
+      "explicacion": "Pulso paradójico: caída inspiratoria de la PAS >10 mmHg. Clásico en taponamiento cardíaco; también en asma severa, EPOC exacerbado, pericarditis constrictiva. Refleja interacción ventricular y disminución del volumen sistólico izquierdo en inspiración.",
       "especialidad": "cardio",
-      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
       "version_actual": 1,
-      "historial_ediciones": []
-    },
-    {
-      "id": "DEF-HERR-001",
-      "tipo": "herramienta",
-      "concepto": "Péptido natriurético (BNP/NT-proBNP)",
-      "pregunta": "¿Cuál es la principal utilidad clínica del BNP / NT-proBNP?",
-      "opciones": [
-        { "letra": "a", "texto": "Apoyar el diagnóstico de insuficiencia cardíaca, con alto valor predictivo negativo si está bajo", "correcta": true },
-        { "letra": "b", "texto": "Confirmar infarto agudo al miocardio", "correcta": false },
-        { "letra": "c", "texto": "Diagnosticar tromboembolismo pulmonar", "correcta": false },
-        { "letra": "d", "texto": "Medir la función renal", "correcta": false }
-      ],
-      "explicacion": "El BNP/NT-proBNP se eleva por estiramiento miocárdico. Su mayor utilidad es el alto valor predictivo negativo: un valor bajo hace muy improbable la IC en un paciente con disnea. No reemplaza al ecocardiograma.",
-      "especialidad": "cardio",
-      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
-      "version_actual": 1,
-      "historial_ediciones": []
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
     },
     {
       "id": "DEF-CONC-002",
       "tipo": "concepto",
       "concepto": "Clasificación de Killip",
-      "pregunta": "¿Qué evalúa la clasificación de Killip en el infarto agudo al miocardio?",
+      "pregunta": "¿Para qué se utiliza la clasificación de Killip-Kimball?",
       "opciones": [
-        { "letra": "a", "texto": "El grado de insuficiencia cardíaca/congestión y su relación con la mortalidad", "correcta": true },
-        { "letra": "b", "texto": "El riesgo de sangrado por anticoagulación", "correcta": false },
-        { "letra": "c", "texto": "El territorio coronario afectado en el ECG", "correcta": false },
-        { "letra": "d", "texto": "La probabilidad de TEP", "correcta": false }
+        {
+          "letra": "a",
+          "texto": "Estratificar pronóstico del IAM según hallazgos de IC",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Clasificar gravedad de FA",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Evaluar profundidad de la trombosis",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Clasificar hipertensión pulmonar",
+          "correcta": false
+        }
       ],
-      "explicacion": "La clasificación de Killip estratifica al paciente con IAM según signos de insuficiencia cardíaca (I: sin congestión; II: crépitos/3R; III: edema pulmonar; IV: shock cardiogénico), con mortalidad creciente.",
+      "explicacion": "Killip-Kimball (1967): estratificación pronóstica del IAM. I sin signos de IC, II crépitos basales y/o R3, III edema pulmonar agudo, IV shock cardiogénico. A mayor clase, mayor mortalidad.",
       "especialidad": "cardio",
-      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
       "version_actual": 1,
-      "historial_ediciones": []
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-CONC-003",
+      "tipo": "concepto",
+      "concepto": "Triada de Beck",
+      "pregunta": "¿Qué incluye la triada de Beck (taponamiento cardíaco)?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Hipotensión, ingurgitación yugular, ruidos cardíacos apagados",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Disnea, dolor torácico, ortopnea",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Cianosis, taquicardia, sudoración",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Edema, oliguria, hipertensión",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Triada de Beck: tres signos clásicos del taponamiento cardíaco — hipotensión, ingurgitación yugular y ruidos cardíacos apagados. Diagnóstico clínico apoyado por ecocardiograma. Tratamiento: pericardiocentesis.",
+      "especialidad": "cardio",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-CONC-004",
+      "tipo": "concepto",
+      "concepto": "Sepsis (Sepsis-3)",
+      "pregunta": "Según la definición Sepsis-3, ¿qué define a la sepsis?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Disfunción orgánica potencialmente mortal por respuesta desregulada a infección (SOFA ≥2)",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Solo presencia de hemocultivos positivos",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "SIRS con foco infeccioso conocido",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Fiebre >38°C con neutrofilia",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Sepsis-3 (2016): infección + ↑SOFA ≥2 puntos. Shock séptico: sepsis + necesidad de vasopresores para PAM ≥65 + lactato >2 a pesar de resucitación. SIRS quedó deprecado para definir sepsis.",
+      "especialidad": "urgencias",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-CONC-005",
+      "tipo": "concepto",
+      "concepto": "Score de Wells (TEP)",
+      "pregunta": "¿Qué hace operativamente el score de Wells para TEP?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Estratifica probabilidad pretest de TEP para decidir entre dímero D o angio-TC",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Confirma TEP por sí solo",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Mide la severidad hemodinámica",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Reemplaza al angio-TC",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Wells para TEP: estima probabilidad pretest. Probabilidad baja → dímero D; si normal, descarta. Alta probabilidad → angio-TC directo. Categorías: ≤4 'TEP poco probable', >4 'TEP probable'.",
+      "especialidad": "medicina_interna",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-CONC-006",
+      "tipo": "concepto",
+      "concepto": "Criterios de Ranson",
+      "pregunta": "¿Para qué sirven los criterios de Ranson?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Estratificar severidad de la pancreatitis aguda",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Clasificar la severidad de la colecistitis",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Predecir riesgo de cáncer pancreático",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Evaluar respuesta al tratamiento de PA",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Ranson (1974): 5 criterios al ingreso + 6 a las 48 h. ≥3 indica pancreatitis severa con mayor mortalidad. APACHE-II y BISAP son más usados actualmente pero Ranson sigue siendo evaluado en EUNACOM.",
+      "especialidad": "cirugia",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-CONC-007",
+      "tipo": "concepto",
+      "concepto": "Escala de Glasgow",
+      "pregunta": "¿Cuál es el rango y los componentes de la escala de Glasgow?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "3-15 puntos: apertura ocular (1-4), verbal (1-5), motora (1-6)",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "0-20 puntos: motor, sensitivo, autonómico",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "1-10 puntos: respuesta al dolor, pupilas, FC",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "5-20 puntos: lenguaje, marcha, equilibrio",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Glasgow: estandariza nivel de conciencia. 13-15 leve, 9-12 moderado, ≤8 grave (vía aérea segura indicada). Útil en TCE y otras causas de compromiso de conciencia. Considerar sedación y limitaciones.",
+      "especialidad": "neurologia",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-CONC-008",
+      "tipo": "concepto",
+      "concepto": "NIHSS",
+      "pregunta": "¿Qué evalúa el NIHSS en ACV?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Severidad del déficit neurológico (0-42 puntos)",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Riesgo de transformación hemorrágica",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Pronóstico funcional a largo plazo aislado",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Indicación absoluta de trombectomía",
+          "correcta": false
+        }
+      ],
+      "explicacion": "NIHSS (National Institutes of Health Stroke Scale): 15 ítems, 0-42 puntos. Estratifica déficit en ACV agudo. Útil para decisiones de trombólisis y trombectomía (>6 sugiere oclusión proximal). Permite seguimiento.",
+      "especialidad": "neurologia",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-CONC-009",
+      "tipo": "concepto",
+      "concepto": "Criterios de Light",
+      "pregunta": "¿Cuál es el criterio de Light que define exudado pleural?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Proteínas líquido/suero >0.5 ó LDH líquido/suero >0.6 ó LDH líquido > 2/3 del límite superior sérico",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Glucosa <60 mg/dL exclusivamente",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Linfocitosis >50%",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Conteo celular >1000",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Criterios de Light (1972): diferencian exudado (≥1 criterio) de trasudado (ninguno). Alta sensibilidad para exudado. Exudado: infecciones, neoplasias, TEP, conectivopatías. Trasudado: IC, cirrosis, síndrome nefrótico.",
+      "especialidad": "medicina_interna",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-CONC-010",
+      "tipo": "concepto",
+      "concepto": "FAST",
+      "pregunta": "¿Qué evalúa el FAST en trauma?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Líquido libre en 4 ventanas: pericárdica, hepatorrenal, esplenorrenal, pelvis",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Fractura de costillas y vértebras",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Solo el corazón en pacientes inestables",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Solo el espacio pleural",
+          "correcta": false
+        }
+      ],
+      "explicacion": "FAST (Focused Assessment with Sonography for Trauma): identifica hemoperitoneo y hemopericardio al lado del paciente, en pocos minutos. Si FAST positivo en politrauma inestable → laparotomía sin TAC. eFAST agrega ventanas pleurales (neumotórax, hemotórax).",
+      "especialidad": "urgencias",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-HERR-001",
+      "tipo": "herramienta",
+      "concepto": "BNP / NT-proBNP",
+      "pregunta": "¿Cuál es la utilidad del BNP en disnea aguda?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Diferenciar disnea de causa cardíaca (alto) vs pulmonar (bajo)",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Diagnostica TEP",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Mide directamente la fracción de eyección",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Sustituye al ecocardiograma",
+          "correcta": false
+        }
+      ],
+      "explicacion": "BNP/NT-proBNP: secretados por miocardio en estrés parietal. Útiles para descartar IC en disnea aguda (BNP <100 ó NT-proBNP <300 hace IC improbable). Niveles altos también en TEP, IRA y edad avanzada (precaución).",
+      "especialidad": "cardio",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-HERR-002",
+      "tipo": "herramienta",
+      "concepto": "Troponinas cardíacas",
+      "pregunta": "¿Cuál es el rol de las troponinas en el SCA?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Marcadores específicos de injuria miocárdica para diagnóstico y pronóstico",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Solo se elevan en IAM con SDST",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Diagnostican estenosis coronaria estable",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Equivalen a un cateterismo",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Troponinas T/I: gold standard para diagnóstico de injuria miocárdica. Elevación + cambios clínicos/EKG → SCA. Considerar troponina alta sensibilidad seriada (0 h y 1-3 h). Elevación también en miocarditis, TEP, IC severa, sepsis.",
+      "especialidad": "cardio",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-HERR-003",
+      "tipo": "herramienta",
+      "concepto": "Electrocardiograma de 12 derivaciones",
+      "pregunta": "¿Cuál es la utilidad principal del ECG inicial en dolor torácico?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Identificar SDST/IDST y arritmias en <10 minutos del ingreso",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Confirmar oclusión coronaria por sí solo",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Reemplazar a las troponinas",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Estimar la FE",
+          "correcta": false
+        }
+      ],
+      "explicacion": "ECG en dolor torácico: clave para clasificar SCA-SDST vs SCA-NSDST y detectar arritmias. ECG normal NO descarta IAM. Repetir si persiste sospecha o cambios clínicos. Comparar con ECG previos.",
+      "especialidad": "cardio",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-HERR-004",
+      "tipo": "herramienta",
+      "concepto": "Hemoglobina glicosilada",
+      "pregunta": "¿Cuál es el corte diagnóstico de DM con HbA1c?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "≥6.5% confirmada en dos ocasiones (o con clínica)",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "≥5.0%",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "≥7.0%",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "≥8.5%",
+          "correcta": false
+        }
+      ],
+      "explicacion": "HbA1c: refleja glicemia promedio de los últimos 2-3 meses. Diagnóstico de DM ≥6.5%. Prediabetes 5.7-6.4%. Falsamente baja en anemia, hemólisis, embarazo. Falsamente alta en alcoholismo, IRC.",
+      "especialidad": "endocrino",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-HERR-005",
+      "tipo": "herramienta",
+      "concepto": "Gasometría arterial",
+      "pregunta": "¿Qué evalúa la gasometría arterial?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Oxigenación, ventilación y equilibrio ácido-base",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Solo la oxigenación",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Solo el pH",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Equivale al hemograma",
+          "correcta": false
+        }
+      ],
+      "explicacion": "GSA: pH, pCO₂, pO₂, HCO₃, exceso de base, lactato. Permite diagnóstico de insuficiencia respiratoria (pO₂ <60), hipercapnia, alteraciones del equilibrio ácido-base. PaO₂/FiO₂ orienta a SDRA. Hipoxemia se evalúa con A-a gradient.",
+      "especialidad": "medicina_interna",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-HERR-006",
+      "tipo": "herramienta",
+      "concepto": "Lactato sérico",
+      "pregunta": "¿Qué refleja el lactato elevado en un paciente crítico?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Hipoperfusión tisular y mal pronóstico — especialmente >4 mmol/L",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Solo deshidratación",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Función renal",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Estado nutricional",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Lactato: marcador de hipoperfusión tisular y metabolismo anaerobio. >2 mmol/L sugestivo, >4 mmol/L se asocia a alta mortalidad en sepsis. Útil para definir resucitación y monitorización seriada.",
+      "especialidad": "urgencias",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-HERR-007",
+      "tipo": "herramienta",
+      "concepto": "Dímero D",
+      "pregunta": "¿Cuál es el valor predictivo del dímero D en TEP?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Alto valor predictivo NEGATIVO — descarta TEP en probabilidad baja-intermedia",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Alta especificidad — confirma TEP",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Diagnóstico definitivo si está alto",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Equivale al angio-TC",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Dímero D: producto de degradación de fibrina. Alta sensibilidad pero baja especificidad. Útil para descartar TEP cuando Wells/Geneva es bajo/intermedio. Falsamente elevado en embarazo, post-cirugía, cáncer, edad avanzada.",
+      "especialidad": "medicina_interna",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-HERR-008",
+      "tipo": "herramienta",
+      "concepto": "PCR (proteína C reactiva)",
+      "pregunta": "¿Qué información aporta la PCR en infección?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Marcador inespecífico de inflamación, útil para seguimiento",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Diagnóstico específico de bacteriemia",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Indica resistencia antibiótica",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Sustituye al hemocultivo",
+          "correcta": false
+        }
+      ],
+      "explicacion": "PCR: reactante de fase aguda. Inespecífica (infección, autoinmune, neoplasia). Útil para seguimiento de respuesta a tratamiento. Procalcitonina es más específica para infección bacteriana grave.",
+      "especialidad": "infecto",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-HERR-009",
+      "tipo": "herramienta",
+      "concepto": "Tomografía con vs. sin contraste",
+      "pregunta": "¿Cuándo NO usar contraste yodado en TAC?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Sospecha de sangrado agudo del SNC; alergia severa al yodo; ERC sin protección renal",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Siempre que se busque trauma",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "En todo abdomen agudo sin excepción",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Nunca: el contraste no agrega información",
+          "correcta": false
+        }
+      ],
+      "explicacion": "TAC sin contraste: sangrado SNC (HSA, hemorragia intracraneal), litiasis renal, planificación de TAC con contraste. Contraste yodado: caracteriza tumores, vasos (angio-TC), procesos inflamatorios. Precauciones: ERC (TFG <30), alergias, hipertiroidismo.",
+      "especialidad": "urgencias",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "DEF-HERR-010",
+      "tipo": "herramienta",
+      "concepto": "Ecocardiograma transtorácico",
+      "pregunta": "¿Cuál es la primera utilidad del ecocardiograma en disnea aguda con sospecha de IC?",
+      "opciones": [
+        {
+          "letra": "a",
+          "texto": "Medir fracción de eyección y evaluar disfunción diastólica y valvulopatías",
+          "correcta": true
+        },
+        {
+          "letra": "b",
+          "texto": "Diagnostica TEP definitivamente",
+          "correcta": false
+        },
+        {
+          "letra": "c",
+          "texto": "Mide la PA central",
+          "correcta": false
+        },
+        {
+          "letra": "d",
+          "texto": "Sustituye al cateterismo",
+          "correcta": false
+        }
+      ],
+      "explicacion": "Ecocardiograma TT: examen no invasivo de elección en IC. Fracción de eyección, función diastólica, valvulopatías, derrame pericárdico, hipertensión pulmonar. Diferencia IC-FEr (≤40%) de IC-FEp (≥50%).",
+      "especialidad": "cardio",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
     }
   ]
 }

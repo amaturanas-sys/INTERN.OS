@@ -1,25 +1,43 @@
 {
   "meta": {
-    "descripcion": "Casos clínicos lineales con feedback (Modo 2). Muestra inicial construida según el esquema 5.2.",
-    "fecha_generacion": "2026-05-26"
+    "version": "v1",
+    "descripcion": "Set inicial de casos clínicos paso a paso para los temas más preguntados en EUNACOM.",
+    "total": 19
   },
   "casos": [
     {
       "id": "CASO-CARDIO-001",
       "titulo": "Dolor torácico en adulto mayor",
       "especialidad": "cardio",
-      "tema": "SCA/IAM",
+      "tema": "IAM",
       "dificultad": "intermedia",
-      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
       "etapas": [
         {
           "orden": 1,
           "tipo": "anamnesis",
-          "enunciado": "Hombre de 65 años, hipertenso y diabético, llega a urgencias por dolor torácico opresivo de 1 hora de evolución. ¿Qué pregunta dirigida es la MÁS relevante para orientar el cuadro?",
+          "enunciado": "Hombre de 65 años, hipertenso y diabético, llega a urgencias por dolor torácico opresivo de 30 minutos.",
           "opciones": [
-            { "letra": "a", "texto": "Caracterizar el dolor: irradiación, factores que lo modifican y síntomas asociados (diaforesis, disnea)", "correcta": true, "feedback": "Correcto. Caracterizar el dolor orienta a síndrome coronario agudo y su gravedad." },
-            { "letra": "b", "texto": "Preguntar por antecedentes de cirugías abdominales", "correcta": false, "feedback": "Poco relevante en este contexto de dolor torácico agudo." },
-            { "letra": "c", "texto": "Indagar hábitos alimentarios del último mes", "correcta": false, "feedback": "No es prioritario en la urgencia de un dolor torácico agudo." }
+            {
+              "letra": "a",
+              "texto": "Caracterizar el dolor: irradiación, factores que lo modifican y síntomas asociados",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Preguntar por antecedentes de cirugías abdominales",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Indagar hábitos alimentarios del último mes",
+              "correcta": false
+            }
           ]
         },
         {
@@ -27,9 +45,21 @@
           "tipo": "examen_complementario",
           "enunciado": "El dolor irradia al brazo izquierdo con diaforesis. ¿Cuál es el examen inicial prioritario?",
           "opciones": [
-            { "letra": "a", "texto": "Electrocardiograma de 12 derivaciones en menos de 10 minutos", "correcta": true, "feedback": "Correcto. El ECG precoz es la prioridad para detectar SDST." },
-            { "letra": "b", "texto": "Radiografía de tórax antes que cualquier otra cosa", "correcta": false, "feedback": "Útil, pero no es lo prioritario frente a la sospecha de SCA." },
-            { "letra": "c", "texto": "Ecocardiograma de estrés", "correcta": false, "feedback": "No corresponde en la fase aguda de un dolor sospechoso de SCA." }
+            {
+              "letra": "a",
+              "texto": "Electrocardiograma de 12 derivaciones en menos de 10 minutos",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Radiografía de tórax antes que cualquier otra cosa",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Ecocardiograma de estrés",
+              "correcta": false
+            }
           ]
         },
         {
@@ -37,68 +67,1713 @@
           "tipo": "diagnostico",
           "enunciado": "El ECG muestra supradesnivel del ST en II, III y aVF. ¿Cuál es el diagnóstico?",
           "opciones": [
-            { "letra": "a", "texto": "IAM con SDST de cara inferior", "correcta": true, "feedback": "Correcto. SDST en II, III y aVF corresponde a la cara inferior." },
-            { "letra": "b", "texto": "Angina estable", "correcta": false, "feedback": "La angina estable no produce SDST ni dolor en reposo prolongado." },
-            { "letra": "c", "texto": "Pericarditis", "correcta": false, "feedback": "El SDST de la pericarditis es difuso, no en territorio coronario." }
+            {
+              "letra": "a",
+              "texto": "IAM con SDST de cara inferior",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Angina estable",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Pericarditis",
+              "correcta": false
+            }
           ]
         },
         {
           "orden": 4,
           "tipo": "manejo",
-          "enunciado": "Está a 30 minutos de un centro con hemodinamia (angioplastia disponible <90 min). ¿Cuál es el manejo de reperfusión?",
+          "enunciado": "Está a 30 minutos de un centro con hemodinamia (angioplastia disponible <90 min). ¿Cuál es la conducta?",
           "opciones": [
-            { "letra": "a", "texto": "Angioplastia primaria + doble antiagregación y anticoagulación", "correcta": true, "feedback": "Correcto. Con angioplastia disponible <120 min, es la estrategia de elección." },
-            { "letra": "b", "texto": "Solo observación con enzimas seriadas", "correcta": false, "feedback": "Inaceptable en un IAM con SDST: hay que reperfundir." },
-            { "letra": "c", "texto": "Trombólisis aunque haya angioplastia disponible a tiempo", "correcta": false, "feedback": "Si la angioplastia está disponible a tiempo, es preferible a la trombólisis." }
+            {
+              "letra": "a",
+              "texto": "Angioplastia primaria + doble antiagregación y anticoagulación",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Solo observación con enzimas seriadas",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Trombólisis aunque haya angioplastia disponible a tiempo",
+              "correcta": false
+            }
           ]
         }
       ],
-      "resumen_final": "Diagnóstico: IAM con SDST de cara inferior. Manejo: ECG precoz, angioplastia primaria dentro de los tiempos, doble antiagregación y anticoagulación. La caracterización del dolor y el ECG en <10 min son los pasos críticos.",
+      "resumen_final": "IAM con SDST de cara inferior. Manejo: ECG <10 min, angioplastia primaria en <90 min cuando esté disponible, doble antiagregación (AAS+ticagrelor/clopidogrel) y anticoagulación. La trombólisis se reserva si no hay angioplastia oportuna.",
       "version_actual": 1,
-      "historial_ediciones": []
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
     },
     {
       "id": "CASO-CARDIO-002",
       "titulo": "Disnea progresiva y edema",
       "especialidad": "cardio",
-      "tema": "Insuficiencia cardíaca",
+      "tema": "IC",
       "dificultad": "intermedia",
-      "imagen": { "presente": false, "requerida": false, "data": null, "descripcion": null },
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
       "etapas": [
         {
           "orden": 1,
           "tipo": "anamnesis",
-          "enunciado": "Mujer de 72 años con disnea de esfuerzo progresiva, ortopnea y edema vespertino de tobillos. ¿Qué síntoma orienta más a congestión izquierda?",
+          "enunciado": "Mujer de 72 años con disnea de esfuerzo progresiva, ortopnea y edema vespertino de tobillos. ¿Qué dato dirige el diagnóstico?",
           "opciones": [
-            { "letra": "a", "texto": "Ortopnea y disnea paroxística nocturna", "correcta": true, "feedback": "Correcto. Reflejan congestión pulmonar por falla izquierda." },
-            { "letra": "b", "texto": "Edema de tobillos aislado", "correcta": false, "feedback": "Sugiere más congestión derecha/sistémica." },
-            { "letra": "c", "texto": "Dolor abdominal posprandial", "correcta": false, "feedback": "No es un síntoma característico de congestión izquierda." }
+            {
+              "letra": "a",
+              "texto": "Ortopnea y disnea paroxística nocturna",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Edema de tobillos aislado",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Dolor abdominal posprandial",
+              "correcta": false
+            }
           ]
         },
         {
           "orden": 2,
           "tipo": "examen_complementario",
-          "enunciado": "¿Cuál es el examen de elección para confirmar el diagnóstico y medir la fracción de eyección?",
+          "enunciado": "¿Cuál es el examen de elección para confirmar y medir la fracción de eyección?",
           "opciones": [
-            { "letra": "a", "texto": "Ecocardiograma transtorácico", "correcta": true, "feedback": "Correcto. Cuantifica FE y caracteriza la disfunción." },
-            { "letra": "b", "texto": "Holter de 24 horas", "correcta": false, "feedback": "Útil para arritmias, no para evaluar FE." },
-            { "letra": "c", "texto": "Test de esfuerzo convencional", "correcta": false, "feedback": "No es el examen inicial para confirmar IC ni medir FE." }
+            {
+              "letra": "a",
+              "texto": "Ecocardiograma transtorácico",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Holter de 24 horas",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Test de esfuerzo convencional",
+              "correcta": false
+            }
           ]
         },
         {
           "orden": 3,
           "tipo": "manejo",
-          "enunciado": "El ecocardiograma muestra FE de 30%. ¿Qué combinación modifica la mortalidad?",
+          "enunciado": "FE 30% (IC con FE reducida, NYHA II-III). ¿Qué combinación modifica mortalidad?",
           "opciones": [
-            { "letra": "a", "texto": "IECA/ARNI + betabloqueador + antagonista mineralocorticoide + iSGLT2", "correcta": true, "feedback": "Correcto. Son los pilares que reducen mortalidad en IC-FEr." },
-            { "letra": "b", "texto": "Solo furosemida en dosis altas", "correcta": false, "feedback": "Alivia síntomas pero no reduce mortalidad." },
-            { "letra": "c", "texto": "Antiarrítmicos clase I de mantención", "correcta": false, "feedback": "No indicados; pueden ser proarrítmicos en IC." }
+            {
+              "letra": "a",
+              "texto": "IECA/ARNI + betabloqueador + antagonista mineralocorticoide + iSGLT2",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Solo furosemida en dosis altas",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Antiarrítmicos clase I de mantención",
+              "correcta": false
+            }
           ]
         }
       ],
-      "resumen_final": "Diagnóstico: insuficiencia cardíaca con fracción de eyección reducida (FE 30%). El ecocardiograma confirma y cuantifica. El tratamiento que modifica mortalidad combina IECA/ARNI, betabloqueador, antagonista del receptor mineralocorticoide e iSGLT2; los diuréticos controlan la congestión.",
+      "resumen_final": "IC-FEr (FE 30%). Los cuatro pilares que modifican la mortalidad: IECA/ARA-II o sacubitrilo-valsartán, betabloqueador (carvedilol, bisoprolol, metoprolol succinato), antagonista mineralocorticoide y iSGLT2. La furosemida mejora síntomas pero no mortalidad.",
       "version_actual": 1,
-      "historial_ediciones": []
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-CARDIO-003",
+      "titulo": "Palpitaciones e irregularidad del pulso",
+      "especialidad": "cardio",
+      "tema": "FA",
+      "dificultad": "intermedia",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Hombre de 78 años con palpitaciones desde hace 2 días, pulso irregular y RC también irregular. ¿Dato más relevante?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Hace cuánto comenzaron exactamente las palpitaciones y antecedentes de embolia previa",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Tipo de alimentación reciente",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Cuántas horas duerme habitualmente",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "diagnostico",
+          "enunciado": "ECG: ritmo irregular sin ondas P. FC 130. ¿Diagnóstico?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Fibrilación auricular con respuesta ventricular rápida",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Flutter auricular 2:1",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Taquicardia sinusal",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "PA 130/80, sin dolor torácico, sin signos de bajo gasto. ¿Conducta inicial?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Control de frecuencia con betabloqueador + evaluar anticoagulación según CHA₂DS₂-VASc",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Cardioversión eléctrica inmediata sin más estudio",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Solo AAS",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "FA con RVR estable: priorizar control de frecuencia (beta o calcioantagonista no dihidropiridínico) y estratificar riesgo embólico con CHA₂DS₂-VASc. ≥2 en hombres / ≥3 en mujeres → anticoagulación. AAS no es suficiente.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-MI-001",
+      "titulo": "Disnea súbita en mujer puérpera",
+      "especialidad": "medicina_interna",
+      "tema": "TEP",
+      "dificultad": "avanzada",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Mujer 32 años, 8 días postcesárea, debuta con disnea súbita y dolor pleurítico derecho. FC 118, FR 28, SatO₂ 89%.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Calcular probabilidad pretest de TEP (Wells/Ginebra)",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Tratar como ansiedad puerperal",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Solicitar PAP urgente",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "examen_complementario",
+          "enunciado": "Wells >4 (alta probabilidad). ¿Examen de elección?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Angio-TC de tórax (si función renal lo permite)",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Dímero D como única prueba — descarta TEP si negativo",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Radiografía simple de tórax para confirmar",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "Angio-TC confirma TEP submasivo, paciente estable.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Anticoagulación con heparina de bajo peso molecular",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Trombólisis sistémica inmediata",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Solo observación 24 h",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "TEP en puerperio (período de alto riesgo). Con Wells alto, ir directo a angio-TC; el dímero D solo descarta cuando el pretest es bajo/intermedio. Anticoagulación estándar con HBPM; trombólisis solo si TEP masivo con inestabilidad hemodinámica.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-MI-002",
+      "titulo": "Tos productiva y fiebre en EPOC",
+      "especialidad": "medicina_interna",
+      "tema": "EPOC_exacerbacion",
+      "dificultad": "intermedia",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Varón 70 años, fumador 50 paquetes-año, EPOC GOLD III. 3 días con aumento de tos, expectoración purulenta y disnea mayor a la habitual.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Estamos ante una exacerbación tipo Anthonisen — evaluar criterios de gravedad",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Es una neumonía adquirida en la comunidad obligadamente",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Esperar 7 días antes de actuar",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "examen_complementario",
+          "enunciado": "FR 26, SatO₂ 87% aire ambiental, sibilancias difusas, sin condensación a la auscultación. ¿Examen prioritario?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Gasometría arterial + radiografía de tórax",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Espirometría de urgencia",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "TAC de tórax de inmediato",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "GSA: pH 7.32, pCO₂ 58, HCO₃ 30. Acidosis respiratoria.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Broncodilatador inhalado + corticoide sistémico + antibiótico + VMNI (BiPAP)",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Solo oxígeno a alto flujo sin VMNI",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Intubación inmediata",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "Exacerbación de EPOC con acidosis respiratoria. VMNI (BiPAP) es de primera línea cuando hay acidosis hipercápnica sin falla franca. Corticoide sistémico 5 días + antibiótico (presencia de los 3 criterios de Anthonisen: ↑disnea, ↑volumen y ↑purulencia).",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-MI-003",
+      "titulo": "Neumonía adquirida en la comunidad",
+      "especialidad": "medicina_interna",
+      "tema": "NAC",
+      "dificultad": "basica",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Mujer 58 años, fiebre 39°C, tos productiva con expectoración herrumbrosa y dolor pleurítico izquierdo de 3 días.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Aplicar score CURB-65 / CRB-65 para estratificar gravedad",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Iniciar antibióticos sin más estudio",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Solicitar broncoscopia",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "examen_complementario",
+          "enunciado": "CRB-65 = 1 (FR 31). Radiografía con condensación en LII. ¿Conducta?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Hospitalizar para tratamiento parenteral",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Tratamiento ambulatorio con amoxicilina vía oral",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Solicitar TAC torácica antes de tratar",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "¿Esquema antibiótico empírico inicial?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Ceftriaxona + azitromicina",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Cloxacilina monoterapia",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Vancomicina + meropenem",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "NAC con criterio de hospitalización (CRB-65 ≥1 y/o requiere O₂). Esquema empírico: betalactámico (ceftriaxona) + macrólido (azitromicina) para cubrir neumococo + atípicos. La duración promedio es 5-7 días.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-URG-001",
+      "titulo": "Politraumatizado por accidente vehicular",
+      "especialidad": "urgencias",
+      "tema": "ATLS",
+      "dificultad": "avanzada",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "manejo",
+          "enunciado": "Hombre 28 años, conductor sin cinturón, ingresa con Glasgow 13. ¿Cuál es la prioridad inmediata?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "ABCDE — Vía aérea con control cervical",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "TAC corporal total de entrada",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Esperar al especialista antes de actuar",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "examen_complementario",
+          "enunciado": "PA 90/60, FC 122, palidez. Abdomen distendido y doloroso difuso.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "FAST ecográfico al lado del paciente + transfusión + cirugía si inestable",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Lavado peritoneal diagnóstico hoy día es la primera opción",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "TAC abdominal antes de cualquier maniobra",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "FAST positivo en pelvis y Morrison. Sigue inestable pese a fluidos.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Laparotomía exploradora de urgencia",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Observación 6 h con monitoreo",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Angiotomografía electiva",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "Politraumatizado: ABCDE con control cervical. FAST guía decisión en paciente inestable. Si FAST positivo + inestabilidad hemodinámica → laparotomía sin TAC previo. TAC solo si está estable.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-URG-002",
+      "titulo": "Shock séptico de origen abdominal",
+      "especialidad": "urgencias",
+      "tema": "sepsis",
+      "dificultad": "avanzada",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "examen_complementario",
+          "enunciado": "Mujer 65 años con fiebre 39°C, PA 80/40, FC 130, lactato 4 mmol/L tras dolor abdominal. ¿Diagnóstico clínico?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Shock séptico (sepsis con vasopresores y lactato > 2)",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Shock cardiogénico",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Shock hipovolémico aislado",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "manejo",
+          "enunciado": "¿Bundle de la 1ª hora de la sepsis?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Hemocultivos + ATB empírico + cristaloides 30 mL/kg + lactato + vasopresores si PA persiste baja",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Solo cristaloides hasta resolver hipotensión",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Esperar hemocultivos antes de iniciar ATB",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "diagnostico",
+          "enunciado": "TAC abdominal: absceso diverticular complicado. ¿Conducta?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Antibiótico de amplio espectro + drenaje (percutáneo o quirúrgico)",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Solo antibiótico",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Solo drenaje sin antibiótico",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "Sepsis abdominal con shock. La 'hora dorada': hemocultivos, ATB empírico precoz, cristaloides 30 mL/kg, lactato seriado y vasopresores (noradrenalina) si la PA no responde. Control de foco (drenaje) es indispensable cuando hay colección.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-PED-001",
+      "titulo": "Lactante con dificultad respiratoria",
+      "especialidad": "pediatria",
+      "tema": "bronquiolitis",
+      "dificultad": "basica",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Lactante de 5 meses con coriza hace 3 días, ahora con tos en accesos, sibilancias y rechazo alimentario.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Evaluar dificultad respiratoria con Score de Tal/Bierman",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Solicitar TAC torácica de entrada",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Iniciar antibiótico empírico",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "diagnostico",
+          "enunciado": "Sibilancias difusas, retracciones subcostales, SatO₂ 92%. Tal 6/12.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Bronquiolitis aguda probable VRS",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Neumonía bacteriana",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Asma bronquial",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "¿Manejo inicial recomendado?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Oxigenoterapia si SatO₂ <92%, kinesioterapia y aporte hidratación + observación",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Salbutamol nebulizado de rutina",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Corticoide sistémico",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "Bronquiolitis: cuadro autolimitado por VRS. El manejo es de soporte (oxígeno si SatO₂ <92%, hidratación, kinesioterapia). Broncodilatadores y corticoides NO han demostrado beneficio en bronquiolitis típica.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-PED-002",
+      "titulo": "Convulsión febril en preescolar",
+      "especialidad": "pediatria",
+      "tema": "convulsion_febril",
+      "dificultad": "basica",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Niño de 2 años, fiebre 39.5°C, convulsión tónico-clónica generalizada de 3 minutos. Al llegar postictal somnoliento.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Identificar si reúne criterios de convulsión febril simple (edad, duración, tipo, sin foco)",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Solicitar EEG y RMN de cerebro de urgencia",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Iniciar fenitoína de mantención",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "diagnostico",
+          "enunciado": "Convulsión <15 min, generalizada, sin foco neurológico ni signos meníngeos.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Convulsión febril simple",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Estatus convulsivo febril",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Meningoencefalitis seguro",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "¿Conducta?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Estudio etiológico de la fiebre + educación familiar; no requiere anticonvulsivante crónico",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Iniciar ácido valproico de mantención",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Punción lumbar de rutina en todo caso",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "Convulsión febril simple: 6 m – 5 años, <15 min, generalizada, sin foco. Buen pronóstico. Tratar la causa de la fiebre, educar a la familia. PL solo si hay signos meníngeos o sospecha de SNC. No requiere anticonvulsivantes crónicos.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-PED-003",
+      "titulo": "Diarrea aguda con deshidratación",
+      "especialidad": "pediatria",
+      "tema": "diarrea_aguda",
+      "dificultad": "basica",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Lactante de 9 meses con diarrea acuosa 8 veces/día, vómitos y rechazo alimentario hace 24 h.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Evaluar grado de deshidratación clínica (signos: pliegue, fontanela, llene capilar, mucosas)",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Solicitar coprocultivo antes de cualquier cosa",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Iniciar antibióticos empíricos",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "diagnostico",
+          "enunciado": "Pliegue (+), mucosas secas, ojos hundidos, FC 160, llene 3 seg, irritable. Pérdida estimada 6-9%.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Deshidratación moderada",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Deshidratación leve",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Deshidratación severa con shock",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "¿Tratamiento de elección?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Sales de rehidratación oral (SRO) 75 mL/kg en 4 horas, supervisado",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Suero fisiológico EV inmediato 20 mL/kg",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Antidiarreicos como loperamida",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "Deshidratación moderada por diarrea aguda en lactante. SRO según OMS (Plan B) es el tratamiento de elección. Suero EV solo en deshidratación severa, shock, vómitos incoercibles o íleo. Loperamida está contraindicada en niños.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-OBS-001",
+      "titulo": "Cefalea y edema en embarazo de 34 semanas",
+      "especialidad": "obstetricia",
+      "tema": "preeclampsia",
+      "dificultad": "intermedia",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Primigesta de 28 años, 34 semanas. Cefalea pulsátil, edema facial y de manos hace 3 días.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Tomar PA en ambos brazos y solicitar proteinuria",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Solo tranquilizar — es propio del 3er trimestre",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Indicar paracetamol y reevaluar en 7 días",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "diagnostico",
+          "enunciado": "PA 160/110, proteinuria 3+, plaquetas 95.000, AST 130. ROT exaltados.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Preeclampsia severa con síndrome HELLP incipiente",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "HTA crónica",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Hígado graso del embarazo",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "¿Conducta inmediata?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Hospitalizar, sulfato de magnesio + antihipertensivo + interrupción del embarazo",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Reposo en casa y control en 48 h",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Antihipertensivo y continuar hasta término",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "Preeclampsia severa con HELLP. Tres pilares: profilaxis de eclampsia con sulfato de magnesio, control de PA (labetalol/hidralazina/nifedipino), interrupción del embarazo (a las 34 sem si severa). Profilaxis con corticoides para maduración pulmonar.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-OBS-002",
+      "titulo": "Hemorragia postparto",
+      "especialidad": "obstetricia",
+      "tema": "HPP",
+      "dificultad": "avanzada",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "examen_complementario",
+          "enunciado": "Puérpera inmediata, parto vaginal hace 30 min, sangrado >1000 mL persistente. PA 95/55, FC 115, útero palpable sobre el ombligo, blando.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Diagnóstico clínico: HPP por atonía uterina",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Retención de restos placentarios sin más datos",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Coagulación intravascular diseminada primaria",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "manejo",
+          "enunciado": "¿Conducta inicial?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Masaje uterino bimanual + oxitocina + 2 vías venosas + cristaloides + grupar/cruzar sangre",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Solo observar y reevaluar en 30 min",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Histerectomía de entrada",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "Persiste sangrado tras oxitocina y misoprostol. ¿Siguiente paso?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Pabellón: revisión, taponamiento con balón intrauterino, ligaduras vasculares; histerectomía si fracasa",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Esperar al pabellón otras 2 horas",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Solo más fluidos y continuar oxitocina",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "HPP por atonía (causa más frecuente). Manejo escalonado de las 4 T: Tono (uterotónicos: oxitocina → metilergometrina → misoprostol → carboprost), Trauma, Tejido, Trombina. Si fracasa: balón intrauterino, ligaduras o histerectomía.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-GIN-001",
+      "titulo": "Dolor pélvico con leucorrea",
+      "especialidad": "gineco",
+      "tema": "EPI",
+      "dificultad": "intermedia",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Mujer 24 años, sexualmente activa, dolor pélvico bajo hace 5 días, leucorrea fétida y fiebre 38.5°C.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Sospechar EPI; examinar movilidad cervical y palpación anexial",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Solo solicitar PAP",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Iniciar tratamiento antifúngico",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "examen_complementario",
+          "enunciado": "Dolor a movilización cervical (+), masa anexial dolorosa derecha en ecografía sugerente de absceso tubo-ovárico.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "EPI complicada con absceso",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Embarazo ectópico",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Cistitis aguda",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "¿Conducta?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Hospitalizar, ATB de amplio espectro EV (ceftriaxona + doxiciclina + metronidazol) ± drenaje",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Ambulatorio con azitromicina sola",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Solo observación",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "Enfermedad pélvica inflamatoria complicada (absceso tubo-ovárico). Hospitalizar y cobertura para N. gonorrhoeae, C. trachomatis y anaerobios. Drenaje si absceso >7 cm o falla a 72 h de antibiótico. Estudio de pareja y ETS asociadas.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-INF-001",
+      "titulo": "Cefalea, fiebre y rigidez de nuca",
+      "especialidad": "infecto",
+      "tema": "meningitis",
+      "dificultad": "avanzada",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Adulto joven, cefalea intensa, fiebre, fotofobia y rigidez de nuca hace 12 h.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Sospecha de meningitis aguda; signos meníngeos y evaluar contraindicación de PL",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Tomar paracetamol y reevaluar mañana",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Iniciar antiviral empírico solo",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "examen_complementario",
+          "enunciado": "Sin focalidad neurológica ni edema de papila. ¿Examen prioritario?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Punción lumbar con cultivo + gram + bioquímica del LCR",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "RMN de entrada antes que cualquier cosa",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Hemocultivos como único estudio",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "LCR turbio, predominio PMN, glucosa baja. ¿Manejo inicial?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Ceftriaxona + vancomicina + dexametasona, idealmente antes del 1er ATB",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Solo aciclovir EV",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Esperar cultivo antes de iniciar tratamiento",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "Meningitis bacteriana aguda. Sin contraindicación → PL antes de imagen. Iniciar ATB empírico precoz (ceftriaxona + vancomicina) tras hemocultivos. Dexametasona disminuye secuelas neurológicas, idealmente antes o junto con el ATB. Avisar SEREMI: enfermedad de notificación obligatoria.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-END-001",
+      "titulo": "Cetoacidosis diabética",
+      "especialidad": "endocrino",
+      "tema": "CAD",
+      "dificultad": "avanzada",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "examen_complementario",
+          "enunciado": "Adolescente con DM1 conocida, 24 h con poliuria, vómitos y dolor abdominal. Aliento cetósico. Glicemia 480 mg/dL.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Solicitar GSA, electrolitos plasmáticos, cuerpos cetónicos en orina/sangre",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Solo dar insulina rápida vía oral",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Esperar control glicémico ambulatorio",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "diagnostico",
+          "enunciado": "pH 7.18, HCO₃ 10, anión gap 22, cetonuria 3+, K 5.5.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Cetoacidosis diabética",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Estado hiperglicémico hiperosmolar",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Acidosis láctica primaria",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "¿Pilares del tratamiento?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Suero fisiológico + insulina EV en infusión + reposición de potasio si <5.5 + buscar gatillante",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Bicarbonato EV de rutina",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Glucosa EV antes que insulina",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "CAD: hidratación con SF, insulina EV en bomba a 0.1 U/kg/h, reposición de K (siempre antes de bajar de 5.5), corregir el déficit gradual, buscar el gatillante (infección, omisión de insulina). Bicarbonato solo si pH <6.9. Cambiar a glucosa al 5% cuando la glicemia llegue a 200-250 para evitar hipoglicemia.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-NEU-001",
+      "titulo": "Hemiparesia súbita",
+      "especialidad": "neurologia",
+      "tema": "ACV_isquemico",
+      "dificultad": "avanzada",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Hombre 68 años con instauración súbita hace 90 min de hemiparesia derecha y afasia. PA 170/100.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Activar código ACV — TAC sin contraste inmediato",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Diferir TAC hasta confirmar PA controlada",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Esperar 6 h para repetir examen",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "examen_complementario",
+          "enunciado": "TAC sin contraste sin sangrado ni signos precoces extensos. NIHSS 14. Tiempo de inicio claro <4.5 h. Sin contraindicaciones.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Trombólisis EV con alteplasa + evaluación para trombectomía mecánica",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Solo aspirina y observar",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Anticoagulación con heparina de inmediato",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "Tras trombólisis exitosa, ¿conducta a 24 h?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Iniciar AAS, estudio etiológico (ecocardio, doppler carótidas, Holter), rehabilitación precoz",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Anticoagular sin estudio previo",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Continuar trombolítico 24 h más",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "ACV isquémico agudo. Ventana de trombólisis: <4.5 h tras TAC sin sangrado. Trombectomía mecánica si hay oclusión proximal hasta 6 h (extendida a 24 h en casos seleccionados). Anticoagulación se difiere por riesgo de transformación hemorrágica.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-CIR-001",
+      "titulo": "Dolor abdominal en FID",
+      "especialidad": "cirugia",
+      "tema": "apendicitis",
+      "dificultad": "basica",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Hombre 22 años con dolor periumbilical migrado a FID hace 12 h, anorexia y fiebre 37.8°C.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Aplicar Alvarado / pediatric appendicitis score",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "TAC de inmediato sin más datos",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Antibiótico empírico ambulatorio",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "examen_complementario",
+          "enunciado": "Blumberg (+), McBurney positivo, leucocitos 14.000, neutrofilia. Alvarado 8.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Apendicitis aguda probable — apendicectomía",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Antibióticos solo y observación",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Más estudio ambulatorio",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "¿Tratamiento?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Apendicectomía laparoscópica + ATB profiláctico perioperatorio",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Cirugía abierta de entrada",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Tratamiento antibiótico exclusivo de ambulatorio",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "Apendicitis aguda (Alvarado 8). Apendicectomía laparoscópica es el estándar; abierta solo si no está disponible o perforada con peritonitis difusa. ATB profiláctico única dosis. Estrategia 'antibiótico solo' está en estudio y no es estándar en Chile.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
+    },
+    {
+      "id": "CASO-PSQ-001",
+      "titulo": "Intento autolítico",
+      "especialidad": "psiquiatria",
+      "tema": "suicidio",
+      "dificultad": "intermedia",
+      "imagen": {
+        "presente": false,
+        "requerida": false,
+        "data": null,
+        "descripcion": null
+      },
+      "etapas": [
+        {
+          "orden": 1,
+          "tipo": "anamnesis",
+          "enunciado": "Mujer 19 años traída a urgencias tras ingerir 30 comprimidos de paracetamol hace 1 hora.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Estabilizar + evaluar dosis ingerida + N-acetilcisteína según nomograma de Rumack-Matthew",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Lavado gástrico sin más estudio",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Alta tras 2 h sin síntomas",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 2,
+          "tipo": "manejo",
+          "enunciado": "Concentración de paracetamol confirma toxicidad.",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "N-acetilcisteína EV según protocolo (150 mg/kg → 50 → 100)",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Solo carbón activado",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Hemodiálisis de entrada",
+              "correcta": false
+            }
+          ]
+        },
+        {
+          "orden": 3,
+          "tipo": "manejo",
+          "enunciado": "Tras estabilización médica, ¿qué evaluación es prioritaria?",
+          "opciones": [
+            {
+              "letra": "a",
+              "texto": "Evaluación de riesgo suicida actual + acompañamiento + hospitalización en salud mental",
+              "correcta": true
+            },
+            {
+              "letra": "b",
+              "texto": "Alta tras compromiso verbal",
+              "correcta": false
+            },
+            {
+              "letra": "c",
+              "texto": "Solo control ambulatorio en 1 mes",
+              "correcta": false
+            }
+          ]
+        }
+      ],
+      "resumen_final": "Intento autolítico con paracetamol. Tratamiento específico con N-acetilcisteína (efectivo en las primeras 8 h, considerar hasta 24 h). Evaluación de riesgo suicida persistente, antecedentes, plan, accesibilidad. Hospitalización en salud mental si el riesgo es alto.",
+      "version_actual": 1,
+      "historial_ediciones": [
+        {
+          "version": 1,
+          "fecha": "2026-05-28",
+          "fuente": "Guía MINSAL + Dr. Guevara",
+          "nota": "Versión inicial",
+          "snapshot": null
+        }
+      ]
     }
   ]
 }
