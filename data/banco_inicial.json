@@ -25,7 +25,7 @@
       "urgencias": 2,
       "uro": 80
     },
-    "version": "reconstruccion_v6",
+    "version": "reconstruccion_v7",
     "generado": "2026-05-28T02:20:43",
     "preguntas_total": 4017,
     "refinamiento_bleeds": {
@@ -73,7 +73,8 @@
         "oftalmo": 1,
         "medicina_interna": 1
       }
-    }
+    },
+    "marcadas_no_utilizables_sin_correcta": 17
   },
   "preguntas": [
     {
@@ -7237,7 +7238,7 @@
       "ges_relacionado": false,
       "tiene_imagen_referenciada": false,
       "estado_imagen": "",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -16053,7 +16054,7 @@
       "ges_relacionado": false,
       "tiene_imagen_referenciada": false,
       "estado_imagen": "",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -32270,7 +32271,7 @@
       "ges_relacionado": "",
       "tiene_imagen_referenciada": false,
       "estado_imagen": "no_aplica",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -40618,7 +40619,7 @@
       "ges_relacionado": false,
       "tiene_imagen_referenciada": false,
       "estado_imagen": "",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -55495,7 +55496,7 @@
       "ges_relacionado": false,
       "tiene_imagen_referenciada": false,
       "estado_imagen": "",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -83274,7 +83275,7 @@
       "ges_relacionado": false,
       "tiene_imagen_referenciada": false,
       "estado_imagen": "",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -141931,7 +141932,7 @@
       "ges_relacionado": false,
       "tiene_imagen_referenciada": false,
       "estado_imagen": "",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -178723,7 +178724,7 @@
       "ges_relacionado": false,
       "tiene_imagen_referenciada": false,
       "estado_imagen": "",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -180294,7 +180295,7 @@
       "ges_relacionado": false,
       "tiene_imagen_referenciada": false,
       "estado_imagen": "",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -191760,7 +191761,7 @@
       "ges_relacionado": false,
       "tiene_imagen_referenciada": false,
       "estado_imagen": "",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -192590,7 +192591,7 @@
       "ges_relacionado": false,
       "tiene_imagen_referenciada": false,
       "estado_imagen": "",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -202765,7 +202766,7 @@
       "ges_relacionado": "",
       "tiene_imagen_referenciada": true,
       "estado_imagen": "no_aplica",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -217129,7 +217130,7 @@
       "ges_relacionado": "",
       "tiene_imagen_referenciada": false,
       "estado_imagen": "no_aplica",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -249043,7 +249044,7 @@
       "ges_relacionado": "",
       "tiene_imagen_referenciada": false,
       "estado_imagen": "no_aplica",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -274027,7 +274028,7 @@
       "ges_relacionado": "",
       "tiene_imagen_referenciada": true,
       "estado_imagen": "no_aplica",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -320798,7 +320799,7 @@
       "ges_relacionado": "",
       "tiene_imagen_referenciada": true,
       "estado_imagen": "no_aplica",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,
@@ -321558,7 +321559,7 @@
       "ges_relacionado": "",
       "tiene_imagen_referenciada": false,
       "estado_imagen": "no_aplica",
-      "utilizable": true,
+      "utilizable": false,
       "imagen": {
         "presente": false,
         "requerida": false,

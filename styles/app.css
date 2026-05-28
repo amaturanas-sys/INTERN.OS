@@ -127,6 +127,13 @@ textarea { resize: vertical; }
 .feedback--mal { border-color: var(--mal); background: rgba(239,68,68,.08); }
 .feedback__titulo { margin: 0 0 8px; font-weight: 700; }
 .feedback__exp { color: var(--muted); }
+.feedback__refs { margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--line); }
+.feedback__refs-titulo { margin: 0 0 6px; font-weight: 600; font-size: 13px; color: var(--muted); }
+.feedback__ref { display: flex; gap: 6px; align-items: center; padding: 6px 10px; margin-top: 4px;
+  border: 1px solid var(--line); border-radius: 8px; text-decoration: none; color: var(--teal-d); }
+.feedback__ref:hover { background: rgba(31,78,121,.05); }
+.feedback__ref-icon { font-size: 12px; }
+.feedback__ref-titulo { font-size: 13px; }
 .feedback .btn { margin-top: 12px; }
 
 .runner__acciones { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }

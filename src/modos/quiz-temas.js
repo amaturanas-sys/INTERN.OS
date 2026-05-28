@@ -90,6 +90,7 @@ function normalizar(q) {
     enunciado: q.enunciado,
     opciones: q.opciones,
     explicacion: q.justificacion,
+    bibliografia: Array.isArray(q.bibliografia_sugerida) ? q.bibliografia_sugerida : [],
     imagen: q.imagen,
     editado: q.version_actual > 1,
     version: q.version_actual,
