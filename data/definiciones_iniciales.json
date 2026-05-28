@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "v1",
-    "descripcion": "Definiciones de fármacos, conceptos y herramientas diagnósticas más preguntadas.",
-    "total": 30
+    "version": "v2-nomenclatura",
+    "descripcion": "Definiciones de fármacos, conceptos y herramientas diagnósticas más preguntadas, con actualizaciones de nomenclatura 2022-2025.",
+    "total": 40
   },
   "definiciones": [
     {
@@ -1384,6 +1384,86 @@
           "snapshot": null
         }
       ]
+    },
+    {
+      "id": "DEF-NOM-001",
+      "termino": "Síndrome de ovario poliendocrino metabólico (SOPEM)",
+      "tipo": "concepto",
+      "categoria": "ginecología/endocrino",
+      "definicion": "Nueva denominación del antiguo síndrome de ovario poliquístico (SOP), introducida por el consenso internacional 2023 para resaltar el componente metabólico (resistencia insulínica, dislipidemia, riesgo cardiovascular). Criterios de Rotterdam vigentes (2 de 3 + exclusión de otras causas): oligo/anovulación, hiperandrogenismo clínico o bioquímico, morfología ovárica poliquística (≥20 folículos por ovario y/o volumen >10 mL en ecografía transvaginal de alta resolución). Manejo: estilo de vida, metformina, anticonceptivos combinados; letrozol/clomifeno si busca embarazo.",
+      "fuente": "International evidence-based guideline for assessment and management of PCOS, 2023."
+    },
+    {
+      "id": "DEF-NOM-002",
+      "termino": "Síndrome de disfunción metabólica",
+      "tipo": "concepto",
+      "categoria": "medicina interna/endocrino",
+      "definicion": "Nueva denominación del síndrome metabólico, reflejando el continuo fisiopatológico de resistencia insulínica e inflamación de bajo grado más que un agrupamiento estático de criterios. Definición operacional (ATP-III modificada / IDF, vigente): ≥3 de — perímetro abdominal aumentado según etnia, TG ≥150 mg/dL, HDL bajo (<40 H, <50 M), PA ≥130/85 o tratamiento antihipertensivo, glicemia en ayunas ≥100 mg/dL o DM. Riesgo CV y de DM2 elevado; manejo: dieta mediterránea, ejercicio, pérdida de peso, tratar componentes específicos.",
+      "fuente": "ATP-III; IDF consensus; AHA/ACC scientific statement."
+    },
+    {
+      "id": "DEF-NOM-003",
+      "termino": "Enfermedad hepática esteatósica asociada a disfunción metabólica (MASLD)",
+      "tipo": "concepto",
+      "categoria": "gastroenterología",
+      "definicion": "Reemplazo de NAFLD (esteatosis hepática no alcohólica). Si hay inflamación y daño hepatocitario: MASH (antes NASH). Diagnóstico: esteatosis hepática por imagen/biopsia + ≥1 criterio cardiometabólico (IMC ≥25 o perímetro abdominal aumentado, glicemia ≥100/HbA1c ≥5,7% o DM, PA ≥130/85 o tratamiento, TG ≥150, HDL bajo). Si hay consumo alcohólico moderado: MetALD. Manejo: pérdida de peso 7-10% (resuelve MASH en muchos), control cardiometabólico, semaglutida (off-label), resmetirom aprobado en MASH F2-F3.",
+      "fuente": "AASLD-EASL-ALEH multisociety Delphi consensus, Hepatology 2023."
+    },
+    {
+      "id": "DEF-NOM-004",
+      "termino": "Presión arterial marcadamente elevada asintomática (AMBP)",
+      "tipo": "concepto",
+      "categoria": "cardiología/urgencias",
+      "definicion": "Reemplaza el término «urgencia hipertensiva» (AHA 2025). Se define como PA ≥180/120 mmHg SIN daño agudo de órgano blanco. El cambio nominal evita la sugerencia equívoca de tratamiento inmediato endovenoso. Manejo: reposo 30 min, descartar síntomas de daño orgánico (cefalea intensa, dolor torácico, déficit neurológico, disnea), reiniciar u optimizar régimen antihipertensivo oral, seguimiento en 24-72 h. Reducción de PA gradual (horas-días). NO usar nifedipino sublingual. Distinguir de EMERGENCIA hipertensiva: PA elevada + daño agudo (encefalopatía, IAM, edema pulmonar agudo, disección aórtica, eclampsia, ACV) → UCI, antihipertensivos IV, descenso 20-25% en 1 h.",
+      "fuente": "AHA/ACC Scientific Statement on Hypertensive Crises, 2025."
+    },
+    {
+      "id": "DEF-NOM-005",
+      "termino": "Lesión renal aguda (LRA / AKI)",
+      "tipo": "concepto",
+      "categoria": "nefrología",
+      "definicion": "Reemplazo de «insuficiencia renal aguda» (KDIGO). Criterios: ↑creatinina sérica ≥0,3 mg/dL en 48 h, O ↑a ≥1,5× basal en 7 días, O diuresis <0,5 mL/kg/h durante ≥6 h. Estadios: I (1,5-1,9× o ↑0,3); II (2,0-2,9×); III (≥3× o creat ≥4 o terapia renal de reemplazo o, en <18 años, eGFR <35). Causas: prerrenal (50%, hipovolemia, IC, shock, AINEs/IECA en flujo marginal), renal/intrínseca (NTA por isquemia o nefrotóxicos — aminoglucósidos, contraste, vancomicina, cisplatino; GN; NIA), postrenal (obstrucción bilateral o de monorreno). Manejo: corregir causa, optimizar volemia, evitar nefrotóxicos, ajuste de fármacos por TFG; TRR si refractario.",
+      "fuente": "KDIGO Clinical Practice Guideline for AKI."
+    },
+    {
+      "id": "DEF-NOM-006",
+      "termino": "Deficiencia de arginina-vasopresina (AVP-D)",
+      "tipo": "concepto",
+      "categoria": "endocrino",
+      "definicion": "Nueva denominación de «diabetes insípida central» (consenso 2022-2023, respaldado por The Lancet, AACE, ENEA, etc.). Su contraparte renal (antes «diabetes insípida nefrogénica») se denomina ahora «resistencia a arginina-vasopresina» (AVP-R). El cambio evita confusión letal con diabetes mellitus en órdenes médicas. Clínica: poliuria hipotónica (>3 L/d, densidad <1010), polidipsia, nicturia. Diagnóstico: test de privación de agua; copeptina basal >21,4 pmol/L → AVP-R; estimulación con suero hipertónico o arginina mide copeptina para diferenciar AVP-D de polidipsia primaria (mejor precisión que el test clásico). Tratamiento: AVP-D → desmopresina (oral, intranasal o SC). AVP-R → tiazidas, dieta hiposódica, AINEs, amilorida (si litio).",
+      "fuente": "Christ-Crain et al., Lancet 2022; AACE/AAP statements 2023."
+    },
+    {
+      "id": "DEF-NOM-007",
+      "termino": "Mpox (antes monkeypox / viruela del mono)",
+      "tipo": "concepto",
+      "categoria": "infectología",
+      "definicion": "Renombrado por la OMS en 2022 para reducir estigmatización geográfica. Agente: virus Orthopoxvirus (familia Poxviridae). Clados I (antes Congo Basin, mortalidad ~3-10%) y II (antes West African, <1%); brote multinacional 2022 fue clado IIb. Transmisión: contacto piel/mucosas, gotitas, fómites; brote actual predominantemente por contacto sexual (HSH). Clínica: pródromo (fiebre, mialgias, linfadenopatía característica) → exantema vesículo-pustular sincrónico (mismo estadio), centrífugo o anogenital; proctitis dolorosa frecuente en brote actual. Diagnóstico: PCR de hisopado de lesión. Tratamiento: soporte; tecovirimat (TPOXX) en graves o inmunocomprometidos. Profilaxis pre y post-exposición: JYNNEOS (MVA-BN), 2 dosis SC separadas por 28 días.",
+      "fuente": "OMS technical brief 2022-2024; CDC guidance."
+    },
+    {
+      "id": "DEF-NOM-008",
+      "termino": "Colangitis biliar primaria (CBP)",
+      "tipo": "concepto",
+      "categoria": "gastroenterología/hepatología",
+      "definicion": "Reemplaza «cirrosis biliar primaria» (conserva sigla CBP). Cambio nominal porque la cirrosis es una complicación tardía, no la enfermedad. Es una colangiopatía autoinmune crónica que afecta predominantemente a mujeres de 40-60 años, con destrucción progresiva de conductillos biliares intrahepáticos. Clínica: fatiga, prurito, ictericia tardía, xantomas; asociaciones — síndrome de Sjögren, tiroiditis. Diagnóstico (2 de 3): FA ≥1,5× normal por ≥6 meses; AMA (antimitocondriales) ≥1:40 — específicos en >95% — o anti-sp100/gp210; biopsia con colangitis linfocítica granulomatosa no-supurativa (no obligatoria si serología típica). Tratamiento: ácido ursodeoxicólico 13-15 mg/kg/d primera línea; ácido obeticólico o bezafibrato si no responde.",
+      "fuente": "EASL CPG 2017; AASLD practice guidance 2018; nomenclatura 2014 (Beuers et al.)."
+    },
+    {
+      "id": "DEF-NOM-009",
+      "termino": "Trastorno neurocognitivo mayor (TNC mayor, DSM-5)",
+      "tipo": "concepto",
+      "categoria": "neurología/psiquiatría",
+      "definicion": "Denominación DSM-5 que reemplaza «demencia». Subtipos: enfermedad de Alzheimer, vascular, cuerpos de Lewy, frontotemporal, enfermedad de Parkinson, HIV, trauma, sustancias/medicamentos, etiología múltiple. Criterios: (a) evidencia de deterioro cognitivo significativo desde un nivel previo de funcionamiento en ≥1 dominio cognitivo — atención compleja, función ejecutiva, aprendizaje y memoria, lenguaje, perceptivo-motor, cognición social — basado en preocupación del individuo/cuidador/clínico y evaluación neuropsicológica objetiva; (b) interfiere con la autonomía en actividades de la vida diaria; (c) no ocurre exclusivamente en contexto de delirium; (d) no se explica mejor por otro trastorno mental. Variante leve = «trastorno neurocognitivo leve» (no interfiere con autonomía). Cribado: MMSE, MoCA, ACE-III. Estudio etiológico: TC/RM, B12, TSH, VDRL/VIH si riesgo; LCR (biomarcadores Aβ/tau) o PET-amiloide en casos seleccionados.",
+      "fuente": "DSM-5 / DSM-5-TR; consenso APA."
+    },
+    {
+      "id": "DEF-NOM-010",
+      "termino": "Trastorno de síntomas neurológicos funcionales (TSNF / FND)",
+      "tipo": "concepto",
+      "categoria": "neurología/psiquiatría",
+      "definicion": "Denominación DSM-5 e ICD-11 que reemplaza «trastorno conversivo». Criterios DSM-5: (a) ≥1 síntoma de alteración de la función motora voluntaria o sensitiva; (b) hallazgos clínicos que demuestran incompatibilidad entre el síntoma y enfermedades neurológicas o médicas reconocidas — signos positivos como signo de Hoover (debilidad de extensión de cadera que mejora con flexión contralateral), distractibilidad del temblor, prueba de la fuerza variable, movimientos en zigzag al caminar, etc.; (c) el síntoma no se explica mejor por otro trastorno; (d) causa malestar/disfunción clínicamente significativa. NO se requiere probar estresor o conflicto psicológico (cambio respecto a DSM-IV). Manejo: comunicación diagnóstica positiva («tienes una alteración real en el procesamiento, no estás fingiendo, es tratable»), fisioterapia y terapia ocupacional especializadas en FND, TCC para comorbilidades.",
+      "fuente": "DSM-5; ICD-11; Stone J. et al., functional neurological disorder guidance."
     }
   ]
 }
