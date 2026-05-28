@@ -28,11 +28,21 @@ ruta("progreso", vistaProgreso);
 ruta("ajustes", vistaAjustes);
 ruta("editar/:tipo/:id", ({ tipo, id }) => abrirEditor(tipo, id));
 
-// Resalta el item de navegación activo.
+// Resalta el item de navegación activo. Algunas rutas hijas
+// se mapean a una pestaña del navbar para coherencia visual.
+const NAV_ALIAS = {
+  caso: "casos",
+  preguntas: "quiz",   // listado para editar pertenece al universo de quiz
+  marcadas: "quiz",
+  editar: "quiz",
+  importar: "quiz",
+};
 alCambiar((segmentos) => {
-  const base = segmentos[0] || "home";
+  const raw = segmentos[0] || "";
+  const base = NAV_ALIAS[raw] || raw || "home";
   document.querySelectorAll("[data-nav]").forEach((b) => {
-    b.classList.toggle("activo", b.dataset.nav === base || (base === "home" && b.dataset.nav === ""));
+    const target = b.dataset.nav || "home";
+    b.classList.toggle("activo", target === base || (base === "home" && target === ""));
   });
 });
 

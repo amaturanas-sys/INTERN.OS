@@ -295,10 +295,12 @@ textarea { resize: vertical; }
 .buscar-pregs__inp { padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; font-size: 14px; background: var(--card); color: var(--txt); }
 .buscar-pregs__controles select { padding: 8px 10px; border: 1px solid var(--line); border-radius: 10px; background: var(--card); color: var(--txt); }
 .buscar-pregs__lista { list-style: none; padding: 0; margin: 8px 0; display: grid; gap: 8px; }
-.buscar-pregs__btn { width: 100%; text-align: left; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; cursor: pointer; color: var(--txt); }
+.buscar-pregs__item { display: flex; gap: 8px; align-items: stretch; }
+.buscar-pregs__btn { flex: 1; min-width: 0; text-align: left; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; cursor: pointer; color: var(--txt); }
 .buscar-pregs__btn:hover { border-color: var(--teal); }
 .buscar-pregs__enun { margin: 6px 0 0; font-size: 14px; line-height: 1.4;
   display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.badge--id { font-family: monospace; font-size: 10px; }
 @media (min-width: 720px) {
   .buscar-pregs__controles { grid-template-columns: 2fr 1fr 1fr; }
 }

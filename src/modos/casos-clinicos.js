@@ -30,6 +30,17 @@ export async function vistaCasosLista() {
 export async function vistaCaso({ id }) {
   const caso = await get("casos_clinicos", id);
   if (!caso) { navegar("casos"); return; }
+  if (!Array.isArray(caso.etapas) || caso.etapas.length === 0) {
+    mount(el("div", { class: "card" }, [
+      el("h2", { text: caso.titulo || "Caso" }),
+      el("p", { class: "muted", text: "Este caso no tiene etapas cargadas. Edítalo para agregarlas." }),
+      el("div", { class: "runner__acciones" }, [
+        el("button", { class: "btn btn--ghost", onClick: () => navegar(`editar/caso/${encodeURIComponent(caso.id)}`) }, "✎ Editar caso"),
+        el("button", { class: "btn btn--ghost", onClick: () => navegar("casos") }, "Volver"),
+      ]),
+    ]));
+    return;
+  }
 
   const etapas = caso.etapas.slice().sort((a, b) => a.orden - b.orden);
   let idx = 0;
@@ -53,7 +64,18 @@ export async function vistaCaso({ id }) {
 
     const feedback = el("div", { class: "feedback" });
     const opcionesBox = el("div", { class: "opciones" });
-    etapa.opciones.forEach((op) => {
+    const opciones = Array.isArray(etapa.opciones) ? etapa.opciones : [];
+    if (opciones.length === 0) {
+      // Etapa sin opciones (ej. solo enunciado narrativo): permitir avanzar.
+      cont.append(opcionesBox,
+        el("div", { class: "runner__acciones" }, [
+          el("button", { class: "btn btn--primary",
+            onClick: () => { if (idx === etapas.length - 1) finalizar(); else { idx++; pintarEtapa(); } } },
+            idx === etapas.length - 1 ? "Ver resumen del caso" : "Continuar →"),
+        ]));
+      return;
+    }
+    opciones.forEach((op) => {
       const btn = el("button", { class: "opcion" }, [
         el("span", { class: "opcion__letra", text: op.letra.toUpperCase() }),
         el("span", { class: "opcion__texto", text: op.texto }),
@@ -66,7 +88,7 @@ export async function vistaCaso({ id }) {
 
         Array.from(opcionesBox.children).forEach((b, i) => {
           b.classList.add("opcion--bloqueada");
-          if (etapa.opciones[i].correcta) b.classList.add("opcion--correcta");
+          if (opciones[i] && opciones[i].correcta) b.classList.add("opcion--correcta");
         });
         if (!correcta) btn.classList.add("opcion--incorrecta");
 
@@ -88,7 +110,7 @@ export async function vistaCaso({ id }) {
 
   function finalizar() {
     const aciertos = decisiones.filter((d) => d.correcta).length;
-    const pct = Math.round((aciertos / decisiones.length) * 100);
+    const pct = decisiones.length ? Math.round((aciertos / decisiones.length) * 100) : 0;
     clear(cont);
     cont.append(
       el("h2", { text: "Resumen del caso" }),

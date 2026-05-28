@@ -26,7 +26,12 @@ export async function abrirEditor(tipo, id) {
   if (!item) { toast("Ítem no encontrado", "error"); navegar(""); return; }
 
   const form = el("div", { class: "card editor" });
-  const estado = { imagen: clon(item.imagen) || { presente: false, requerida: false, data: null, descripcion: null } };
+  const imgClonada = clon(item.imagen);
+  const estado = {
+    imagen: imgClonada && typeof imgClonada === "object"
+      ? { presente: !!imgClonada.presente, requerida: !!imgClonada.requerida, data: imgClonada.data || null, descripcion: imgClonada.descripcion || null }
+      : { presente: false, requerida: false, data: null, descripcion: null }
+  };
 
   const titulo = el("div", { class: "editor__head" }, [
     el("div", {}, [
@@ -87,7 +92,7 @@ export async function abrirEditor(tipo, id) {
       ? el("button", { class: "btn btn--ghost", onClick: verHistorial }, `Ver historial (${item.historial_ediciones.length})`) : null,
   ]);
 
-  form.append(titulo, campos, bloqueRequiere(estado, tipo), traza, acciones);
+  form.append(titulo, campos, bloqueRequiere(estado, tipo), bloqueMarcada(tipo, item), traza, acciones);
   mount(form);
 
   function verHistorial() {
@@ -162,12 +167,16 @@ function opcionesEditor(opciones, refs) {
     el("span", { class: "form__label", text: "Alternativas (marca la correcta)" }),
   ]);
   const lista = el("div", { class: "opciones-editor" });
-  opciones.forEach((op) => {
+  const ops = Array.isArray(opciones) && opciones.length
+    ? opciones
+    : ["a", "b", "c", "d", "e"].map((l) => ({ letra: l, texto: "", correcta: false }));
+  ops.forEach((op) => {
+    const letra = (op.letra || "a").toLowerCase();
     const radio = el("input", { type: "radio", name: "correcta", ...(op.correcta ? { checked: "checked" } : {}) });
-    const texto = el("input", { type: "text", value: op.texto, class: "op-texto" });
-    refs._ops.push({ radio, texto, letra: op.letra });
+    const texto = el("input", { type: "text", value: op.texto || "", class: "op-texto" });
+    refs._ops.push({ radio, texto, letra });
     lista.appendChild(el("div", { class: "op-edit" }, [
-      radio, el("span", { class: "op-edit__letra", text: op.letra.toUpperCase() }), texto,
+      radio, el("span", { class: "op-edit__letra", text: letra.toUpperCase() }), texto,
     ]));
   });
   box.appendChild(lista);
@@ -247,6 +256,15 @@ function bibliografiaSugeridaUI(item, fuenteInput) {
         }, "Usar esta fuente"),
       ])
     )),
+  ]);
+}
+
+function bloqueMarcada(tipo, item) {
+  if (tipo !== "pregunta") return null;
+  const chk = el("input", { type: "checkbox", ...(item.marcada_revision ? { checked: "checked" } : {}) });
+  chk.addEventListener("change", () => { item.marcada_revision = chk.checked; });
+  return el("label", { class: "form__row form__check" }, [
+    chk, el("span", { text: "Marcar para revisar (queda en la cola 'Preguntas marcadas')." }),
   ]);
 }
 
