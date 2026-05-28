@@ -1,13 +1,12 @@
 // Editor con trazabilidad (sección 4 + decisión 10.5).
 // Edita preguntas, definiciones y casos; obliga a registrar la fuente del cambio,
 // conserva el historial de versiones y permite adjuntar imágenes de apoyo.
-import { el, clear, mount, toast, badge, modal } from "../ui/dom.js";
+import { el, clear, mount, toast, badge, modal, hoyISO } from "../ui/dom.js";
 import { navegar } from "../ui/router.js";
 import { get, put } from "../db/db.js";
 import { archivoADataURL } from "../ui/imagen.js";
 
 const STORE = { pregunta: "preguntas", definicion: "definiciones", caso: "casos_clinicos" };
-const hoy = () => new Date().toISOString().slice(0, 10);
 
 function snapshotEditable(tipo, item) {
   if (tipo === "pregunta") {
@@ -118,12 +117,34 @@ export async function abrirEditor(tipo, id) {
   async function guardar() {
     if (!fuente.value.trim()) { toast("La fuente es obligatoria para guardar.", "error"); fuente.focus(); return; }
 
+    // Validaciones por tipo — evita guardar ítems inválidos.
+    if (tipo === "pregunta" || tipo === "definicion") {
+      const enunciadoIn = tipo === "pregunta" ? refs.enunciado : refs.pregunta;
+      const ops = leerOpciones(refs);
+      if (!enunciadoIn.value.trim()) {
+        toast(tipo === "pregunta" ? "Enunciado vacío." : "Pregunta vacía.", "error");
+        enunciadoIn.focus(); return;
+      }
+      if (ops.filter((o) => (o.texto || "").trim()).length < 2) {
+        toast("Se necesitan al menos 2 alternativas con texto.", "error"); return;
+      }
+      if (!ops.some((o) => o.correcta)) {
+        toast("Marca una alternativa como correcta.", "error"); return;
+      }
+    }
+
     const pre = snapshotEditable(tipo, item);
 
     if (tipo === "pregunta") {
       item.enunciado = refs.enunciado.value.trim();
       item.opciones = leerOpciones(refs);
       item.justificacion = refs.justificacion.value.trim();
+      // Cualquier edición reactiva una inactiva (la app la vuelve a usar
+      // si ya tiene opción correcta).
+      if (item.inactivo && item.opciones.some((o) => o.correcta)) {
+        delete item.inactivo;
+        delete item.razon_inactivo;
+      }
     } else if (tipo === "definicion") {
       item.concepto = refs.concepto.value.trim();
       item.pregunta = refs.pregunta.value.trim();
@@ -147,13 +168,17 @@ export async function abrirEditor(tipo, id) {
     const nuevaVersion = (item.version_actual || 1) + 1;
     item.version_actual = nuevaVersion;
     item.historial_ediciones.push({
-      version: nuevaVersion, fecha: hoy(), fuente: fuente.value.trim(),
+      version: nuevaVersion, fecha: hoyISO(), fuente: fuente.value.trim(),
       nota: nota.value.trim() || null, snapshot: snapshotEditable(tipo, item),
     });
 
-    await put(STORE[tipo], item);
-    toast(`Guardado como versión ${nuevaVersion}.`, "ok");
-    navegar(volver(tipo));
+    try {
+      await put(STORE[tipo], item);
+      toast(`Guardado como versión ${nuevaVersion}.`, "ok");
+      navegar(volver(tipo));
+    } catch (e) {
+      toast("No se pudo guardar: " + (e && e.message || "error"), "error");
+    }
   }
 }
 

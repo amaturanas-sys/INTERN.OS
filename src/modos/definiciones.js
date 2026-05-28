@@ -1,5 +1,5 @@
 // Modo 3 — Definiciones (conceptos, fármacos, herramientas). Sección 3, Modo 3.
-import { el, mount } from "../ui/dom.js";
+import { el, mount, mezclar } from "../ui/dom.js";
 import { getAll } from "../db/db.js";
 import { runMcq } from "../ui/mcq.js";
 import { navegar } from "../ui/router.js";
@@ -75,13 +75,4 @@ export async function vistaDefiniciones() {
       onFinish: (r) => registrarSesion({ modo: "definiciones", ...r }),
     });
   }
-}
-
-function mezclar(a) {
-  const arr = a.slice();
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-  return arr;
 }

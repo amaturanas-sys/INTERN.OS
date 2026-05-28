@@ -65,7 +65,16 @@ export async function vistaListadoPreguntas() {
   function pintar(filtradas) {
     resultadosBox.innerHTML = "";
     paginadorBox.innerHTML = "";
-    conteoLbl.textContent = `${filtradas.length} pregunta(s) — página ${pagina + 1} de ${Math.max(1, Math.ceil(filtradas.length / PAGE))}`;
+    // Si un filtro reduce los resultados y la página actual queda fuera,
+    // reseteamos a la primera. Evita lista vacía con paginador "página 3 de 1".
+    const maxPag = Math.max(1, Math.ceil(filtradas.length / PAGE));
+    if (pagina >= maxPag) pagina = 0;
+    conteoLbl.textContent = `${filtradas.length} pregunta(s) — página ${pagina + 1} de ${maxPag}`;
+    if (filtradas.length === 0) {
+      resultadosBox.appendChild(el("li", { class: "muted",
+        text: "Sin resultados con los filtros aplicados." }));
+      return;
+    }
     const slice = filtradas.slice(pagina * PAGE, (pagina + 1) * PAGE);
     slice.forEach((p) => {
       const btnAbrir = el("button", {
@@ -85,12 +94,20 @@ export async function vistaListadoPreguntas() {
       ]);
       const btnMarcar = el("button", {
         class: "btn btn--ghost btn--sm",
+        type: "button",
         title: p.marcada_revision ? "Quitar marca" : "Marcar para revisar",
+        "aria-label": p.marcada_revision ? "Quitar marca de revisión" : "Marcar para revisar",
         onClick: async (ev) => {
           ev.stopPropagation();
-          p.marcada_revision = !p.marcada_revision;
-          await put("preguntas", p);
-          toast(p.marcada_revision ? "Marcada." : "Desmarcada.", "ok");
+          const previo = !!p.marcada_revision;
+          p.marcada_revision = !previo;
+          try {
+            await put("preguntas", p);
+            toast(p.marcada_revision ? "Marcada." : "Desmarcada.", "ok");
+          } catch (e) {
+            p.marcada_revision = previo;  // revertir si IDB falló
+            toast("No se pudo marcar: " + (e && e.message || "error"), "error");
+          }
           aplicar();
         },
       }, p.marcada_revision ? "🚩" : "☆");
