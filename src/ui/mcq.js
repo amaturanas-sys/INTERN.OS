@@ -136,17 +136,21 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
       if (item.explicacion) {
         feedback.appendChild(el("p", { class: "feedback__exp", text: item.explicacion }));
       }
-      if (Array.isArray(item.bibliografia) && item.bibliografia.length) {
+      // Refs visibles = solo las que tienen URL pública. Filtramos ANTES de
+      // pintar el contenedor para evitar caja "Clases relacionadas" vacía
+      // cuando las refs vienen de manuales (Farreras/UC) sin URL.
+      const refsConUrl = (Array.isArray(item.bibliografia) ? item.bibliografia : [])
+        .filter((r) => r && r.url).slice(0, 3);
+      if (refsConUrl.length) {
         const refsBox = el("div", { class: "feedback__refs" }, [
           el("p", { class: "feedback__refs-titulo", text: "Clases relacionadas" }),
         ]);
-        item.bibliografia.slice(0, 3).forEach((r) => {
-          if (!r.url) return;
+        refsConUrl.forEach((r) => {
           const a = el("a", {
             href: r.url, target: "_blank", rel: "noopener noreferrer", class: "feedback__ref",
           }, [
             el("span", { class: "feedback__ref-icon", text: "▶" }),
-            el("span", { class: "feedback__ref-titulo", text: r.titulo || r.archivo || r.url }),
+            el("span", { class: "feedback__ref-titulo", text: r.titulo || r.archivo }),
           ]);
           refsBox.appendChild(a);
         });

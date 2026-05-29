@@ -15,13 +15,9 @@
   /* Acento — teal sobrio (compatible con el azul del logo) */
   --accent:    #0d8a8c;
   --accent-d:  #0a6e70;  /* hover / activo */
-  --accent-l:  #14a8aa;  /* highlight */
   --accent-fg: #ffffff;
   --accent-soft: rgba(13,138,140,.08);  /* fondos suaves */
   --accent-ring: rgba(13,138,140,.25);  /* focus ring */
-
-  /* Marca brand (logo) — para texto/títulos donde aplica */
-  --brand-d:   #1f4e79;
 
   /* Status */
   --ok:        #16a34a;
@@ -32,10 +28,8 @@
   --warn-soft: rgba(180,83,9,.10);
 
   /* Radii */
-  --r-sm: 8px;
   --r:    12px;
   --r-lg: 16px;
-  --radius: 12px; /* compat */
 
   /* Shadows — capa fina, no aplastante */
   --shadow-xs: 0 1px 2px rgb(28 25 23 / .04);
@@ -438,7 +432,6 @@ textarea { resize: vertical; line-height: 1.5; }
 }
 .badge--edit { background: var(--warn-soft); border-color: transparent; color: var(--warn); }
 .badge--img  { background: var(--accent-soft); border-color: transparent; color: var(--accent-d); }
-.badge--ok   { background: var(--ok-soft); border-color: transparent; color: #166534; }
 .badge--mal  { background: var(--mal-soft); border-color: transparent; color: #991b1b; }
 .badge--id   { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 10.5px; padding: 1px 7px; }
 

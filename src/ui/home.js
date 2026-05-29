@@ -131,7 +131,7 @@ function stat(label, valor, sub) {
 }
 
 function tarjeta(nombreIcono, titulo, desc, ruta, meta) {
-  const icono_node = icono(nombreIcono, { tamano: 20, clase: "modo-card__icono-svg" });
+  const icono_node = icono(nombreIcono, { tamano: 20 });
   return el("button", { class: "modo-card", type: "button", onClick: () => navegar(ruta) }, [
     el("div", { class: "modo-card__icono" }, [icono_node]),
     el("div", { class: "modo-card__cuerpo" }, [
