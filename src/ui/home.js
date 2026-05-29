@@ -29,7 +29,33 @@ export async function vistaHome() {
         el("img", { src: "assets/icon.svg", alt: "InternOS", class: "home__logo" }),
         el("span", { class: "home__version", title: ver.fecha_build || "", text: etiquetaCorta(ver) }),
       ]),
-      el("p", { class: "muted", text: "Estudio EUNACOM offline · material del Dr. Guevara" }),
+      el("p", { class: "home__bienvenida", text:
+        "¡Bienvenido a InternOS! Tu plataforma de estudio EUNACOM 100% offline. " +
+        "Practica todos los días aunque no tengas conexión: tus respuestas y " +
+        "ediciones quedan guardadas en este dispositivo." }),
+      el("details", { class: "home__instructivo" }, [
+        el("summary", { text: "¿Cómo usar la aplicación?" }),
+        el("ol", { class: "home__instructivo-lista" }, [
+          el("li", { html: "<b>Sesión veloz</b> (botón ⚡ más abajo): 20 preguntas mezcladas " +
+            "automáticamente entre tu repaso pendiente (SM-2), preguntas que has fallado y " +
+            "preguntas nuevas. Es la forma más rápida de estudiar a diario." }),
+          el("li", { html: "<b>Modo 1 · Quiz por temas</b>: filtra el banco por especialidad, " +
+            "tema, sistema, dificultad o frecuencia EUNACOM y responde con feedback inmediato." }),
+          el("li", { html: "<b>Modo 2 · Casos clínicos</b>: casos paso a paso. Lineales con " +
+            "feedback — aunque te equivoques en una decisión, el caso continúa hasta el resumen final." }),
+          el("li", { html: "<b>Modo 3 · Definiciones</b>: fármacos, conceptos, herramientas " +
+            "diagnósticas y síntesis de guías 2024-2026 (GINA, GOLD, ESC, AHA, ADA, SSC, ACG) en MCQ." }),
+          el("li", { html: "<b>🚩 Marca</b> cualquier pregunta que quieras revisar después. " +
+            "Aparecen agrupadas en «Marcadas» para practicarlas o editarlas en lote." }),
+          el("li", { html: "<b>✎ Edita con trazabilidad</b>: corrige enunciados, opciones o " +
+            "justificaciones; agrega bibliografía verificada; queda historial de versión y fuente obligatoria." }),
+          el("li", { html: "<b>Atajos de teclado</b>: las teclas <kbd>1-9</kbd> o <kbd>a-e</kbd> " +
+            "seleccionan opción; <kbd>Enter</kbd> o <kbd>Espacio</kbd> avanzan a la siguiente." }),
+          el("li", { html: "<b>Progreso y respaldo</b>: en «Progreso» ves tu acierto, racha y " +
+            "temas débiles. En «Ajustes» puedes exportar todo (banco + ediciones + progreso) o " +
+            "restaurarlo en otro dispositivo." }),
+        ]),
+      ]),
     ]),
 
     // ---- Estadísticas rápidas ----
