@@ -1,67 +1,65 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <!-- InternOS · Bastón de Esculapio v3 — I gruesa serif Mayo Clinic-style
-       Serpiente trepa desde inferior-izquierda dando una vuelta completa,
-       cabeza erguida en superior-derecha con boca abierta y lengua bífida.
-       Monocromo grayscale sobre blanco.
+  <!-- InternOS · Bastón de Esculapio v4
+       Estilo Star of Life (medicina de emergencia):
+       vástago vertical con remates serif sutiles (lee como "I"),
+       serpiente coilada en arcos C alternados subiendo,
+       cabeza erguida arriba con lengua bífida. Grayscale.
   -->
   <rect width="512" height="512" rx="112" fill="#ffffff"/>
 
-  <g fill="#3f3f46">
-    <!-- ===== I serif muy gruesa (Mayo Clinic-style) ===== -->
-    <!-- Serif superior -->
-    <rect x="148" y="84" width="216" height="24" rx="3"/>
-    <!-- Cap inset (Mayo detail) -->
-    <rect x="148" y="108" width="16" height="14"/>
-    <rect x="348" y="108" width="16" height="14"/>
-    <!-- Vástago grueso (80→100 px wide) -->
-    <rect x="206" y="108" width="100" height="296" rx="2"/>
-    <!-- Cap inset inferior -->
-    <rect x="148" y="404" width="16" height="14"/>
-    <rect x="348" y="404" width="16" height="14"/>
-    <!-- Serif inferior -->
-    <rect x="148" y="418" width="216" height="24" rx="3"/>
+  <g fill="#3f3f46" stroke="#3f3f46" stroke-linecap="round" stroke-linejoin="round">
 
-    <!-- ===== Cola en inferior-izquierda (peeking out) ===== -->
-    <path fill="none" stroke="#3f3f46" stroke-width="14" stroke-linecap="round"
-          d="M130 410 Q 145 400 160 395"/>
+    <!-- ===== Vástago (la I): rod central con serifs sutiles ===== -->
+    <!-- Serif superior fino -->
+    <rect x="208" y="110" width="96" height="12" rx="2" stroke="none"/>
+    <!-- Vástago grueso pero proporcionado -->
+    <rect x="244" y="122" width="24" height="276" stroke="none"/>
+    <!-- Serif inferior fino -->
+    <rect x="208" y="398" width="96" height="12" rx="2" stroke="none"/>
 
-    <!-- ===== Cuerpo serpiente: 2 segmentos visibles cruzando frente al vástago,
-         dando una vuelta completa desde inferior-izq hasta superior-der ===== -->
-    <g fill="none" stroke="#3f3f46" stroke-width="22" stroke-linecap="round">
-      <!-- Wrap 1 (inferior): cruza desde left a right going up -->
-      <path d="M160 395 C 200 360 280 360 350 318"/>
-      <!-- Wrap 2 (superior): cruza desde left a right going up (más arriba) -->
-      <path d="M168 240 C 230 200 296 175 350 140"/>
+    <!-- ===== Serpiente: cuerpo en arcos C alternados subiendo
+         alrededor del vástago. 5 arcos visibles (2 vueltas + medio arco al tope). ===== -->
+    <g fill="none" stroke-width="16">
+      <!-- Arco 1: derecha, abajo -->
+      <path d="M 256 372 C 304 372 304 322 256 322"/>
+      <!-- Arco 2: izquierda -->
+      <path d="M 256 322 C 208 322 208 272 256 272"/>
+      <!-- Arco 3: derecha -->
+      <path d="M 256 272 C 304 272 304 222 256 222"/>
+      <!-- Arco 4: izquierda -->
+      <path d="M 256 222 C 208 222 208 172 256 172"/>
+      <!-- Arco 5: derecha (final, sube hacia cabeza) -->
+      <path d="M 256 172 C 304 172 312 132 296 96"/>
     </g>
 
-    <!-- ===== Cabeza erguida en superior-derecha (vertical, mirando hacia arriba) ===== -->
+    <!-- ===== Cola peeking abajo-izquierda ===== -->
+    <path fill="none" stroke-width="11"
+          d="M 256 372 C 244 384 232 390 218 392"/>
+
+    <!-- ===== Cabeza erguida arriba-derecha ===== -->
+    <!-- Cabeza: oval inclinado pointing up-right, with rounded snout -->
     <g>
-      <!-- Cuello transición desde wrap 2 -->
-      <path fill="none" stroke="#3f3f46" stroke-width="20" stroke-linecap="round"
-            d="M350 140 C 360 130 366 122 366 110"/>
-      <!-- Cabeza: forma triangular-almendrada vertical apuntando arriba -->
-      <path d="M340 122
-               Q 332 100 342 78
-               Q 350 62 360 60
-               Q 366 60 366 75
-               L 364 88
-               Q 370 90 374 88
-               L 372 75
-               Q 372 60 380 60
-               Q 392 64 396 82
-               Q 400 104 388 122
-               Q 364 130 340 122 Z"/>
+      <path d="M 280 100
+               C 268 84 274 60 290 50
+               C 308 40 328 46 334 64
+               C 338 80 332 92 324 96
+               L 322 92
+               C 318 96 312 96 308 92
+               C 306 96 302 100 296 102
+               C 290 102 284 100 280 100 Z"
+            stroke="none"/>
       <!-- Ojo de la serpiente -->
-      <circle cx="350" cy="98" r="3.5" fill="#ffffff"/>
-      <!-- Lengua bífida (Y-shape erecta) -->
-      <g fill="none" stroke="#3f3f46" stroke-width="3.5" stroke-linecap="round">
-        <!-- Tronco de la lengua subiendo -->
-        <line x1="368" y1="80" x2="372" y2="44"/>
-        <!-- Bifurcación izquierda -->
-        <line x1="372" y1="44" x2="364" y2="32"/>
-        <!-- Bifurcación derecha -->
-        <line x1="372" y1="44" x2="382" y2="34"/>
-      </g>
+      <circle cx="312" cy="62" r="4" fill="#ffffff" stroke="none"/>
+    </g>
+
+    <!-- ===== Lengua bífida saliendo de la boca (Y-shape) ===== -->
+    <g fill="none" stroke-width="3.5">
+      <!-- Tronco principal -->
+      <path d="M 330 50 L 348 24"/>
+      <!-- Bifurcación izquierda -->
+      <path d="M 348 24 L 340 14"/>
+      <!-- Bifurcación derecha -->
+      <path d="M 348 24 L 358 20"/>
     </g>
   </g>
 </svg>
