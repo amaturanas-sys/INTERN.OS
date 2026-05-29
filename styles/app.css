@@ -707,6 +707,41 @@ textarea { resize: vertical; line-height: 1.5; }
   .buscar-pregs__controles { grid-template-columns: 2fr 1fr 1fr; }
 }
 
+/* === Sistema de íconos SVG === */
+.icono { display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; }
+.icono svg { display: block; }
+.btn .icono, .btn svg { margin-right: -2px; }
+.btn--ghost.btn--sm .icono { opacity: .85; }
+
+/* Ícono dentro del bloque cuadrado de tarjeta-modo */
+.modo-card__icono { color: var(--accent-d); background: color-mix(in oklab, var(--accent), white 88%); }
+.modo-card:hover .modo-card__icono { background: color-mix(in oklab, var(--accent), white 80%); }
+
+/* Flecha de navegación → muted, hover-activa */
+.lista__flecha { margin-left: auto; color: var(--muted-2); transition: color var(--t-fast), transform var(--t-fast); }
+.lista__item:hover .lista__flecha, .modo-card:hover .lista__flecha { color: var(--accent); transform: translateX(2px); }
+
+/* Feedback header: ícono check/x junto al título */
+.feedback__titulo { display: flex; align-items: center; gap: 6px; }
+.feedback--ok  .feedback__titulo-icono { color: var(--ok); }
+.feedback--mal .feedback__titulo-icono { color: var(--mal); }
+
+/* Decisiones (resumen del caso): ícono de estado al final */
+.decisiones__elegida { flex: 1; min-width: 0; color: var(--txt-2); }
+.decisiones__icono { margin-left: auto; }
+.decisiones__icono--ok  { color: var(--ok); }
+.decisiones__icono--mal { color: var(--mal); }
+
+/* Badge "marcada" con ícono inline */
+.badge--marcada { background: var(--accent-soft); border-color: transparent; color: var(--accent-d); display: inline-flex; align-items: center; gap: 4px; }
+.badge--marcada svg { margin-right: 1px; }
+
+/* Navbar: label separado del SVG */
+.navbar__btn svg { color: var(--muted-2); transition: color var(--t-fast); }
+.navbar__btn:hover svg { color: var(--txt-2); }
+.navbar__btn.activo svg { color: var(--accent-d); }
+.navbar__label { font: inherit; }
+
 /* === Animaciones suaves para entrada de vista === */
 .vista > * { animation: viewIn 280ms var(--ease) both; }
 @keyframes viewIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }

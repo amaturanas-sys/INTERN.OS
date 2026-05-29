@@ -25,6 +25,7 @@ const ASSETS = [
   "./src/ui/router.js",
   "./src/ui/mcq.js",
   "./src/ui/imagen.js",
+  "./src/ui/iconos.js",
   "./src/ui/home.js",
   "./src/ui/progreso.js",
   "./src/ui/ajustes.js",

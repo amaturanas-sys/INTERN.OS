@@ -90,7 +90,17 @@ export function modal(titulo, contenido, acciones = []) {
   }, [
     el("div", { class: "modal__head" }, [
       el("h3", { id: tituloId, text: titulo }),
-      el("button", { class: "modal__x", onClick: cerrar, "aria-label": "Cerrar" }, "✕"),
+      (() => {
+        // SVG inline para la X (evita ciclo con iconos.js).
+        const x = document.createElement("button");
+        x.className = "modal__x";
+        x.setAttribute("aria-label", "Cerrar");
+        x.innerHTML = '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" ' +
+          'fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">' +
+          '<line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>';
+        x.addEventListener("click", cerrar);
+        return x;
+      })(),
     ]),
     el("div", { class: "modal__body" }, [contenido]),
     el("div", { class: "modal__foot" }, botones),

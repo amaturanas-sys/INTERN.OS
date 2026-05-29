@@ -7,6 +7,7 @@ import { leerProgreso, registrarRespuesta, registrarSesion } from "../db/stats.j
 import { runMcq } from "./mcq.js";
 import { requiereImagenFaltante } from "./imagen.js";
 import { leerVersion, etiquetaCorta } from "../version.js";
+import { icono, iconoHTML } from "./iconos.js";
 
 export async function vistaHome() {
   const [nPreg, nCasos, nDefs, rep, g, objetivo, ver, todasPreg] = await Promise.all([
@@ -36,19 +37,22 @@ export async function vistaHome() {
       el("details", { class: "home__instructivo" }, [
         el("summary", { text: "¿Cómo usar la aplicación?" }),
         el("ol", { class: "home__instructivo-lista" }, [
-          el("li", { html: "<b>Sesión veloz</b> (botón ⚡ más abajo): 20 preguntas mezcladas " +
-            "automáticamente entre tu repaso pendiente (SM-2), preguntas que has fallado y " +
-            "preguntas nuevas. Es la forma más rápida de estudiar a diario." }),
+          el("li", { html: "<b>Sesión veloz</b> (botón " + iconoHTML("veloz", 14) +
+            " más abajo): 20 preguntas mezcladas automáticamente entre tu repaso pendiente " +
+            "(SM-2), preguntas que has fallado y preguntas nuevas. Es la forma más rápida " +
+            "de estudiar a diario." }),
           el("li", { html: "<b>Modo 1 · Quiz por temas</b>: filtra el banco por especialidad, " +
             "tema, sistema, dificultad o frecuencia EUNACOM y responde con feedback inmediato." }),
           el("li", { html: "<b>Modo 2 · Casos clínicos</b>: casos paso a paso. Lineales con " +
             "feedback — aunque te equivoques en una decisión, el caso continúa hasta el resumen final." }),
           el("li", { html: "<b>Modo 3 · Definiciones</b>: fármacos, conceptos, herramientas " +
             "diagnósticas y síntesis de guías 2024-2026 (GINA, GOLD, ESC, AHA, ADA, SSC, ACG) en MCQ." }),
-          el("li", { html: "<b>🚩 Marca</b> cualquier pregunta que quieras revisar después. " +
-            "Aparecen agrupadas en «Marcadas» para practicarlas o editarlas en lote." }),
-          el("li", { html: "<b>✎ Edita con trazabilidad</b>: corrige enunciados, opciones o " +
-            "justificaciones; agrega bibliografía verificada; queda historial de versión y fuente obligatoria." }),
+          el("li", { html: "<b>" + iconoHTML("marcar", 14) + " Marca</b> cualquier pregunta " +
+            "que quieras revisar después. Aparecen agrupadas en «Marcadas» para practicarlas " +
+            "o editarlas en lote." }),
+          el("li", { html: "<b>" + iconoHTML("editar", 14) + " Edita con trazabilidad</b>: " +
+            "corrige enunciados, opciones o justificaciones; agrega bibliografía verificada; " +
+            "queda historial de versión y fuente obligatoria." }),
           el("li", { html: "<b>Atajos de teclado</b>: las teclas <kbd>1-9</kbd> o <kbd>a-e</kbd> " +
             "seleccionan opción; <kbd>Enter</kbd> o <kbd>Espacio</kbd> avanzan a la siguiente." }),
           el("li", { html: "<b>Progreso y respaldo</b>: en «Progreso» ves tu acierto, racha y " +
@@ -62,7 +66,7 @@ export async function vistaHome() {
     el("div", { class: "home__stats" }, [
       stat("Respondidas", g.total_respondidas || 0),
       stat("Acierto", `${pct}%`),
-      stat("Racha", `🔥 ${g.racha_dias || 0}`),
+      stat("Racha", `${g.racha_dias || 0} d`),
       stat("Repaso", rep.pendientes || 0, "para hoy"),
       stat("Marcadas", marcadas, "por revisar"),
       stat("Editadas", editadas, "con fuente"),
@@ -83,7 +87,7 @@ export async function vistaHome() {
       el("div", { class: "runner__acciones" }, [
         el("button", { class: "btn btn--primary",
           onClick: () => iniciarSesionDelDia(20)
-        }, "⚡ 20 preguntas rápidas"),
+        }, [icono("veloz", { tamano: 16 }), "20 preguntas rápidas"]),
         el("button", { class: "btn btn--ghost",
           onClick: () => iniciarSesionDelDia(Math.max(5, objetivo - respondidasHoy))
         }, respondidasHoy >= objetivo ? "+1 más" : `Completar día (${Math.max(0, objetivo - respondidasHoy)})`),
@@ -94,26 +98,26 @@ export async function vistaHome() {
     // ---- Modos de estudio ----
     el("h3", { class: "home__sub", text: "Modos" }),
     el("div", { class: "modos" }, [
-      tarjeta("📝", "Quiz por temas", "Filtra por especialidad, tema, dificultad.", "quiz", `${nPreg} preguntas`),
-      tarjeta("🩺", "Casos clínicos", "Casos paso a paso, lineales con feedback.", "casos", `${nCasos} casos`),
-      tarjeta("💡", "Definiciones", "Conceptos, fármacos y herramientas.", "definiciones", `${nDefs} definiciones`),
+      tarjeta("quiz",         "Quiz por temas",    "Filtra por especialidad, tema, dificultad.", "quiz",         `${nPreg} preguntas`),
+      tarjeta("casos",        "Casos clínicos",    "Casos paso a paso, lineales con feedback.", "casos",         `${nCasos} casos`),
+      tarjeta("definiciones", "Definiciones",      "Conceptos, fármacos y herramientas.",       "definiciones",  `${nDefs} definiciones`),
     ]),
 
     // ---- Curación activa ----
     el("h3", { class: "home__sub", text: "Curación" }),
     el("div", { class: "modos" }, [
-      tarjeta("✎", "Editar preguntas", "Buscar, corregir y enriquecer con bibliografía.", "preguntas", `${nPreg} en el banco`),
+      tarjeta("editar",   "Editar preguntas",    "Buscar, corregir y enriquecer con bibliografía.", "preguntas", `${nPreg} en el banco`),
       marcadas > 0
-        ? tarjeta("🚩", "Marcadas", "Cola personal para revisar y corregir.", "marcadas", `${marcadas} pendientes`)
-        : tarjeta("🚩", "Marcadas", "Aparecerán aquí al usar 🚩 durante un quiz.", "marcadas", "vacía"),
-      tarjeta("📂", "Importar .md / .txt", "Añade preguntas, casos o definiciones por archivo.", "importar"),
+        ? tarjeta("marcar", "Marcadas", "Cola personal para revisar y corregir.", "marcadas", `${marcadas} pendientes`)
+        : tarjeta("marcar", "Marcadas", "Aparecerán aquí al marcar preguntas durante un quiz.", "marcadas", "vacía"),
+      tarjeta("importar", "Importar .md / .txt", "Añade preguntas, casos o definiciones por archivo.", "importar"),
     ]),
 
     // ---- Herramientas ----
     el("h3", { class: "home__sub", text: "Herramientas" }),
     el("div", { class: "modos" }, [
-      tarjeta("📊", "Mi progreso", "Estadísticas, temas débiles y sesiones recientes.", "progreso"),
-      tarjeta("⚙️", "Ajustes", "Objetivo diario, exportar / restaurar, offline.", "ajustes"),
+      tarjeta("progreso", "Mi progreso", "Estadísticas, temas débiles y sesiones recientes.", "progreso"),
+      tarjeta("ajustes",  "Ajustes",     "Objetivo diario, exportar / restaurar, offline.",   "ajustes"),
     ]),
   ]));
 }
@@ -126,15 +130,16 @@ function stat(label, valor, sub) {
   ]);
 }
 
-function tarjeta(icono, titulo, desc, ruta, meta) {
-  return el("button", { class: "modo-card", onClick: () => navegar(ruta) }, [
-    el("div", { class: "modo-card__icono", text: icono }),
+function tarjeta(nombreIcono, titulo, desc, ruta, meta) {
+  const icono_node = icono(nombreIcono, { tamano: 20, clase: "modo-card__icono-svg" });
+  return el("button", { class: "modo-card", type: "button", onClick: () => navegar(ruta) }, [
+    el("div", { class: "modo-card__icono" }, [icono_node]),
     el("div", { class: "modo-card__cuerpo" }, [
       el("h3", { text: titulo }),
       el("p", { class: "muted", text: desc }),
       meta ? el("span", { class: "modo-card__meta", text: meta }) : null,
     ]),
-    el("span", { class: "lista__flecha", text: "›" }),
+    icono("chevron_derecha", { tamano: 16, clase: "lista__flecha" }),
   ]);
 }
 

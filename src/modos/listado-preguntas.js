@@ -3,6 +3,7 @@
 import { el, mount, badge, toast } from "../ui/dom.js";
 import { getAll, put } from "../db/db.js";
 import { navegar } from "../ui/router.js";
+import { icono, iconoHTML } from "../ui/iconos.js";
 
 const PAGE = 30;
 
@@ -86,7 +87,9 @@ export async function vistaListadoPreguntas() {
           p.especialidad_principal ? badge(p.especialidad_principal) : null,
           p.tema_validado ? badge(p.tema_validado) : null,
           p.version_actual > 1 ? badge(`v${p.version_actual}`, "badge--edit") : null,
-          p.marcada_revision ? badge("🚩 marcada") : null,
+          p.marcada_revision
+            ? el("span", { class: "badge badge--marcada", html: iconoHTML("marcar", 11) + " marcada" })
+            : null,
           p.utilizable === false ? badge("no usable") : null,
           p.inactivo ? badge("inactiva", "badge--mal") : null,
         ]),
@@ -110,7 +113,7 @@ export async function vistaListadoPreguntas() {
           }
           aplicar();
         },
-      }, p.marcada_revision ? "🚩" : "☆");
+      }, [icono(p.marcada_revision ? "marcar_lleno" : "marcar", { tamano: 16 })]);
       const li = el("li", { class: "buscar-pregs__item" }, [btnAbrir, btnMarcar]);
       resultadosBox.appendChild(li);
     });
@@ -121,12 +124,12 @@ export async function vistaListadoPreguntas() {
           class: "btn btn--ghost btn--sm",
           disabled: pagina === 0 ? "disabled" : null,
           onClick: () => { pagina = Math.max(0, pagina - 1); pintar(filtradas); },
-        }, "← Anterior"),
+        }, "Anterior"),
         el("button", {
           class: "btn btn--ghost btn--sm",
           disabled: pagina >= totalP - 1 ? "disabled" : null,
           onClick: () => { pagina = Math.min(totalP - 1, pagina + 1); pintar(filtradas); },
-        }, "Siguiente →"),
+        }, "Siguiente"),
       );
     }
   }
