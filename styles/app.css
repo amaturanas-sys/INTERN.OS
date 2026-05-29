@@ -65,6 +65,20 @@ h3 { margin: 18px 0 10px; }
 .home__hero h1 { margin: 0; font-size: 34px; color: var(--teal); }
 .home__logo { height: 72px; width: auto; display: block; border-radius: 16px; }
 .home__version { font-size: 12px; color: var(--muted); border: 1px solid var(--line); padding: 2px 8px; border-radius: 999px; font-family: monospace; }
+
+/* Bienvenida + instructivo en la landing */
+.home__bienvenida { margin: 14px 0 10px; font-size: 15px; line-height: 1.55; color: var(--txt); max-width: 60ch; }
+.home__instructivo { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 6px 14px; margin: 0 0 8px; }
+.home__instructivo > summary { font-weight: 600; color: var(--teal-d); cursor: pointer; padding: 8px 0; list-style: none; display: flex; align-items: center; gap: 8px; }
+.home__instructivo > summary::-webkit-details-marker { display: none; }
+.home__instructivo > summary::before { content: "›"; display: inline-block; transition: transform .2s; color: var(--teal); font-size: 18px; line-height: 1; }
+.home__instructivo[open] > summary::before { transform: rotate(90deg); }
+.home__instructivo > summary:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; border-radius: 6px; }
+.home__instructivo-lista { margin: 4px 0 12px; padding-left: 22px; display: grid; gap: 8px; font-size: 14px; line-height: 1.5; color: var(--txt); }
+.home__instructivo-lista li { padding-left: 4px; }
+.home__instructivo-lista b { color: var(--teal-d); }
+.home__instructivo-lista kbd { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12px; background: var(--card-2); border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 4px; padding: 1px 6px; margin: 0 2px; }
+
 .home__sub { padding-left: 4px; }
 .modos { display: grid; gap: 12px; }
 .modo-card {
