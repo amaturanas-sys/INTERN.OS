@@ -1,155 +1,98 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <!-- InternOS · Bastón de Esculapio v5
-       Inspirado en la estatua clásica: bastón orgánico de madera con
-       nudos, serpiente con múltiples vueltas naturales, cabeza erguida
-       arriba con ojo definido y lengua bífida. Vectores estilizados
-       con grayscale en dos tonos + highlights blancos sutiles.
+  <!-- InternOS · Bastón de Esculapio v6 — diseño desde cero
+       Principio: el I es una letra serif editorial bien construida.
+       La serpiente es UN solo trazo sinuoso que pasa por detrás
+       del I; la letra crea la oclusión natural y el efecto de wrap.
   -->
   <rect width="512" height="512" rx="112" fill="#fafaf9"/>
 
-  <defs>
-    <!-- Sombra sutil del bastón para depth -->
-    <linearGradient id="staffShade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"  stop-color="#3f3f46"/>
-      <stop offset="55%" stop-color="#52525b"/>
-      <stop offset="100%" stop-color="#3f3f46"/>
-    </linearGradient>
-    <!-- Sombra de la serpiente para depth -->
-    <linearGradient id="snakeShade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"  stop-color="#18181b"/>
-      <stop offset="55%" stop-color="#27272a"/>
-      <stop offset="100%" stop-color="#18181b"/>
-    </linearGradient>
-  </defs>
+  <!-- ═══════════════════════════════════════════════════════════
+       CAPA 1 · CUERPO DE LA SERPIENTE
+       Un único path bezier continuo: tail (abajo-izq) → head (arriba)
+       Oscila izquierda-derecha en 4.5 períodos como onda senoidal.
+       ═══════════════════════════════════════════════════════════ -->
+  <path fill="none" stroke="#27272a" stroke-width="24" stroke-linecap="round"
+        d="M 192 408
+           C 232 396 304 396 304 348
+           C 304 308 196 308 196 268
+           C 196 228 304 228 304 188
+           C 304 148 196 148 196 108
+           C 196 80 244 60 276 60"/>
 
-  <g>
-    <!-- ===== BASTÓN: vara orgánica con nudos visibles ===== -->
-    <g>
-      <!-- Vástago principal: ligeramente irregular, tapered hacia el tope -->
-      <path fill="url(#staffShade)" d="
-        M 250 78
-        C 246 100 252 120 248 142
-        L 246 178
-        C 252 210 246 240 250 270
-        L 248 304
-        C 252 340 246 372 250 402
-        C 252 422 256 432 262 440
-        L 274 440
-        C 268 432 266 422 268 402
-        C 264 372 270 340 266 304
-        L 268 270
-        C 264 240 270 210 266 178
-        L 268 142
-        C 264 120 270 100 266 78
-        C 264 70 258 68 256 72
-        C 254 68 252 70 250 78 Z"/>
-      <!-- Tope: pequeña esfera (knob del bastón) -->
-      <ellipse cx="258" cy="72" rx="12" ry="9" fill="#52525b"/>
-      <ellipse cx="255" cy="69" rx="3" ry="2" fill="#a8a29e" opacity="0.6"/>
-
-      <!-- Nudos del bastón (donde se cortaron ramas) -->
-      <g fill="#3f3f46">
-        <ellipse cx="254" cy="158" rx="10" ry="5"/>
-        <ellipse cx="262" cy="248" rx="9" ry="4.5"/>
-        <ellipse cx="252" cy="346" rx="11" ry="5"/>
-        <ellipse cx="266" cy="404" rx="8" ry="4"/>
-      </g>
-      <!-- Highlight central vertical para volumen del bastón -->
-      <path fill="#71717a" opacity="0.4" d="
-        M 256 80 L 257 440 L 253 440 L 252 80 Z"/>
-    </g>
-
-    <!-- ===== SERPIENTE: 5 arcos visibles alternados + cabeza + cola ===== -->
-
-    <!-- Cola asomando inferior-izquierda con punta fina -->
-    <path fill="none" stroke="url(#snakeShade)" stroke-width="11"
-          stroke-linecap="round"
-          d="M 230 416 C 214 422 198 422 184 416"/>
-
-    <!-- ARCO 1: derecha, bajo -->
-    <g>
-      <path fill="none" stroke="url(#snakeShade)" stroke-width="18"
-            stroke-linecap="round"
-            d="M 248 414 C 296 414 308 374 286 350"/>
-      <!-- highlight body 1 -->
-      <path fill="none" stroke="#ffffff" stroke-width="2.5"
-            opacity="0.35" stroke-linecap="round"
-            d="M 264 410 C 296 408 304 380 290 360"/>
-    </g>
-
-    <!-- ARCO 2: izquierda -->
-    <g>
-      <path fill="none" stroke="url(#snakeShade)" stroke-width="18"
-            stroke-linecap="round"
-            d="M 274 332 C 226 332 214 292 236 268"/>
-      <path fill="none" stroke="#ffffff" stroke-width="2.5"
-            opacity="0.35" stroke-linecap="round"
-            d="M 258 328 C 226 326 218 298 232 278"/>
-    </g>
-
-    <!-- ARCO 3: derecha -->
-    <g>
-      <path fill="none" stroke="url(#snakeShade)" stroke-width="18"
-            stroke-linecap="round"
-            d="M 248 250 C 296 250 308 210 286 186"/>
-      <path fill="none" stroke="#ffffff" stroke-width="2.5"
-            opacity="0.35" stroke-linecap="round"
-            d="M 264 246 C 296 244 304 216 290 196"/>
-    </g>
-
-    <!-- ARCO 4: izquierda -->
-    <g>
-      <path fill="none" stroke="url(#snakeShade)" stroke-width="17"
-            stroke-linecap="round"
-            d="M 274 168 C 226 168 214 130 238 110"/>
-      <path fill="none" stroke="#ffffff" stroke-width="2.5"
-            opacity="0.35" stroke-linecap="round"
-            d="M 258 164 C 230 162 220 138 234 120"/>
-    </g>
-
-    <!-- ARCO 5: derecha (sube al tope, conecta con cabeza) -->
-    <g>
-      <path fill="none" stroke="url(#snakeShade)" stroke-width="16"
-            stroke-linecap="round"
-            d="M 252 96 C 296 92 312 70 304 50"/>
-      <path fill="none" stroke="#ffffff" stroke-width="2.2"
-            opacity="0.35" stroke-linecap="round"
-            d="M 264 92 C 296 88 306 72 302 58"/>
-    </g>
-
-    <!-- ===== CABEZA DE LA SERPIENTE: erguida arriba-derecha ===== -->
-    <g>
-      <!-- Cabeza body: forma triangular almendrada looking up-right -->
-      <path fill="url(#snakeShade)" d="
-        M 296 56
-        C 286 38 298 16 320 12
-        C 348 8 372 22 372 46
-        C 372 62 364 72 354 74
-        L 356 68
-        C 350 74 340 74 332 70
-        C 326 76 316 76 308 72
-        C 300 68 296 62 296 56 Z"/>
-      <!-- Highlight de la cabeza -->
-      <path fill="#52525b" opacity="0.7" d="
-        M 308 28 C 320 22 336 22 348 28 C 340 24 320 24 308 28 Z"/>
-      <!-- Ojo: blanco con pupila -->
-      <circle cx="345" cy="38" r="4.5" fill="#fafaf9"/>
-      <circle cx="346" cy="38" r="2.2" fill="#18181b"/>
-      <!-- Reflejo del ojo -->
-      <circle cx="346.5" cy="36.5" r="0.7" fill="#fafaf9"/>
-      <!-- Fosa nasal -->
-      <ellipse cx="362" cy="50" rx="1.6" ry="1.1" fill="#fafaf9" opacity="0.7"/>
-    </g>
-
-    <!-- ===== LENGUA BÍFIDA en Y saliendo de la boca ===== -->
-    <g fill="none" stroke="#27272a" stroke-width="3.5"
-       stroke-linecap="round" stroke-linejoin="round">
-      <!-- Tronco principal -->
-      <path d="M 366 24 L 386 -4"/>
-      <!-- Bifurcación izquierda -->
-      <path d="M 386 -4 L 376 -14"/>
-      <!-- Bifurcación derecha -->
-      <path d="M 386 -4 L 396 -10"/>
-    </g>
+  <!-- ═══════════════════════════════════════════════════════════
+       CAPA 2 · LETRA I (BASTÓN)
+       Construida como path única con serifs editoriales refinados.
+       Cubre la banda central, ocultando partes "detrás" de la serpiente.
+       ═══════════════════════════════════════════════════════════ -->
+  <g fill="#44403c">
+    <!-- I serif completa en un solo path -->
+    <path d="
+      M 156 88
+      L 356 88
+      L 356 122
+      L 320 122
+      L 304 132
+      L 304 380
+      L 320 390
+      L 356 390
+      L 356 424
+      L 156 424
+      L 156 390
+      L 192 390
+      L 208 380
+      L 208 132
+      L 192 122
+      L 156 122
+      Z"/>
   </g>
+
+  <!-- ═══════════════════════════════════════════════════════════
+       CAPA 3 · CABEZA DE LA SERPIENTE
+       Forma triangular almendrada erguida arriba-derecha,
+       con ojo blanco con pupila y reflejo.
+       ═══════════════════════════════════════════════════════════ -->
+  <g>
+    <!-- Cuello sale del wrap superior -->
+    <path fill="none" stroke="#27272a" stroke-width="22" stroke-linecap="round"
+          d="M 276 60 C 284 50 292 44 300 38"/>
+    <!-- Cabeza body -->
+    <path fill="#18181b" d="
+      M 296 60
+      C 280 40 296 14 322 12
+      C 350 10 372 24 372 50
+      C 372 66 364 78 350 80
+      L 354 72
+      C 344 80 332 78 322 70
+      C 308 70 296 66 296 60 Z"/>
+    <!-- Highlight superior de la cabeza (subtle dimension) -->
+    <path fill="#3f3f46" opacity="0.5" d="
+      M 308 24 C 322 18 340 18 354 24 C 344 22 320 22 308 24 Z"/>
+    <!-- Ojo: blanco + pupila + reflejo -->
+    <circle cx="346" cy="38" r="5" fill="#fafaf9"/>
+    <circle cx="347" cy="38.5" r="2.4" fill="#18181b"/>
+    <circle cx="347.5" cy="36.8" r="0.8" fill="#fafaf9"/>
+    <!-- Fosa nasal -->
+    <ellipse cx="364" cy="52" rx="1.8" ry="1.2" fill="#fafaf9" opacity="0.7"/>
+  </g>
+
+  <!-- ═══════════════════════════════════════════════════════════
+       CAPA 4 · LENGUA BÍFIDA EN Y
+       Saliendo de la boca, erecta hacia arriba.
+       ═══════════════════════════════════════════════════════════ -->
+  <g fill="none" stroke="#27272a" stroke-width="3.5"
+     stroke-linecap="round" stroke-linejoin="round">
+    <!-- Tronco principal -->
+    <path d="M 366 28 L 384 4"/>
+    <!-- Bifurcación izquierda -->
+    <path d="M 384 4 L 376 -6"/>
+    <!-- Bifurcación derecha -->
+    <path d="M 384 4 L 396 -2"/>
+  </g>
+
+  <!-- ═══════════════════════════════════════════════════════════
+       CAPA 5 · COLA
+       Pequeña terminación afinada abajo-izquierda.
+       ═══════════════════════════════════════════════════════════ -->
+  <path fill="none" stroke="#27272a" stroke-width="12" stroke-linecap="round"
+        d="M 192 408 Q 178 416 164 416"/>
 </svg>
