@@ -3,20 +3,22 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <meta name="theme-color" content="#1f4e79" />
+  <meta name="theme-color" content="#1a1208" />
   <meta name="color-scheme" content="light" />
   <meta name="description" content="InternOS — plataforma de estudio EUNACOM 100% offline" />
   <meta name="format-detection" content="telephone=no" />
   <title>InternOS — EUNACOM</title>
   <link rel="manifest" href="manifest.webmanifest" />
-  <link rel="icon" type="image/svg+xml" href="assets/icon.svg" />
   <link rel="icon" type="image/png" sizes="64x64" href="assets/favicon-64.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/icon-192.png" />
   <link rel="apple-touch-icon" href="assets/icon-192.png" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="InternOS" />
   <meta name="mobile-web-app-capable" content="yes" />
   <link rel="stylesheet" href="styles/app.css" />
+  <!-- Precarga del wordmark (camino crítico visible: splash + topbar). -->
+  <link rel="preload" as="image" href="assets/wordmark.png" />
   <!-- modulepreload del camino crítico: aplana el waterfall de imports ESM. -->
   <link rel="modulepreload" href="src/db/db.js" />
   <link rel="modulepreload" href="src/db/seed.js" />
@@ -32,7 +34,7 @@
 </head>
 <body>
   <div id="splash" class="splash">
-    <img class="splash__logo" src="assets/icon.svg" alt="InternOS" />
+    <img class="splash__logo" src="assets/wordmark.png" alt="InternOS" />
     <p id="splash-version" class="splash__version muted">vdev</p>
     <div class="spinner"></div>
     <p id="splash-msg" class="muted">Iniciando…</p>
@@ -40,7 +42,7 @@
 
   <header class="topbar">
     <button class="topbar__brand" data-nav="" aria-label="Inicio">
-      <img class="topbar__logo" src="assets/icon.svg" alt="InternOS" />
+      <img class="topbar__logo" src="assets/wordmark.png" alt="InternOS" />
     </button>
     <button id="btn-instalar" class="btn btn--ghost btn--sm" hidden>Instalar app</button>
   </header>

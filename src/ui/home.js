@@ -27,7 +27,7 @@ export async function vistaHome() {
     // ---- Hero con logo + versión ----
     el("div", { class: "home__hero" }, [
       el("div", { class: "home__hero-titulo" }, [
-        el("img", { src: "assets/icon.svg", alt: "InternOS", class: "home__logo" }),
+        el("img", { src: "assets/wordmark.png", alt: "InternOS", class: "home__logo" }),
         el("span", { class: "home__version", title: ver.fecha_build || "", text: etiquetaCorta(ver) }),
       ]),
       el("p", { class: "home__bienvenida", text:
