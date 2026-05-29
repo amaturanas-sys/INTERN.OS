@@ -1,7 +1,7 @@
 {
   "unidades": {
     "cardiologia": {
-      "cantidad": 20,
+      "cantidad": 22,
       "transcripciones": [
         {
           "archivo": "aneurisma_de_la_aorta_abdomin_al.txt",
@@ -102,11 +102,27 @@
           "archivo": "fibrilacion_auricular_repaso_de_antiarritmicos.txt",
           "titulo": "Fibrilación auricular repaso de antiarritmicos",
           "url": "https://youtu.be/yhcdkMLT5Cg"
+        },
+        {
+          "archivo": "farreras_seccion_iii_cardiologia.txt",
+          "titulo": "Farreras-Rozman · Sección III: Cardiología",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
+        },
+        {
+          "archivo": "farreras_seccion_iv_angiologia.txt",
+          "titulo": "Farreras-Rozman · Sección IV: Angiología",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
         }
       ]
     },
     "dermatologia": {
-      "cantidad": 20,
+      "cantidad": 21,
       "transcripciones": [
         {
           "archivo": "acne.txt",
@@ -207,11 +223,19 @@
           "archivo": "linfomas_cutaneos.txt",
           "titulo": "Linfomas cutáneos",
           "url": "https://youtu.be/b_r0zn5ybMc"
+        },
+        {
+          "archivo": "farreras_seccion_xi_dermatologia.txt",
+          "titulo": "Farreras-Rozman · Sección XI: Dermatología",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
         }
       ]
     },
     "endocrinologia": {
-      "cantidad": 20,
+      "cantidad": 22,
       "transcripciones": [
         {
           "archivo": "acromegalia_y_gigantismo.txt",
@@ -312,11 +336,27 @@
           "archivo": "nodulo_tiroideo.txt",
           "titulo": "Nódulo tiroideo",
           "url": "https://youtu.be/TKz2AJ6iQgs"
+        },
+        {
+          "archivo": "farreras_seccion_xv_metabolismo.txt",
+          "titulo": "Farreras-Rozman · Sección XV: Metabolismo y nutrición",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
+        },
+        {
+          "archivo": "farreras_seccion_xvi_endocrinologia.txt",
+          "titulo": "Farreras-Rozman · Sección XVI: Endocrinología",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
         }
       ]
     },
     "gastroenterologia": {
-      "cantidad": 20,
+      "cantidad": 21,
       "transcripciones": [
         {
           "archivo": "10_ictericia.txt",
@@ -417,11 +457,19 @@
           "archivo": "4_enfermedad_inflamatoria_intestinal.txt",
           "titulo": "4. Enfermedad inflamatoria intestinal",
           "url": "https://youtu.be/LvAhZEpNuzM"
+        },
+        {
+          "archivo": "farreras_seccion_ii_digestivo.txt",
+          "titulo": "Farreras-Rozman · Sección II: Enfermedades del aparato digestivo",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
         }
       ]
     },
     "geriatria": {
-      "cantidad": 3,
+      "cantidad": 4,
       "transcripciones": [
         {
           "archivo": "adulto_mayor_normal_evaluacion_geriatrica_polifarmacia_fragilidad_patologia_en_anciano.txt",
@@ -437,6 +485,14 @@
           "archivo": "incontinencia_urinaria.txt",
           "titulo": "Incontinencia urinaria",
           "url": "https://youtu.be/mIieO2pv-LA"
+        },
+        {
+          "archivo": "farreras_seccion_x_geriatria.txt",
+          "titulo": "Farreras-Rozman · Sección X: Geriatría",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
         }
       ]
     },
@@ -546,7 +602,7 @@
       ]
     },
     "hematologia": {
-      "cantidad": 20,
+      "cantidad": 22,
       "transcripciones": [
         {
           "archivo": "10_anemia_en_ninos.txt",
@@ -647,11 +703,27 @@
           "archivo": "2_perfil_de_hierro.txt",
           "titulo": "2. Perfil de Hierro",
           "url": "https://youtu.be/Axrqs1_PBHg"
+        },
+        {
+          "archivo": "farreras_seccion_viii_oncologia.txt",
+          "titulo": "Farreras-Rozman · Sección VIII: Oncología médica",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
+        },
+        {
+          "archivo": "farreras_seccion_xiv_hematologia.txt",
+          "titulo": "Farreras-Rozman · Sección XIV: Hematología",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
         }
       ]
     },
     "nefrologia": {
-      "cantidad": 20,
+      "cantidad": 21,
       "transcripciones": [
         {
           "archivo": "10_glomerulonefritis_y_sindrome_nefritico.txt",
@@ -752,11 +824,19 @@
           "archivo": "2_insuficiencia_renal_aguda_o_cronica.txt",
           "titulo": "2. Insuficiencia renal aguda o crónica",
           "url": "https://youtu.be/rKAW4f-SdcU"
+        },
+        {
+          "archivo": "farreras_seccion_vi_nefrologia.txt",
+          "titulo": "Farreras-Rozman · Sección VI: Nefrología",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
         }
       ]
     },
     "neurologia": {
-      "cantidad": 20,
+      "cantidad": 21,
       "transcripciones": [
         {
           "archivo": "accidente_vascular_encefalico.txt",
@@ -857,6 +937,14 @@
           "archivo": "vertigo.txt",
           "titulo": "Vértigo",
           "url": "https://youtu.be/fXOhsigsn88"
+        },
+        {
+          "archivo": "farreras_seccion_xii_neurologia.txt",
+          "titulo": "Farreras-Rozman · Sección XII: Neurología",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
         }
       ]
     },
@@ -1441,7 +1529,7 @@
       ]
     },
     "psiquiatria": {
-      "cantidad": 20,
+      "cantidad": 21,
       "transcripciones": [
         {
           "archivo": "consumo_de_sustancias.txt",
@@ -1542,11 +1630,19 @@
           "archivo": "trastornos_animicos_3.txt",
           "titulo": "Trastornos anímicos 3",
           "url": "https://youtu.be/9ijBsK-8wBA"
+        },
+        {
+          "archivo": "farreras_seccion_xiii_psiquiatria.txt",
+          "titulo": "Farreras-Rozman · Sección XIII: Psiquiatría",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
         }
       ]
     },
     "reumatologia": {
-      "cantidad": 20,
+      "cantidad": 22,
       "transcripciones": [
         {
           "archivo": "10_ar_vs_artrosis.txt",
@@ -1647,6 +1743,22 @@
           "archivo": "2_resumen_marcadores_reumatologia.txt",
           "titulo": "2 resumen marcadores reumatologia",
           "url": "https://youtu.be/MAn3uw9O8uo"
+        },
+        {
+          "archivo": "farreras_seccion_vii_reumatologia.txt",
+          "titulo": "Farreras-Rozman · Sección VII: Reumatología y enfermedades sistémicas",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
+        },
+        {
+          "archivo": "farreras_seccion_xx_inmunologia.txt",
+          "titulo": "Farreras-Rozman · Sección XX: Inmunología",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
         }
       ]
     },
@@ -1829,9 +1941,72 @@
           "url": "https://youtu.be/rGQMCxtXnyI"
         }
       ]
+    },
+    "medicina_interna": {
+      "cantidad": 4,
+      "transcripciones": [
+        {
+          "archivo": "farreras_seccion_i_introduccion.txt",
+          "titulo": "Farreras-Rozman · Sección I: Introducción y semiología general",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
+        },
+        {
+          "archivo": "farreras_seccion_ix_genetica.txt",
+          "titulo": "Farreras-Rozman · Sección IX: Genética médica",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
+        },
+        {
+          "archivo": "farreras_seccion_xviii_toxicologia.txt",
+          "titulo": "Farreras-Rozman · Sección XVIII: Toxicología clínica",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
+        },
+        {
+          "archivo": "farreras_seccion_xix_agentes_ambientales.txt",
+          "titulo": "Farreras-Rozman · Sección XIX: Enfermedades por agentes ambientales",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
+        }
+      ]
+    },
+    "neumologia": {
+      "cantidad": 1,
+      "transcripciones": [
+        {
+          "archivo": "farreras_seccion_v_neumologia.txt",
+          "titulo": "Farreras-Rozman · Sección V: Neumología",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
+        }
+      ]
+    },
+    "infectologia": {
+      "cantidad": 1,
+      "transcripciones": [
+        {
+          "archivo": "farreras_seccion_xvii_infecciosas.txt",
+          "titulo": "Farreras-Rozman · Sección XVII: Enfermedades infecciosas",
+          "url": "",
+          "fuente": "Farreras-Rozman Medicina Interna, XX Edición",
+          "tipo": "manual_universitario",
+          "vigencia": "edición XX"
+        }
+      ]
     }
   },
-  "total": 337,
+  "total": 357,
   "fuentes": {
     "manual_uc": {
       "nombre": "Manual de Obstetricia y Ginecología",
@@ -1840,6 +2015,28 @@
       "tipo": "Texto universitario oficial",
       "capitulos_incluidos": 20,
       "unidad_target": "obstetricia"
+    },
+    "farreras_rozman": {
+      "nombre": "Farreras-Rozman Medicina Interna",
+      "directores": "C. Rozman, F. Cardellach",
+      "edicion": "XX",
+      "tipo": "Texto universitario referencia de medicina interna",
+      "secciones_incluidas": 20,
+      "unidades_target": [
+        "cardiologia",
+        "dermatologia",
+        "endocrinologia",
+        "gastroenterologia",
+        "geriatria",
+        "hematologia",
+        "infectologia",
+        "medicina_interna",
+        "nefrologia",
+        "neumologia",
+        "neurologia",
+        "psiquiatria",
+        "reumatologia"
+      ]
     }
   }
 }

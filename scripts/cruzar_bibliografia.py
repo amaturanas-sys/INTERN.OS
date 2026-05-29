@@ -32,23 +32,23 @@ SPEC_TO_BIBL = {
     "cardio": ["cardiologia"],
     "dermato": ["dermatologia"],
     "endocrino": ["endocrinologia"],
-    "infecto": [],  # no hay carpeta de infectología aún (en otorrino y ped hay temas)
+    "infecto": ["infectologia"],  # nueva carpeta con Farreras Sec XVII
     "neurologia": ["neurologia"],
     "psiquiatria": ["psiquiatria"],
     "gineco": ["ginecologia"],
     "obstetricia": ["obstetricia"],
     "pediatria": ["pediatria"],
-    "cirugia": [],  # bibliografía de cirugía aún no integrada
-    "uro": [],
+    "cirugia": ["gastroenterologia", "medicina_interna"],
+    "uro": ["nefrologia"],  # uro comparte parte de nefro/genitourinario
     "trauma": ["traumatologia"],
     "otorrino": ["otorrinolaringologia"],
     "oftalmo": ["oftalmologia"],
     "hemato": ["hematologia"],
-    "medicina_interna": ["gastroenterologia"],
+    "medicina_interna": ["medicina_interna", "gastroenterologia", "neumologia", "infectologia"],
     "nefro": ["nefrologia"],
     "salud_publica": ["salud_publica"],
     "geriatria": ["geriatria"],
-    "urgencias": [],
+    "urgencias": ["medicina_interna", "cardiologia", "infectologia"],
     "mixto": [],  # se busca en todas
     "ambigua": [],
 }
@@ -97,8 +97,10 @@ def cargar_bibliografia():
                     titulo = line.split(":", 1)[1].strip()
                 elif line.lower().startswith("url:"):
                     url = line.split(":", 1)[1].strip()
-            # Tokens del título y primeros 4000 chars (cubre intro temática)
-            blob = titulo + " " + content[:4000]
+            # Tokens del título y primeros 50000 chars (cubre intro temática + índices
+            # de capítulos en los manuales universitarios que se indexaron como
+            # archivo único por sección — Manual UC, Farreras-Rozman).
+            blob = titulo + " " + content[:50000]
             items.append({
                 "archivo": os.path.basename(txt),
                 "titulo": titulo,
@@ -125,7 +127,7 @@ def main():
         spec = p["especialidad_principal"]
         carpetas = SPEC_TO_BIBL.get(spec, [])
         # Si no hay carpetas para la especialidad, buscar en todas
-        if not carpetas and spec in ("mixto", "ambigua", "urgencias", "infecto", "cirugia", "uro"):
+        if not carpetas and spec in ("mixto", "ambigua"):
             carpetas = list(bibl.keys())
 
         candidatos = []
