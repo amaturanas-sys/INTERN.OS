@@ -117,13 +117,52 @@ jobs:
           echo '--- app/build.gradle (cabecera) ---'
           [ -f twa/app/build.gradle ] && head -60 twa/app/build.gradle || echo 'no se generó app/build.gradle'
 
-      - name: Compilar APK + AAB firmados
+      - name: Inspeccionar configuración de firma generada
+        working-directory: twa
+        run: |
+          echo '--- ANDROID_HOME ---'; echo "$ANDROID_HOME"
+          echo '--- JAVA_HOME ---';    echo "$JAVA_HOME"
+          echo '--- gradle wrapper ---'; [ -f gradlew ] && ls -la gradlew || echo 'NO gradlew'
+          echo '--- app/build.gradle (signingConfigs) ---'
+          if [ -f app/build.gradle ]; then
+            grep -nA 8 'signingConfigs' app/build.gradle || cat app/build.gradle
+          else
+            echo 'NO existe app/build.gradle'
+          fi
+          echo '--- build.gradle raíz ---'
+          [ -f build.gradle ] && head -30 build.gradle || echo 'NO existe build.gradle'
+
+      - name: Compilar APK + AAB con Gradle directo (firmado)
         working-directory: twa
         env:
+          # Bubblewrap genera el build.gradle leyendo passwords desde estas env vars
+          # (probamos todos los nombres comunes para máxima compatibilidad).
           BUBBLEWRAP_KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
           BUBBLEWRAP_KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
+          KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
+          KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
         run: |
-          bubblewrap build --skipPwaValidation
+          set -e
+          chmod +x ./gradlew
+          # Compila APK + AAB. Si el signingConfig del template lee de env vars,
+          # se firma automáticamente. Si pide propiedades de Gradle, las pasamos
+          # también con -P por si acaso.
+          ./gradlew --no-daemon --stacktrace \
+            -PsigningStorePassword="${KEYSTORE_PASSWORD}" \
+            -PsigningKeyPassword="${KEY_PASSWORD}" \
+            assembleRelease bundleRelease
+          echo '--- artefactos producidos ---'
+          find app/build/outputs -type f \( -name '*.apk' -o -name '*.aab' \) -print
+
+      - name: Mover APK + AAB al directorio twa/
+        working-directory: twa
+        run: |
+          # Gradle deja los archivos bajo app/build/outputs/apk/release/ y app/build/outputs/bundle/release/.
+          # Los movemos a twa/ con el nombre que el resto del workflow espera.
+          APK=$(find app/build/outputs/apk -name '*.apk' | head -1)
+          AAB=$(find app/build/outputs/bundle -name '*.aab' | head -1)
+          [ -n "$APK" ] && cp "$APK" app-release-signed.apk
+          [ -n "$AAB" ] && cp "$AAB" app-release-bundle.aab
           ls -la *.apk *.aab 2>/dev/null || true
 
       - name: Renombrar artefactos con versión
