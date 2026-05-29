@@ -1,10 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <!-- Fuente del logo InternOS. Los PNG (icon-192/512/maskable, favicon) se generan aparte. -->
-  <rect x="0" y="0" width="512" height="512" rx="112" fill="#f2f6fb"/>
-  <g font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-weight="800">
-    <text x="256" y="208" text-anchor="middle" font-size="150" fill="#1f4e79">Intern</text>
-    <text x="318" y="332" text-anchor="middle" font-size="168" fill="#8b1a1a">OS</text>
+  <!-- InternOS · Símbolo principal
+       Wordmark "InternOS" en serif moderno (Inter) blanco sobre cuadrado oscuro.
+       Concepto: el punto de la "i" se convierte en un círculo abierto (la "O" del OS)
+       formando un mark continuo i→O. Línea sutil de pulso EKG bajo la i indica
+       el origen médico/clínico. Construido al 100% en geometría — sin webfont.
+  -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#0e3a4a"/>
+      <stop offset="100%" stop-color="#0a2a36"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#14b6b8"/>
+      <stop offset="100%" stop-color="#0d8a8c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Cuadrado base con esquinas redondeadas (iOS-style rx=112) -->
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+
+  <!-- Glow sutil del acento, centrado -->
+  <circle cx="256" cy="256" r="170" fill="url(#accent)" opacity="0.06"/>
+
+  <!-- ===== Monogram "iO" centrado, 100% geométrico ===== -->
+  <!-- Letra "i":
+       · barra vertical en x=200, ancho 36, alto 156
+       · punto (acento teal) en x=200, radio 22
+       · espacio respira entre barra y punto = 18 -->
+  <g>
+    <!-- Punto teal sobre la "i" -->
+    <circle cx="218" cy="178" r="22" fill="url(#accent)"/>
+    <!-- Barra de la "i" -->
+    <rect x="200" y="216" width="36" height="156" rx="18" fill="#ffffff"/>
   </g>
-  <!-- rayo tallado sobre la S -->
-  <polygon points="392,228 350,300 384,300 366,372 432,287 396,287" fill="#f2f6fb"/>
+
+  <!-- Letra "O" como anillo:
+       · centro en x=336, y=294
+       · radio externo 78, ancho del trazo 36 (radio interno 42) -->
+  <g>
+    <circle cx="336" cy="294" r="78" fill="none" stroke="#ffffff" stroke-width="36"/>
+  </g>
+
+  <!-- Línea de pulso EKG sutil bajo el monogram -->
+  <g stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.7">
+    <polyline points="148,418 192,418 208,402 224,438 248,406 264,418 308,418 320,402 336,434 352,406 368,418 412,418"/>
+  </g>
 </svg>
