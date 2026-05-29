@@ -105,27 +105,17 @@ jobs:
           ls -la twa/
 
       - name: Instalar @bubblewrap/core (API programática)
-        run: npm install --no-save @bubblewrap/core@latest
+        run: |
+          # package.json mínimo para que npm install resuelva limpio
+          [ -f package.json ] || echo '{"name":"internos-twa-builder","version":"0.0.0","private":true,"type":"module"}' > package.json
+          npm install --no-save @bubblewrap/core@latest
+          ls node_modules/@bubblewrap/core/ | head -20
 
       - name: Generar proyecto Android (API programática, sin prompts)
-        working-directory: twa
         run: |
-          # Bypasea por completo los prompts interactivos del CLI usando la API
-          # de @bubblewrap/core: TwaManifest.fromJsonFile() + TwaGenerator.createTwaProject().
-          node --input-type=module -e "
-            import('@bubblewrap/core').then(async (mod) => {
-              const { TwaManifest, TwaGenerator, Log } = mod;
-              const log = new Log('build-apk');
-              const manifest = await TwaManifest.fromJsonFile('./twa-manifest.json');
-              const generator = new TwaGenerator();
-              await generator.createTwaProject('.', manifest, log);
-              console.log('Proyecto Android generado OK.');
-            }).catch((e) => { console.error(e); process.exit(1); });
-          "
-          echo '--- Estructura del proyecto generado ---'
-          ls -la
-          echo '--- app/build.gradle ---'
-          [ -f app/build.gradle ] && head -50 app/build.gradle || echo 'no se generó app/build.gradle'
+          node scripts/generar-twa.mjs ./twa
+          echo '--- app/build.gradle (cabecera) ---'
+          [ -f twa/app/build.gradle ] && head -60 twa/app/build.gradle || echo 'no se generó app/build.gradle'
 
       - name: Compilar APK + AAB firmados
         working-directory: twa
