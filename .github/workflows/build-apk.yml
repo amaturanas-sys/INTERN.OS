@@ -28,6 +28,11 @@ jobs:
     name: Build signed APK + AAB
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    env:
+      # Opt-in al runtime Node 24 (silencia el warning de deprecación de Node 20
+      # en las JavaScript actions: checkout@v4, setup-java@v4, setup-node@v4,
+      # setup-android@v3). Default obligatorio desde 16-jun-2026.
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
     steps:
       - name: Checkout
@@ -99,25 +104,28 @@ jobs:
           echo "${KEYSTORE_BASE64}" | base64 -d > twa/android.keystore
           ls -la twa/
 
-      - name: Generar proyecto Android (bubblewrap update)
+      - name: Instalar @bubblewrap/core (API programática)
+        run: npm install --no-save @bubblewrap/core@latest
+
+      - name: Generar proyecto Android (API programática, sin prompts)
         working-directory: twa
-        env:
-          BUBBLEWRAP_KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
-          BUBBLEWRAP_KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
         run: |
-          # `update` regenera el proyecto Android a partir de twa-manifest.json.
-          # Si no existe estructura previa, intentamos un `init` no-interactivo
-          # como fallback (acepta defaults del manifest web).
-          if ! bubblewrap update --skipVersionUpgrade 2>&1 | tee update.log; then
-            echo "update falló, intentando init no-interactivo..."
-            cat update.log
-            mv twa-manifest.json ../twa-manifest.json.tmp
-            yes "" | bubblewrap init \
-              --manifest=https://amaturanas-sys.github.io/INTERN.OS/manifest.webmanifest \
-              --skipPwaValidation || true
-            mv ../twa-manifest.json.tmp twa-manifest.json
-            bubblewrap update --skipVersionUpgrade
-          fi
+          # Bypasea por completo los prompts interactivos del CLI usando la API
+          # de @bubblewrap/core: TwaManifest.fromJsonFile() + TwaGenerator.createTwaProject().
+          node --input-type=module -e "
+            import('@bubblewrap/core').then(async (mod) => {
+              const { TwaManifest, TwaGenerator, Log } = mod;
+              const log = new Log('build-apk');
+              const manifest = await TwaManifest.fromJsonFile('./twa-manifest.json');
+              const generator = new TwaGenerator();
+              await generator.createTwaProject('.', manifest, log);
+              console.log('Proyecto Android generado OK.');
+            }).catch((e) => { console.error(e); process.exit(1); });
+          "
+          echo '--- Estructura del proyecto generado ---'
+          ls -la
+          echo '--- app/build.gradle ---'
+          [ -f app/build.gradle ] && head -50 app/build.gradle || echo 'no se generó app/build.gradle'
 
       - name: Compilar APK + AAB firmados
         working-directory: twa
