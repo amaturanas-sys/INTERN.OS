@@ -861,7 +861,7 @@
       ]
     },
     "obstetricia": {
-      "cantidad": 20,
+      "cantidad": 40,
       "transcripciones": [
         {
           "archivo": "aborto_completo_versus_embarazo_ectopico.txt",
@@ -962,6 +962,166 @@
           "archivo": "embarazo_ectopic_definicion_y_diagnostico.txt",
           "titulo": "Embarazo ectópic definición y diagnóstico",
           "url": "https://youtu.be/BVy7dCJCk0Q"
+        },
+        {
+          "archivo": "manual_uc_cap_01_semiologia_obstetrica.txt",
+          "titulo": "Manual UC · Cap. 1: Semiología obstétrica",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_02_salud_publica_materno_perinatal.txt",
+          "titulo": "Manual UC · Cap. 2: Salud pública materno-perinatal e infantil",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_03_cambios_fisiologicos_embarazo.txt",
+          "titulo": "Manual UC · Cap. 3: Cambios fisiológicos del embarazo y placentación",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_04_diagnostico_edad_gestacional.txt",
+          "titulo": "Manual UC · Cap. 4: Diagnóstico de edad gestacional",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_05_fisiologia_mecanismos_parto.txt",
+          "titulo": "Manual UC · Cap. 5: Determinismo, fisiología y mecanismos del parto",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_06_evaluacion_preconcepcional.txt",
+          "titulo": "Manual UC · Cap. 6: Evaluación y consejo preconcepcional",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_07_control_prenatal.txt",
+          "titulo": "Manual UC · Cap. 7: Control prenatal",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_08_consejeria_genetica_diagnostico_antenatal.txt",
+          "titulo": "Manual UC · Cap. 8: Consejería genética y diagnóstico antenatal",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_09_ecografia_obstetrica_rutina.txt",
+          "titulo": "Manual UC · Cap. 9: Ecografía obstétrica de rutina",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_10_manejo_trabajo_parto.txt",
+          "titulo": "Manual UC · Cap. 10: Manejo del trabajo de parto y atención del parto",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_11_emergencias_parto_vaginal.txt",
+          "titulo": "Manual UC · Cap. 11: Emergencias del parto vaginal en presentación cefálica",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_12_embarazo_alto_riesgo_evaluacion_fetal.txt",
+          "titulo": "Manual UC · Cap. 12: Embarazo de alto riesgo y evaluación fetal anteparto",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_13_evaluacion_condicion_fetal_intraparto.txt",
+          "titulo": "Manual UC · Cap. 13: Evaluación de la condición fetal durante el trabajo de parto (CTG)",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_14_parto_vaginal_asistido.txt",
+          "titulo": "Manual UC · Cap. 14: Parto vaginal asistido (fórceps, ventosa, espátulas)",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_15_operacion_cesarea.txt",
+          "titulo": "Manual UC · Cap. 15: Operación cesárea",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_16_distocias_posicion_presentacion_actitud.txt",
+          "titulo": "Manual UC · Cap. 16: Distocias de posición, presentación y actitud fetal",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_17_puerperio_normal_patologico.txt",
+          "titulo": "Manual UC · Cap. 17: Puerperio normal y patológico",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_18_hemorragia_puerperal.txt",
+          "titulo": "Manual UC · Cap. 18: Hemorragia puerperal",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_19_parto_prematuro.txt",
+          "titulo": "Manual UC · Cap. 19: Parto prematuro",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
+        },
+        {
+          "archivo": "manual_uc_cap_20_rotura_prematura_membranas.txt",
+          "titulo": "Manual UC · Cap. 20: Rotura prematura de membranas (RPO/RPPM)",
+          "url": "",
+          "fuente": "Manual de Obstetricia y Ginecología, Pontificia Universidad Católica de Chile",
+          "tipo": "manual_universitario",
+          "vigencia": "edición 2026"
         }
       ]
     },
@@ -1671,5 +1831,15 @@
       ]
     }
   },
-  "total": 317
+  "total": 337,
+  "fuentes": {
+    "manual_uc": {
+      "nombre": "Manual de Obstetricia y Ginecología",
+      "institucion": "Pontificia Universidad Católica de Chile",
+      "edicion": "2026",
+      "tipo": "Texto universitario oficial",
+      "capitulos_incluidos": 20,
+      "unidad_target": "obstetricia"
+    }
+  }
 }

@@ -1,0 +1,230 @@
+Capítulo 4.
+DIAGNÓSTICO DE EDAD GESTACIONAL
+La edad gestacional es el número de días transcurridos desde el primer día de la última menstruación
+del ciclo concepcional (FUM) hasta la fecha actual. La edad gestacional se expresa en semanas y días. Por
+ejemplo, 26+2 semanas significa 26 semanas y 2 días.
+FUM operacional: corresponde a una FUM “creada” para el cálculo correcto de la edad gestacional.
+Se crea esta FUM operacional basándose en la ecografía cuando ésta difiere con respecto a la FUM real o en
+aquellos casos en que la FUM no es segura o confiable.
+La gestación única a término dura en promedio 280 días (40 semanas) desde la FUM, con la mayoría
+de los partos espontáneos ocurriendo entre 37 y 42 semanas. Sin embargo, actualmente se reconoce que el
+menor riesgo de morbimortalidad perinatal se concentra entre 39+0 y 40+6 semanas. Por ello se ha propuesto
+subdividir la edad gestacional a término en: término temprano (37+0 - 38+6), término completo (39+0 - 40+6),
+término tardío (41+0 - 41+6) y postérmino (≥42+0).
+Para el cálculo de la edad gestacional, el primer elemento diagnóstico es la anamnesis, estableciendo
+la FUM y determinando si ésta es segura y confiable. El diagnóstico de la edad gestacional así establecido será
+corroborado o modificado por los hallazgos ecográficos, idealmente en base a una ecografía precoz (7-10
+semanas).
+A continuación, describimos las principales características de la anamnesis, la ecografía y otros
+medios de apoyo para el diagnóstico preciso de la edad gestacional.
+ANAMNESIS
+Fecha de la última menstruación (FUM)
+Mediante la anamnesis se debe determinar el primer día de la última menstruación. Es necesario
+determinar si la FUM es segura y confiable.
+• FUM segura es aquella en que la paciente recuerda con precisión la fecha.
+• FUM confiable es aquella que, además de ser recordada con precisión, se obtuvo en un ciclo menstrual
+regular (habitualmente entre 24 y 35 días), sin uso reciente de anticoncepción hormonal, y en el cual es
+razonable asumir una ovulación alrededor de 14 días después del inicio de la menstruación. Aun así, existe
+variabilidad interindividual en el momento de la ovulación, por lo que la ecografía precoz sigue siendo el
+método más preciso para confirmar la edad gestacional.
+Los casos más usuales en que la FUM no es confiable son:
+• Ciclos irregulares
+• Uso de ACO en los últimos 3 meses
+• Amenorrea por otra causa (Ej. lactancia)
+Percepción de movimientos fetales
+Generalmente, las primigestas sienten los movimientos fetales desde las 20 semanas en adelante, en
+cambio, las multíparas usualmente los perciben desde las 18 semanas. Si bien es un elemento muy subjetivo,
+la mayoría de las veces es bastante apropiada como elemento semiológico.
+EXAMEN FÍSICO
+El examen físico no es un elemento suficientemente preciso como para ser usado en el cálculo de la
+edad gestacional de modo definitivo, sin embargo, a la espera de los resultados de la ecografía, suele ayudar.
+
+Tacto vaginal
+• Entre las 5-6 semanas el tamaño uterino es similar al útero no gestante
+• A las 8 semanas el útero duplica su tamaño
+Examen obstétrico abdominal (tamaño uterino)
+• 12 semanas: la parte superior del útero es palpable en la región suprapúbica.
+• 16 semanas: el fondo uterino se encuentra a mitad de la distancia entre el ombligo y el pubis.
+• 20 semanas: el fondo uterino se encuentra a la altura del ombligo.
+• Mayor a 20 semanas: es posible medir la altura uterina. Existen tablas que permiten conocer el
+promedio de altura uterina para cada edad gestacional. La medición de la altura uterina podría
+servir para sospechar la edad gestacional, en ausencia de otros elementos.
+Auscultación de LCF
+• Desde las 12 semanas con el Doppler fetal.
+• Desde las 20 semanas con estetoscopio de Pinard.
+EXÁMENES COMPLEMENTARIOS
+Prueba de embarazo en orina
+Se trata de una medición cualitativa de la subunidad β de la gonadotrofina coriónica (β-hCG) en orina,
+cuya principal utilidad es confirmar o descartar el embarazo. La sensibilidad de la mayoría de las pruebas
+comerciales actuales se sitúa en torno a 20–25 UI/L, lo que permite el diagnóstico de embarazo desde el
+momento del atraso menstrual e incluso algunos días antes. Una prueba (+) en una mujer con atraso
+menstrual es altamente confiable para confirmar el embarazo y, en la práctica habitual, no requiere tomar β-
+hCG en sangre. La prueba en orina no permite conclusiones respecto de la edad gestacional, la localización
+del embarazo (normotópico vs ectópico) o su viabilidad.
+Subunidad β hCG cuantitativa
+Medición directa en el plasma de la concentración de subunidad β de la hCG. La hCG producida por
+el trofoblasto es detectable en el plasma de la mujer embarazada desde el día 9 posterior a la fecundación, es
+decir, 5 días antes de notar atraso menstrual. La concentración de β hCG en sangre se correlaciona
+directamente con la EG y con los hallazgos ecográficos. Sin embargo, el rango es muy variable para una misma
+edad gestacional, de modo que esta prueba no es confiable para el cálculo de la edad gestacional.
+Actualmente, se ha establecido que con concentraciones de β hCG mayor a 3500 existe un 99% de
+probabilidad de detección de una gestación intrauterina mediante ecografía transvaginal.
+ECOGRAFÍA OBSTÉTRICA
+Junto a la anamnesis, la ecografía es el elemento clave para determinar la EG y la fecha probable de
+parto (FPP). Idealmente, el cálculo definitivo de la edad gestacional se hace en base a una ecografía del primer
+trimestre (particularmente entre 7 y 13+6 semanas), que es el método más preciso disponible. La FUM se
+utiliza como referencia inicial y se corrobora o corrige según los hallazgos ecográficos, aplicando los umbrales
+de discrepancia recomendados (ver tabla) y creando una FUM operacional. Cuando la EG ha sido establecida
+en base a una ecografía precoz adecuada, no debiera modificarse en controles posteriores. En gestaciones
+logradas mediante técnicas de reproducción asistida (inseminación, FIV/ICSI), la EG se calculará utilizando la
+fecha de inseminación o de transferencia embrionaria, ajustada por la edad del embrión, y en general la
+ecografía precoz confirmará más que corregirá esta datación.
+
+Para el cálculo de la edad gestacional mediante ecografía se efectúan diferentes mediciones, según
+la edad gestacional. Variables útiles son: tamaño del saco gestacional, longitud céfalo-nalgas, diámetro
+biparietal y longitud femoral. Se cuenta con tablas y/o software que permiten estimar la EG según el
+parámetro medido.
+Tamaño del saco gestacional
+Existen tablas que correlacionan el tamaño del saco gestacional con la edad gestacional, sin embargo,
+no es un parámetro muy preciso para el diagnóstico de la EG. A modo simplificado es útil considerar los
+siguientes parámetros:
+• El saco gestacional es visible en la eco TV desde las 4-5 semanas
+• El tamaño del saco se relaciona con la EG:
+o 5 semanas: 10 mm
+o 6 semanas: 20 mm
+o 7-8 semanas: 30 mm
+Longitud céfalo nalgas (LCN)
+Es el mejor parámetro ecográfico para
+el diagnóstico de la edad gestacional. Se mide en
+línea recta desde la cabeza (corona) hasta las
+nalgas en una toma en un plano sagital donde se
+visualicen el cráneo, el dorso fetal y la nalga
+(Figura 1). La técnica correcta para la medición
+de la LCN requiere que el feto se encuentre en
+posición neutral; para asegurarnos de esto,
+debe haber un espacio de líquido amniótico entre el mentón y el pecho del feto. La LCN es medible entre las
+6-12 semanas, cuando la LCN se encuentra entre 3 y 58 mm. Antes de las 6 semanas es difícil y posterior a las
+12 semanas el feto deja de estar flectado. Entre las 7-10 semanas (9-33 mm) es el mejor momento para
+efectuar este examen, pues tiene el menor margen de error.
+Si la EG calculada por la FUM y la LCN difieren (ver Tabla en la página siguiente), es preferible confiar
+en la LCN. Por ejemplo, si por FUM tiene una EG de 7+2 semanas y por ecografía precoz es de 6+6 semanas,
+se acepta la FUM dada por la paciente. Pero si, por el contrario, la ecografía calcula una EG de 9+0 semanas,
+se estimará una FUM operacional y con ella se seguirá el cálculo de la EG a lo largo del embarazo.
+Existen tablas, y la mayoría de los ecógrafos integran un software, que permite el cálculo de la EG
+según la LCN. Como nemotecnia: EG = LCN cm + 6.5. En la siguiente tabla se muestran algunos valores
+biométricos y su relación con la edad gestacional.
+Valores útiles que recordar para conocer la edad gestacional
+Saco gestacional Visible desde las 4 ½ semanas
+Saco vitelino Visible desde las 5 semanas
+Embrión Visible desde las 5 ½ semanas
+LCN 3 mm 6 semanas (con LCF)
+LCN 10 mm 7 semanas
+LCN 16 mm 8 semanas
+LCN 23 mm 9 semanas
+
+Diámetro biparietal (DBP)
+Corresponde a la distancia que existe entre los huesos parietales de
+la cabeza fetal. La medición debe ser obtenida en un plano axial donde se
+observen la sombra de los tálamos, el cavum del septum pellucidum y la hoz
+del cerebro, y debe medirse de tabla externa (proximal) a tabla interna del
+hueso parietal distal (Figura 2).
+Longitud femoral (LF)
+Medición del fémur de extremo a extremo. La medida del fémur se
+realiza en el eje longitudinal del fémur teniendo únicamente en cuenta la
+parte osificada (diáfisis y metáfisis). Las porciones cartilaginosas del
+hueso (cabeza femoral, trocánteres y núcleo de osificación distal), se
+identifican como estructuras hipoecoicas proximales y distales a la
+diáfisis, y no se deben incluir en la medición (Figura 3).
+La circunferencia craneana (CC) se mide en el mismo plano que
+el DBP. La circunferencia abdominal (CA) se mide en un corte
+perpendicular al eje mayor del feto, a nivel del ombligo. La técnica
+correcta requiere la observación de un corte en que sea visible el
+estómago (burbuja gástrica), la columna y la vena umbilical que
+confluye con el seno portal; no deben visualizarse los riñones. Para
+medir CC o CA es posible usar la herramienta elipse del ecógrafo, o
+medir dos diámetros y calcular el perímetro.
+El DBP y la LF son útiles en el cálculo de la EG en embarazos
+mayores a 9 semanas, pero con margen de error creciente, como se observa en la siguiente tabla.
+Rango de edad gestacional Parámetro biométrico Discrepancia que requiere calcular
+FUM operacional
+≤ 8+6 LCN > 5 días
+9+0 – 13+6 LCN > 7 días
+14+0 – 15+6 DBP, CC, CA, LF > 7 días
+16+0 – 21+6 DBP, CC, CA, LF > 10 días
+22+0 – 27+6 DBP, CC, CA, LF > 14 días
+≥ 28+0 DBP, CC, CA, LF > 21 días
+LCN = longitud céfalo nalgas; DBP = diámetro biparietal; CC = circunferencia craneana; CA = circunferencia
+abdominal; LF = Longitud femoral.
+Committee on Obstetric Practice, the American Institute of Ultrasound in Medicine, and the Society for Maternal-Fetal Medicine.
+Committee Opinion No 700: Methods for Estimating the Due Date. 2017
+Determinación de edad gestacional por otros parámetros
+Para el cálculo preciso de la EG es ideal disponer de una ecografía precoz para medición de la LCN (7-
+10 semanas), sin embargo, hoy ha ganado terreno, a la hora de reducir recursos, la idea de efectuar la primera
+ecografía a las 11-14 semanas, para efectuar la ecografía de diagnóstico antenatal (riesgo de aneuploidías) y
+determinar la edad gestacional al mismo tiempo.
+Existen casos especiales (Ej. ingreso tarde a control prenatal, malformaciones fetales), en que los
+parámetros usuales para el diagnóstico de EG no son útiles. Operacionalmente se manejan con el diagnóstico
+de edad gestacional dudosa (EGD) + el margen de error. En estos casos se pueden usar otras mediciones como
+la medida de los huesos largos (húmero, radio, cúbito, tibia, peroné) o el diámetro transverso del cerebelo.
+Para cada una de estas medidas existen tablas que correlacionan la medición con la EG. Solo como referencia
+
+es interesante comentar que el diámetro transverso del cerebelo mide en mm lo mismo que la EG (Ej. 21 mm
+de diámetro cerebelar = 21 semanas EG).
+Otro aspecto de la ecografía, útil en el cálculo de la EG, especialmente en casos complicados (Ej.
+anencefalia), es la visualización de la presencia o ausencia de los núcleos de osificación en diferentes huesos.
+Como referencia es posible revisar la siguiente tabla.
+Centro de osificación Edad de visualización (semanas)
+Calcáneo 24
+Talo 26
+Epífisis femoral distal 32
+Epífisis tibial proximal 36
+Epífisis humeral proximal 40
+
+Resumen
+• La edad gestacional es el número de días transcurridos desde el primer día de la última menstruación
+del ciclo concepcional (FUM) hasta la fecha actual. La edad gestacional se expresa en semanas + días.
+• FUM operacional corresponde a una FUM obtenida por ecografía (idealmente ecografía precoz ,7-10
+semanas) para el correcto cálculo de la EG cuando difiere de la FUM real, o esta no es segura o
+confiable.
+• Mediante la anamnesis se debe determinar las FUM y especificar si esta es segura (la paciente recuerda
+con precisión la fecha) y confiable (predice confiablemente que desde la menstruación hasta la
+ovulación pasaron 15 días). No es confiable si: ciclos irregulares, haber usado ACO los últimos 3 meses
+y amenorrea por otras causas (lactancia). La percepción de movimientos fetales puede orientar sobre
+EG, primigestas suelen percibirlos desde las 20 semanas y multíparas de las 18.
+• El examen físico no es un elemento suficientemente preciso como para ser usado en el cálculo de la
+edad gestacional, sin embargo, mediante el tacto vaginal, el examen obstétrico abdominal (ambos
+para medir tamaño uterino) y la auscultación de LCF (desde las 12 semanas con el Doppler fetal y desde
+las 20 semanas con estetoscopio de Pinard), se puede estimar EG a la espera de los resultados de la
+ecografía.
+• Exámenes complementarios: prueba de embarazo en orina (medición cualitativa de la subunidad β de
+la gonadotrofina coriónica, permite diagnóstico del embarazo desde el inicio del atraso menstrual,
+pero no permite conclusiones respecto la edad gestacional, localización del embarazo ni su viabilidad)
+• Subunidad β hCG cuantitativa plasmática: hormona producida por el trofoblasto, detectable desde
+aproximadamente el día 9 posterior a la fecundación. Su concentración se correlaciona de forma
+general con la EG y con los hallazgos ecográficos, pero presenta rangos muy amplios para una misma
+edad gestacional, por lo que no se utiliza para el cálculo preciso de la EG. Su principal utilidad es el
+manejo del embarazo de localización o viabilidad incierta, en conjunto con la ecografía (por ejemplo,
+en la sospecha de embarazo ectópico).
+• Ecografía obstétrica: Cálculo definitivo de EG se hace mediante FUM y se corrobora con ecografía. Se
+cuenta con tablas y/o software que permiten estimar la EG según el parámetro medido. Variables útiles
+son:
+o Tamaño del saco gestacional: es visible en la eco TV desde las 4-5 semanas, su tamaño se relaciona
+con la EG (5 semanas: 10 mm, 6 semanas: 20 mm, 7-8 semanas: 30 mm)
+o Longitud céfalo-nalgas: es el mejor parámetro ecográfico para el diagnóstico de la EG en el primer
+trimestre. Tiene un margen de error aproximado de ±5–7 días, dependiendo del rango de EG, y es
+medible de forma confiable entre las 6 y 12 semanas. Requiere que el feto se encuentre en
+posición neutral. Como nemotecnia aproximada puede usarse EG (semanas) ≈ LCN (cm) + 6,5.
+o La FUM debe corregirse (generando una FUM operacional) cuando la EG por LCN difiere de la EG
+por FUM más allá de los umbrales recomendados: >5 días si la EG es ≤8+6 semanas, >7 días entre
+9+0 y 13+6 semanas, y según los valores de la tabla para edades gestacionales más avanzadas.
+o Diámetro biparietal: distancia que existe entre los huesos parietales de la cabeza fetal (se mide
+desde la tabla externa a tabla interna).
+o Longitud femoral: Medición longitudinal del fémur de extremo a extremo (solo parte osificada).
+o Circunferencia craneana: se mide en el mismo plano que el DBP.
+o Circunferencia abdominal: se mide en un corte perpendicular al eje mayor del feto, a nivel del
+ombligo.
+o Otros: En caso de edad gestacional dudosa (EGD) se pueden usar las medidas de los huesos largos
+(húmero, radio, cúbito, tibia, peroné), el diámetro transverso del cerebelo o ver presencia o
+ausencia de núcleos de osificación.
+
+Pá gin a | 41

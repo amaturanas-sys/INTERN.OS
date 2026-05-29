@@ -1,0 +1,510 @@
+Capítulo 1.
+SEMIOLOGÍA OBSTÉTRICA
+La obstetricia es aquella parte de la medicina que se ocupa de la gestación, el parto y el puerperio.
+Por su parte, la semiología es la ciencia que estudia síntomas y signos de las enfermedades, incorporando
+como elementos esenciales la anamnesis y el examen físico. La semiología en ginecología y obstetricia es
+esencialmente similar a lo aprendido en semiología general.
+En el caso de la semiología obstétrica, además de la anamnesis general (próxima y remota), debe
+interrogarse sobre los antecedentes obstétricos de la mujer. Respecto del examen físico, además del examen
+físico habitual (general y segmentario), se requiere especial énfasis en el examen obstétrico abdominal,
+destinado a caracterizar al feto en crecimiento en el interior del útero.
+Todos los elementos semiológicos deben ser evaluados en cada control prenatal, aunque por razones
+prácticas, se recomienda especial énfasis en el ingreso a control prenatal (primer control prenatal). Este
+control es la primera instancia para establecer una buena relación
+médico-paciente y para abarcar temas de salud y antecedentes a
+considerar en los controles posteriores, durante todo el embarazo.
+En el sistema público de salud, existe el programa de Chile
+Crece contigo que entrega una agenda de Control Prenatal que permite
+registrar todos los antecedentes relacionados con el embarazo, los
+diferentes controles prenatales y los resultados de exámenes de
+laboratorio. Incluye gráficos de evaluación nutricional de la
+embarazada y tablas de altura uterina según edad gestacional,
+evaluación en caso de alto riesgo, recomendaciones de guías
+alimentarias y ejercicios físicos para embarazadas, además de consejos
+para la lactancia materna y paternidad activa. Se recomienda que las
+mujeres en control lleven esta agenda a cada visita de seguimiento
+prenatal.
+SEMIOLOGÍA OBSTÉTRICA EN EL INGRESO A CONTROL PRENATAL
+El ingreso a control prenatal corresponde al primer control que se realiza, una vez confirmado el
+embarazo. En este control, se efectuará una anamnesis y examen físico completo. En el primer control, deben
+efectuarse los “diagnósticos de ingreso a control prenatal”, que permiten categorizar al embarazo como una
+gestación de alto o bajo riesgo. La anamnesis incluye: anamnesis general, antecedentes ginecológicos,
+antecedentes obstétricos e historia del embarazo actual. El examen físico incluye: examen físico general,
+examen físico segmentario, examen ginecológico y examen obstétrico abdominal.
+I. Anamnesis en el primer control prenatal
+El objetivo de la anamnesis es recabar información próxima y remota de elementos normales y
+mórbidos tanto personales como familiares. Permite conocer el motivo de consulta y la aparición de síntomas
+normales y patológicos.
+Es indispensable, por razones legales y epidemiológicas, una correcta identificación de la mujer y su
+pareja (nombre, edad, domicilio, trabajo, nivel educacional, etnia de pertenencia, estado civil, previsión, etc.).
+Anamnesis remota
+• Antecedentes mórbidos, antecedentes quirúrgicos, fármacos, hábitos, alergias
+• Antecedentes mórbidos familiares, con énfasis en aquellos con carácter hereditario (ej. cáncer de mama,
+ovario, colon, etc.)
+
+Antecedentes ginecológicos (ver capítulo anamnesis ginecológica)
+• Menarquia
+• Ciclos menstruales: características como periodicidad, cantidad, dismenorrea, etc.
+• Formula obstétrica (FO)
+• Método anticonceptivo (MAC)
+Historia obstétrica (embarazos previos)
+Lo sucedido en los embarazos previos es fundamental en definir si el embarazo actual es o no un
+embarazo de alto riesgo. Debe detallarse con precisión los antecedentes de cada uno de los embarazos
+previos, independiente de cómo estos terminaron (ej. aborto o parto).
+A. Historia detallada de partos previos
+• Año y lugar de cada parto
+• Complicaciones del embarazo
+• Edad gestacional al parto
+• Vía de parto: vaginal, fórceps o cesárea
+• Patología del puerperio
+• Datos del RN: peso, talla, sexo, APGAR y salud actual
+B. Historia detallada de abortos previos
+• Año y lugar en que ocurrió
+• Indagar si el aborto fue espontáneo o provocado
+• Necesidad de legrado uterino
+• Complicaciones posteriores al aborto
+La causa más frecuente de aborto de primer
+trimestre es el “huevo anembrionado”, el cual se origina
+habitualmente en un cigoto aneuploide. En casos de huevo
+anembrionado, la ecografía muestra sólo el saco
+gestacional, sin desarrollo embrionario. Mediante la
+anamnesis es posible determinar si el aborto fue
+secundario a un huevo anembrionado, lo que es relevante
+pues este no le confiere a la mujer un riesgo especial en su
+siguiente embarazo.
+El caso es diferente cuando se detecta una
+“muerte embrionaria”, que, si bien en la mayoría de los casos también se origina por una aneuploidía, puede
+ser causada por otros factores como: malformaciones uterinas, SAAF, etc. En este caso, la primera ecografía
+de la paciente muestra un embrión visible y se detectan los latidos cardíacos fetales (LCF), mientras que en la
+segunda ecografía el embrión no presenta LCF. Estos casos deben ser estudiados cuidadosamente, para
+determinar la causa y evaluar la necesidad de tratamiento antes o durante su próximo embarazo.
+Anamnesis respecto del embarazo actual
+• Fecha de última menstruación (FUM): primer día de la última menstruación.
+• Cálculo de edad gestacional (EG)
+• Fecha probable de parto (FPP)
+• Síntomas gestacionales “normales”: náuseas, vómitos, cansancio, sueño, sensación de mareo, distensión
+abdominal, dolor pelviano, congestión mamaria, antojos, pirosis.
+• Síntomas patológicos: sangrado genital, dolor pelviano intenso, flujo genital que produce mal olor o
+prurito vaginal.
+• Inicio de control y exámenes prenatales: averiguar si ya inició control y si trae exámenes de rutina.
+
+• Evaluación del bienestar fetal: interrogar respecto de la
+percepción de movimientos fetales. En general, las nulíparas
+comienzan a percibirlos alrededor de las 20 semanas, mientras que
+las multíparas pueden hacerlo algo antes (16–18 semanas). La
+presencia de movimientos fetales percibidos por la madre es un
+buen signo de bienestar fetal y debe registrarse como evaluación
+subjetiva en la ficha clínica (ej. “buena percepción de movimientos
+fetales”). En el tercer trimestre, la disminución marcada o ausencia
+de movimientos fetales percibidos debe considerarse siempre un
+signo de alarma y motivar una evaluación inmediata.
+II. Examen físico en el primer control prenatal
+Examen físico general
+• Debe efectuar un examen físico completo.
+• Especial énfasis en la toma de presión arterial (PA) y peso.
+En el primer control se mide la estatura de la paciente, lo cual permitirá, junto al peso, estimar su
+estado nutricional en cada control. Para evaluar el estado nutricional es posible usar índice peso/talla (IPT) o
+el índice de masa corporal (IMC), los cuales se calculan en cada control prenatal. En el carné de control de la
+embarazada (de uso frecuente en la atención primaria), es posible graficar los cambios en el IPT o IMC a
+medida que la gestación progresa (Figura 1). En las primeras semanas de embarazo puede observarse baja de
+peso (secundario a las náuseas, vómitos e intolerancia digestiva propia del embarazo).
+Examen físico segmentario
+• Cabeza y cuello: observar piel y
+mucosas, sobre todo su coloración
+(rosada, pálida o ictérica), y el grado de
+hidratación. Examen bucal buscando
+caries o sangrado de encías. En el
+cuello palpar tiroides y adenopatías.
+• Tórax: examen pulmonar y cardíaco.
+• Abdomen: observación y palpación
+abdominal. Detectar presencia de
+cicatrices, estrías y la presencia de
+línea parda.
+• Extremidades: forma, simetría,
+movilidad, presencia de edema.
+Examen ginecológico
+En el primer control prenatal,
+debe efectuarse un examen ginecológico
+completo, incluyendo el examen físico de
+mamas y los genitales.
+• Examen mamario: se efectúa
+mediante inspección y palpación.
+Permite determinar las características
+de las mamas (volumen, consistencia, forma, presencia de nódulos), el pezón y la presencia o ausencia
+de secreción láctea.
+• Inspección de genitales externos, para determinar características de genitales externos (presencia de
+posibles lesiones) y de flujo genital.
+
+• Especuloscopía: se efectúa rutinariamente en el primer control prenatal, permitiendo la toma del frotis
+de Papanicolaou (PAP) si no se encuentra vigente.
+• Tacto vaginal: se efectúa rutinariamente en el primer control prenatal. Permite caracterizar el tamaño
+uterino (para saber si es acorde con la edad gestacional estimada por FUM) y los anexos.
+Examen obstétrico
+Se efectúa en el primer control prenatal y se repite en todos los controles siguientes. El examen
+obstétrico incluye: palpación abdominal, auscultación de latidos cardíacos fetales (en embarazos mayores a
+12 semanas), medición de altura uterina (en embarazos mayores a 20 semanas), maniobras de Leopold (en
+embarazos mayores a 28 semanas) y estimación clínica del peso fetal (en embarazos mayores a 28 semanas).
+Como parte del examen obstétrico, solo en ocasiones se requerirá del tacto vaginal obstétrico. Se verá en
+detalle el examen obstétrico abdominal más adelante en este mismo capítulo.
+III. Diagnósticos de ingreso al control prenatal
+Al igual que en cualquier situación clínica, el médico o matrona debe establecer una conclusión
+respecto de su anamnesis y examen físico, esto es el diagnóstico clínico. En este caso, al ingreso al control
+prenatal, se establecerán los diagnósticos que permiten orientar el control prenatal futuro. Si se trata de un
+embarazo de bajo riesgo (riesgo normal), la paciente continuará su control en el nivel primario. Si se trata de
+un embarazo de alto riesgo (por patología materna o fetal), se requerirán exámenes o tratamientos especiales,
+y la derivación a nivel secundario o terciario de atención (sistema público) o a un especialista en medicina
+materno-fetal. El diagnóstico de ingreso a control prenatal incluye: la fórmula obstétrica, la edad
+gestacional y la patología concomitante.
+Fórmula obstétrica (FO): Es una forma de resumir los antecedentes obstétricos de la mujer embarazada, de
+uso universal, pero con diferencias en cada servicio.
+• Fórmula usada en la Pontificia Universidad Católica de Chile
+Es un número de cinco dígitos, que representan el número de: partos de término (mayor a 37
+semanas), partos prematuros, abortos espontáneos, abortos provocados y número de hijos vivos.
+Ej. FO: 10101: un parto de término, un aborto espontáneo, y un hijo vivo
+• Formula MINSAL
+Se trata de un número de 7 dígitos, que representan el número de: abortos espontáneos, abortos
+provocados, partos de pretérmino, partos de término, mortinatos, mortineonatos, e hijos vivos.
+Ej. FO: 10/01/00/1: un aborto, un parto de término y un hijo vivo.
+No existe consenso sobre la inclusión de los embarazos ectópicos como aborto en estas fórmulas, lo
+que induce a error. Recomendamos no incluir los embarazos ectópicos y mencionarlos en los diagnósticos de
+patología concomitante. En la literatura internacional suele usarse la terminología GPA (gestas, paras,
+abortos), indicando el número de embarazos, partos y abortos.
+Edad gestacional (EG): Corresponde al número de días desde el primer día de la última menstruación (ver
+capítulo de cálculo de la edad gestacional), expresados como semanas más días.
+Ej. 26+2, significa 26 semanas y 2 días de edad gestacional.
+Patología concomitante: Se señalan condiciones patológicas actuales, ya sean preexistentes (Ej. hipertensión,
+diabetes, etc.) o propias del embarazo (presentación podálica, diabetes gestacional, etc.). También deben
+señalarse antecedentes patológicos relevantes propios de embarazos previos.
+Ejemplo:
+1. FO: 21013
+2. Embarazo de 8+2 semanas
+3. HTA crónica
+4. Antecedente de cesárea en su primer embarazo
+
+SEMIOLOGÍA OBSTÉTRICA EN LOS CONTROLES PRENATALES
+Dado que en el ingreso a control prenatal ya se registró la anamnesis y examen físico completo de la
+mujer embarazada, en los restantes controles de rutina, se hará una anamnesis más breve y orientada a
+aspectos específicos del embarazo o de las patologías detectadas. Se hará, en general, solo examen obstétrico
+abdominal. El tacto vaginal obstétrico se hará solo en situaciones que lo ameriten, como se verá más adelante.
+I. Anamnesis en los controles prenatales
+Anamnesis respecto del embarazo actual
+• Cálculo de edad gestacional (EG)
+• Síntomas gestacionales “normales”: náuseas, vómitos, cansancio, sueño, sensación de mareo, distensión
+abdominal, dolor pelviano, congestión mamaria, antojos, pirosis.
+• Síntomas patológicos: sangrado genital, dolor pelviano intenso, flujo genital que produce mal olor o
+prurito vaginal, contracciones uterinas.
+• Interrogar respecto de la percepción de movimientos fetales desde que la paciente refiere haberlos
+sentido por primera vez (habitualmente entre las 16 y 20 semanas, antes en multíparas). En el tercer
+trimestre, cambios importantes en el patrón de movimientos (disminución marcada o ausencia) deben
+ser considerados signos de alarma.
+• Evaluación de la adherencia a las indicaciones (medicamentos, vitaminas, exámenes de laboratorio).
+Anamnesis respecto de patologías detectadas
+• Según sea la enfermedad (Ej. HTA, diabetes, etc.), se hará una anamnesis dirigida a síntomas propios de
+esa condición.
+• Evaluar la asistencia de la mujer a los
+controles médicos con especialistas a los que
+haya sido derivada.
+II. Examen físico en los controles
+prenatales
+Examen físico general
+• Toma de presión arterial (PA) y peso.
+• Cálculo del IMC y representación
+gráfica en el carné de control prenatal o
+sistema de registro similar. (Figura 1)
+Examen físico segmentario
+• Solo se hará si la paciente presenta
+síntomas de alguna condición patológica.
+Examen ginecológico
+• Se hará especuloscopía o tacto vaginal
+si la paciente presenta síntomas sugerentes
+de alguna enfermedad (Ej. flujo vaginal,
+prurito vulvar, sangrado, etc.).
+Examen obstétrico
+• El examen obstétrico abdominal se efectúa en cada control. Es importante registrar en la ficha clínica
+todos los datos.
+• Tacto vaginal obstétrico se hará solo cuando sea necesario.
+
+EXAMEN OBSTÉTRICO ABDOMINAL
+Constituye el examen del abdomen de la mujer embarazada. Debe realizarse idealmente con la
+paciente en decúbito dorsal con ligera inclinación lateral izquierda o con el respaldo de la camilla levemente
+inclinado, para reducir el riesgo de hipotensión supina, especialmente en el tercer trimestre. Los brazos deben
+permanecer relajados a los lados del cuerpo y siempre se debe procurar que la paciente haya evacuado la
+vejiga previamente.
+El examen obstétrico abdominal no puede ser reemplazado por una ecografía obstétrica. La atención
+médica se nutre de anamnesis y examen físico, y los exámenes de imágenes son complementarios. Hemos
+observado que muchos jóvenes obstetras, especialmente en los servicios de urgencia, no examinan a las
+pacientes y solo “miran” al feto a través de la ecografía. Esta práctica es, sin duda, un deterioro inadmisible
+de la práctica médica.
+Antes de las 12 semanas
+El útero aún se encuentra dentro de la pelvis, por lo que el examen abdominal en este periodo es
+similar al de una mujer no embarazada.
+Entre 12-20 semanas
+Recién a las 12 semanas la parte superior del útero gestante se encuentra al nivel de la sínfisis púbica,
+siendo posible palparlo en el examen obstétrico abdominal. A esta edad gestacional, el examen obstétrico
+abdominal consiste en la palpación y la auscultación de los latidos cardíacos fetales.
+• Palpación: en este período es posible palpar el útero, comprimiendo
+suavemente la pared abdominal, para determinar su tamaño, el que debiera
+relacionarse con la edad gestacional. Si bien esta evaluación se ve afectada
+por la contextura de la mujer embarazada, el borde superior del útero debiera
+palparse considerando los siguientes reparos anatómicos:
+o 12 semanas: suprapúbico.
+o 16 semanas: entre pubis y ombligo.
+o 20 semanas: umbilical.
+• Auscultación de latidos cardíacos fetales (LCF): a esta edad gestacional, los
+LCF se pueden auscultar mediante el Doppler obstétrico (Figura 2), pero no
+con el estetoscopio de Pinard. En la práctica clínica actual, el Doppler se utiliza
+ampliamente porque permite amplificar los sonidos y compartir la experiencia
+con la madre; sin embargo, el estetoscopio de Pinard sigue siendo una
+herramienta válida y muy útil, especialmente en contextos de recursos
+limitados, siempre que se respete su rango de uso (habitualmente desde las
+20 semanas).
+Después de las 20 semanas
+A esta edad gestacional el útero es fácilmente palpable sobre el
+ombligo. El examen obstétrico abdominal incluye: palpación abdominal,
+maniobras de Leopold (en embarazos mayores a 28 semanas),
+auscultación de los latidos cardíacos fetales, medición de altura uterina
+y estimación clínica del peso fetal (en embarazos mayores a 28 semanas).
+1. Maniobras de Leopold
+Corresponde a cuatro maniobras de palpación fetal, a través del abdomen materno, para identificar
+la situación, presentación, posición y actitud fetal. A continuación, describimos la definición de cada uno de
+estos términos.
+
+o Actitud fetal: es la forma en que se disponen las diversas partes del feto entre sí durante su permanencia
+en el útero (Figura 3). El feto normal tiene una actitud general de flexión activa: la columna vertebral está
+flectada sobre sí misma, determinando una marcada convexidad del dorso fetal, la cabeza flectada de
+modo que la barbilla toca el esternón, las caderas están bien flectadas pudiendo estar las rodillas flectadas
+o estiradas, las extremidades superiores pegadas al cuerpo y los codos flectados. La actitud de flexión
+activa lleva a la formación de un “ovoide fetal”, postura que le
+permite ocupar el menor espacio posible en el interior de la cavidad
+uterina.
+o Situación fetal: es la relación existente entre el eje
+longitudinal del ovoide fetal y el eje longitudinal (sagital) del útero
+o la madre (Figura 4). La situación fetal puede ser longitudinal,
+transversa u oblicua. En el 99% de los embarazos la situación es
+longitudinal. Con mayor frecuencia las situaciones oblicuas o
+transversas se observan con anterioridad a las 34 semanas de
+gestación.
+o Presentación fetal: es la parte del feto que se presenta
+al estrecho superior de la pelvis materna (Figura 4). En las
+situaciones longitudinales la parte fetal presentada es el polo
+cefálico o podálico; en cambio, en situación transversa, el
+segmento fetal que se presenta es el hombro o tronco.
+o Posición fetal: es la relación del dorso del feto con el lado
+izquierdo o derecho del cuerpo de la madre. En el tacto vaginal obstétrico se determinará, además, la
+“variedad de posición”, entendiendo por tal la relación del punto de reparo de la presentación, con la
+pelvis materna, lo que se explicará más adelante.
+En los siguientes párrafos explicamos cómo se efectúa cada una de las cuatro maniobras de Leopold
+(Figura 5), y cuál es la utilidad de cada una de ellas:
+• Primera maniobra de Leopold: permite identificar el polo fetal que ocupa el fondo uterino y así determinar
+la SITUACIÓN y la PRESENTACIÓN FETAL (pensando en el polo opuesto, el que se encontrará hacia la pelvis
+materna). Se efectúa desde el lado derecho y mirando hacia la cabeza de la paciente, utilizando la palma
+y el borde cubital de la mano, con los dedos apuntando a la cara de la paciente. Se identifica el fondo del
+útero y se palpa el polo fetal (este puede ser podálico o cefálico). El polo cefálico es más pequeño, duro
+y “pelotea” en el fondo uterino (presentación podálica), mientras que el polo podálico es más ancho,
+blando y no “pelotea” (presentación cefálica). Si no se detecta ningún polo en el fondo uterino, se
+concluye que el feto está en situación transversa. Se denomina “peloteo” a la posibilidad de mover la
+cabeza fetal en el interior del útero, flotando en el líquido amniótico, y rebotando como un cubo de hielo
+en el agua, al empujarla con la mano.
+• Segunda maniobra de Leopold: identifica la POSICIÓN FETAL. Se efectúa desde el lado derecho y mirando
+hacia la cabeza de la paciente, mientras las manos del examinador se deslizan desde el fondo del útero
+hacia abajo, siguiendo las partes laterales del abdomen, a la derecha e izquierda del útero. Se identifica
+el dorso fetal, superficie lisa y convexa ubicada en uno de los costados, y en el lado opuesto nódulos
+pequeños que pueden corresponder a las extremidades. Lo más fisiológico es dorso a izquierda.
+• Tercera maniobra de Leopold: identifica el GRADO DE ENCAJAMIENTO, es decir, cuan metido está el polo
+fetal en la pelvis. Se efectúa desde el lado derecho y mirando la cabeza de la paciente, colocando la mano
+derecha sobre la sínfisis púbica percibiendo el polo de la presentación fetal. Podemos determinar tres
+niveles: Flotante: el polo fetal se mueve libremente, si está en cefálica se puede verificar el “peloteo” de
+la cabeza fetal. Fijo: el polo fetal está insinuado en la pelvis, es posible palparlo, si está en cefálica ya no
+es posible verificar el “peloteo” de la cabeza fetal. Encajada: el polo fetal está completamente metido en
+la pelvis, logrando palparlo con dificultad. Se estima que cuando la presentación está encajada es porque
+el ecuador de la presentación (punto más ancho) ya pasó el estrecho superior de la pelvis, y el punto más
+prominente de la presentación ya está a nivel de las espinas ciáticas.
+• Cuarta maniobra de Leopold: detecta la ACTITUD FETAL. Se efectúa desde el lado derecho y mirando hacia
+los pies de la paciente. Se identifica la flexión del polo cefálico ubicado en la pelvis materna, deslizando
+
+una mano sobre el dorso fetal, hacia la pelvis. Esta maniobra es útil en las presentaciones cefálicas y
+permite determinar el grado de flexión de la cabeza fetal. Deflectado: cuando la mano que se desplaza
+por el dorso fetal choca con la nuca. Flectado: al contrario, si la mano llega a la pelvis sin haber chocado
+con la nuca del feto.
+2. Auscultación de latidos cardíacos fetales (LCF)
+La auscultación de los LCF es posible mediante el uso del Doppler obstétrico (en embarazos mayores
+a 12 semanas) o del estetoscopio de Pinard (en embarazos mayores a 20 semanas) (Figura 6), para lo cual es
+necesario conocer el “foco de auscultación máxima”. En embarazos menores a 20 semanas se encuentra en
+la línea media, infra umbilical. Entre las 20-28 semanas el foco de auscultación máxima se encuentra sobre el
+ombligo, en situación paramediana. Después de las 28 semanas, se identificará el foco de auscultación máxima
+gracias a las maniobras de Leopold. El foco de auscultación máxima se encuentra donde estimemos se
+encuentre el hombro del feto, lo que en presentación cefálica suele estar bajo el ombligo en situación
+paramediana, y a derecha o izquierda según esté el dorso fetal.
+Uso del Doppler obstétrico: se aplica una gota de gel para
+ultrasonido en el transductor Doppler, se apoya el transductor sobre el
+abdomen materno (en el foco apropiado) presionando suavemente para
+evitar ruido, se enciende el aparato y se ajusta el volumen, el
+transductor se inclina lentamente en varias direcciones hasta oír los
+latidos. No es aconsejable usar una gran cantidad de gel, o mover el
+transductor rápidamente sobre el abdomen. Si se encuentra una
+frecuencia cardíaca muy baja, podría corresponder al latido de la madre,
+por lo que se debe seguir buscando el fetal con movimientos del
+transductor.
+Uso del estetoscopio de Pinard: se coloca la parte ancha del
+estetoscopio de Pinard en el foco de auscultación máxima, se aplica el
+pabellón auricular sobre el extremo opuesto del estetoscopio,
+presionando suavemente, se quita la mano de modo que el estetoscopio
+quede aprisionado entre el abdomen materno y el pabellón auricular (Figura 6). Con el silencio ambiental
+necesario es posible detectar los LCF y medir su frecuencia en un minuto, el rango normal es 110-160 latidos
+por minuto.
+3. Medición (mensura) de Altura uterina (AU)
+Es la medición en centímetros del crecimiento uterino, tomando en cuenta la distancia entre la sínfisis
+púbica y el fondo uterino. La altura uterina es un reflejo del crecimiento fetal, y se correlaciona con la edad
+gestacional. Existen tablas que permiten determinar si la altura uterina es adecuada para la edad gestacional
+(Figura 7). La AU debe medirse en cada control prenatal desde las 20 semanas en adelante, su evolución es
+un parámetro importante para evaluar el crecimiento fetal.
+
+Si la AU está bajo el percentil 10, debe sospecharse una
+restricción de crecimiento fetal y es importante efectuar una
+ecografía. Otras causas de AU bajo el percentil 10 son:
+oligoamnios, feto en transversa, madre enflaquecida, mal cálculo
+de la edad gestacional o mala técnica de medición de la AU. Como
+mnemotecnia, si la AU es menor que EG – 4 cm (Ej. 36 sem, 36-4=
+32 cm), corresponderá probablemente a una AU menor al
+percentil 10 para la edad gestacional.
+Si la AU se encuentra sobre el percentil 90, debe
+sospecharse que se trata de un feto grande para la edad
+gestacional, lo que se corroborará mediante la ecografía. Otras
+causas de AU mayor a la esperada son: embarazo múltiple,
+polihidroamnios, obesidad materna, mal cálculo de la edad
+gestacional o mala técnica de medición de la AU.
+La técnica de medición de la AU es la siguiente (Figura 8):
+la paciente debe estar en decúbito supino con la camilla levemente reclinada (también es posible en posición
+de litotomía). El extremo inferior de la huincha se coloca sobre la
+sínfisis púbica (mano derecha) y el superior entre los dedos índice y
+medio de la mano izquierda, colocándola perpendicular al fondo
+uterino (siempre usar una huincha flexible).
+4. Estimación clínica del peso fetal
+La estimación clínica del peso fetal consiste en estimar el peso
+fetal mediante la palpación del feto a través del abdomen materno,
+lo cual es posible en embarazos mayores a 28 semanas. En manos
+de un obstetra bien entrenado, la estimación clínica de peso fetal
+tiene un margen de error de 10% (similar a la estimación de peso
+fetal mediante ecografía).
+La mejor manera de adquirir habilidad en esta técnica es estimar el peso fetal en mujeres que estén
+en trabajo de parto y luego verificar el peso fetal de nacimiento. Como substituto de este entrenamiento, y lo
+que hemos descrito como la forma más pionera de “simulación clínica”, recomendamos a nuestros alumnos
+usar “frozen chicken technique” (FCT), entendiendo por tal, el estimar con los ojos cerrados el peso de un
+pollo en el supermercado, comprobando luego su peso real. Recordarán este ejercicio al palpar el abdomen
+de la mujer embarazada y podrán estimar el peso fetal.
+TACTO VAGINAL OBSTÉTRICO
+Es parte del examen físico de la mujer embarazada, y
+permite obtener información sobre el cuello uterino, el polo fetal
+y la pelvis materna. Se efectúa con la mano más hábil
+(habitualmente la mano derecha) (Figura 9). La paciente se
+encuentra en posición de litotomía, el médico lava sus manos y
+se pone guantes, luego introduce el dedo índice y medio en la
+vagina. Se recomienda usar lubricante en los dedos y ser
+cuidadoso en este examen. Para facilitar la realización del tacto
+vaginal, es útil poner el pie derecho sobre el peldaño de la camilla
+y apoyar el codo sobre el muslo. Cuando la mujer se encuentra acostada, como es el caso del trabajo de parto,
+es necesario el uso de una chata, colocada bajo las nalgas, para efectuar el tacto vaginal.
+El tacto vaginal obstétrico no se efectúa de modo rutinario durante el control prenatal. Sin embargo,
+existen situaciones en que es necesario efectuarlo, por ejemplo:
+• Contracciones uterinas frecuentes, independiente de la edad gestacional. El tacto vaginal puede ser
+complementado, pero no reemplazado por una medición ecográfica del cuello uterino.
+• Sangrado vaginal, habiendo descartado una placenta previa.
+• Embarazo de término, para estimar si existe o no cercanía al parto.
+
+Evaluación del cuello uterino
+• Longitud: se expresa en centímetros. La porción vaginal del cuello uterino mide 2 cm. Si el cuello mide 2
+cm en la evaluación, diremos que está “largo”. Si el cuello mide 1 cm, diremos que está “50% borrado”
+(lógicamente, diferentes longitudes del cuello se expresan como distintos % de borramiento). El
+borramiento cervical es sinónimo de acortamiento cervical (Figura 10).
+• Dilatación: se refiere específicamente a la dilatación del orificio cervical interno. La dilatación se expresa
+en centímetros. Si no existe dilatación, diremos que el cuello está “cerrado”. La dilatación máxima es 10
+cm.
+• Consistencia: expresa la solidez o firmeza del
+cuello uterino. La consistencia del cuello antes del
+inicio del trabajo de parto es “duro” (similar al de tu
+nariz). Durante el trabajo de parto su consistencia es
+“blando” y por cierto entre ambos existe una
+consistencia “intermedia”.
+• Posición: normalmente el cuello uterino está
+inclinado hacia atrás (hacia el sacro de la
+embarazada), en ese caso diremos que es
+“posterior”. Durante el trabajo de parto se inclina
+hacia adelante, hasta estar “centrado”, y la situación
+intermedia se describe como “semi-centrado”.
+Evaluación del polo fetal
+• Grado de descenso: nivel del punto más prominente de la presentación, en relación con el nivel de las
+espinas ciáticas (o isquiáticas).
+• Variedad de posición: relación del punto de reparo de la presentación con respecto a la pelvis materna
+(Figura 11). En presentación cefálica bien flectada, el punto de reparo es el occipucio (vértice). La variedad
+de posición se expresa en 8 variedades, según sea la posición del occipucio respecto a la pelvis materna.
+Se expresa como: “occípito ilíaca” (OI) + orientación de la pelvis materna (izquierda o derecha) + anterior
+o posterior (A o P). Ej. OIIT se refiere a
+occípito ilíaca izquierda transversa, es
+decir el occipucio se encuentra a las 3:00 si
+se asemeja a la esfera del reloj (Figura 11).
+• Grado de flexión de la cabeza fetal: según
+sea el grado de flexión de la cabeza fetal,
+es posible palpar los reparos anatómicos
+de la cabeza fetal. Si la cabeza está bien
+flectada, el occipucio se palpa casi en el
+centro del cuello dilatado, y el bregma es
+difícil de palpar (ver capítulo distocias de
+posición y presentación para comprender
+mejor este aspecto).
+Evaluación de la pelvis materna
+Mediante el tacto vaginal obstétrico es posible conocer las dimensiones de la pelvis materna.
+Antiguamente se intentaba medir los diámetros pélvicos, para determinar si el parto vaginal era posible, sin
+embargo, hoy se sabe que la evaluación de los diámetros pélvicos no permite predecir bien la probabilidad de
+parto vaginal.
+
+Resumen
+• La obstetricia se ocupa de la gestación, el parto y el puerperio. La anamnesis se enfoca en los
+antecedentes obstétricos. En el examen físico es fundamental el examen obstétrico abdominal para
+caracterizar al feto en el útero. El examen obstétrico abdominal es ineludible en la atención médica
+de una embarazada, sea en sus controles ambulatorios o en el servicio de urgencia. A través del
+examen obstétrico abdominal es posible estimar el peso, presentación y posición fetal; para esto no
+se requiere ecografía.
+• Primer control prenatal: una vez confirmado el embarazo. Deben efectuarse los “diagnósticos de
+ingreso a control prenatal”, categorizando al embarazo como una gestación de alto o bajo riesgo.
+o Anamnesis: información completa de los antecedentes mórbidos generales, ginecológicos,
+hábitos, medicamentos y alergias. Énfasis en los antecedentes obstétricos como historia de
+embarazos, partos y abortos previos. Respecto al embarazo actual, preguntar fecha del
+inicio de la última menstruación, síntomas normales y anormales del 1° trimestre, y los
+exámenes de laboratorio inicial y ecografías.
+o Examen físico: general (énfasis toma de PA y peso, y cálculo del IMC); segmentario: examen
+ginecológico completo (incluye examen mamario, examen de genitales externos,
+especuloscopía, que permite la toma del PAP y tacto vaginal) y examen obstétrico (palpación
+abdominal, auscultación de LCF (> 12 semanas), medición AU (> 20 semanas), maniobras de
+Leopold y estimación clínica del peso fetal (> 28 semanas)).
+o Diagnósticos al ingreso al control prenatal: Incluye fórmula obstétrica, edad gestacional y
+patologías concomitantes (prexistentes o propias del embarazo).
+• Controles prenatales
+o Anamnesis más breve y orientada a aspectos específicos del embarazo. Examen físico
+principalmente obstétrico abdominal.
+o Anamnesis respecto del embarazo actual: cálculo de la EG, síntomas gestacionales normales
+y patológicos, percepción de movimientos fetales, evaluación de adherencia a las
+indicaciones.
+o Anamnesis respecto a patologías asociadas y controles con otros especialistas.
+o Examen físico:
+▪ General: PA y peso, cálculo de IMC.
+▪ Segmentario: Según necesidad.
+▪ Ginecológico: Especuloscopía ante síntomas sugerentes.
+▪ Obstétrico abdominal: De rutina en cada control. Consiste en palpación del útero
+(fondo uterino palpable a las 12 semanas a nivel suprapúbico, 16 semanas entre
+pubis y ombligo y a las 20 semanas a nivel umbilical), auscultación de LCF, medición
+de la AU (existen tablas que permiten determinar si la AU es adecuada para la EG,
+si AU >pc90, puede deberse a feto grande para EG, polihidroamnios, embarazo
+múltiple, obesidad materna, mal cálculo de la EG o mala técnica de medición. Si AU
+<pc10 se debe sospechar RCF), estimación clínica del peso fetal y las maniobras de
+Leopold:
+• Primera: permite identificar polo fetal, determinando situación y
+presentación fetal.
+• Segunda: identifica la posición fetal.
+• Tercera: identifica el grado de encajamiento.
+• Cuarta: detecta la actitud fetal.
+▪ Tacto vaginal obstétrico de ser necesario (ej. contracciones uterinas frecuentes).
+Evaluación del cuello uterino (longitud, dilatación, consistencia y posición) y del
+polo fetal (grado de descenso, variedad de posición y grado de deflexión de la
+cabeza fetal).
+
+Pá gin a | 19

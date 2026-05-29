@@ -1,0 +1,999 @@
+Capítulo 19.
+PARTO PREMATURO
+CONCEPTOS GENERALES
+El parto prematuro (PP) ha sido definido por la Organización Mundial de la Salud (OMS) como aquel
+que ocurre antes de las 37+0 semanas de gestación. El umbral inferior que separa aborto/pérdida gestacional
+de parto extremadamente prematuro varía por país y por criterios clínicos de viabilidad. La definición de
+viabilidad fetal y el umbral para distinguir entre nacimiento vivo y aborto espontáneo varía según el contexto
+clínico y el sistema de registro. El sistema de Clasificación Internacional de Enfermedades, 10ª y 11ª revisiones
+(ICD-10, ICD-11), define la muerte fetal y el mortinato a partir de las 22 semanas completas de gestación o un
+peso al nacer de al menos 500 g y si el peso es desconocido, longitud corona-talón ≥25 cm. En la práctica
+clínica, esto se traduce en que las pérdidas <22 semanas (o <500 g si se usa peso) se clasifican como aborto,
+mientras que desde 22 semanas en adelante se entra en el ámbito perinatal; y si el nacimiento es vivo, se
+clasifica como parto prematuro (si <37 semanas).
+Sin embargo, el Colegio Americano de Obstetricia y Ginecología, define parto prematuro como los
+nacimientos entre las 20 y 37 semanas de vida. Esto es contradictorio pues no existe sobrevida entre 20+0 y
+22+6 semanas. En la práctica perinatal contemporánea se utiliza el concepto de periviabilidad (≈22–25
+semanas), donde la sobrevida y la morbilidad dependen fuertemente de la edad gestacional exacta, peso,
+sexo fetal, corticoides antenatales, y del grado de intervenciones neonatales disponibles. En edades
+gestacionales periviables (≈22–23 semanas), las tasas de sobrevida y de secuelas neurológicas son altamente
+variables entre países y centros, y dependen de si se ofrece reanimación activa sistemática, corticoides
+antenatales y cuidados intensivos neonatales avanzados. En general, la mortalidad sigue siendo alta y la
+proporción de sobrevida sin secuelas graves es baja, por lo que las decisiones deben individualizarse y
+discutirse con la familia.
+Los RN prematuros se pueden clasificar de acuerdo con la edad gestacional o el peso de nacimiento,
+en niveles de severidad, como se muestra en la siguiente tabla.
+Criterios según edad gestacional
+Organización Mundial de la Salud
+Moderado a tardío 32 a < 37 semanas
+Severo 28 a < 32 semanas
+Prematurez extrema <28 semanas
+Center of Disease Control (CDC)
+Pretérmino < 37 semanas
+Pretérmino tardío 34 a 36+6 semanas
+Pretérmino temprano < a 34 semanas
+Criterios según peso al nacer
+Bajo peso al nacer < 2500 gramos
+Muy bajo peso al nacer < 1500 gramos
+Bajo peso extremo < 1000 gramos
+Epidemiología
+La incidencia de parto prematuro es alrededor del 10 % del total de partos a nivel mundial. Chile
+mantiene una incidencia de 8%. La morbimortalidad neonatal secundaria a la prematurez ha ido
+disminuyendo. La disminución de morbimortalidad asociada a prematurez se explica principalmente por
+mejoras en el cuidado neonatal, pero también por estrategias obstétricas con impacto probado (p. ej.,
+corticoides antenatales, MgSO₄ para neuroprotección, antibióticos e intervención en RPPM según protocolo,
+y prevención selectiva con progesterona/cerclaje en subgrupos).
+
+Morbilidad y Mortalidad Asociada a Prematurez
+La morbilidad neonatal de los prematuros depende principalmente del peso de nacimiento, de la
+edad gestacional al nacer, de la presencia de malformaciones fetales, de la etiología del parto prematuro, y
+de las características de la unidad de cuidados intensivos. El riesgo de morbilidad es de 1% en RN de término
+y 17% en RN prematuros. Entre la morbilidad neonatal grave de los prematuros destaca: enterocolitis
+necrotizante (ECN), sepsis neonatal, síndrome de distrés respiratorio (SDR) por enfermedad de membrana
+hialina (EMH) y hemorragia intracraneana (HIC). Excluyendo las malformaciones congénitas, el 75% de las
+muertes perinatales y el 50% de las anormalidades neurológicas de la infancia son atribuibles directamente a
+la prematurez, lo que demuestra la magnitud del problema. En la PUC la mortalidad perinatal es de 3.6/1.000
+en RN de término y 80/1.000 en RN prematuros.
+Los esfuerzos deben enfocarse en prevenir la prematurez extrema y severa, ya que estos prematuros
+presentan la mayor cantidad de secuelas. Afortunadamente la mayoría de los prematuros nace sobre las 34
+semanas de gestación (prematuros tardíos), edad en la cual la morbilidad es más escasa y leve.
+Las complicaciones secundarias al parto prematuro son la causa directa más importante
+de mortalidad neonatal, siendo responsable de 35% del total de las muertes a nivel mundial, y, además, son
+la principal causa de mortalidad en los niños menores de cinco años. En la tabla siguiente se muestra el riesgo
+de morbilidad y mortalidad de RN prematuros, según su edad gestacional.
+Sobrevida y morbilidad según edad gestacional
+Edad Sobrevida Síndrome de Distrés Hemorragia Sepsis Enterocolitis Sin
+Gestacional Respiratorio Intraventricular Necrotizante Secuelas
+24 sem 40% 70% 25% 25% 8% 5%
+25 sem 70% 90% 30% 29% 17% 50%
+26 sem 75% 93% 30% 30% 11% 60%
+27 sem 80% 84% 16% 36% 10% 70%
+28 sem 90% 65% 4% 25% 25% 80%
+29 sem 92% 53% 3% 25% 14% 85%
+30 sem 93% 55% 2% 11% 15% 90%
+31 sem 94% 37% 2% 14% 8% 93%
+32 sem 95% 28% 1% 3% 6% 95%
+33 sem 96% 34% 0% 5% 2% 96%
+34 sem 97% 14% 0% 4% 3% 97%
+Morbilidad del RN en UCI neonatal PUC
+En la Red UC existe sobrevida desde 23-24 semanas (aproximadamente 400 g en los casos más
+extremos). Los prematuros extremos concentran patologías de mayor gravedad, como ductus arterioso
+persistente, SDR, HIC, sepsis neonatal, ECN,
+osteopenia del prematuro, fibroplasia retrolental,
+displasia broncopulmonar o morbilidad
+neurológica, como anormalidades de las
+funciones cognitivas, leucomalacia periventricular
+y parálisis cerebral. Ya desde las 28 semanas en
+adelante la sobrevida es casi 100%, y patologías
+como hemorragia intracraneana y sepsis se
+vuelven menos frecuentes (20%). El SDR por EMH
+reduce progresivamente su frecuencia, y después
+de las 34 semanas es prácticamente inexistente
+(Figura 1). Después de las 34 semanas existe un
+riesgo muy reducido de morbilidad, aunque no es
+cero. Los prematuros tardíos sufren patologías
+
+leves, como depresión neonatal, taquipnea transitoria, alteraciones de la termorregulación, alteraciones
+hidroelectrolíticas y trastornos metabólicos.
+Grupos clínicos de parto prematuro
+Clínicamente se distinguen tres grandes grupos (iatrogénico, espontáneo/idiopático, asociado a RPPM).
+Las proporciones varían según población y centro, por lo que deben considerarse aproximadas:
+• Parto prematuro idiopático: aquel que resulta del inicio prematuro del trabajo de parto. (40 – 50%)
+• Parto prematuro 2ario a rotura prematura de pretérmino de membranas (RPM). (20 – 30%) (Ver capítulo
+ROTURA PREMATURA DE MEMBRANAS)
+• Parto prematuro iatrogénico: aquél que se produce por indicación médica fundada en patología materna
+o fetal, como por ejemplo SHE o RCF (20 -30%)
+PARTO PREMATURO IDIOPÁTICO
+El parto prematuro idiopático es en realidad un síndrome, corresponde a una serie de
+manifestaciones clínicas (contracciones uterinas, modificaciones cervicales, trabajo de parto prematuro),
+ocasionada por múltiples etiologías (ver más adelante). Como en todo síndrome, el tratamiento sintomático
+(tocolisis) es inefectivo en tratar la enfermedad. Los criterios para el diagnóstico de trabajo de parto
+prematuro se indican en la siguiente tabla:
+Criterios diagnósticos de trabajo de parto prematuro
+1. Edad gestacional entre 22 y 37 semanas
+2. Contracciones uterinas persistentes: más de 6 en 1 hora, capaces de causar modificaciones cervicales
+3. Modificaciones cervicales: (cualquiera de las 2 siguientes)
+• Borramiento mayor del 50% y dilatación de más de 1 cm
+• Borramiento y dilatación progresiva
+Debemos diferenciar el trabajo de parto prematuro, de lo que se conoce como amenaza de parto
+prematuro, situación en que se evidencian contracciones uterinas persistentes, pero sin modificaciones
+cervicales. En caso de amenaza de parto prematuro se debe descartar una causa evidente de las contracciones
+uterinas, tales como como drogas (efedrina, cocaína), coito reciente o estrés.
+Etiología del parto prematuro idiopático
+Se denomina parto prematuro idiopático, ya que en la mayoría de los casos no conocemos la causa
+del inicio prematuro del trabajo de parto. Dentro de los factores etiológicos más frecuentes para parto
+prematuro destacan los siguientes:
+• Infección intraamniótica: la invasión microbiana de la cavidad amniótica, y especialmente la
+presencia de gérmenes en la interfase coriodecidual, genera una respuesta inflamatoria local, cuyos
+mediadores inflamatorios son capaces de desencadenar el parto prematuro. En un 13% de casos de parto
+prematuro idiopático es posible detectar gérmenes en la cavidad uterina, y en hasta un 30% signos de
+inflamación en las membranas ovulares.
+• Defectos de placentación profunda: la placentación defectuosa genera isquemia uteroplacentaria;
+esta isquemia desencadena la producción de mediadores contráctiles por las membranas ovulares y el
+trofoblasto, los que pueden desencadenar el parto prematuro. En un 20 y 30% de los casos de parto prematuro
+idiopático existe evidencia histológica de isquemia placentaria (infartos, vasculopatía decidual). Un tercio de
+las pacientes que ingresa en trabajo de parto prematuro muestra aumento de resistencia en el Doppler de
+arterias uterinas, y casi un 30% de los prematuros tienen restricción de crecimiento fetal.
+• Disfunción cervical: la incompetencia cervical corresponde a la presencia de un cuello incapaz de
+mantener el embarazo, dilatándose pasivamente (sin mediar contracciones). El cuadro clínico clásico de
+incompetencia cervical corresponde a la historia de uno o más abortos espontáneos del segundo trimestre
+
+(cada vez más precoces), en que la paciente consulta por flujo genital o sensación de peso en la pelvis,
+constatándose dilatación pasiva (sin contracciones) del cuello uterino, a consecuencia de lo cual se produce
+el aborto.
+Hoy se estima que el mismo fenómeno que lleva a un aborto por incompetencia cervical, puede llevar
+a un parto prematuro. Por esto, se considera a la disfunción cervical como una causa importante de parto
+prematuro.
+• Sobredistensión uterina: la sobredistensión del músculo liso uterino aumenta su actividad contráctil.
+Se estima que esta es la causa del parto prematuro en embarazo múltiple o polihidroamnios.
+• Anormalidad en la compatibilidad antigénica fetomaterna/autoinmune: existe rechazo
+inmunológico al feto.
+• Tóxicos: el uso de cocaína, los tóxicos ambientales (contaminación, pesticidas) se asocian a alto riesgo
+de parto prematuro.
+• Disfunción miometrial: la quiescencia miometrial debe durar hasta las 36 semanas, el término precoz
+de quiescencia miometrial puede originar un parto prematuro. El péptido natriurético cerebral (BNP)
+producido por las membranas fetales desempeña un rol fundamental en la mantención de la quiescencia
+miometrial. El término precoz de la quiescencia miometrial podría deberse a una baja producción del BNP en
+las membranas fetales, en efecto, demostramos bajos niveles de BNP en las membranas fetales y en el líquido
+amniótico de mujeres con parto prematuro idiopático.
+PREDICCIÓN DE RIESGO DE PARTO PREMATURO
+Para prevenir el parto prematuro es necesario predecir el riesgo de parto prematuro individualmente
+para cada paciente, para ello es posible utilizar: factores de riesgo, evaluación del cuello uterino, marcadores
+bioquímicos.
+Factores de riesgo de parto prematuro
+Los principales factores de riesgo epidemiológicos de prematurez son: el antecedente de un parto
+prematuro previo < 34 semanas (le confiere entre 30-50% de riesgo de parto prematuro en su actual
+embarazo) y el embarazo gemelar (50% de riesgo de parto prematuro). A continuación, listamos los factores
+de riesgo conocidos de parto prematuro:
+Factores de riesgo para parto prematuro
+Historia gineco-obstétrica previa
+• Parto prematuro previo
+• Cirugía cervical previa (ej.: cono leep)
+• Legrados múltiples
+• Malformaciones uterinas
+Factores demográficos maternos
+• <17 o > 35 años
+• Menor nivel educacional (sin enseñanza escolar completa)
+• Menor nivel socioeconómico
+• Período intergenésico breve (< 6 meses)
+• Otros factores sociales (ej.: mal acceso a la salud, maltrato familiar)
+Estado nutricional/actividad
+• IMC <19 kg/m2 o peso preconcepcional <50 kg
+• Desnutrición
+• Horario laboral extremadamente largo (> 80 horas/semanales)
+• Labor física extenuante (ej.: turnos nocturnos, estar de pie > 8 horas diarias)
+
+Factores de riesgo para parto prematuro
+Características del presente embarazo
+• Concepción por fecundación asistida (ej.: IVF)
+• Embarazos múltiples
+• Enfermedad fetal (ej.: aneuploidía, malformaciones, RCIU, óbito fetal)
+• Sangrado Vaginal (ej.: Metrorragia del 1° y 2° trimestres, placenta previa, DPPN)
+• Poli u Oligoamnios
+• Condiciones médicas maternas (ej. HTA cr, diabetes, etc.)
+• Cirugía abdominal maternal intra-embarazo
+• Trastornos psicológicos (ej. stress, depresión)
+• Abuso de sustancias:
+o Tabaco
+o Consumo de alcohol excesivo
+o Cocaína
+o Heroína
+• Infección:
+o Vaginosis bacteriana
+o Tricomoniasis
+o Chlamydia
+o Gonorrhea
+o Sífilis
+o Infecciones urinarias (ej. bacteriuria asintomática, pielonefritis)
+o Infecciones virales severa
+o Infección intrauterina
+Factores asociados a predicción de riesgo
+• Cérvix corto entre las 14 y 28 semanas
+• Fibronectina fetal positiva en secreción cervicovaginal entre las 22 y 34 semanas
+Evaluación cervical ecográfica (Cervicometría)
+El acortamiento del cuello uterino, en una mujer sin contracciones, permite predecir un
+riesgo elevado de parto prematuro. La evaluación de la longitud cervical mediante tacto vaginal es subjetiva,
+y poco sensible, por lo que ha sido superada ampliamente por la cervicometría ecográfica como un medio
+para predecir el riesgo de parto prematuro. El tacto vaginal, sin embargo, es parte del examen físico de una
+embarazada que se presenta con contracciones uterinas, y no debe ser reemplazado por la cervicometría
+ecográfica. Se ha observado que no existe una correlación estricta entre la cervicometría ecográfica y el grado
+de dilatación o borramiento
+cervical, particularmente en
+pacientes multíparas.
+En mujeres sin
+partos prematuros previos, el
+diagnóstico de un cérvix corto
+es importante porque
+permite que sea tratada con
+progesterona vaginal, lo que
+reduce su riesgo de parto
+prematuro y sus secuelas. En
+mujeres con un parto
+prematuro previo, el
+diagnóstico de un cérvix corto
+
+sugiere insuficiencia cervical. El cerclaje en este grupo de mujeres puede prolongar el embarazo y mejorar los
+resultados perinatales.
+La evaluación ecográfica del cuello uterino debe hacerse por vía vaginal, midiendo la longitud del
+canal cervical, en línea recta, desde el orificio cervical interno (OCI) al externo (OCE), teniendo la paciente la
+vejiga vacía y cuidando no ejercer excesiva presión con el transductor (Figura 2). Durante este examen es
+posible observar dilatación del OCI y la protrusión de las membranas hacia el canal formando un embudo
+(“funnel”). Si se detecta funnel, el canal cervical debe medirse desde el ápice del embudo hasta el OCE.
+Existe una muy buena correlación entre la longitud cervical medida por ecografía vaginal y el riesgo
+de parto prematuro; siendo esta una variable continua, es posible decir que mientras más corto es el cuello,
+mayor es el riesgo de parto prematuro. En promedio el cuello normal mide 35 a 40 mm. Como valor de corte
+para predecir alto riesgo de parto prematuro el ACOG usa ≤25 mm (Figura 3).
+Cervicometría de rutina en ecografía 20 – 24 semanas: recomendamos efectuar una cervicometría
+de modo rutinario en toda embarazada en la ecografía 20-24 en forma universal. En embarazos de bajo riesgo,
+mujeres con un cuello menor a 25 mm (pc 10), tienen 6 veces más riego de parto prematuro antes de las 35
+semanas comparado con una mujer con valores sobre 40 mm (pc 75). Este riesgo es mayor aún en mujeres
+con antecedente de partos prematuros previos. El riesgo de prematurez se reduce en un 30% con la
+administración diaria de progesterona vaginal (200 mg de progesterona micronizada) (Figura 3).
+Cervicometría de rutina en mujeres de alto riesgo: En pacientes con historia de parto prematuro
+existe riesgo de disfunción cervical, por lo que se recomienda administración rutinaria de progesterona vaginal
+y cervicometría seriada. En pacientes de alto riesgo (antecedentes de un parto prematuro previo < 34
+semanas) se debe realizar cervicometría cada 2 semanas entre las 14-28 semanas. En nuestro centro, si el
+cuello es < 25 mm antes de las 28 semanas, se efectúa un cerclaje. Después de las 28 semanas no es
+recomendable efectuar un cerclaje, la siguiente cervicometría se efectúa a las 32 semanas, y si el cuello es <
+25 mm, se debe hospitalizar a la paciente para reposo y colocar corticoides para maduración pulmonar (Figura
+3).
+Cervicometría en mujeres sintomáticas: se ha demostrado la utilidad de la cervicometría en mujeres
+que consultan por contracciones uterinas, y en quienes el tacto vaginal no detecta modificaciones. En mujeres
+con diagnóstico de amenaza de parto prematuro, solo el 13% tendrá un parto prematuro, justificando el
+manejo conservador en la etapa inicial de este diagnóstico. En mujeres con amenaza de parto prematuro y
+
+cervicometría > 30 mm, el riesgo de parto prematuro es menor al 1%, mientras que en aquellas con
+cervicometría < 15 mm el riesgo de parto prematuro es del 50%.
+Recomendamos efectuar cervicometría en mujeres con amenaza de parto prematuro, para orientar
+el manejo (Figura 4). La demostración de un cuello uterino acortado es de utilidad para definir qué pacientes
+realmente tienen mayor riesgo de parto prematuro, requiriendo hospitalización, tocolisis y maduración
+pulmonar. En paciente con SPP y membranas íntegras, se ha demostrado un aumento en el riesgo de invasión
+microbiana de la cavidad amniótica si existe acortamiento cervical. Si bien el diagnóstico de parto prematuro
+se efectúa en mujeres entre 22-37 semanas, la tocolisis está indicada desde las 23 semanas en adelante (límite
+de sobrevida si nace), y no se indica en embarazos mayores a 34 semanas.
+Cuña cervical o Funnel (embudo): corresponde a la dilatación del orificio cervical interno cuyo vértice
+se encuentra en el canal cervical (Figura 5). Las membranas ovulares suelen acompañar al funneling, la
+manifestación tardía de este evento ocurre cuando las membranas protruyen por el orificio cervical externo.
+Diversos estudios le han asignado un valor pronóstico a este hallazgo ultrasonográfico, el que estaría presente
+en un 14-25% de las pacientes con incompetencia cervical. Sin
+embargo, la longitud del canal cervical posee capacidades
+predictivas independientes de la presencia o ausencia de funnel.
+Recomendamos describir su presencia si se detecta, pero la
+mayor importancia y valor predictivo lo tiene la longitud cervical.
+Sludge: corresponde a la demostración de
+material “barroso", ecogénico, en la parte en declive de la
+cavidad amniótica, habitualmente próximo al cuello uterino
+(Figura 5). La presencia de sludge se asocia a un mayor riesgo de
+invasión microbiana de la cavidad amniótica y a mayor riesgo de
+parto prematuro.
+
+Marcadores bioquímicos
+Se ha estudiado la posibilidad de medir concentraciones de ciertas proteínas que permitan evaluar
+el riesgo de parto prematuro en una paciente en particular. El resultado no ha sido bueno con marcadores
+plasmáticos, pero si existe buena evidencia con el uso de marcadores vaginales: fibronectina.
+Fibronectina cervicovaginal: corresponde a una proteína de la matriz extracelular que ha sido
+identificada como un marcador de disrupción de la interfase coriodecidual. La fibronectina fetal no debiese
+ser detectable en la secreción vaginal en condiciones normales entre las 22 y las 37 semanas. Concentraciones
+mayores a 50 ng/mL, se asocian a un riesgo de 14 y 6 veces mayor de parto prematuro a las 28 y 35 semanas,
+respectivamente. En mujeres sintomáticas, la fibronectina fetal cervicovaginal (o sus versiones cuantitativas)
+se consideran herramientas de estratificación, especialmente por su alto valor predictivo negativo para parto
+en los siguientes 7-14 días cuando el resultado es negativo, lo que puede evitar hospitalizaciones o
+intervenciones innecesarias. Su valor predictivo positivo es limitado en este escenario, por lo que un resultado
+positivo no confirma por sí solo un parto inminente. Su uso debe integrarse con la longitud cervical y el cuadro
+clínico, y no como tamizaje rutinario universal.
+Interleuquina-6 en líquido amniótico: La interleuquina-6 (IL-6) es un marcador sensible de
+inflamación intraamniótica. La elevación de IL-6 en líquido amniótico se asocia a un mayor riesgo de parto
+prematuro, incluso en ausencia de microorganismos detectables por cultivo o PCR, condición conocida como
+inflamación intraamniótica estéril. En mujeres con membranas íntegras, concentraciones de IL-6 ≥ 2.600
+pg/mL se asocian a un mayor riesgo de parto prematuro y de parto en corto plazo. Por este motivo, la medición
+de IL-6 permite identificar un subgrupo de pacientes con mayor riesgo obstétrico, aun cuando no exista
+evidencia microbiológica de infección, y constituye un elemento relevante en la estratificación del riesgo y en
+la toma de decisiones clínicas.
+BNP en el líquido amniótico: El BNP es sintetizado por las membranas fetales y participa en el
+mantenimiento de la quiescencia miometrial durante el embarazo. Dado que el BNP activo y su fracción
+aminoterminal (NT-proBNP) se liberan en forma equimolar a partir del pro-BNP, la medición de NT-proBNP
+en líquido amniótico permite estimar de manera confiable la concentración de BNP, con mayor estabilidad
+analítica. Estudios de nuestro grupo han demostrado que la concentración de NT-proBNP en líquido amniótico
+es elevada durante la quiescencia miometrial y disminuye progresivamente hacia el término del embarazo. En
+mujeres sometidas a amniocentesis por trabajo de parto prematuro, en ausencia de infección intraamniótica,
+niveles bajos de NT-proBNP (≤0,5 MoM para la edad gestacional) se asocian a un riesgo significativamente
+mayor de parto prematuro y permiten identificar con alta precisión a aquellas con bajo riesgo de parto en las
+siguientes 48 horas o 7 días.
+En nuestro centro, la medición de NT-proBNP en líquido amniótico obtenido en mujeres con amenaza
+de parto prematuro se ha incorporado como herramienta para la estimación del riesgo de parto prematuro.
+Actualmente se encuentra en evaluación la capacidad predictiva de la medición de BNP/NT-proBNP en
+secreción cervicovaginal como alternativa menos invasiva.
+PREVENCIÓN DE PARTO PREMATURO
+El mejor manejo del parto prematuro es la prevención. Se consideran medidas de prevención
+primaria, las orientadas a toda la población, y secundarias, las dirigidas a las pacientes con factores de riesgo.
+Además, debe existir un esquema válido y efectivo para el tratamiento de la paciente en trabajo de parto
+prematuro, con el fin de disminuir la morbimortalidad de los recién nacidos (prevención terciaria).
+Prevención primaria de parto prematuro
+Son pocas las estrategias de prevención primaria demostradamente útiles en la prevención del parto
+prematuro.
+• Disminución de la carga laboral y de la actividad física: la disminución de trabajos muy pesados, por
+ejemplo, turnos de noche, es una herramienta útil para reducción de parto prematuro.
+• Cesación del hábito tabáquico: ha demostrado un impacto significativo en la reducción de la tasa de
+prematurez.
+
+• Tratamiento de la enfermedad periodontal: se ha demostrado la asociación entre enfermedad
+periodontal y riesgo de parto prematuro, pero el tratamiento de esta durante el embarazo no demostró
+ser una estrategia útil en prevención primaria. Aun así, se recomienda el manejo de la higiene oral y
+tratamiento de la enfermedad periodontal a toda embarazada. El programa Chile crece contigo considera
+dentro de sus medidas el control odontológico.
+• Cervicometría y administración de progesterona vaginal a mujeres con cuello corto: como se indicó la
+evidencia actual demuestra el beneficio de la cervicometría de rutina, pues la administración de
+progesterona vaginal reduce el riesgo de parto prematuro en mujeres con cuello corto asintomático
+(Figura 3). Una revisión sistemática publicada en el año 2012 que evaluó la eficacia del uso de
+progesterona vaginal en pacientes con cuello corto asintomático demostró los beneficios del tratamiento
+y recomendó la cervicometría de rutina en toda la población de mujeres embarazadas:
+• Menor tasa de parto prematuro < 28 semanas (RR 0.50 IC 95%: 0.30-0.81)
+• Menor riesgo de SDR (RR 0.48 IC 95%: 0.30-0.76)
+• Reducción en la tasa de mortalidad y morbilidad neonatal compuesta (RR 0.57 IC 95%: 0.40-0.81)
+• Menor tasa de admisión a UCI (RR 0.75 IC 95% 0.59-0.94)
+• Menor tasa de requerimiento de ventilación mecánica (RR 0.66 IC 95%: 0.44-0.98)
+• Menor tasa de RN menor 1500 g (RR 0.55 IC 95%: 0.38-0.80)
+Prevención secundaria del parto prematuro
+Corresponde a medidas clínicas que puedan implementarse en población de alto riesgo de parto
+prematuro, para reducir el riesgo de recurrencia. El principal grupo de riesgo es el de mujeres con un parto
+prematuro previo (< 36 semanas).
+1. Medidas generales
+• Control y pesquisa de factores de riesgo modificables: al ingreso a control prenatal debe realizarse una
+pesquisa de pacientes con factores de riesgo de parto prematuro. Se recomienda tener personal
+entrenado en esto y de tablas que consignen los factores de riesgo estableciendo un sistema de puntaje
+para ellos. Según el puntaje se categoriza a las pacientes en grupos de riesgo y se les asigna a control
+prenatal en policlínico de alto riesgo obstétrico (PARO). Se estima que 10 a 15% de las mujeres caerá en
+el grupo de riesgo, y que el 20% de ellas presentará finalmente parto prematuro. Lamentablemente esta
+estrategia es de utilidad limitada, ya que las pacientes con riesgo epidemiológico de parto prematuro dan
+cuenta de solo el 40 a 50% del total de partos prematuros.
+• Control de la paciente en grupos especializados: al detectar una paciente de riesgo, deberá ser
+controlada de forma frecuente en una unidad de alto riesgo (PARO) y se deberán tomar las medidas
+necesarias de control.
+• Educación para reconocer síntomas precozmente: implica la educación de las pacientes, en grupos de
+riesgo y también hospitalizadas, por medio del personal de salud (médicos, paramédicos, matronas, etc.).
+La educación es de gran importancia pues favorece la consulta precoz de pacientes sintomáticas, así como
+la hospitalización en el momento oportuno. El contacto frecuente de población de riesgo con personal de
+salud, principalmente matronas, es una medida efectiva en reducir el riesgo de parto prematuro.
+2. Tratamiento de infecciones
+• Urinaria: se debe buscar activamente la bacteriuria asintomática, pues su presencia aumenta el riesgo de
+parto prematuro. El urocultivo se solicita a toda mujer al inicio del control prenatal, y en mujeres con
+factores de riesgo se solicita urocultivo mensual.
+• Vaginosis bacteriana: corresponde a un desbalance de la flora vaginal normal. Desaparece el lactobacilo
+y aumenta la cantidad de Gardnerella, anaerobios y Mycoplasma. Se ha demostrado la asociación entre
+vaginosis bacteriana y mayor riesgo de parto prematuro. La pesquisa de vaginosis bacteriana no es
+efectiva como estrategia de prevención primaria de parto prematuro. Por el contrario, la pesquisa y
+
+tratamiento de la vaginosis bacteriana reduce el riesgo de bajo peso al nacer y RPPM como estrategia de
+prevención secundaria. Recomendamos pesquisar y tratar la vaginosis de modo rutinario a las 14 semanas
+en toda mujer con factores de riesgo para parto prematuro, principalmente aquellas con un prematuro
+previo de tipo idiopático o RPPM. El diagnóstico de la vaginosis bacteriana puede hacerse con criterios
+clínicos (AMSEL) o de laboratorio (Test de Nugent). Si se hace el diagnóstico de vaginosis bacteriana, el
+tratamiento debe ser vía oral, siendo el esquema de elección Metronidazol 500 mg/12 horas x 7 días, vía
+oral.
+• Chlamydia: se recomienda pesquisa y tratamiento de la infección cervicovaginal por Chlamydia como
+estrategia de prevención secundaria. El diagnóstico se hace mediante PCR de secreción cervicovaginal y
+el tratamiento con azitromicina 1 g vía oral por una sola vez. Recomendamos solicitar este estudio de
+modo rutinario a las 14 semanas de embarazo en mujeres de riesgo de parto prematuro.
+• Mycoplasma y Ureaplasma: su presencia en secreción cervicovaginal se asocia a mayor riesgo de parto
+prematuro, de modo que en población de riesgo recomendamos buscar y tratar esta infección. El
+diagnóstico se hace mediante un cultivo específico de secreción cervicovaginal y lo solicitamos a las 14
+semanas en población de riesgo de parto prematuro.
+• Vulvovaginitis micótica: no se asocia a mayor riesgo de parto prematuro, de modo que no se incorpora
+a un programa de pesquisa, pero obviamente se trata si es detectado en el examen a las 14 semanas.
+(Para mayor detalle revisar capítulo VAGINITIS AGUDA Y CERVICITIS)
+3. Cerclaje cervical
+El cerclaje cervical es un procedimiento quirúrgico, consistente
+en la instalación de una sutura con hilo no reabsorbible (Mersilene ®) en
+el cuello uterino, para evitar su dilatación pasiva (Figura 6). El cerclaje se
+instala bajo anestesia regional (raquídea) en cuatro situaciones clínicas
+(ver más abajo) y se mantiene hasta las 36 semanas en que se retira (no
+requiere anestesia) para permitir el parto.
+Se ha demostrado la efectividad del uso del cerclaje en
+las situaciones clínicas que se indican:
+• Cerclaje indicado por historia o profiláctico: mujeres con historia
+de incompetencia cervical. Esta historia se refiere a abortos
+repetidos de 2° trimestre. La indicación es instalación del cerclaje
+entre las 12-14 semanas de gestación.
+• Cerclaje indicado por ultrasonido o terapéutico: mujeres con
+embarazos únicos, parto prematuro previo, y cérvix corto (≤25 mm)
+en ecografía entre las 16 y 28 semanas. Estas mujeres estarán
+usando progesterona por la historia de parto prematuro previo.
+• Cerclaje indicado por examen físico o de rescate: mujeres con incompetencia cervical basada en un cérvix
+dilatado al tacto vaginal o especuloscopía. (cerclaje indicado por examen físico o de salvataje o
+emergencia).
+Un metaanálisis del año 2017 concluyó que la colocación de un cerclaje, por cualquiera de las
+indicaciones antes mencionadas, permite reducir el riesgo de parto prematuro < 34semanas (RR 0.77, 95% CI
+0.66-0.89). Se observó además una reducción significativa en el riesgo de parto prematuro <37 semanas (RR
+0.80, 95% CI 0.69-0.95) y probablemente parto prematuro <28 semanas (RR 0.80, 95% CI 0.64-1.00).
+Es importante indicar que en mujeres de bajo riesgo (sin antecedentes de un parto prematuro
+previo), el hallazgo de un cuello corto es indicación de administración de progesterona vaginal.
+Adicionalmente, en valores extremos de acortamiento cervical (cérvix < 10 mm), la instalación de un cerclaje
+cervical (asociado a la mantención de la progesterona), permite reducir el riesgo de parto < 35 semanas.
+Es bueno mencionar que el cerclaje no cumple un rol en la prevención del parto prematuro en
+embarazos gemelares. Incluso en aquellos casos asociados a cuello corto (< 15 mm), la instalación de un
+cerclaje podría resultar perjudicial. Este último tema es motivo de debate científico actualmente, y podría
+cambiar a la luz de nuevas investigaciones.
+
+Progesterona
+La progesterona históricamente fue reconocida como la hormona encargada de la mantención del
+embarazo, por lo que se postuló que su uso ayudaría a prevenir el parto prematuro. La información científica,
+actualmente disponible, permite indicar que en mujeres con el antecedente de un parto prematuro previo
+(menor a 35 semana) y en aquellas sin el antecedente, pero con cuello corto en la ecografía 20-24 semanas
+(<25 mm), el uso profiláctico de progesterona reduce en forma significativa el riesgo de parto prematuro en
+alrededor de un 30%. (Figura 3).
+Las formas farmacológicas que deben indicarse son progesterona natural micronizada intravaginal
+en óvulos o gel. Los óvulos de progesterona natural micronizada son de 200 mg, en el caso del gel la dosis es
+de 90 mg. Se administra diariamente por vía vaginal desde las 14-16 semanas, y se mantiene hasta las 36
+semanas, la rotura de membranas o el parto en caso de antecedente de parto prematuro previo. En casos de
+cuello corto, la progesterona se inicia al momento de la detección del cuello corto (Figura 3).
+Eficacia demostrada de la progesterona vaginal en grupos de riesgo
+• Menor tasa de parto prematuro
+• Menor tasa de RN < 2.500 g o < 1.500 g
+• Menor tasa morbilidad perinatal: SDR, HIC o morbilidad neonatal compuesta
+• Reducción en la tasa de mortalidad perinatal
+Progesterona para prevención de parto prematuro en gemelares: el uso de progesterona no es útil
+como estrategia de prevención primaria del parto prematuro en embarazo gemelar. Sin embargo, si se ha
+demostrado el beneficio de la progesterona en mujeres con embarazo gemelar y cuello corto (cérvix ≤ 25 mm)
+para la prevención de parto prematuro y reducción de morbimortalidad neonatal
+Eficacia demostrada de la progesterona vaginal en gemelares con cuello corto en el segundo trimestre
+• Menor tasa de parto prematuro < 30 semanas de edad gestacional
+• Menor tasa de parto prematuro 32 - 35 semanas de edad gestacional
+• Menor tasa de mortalidad neonatal, SDR, morbimortalidad neonatal compuesta y uso de VM
+• Menor tasa de RN < 1500 g
+• No se demostró diferencias significativas en resultados de neurodesarrollo a los 4-5 años de
+seguimiento
+4. Pesario cervical
+El embarazo causaría una presión constante sobre el
+orificio cervical interno, haciendo que el cuello del útero se alinee con el
+eje de la cavidad uterina, facilitando su dilatación. El pesario cervical
+(Figura 7) es un anillo de plástico, que, colocado como capuchón sobre
+el cuello uterino, puede cambiar la inclinación del canal cervical
+reduciendo el riesgo de parto prematuro.
+El uso de pesarios para prevenir el parto prematuro es
+una historia antigua, pero de modo reciente ha motivado un creciente
+interés. En los últimos 10 años, cinco estudios controlados han analizado
+la eficacia del pesario en mujeres con cuello corto. Los resultados de
+estos estudios son dispares, y un reciente metaanálisis de ellos concluye
+que el pesario cervical carece de eficacia en la prevención de parto prematuro.
+La evidencia no avala el uso del pesario vaginal fuera del contexto de un estudio clínico, debe
+preferirse el uso de la progesterona vaginal.
+
+MANEJO CLÍNICO DE TRABAJO DE PARTO PREMATURO
+El tratamiento o manejo de la paciente en trabajo de parto prematuro corresponde a la prevención
+terciaria de la prematurez, situación a la que es preferible no llegar. Pese al avance en la comprensión de esta
+condición, así como el mayor uso de agentes inhibidores de la contractibilidad uterina, la incidencia de parto
+prematuro no ha sido modificada en las últimas décadas, e incluso muestra una tendencia creciente.
+Diagnóstico clínico
+Como se indicó al comienzo de este capítulo, el diagnóstico de trabajo de parto prematuro es clínico,
+y requiere la presencia de contracciones uterinas persistentes (>6 en 1 hora) y modificaciones cervicales (>
+50% borramiento y > 1 cm dilatación). En mujeres que consultan por contracciones uterinas, cursando
+embarazo entre 23-36 semanas, el manejo diagnóstico inicial requiere control manual de las contracciones
+uterinas y un tacto vaginal para determinar la presencia de modificaciones cervicales. Es importante recordar
+que la cervicometría no reemplaza la realización del tacto vaginal al evaluar a la paciente que consulta por
+contracciones uterinas; este último siempre debe realizarse.
+La evaluación clínica inicial nos lleva a tres situaciones posibles: (Figura 4)
+• Ausencia de modificaciones cervicales y de contracciones uterinas. En este caso se descarta el
+diagnóstico de trabajo de parto prematuro y el manejo es conservador. Se tranquiliza a la paciente y
+puede seguir su control ambulatorio
+• Ausencia de modificaciones cervicales, pero contracciones uterinas persistentes. Se hará una
+cervicometría ecográfica para definir el manejo. Si la cervicometría es > 30 mm, se descarta el riesgo de
+prematurez, y el manejo es conservador. Si la cervicometría es < 15 mm, se indica rápidamente
+tratamiento (corticoides y tocolíticos). Si la cervicometría es 15-30 mm, se aplican medidas generales
+(hidratación y sedación) que permitirán el diagnóstico diferencial y decidir el manejo.
+• Presencia de modificaciones cervicales (detectadas en el TV) y contracciones uterinas. Se formula el
+diagnóstico de trabajo de parto prematuro y se indica hospitalización y tratamiento: corticoides y
+tocolíticos.
+Medidas generales
+Estas medidas generales tienen como objetivo permitir el diagnóstico de trabajo de parto prematuro
+o amenaza de parto prematuro, no son efectivas en reducir el riesgo de prematurez, pero sí en evitar
+intervenciones innecesarias, pues en más del 50% de las mujeres que consultan por contracciones, estas se
+detendrán espontáneamente con las medidas generales, sólo el 13% de las mujeres con síntoma de parto
+prematuro efectivamente llegan a tener un parto antes de las 37 semanas.
+a. Hospitalización.
+b. Hidratación: 500 mL de suero ringer lactato o fisiológico a pasar endovenoso en 2 horas.
+c. Sedación: 10 mg de diazepam endovenoso lento, habitualmente se ponen en el mismo suero de la
+hidratación zolpidem 5 mg v.o.
+d. Antiespasmódicos (Pargeverina Clorhidrato 10 mg): se indican en esta etapa por vía rectal (supositorios),
+oral (gotas) o endovenoso (en el suero de la hidratación).
+Durante este período de observación, evaluar el bienestar materno y fetal:
+• Evaluación materna: hemograma, sedimento de orina, urocultivo y cultivos cervicovaginales,
+esencialmente para descartar infección como causa del parto prematuro, además de la medición cervical
+por ecografía.
+• Evaluación fetal: fetometría para evaluar si existe restricción de crecimiento, perfil biofísico, RBNE o
+Doppler arteria umbilical para evaluar oxigenación.
+Una vez concluido el período de observación, se controlará nuevamente la presencia de
+contracciones uterinas y modificaciones cervicales. Si las contracciones han desaparecido y las modificaciones
+cervicales no han progresado, el manejo será conservador y la paciente puede ser derivada a su domicilio. Si
+luego de las medidas generales, las contracciones uterinas persisten, o las modificaciones cervicales
+
+progresan, se iniciará tratamiento tocolítico asociado a inducción de madurez pulmonar con corticoides, con
+el diagnóstico de amenaza de parto prematuro, o trabajo de parto prematuro, según corresponda (Figura 8).
+Medidas específicas
+Corresponde al tratamiento del trabajo de parto prematuro o amenaza de parto prematuro, es decir
+medidas farmacológicas que permitan evitar el riesgo de prematurez, o sus consecuencias. Nos referimos
+específicamente a dos cosas: inducción de madurez pulmonar con corticoides y tocolisis.
+A. Inducción de madurez pulmonar con corticoides
+El neumocito tipo II, célula de revestimiento alveolar, produce un conjunto de sustancias lipídicas
+denominado en grupo “surfactante pulmonar”. El surfactante reviste la superficie alveolar disminuyendo la
+tensión superficial en la
+interfase aire-tejido,
+evitando el colapso
+alveolar al final de la
+espiración y facilitando el
+ingreso de aire a los
+pulmones en la próxima
+inspiración. En los recién
+nacidos prematuros
+existe una insuficiente
+producción de
+surfactante por los
+neumocitos II, por lo que
+el alvéolo tiende al
+colapso. Esta condición se
+manifiesta clínicamente
+por dificultad respiratoria
+e hipoxemia, que pueden
+conducir a la muerte del
+recién nacido. Se conoce
+clínicamente a este
+problema como
+síndrome de distrés respiratorio del recién nacido (SDR) o enfermedad de membrana hialina (EMH), por su
+imagen radiográfica característica.
+En 1972 Liggins y Howie establecieron el beneficio del uso antenatal de corticoides, administrados a
+la embarazada, para inducir maduración pulmonar fetal. Los corticoides administrados a la madre, cruzan la
+placenta y estimulan al neumocito tipo II a liberar el surfactante que tiene almacenado. Su trabajo fue
+confirmado por múltiples investigaciones posteriores que permitieron establecer consensos respecto del uso
+antenatal de los corticoides, estableciendo recomendaciones que se mantiene hasta hoy.
+La utilidad del uso antenatal de corticoides ha sido demostrada desde las 24 a 34 semanas de
+gestación, sin embargo, en la medida que el límite inferior de sobrevida neonatal ha disminuido (actualmente
+23 semanas), el uso de los corticoides también se ha extendido. Así mismo, en ausencia de madurez pulmonar
+(demostrada por amniocentesis), pueden ser utilizados con posterioridad a las 34 semanas.
+Hasta el momento no se han reportado efectos adversos de la administración antenatal de
+corticoides (en las dosis utilizadas para inducir madurez pulmonar) en la madre ni el feto o recién nacido.
+Incluso hoy en día, la mejor evidencia disponible muestra que la repetición de los corticoides por una sola vez
+no produciría efectos adversos fetales, en embarazos < a 34 semanas.
+Si bien es una droga segura, es importante tener presente que los corticoides deben administrarse
+cuando realmente se crea que va a ocurrir el parto prematuro. Generalmente se indican los corticoides al
+inicio de la terapia tocolítica, cuando se ha observado prudentemente a la paciente y comprobado que
+efectivamente se encuentra en trabajo de parto.
+
+Beneficios de la administración antenatal de corticoides
+• La terapia con corticoides antenatal, entre las 24 a 34 semanas, reduce en un 50% la incidencia de
+síndrome de distrés respiratorio, hemorragia intraventricular, enterocolitis necrotizante, sepsis,
+ingreso a UCI, requerimiento de ventilación mecánica y mortalidad perinatal.
+• Repetir el curso de corticoides (máximo por 2 veces), con indicación adecuada, disminuyen el riesgo
+de SDR y mal resultado perinatal.
+Recomendación sobre el uso de corticoides
+• Un curso único de corticoides (2 dosis) se recomienda en embarazadas entre las 24+0 semanas y 34+0
+semanas de gestación que estén en riesgo inminente de un parto prematuro en los próximos 7 días,
+incluyendo a las con rotura de membranas y gestaciones múltiples.
+• También se puede considerar administrar corticoides a partir de las 23+0 semanas de gestación en
+mujeres embarazadas que están en riesgo de parto prematuro en los siguientes 7 días, basado en la
+decisión de la familia acerca de una posibilidad de resucitar o no hacerlo.
+• Cursos regulares o repetidos de corticoides (más de 2 cursos completos) no se recomiendan
+actualmente.
+• Un curso único de corticoides (2 dosis) debe ser considerado en mujeres con menos de 34+0 semanas
+de gestación que están en riesgo de parto prematuro en los próximos 7 días, y cuyo curso de
+corticoides anterior fue hace más de 7 días.
+Dosis y tipo de corticoide
+La inducción de madurez pulmonar requiere el uso de corticoides fluorados, ya que estos cruzan la
+placenta. Existen dos corticoides demostradamente útiles para este uso: betametasona y dexametasona,
+siendo la betametasona la droga de elección.
+a. Betametasona
+• 12 mg IM cada 24 h por 2 dosis.
+• Usar mezcla acetato/fosfato (6 mg de cada forma), es la forma comercial “rapi-lento, (Ej. Cidoten
+Rapilento®).
+b. Dexametasona
+• 6 mg IM cada 12 h por 4 dosis.
+Uso de corticoides en grupos especiales
+El uso de corticoides en RPO de pretérmino, no es una interrogante irrelevante, ya que un tercio de
+los partos prematuros se deben a rotura prematura de membrana. Una de las controversias clásicas de la
+medicina perinatal ha sido determinar si la administración de corticoides reduce la incidencia de enfermedad
+de la membrana hialina en recién nacidos de mujeres que sufrieron RPO de pretérmino, de la misma forma
+que se hace con pacientes en trabajo de parto prematuro con membranas íntegras. Se postula que la rotura
+prematura de membranas sería un estrés fetal, con aumento endógeno de corticoides de efecto protector
+similar al de la administración exógena. Pero también existe el temor a los efectos inmunosupresores de los
+corticoides, que podrían aumentar la incidencia de morbilidad infecciosa materna y neonatal.
+La información actualmente disponible, revela que la administración antenatal de corticoides reduce
+el riesgo de enfermedad de membrana hialina en alrededor de 30%, sin aumentar significativamente las
+infecciones neonatales. Sí se constató un aumento en el riesgo de infecciones puerperales, leves y susceptibles
+a tratamiento efectivo, sin otros efectos colaterales. En base a esta evidencia, se estima que la inducción de
+madurez pulmonar con corticoides se debe utilizar en aquellos embarazos con RPO con edad gestacional entre
+24 y 34 semanas.
+La revisión sistemática Cochrane respecto al uso de corticoides antenatales para maduración pulmonar, en
+su actualización 2017, refiere que no existe evidencia definitiva para suponer que la utilización de corticoides
+antenatales opera o funciona diferente en grupos específicos tales como embarazo múltiple, estado de las
+membranas (RPO) o presencia de SHE.
+
+Uso de corticoides en embarazos mayores a 34 semanas
+El uso de corticoides en embarazos mayores a 34 semanas ha sido estudiado, existiendo evidencia
+controversial al respecto, y demostrándose beneficio únicamente en algunos resultados menores. En un estudio
+finlandés, dado a conocer el año 2020, considerando más de 670.000 embarazos únicos sobrevivientes hasta el año
+de vida, la exposición a corticoides antenatales se asoció a una mayor incidencia de desórdenes mentales y del
+comportamiento en niños seguidos hasta los 5.8 años de vida. En niños nacidos de término, el riesgo permaneció
+siendo significativo después de ajustarse por factores confundentes (Hazard ratio [HR] 1.5), mientras que, en niños
+nacidos de pretérmino, el análisis ajustado no encontró una asociación significativa (HR 1.0).
+Sin embargo, hay grupos en que se ha demostrado beneficio:
+• Parto prematuro tardío: los riesgos perinatales que enfrentan los RN producto de un parto prematuro tardío
+son menores que los de los prematuros menores a 34 semanas, pero no pueden ser desconocidos. Se ha
+demostrado que la administración antenatal de betametasona (en las dosis indicadas), a mujeres en riesgo
+inminente de parto entre 34+0 y 36+6 semanas, reduce el riesgo de: taquipnea transitoria, SDR y necesidad de
+uso de drogas vasoactivas.
+• Cesárea electiva ≥ 37 semanas: el parto vaginal protege al RN de dificultad respiratoria, por ello se ha
+demostrado un aumento en la tasa de distrés respiratorio en RN producto de cesárea electiva (sin trabajo de
+parto). Se ha demostrado que la administración antenatal de Betametasona (en las dosis indicadas), a mujeres
+sometidas a cesárea electiva entre 37+0 y 38+6 semanas, reduce el riesgo de: taquipnea transitoria, SDR,
+necesidad de ventilación mecánica, uso de oxígeno; asociado a menor estadía en UCI neonatal y mayor puntaje
+de Apgar (1 y 5 minutos).
+Nuestro grupo estima que es necesario discutir el uso de corticoides para reducir la morbilidad neonatal de
+los prematuros tardíos y las cesáreas electivas cercanas al término. Los estudios solo consideran el potencial efecto
+benéfico, a corto plazo, de la terapia corticoidal, y no consideran los efectos a largo plazo que los corticoides pueden
+tener en el feto, como cambios metabólicos, endocrinos o cognitivos, que pueden facilitar la aparición de morbilidad
+crónica en el adulto.
+B. Frenación de las contracciones uterinas con tocolíticos
+Los tocolíticos corresponden a un grupo de fármacos que poseen la habilidad de inhibir las
+contracciones uterinas. El parto prematuro es una causa significativa de morbimortalidad infantil, el uso de
+tocolíticos puede permitir la prolongación del embarazo al menos por el tiempo necesario para trasladar a
+una paciente si es que fuera necesario, e inducir la madurez pulmonar del feto.
+En un metaanálisis del año 2009, hecho
+de estudios randomizados, se encontró que en
+mujeres en trabajo de parto prematuro el uso de
+estas drogas era más efectivo que el placebo en
+prolongar el embarazo tanto por 48 horas (75-93
+% versus 53 % para placebo/control) como por 7
+días (61-78% versus 39% para placebo/control),
+pero no para prolongar el embarazo hasta las 37
+semanas. Sin embargo, tanto en este metaanálisis
+como en otros estudios, aproximadamente el
+50% de las mujeres en trabajo de parto
+prematuro y que no recibieron tocolíticos no solo
+no tuvieron su parto a corto plazo, sino que
+además llegaron a término.
+Debido a este efecto benéfico marginal de los tocolíticos, el uso de estas drogas no consigue una
+disminución significativa del síndrome de distrés respiratorio del prematuro ni en la morbilidad ni mortalidad
+neonatal. Así, el principal objetivo de la tocolisis, más que la prevención del parto prematuro es otorgar una
+ventana de tiempo suficiente para la administración y acción de los corticoides.
+
+La tocolisis se indica en mujeres en trabajo de parto prematuro entre las 24 y 34 semanas, momento
+en que la sobrevida neonatal no justifica los riesgos de mantener un feto in útero. En casos excepcionales ej.:
+cirugía maternal abdominal se puede indicar frenación del trabajo de parto con anterioridad a las 24 semanas.
+La tocolisis debe mantenerse por 48 horas después de la administración del curso de corticoides. Las
+pacientes candidatas a manejo ambulatorio deben ser especialmente instruidas en el reconocimiento de los
+síntomas premonitorios de trabajo de parto
+prematuro, permitiendo la consulta precoz. La
+evidencia actualmente disponible no permite
+recomendar mantener tocolíticos orales.
+Si luego de una hora de iniciada la tocolisis,
+la paciente persiste con dinámica uterina, debe
+efectuarse una amniocentesis (AMCT) para
+descartar la invasión microbiana de la cavidad
+amniótica (Figura 7). Si se comprueba la presencia
+de gérmenes, se suspende la tocolisis y se procede a
+la interrupción del embarazo. Puede intentarse la vía
+vaginal si no existe contraindicación obstétrica. Si se
+descarta la presencia de gérmenes en la AMCT, se
+iniciará tocolisis de segunda línea, es decir, con otro
+fármaco tocolítico. Si luego de una hora de tocolisis
+con un segundo fármaco, la dinámica uterina persiste, debe suspenderse el tratamiento y dejar a la paciente
+en evolución espontánea. En ese instante se indica neuroprotección con sulfato de magnesio y antibióticos
+para prevención de sepsis neonatal por estreptococo grupo B.
+Contraindicaciones a la Tocolisis
+• Óbito fetal
+• Anomalías fetales incompatibles con la vida
+• Estado fetal no tranquilizador
+• Preeclampsia severa o eclampsia
+• Metrorragia maternal con inestabilidad hemodinámica
+• Infección intraamniótica
+• Rotura prematura de membranas (RPO)
+• Contraindicaciones médicas al fármaco tocolítico
+La sospecha o certeza de madurez pulmonar fetal no es una contraindicación para el tratamiento tocolítico,
+ya que la prematurez se asocia no solo a morbilidad pulmonar.
+Tocolisis
+Los fármacos tocolíticos han sido diseñados pensando en el complejo modelo de regulación de la
+contractilidad miometrial, que posee vías que generan relajación y vías que generan contracción (Figura 9).
+Existen 6 fármacos tocolíticos de uso clínico, algunos de ellos activan vías que generan relajación miometrial,
+mientras que otros inhiben las vías que generan contracción (Figura 10).
+• β-miméticos (Fenoterol): activa la vía del AMPc
+• Nitroglicerina: activa la vía del GMPc
+• Nifedipino: bloquea los canales de calcio
+• Sulfato de magnesio: bloquea los canales de calcio
+• Atosiban: bloquea receptores de ocitocina
+• Indometacina: inhibe la producción de prostaglandinas
+
+La elección de la droga dependerá de las características especiales de cada paciente y de la seguridad
+y eficacia de la droga, como se indica en las siguientes tablas.
+Seguridad de las drogas tocolíticas
+Droga Efectos adversos fetales Efectos adversos maternos
+Nifedipino Ausentes Hipotensión
+Cefalea
+Fenoterol Ausentes Taquicardia (20 %)
+Edema pulmonar agudo
+Hiperglicemia - Hipokalemia
+Indometacina HIV y ECN (*) Intolerancia digestiva si se usa por
+Oligoamnios vía oral
+Cierre Precoz Ductus
+Atosiban Ausentes Ausentes
+Nitroglicerina Ausentes Cefalea
+Sulfato de Mg Hipotonía Depresión respiratoria
+Mayor riesgo de muerte Náuseas y vómitos
+perinatal e infantil Cefalea
+* Los efectos adversos de la indometacina se evidencian luego de más de 5 días de uso del medicamento.
+Eficacia de las drogas tocolíticas comparadas contra placebo
+Droga Riesgo de parto Riesgo de parto Mortalidad Riesgo de SDR
+dentro de 48 horas dentro de 7 días perinatal e infantil
+Nifedipino    
+Fenoterol   - -
+Indometacina   - -
+Atosiban   - -
+Nitroglicerina  - - -
+Sulfato de Mg  - - -
+En mujeres entre las 24-32 semanas de gestación tanto la indometacina, preferiblemente vía rectal,
+como el nifedipino son una buena opción como fármaco de primera línea, sin embargo, pasadas las 32
+semanas la indometacina no se recomienda por el potencial riesgo de cierre del ductus arterioso y su uso no
+debería prolongarse por más de 72 horas por su efecto sobre el líquido amniótico. En nuestra unidad
+recomendamos el uso del Nifedipino como la droga de primera elección en la tocolisis, pues no tiene efectos
+adversos significativos, es fácil de usar y tiene bajo costo. Como droga de segunda línea recomendamos el
+Fenoterol, por existir larga experiencia en su uso y demostrada ausencia de efectos adversos fetales. El
+Atosiban puede ser considerado en casos especiales, pero su uso está limitado por el alto costo de la droga.
+El sulfato de magnesio y la nitroglicerina no deben ser usados por ser ineficaces.
+Protocolo tocolisis con nifedipino (formulación común, no “retard”)
+• Vía de administración: oral
+• Dosis de carga: se inicia con 20 mg, y se completa una dosis de carga máxima de 60 mg en la primera
+hora. (20 mg cada 20 minutos por 3 dosis)
+• Dosis de mantención: 10 mg cada 6 horas hasta completar 48 horas. Si luego de completar la dosis de
+carga (1 hora o menos) la dinámica uterina (DU) ha desaparecido, se inicia la dosis de mantención.
+• Amniocentesis: si luego de la dosis de carga, persiste la DU, planificar AMCT y decidir conducta según
+resultado (Figura 7).
+
+Protocolo tocolisis con fenoterol
+• Vía de administración: infusión continua endovenosa
+• Dosis de carga: se inicia la infusión a 2 µg/min. Según la evolución de la DU se aumenta la dosis en 0.5
+µg/min cada 30 min hasta lograr el cese de la DU o la aparición de efectos colaterales (principalmente
+frecuencia cardíaca mayor a 120 por minuto). Dosis máxima: 3-4 µg/min. Durante el uso del fenoterol
+debe monitorizarse la frecuencia cardíaca y presión arterial materna.
+• Dosis de mantención: continuar la infusión en la dosis que permitió el cese de la DU por 12 h, luego
+disminución gradual hasta 1-0.5 µg/m que se mantiene por 48 h.
+• Efectos adversos: si durante la administración del fenoterol, aparecen efectos adversos, la infusión
+debe ser suspendida, y se debe administrar otra droga.
+• Amniocentesis: si luego de lograr la dosis máxima, persiste la DU, planificar AMCT y decidir conducta
+según resultado (Figura 7).
+Amniocentesis (AMCT)
+Dado que la infección intraamniótica es la etiología de un importante grupo de partos prematuros,
+siempre es importante diagnosticar y tratar la infección; por eso se solicita un hemograma y cultivos
+cervicovaginales a toda paciente con diagnóstico de amenaza o trabajo de parto prematuro. La infección
+intraamniótica se produce habitualmente por vía ascendente (gérmenes que pasan desde la vagina al cuello
+y desde allí a la cavidad amniótica), de modo que un cultivo cervicovaginal negativo, prácticamente descarta
+la posibilidad de infección intraamniótica.
+Sin embargo, el diagnóstico definitivo de infección intraamniótica solo es posible mediante el estudio
+del líquido amniótico obtenido por amniocentesis. Desafortunadamente, la amniocentesis es un
+procedimiento invasivo, no exento de riesgos, se describe riesgo de pérdida del embarazo (0.5%), rotura
+prematura de membranas (1%) e infección intrauterina (0.1%). De este modo, la mejor evidencia disponible
+no apoya el uso rutinario de AMCT en el manejo de mujeres con amenaza o trabajo de parto prematuro.
+Recomendamos efectuar la AMCT en mujeres con falla al tratamiento tocolítico de primera línea, es decir en
+aquellas en que la dinámica uterina persiste, luego de una hora de tocolisis (Figura 8). En ciertas situaciones
+clínicas se justifica la amniocentesis antes de iniciar la tocolisis, tal como se muestra en la siguiente tabla.
+Criterios clínicos que justifican una AMCT para descartar IIA
+• Falla de respuesta a la primera línea de tocolisis
+• Fiebre, sin otros signos de corioamnionitis clínica
+• Leucocitosis materna, sin otros signos de corioamnionitis clínica
+• Cervicometría menor a 15 mm
+• Presencia de “sludge”
+• Trabajo de parto prematuro con dilatación cervical > a 4 cm
+• Presencia de DIU o cerclaje
+Diagnóstico de invasión microbiana en el líquido amniótico
+En el contexto del manejo de mujeres con amenaza de parto prematuro, la amniocentesis permite
+no solo descartar la invasión microbiana de la cavidad amniótica, sino también evaluar la presencia de
+inflamación intraamniótica, elemento clave para la estratificación del riesgo y la toma de decisiones
+terapéuticas.
+La invasión microbiana se confirma mediante el cultivo del líquido amniótico, cuyo resultado puede
+tardar al menos 48 horas. Durante este período, se utilizan exámenes rápidos de sospecha que orientan la
+conducta clínica. La detección de microorganismos también puede realizarse mediante PCR, técnica más
+sensible que el cultivo, aunque sin información sobre sensibilidad antibiótica.
+De acuerdo con lo expuesto previamente, la elevación de marcadores inflamatorios, particularmente
+interleuquina-6 (IL-6), permite identificar inflamación intraamniótica tanto infecciosa como estéril. La
+
+presencia de inflamación intraamniótica, aun en ausencia de microorganismos detectables, se asocia a un
+mayor riesgo de parto prematuro y debe ser considerada activamente en el manejo clínico de estas pacientes.
+Cuando se confirma invasión microbiana de la cavidad amniótica, se debe indicar tratamiento
+antibiótico y promover la interrupción del embarazo. En los casos de inflamación intraamniótica sin infección
+demostrable, el manejo debe individualizarse según la edad gestacional y la condición materno-fetal,
+reconociendo el mayor riesgo obstétrico asociado
+Pruebas diagnósticas en líquido amniótico (uso clínico)
+Diagnóstico de invasión microbiana
+• Cultivo de líquido amniótico (estándar diagnóstico; demora ≥ 48 h)
+• PCR para detección de microorganismos
+Exámenes rápidos de sospecha
+• Gram: presencia de gérmenes
+• Glucosa < 14 mg/dL
+• Leucocitos > 50 células/mm3
+• LDH > 400 U/L
+Evaluación de inflamación intraamniótica
+• IL-6 elevada (≥ 2.600 pg/mL)
+o Con cultivo/PCR positivos → inflamación intraamniótica infecciosa
+o Con cultivo/PCR negativos → inflamación intraamniótica estéril
+Consideraciones técnicas: La contaminación del líquido amniótico con sangre puede alterar los
+resultados de laboratorio. Ante la presencia de glóbulos rojos en el examen microscópico, por cada 1.000
+eritrocitos se debe restar un leucocito del recuento total. Entre los exámenes rápidos, la medición de glucosa
+corresponde al parámetro individual más sensible para la sospecha de infección intraamniótica
+Estudio de madurez pulmonar en el líquido amniótico
+Al realizar la amniocentesis, se pueden solicitar pruebas que permiten predecir si el feto ha alcanzado
+la madurez pulmonar, es decir, predecir el riesgo que tiene al nacer de desarrollar enfermedad de membrana
+hialina.
+El surfactante pulmonar es sintetizado por los neumocitos tipo II desde las 24 semanas y es
+almacenado en los neumocitos en forma de gránulos citoplasmáticos llamados cuerpos lamelares. El
+surfactante es secretado por exocitosis de los cuerpos lamelares desde los neumocitos II, y tiene una
+composición heterogénea de fosfolípidos (90%) y proteínas (10%). Las pruebas de madurez pulmonar
+consisten en medir el contenido de fosfolípidos en el líquido amniótico, como un reflejo de su secreción en el
+pulmón fetal.
+Sin embargo, hoy en día en la gran mayoría de las situaciones clínicas no se recomienda realizar
+pruebas de madurez pulmonar, no solo por su grado de imprecisión, si no que debido a que demorar la
+decisión bien indicada de interrupción del embarazo a causa
+de uno de estos exámenes pueden poner a la madre o al feto
+en grave riesgo, o en su defecto, retrasar el momento de la
+interrupción beneficiará al feto aún con madurez fetal
+documentada, y sin poner en riesgo a la madre. En caso de
+duda se puede administrar un curso de corticoides, lo que
+beneficiará al feto sin madurez pulmonar y no tienen efectos
+deletéreos comprobados en embarazos de pretérmino.
+Como indicamos antes, el uso de corticoides reduce el
+riesgo de desarrollar SDR neonatal, sin embargo, no cambia el
+resultado de las pruebas de evaluación de la madurez
+pulmonar en el líquido amniótico, como las que se indican a
+continuación.
+
+Pruebas para determinar madurez pulmonar
+• Test de Clement: si esta prueba sugiere madurez pulmonar, el riesgo de EMH es nulo. Si la prueba es
+intermedia o inmaduro, el riesgo es de 8% y 27% respectivamente. Esta prueba es especialmente útil en
+embarazos sobre 36 semanas, ya que, si su resultado es de madurez, se puede interrumpir el embarazo
+sin ninguna duda. Por debajo de las 36 semanas, muy frecuentemente se obtienen resultados equívocos.
+La prueba de Clement se efectúa poniendo cuatro diluciones de líquido amniótico en etanol (95%); los
+tubos se agitan por 15 segundos y se dejan reposar por 15 minutos antes de observarlos (Figura 11).
+• Relación Lecitina-Esfingomielina (L/E): si L/E > 2, el riesgo de EMH es de 2%, mientras que para valores
+entre 1.5-2.0 y < 1.5, el riesgo de EMH es de 40% y 73% respectivamente.
+• Fosfatidilglicerol (PG): si esta prueba muestra presencia de PG, el riesgo de EMH es del 0.6%, y si en
+presencia de PG, el L/E es mayor a 2.0, el riesgo es nulo.
+• Relación Surfactante-Albúmina (S/A): test más usado hoy en día. Sugieren madurez pulmonar niveles
+sobre 55 mg/g, mientras que niveles entre 55 y 39 mg/g y menores de 39 mg/g son sugerentes de
+madurez intermedia y ausencia de madurez, respectivamente. Si esta prueba sugiere madurez, el riesgo
+de EMH es nulo, si sugiere ausencia de madurez, el riesgo de EMH es de 30%.
+• Cuerpos lamelares: se comprobó que su presencia en el líquido amniótico se correlaciona con la
+probabilidad de madurez del pulmón fetal. La similaridad en tamaño de los cuerpos lamelares (1.7 a 7.3
+fl o 1-5 µm) con las plaquetas (5-7 fl o 2-4 µm), permite el uso de los contadores automatizados estándar
+de células hematológicas para cuantificar el número de cuerpos lamelares en LA (la mayoría de los
+contadores detectan como plaquetas los elementos que miden entre 2 y 20 fl). El meconio y la sangre
+afectan los resultados, y no se ha estudiado si una muestra obtenida desde la vagina es de utilidad clínica.
+Se ha establecido que valores mayores a 50.000/µL son altamente sugerentes de madurez del pulmón
+fetal. Valores menores a 15.000/µL sugieren inmadurez del pulmón.
+Evolución espontánea frente a la falla del tratamiento tocolítico
+Si el tratamiento del trabajo de parto prematuro no es eficiente, es decir la tocolisis de primera línea no
+funcionó, se ha descartado infección intraamniótica mediante AMCT, y la tocolisis de segunda línea no es
+efectiva, entonces se declara la falla de tratamiento y se deja a la paciente en evolución espontánea, a la
+espera del parto vaginal (si es que no existe contraindicación al parto vaginal). En este momento deben
+implementarse dos medidas adicionales: antibióticos y neuroprotección (Figura 8).
+Antibióticos
+A pesar de que un número importante de partos prematuros es originado por invasión microbiana
+de la cavidad amniótica, la mejor evidencia disponible no demuestra el beneficio del uso de antibióticos
+profilácticos en el tratamiento de parto prematuro con membranas íntegras. Por este motivo, no se indica
+antibióticos como parte del manejo de las mujeres con amenaza o trabajo de parto prematuro de modo
+rutinario.
+Sin embargo, sí está demostrado el beneficio del uso profiláctico de antibióticos para prevenir sepsis
+neonatal precoz, durante la atención de un parto prematuro en que no se conoce si la madre es portadora del
+estreptococo grupo B.
+Por este motivo, al momento de dejar a la paciente en evolución espontánea, debemos indicar
+antibióticos con este fin. Las opciones son:
+• PNC 5 millones de carga y 2.5 millones EV cada 4 h hasta el parto
+• Ampicilina 2 g EV de carga y 1 g cada 4 h hasta el parto (alternativa)
+Neuroprotección
+La administración antenatal de sulfato de magnesio, administradas ante la inminencia de un parto
+prematuro menor a 32 semanas, reduce el riesgo de parálisis cerebral (NNT = 63) y disfunción motora gruesa
+en la infancia, sin cambios en la mortalidad infantil. El sulfato de magnesio disminuiría el metabolismo
+cerebral, y de esta forma protegería a un cerebro vulnerable. Además, en un estudio prospectivo entre las
+
+22+0 a 26+6 semanas de gestación, la combinación de corticoides antenatales y sulfato de magnesio, se
+asoció a un 30-50% de reducción en la mortalidad o daño neurológico severo a los 18 y 26 meses de edad
+corregida, en comparación a los fetos que recibieron sólo una de estas terapias o ninguna de ellas.
+En el momento de dejar a la paciente en evolución espontánea para que se produzca el parto
+prematuro, indicamos un bolo de 5 g endovenoso de sulfato de magnesio. No existe aún consenso, si aparte
+de la dosis de carga, también se debería dejar una dosis de mantención (1 a 2 g de mantención), por lo que
+se indica, la administración de sulfato de magnesio según los protocolos de cada unidad de atención. En el
+Hospital UC solo se indica una dosis de carga de 5 g en 30 minutos en embarazos menores a 32 semanas.
+ATENCIÓN DEL PARTO PREMATURO
+Cuando el tratamiento tocolítico ha fracasado o existen criterios de suspensión del tratamiento, hay
+que prepararse para la atención del parto, ya sea por vía vaginal o cesárea. La atención del parto de un feto
+prematuro debe estar orientada a la reducción de riesgos obstétricos que generan morbilidad neonatal,
+principalmente asfixia y traumatismo fetal.
+Medidas que se deben tomar ante un parto prematuro:
+• Trasladar a la embarazada a un centro de mayor complejidad, si en el servicio no existen las condiciones
+óptimas para atender a un recién nacido prematuro.
+• Monitorización electrónica continua de la FCF.
+• Elección apropiada de la vía de parto.
+• Mantención de la integridad de las membranas ovulares el máximo de tiempo.
+• Buena relajación perineal (uso de anestesia de conducción).
+Vía de parto
+Para los fetos mayores de 28 semanas, la elección de la vía del parto sigue los mismos criterios que
+para los partos de término, prefiriendo la vía vaginal. Existe mayor discusión para los fetos menores de 28
+semanas o 1.250 g. La conducta clásica era indicarles cesárea, pero existe evidencia que demuestra que el
+resultado neurológico de esto niños, a dos años plazo, no es diferente según sea la vía de parto. Se sugiere
+evaluar caso a caso, conversar con los padres y adoptar la decisión que parezca más expedita. Tener en cuenta
+que los prematuros extremos pueden nacer sin la necesidad de alcanzar los 10 cm de dilatación.
+Monitorización clínica de la progresión de trabajo de parto
+Debe ser muy estrecha ya que no cumple con los mismos parámetros temporales que los partos de
+término. Se debe realizar un tacto vaginal cada hora desde los 6 cm de dilatación en adelante.
+Monitorización continua de latidos cardiacos fetales
+Se recomienda monitorización continua. En prematuros, la interpretación del registro es más
+compleja (mayor frecuencia de patrones no necesariamente patológicos). La decisión de cesárea debe basarse
+en evidencia de compromiso fetal sostenido y en la respuesta a medidas intrauterinas, manteniendo un
+umbral prudente, pero evitando indicar cesárea automática por cualquier registro sospechoso sin
+contextualización.
+Episiotomía
+No se ha demostrado que disminuya el riesgo de HIC o traumatismo fetal, por lo que no
+recomendamos episiotomía de rutina en la atención del parto prematuro por vía vaginal.
+
+Resumen
+• Parto prematuro es aquel que se produce entre las 22 y 36+6 semanas de gestación; puede deberse a
+inicio espontáneo del trabajo de parto (parto prematuro idiopático) o ser secundario a rotura de
+membranas o indicación médica. La incidencia de parto prematuro es de 8% en Chile.
+• El diagnóstico de trabajo de parto prematuro se establece con edad gestacional entre 22-37 semanas,
+en presencia de contracciones uterinas (más de 6 en 1 h) y modificaciones cervicales (borramiento ≥
+50 % y dilatación ≥ 1 cm de dilatación)
+• Dentro de las posibles etiologías de parto prematuro idiopático encontramos infección intraamniótica,
+defectos de placentación profunda, disfunción cervical, sobredistensión uterina, anormalidad en la
+compatibilidad antigénica fetomaterna/autoinmune, tóxicos y disfunción miometrial.
+• Los principales factores de riesgo de parto prematuro son el antecedente de parto prematuro previo
+<36 semanas y embarazo gemelar. Entre otros relevantes encontramos cirugía cervical previa, edad
+materna <17 o >35 años, concepción por fecundación asistida y cérvix corto entre las 14 y 28 semanas.
+• Medidas de prevención primaria para parto prematuro son disminución de actividad física, cese del
+hábito tabáquico, tratamiento de enfermedad periodontal, cervicometría y administración de
+progesterona vaginal a mujeres con cuello corto.
+• Se ha demostrado que las mujeres con cérvix corto (<20 mm) tienen riesgo elevado de parto
+prematuro; por eso se recomienda cervicometría a toda embarazada en la ecografía 20-24 semanas.
+• Las mujeres en riesgo epidemiológico (antecedente de parto prematuro previo) o biológico (cuello
+corto) de parto prematuro se benefician de la administración vaginal de progesterona (200 mg/noche
+de progesterona micronizada). Esta intervención reduce en alrededor de un 30% el riesgo de parto
+prematuro, disminuyendo el riesgo de morbilidad y mortalidad perinatal.
+• Medidas de prevención secundaria para parto prematuro son control de factores de riesgo, control en
+PARO, educación, tratamiento de infecciones y cerclaje cervical.
+• El cerclaje para prevención de parto prematuro está indicado en ciertos grupos especiales que se
+indican a continuación
+o Mujer con historia clásica de incompetencia cervical.
+o Mujer con antecedente de parto prematuro previo más acortamiento cervical progresivo
+(cérvix < 15 mm o disminución de un 50% del largo en 2 semanas).
+o Dilatación pasiva del cuello uterino entre 14-28 semanas.
+o Mujeres de bajo riesgo con cuello < 10 mm.
+• Medidas generales en presencia de un parto prematuro son hospitalización, hidratación, sedación,
+antiespasmódicos, junto con la observación materna y fetal durante este período. Las medidas
+específicas incluyen inducción de madurez pulmonar con corticoides, frenación de las contracciones
+uterinas con tocolíticos y búsqueda activa de infección intraamniótica
+• La amniocentesis no se efectúa de modo rutinario en mujeres con trabajo de parto prematuro, pero si
+hay condiciones en que esta debe efectuarse, como por ejemplo ante la falla de la tocolisis de primera
+línea.
+• Inducción de madurez pulmonar con corticoides: debe indicarse Betametasona (12 mg IM cada 24 h
+por 2 dosis) a toda mujer en riesgo de parto prematuro (24-34 semanas)
+• Los Tocolíticos son drogas que detienen las contracciones uterinas y se administran a mujeres en
+trabajo de parto prematuro. Su uso permite retrasar significativamente el parto, aunque no lo evitan.
+• El tocolítico de elección es el Nifedipino. Drogas de segunda línea son: Fenoterol, Indometacina y
+Atosiban.
+• Si la tocolisis falla, y se anticipa un parto prematuro, se debe indicar antibióticos (apropiados para la
+prevención de sepsis neonatal por SBG) y sulfato de Mg (neuroprotección)
+
+Pá gin a | 226

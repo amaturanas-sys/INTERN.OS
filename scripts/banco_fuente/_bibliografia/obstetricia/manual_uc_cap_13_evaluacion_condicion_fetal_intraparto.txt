@@ -1,0 +1,500 @@
+Capítulo 13.
+EVALUACIÓN DE LA CONDICIÓN FETAL DURANTE EL
+TRABAJO DE PARTO
+FISIOPATOLOGÍA
+Durante el trabajo de parto todos los fetos deben ser monitorizados, ya que se encuentran en riesgo
+de desarrollar hipoxemia y acidemia. Durante el trabajo de parto, todos los fetos requieren vigilancia (por
+auscultación intermitente o cardiotocografía según riesgo), ya que las contracciones reducen transitoriamente
+la perfusión uteroplacentaria y el intercambio gaseoso. Tras la rotura de membranas, la disminución del
+líquido amniótico puede favorecer la compresión del cordón. La mayoría de los fetos tolera estas variaciones,
+pero los fetos con menor reserva (ej., RCF, prematuridad, infección intraamniótica u otros factores) pueden
+desarrollar hipoxemia y acidemia y potencialmente, daño neurológico.
+La monitorización fetal intraparto consiste en evaluar los cambios de la frecuencia cardiaca fetal en
+relación con las contracciones uterinas durante el trabajo de parto. Su objetivo es detectar precozmente
+aquellos fetos en riesgo de hipoxemia y acidemia. Esto es posible pues en respuesta a hipoxemia/acidemia,
+pueden observarse cambios progresivos en la frecuencia cardiaca fetal: taquicardia, alteraciones de
+variabilidad, desaceleraciones y, en casos avanzados, bradicardia. Desafortunadamente, la evolución no
+siempre es lineal y debemos mantener un alto nivel de alerta.
+AUSCULTACIÓN INTERMITENTE
+Este método se utiliza en embarazos de bajo riesgo y consiste en auscultar los latidos mediante el
+estetoscopio de Pinard (Figura 1); se ausculta la FCF durante al menos 60 segundos inmediatamente después
+de una contracción. Se repite la auscultación cada 15 minutos en la primera etapa y cada 5 minutos en la
+segunda etapa (o tras cada contracción en expulsivo, según protocolo local).
+o Auscultación normal: 110-160 lpm
+o Auscultación anormal
+▪ Basal ≤ 110 lpm
+▪ Basal ≥ 160 lpm
+▪ Desaceleraciones
+MONITORIZACIÓN ELECTRÓNICA FETAL INTRAPARTO (MEFI) o CARDIOTOCOGRAFÍA (CTG)
+Corresponde a un monitoreo
+electrónico y un registro continuo de la
+frecuencia cardiaca fetal (línea
+superior) y contractilidad uterina (línea
+inferior) manteniendo un registro
+gráfico en un papel termosensible
+(Figura 2). El papel es centimetrado,
+cada par de cuadrados pequeños es un
+centímetro en el eje horizontal, y la
+velocidad del registro se efectúa a 1
+cm/min.
+
+Decisión de Uso de la Cardiotocografía (CTG)
+Los estudios que han evaluado la eficacia y seguridad de la CTG vs la auscultación intermitente para
+monitoreo del bienestar fetal durante el trabajo de parto concluyen que no todas las mujeres requieren
+cardiotocografía (Figura 3). En embarazos de bajo riesgo, la CTG continua comparada con auscultación
+intermitente no ha mostrado reducción consistente de mortalidad perinatal ni de alteraciones neurológicas o
+Apgar bajo, pero su uso se asocia a menor riesgo de convulsiones neonatales y a mayor tasa de parto
+operatorio (cesárea y parto instrumental). Por ello, en embarazos de bajo riesgo puede emplearse
+auscultación intermitente con criterios claros de escalamiento a CTG si aparecen hallazgos anormales o
+factores de riesgo intraparto.
+Las embarazadas sanas, sin factores de riesgo (materno o fetal), con embarazos de término, y trabajo
+de parto en evolución
+espontánea sin anestesia
+peridural, y con un patrón
+normal de latidos cardíacos
+fetales pueden ser
+monitorizadas de modo seguro
+con auscultación intermitente.
+Por el contrario, aquellas
+embarazadas con factores de
+riesgo, o que requieren manejo
+activo del trabajo de parto,
+deben ser monitorizadas
+mediante la cardiotocografía.
+Como se observa en la figura 3,
+si la auscultación intermitente
+muestra alteraciones, el resto
+del trabajo de parto se debe
+monitorizar con CTG.
+Factores de Riesgo: si una paciente presenta algunos de los factores de riesgo de la siguiente tabla, ya sean
+previamente existentes o desarrollados durante el trabajo de parto, es obligatorio el uso de CTG
+Maternos Fetales Intraparto
+Cesárea previa RCF Aceleración ocitócica
+Preeclampsia Prematuridad Analgesia epidural
+Post término OHA Rotura espontáneo o artificial de membranas
+Inducción Doppler umbilical alterado Sangrado vaginal
+Enfermedades médicas Embarazo múltiple Fiebre materna/ Infección
+Obesidad mórbida Isoinmunización Meconio
+Auscultación intermitente alterada
+Características técnicas de la cardiotocografía
+Existen cinco características de esta prueba que deben tenerse en cuenta al momento de su uso o
+interpretación:
+● El análisis es visual.
+● Se puede usar un electrodo cefálico (en cuero cabelludo fetal) o Doppler externo. Ambos tienen igual
+utilidad.
+● La dinámica uterina y la frecuencia cardiaca fetal deben ser observadas.
+● La evaluación debe ser en el contexto de la situación clínica.
+● Los monitoreos son evolutivos. El análisis e interpretación que se hace en un momento dado sirve
+para predecir el estado de oxigenación actual del feto, pero esto puede cambiar en el período
+siguiente (mejorar o empeorar).
+
+Análisis de la Cardiotocografía
+El análisis del MEFI se efectúa en tres etapas:
+1. Descripción de los cinco parámetros del MEFI
+2. Análisis del estado de normalidad/anormalidad de los cinco parámetros
+3. Obtener una conclusión: esto es clasificar el MEFI en uno de tres grupos:
+● Normal – Sospechoso – Patológico (clasificación actual)
+Descripción de los cinco parámetros del MEFI y análisis de su normalidad
+1. Contracciones Uterinas: número de contracciones
+uterinas en un periodo de 10 minutos (Figura 4). Se debe
+observar el comportamiento por 30 minutos y
+eventualmente hacer un promedio.
+Patrón de normalidad
+● Normal: 4-5 contracciones uterinas/10 min.
+● Alterado:
+● Hiposistolía: < 3 contracciones /10 min.
+● Taquisistolía: > 6 contracciones /10 min.
+Causas de Taquisistolía
+● Uso de misoprostol
+● Uso de ocitocina
+● DPPNI
+● DCP (Desproporción cefalopélvica)
+● Infección intraamniótica
+● Meconio
+2. Frecuencia Cardíaca Basal: corresponde al promedio de
+la FCF expresada en latidos por minutos (lpm), excluyendo
+las aceleraciones y desaceleraciones (Figura 5). Se
+determina considerando una ventana de 10 minutos, en la
+que debe haber por lo menos 2 minutos de FCF estable, no
+necesariamente continuos. De lo contrario esta es
+indeterminada, y debe considerarse la ventana previa.
+Patrón de normalidad:
+● Normal: 110-160 lpm
+● Alterado:
+● Bradicardia: <110 lpm
+● Taquicardia: >160 lpm
+Causas de Bradicardia Causas de Taquicardia
+● Anestésicos ● Fiebre materna
+● Hipotensión materna ● Infección intraamniótica (IIA).
+● Expulsivo ● Corioamnionitis
+● Taquisistolía ● Betamiméticos
+● Hipertonía ● Hipoxia
+● DPPNI ● Movimientos fetales activos
+● Prolapso de cordón
+● Hipoxia
+
+3. Variabilidad de la Frecuencia Basal: Es uno de los parámetros más
+importantes (por su correlación con el estado acido base fetal), y
+corresponde a fluctuaciones menores de la frecuencia basal que son
+irregulares en amplitud y frecuencia. Se mide, como se observa en esta
+ilustración, estimando la diferencia en latidos promedio entre el nivel
+mayor y el menor de la fluctuación en un minuto de trazado. Se
+determina en una ventana de 10 minutos, excluyendo aceleraciones y
+desaceleraciones (Figura 6).
+Patrón de normalidad
+● Normal: Variabilidad moderada: 5 - 25 lpm
+● Alterado:
+● Variabilidad reducida: <5 lpm
+● Variabilidad marcada o saltatoria: >25 lpm
+Causa de Variabilidad Reducida: Se explica por disminución de la actividad a nivel del SNC o falta de respuesta
+del SNA. Algunas de sus causas son:
+o Administración de Sulfato de magnesio a la madre
+o Administración de Parasimpaticolíticos
+o Anestesia general
+o Administración de benzodiacepinas o barbitúricos
+o Uso de Cocaína
+o Sueño fetal
+o Hipoxia
+o Hipoglicemia
+o Alteraciones
+anatómicas del SNC (Ej.:
+anencefalia,
+hidrocefalia,
+holoprosencefalia)
+o Embarazo < 28 semanas
+(falta de madurez
+propia de la edad gestacional)
+4. Aceleraciones: corresponden a aumentos transitorios y abruptos de la basal, iguales o mayores a 15 lpm
+que duran 15 segundos o más (Figuras 7 y 8). En
+embarazos menores de 32 semanas, se define
+como un aumento de ≥ 10 lpm por ≥ 10 segundos.
+Se considera una aceleración prolongada
+aquella que dura entre 2 a 10 minutos. Un
+aumento que se mantiene por más de 10 minutos
+debe considerarse como un cambio de la FCB.
+Patrón de normalidad
+● Normal: presencia de aceleraciones. Una
+CTG con aceleraciones demuestra
+ausencia de hipoxemia/acidemia fetal.
+La ausencia de aceleraciones carece de
+significado cuando el resto de los
+parámetros son normales.
+
+5. Desaceleraciones: corresponden a episodios transitorios de disminución de la basal, iguales o mayores a
+15 lpm que duran 15 o más segundos. La CTG debe observarse durante 30 minutos para descubrir cuál es el
+patrón predominante de las desaceleraciones, es decir el tipo de desaceleraciones que se presenta en más
+del 50% de las contracciones.
+Las desaceleraciones se clasifican en:
+● Desaceleraciones periódicas
+o Precoces
+o Tardías
+● Desaceleraciones variables
+● Otras desaceleraciones
+o Desaceleración prolongada
+o Bradicardia
+o Sinusoidal
+Desaceleraciones periódicas: son aquellas
+de tipo uniforme y repetido, es decir, cada desaceleración tiene una forma similar a las otras. Se clasifican en:
+• Precoces: desaceleraciones uniformes, simétricas, de descenso gradual, repetidas, y periódicas que
+comienzan y terminan con la contracción. Su nadir coincide con el acmé de la contracción (Figura 9 y 10).
+Requieren de variabilidad normal. El grado de profundidad de la desaceleración no se correlaciona con
+una mayor sospecha de alteración del bienestar fetal. Son producidas por compresión de la cabeza fetal,
+lo cual produce estimulación vagal directa.
+• Tardías: desaceleraciones uniformes, simétricas, con descenso gradual. Son repetidas pero desfasadas
+respecto a la contracción. Son morfológicamente iguales a las desaceleraciones precoces, pero comienzan
+en la mitad o al final de la contracción. Entre el acmé de la contracción y el nadir de la desaceleración
+existe una diferencia (decalaje) > 20 segundos (Figura 9 y 11). Indican hipoxia o acidosis fetal. Su
+mecanismo es mediante estimulación de quimiorreceptores que inducen una respuesta vagal. Esto puede
+o no sumarse a depresión cardiaca directa.
+
+Desaceleraciones Variables
+Son desaceleraciones variables en su forma y relación con las
+contracciones (Figura 12). Cada desaceleración tiene una forma
+distinta a las siguientes, su sincronía y morfología es inconstante.
+Las desaceleraciones variables se caracterizan por descenso
+abrupto de la FCF (menos de 30 segundos entre el comienzo y el
+nadir), y su inicio, profundidad y duración varía con las
+contracciones sucesivas. Pueden presentar un fenómeno
+aceleratorio antes y después de la desaceleración (“hombros”)
+(Figura 13). Las desaceleraciones variables pueden ser profundas,
+pero siempre duran menos de 2 minutos (Figura 14).
+Se explican por compresión del cordón, lo cual conduce a
+una respuesta vagal mediada por barorreceptores.
+NOTA: antes del 2015, las desaceleraciones variables se clasificaban en simples o complejas. Sin embargo,
+como veremos al final de este capítulo, el diferenciar entre variables simples y complejas, carece de utilidad
+en la interpretación de la CTG actual.
+Otros Tipos de Desaceleraciones
+● Desaceleración Prolongada: Corresponde a
+una desaceleración que se prolonga por más
+de 2 minutos y menos de 10 minutos (Figura
+15 y 16).
+● Bradicardia Mantenida: Desaceleración que
+se prolonga por más de 10 minutos (Figura
+17).
+● Patrón Sinusoidal: Corresponde a una
+oscilación regular de la basal que simula una
+onda sinusoidal. Este patrón ondulante,
+dura al menos 10 minutos, tiene una
+frecuencia de 3 a 5 ciclos por minutos y una
+amplitud de 5 a 15 lpm sobre y bajo la basal.
+La variabilidad está ausente. Su presencia
+siempre es sinónimo de una anormalidad en la monitorización electrónica fetal intraparto. El patrón
+sinusoidal se produce como consecuencia de anemia fetal grave.
+
+Clasificación de la Cardiotocografía
+Una vez descritos los cinco parámetros de la CTG, y analizados estos respecto de su normalidad o
+anormalidad, es necesario obtener una conclusión respecto del trazado, lo que equivale a clasificar a la CTG
+en una de tres categorías. Cada categoría busca estimar el riesgo de hipoxemia/acidemia fetal.
+Hasta el año 2016, usábamos la clasificación propuesta por Sociedad de Medicina Materno Fetal
+Norteamericana (SMMF) y el Instituto de Salud Norteamericano (NIH), que en el 2008 clasificó las CTG en
+categoría I, II o III. Actualmente, utilizamos la nueva clasificación propuesta en el 2015 por la Federación
+Internacional de Ginecología y Obstetricia (FIGO), que categoriza las CTG intraparto en: normal, sospechoso y
+patológico.
+El principal problema del sistema SMMF/NIH era la determinación de variabilidad ausente
+(fluctuación indetectable de la basal) o mínima (≤5 lpm), pues esa diferencia permitía clasificar la
+cardiotocografía en categoría II o III. EL nuevo sistema FIGO establece un solo criterio en este tema:
+Variabilidad Reducida: < 5 lpm.
+Clasificación Cardiotocografía FIGO 2015
+Basal Variabilidad Desaceleraciones
+Normal 110-160 lpm 5 – 25 lpm Ausentes
+Sospechoso Carece de al menos una de las características de normalidad, pero sin características de
+patológico
+Patológico < 100 lpm Reducida > 50 min Tardías o prolongadas reiteradas
+Aumentada > 30 min > 30 min si variabilidad normal
+Sinusoidal > 30 min > 20 min si variabilidad disminuida; o
+Una prolongada > 5 minutos
+Significado clínico de la CTG
+● NORMAL (Figura 18). Una cardiotocografía normal es un potente predictor de normalidad del estado
+ácido-base del feto al momento de la observación. La presencia de aceleraciones no es esencial, pero su
+existencia confirma el bienestar fetal. No requiere de ningún tipo de intervención específica. La
+probabilidad de hipoxia fetal es 0%
+● SOSPECHOSO (Figura 19). En esta categoría la cardiotocografía es un pobre predictor de anormalidad del
+estado ácido-base fetal, por lo que su asociación con hipoxemia o acidemia es irregular. Suponemos que
+el riesgo de hipoxemia/acidemia fetal, en presencia de un monitoreo sospechoso es entre 10-30%. En
+este caso, se requiere de evaluación clínica, vigilancia continua e intervenciones que permitan asegurar
+la normalidad ácido-base fetal.
+
+● PATOLÓGICO (Figura 20). En este caso, la cardiotocografía es un potente predictor de anormalidad del
+estado ácido-base del feto al momento de la evaluación. Se estima que, en este escenario, más del 50%
+de los fetos presentarán hipoxemia/acidemia. Es necesario una evaluación rápida y reanimación fetal. Si
+no se normalizara el monitoreo con las medidas básicas de reanimación en 15-20 minutos, se deberá
+conducir al parto de la manera más expedita posible.
+Estado Fetal No Tranquilizador
+El manejo de la cardiotocografía alterada (sospechoso o patológico) no consiste en “la interrupción
+del embarazo por la vía más expedita”, sino que en un correcto esquema de evaluación y aplicación de
+medidas que pueden colaborar a normalizar el monitoreo; a este conjunto de medidas se les llama: Maniobras
+de Reanimación Intrauterina, y apuntan a mejorar el transporte de oxígeno hacia el feto.
+Por años, la CTG alterada, especialmente en presencia de meconio, condujo al diagnóstico de
+Sufrimiento Fetal Agudo (SFA). Este diagnóstico ha sido desechado, pues es poco preciso (no existe consenso
+en cuándo usarlo) y tiene baja capacidad predictiva (la gran mayoría de las veces que se formulaba el
+diagnóstico de SFA, el feto se encontraba con oxigenación normal).
+Como se indicó antes, la CTG alterada no hace el diagnóstico de hipoxemia/acidemia fetal, sino que
+indica que existe un riesgo de hipoxemia (10-50%), por esto se sugiere que, ante la presencia de un monitoreo
+alterado, en presencia o ausencia de meconio espeso, debe formularse el diagnóstico de Estado Fetal no
+Tranquilizador. Este diagnóstico se refiere a que no se puede certificar el bienestar fetal y que se deben tomar
+acciones de forma inmediata, como es la reanimación fetal intrauterina y eventualmente la interrupción del
+embarazo (parto o cesárea).
+Asfixia Perinatal
+El viejo concepto de sufrimiento fetal agudo o el actual de estado fetal no tranquilizador, no son
+sinónimos de asfixia perinatal. El feto con cardiotocografía alterada no necesariamente se encuentra en
+condición grave o en riesgo de daño.
+Asfixia perinatal es la condición fetal o neonatal secundaria a déficit de aporte de oxígeno tisular, que
+lleva a hipoxemia, hipercarbia y acidosis metabólica progresiva. El diagnóstico de asfixia perinatal se formula
+después del parto, y hace referencia a un fenómeno de hipoxia fetal intraparto suficiente como para causar
+daño neurológico. Su diagnóstico requiere que se cumplan 4 criterios bien precisos. Un recién nacido que nace
+con mal esfuerzo respiratorio e hipotónico, pero que no cumple con criterios de asfixia perinatal, será
+diagnosticado como depresión neonatal.
+Criterios diagnósticos de Asfixia Perinatal según la ACOG
+• pH de arteria umbilical < 7.0 (tomado en el cordón umbilical pinzado)
+• Test de Apgar ≤ 3 a los 5
+• Encefalopatía neonatal moderada o severa
+• Evidencia de disfunción multiorgánica (sistemas cardiovascular, renal y/o pulmonar).
+
+MANEJO DE LA CARDIOTOCOGRAFÍA ALTERADA
+La CTG se puede alterar por factores transitorios (reversibles) o factores irreversibles. Cuando se
+detecta un MEFI alterado se procede, en primer lugar, a una evaluación diagnóstica para determinar la causa
+de la alteración de la CTG. Si la causa es irreversible se procederá a interrupción del embarazo por la vía más
+expedita, usualmente una cesárea de emergencia. Si la causa de alteración del MEFI es reversible se intentará
+la corrección mediante las maniobras de reanimación intrauterina.
+Causa de cardiotocografía alterada
+Factores transitorios (reversibles) Factores Irreversibles
+• Taquisistolía • Desprendimiento de la placenta
+• Hipotensión materna • Hemorragia materna
+• Compresión del cordón • Anemia fetal (ej. hemorragia feto/materna)
+• Compresión cefálica • Rotura uterina
+• Hipovolemia • Prolapso de cordón
+1. Diagnóstico de la causa de alteración del monitoreo
+La detección de una causa precisa de la alteración del monitoreo permitirá un manejo más preciso
+orientado a la causa (ej. droga vasopresora en caso de hipotensión) o indicar de inmediato una cesárea (ej.
+prolapso de cordón).
+● Tacto vaginal + RAM (rotura artificial de membranas): permite encontrar la causa del problema y conocer
+la cercanía al parto vaginal. Ejemplos:
+o Dilatación avanzada (≥ 8 cm): orienta a compresión de la cabeza fetal. Habitualmente se
+manifiesta como bradicardia o desaceleraciones precoces.
+o Prolapso de cordón umbilical: debido a compresión del cordón por la cabeza fetal se producirá
+una bradicardia.
+o Sangrado con hipertonía uterina y taquisistolía: sugiere DPPNI.
+o Meconio: es importante considerar que su relevancia está en el hallazgo de meconio espeso.
+Otros tipos de meconio no tendrían mayor relevancia clínica. La presencia de meconio, en el
+contexto de un MEFI alterado, hace sospechar que el feto está hipoxémico.
+● Vigilancia de la dinámica uterina: la taquisistolía produce alteraciones del monitoreo secundarias a la
+reducción de la oxigenación fetal.
+● Vigilancia de la hemodinámica materna: la hipotensión materna reduce el flujo sanguíneo a la placenta y
+ello conduce a hipoxemia fetal. La hipotensión materna puede deberse a hipotensión (supina o en el
+contexto de la anestesia epidural) o hipovolemia. Frente a un MEFI alterado debe, de inmediato,
+controlarse la PA, pulso y saturación de oxígeno.
+2. Maniobras de reanimación intrauterina
+Conjunto de maniobras no operatorias que se realizan ante un registro cardiotográfico alterado con
+el objetivo de restaurar el bienestar fetal. Estas maniobras pueden mejorar la oxigenación fetal y así lograr
+que el MEFI regrese a lo normal, dando la oportunidad de continuar con el trabajo de parto. Se ha demostrado
+que el conjunto de maniobras de reanimación intrauterina es mejor que cada maniobra por separado. Por
+este motivo, en general, las maniobras se implementan en conjunto. Cada unidad de preparto debe disponer
+de un protocolo de uso de las maniobras de reanimación, indicando cuáles de ellas se pondrán en práctica.
+● Aporte de volumen (administrar fluidos intravenosos)
+o SRL o Fisiológico: aporte rápido por vía periférica. Se sugiere administrar 500 o 1000 ml de
+cristaloides en 20 a 30 minutos. La administración de suero corrige la hipotensión y también
+mejora significativamente la oxigenación fetal.
+o Se ha demostrado que la oxigenación fetal es mayor hasta por 15 minutos después de
+completada la administración rápida de suero intravenoso.
+
+● Lateralizar a la embarazada
+o Mejora el flujo
+sanguíneo al útero
+(Figura 21) y
+descomprime el
+cordón umbilical
+atrapado entre las
+partes fetales y la
+pared uterina. Se ha
+demostrado que la
+lateralización materna, mejora significativamente la oxigenación fetal. Puede ser a izquierda o
+derecha. Si hacia un lado no mejora, lateralizar hacia el otro lado.
+● Tocolisis de emergencia
+o Consiste en la administración de un fármaco que detenga las contracciones uterinas,
+permitiendo que el feto mejore su oxigenación y recupere el bienestar.
+o Se debe indicar la tocolisis de emergencia como maniobra de reanimación intrauterina en
+presencia o en ausencia de taquisistolía.
+o Se debe administrar Nitroglicerina e.v. en bolos de 100-150 µg. Puede administrarse hasta 400
+µg en un episodio de alteración de la cardiotocografía. Las ampollas de nitroglicerina contienen
+0.5 mg en 10 ml. Por lo tanto, 1 ml de nitroglicerina equivale a 50 µg.
+o Otra opción es el uso de Fenoterol e.v. en bolos de 5-15 µg
+o Se ha demostrado que la tocolisis de emergencia reduce la probabilidad de ingreso del RN a la
+UCI neonatal y el riesgo de Apgar bajo. No se ha estudiado si la tocolisis de emergencia permite
+reducir la tasa de cesáreas por estado fetal no tranquilizador.
+● Recuperar Hemodinamia
+o La alteración del MEFI puede deberse a hipotensión. Usualmente la hipotensión se corrige con
+la lateralización materna y el aporte de volumen.
+o Si la paciente persiste hipotensa, pese a lateralización y volemización, debe administrarse un
+bolo de 10 mg de Efedrina e.v. La efedrina es un fármaco simpaticomimético con acción directa
+sobre los receptores adrenérgicos α1, α2 y β.
+o Se ha demostrado que el uso de efedrina, en este contexto, aumenta la frecuencia cardíaca fetal
+y mejora la variabilidad, sin reducir el flujo útero placentario.
+● Amnioinfusión
+o La amnioinfusión tiene como objetivo aliviar
+la compresión del cordón umbilical durante
+el trabajo de parto mediante la infusión de
+líquido en la cavidad amniótica. Se efectúa
+de forma transcervical usando un catéter no
+colapsable que se introduce por el cuello
+uterino (Figura 22). Requiere membranas
+rotas e infusión de 500 o 1000 ml de suero
+ringer tibio (36°C).
+o Se ha demostrado que la amnioinfusión para
+el manejo del MEFI alterado se asocia a
+reducción en la tasa de cesáreas, ingreso a
+UCI neonatal, Apgar bajo y síndrome
+aspirativo meconial.
+● Detener la infusión continua de ocitocina
+o En presencia de un MEFI alterado, la suspensión de la administración de ocitocina endovenosa
+(si se estaba utilizando) reduce el riesgo de hospitalización en UCI neonatal, APGAR bajo y riesgo
+de cesárea por estado fetal no tranquilizador.
+
+o Si se han administrado prostaglandinas vaginales (ej. dinoprostona o misoprostol), debe hacerse
+un esfuerzo por retirarlas.
+● Oxigenación
+o Mascarilla: O 10 L/min.
+2
+o Administrar por 10-30 min y luego suspender. Se ha demostrado que la hiperoxigenación
+prolongada puede ser deletérea para el feto.
+o La oxigenación materna en presencia de un MEFI alterado,
+mejora la monitorización y aumenta el pH la saturación de
+oxígeno fetal.
+3. Vigilar evolución de la CTG luego de 30 minutos
+Una vez que se implementan las maniobras de reanimación se
+mantiene la vigilancia del bienestar fetal mediante cardiotocografía y se
+adopta el manejo según la respuesta fetal.
+● Normalización CTG (Normal, bienestar fetal)
+o Continuar trabajo de parto
+o Reiniciar la aceleración oxitócica
+● CTG persiste alterada (sospechoso o patológico)
+o Interrupción del embarazo por la vía más expedita (vaginal, fórceps o cesárea), efectuando el
+diagnóstico de Estado Fetal No Tranquilizador
+4. Bradicardia Mantenida
+En el caso de una bradicardia mantenida (una vez implementadas las medidas de reanimación), no
+es posible una espera prolongada, y debe procederse a la interrupción del embarazo antes de 10 minutos de
+bradicardia. En fetos con cardiotocografía previa Normal, si el parto se produce antes de 10 minutos de
+bradicardia, es esperable que los gases en arteria umbilical estén en rango normal.
+Aplica los conocimientos obtenidos en este capítulo con casos clínicos en el módulo de
+autoinstrucción de Monitorización Electrónica Fetal Intraparto, MEFI que se encuentra en la página web:
+http://medicina.uc.cl
+El trabajo de un brillante grupo de internos
+de medicina permitió, en el año 2023, construir una
+nemotecnia para memorizar y recordar fácilmente
+las maniobras de reanimación intrauterina. Un
+gráfico revisado de la nemotecnia que ellos crearon
+se muestra en la siguiente figura.
+
+Resumen
+Generalidades
+• Monitorización intraparto: consiste en evaluar cambios de la FC fetal en relación con las CU en el TP
+• Auscultación intermitente: usado en embarazos de bajo riesgo, con el estetoscopio de Pinard y durante
+1 minuto posterior a una CU. Se repite c/ 15 minutos en la fase de dilatación, y c/ 5 minutos en
+expulsivo
+o Auscultación normal: 110-160 lpm
+o Auscultación anormal: desaceleraciones o un basal ≥160 lpm o ≤ 110 lpm
+Monitorización electrónica fetal intraparto (MEFI) o cardiotocografía (CTG) vs Auscultación Intermitente
+• Auscultación intermitente: si no hay factores de riesgo, es embarazo de término, con TP espontáneo
+sin anestesia peridural y con patrón normal de LCF
+o Si hay alteración a la auscultación, el resto del TP se continúa con CTG
+• CTG: en toda paciente con factores de riesgo o que requiera manejo activo del TP
+Análisis de parámetros MEFI:
+• Contracciones uterinas: Nº de contracciones en 10 min.
+o Normal: 4-5 CU/10 min
+o Alterado: Hiposistolía: ≤3 CU/10 min o Taquisistolía: ≥6 CU/10 min
+• Frecuencia cardíaca basal (FCB):
+o Normal: 110-160 lpm
+o Alterado: Bradicardia: <110 lpm o Taquicardia: >160 lpm
+• Variabilidad de la Frecuencia basal:
+o Normal: variabilidad moderada, de 6-25 lpm
+o Alterado: Variabilidad reducida: ≤5 lpm o Variabilidad marcada o saltatoria: >25 lpm
+• Aceleraciones: aumento transitorio y abrupto de la frecuencia basal.
+• Desaceleraciones: baja transitoria de la FCB ≥15 lpm o por ≥15s. Se clasifica en:
+o Desaceleraciones periódicas: las de tipo uniforme y repetido (similares entre ellas)
+▪ Precoces: se producen por compresión de la cabeza fetal
+▪ Tardías: indican hipoxia o acidosis
+o Desaceleraciones variables: dadas por la compresión del cordón. Varían en su forma y en su
+relación con las CU, pueden ser profundas, pero siempre duran <2 minutos
+o Otras desaceleraciones:
+▪ Desaceleración prolongada: desaceleración entre 2 y 10 min
+▪ Bradicardia mantenida: desaceleración por >10 min
+▪ Patrón sinusoidal: patrón ondulante regular, de al menos 10 minutos, con una
+frecuencia de 3-5 ciclos/min y una amplitud de 5-15 lpm sobre y bajo la basal
+Clasificación de la CTG
+• Normal: Potente predictor de normalidad ácido/base fetal.
+• Sospechoso: Pobre predictor de anormalidad ácido/base
+• Patológico: Potente predictor de anormalidad del estado ácido/base
+Estado fetal no tranquilizador
+• CTG alterada, con o sin meconio. No hace diagnóstico de hipoxemia/acidemia, solo indica el riesgo.
+Manejo de la CTG alterada:
+• Diagnóstico de la causa de alteración: Tacto vaginal + RAM; Vigilancia de la dinámica uterina; Vigilancia
+de la hemodinamia materna
+• Maniobras de reanimación intrauterina: Aporte de volumen (SF o RL, 500-1000 mL en 20-30 min;
+Lateralización materna; Tocolisis de emergencia (Nitroglicerina IV en bolos 100-150 µg); Recuperar
+hemodinamia (Efedrina 10 mg e.v.); Amnioinfusión (500 o 1000 ml suero); Detener BIC de ocitocina;
+Oxigenación: mascarilla de O 10 L/min por 10-30 min.
+2
+• Vigilar evolución de la CTG luego de 30 minutos: Si CTG normal, el trabajo de parto continua y se
+eventualmente se reinicia la aceleración ocitócica. Si CTG persiste sospechosa o patológica, se procede
+a la atención del parto por la vía más expedita (parto, fórceps o cesárea).
+
+Pá gin a | 157

@@ -1,0 +1,678 @@
+Capítulo 12.
+EMBARAZO DE ALTO RIESGO y EVALUACIÓN FETAL
+ANTEPARTO
+EMBARAZO DE ALTO RIESGO
+El “riesgo perinatal” debe ser evaluado durante el control prenatal, tanto en la anamnesis del primer
+control, como en la de los controles siguientes; permitiendo determinar si se trata o no de un “Embarazo de
+Alto Riesgo”. Embarazo de Alto Riesgo es aquel que cursa en presencia de factores de riesgo materno o fetales,
+los cuales pueden derivar de elementos epidemiológicos o biológicos (maternos o fetales), haciendo de este
+un embarazo cuyo pronóstico (materno y perinatal) es peor que el de un embarazo normal. Se estima que una
+proporción relevante de gestaciones (aprox. 10-20%, según definiciones y población) presenta factores que
+aumentan el riesgo materno y perinatal. Aunque la carga de complicaciones se concentra
+desproporcionadamente en este grupo, la magnitud exacta varía según el contexto epidemiológico y la
+definición operacional de “alto riesgo”. El desafío es detectar y manejar adecuadamente los embarazos de
+alto riesgo. El control prenatal es la medida más eficiente para reducir el riesgo, tanto en población general
+como en población de alto riesgo.
+En Chile el control prenatal es muy bueno, incluso en lugares de nivel socioeconómico bajo,
+permitiendo que nuestro país presente muy buenos indicadores de salud pública y perinatal, similares a los
+de países desarrollados. En el sistema público en Chile, las embarazadas inician el control prenatal con la
+matrona (consultorio) y son derivadas a control en policlínico de Alto Riesgo (en el hospital) si se detectan
+factores de riesgo.
+Factores de Riesgo Materno
+1. Epidemiológicos
+• Primípara precoz (< 15 años)
+• Edad materna avanzada (≥35 años; el riesgo aumenta progresivamente con la edad materna).
+• Gran multípara (> 5 partos)
+2. Socioeconómicos
+• Extrema pobreza; analfabetismo; Ruralidad
+• Consumo de alcohol y drogas
+• Trabajo muy pesado
+3. Historia Obstétrica
+• Infertilidad
+• Aborto provocado
+• Aborto recurrente
+• Muerte perinatal
+• Hijo previo malformado
+• Hijo previo prematuro o de bajo peso
+4. Nutricionales
+• Desnutrición materna
+• Obesidad materna
+5. Historia Ginecológica
+• Cicatriz de cesárea
+6. Patología Médica Crónica
+• Ej. HTA crónica, Diabetes Mellitus, Asma Bronquial, etc.
+7. Patología Médica Obstétrica
+• Ej. embarazo gemelar, amenaza de parto prematuro, etc.
+Nota: esta lista es orientadora; en la práctica clínica se integran además comorbilidades relevantes (p. ej.,
+enfermedad renal crónica, enfermedades autoinmunes/SAF, cardiopatías, trombofilias seleccionadas,
+obesidad severa, entre otras) y hallazgos del embarazo actual.
+
+Factores de Riesgo Fetal
+1. Anomalías en la formación de la placenta y el cordón umbilical
+• Placenta previa: causa metrorragia, riesgo de parto prematuro y muerte fetal.
+• Espectro de placenta acreta (Placenta Accreta Spectrum, PAS): adhesión y/o invasión anormal de
+las vellosidades placentarias por defecto de decidualización, con anclaje al miometrio y, en grados
+mayores, invasión del miometrio y/o serosa y órganos vecinos. Se describe como acreta (adhesión
+al miometrio), increta (invasión del miometrio) y percreta (atraviesa serosa y puede comprometer
+vejiga u otros).
+• Inserción velamentosa del cordón umbilical: el segmento más distal del cordón está desprovisto
+de la gelatina de Wharton que normalmente protege los vasos umbilicales. Estos están sólo
+cubiertos por membrana fetal. En este sector desprotegido, el cordón es susceptible de
+compresión vascular o, si los vasos fetales desprotegidos cruzan o se aproximan al orificio cervical
+interno (vasa previa), existe riesgo de ruptura de estos vasos con la rotura de membranas
+(espontánea o iatrogénica), lo que puede causar hemorragia fetal aguda.
+2. Patología del líquido amniótico
+• Polihidroamnios (líquido aumentado)
+• Oligohidroamnios (líquido disminuido)
+3. Marcadores fetales de aneuploidía (alteración en el número de cromosomas): Existen alteraciones
+menores de la anatomía o estructura fetal que pueden reconocerse en la evaluación ecográfica, que
+por sí solos no constituyen una enfermedad, pero que implican un riesgo mayor de que el feto tenga
+una alteración en el número de los cromosomas.
+• Translucencia nucal aumentada.
+• Marcadores débiles: ej. pielectasia, quistes del plexo coroideo, foco hiperecogénico miocárdico,
+etc.
+4. Patologías del crecimiento
+• Ej. Restricción de crecimiento
+5. Síndromes Malformativos
+• Ej. Anencefalia, agenesia renal, etc.
+EVALUACIÓN FETAL ANTEPARTO
+La placenta tiene dos funciones. Una función nutricional, que
+se encargará del crecimiento fetal, y otra función respiratoria, que se
+encargará de la oxigenación fetal. Para lograr sus funciones, la
+circulación materna y la fetal deben aproximarse lo más posible. En la
+placenta, las vellosidades coriales (que contienen la circulación fetal)
+flotan en lagos de sangre materna. En ese sitio se produce el
+intercambio de gases y nutrientes, el feto adquiere el oxígeno y los
+nutrientes necesarios y elimina los desechos orgánicos (Figura 1). El
+compromiso de la función nutricional se manifestará a través de
+circuitos de ahorro energético que se expresarán como restricción del
+crecimiento fetal. Por otro lado, el compromiso de la función
+respiratoria llevará al feto a un metabolismo anaeróbico, hipoxemia,
+acidemia, y riesgo de daño fetal.
+El objetivo de la evaluación fetal anteparto es la detección precoz de fetos en riesgo de hipoxemia y
+acidemia; permitiendo la aplicación de medidas correctivas o la intervención oportuna que los lleve a la
+normalidad o impida el daño.
+Métodos de Evaluación del Bienestar Fetal Antenatal
+Se denomina “evaluación del bienestar fetal” a un conjunto de pruebas clínicas que permiten conocer
+si el feto se encuentra en buenas condiciones, específicamente si su oxigenación es apropiada. Se usan como
+
+sinónimos “pruebas respiratorias” o “evaluación de la unidad feto placentaria”. Usualmente cuando hablamos
+de evaluación del bienestar fetal solemos estar pensando en: registro basal no estresante (RBNE), perfil
+biofísico fetal (PBF), test de tolerancia a las contracciones (TTC) o estudio Doppler de vasos fetales; aunque,
+como veremos, la lista de pruebas es más larga.
+Métodos de Evaluación del Bienestar Fetal Antenatal
+1. Métodos clínicos
+• Medición de la altura uterina
+• Estimación clínica del peso fetal (“frozen chicken technique”, en embarazos mayores a 28
+semanas)
+• Estimación clínica del líquido amniótico (> 28 semanas)
+• Auscultación de la frecuencia cardiaca fetal
+• Monitorización Materna de los Movimientos Fetales (MMMF)
+2. Pruebas diagnósticas
+• No Invasivas
+• Ecografía
+• Velocimetría Doppler fetal
+• Registro Basal No Estresante (RBNE): Monitorización basal de LCF
+• Estimulación vibroacústica fetal: se estimula al feto con sonido y se evalúa su reacción en
+términos de aumento de la frecuencia cardíaca; su uso se asocia al RBNE.
+• Test de tolerancia fetal a las contracciones (TTC) o Registro Estresante
+• Prueba de estimulación mamaria
+• Perfil biofísico fetal (PBF)
+• Índice de Líquido Amniótico (ILA)
+• Invasivas
+• Amnioscopía: mirar las características del LA a través del cuello uterino, usando un
+amnioscopio. Esta técnica, hoy en desuso, permitía verificar la existencia de meconio
+• Cordocentesis: obtención de sangre fetal mediante punción transabdominal del cordón
+umbilical guiada por ultrasonido
+• Fetoscopía
+• Amniocentesis: es posible su ejecución a partir de las 15 semanas, mediante punción
+abdominal guiada por ultrasonido
+MÉTODOS CLÍNICOS
+Altura Uterina (AU): consiste en medir la distancia en centímetros entre el fondo uterino y la parte superior
+de la sínfisis del pubis. Permite determinar la edad Gestacional y sospechar patologías. Hay que recordar que
+en general el útero crece 4 cm por mes. Entre las 18-32 semanas la AU es similar a la EG. Como nemotecnia,
+si la AU es menor que EG – 4 cm (ej. 36 semanas, 36-4= 32 cm), corresponderá probablemente a una AU
+menor al percentil 10 para la edad gestacional, lo cual hace sospechar una restricción del crecimiento fetal
+(RCF). Otra forma de sospecharla es ante una detención del crecimiento uterino por más de dos semanas.
+AU aumentada Crecimiento uterino lento
+• Embarazo molar • Bajo peso fetal
+• Embarazo gemelar • Situación transversa
+• PHA (polihidroamnios) • OHA (oligohidroamnios)
+• Ascitis • Malformación fetal
+• Tumor abdominal • Aborto retenido
+• Miomas • Muerte fetal
+
+Estimación de Peso Fetal: la estimación de peso fetal se hace clínicamente en cada control prenatal, desde
+las 28 semanas en adelante. En manos entrenadas, la estimación clínica del peso fetal tiene un error
+aproximado en el orden de ±10%, aunque varía según el operador y es menos precisa en extremos de peso y
+en obesidad materna. La estimación ecográfica presenta un margen de error comparable (habitualmente
+cercano a ±10%), también mayor en fetos macrosómicos o muy pequeños.
+Líquido Amniótico (LA): el LA se recambia 3 veces al día. El volumen de líquido amniótico resulta de un balance
+dinámico que varía con la edad gestacional. En el tercer trimestre, la producción depende principalmente de
+la diuresis fetal y del fluido pulmonar, y la reabsorción ocurre principalmente por deglución fetal y reabsorción
+por la membrana corioamniótica. Las magnitudes son variables y deben considerarse aproximadas según la
+edad gestacional y condiciones materno-fetales. Como cifras aproximadas es posible considerar: orina fetal 1
+L/diario en embarazo de término, fluido pulmonar 250 ml día. Deglución fetal 500 ml/ 24 h.
+El líquido amniótico aparece a las 9 semanas de edad Gestacional. A partir de las 10 semanas
+comienza a aumentar progresivamente, debido al desarrollo de la función renal. El volumen máximo de LA se
+encuentra a las 32 semanas (700-800 ml), mientras que en embarazos >40 semanas, se produce una
+disminución progresiva de 8 % por semana.
+La cantidad de líquido amniótico puede ser evaluada clínicamente durante el tercer trimestre del
+embarazo. La palpación fácil de las partes fetales, asociado a menor altura uterina de la esperada, hace
+sospechar un oligoamnios (OHA); mientras que la altura uterina aumentada, y un feto que se mueve
+libremente en la cavidad uterina (“pelotea”), crea la sospecha de polihidroamnios (PHA). Ante sospecha clínica
+de LA alterado, debe realizarse una medición ecográfica (ver Índice de Líquido amniótico más adelante en este
+capítulo).
+Monitorización Materna de Movimientos Fetales
+(MMMF): los movimientos fetales son percibidos por
+la embarazada a partir de las 18-20 semanas
+dependiendo de la paridad. En cada control prenatal
+se debe interrogar a la madre por la percepción de
+movimientos fetales, analizando su interpretación
+subjetiva respecto de si el bebé se mueve de modo
+normal. Se instruye a la mujer a “objetivar” la
+monitorización cuando estando en su vida usual tenga
+la noción de que el feto se ha movido menos de lo
+habitual.
+Técnica para la MMMF
+• 1 hora post prandial
+• Recostarse lateralizada (izquierda o derecha), no estimular al feto
+• Contar los movimientos fetales en 2 horas
+Interpretación:
+• Alerta clínica: la indicación principal es consultar si existe una disminución clara de los movimientos
+respecto del patrón habitual del feto. Como orientación práctica, algunas estrategias de conteo
+consideran esperable percibir múltiples movimientos en un período de 2 horas en reposo; sin embargo,
+el criterio más importante es el cambio subjetivo sostenido y/o la ausencia de movimientos percibidos.
+Ante disminución percibida, se recomienda evaluación en unidad obstétrica con auscultación/RBNE y
+ecografía según el caso. La mayor parte de las veces se tratará de un falso positivo y el bebé estará en
+perfectas condiciones. La disminución de movimientos fetales puede deberse a hipoxia o acidosis fetal,
+pero también puede ser el resultado de ayuno prolongado o uso de fármacos depresores del SNC.
+• Prueba negativa (normal): en las dos horas el bebé se mueve 10 o más veces. Este resultado es
+sugerente de bienestar fetal, es decir, descarta hipoxemia.
+
+Pruebas Diagnósticas
+Estas pruebas diagnósticas no se usan de modo rutinario en todo embarazo, sino que frente a
+situaciones especiales como las que se indican a continuación.
+Indicaciones para efectuar pruebas de evaluación del bienestar fetal (pruebas diagnósticas)
+• Alteración de los métodos clínicos, esencialmente disminución de los movimientos fetales.
+• Embarazo de alto riesgo: en quienes existe mayor riesgo de alteración de la unidad feto-placentaria,
+por ejemplo, una mujer hipertensa crónica. No existen criterios específicos para decidir cuál prueba y
+con qué frecuencia pedirlo; pero lo usual es repetición semanal y/o criteriosa según la gravedad del
+caso.
+• Demostración de patología materna o fetal: frente al diagnóstico de patología materna (ej.
+preeclampsia) o fetal (ej. restricción del crecimiento); es importante vigilar de modo seriado y
+sistemático el bienestar fetal. Se escogerá la prueba de acuerdo con el caso en particular y con
+frecuencia ajustada a la patología detectada. En los capítulos respectivos de cada una de las patologías,
+se enfatiza este uso.
+Registro Basal No Estresante (RBNE)
+El registro basal no estresante se efectúa con el uso del cardiotocógrafo, una máquina con dos
+detectores: un monitor Doppler de LCF y un monitor de presión que
+registra las contracciones uterinas. Además, dispone de un
+marcador que permite a la mujer señalar cuando siente un
+movimiento fetal. El cardiotocógrafo registra en un papel
+termosensible (papel centimetrado que avanza a 1 o 3 cm/min) la
+frecuencia cardíaca y, en ese mismo papel, la embarazada genera
+una marca cuando siente un movimiento fetal.
+El RBNE se basa en el conocimiento de que los fetos sanos
+tienen una respuesta cardio-aceleratoria en respuesta al
+movimiento. Precisamente, el RBNE busca si el feto presenta
+aceleración de sus LCF cada vez que se mueve.
+Esta prueba ha sido validada para embarazos mayores a 28
+semanas; de modo que debe usarse con cautela en edades gestacionales menores, principalmente para
+verificar si existen contracciones uterinas o desaceleraciones espontáneas, las que tienen muy mal pronóstico
+perinatal.
+Técnica (Figura 2)
+• Embarazada en decúbito, lateralizada. Evitar estimulación fetal.
+• Colocar los dos detectores del cardiotocógrafo y entregar a la mujer el marcador de movimientos fetales.
+Dado que es un RBNE no debiera tener contracciones uterinas.
+• Monitorizar por 20 minutos. Se le pide a la mujer que marque los movimientos fetales.
+Interpretación
+• Reactivo: (Figura 3) en 20 minutos de observación presenta al menos 2 episodios cardio-aceleratorios en
+respuesta a los movimientos fetales. En embarazos mayores a 32 semanas, cada aceleración debe ser de
+más de 15 segundos de duración y tener una aceleración de más de 15 latidos por minuto. En embarazos
+menores a 32 semanas, el criterio de reactividad es con dos aceleraciones de más de 10 segundos de
+duración y más de 10 latidos por minuto. Esto se traduce como bienestar fetal. Si la paciente no percibe
+movimientos fetales, pero se observan aceleraciones, el RBNE se considera reactivo; esto pues el feto
+debe estar moviéndose, pero la paciente no lo siente. Un RBNE reactivo es altamente tranquilizador (alta
+capacidad para descartar hipoxemia significativa en el corto plazo). En embarazos de alto riesgo, la
+frecuencia de repetición se individualiza; en la práctica suele repetirse en intervalos de pocos días a una
+semana según patología y severidad, y antes si hay cambios clínicos.
+
+• No reactivo: (Figura 3) en 20 o 40 minutos de observación no se presentan 2 episodios cardio-
+aceleratorios en respuesta a movimientos fetales. Causas de RBNE alterado son:
+o Factores Fetales:
+▪ Sueño fetal
+▪ Acidosis
+▪ Asfixia
+o Factores Maternos:
+▪ Ayuno
+▪ Farmacológicas: barbitúricos, drogas depresoras SNC.
+El
+RBNE tiene
+buena
+sensibilidad para detectar hipoxia fetal, pero mala especificidad. Es decir, la gran mayoría de las veces en que
+el RBNE esté alterado, el feto estará sano. La principal razón por la que un RBNE podría ser no reactivo es el
+sueño fetal. Los fetos no duermen más de 28 minutos, de este modo, si en 20 minutos no hay aceleraciones,
+el RBNE debe prolongarse 20 minutos más (no suspender y repetirlo después) antes de catalogarlo como no
+reactivo. Si persiste alterado, se indicará una prueba más específica (Doppler o PBF). Si bien no es el objetivo
+primario del RBNE, y si se hace con velocidad del papel de 1 cm/min, como la monitorización intraparto,
+también es posible evaluar la variabilidad, cuyo patrón normal (ver más adelante), se correlaciona muy bien
+con normalidad de la oxigenación fetal.
+Test de Tolerancia a las Contracciones (TTC)
+El TTC se efectúa con la ayuda del
+cardiotocógrafo. A diferencia del RBNE, en que no hay
+contracciones, el TTC estudia la respuesta de los LCF a las
+contracciones uterinas inducidas por una infusión
+continua de ocitocina. No se debe confundir el TTC con la
+cardiotocografía (CTG) intraparto, ya que en el TTC la
+mujer no está en trabajo de parto.
+Durante las contracciones uterinas, al
+comprimirse los lagos venosos de la placenta, los fetos con
+compromiso de su oxigenación desarrollarán hipoxemia
+transitoria, en respuesta a la cual, presentarán
+disminución transitoria de la frecuencia cardíaca
+(desaceleraciones).
+El TTC puede aportar información sobre reserva
+uteroplacentaria, pero su uso ha disminuido de forma importante por disponibilidad de otras pruebas mejores
+(Doppler, PBF) y por el riesgo de inducir dinámica uterina. En la práctica actual se reserva para situaciones
+seleccionadas y en centros con experiencia, individualizando indicación y edad gestacional. En nuestro centro,
+el único uso que damos al TTC es evaluar si es posible una inducción segura del trabajo de parto; es decir, en
+
+mujeres candidatas a inducción, pero con sospecha de insuficiencia placentaria (ej. RCF u oligoamnios),
+preferimos efectuar un TTC antes de proceder formalmente a la inducción mediante prostaglandinas.
+Técnica para el TTC
+• Embarazada hospitalizada
+• Posicionar en decúbito, lateralizada
+• Colocar los dos detectores del cardiotocógrafo
+• Infusión endovenosa de ocitocina por bomba de infusión continua (BIC 0,5mU/min)
+• Se deben lograr 3 contracciones en 10 minutos de buena intensidad y de duración de 40-60 segundos
+• Suspender infusión
+• Interpretar al registrar 20 contracciones
+Interpretación del TTC
+• Negativo: no existen desaceleraciones tardías
+• Positivo: en más del 50% de las contracciones uterinas existen desaceleraciones tardías o en 3 CU
+consecutivas en 10 min
+• Sospechoso: existen desaceleraciones tardías, pero en menos del 50% de las contracciones uterinas
+• Insatisfactorio: no se lograron 3 contracciones uterinas en 10 minutos superado las 30 mU/min de
+ocitocina
+Se denomina desaceleración a una disminución de la frecuencia cardíaca fetal de más de 15 latidos
+por minuto, que dura más de 15 segundos. Las desaceleraciones tardías son desaceleraciones repetidas,
+uniformes, que se presentan en respuesta a las contracciones, pero están desfasadas con respecto a la
+contracción. El desfase se refiere a que el nadir de la desaceleración (menor punto de la desaceleración) se
+encuentra >20 segundos respecto del acmé de la contracción (punto más alto de la gráfica de la contracción).
+A este desfase se llama decalaje (Figura 4).
+Conducta
+• Negativo: sugiere bienestar fetal, el embarazo puede continuar. No existe consenso sobre cuándo se debe
+repetir la prueba, podría repetirse en 7 días, pero esto dependerá de las condiciones clínicas de la
+paciente.
+• Positiva: sugerente de hipoxia fetal, se procede a interrupción
+del embarazo.
+• Sospechoso o Insatisfactorio: efectuar otra prueba (PBF o
+Doppler).
+Perfil Biofísico Fetal (PBF)
+El PBF es una evaluación ecográfica de cinco variables biofísicas
+fetales (Figura 5). El puntaje entregado se correlaciona con
+mortalidad perinatal. Evalúa marcadores de condición Fetal:
+• Agudos:
+o Movimientos respiratorios
+o Movimientos corporales
+o Tono
+o RBNE
+• Crónicos:
+o LA
+El PBF incluye un RBNE más una observación ecográfica por 30 minutos. A cada una de las variables
+se le asigna un puntaje de 2 (si está presente) o de 0 (si está ausente). De este modo, el PBF tiene un rango de
+0-10. En la siguiente tabla se muestran los parámetros a medir en el PBF
+
+Parámetros Por Medir en el Perfil Biofísico
+Variable Biofísica Normal (puntaje 2) Anormal (puntaje 0)
+Movimientos 1 o más episodios de movimientos Ausentes o sin ningún episodio mayor a
+respiratorios respiratorios mayores a 30 s en 30 min 30 s en 30 min
+Movimientos 3 o más movimientos del cuerpo o Menos de 3 movimientos del cuerpo o
+corporales extremidades en 30 min extremidades en 30 min
+Tono 1 o más episodios de extensión con Ausencia de movimiento de extensión.
+regreso a la flexión, del tronco o Extensión lenta con regreso parcial a la
+extremidades. Abrir y cerrar la mano flexión.
+cumple el criterio
+RBNE RBNE reactivo, es decir, 2 o más episodios RBNE no reactivo, es decir, 1 episodio de
+de aceleraciones de > 15 lpm y > 15 s aceleración o aceleraciones de <15 lpm en
+asociados a MF en 20 min. 20 min de observación
+Líquido 1 o más bolsillos de más de 2 cm en el eje Ningún bolsillo de más 2 cm en el eje
+amniótico vertical vertical
+La hipoxemia de los centros reguladores del SNC alteran las variables biofísicas fetales, de modo que
+un bajo puntaje del PBF es sugerente de hipoxia fetal. Esta situación se traduce en una alteración progresiva
+de los parámetros evaluados que sigue en el orden que se indica en la figura 6. El líquido amniótico se altera
+(oligoamnios) frente a situaciones de hipoxia crónica.
+Como se observa en las siguientes tres tablas, existe una relación entre el puntaje del PBF, el riesgo
+de hipoxemia/acidemia fetal y el riesgo de muerte fetal in útero (mortalidad fetal tardía expresada x 1.000 RN
+x semana). El conocimiento de estos riesgos, asociado al riesgo de la prematurez, permite adoptar una
+conducta según el resultado del PBF.
+Conducta Clínica según Resultado del PBF
+Puntaje Interpretación Riesgo Riesgo MFT Manejo
+Hipoxemia/ x
+Acidemia 1.000/sem
+PBF Normal
+10/10 Oxigenación tisular 0 % 0.565 Conservador (repetir
+normal semanalmente.
+Eventual Embarazo a
+término)
+8/10 LA normal Oxigenación tisular 0 % 0.565 Conservador
+normal
+8/8 (no se Oxigenación tisular 0 % 0.565 Conservador
+efectuó RBNE) normal
+
+Puntaje Interpretación Riesgo Riesgo MFT Manejo
+Hipoxemia/ x
+Acidemia 1.000/sem
+PBF Equívoco
+8/10 con OHA Hipoxemia crónica 5 % 20-20 Evaluar función renal
+compensada fetal o alteración
+placentaria. Parto si >
+37 sem
+Evaluar si < 37 sem
+6/10 LA normal Posible hipoxemia ¿? % 50 Parto si > 37 sem o
+aguda madurez fetal.
+Si < 37 sem o inmaduro,
+repetir en 24 h si
+persiste igual, manejar
+como PBF Anormal
+Puntaje Interpretación Riesgo Riesgo MFT Manejo
+Hipoxemia/ x
+Acidemia 1.000/sem
+PBF Anormal
+6/10 con OHA Hipoxemia crónica > 10% > 50 Parto si > 37 sem
++ posible Si 32-37 sem → Doppler
+hipoxemia aguda Si < 32 sem PBF diario
+4/10 LA normal Muy posible 36 % 115
+hipoxemia aguda
+4/10 con OHA Muy posible > 36 % > 115 Promover el parto si el
+hipoxemia crónica feto es viable
++ aguda (> 24 sem)
+2/10 LA normal Certeza de 73 % 220
+hipoxemia aguda
+0/10 Hipoxemia grave 100 % 350
+El puntaje del PBF se correlaciona inversamente con riesgo de hipoxemia/acidemia y muerte fetal, pero
+las tasas exactas dependen de población y contexto clínico. La conducta debe integrar puntaje, edad
+gestacional, etiología del riesgo y alternativas de vigilancia (especialmente Doppler en RCF).
+Índice de Líquido Amniótico (ILA)
+Si bien forma parte del PBF; la sola medición del volumen del líquido amniótico forma parte de las
+pruebas de evaluación del bienestar fetal. Existen 2 técnicas para cuantificarlo:
+• Técnica semicuantitativa de Manning (bolsillo vertical máximo, BVM): LA normal: al menos 1 bolsillo
+vertical de LA > 2 cm
+• Técnica de Phelan: Sumatoria de bolsillo mayor de LA en cada cuadrante: “Índice de líquido
+amniótico” (ILA).
+En muchos contextos clínicos, el uso del bolsillo vertical máximo (BVM) reduce el sobrediagnóstico
+de oligohidroamnios respecto del ILA y puede disminuir intervenciones sin empeorar resultados; en
+embarazos múltiples se prefiere BVM
+PHA OHA
+• Embarazo gemelar • RCIU
+• DM • RPO
+• Hidrops Fetal • Hipoxia crónica
+• Malformaciones (Ej.: atresia esofágica) • Malformaciones (ej.: agenesia renal)
+• IIA
+
+Polihidroamnios (PHA)
+Corresponde al aumento del líquido amniótico, definido como
+un volumen de líquido amniótico mayor a 2.000 ml de líquido amniótico.
+Su frecuencia en el embarazo de término es de 1-2% de los embarazos
+únicos, siendo más común en los embarazos múltiples. La cuantificación
+por volumen absoluto del líquido amniótico es imposible en clínica y por
+ello se define usualmente a través de la ecografía (ILA elevado o bolsillo
+vertical máximo aumentado, como se muestra en la siguiente tabla). El
+diagnóstico se realiza principalmente por sospecha clínica (altura
+uterina más grande de lo esperado y “peloteo fetal” en las maniobras
+de Leopold) y por evaluación ecográfica subjetiva (el ecografista encuentra mucho líquido en un barrido
+general) u objetiva (medición de bolsillos de líquido amniótico) (Figura 7).
+Aunque el PHA moderado es generalmente idiopático (60-70% de los casos), siempre se debe buscar
+una causa subyacente, siendo las 2 causas más comunes la diabetes materna y las anomalías fetales. El PHA
+severo se asocia a mayor riesgo de parto prematuro, por sobredistensión uterina; el riesgo de malformaciones
+fetales asociadas es cercano al 15%, en casos de PHA severo. La mortalidad del feto con PHA aumenta en
+relación con su severidad comparado con fetos sin PHA desde 1,3% a ser 17 veces mayor que la población
+general. El PHA no es una enfermedad, sino una manifestación de una enfermedad fetal o materna (por
+ejemplo, madre con DM), y de esta enfermedad es que deriva el mayor riesgo perinatal.
+Criterios y resultados para el diagnóstico de polihidroamnios
+ILA Bolsillo vertical Incidencia Riesgo de Riesgo anomalía
+mayor anomalía fetal * neonatal **
+Polihidroamnios > 25 > 8 0.3-1.0 %
+Leve, cm 25.0 - 29.9 8-11 65-70% del total 6 – 10% 1%
+Moderado, cm 30.0 – 34.9 12 -15 20% del total 10 -15% 2%
+Severo, cm > 35 > 16 < 15% del total 20 – 40% 10%
+* Riesgo de detección de una anomalía en la ecografía prenatal.
+** Riesgo de detección de la anomalía en examen postnatal, no habiéndola detectado antes del parto.
+Causas de polihidroamnios
+• Idiopático: 60 - 70% de los PHA son idiopáticos, esto especialmente en casos de PHA moderado. El
+curso de esta condición es benigno y se trata de una condición de diagnóstico retrospectivo, pero
+habiendo descartado las otras causas
+• Maternas
+o Diabetes Mellitus: es la causa más frecuente de PHA; habitualmente el feto tendrá un
+crecimiento por sobre lo normal (sobre pc 90)
+o Isoinmunización fetal (habitualmente por grupo Rh negativo)
+• Ovulares/placentarias
+o Corioangioma placentario (tumor)
+o Placenta circunvallata
+• Fetales
+o Malformaciones Gastrointestinales (ej. atresia esofágica, estenosis pilórica hipertrófica que
+no permite el drenaje del líquido amniótico)
+o Malformaciones del SNC: ej. anencefalia, defectos del tubo neural
+o Infecciones TORCH (toxoplasma, otros, rubeola, CMV, herpes), sífilis, parvovirus
+o Cardiopatías congénitas: ej. arritmias, coartación aórtica
+o Otras malformaciones torácicas, renales, esqueléticas, neuromusculares
+o Cromosomopatías
+o Tumores fetales, ej. teratoma sacrococcígeo
+o Embarazo múltiple
+
+Oligohidroamnios u Oligoamnios (OHA)
+Corresponde a una reducción en la cantidad de
+líquido amniótico. Su incidencia es > 1%, y es más común en
+embarazos de término. El diagnóstico se basa
+principalmente en la sospecha clínica (altura uterina menor a
+lo esperado o palpación fácil de las partes fetales), y en la
+ecografía con ILA < 5 cm o en ausencia de un bolsillo vertical
+>2 cm (este criterio es el más utilizado, también se llama OHA
+absoluto) (Figura 8).
+El riesgo perinatal del OHA depende de su causa:
+• OHA del 1er trimestre: de origen poco claro, es un signo
+ominoso, ya que generalmente termina en un aborto
+espontáneo del embarazo.
+• OHA del 2º trimestre, casi 100% mortalidad: Si un feto tiene OHA por agenesia renal u obstrucción de la
+vía urinaria (las causas más frecuentes de OHA del segundo trimestre), su muerte está determinada
+principalmente por la hipoplasia pulmonar, ya que, al existir una
+malformación renal, existe menor producción de líquido amniótico y
+esto no permite el desarrollo normal de los pulmones. Se desarrolla
+un síndrome de OHA: hipoplasia pulmonar, deformidades
+ortopédicas, facie de Potter (figura 9) y restricción del crecimiento
+fetal. Algo similar ocurre si la causa del OHA es una rotura de
+membranas (causa rara de OHA en el segundo trimestre).
+• OHA del 3º trimestre, habitualmente en el contexto de restricción
+del crecimiento fetal e insuficiencia placentaria. Existe mayor riesgo
+de hipoxia fetal durante el trabajo de parto. En embarazos con
+detección de OHA durante el tercer trimestre, la mortalidad perinatal
+aumenta 13-40 veces respecto del riesgo de fetos sin OHA.
+Criterios para el Diagnóstico de oligohidroamnios
+• ILA <5 cm
+• Bolsillo único menor a 2 cm (llamado OHA absoluto)
+Causas de oligohidroamnios
+• OHA del 2do Trimestre (< 20 semanas)
+o Agenesia renal
+o Obstrucción vía urinaria
+o Otras malformaciones
+o Rotura prematura de membrana (raro)
+• OHA del 3er Trimestre
+o Insuficiencia placentaria, en este caso el OHA se presenta en el contexto de RCF.
+o Rotura prematura de membranas
+o Uso de AINES (transitorio)
+o Malformaciones renales (si el diagnóstico no se hizo anteriormente)
+
+Velocimetría Doppler Materno Fetal
+El efecto Doppler es el cambio en la frecuencia del sonido recibida desde un receptor fijo, con relación
+a una fuente emisora en movimiento. Este principio aplicado
+al ultrasonido (>20 KHz) nos permite conocer la velocidad del
+movimiento de un objeto.
+El ultrasonido emitido con una frecuencia
+determinada (Fe), desde un transductor hacia una columna
+de partículas sanguíneas en movimiento, será dispersado y
+reflejado con una frecuencia diferente a la emitida. La
+diferencia entre la frecuencia emitida y la reflejada se llama
+frecuencia Doppler (Fd). Si se conoce el ángulo de insonación
+(el ángulo entre el sonido emitido y el objeto en movimiento,
+en este caso, los glóbulos rojos), es posible calcular la
+velocidad del objeto en movimiento (en este caso la sangre
+en un vaso sanguíneo).
+En el uso obstétrico del Doppler, habitualmente
+desconocemos el ángulo de insonación, de modo que
+desconocemos el valor real de la velocidad de flujo. Para aliviar este problema, lo que se hace es observar la
+curva de velocidad de flujo durante sístole y diástole. Si en el territorio distal a la arteria analizada la resistencia
+está aumentada, la velocidad durante el sístole aumenta, mientras que la velocidad durante el diástole
+disminuye, aumentando la diferencia de velocidad entre el sístole y el diástole.
+Para cuantificar esta forma de la onda de velocidad de flujo se usan índices que miden de diferentes
+formas la relación sístole diástole. Si el índice aumenta es porque la diferencia entre la velocidad sistólica y la
+diastólica aumenta, y ello es consecuencia de un aumento de la resistencia hacia distal. Por el contrario, si los
+índices disminuyen es porque la resistencia hacia distal disminuye. En la figura 10 se observan los tres índices
+usados para estimar la resistencia en base a las relaciones entre las velocidades de flujo sistólica y diastólica.
+Doppler color es el sistema computacional incorporado a la máquina de ultrasonido. Este asigna
+unidades de color, dependiendo de la velocidad y dirección del flujo sanguíneo. Por convención, se ha
+asignado el color rojo para el flujo que va hacia el transductor y el azul para aquel que se aleja.
+Las circulaciones uteroplacentaria y umbilico-placentaria son circuitos de alto flujo y baja resistencia;
+sus vasos posean ondas de velocidad de flujo Doppler reconocibles y específicas.
+El Doppler evalúa cambios hemodinámicos asociados a hipoxia y su repercusión en territorio materno
+fetal, por lo que es un marcador precoz de insuficiencia placentaria. El Doppler de territorio placentario
+(materno, es decir, arterias uterinas) resulta útil tanto entre las 11-14 y las 20-24 semanas para predecir el
+riesgo de desarrollar patologías relacionadas con deficiencia en la placentación, como preeclampsia o
+restricción de crecimiento fetal.
+Mediante el Doppler es posible evaluar todos los vasos maternos y fetales, siendo especialmente útil
+la evaluación de arterias uterinas (maternas) y en el feto: arteria umbilical, arteria cerebral media y ducto
+venoso.
+a. Doppler Arteria Umbilical: evalúa el flujo de la arteria umbilical bombeada por el feto. Por lo tanto,
+estima la resistencia placentaria. Normalmente el territorio placentario es de baja resistencia, de modo que
+las velocidades de flujo en sístole y en diástole son altas (obviamente en sístole es mayor que en diástole). En
+casos de insuficiencia placentaria, por una formación defectuosa de la placenta, la resistencia aumenta, lo que
+se verá reflejado en un aumento de los índices en el Doppler. Si el problema se agrava, llega un momento tal
+en que la resistencia placentaria aumentada impide el flujo de sangre durante el diástole (Flujo Diastólico
+Ausente: FDA) o incluso, ocasiona que durante el diástole la sangre refluya desde la placenta hacia el feto
+(Flujo Diastólico Reverso: FDR) (Figura 11). La presencia de flujo diastólico ausente (FDA) o reverso (FDR) en
+arteria umbilical indica aumento severo de resistencia placentaria y se asocia a mayor riesgo de
+hipoxemia/acidemia, parto prematuro indicado y muerte perinatal, especialmente en el contexto de RCF. La
+conducta debe individualizarse según edad gestacional y evaluación integral (ej. Doppler de ducto venoso y la
+condición materna).
+
+La última revisión Cochrane (2017), sobre la utilidad del estudio Doppler de arteria umbilical en el
+manejo de los fetos con restricción de crecimiento, incluyó 19 estudios en los que participaron 10,225
+mujeres. Esta investigación mostró que el uso del Doppler de AU permite un 29% de disminución de la
+mortalidad perinatal (RR 0.71, 95% CI 0.52-0.98). Esto significa que 203 embarazos de alto riesgo deben ser
+estudiados para prevenir una muerte perinatal. Cabe destacar que esta utilidad del Doppler está demostrada
+sólo en embarazos de alto riesgo, principalmente en
+restricción del crecimiento uterino, y no en población
+general.
+b. Doppler Arteria Cerebral Media: la onda de velocidad
+de flujo en la arteria cerebral media es diferente de la de
+arteria umbilical, ya que normalmente se trata de un
+territorio de alta resistencia, lo normal es que haya una
+gran diferencia entre la velocidad de flujo en sístole
+comparado con diástole (Figura 12). En situaciones de
+hipoxia fetal, como un mecanismo compensatorio, el
+territorio irrigado por la arteria cerebral media se dilata, lo
+que se evidenciará en el Doppler como una disminución de
+la resistencia hacia distal, es decir, una disminución de los
+índices de resistencia.
+c. Doppler Territorio Venoso: varios vasos venosos fetales
+pueden ser evaluados clínicamente, siendo el más
+importante el ducto venoso. La sangre oxigenada fluye desde la placenta hacia el feto por medio de la vena
+umbilical. A nivel del hígado, una buena parte de la sangre de la vena umbilical (el 60%) es derivada a través
+del ducto venoso hacia la vena cava inferior. La fracción restante circula a través de los sinusoides hepáticos.
+El flujo a través del ducto venoso permite aportar sangre bien oxigenada al corazón (circulación coronaria) y
+hemicuerpo superior. El flujo a través del ducto venoso se altera cuando existe insuficiencia cardiaca. El flujo
+en el ducto venoso posee tres ondas: sistólica, diastólica y onda de contracción atrial (Figura 13). En
+condiciones normales la onda sistólica es de mayor tamaño que la diastólica y la onda de contracción atrial es
+pequeña, pero positiva. Cuando el corazón falla, la onda sistólica y diastólica se observan del mismo tamaño
+y la onda de contracción atrial es negativa (flujo reverso). También es posible medir los índices de resistencia
+en el Doppler del ducto venoso para analizar su normalidad.
+Hoy en día se aconseja el estudio de todos los territorios vasculares cuando se maneja un feto con
+restricción de crecimiento. Los estudios de todos los territorios vasculares han aumentado los conocimientos
+sobre los mecanismos de adaptación y la secuencia de cambios en la circulación fetal en respuesta a la hipoxia
+y restricción del crecimiento fetal (RCF). Dentro del estudio Doppler de la RCF, es posible identificar cambios
+tempranos y cambios tardíos. Los cambios precoces preceden en 7-10 días la aparición de hipoxemia y
+acidemia fetal y los tardíos preceden en 4 o 5 días la muerte fetal.
+
+Cambios tempranos
+• Aumento de los índices en arteria umbilical debido al aumento de la resistencia vascular placentaria
+• Reducción de los índices en arteria cerebral media (ACM): el feto se adapta a la hipoxemia,
+redistribuyendo flujo hacia áreas críticas (cerebro, corazón, adrenal), y disminuyendo el flujo hacia
+otras áreas (genera menor crecimiento y oligoamnios). La redistribución de flujo hacia al cerebro
+(brain-sparing), vasodilatación de la arteria cerebral media, es identificable en el Doppler de ACM
+• Pérdida del flujo diastólico de la arteria umbilical (FDA)
+Cambios tardíos
+• Pérdida de la onda de contracción auricular en el ducto venoso, reflejando compromiso de la función
+miocárdica
+• Alteración del RBNE y del PBF
+• Inversión del flujo de arteria umbilical (FDR)
+• Inversión de la onda atrial a nivel del ducto venoso.
+• Flujo pulsátil en la vena umbilical: antecede en más de 2 semanas a un PBF alterado
+• Perdida de los mecanismos de autorregulación cerebral (brain-sparing), generando una aparente
+normalidad en la morfología del Doppler de la ACM
+D. Doppler de Arteria Uterina:
+En la ecografía de las 11-14 semanas y 20-24 semanas es posible estudiar el flujo a través de las
+arterias uterinas, mediante transductor vaginal o abdominal. El aumento de resistencia en las arterias uterinas
+a esta edad gestacional se asocia con mayor riesgo de desarrollar preeclampsia o restricción de crecimiento
+fetal.
+El Doppler de arterias uterinas puede contribuir a la estratificación de riesgo de trastornos
+placentarios (preeclampsia y RCF), especialmente cuando se integra en modelos multifactoriales de
+predicción. Su uso (universal o selectivo) depende de recursos y protocolos locales. Si se identifica alto riesgo
+de preeclampsia, la profilaxis con aspirina en dosis bajas debe iniciarse idealmente antes de las 16 semanas
+(habitualmente 12–16 semanas), además de seguimiento clínico estrecho.
+En décadas pasadas, era más común el uso del índice de resistencia (IR) o consignar la presencia de
+"notch" o escotadura protodiastólica, con alta subjetividad y variación interobservador para denotar el
+aumento de resistencia de las arterias uterinas. Actualmente, se utiliza el IP promedio entre ambas arterias
+uterinas con el valor pc 95 como punto de corte de normalidad/anormalidad. Se recomienda el uso de tablas
+de valores normales de IP según edad gestacional, pues a medida que progresa el embarazo el IP va
+disminuyendo, como manifestación de la disminución de la resistencia vascular dado por el proceso de
+placentación fisiológico. En la ecografía 11-14 semanas el pc 95 del IP corresponde a 2,43 y en el segundo
+trimestre a 1,54.
+
+Resumen
+• En el sistema público en Chile, las embarazadas inician el control prenatal con la matrona (consultorio)
+y son derivadas a control en policlínico de Alto Riesgo (en el hospital) si se detectan FR.
+• Embarazo de alto riesgo es el que cursa en presencia de FR maternos o fetales. Corresponde al 10-20%
+de los embarazos y en su conjunto contribuyen al 80% de la morbimortalidad materno-perinatal.
+• Existen métodos clínicos (altura uterina, estimación clínica del peso fetal o del LA, auscultación de los
+LCF y monitorización materna de movimientos fetales) y pruebas diagnósticas para evaluar el bienestar
+fetal antenatal. Estas últimas pueden ser no invasivas (ecografía, Doppler fetal, RBNE, TTC, PBF, Índice
+de LA) como invasivas (amnioscopía, cordocentesis, fetoscopía y amniocentesis).
+• Las pruebas diagnósticas para evaluar el bienestar fetal no se usan de modo rutinario, sino que existen
+indicaciones específicas para realizarlas. Entre ellas están la alteración de los métodos clínicos
+(especialmente la disminución de los movimientos fetales en la MMMF), cursar con un embarazo de
+alto riesgo o que exista demostración de patología materna (ej.: preeclampsia) o fetal (ej.: RCF).
+• El RBNE evalúa la presencia de aceleraciones del corazón fetal en relación con los movimientos
+mediante un cardiotocógrafo, el cual mide la señal Doppler de los LCF y las presiones de cada CU. Se
+basa en que los fetos tienen una respuesta cardio-aceleratoria en respuesta al movimiento, por lo que
+el resultado normal es un RNE reactivo (en 20 minutos hay al menos 2 episodios cardio-aceleratorios
+en respuesta a los movimientos fetales). La conducta ante un RBNE reactivo es individualizar la
+frecuencia de repetición según el riesgo y la patología, y repetir antes si hay cambios clínicos. Debido
+a la mala especificidad del RBNE, un resultado no reactivo debe hacer prolongar la prueba por 20
+minutos más (sueño fetal). Si persiste alterado, se debe indicar una prueba más específica.
+• El TTC se realiza con cardiotocógrafo y mediante ocitocina se inducen CU para estudiar la respuesta de
+los LCF. Tiene alta sensibilidad y especificidad. pero puede inducir a parto prematuro, por lo que sólo
+debe efectuarse en embarazos >36 semanas, excluyendo a pacientes con PPO o metrorragia. Un
+resultado positivo (en más del 50% de las CU hay desaceleraciones tardías) sugiere hipoxia fetal y se
+procede a interrumpir el embarazo. Cada vez está más en desuso.
+• El PBF es una evaluación ecográfica de 5 variables biofísicas fetales (movimientos respiratorios,
+corporales, tono, RBNE y LA), que entrega un puntaje de 0-10. PBF >8 son normales, mientras que
+aquellos <4 son altamente sugerentes de hipoxia fetal, e indican la interrupción del embarazo
+independiente de la EG.
+• El líquido amniótico puede evaluarse según criterios de Manning o de Phelan. El primero define normal
+un LA con al menos 1 bolsillo vertical >2cm, mientras que el segundo ocupa la sumatoria de bolsillo
+mayor de LA en cada cuadrante (ILA).
+• Polihidroamnios (PHA) es el aumento del LA y se diagnostica por un ILA >25 cm o un bolsillo único >8
+cm. Sus causas más comunes son DM materna y las anomalías fetales.
+• Oligoamnios (OHA) es la reducción del LA y se diagnostica por un ILA <5 cm o ausencia de un bolsillo
+de LA >2 cm (OHA absoluto). Sus causas se clasifican según trimestres, siendo las del 2º casi 100%
+mortales (agenesia renal, obstrucción de la vía urinaria son las más frecuentes), mientras que las del
+3º habitualmente están en contexto de RCF e insuficiencia placentaria, lo que se asocia a mayor riesgo
+perinatal de mortalidad.
+• El Doppler permite estimar la resistencia en el territorio distal al vaso estudiado. El territorio más
+evaluado es el de la arteria umbilical; si el flujo en diástole es ausente (FDA) o reverso (FDR), es
+demostrativo de una grave alteración de la resistencia placentaria y, si el embarazo es de más de 32
+semanas, se debe indicar su interrupción. También puede estudiarse el Doppler de la ACM, del ducto
+venoso y de la arteria uterina. Hoy en día se aconseja el estudio de todos los territorios vasculares
+cuando se maneja un feto con RCF.
+
+Pá gin a | 145

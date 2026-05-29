@@ -1,0 +1,336 @@
+Capítulo 11.
+EMERGENCIAS DEL PARTO VAGINAL EN PRESENTACIÓN
+CEFÁLICA
+Según la Real Academia de la Lengua Española (RAE), emergencia se define como situación de peligro
+o desastre que requiere una acción inmediata. Puede ser una situación previsible o no previsible. Previsible
+se refiere a un evento que podría evitarse; desafortunadamente, la mayoría de las emergencias del parto
+suelen ser no previsibles en la población de bajo riesgo.
+Las emergencias del parto se pueden presentar en cualquiera de los períodos de éste: dilatación,
+expulsivo, alumbramiento o post alumbramiento. En este capítulo, revisaremos las emergencias del parto que
+no sean revisadas en otros capítulos del libro.
+EMERGENCIAS DURANTE EL PRIMER PERIODO DEL PARTO (Etapa de Dilatación)
+El primer período corresponde al período de la dilatación cervical. Entre las emergencias que pueden
+presentarse en este período, considerar:
+A. Complicaciones de la Anestesia Peridural: la anestesia peridural debe ser administrada por un
+especialista, una vez que se ha explicado a la mujer los beneficios y riesgos del procedimiento. La anestesia
+peridural es un procedimiento seguro, y las complicaciones neurológicas graves son excepcionales, con una
+incidencia estimada menor a 1 por 50.000-100.000 procedimientos, dependiendo de la definición utilizada.
+Desde la mirada obstétrica, mencionamos como emergencias relacionadas con el procedimiento anestésico,
+las siguientes:
+• Hipotensión arterial: es una de las complicaciones más frecuentes que ocasiona síntomas en la mujer
+(náuseas, sudoración, lipotimia) y alteraciones de la frecuencia de los latidos cardíacos fetales
+(bradicardia o desaceleraciones). Para reducir el riesgo de hipotensión, se recomienda la administración
+de cristaloides endovenosos (co-loading con 500 ml), posicionar a la paciente en decúbito lateral
+izquierdo y, de ser necesario, el uso oportuno de vasopresores.
+• Inyección subaracnoidea masiva (anestesia espinal total): sucede al perforar accidentalmente la
+duramadre e inyectar la solución anestésica en el espacio subaracnoideo. Se produce un compromiso
+hemodinámico y respiratorio grave que obliga a soporte vascular y respiratorio (ventilar con mascarilla o
+incluso intubar) hasta que pase el efecto de las drogas. Los
+riesgos para el feto se relacionan con la hipotensión e
+hipoperfusión placentaria secundaria, y no con un efecto
+directo de los medicamentos.
+B. Prolapso o procidencia de cordón: protrusión del cordón
+umbilical a través del cuello uterino dilatado, antes de la salida del
+feto (Figura 1). La frecuencia reportada suele estar en el rango de
+0,1-0,6% (1-6 por 1.000 partos), variando según presentación,
+prematurez y procedimientos como amniotomía con presentación
+alta/no encajada. Se denomina procúbito de cordón (o
+presentación funicular), a la presencia del cordón umbilical delante
+de la presentación fetal, con membranas íntegras; si ocurre rotura
+de membranas se producirá el prolapso del cordón umbilical, y por
+lo tanto es una contraindicación para efectuar RAM.
+El diagnóstico de prolapso de cordón se realiza usualmente
+por bradicardia fetal, palpación del cordón prolapsado a la vagina y,
+en ocasiones, visualización del cordón que sale de la vagina.
+
+Factores de riesgo o causas más importantes del prolapso de cordón son:
+• Parto prematuro
+• Embarazo múltiple
+• Polihidroamnios
+• Presentación podálica
+• RAM o REM con presentación no encajada: factor desencadenante más importante
+Manejo del prolapso de cordón: (prioridad: descomprimir cordón y acelerar el parto):
+• Solicitar ayuda y activar resolución urgente (habitualmente cesárea).
+• Evitar manipular el cordón (disminuye vasoespasmo/trauma).
+• Elevar manualmente la presentación durante el tacto vaginal para aliviar la compresión y mantener esa
+descompresión hasta el nacimiento. Para lograr esto, el médico o matrón que hace el tacto vaginal, y el
+diagnóstico de prolapso, empuja la presentación fetal evitando la compresión del cordón por la cabeza
+fetal. Se mantendrá en esta posición hasta la extracción del RN por cesárea.
+• Colocar a la paciente en posición genupectoral o Trendelenburg/lateral con elevación pélvica, según
+factibilidad.
+• Considerar llenado vesical con solución (catéter Foley) como medida efectiva para elevar la presentación
+si la cesárea no es inmediata.
+• Administrar tocolisis de emergencia como medida transitoria.
+• Traslado de la paciente a pabellón y administración de anestesia raquídea o general.
+• Operación cesárea de urgencia. Una vez que ha salido el RN, el médico o matrón/a que hace el tacto
+vaginal puede retirar su mano.
+• Si el prolapso de cordón se produce en una mujer con dilatación completa y presentación en espinas ≥+2,
+se atenderá el parto vaginal, probablemente con ayuda de un fórceps.
+C. Embolía de líquido amniótico: episodio de insuficiencia respiratoria aguda secundaria a un síndrome
+de distrés respiratorio agudo (SDRA), asociado a hipotensión severa, shock y coagulopatía clínica y de
+laboratorio. La letalidad históricamente descrita ha disminuido, situándose en series contemporáneas entre
+20–40%, dependiendo del acceso a cuidados intensivos. Su incidencia fluctúa entre 1:8.000 a 1:80.000
+embarazos.
+Este cuadro fue originalmente descrito asociado al hallazgo de escamas córneas del epitelio del feto,
+que normalmente están en el líquido amniótico, en la circulación pulmonar materna (detectadas en la
+necropsia); por este motivo, se entendió como una embolía de líquido amniótico. Hoy se estima que el paso
+de material del líquido amniótico al torrente circulatorio materno genera una respuesta inflamatoria sistémica
+masiva de tipo anafilactoide, más que una embolia mecánica propiamente tal.
+El diagnóstico es clínico y de exclusión, apoyado por criterios propuestos (ej., inicio súbito con
+compromiso respiratorio/cardiovascular, hipotensión/paro, y coagulopatía/CID), tras descartar TEP masivo,
+IAM, anafilaxia por fármacos u otras causas. La imagen (angioTAC) es útil sobre todo para descartar TEP, no
+para confirmar la embolía de LA. En una eventual necropsia es posible confirmar la sospecha.
+Factores de riesgo para embolía de LA:
+• Edad avanzada
+• Multiparidad
+• RAM
+• Cesárea
+Manejo de la embolía de LA:
+• El manejo es soporte ventilatorio: ABC.
+• Traslado a UCI y manejo por equipo de intensivo en soporte vital avanzado.
+• Manejo agresivo de la coagulopatía/CID con protocolos de hemorragia masiva según necesidad
+• No existe evidencia concluyente que respalde el uso rutinario de corticoides. Si se considera, debe ser
+individualizado y nunca retrasar el soporte vital
+
+D. Compromiso del bienestar fetal: ver capítulo EVALUACIÓN FETAL INTRAPARTO.
+E. Metrorragia: ver capítulo METRORRAGIA EN LA SEGUNDA MITAD DEL EMBARAZO.
+F. Convulsiones por eclampsia: ver capítulo SÍNDROME HIPERTENSIVO DEL EMBARAZO.
+EMERGENCIAS DURANTE EL SEGUNDO PERIODO DEL PARTO (Expulsivo)
+El segundo período corresponde al expulsivo, el que comienza cuando la dilatación está completa (10
+cm) y termina con la salida completa del feto. El momento más crítico corresponde a la atención del parto,
+momento en que el manejo inapropiado de situaciones fisiológicas o de emergencias, puede comprometer la
+salud y la vida del feto y la madre. El parto debe ser atendido por un especialista y en un recinto hospitalario
+que cuente con las medidas de seguridad y apoyo para solucionar complicaciones. Consideramos como
+emergencias frecuentes al momento de atender el parto las siguientes:
+A. Bradicardia del expulsivo: durante la atención del parto se monitorizan los LCF con el estetoscopio
+de Pinard o el Doppler fetal. La compresión de la cabeza puede causar bradicardia; sin embargo, no es posible
+descartar hipoxemia y acidemia fetal como la causa de esta bradicardia. El manejo de esta situación es
+abreviar el expulsivo mediante un parto vaginal asistido. Ver capítulo 14. PARTO VAGINAL ASISTIDO.
+B. Expulsivo detenido: si al momento de atender el parto, el pujo materno es ineficiente, y no se
+produce la salida del feto, se formula el diagnóstico de expulsivo detenido. El manejo depende de que se
+cumplan criterios para parto operatorio vaginal. Si es el caso, se efectuará el “parto instrumental” (fórceps o
+ventosa según caso y experiencia). Si no se cumplen criterios o el instrumental no es seguro/posible,
+corresponde cesárea de emergencia. Ver capítulo 14. PARTO VAGINAL ASISTIDO.
+C. Retención de hombros: corresponde a la retención de los hombros después de la salida de la cabeza
+fetal. La retención de hombros se produce porque el hombro anterior queda trabado detrás de la sínfisis
+púbica. El diagnóstico es clínico y se efectúa cuando luego de la salida de la cabeza fetal, no se logra la
+expulsión de los hombros, transcurridos 60 segundos de suave tracción de la cabeza fetal. El diagnóstico de
+retención de hombros debe sospecharse cuando después de la expulsión de la cabeza fetal, esta se retrae
+hacia la vagina; a esto lo hemos denominado “signo de la tortuga”.
+La retención de hombros es de 0,2-3% de los partos, dependiendo de la raza e incidencia de diabetes
+gestacional materna, y aumenta si el peso fetal es mayor.
+Se trata de una emergencia grave que puede resultar en daño neurológico severo o muerte del
+feto/RN; su manejo requiere de un operador experimentado y un apropiado grupo de apoyo médico. La
+retención de hombros suele ser un fenómeno inesperado, de modo que quien atiende el parto debe estar
+preparado para manejarla, pues el riesgo de hipoxia fetal aumenta con el tiempo de resolución, especialmente
+más allá de los 4-5 minutos, aunque la mayoría de los casos se resuelven con maniobras iniciales.
+Factores de riesgo para retención de hombro
+• Feto macrosómico (peso fetal > 4.000 gr)
+• DOPE
+• Diabetes Mellitus, habitualmente gestacional, donde el diámetro biacromial es mayor que los
+diámetros cefálicos
+• Obesidad materna
+• Post término, es decir, embarazo que se extiende más allá de las 42 semanas. Estos fetos con alta
+probabilidad serán macrosómicos.
+• Excesivo aumento de peso durante el embarazo.
+• Antecedente de distocia de hombros en un parto previo
+• Expulsivo prolongado
+• Parto vaginal asistido (fórceps)
+
+Manejo de la Retención de hombros: consiste en una serie de medidas progresivas que permiten destrabar
+el hombro anterior y dar salida al feto. El primer paso es mantener la calma y solicitar ayuda. No debe
+traccionarse enérgicamente la cabeza fetal (riesgo de lesionar el plexo braquial) ni comprimir el fondo uterino
+(empeora el problema en lugar de solucionarlo). En la figura 2 presentamos un diagrama de flujo del manejo
+de esta situación. El inicio de las maniobras para el manejo de la retención de hombros debe ser lo más pronto
+posible, idealmente con menos de 30 segundos desde efectuado el diagnóstico.
+
+1. Maniobras de Primera Línea:
+• Maniobra de McRoberts: flexión y abducción forzada de los muslos (Figura 3). La maniobra de Mc Roberts
+permite aumentar el diámetro anteroposterior del estrecho de salida de la pelvis y aumenta la presión
+intrauterina. Para un mejor rendimiento de
+esta maniobra, la espalda de la paciente
+debe estar plana sobre la camilla. Requiere
+de 2 ayudantes para la flexión de los
+muslos. En la atención de un parto de una
+paciente de riesgo (DOPE), se sugiere dejar
+las piernas sueltas (no atadas a las
+pierneras) y disponer de dos ayudantes
+entrenados, para poder ejecutar la
+maniobra de McRoberts con facilidad.
+• Desplazamiento suprapúbico del
+hombro: junto a la maniobra de MC Roberts, un tercer ayudante empuja con la palma de sus dos manos
+unidas, en la región supra púbica, para desimpactar el hombro anterior del feto que se encuentra tras la
+sínfisis pubiana, desplazándolo hacia un diámetro oblicuo (Figura 4). La maniobra de desplazamiento se
+efectúa comprimiendo de modo continuo o “bombeado” similar a
+lo que se hace en una RCP-
+• Tracción suave de la cabeza fetal: en conjunto con la maniobra
+de McRoberts y el desplazamiento suprapúbico del hombro, el
+obstetra tracciona suavemente la cabeza fetal (hacia inferior y
+afuera) para permitir el desprendimiento del hombro anterior.
+Luego se continúa la atención del parto de modo normal, es decir
+tracción de la cabeza fetal hacia arriba y afuera para el
+desprendimiento del hombro posterior.
+• Desprendimiento del hombro posterior: si asociado a Mc Roberts
+y compresión suprapúbica, no es posible la extracción del hombro
+anterior, puede intentarse la extracción del hombro posterior. El
+obstetra tracciona suavemente la cabeza fetal hacia arriba,
+logrando que el hombro posterior descienda en la concavidad
+sacra. Si se logra el desprendimiento del hombro posterior, luego
+será posible el desprendimiento del hombro anterior.
+2. Maniobras de Segunda Línea: se implementarán si las maniobras de primera línea no logran solucionar el
+problema. No existe un orden preciso para estas maniobras de segunda línea, y se elegirá entre ellas según
+sea el caso y la experiencia del obstetra (Figura 2). Usualmente se practica una episiotomía amplia antes de
+efectuar estas maniobras de segunda línea.
+• Rotación manual a diámetro oblicuo o
+Maniobra de Rubin: se intentará llevar el eje
+de los hombros a un diámetro oblicuo (Figura
+5). Con la mano, o dos dedos, en la espalda
+del feto (detrás del hombro anterior) se
+empuja el hombro para sacarlo de su
+posición bajo la sínfisis pubiana (diámetro
+anteroposterior de la salida de la pelvis) y
+llevarlo hacia un diámetro oblicuo. Una vez
+en esa posición, se tracciona suavemente la
+cabeza fetal para lograr el desprendimiento
+del hombro anterior.
+
+• Sacacorchos de Woods: se prolonga la presión sobre el hombro fetal, rotando los hombros en 180 grados,
+de modo que el hombro que era posterior quede bajo la sínfisis pubiana. Luego se procede a la tracción
+suave de la cabeza para extraer los hombros.
+• Extracción del brazo posterior: se introduce la
+mano en la vagina para intentar tomar y traccionar el
+brazo posterior del feto (Figura 6). Esta es una
+maniobra de gran riesgo, principalmente de lesiones
+traumáticas como fractura de húmero y lesión del
+plexo braquial. Si es posible sacar el brazo posterior, se
+logra una reducción del diámetro biacromial, y así la
+extracción de los hombros.
+• Posición de gateo: se pide a la paciente que se
+ponga en posición de gateo, con la espalda lo más
+arqueada posible sobre la camilla (Figura 7). En esa
+posición se intenta la extracción fetal mediante
+tracción suave de la cabeza (hacia abajo y afuera) con lo que es posible lograr el desprendimiento del
+hombro posterior (cerca del sacro).
+3. Maniobras de Tercera Línea: se implementan como una medida
+última para intentar salvar la vida fetal.
+• Restitución de Zavanelli: se intentará introducir nuevamente al feto
+en la cavidad uterina y efectuar una operación cesárea. Esta
+maniobra puede facilitarse con el uso de tocolisis de emergencia con
+nitroglicerina.
+• Sinfisiotomía: con el uso de un bisturí, y bastante fuerza, se
+intentará acceder al cartílago pubiano, para separar los dos huesos
+coxales.
+• Fractura de Clavícula: ejerciendo presión con el pulgar se procede a
+fracturar la clavícula con el fin de reducir el diámetro biacromial y
+facilitar la salida de los hombros.
+Complicaciones de la retención de hombros
+La morbilidad fetal se relaciona con el riesgo de trauma fetal o hipoxemia y sus secuelas. El trauma
+fetal puede evidenciarse como: fractura de clavícula, fractura de húmero, dislocación cervical y/o lesiones del
+plexo braquial. La hipoxia fetal producirá diferentes complicaciones según sea el tiempo que demore
+solucionar el problema, desde una depresión neonatal hasta asfixia perinatal o muerte.
+La tracción excesiva de la cabeza fetal para intentar destrabar el hombro anterior puede ocasionar
+daño en el plexo braquial del hombro anterior y generar una parálisis braquial congénita.
+La morbilidad materna en retención de hombro es, principalmente, mayor frecuencia de desgarros
+vagino-perineales graves, hemorragia posparto, incontinencia urinaria, incontinencia fecal y hospitalización
+prolongada. La hemorragia posparto se origina por las lesiones del canal y/o inercia uterina (cuya incidencia
+es alta después de la retención de hombros).
+Parálisis Braquial Congénita
+Clínicamente es diagnosticada en el posparto inmediato, en un recién nacido que presenta un rango
+de movimientos activos limitado de una de las extremidades superiores; este cuadro clínico es habitualmente
+benigno y de recuperación completa en plazo menor a tres meses.
+La parálisis braquial congénita fue definida hace siglos como la paresia flácida de una extremidad
+superior secundaria al estiramiento traumático del plexo braquial durante el parto, concepto que sin mayor
+análisis se mantiene popularmente hasta nuestros días; motivo por el cual muchos la llaman parálisis braquial
+obstétrica.
+
+Sin embargo, el concepto correcto es que la parálisis braquial congénita debe ser comprendida como
+un síndrome, que responde a diferentes etiologías o mecanismos patogénicos. Se estima que un 50% de las
+veces el cuadro se relaciona con la retención del hombro y tracción excesiva de la cabeza; el 50% restante se
+origina en otros mecanismos como: fuerzas endógenas durante el trabajo de parto (impactación del hombro
+posterior en el promontorio sacro), malformaciones fetales (aplasia de raíces nerviosas) y otras condiciones
+fetales in útero como: neoplasia, exostosis primera costilla, hemangiomas, infecciones, postura viciosa.
+La parálisis braquial congénita no relacionada con la retención de hombro afecta en el 67% de los
+casos el hombro posterior, los RN tiene un menor peso al nacer (no son macrosómicos), y tiene una mayor
+frecuencia de persistencia al año (41,2% vs 8,7%), si se compara con la parálisis braquial congénita asociada a
+la retención de hombro.
+Es importante destacar que la parálisis braquial congénita no es sinónimo de mala práctica médica y
+puede ocurrir incluso en partos sin distocia de hombros ni maniobras instrumentales.
+EMERGENCIAS DURANTE EL TERCER Y CUARTO PERIODO DEL PARTO (Alumbramiento y Posalumbramiento)
+El tercer período corresponde al alumbramiento (extracción de la placenta); en este período el recién
+nacido se encuentra en manos de su madre o del neonatólogo y ya no es preocupación para el obstetra; sin
+embargo, es un período complejo, cuyas complicaciones son una de las principales causas de muerte materna
+(hemorragia posparto). Entre las emergencias de este período considerar:
+A. Hemorragia puerperal: ver capítulo 18. HEMORRAGIA PUERPERAL
+B. Inversión uterina: corresponde a la protrusión del fondo uterino a través del cuello uterino dilatado,
+habitualmente después del alumbramiento. Su incidencia es cercana a 1 por 20.000 partos. La inversión
+uterina se asocia con mayor frecuencia a tracción del cordón umbilical con placenta no desprendida, aunque
+no es una complicación exclusivamente iatrogénica, pudiendo contribuir factores como atonía uterina,
+implantación placentaria anómala o anomalías uterinas.
+Los síntomas clásicos incluyen metrorragia posparto, dolor intenso y shock hipovolémico. El manejo
+inicial debe priorizar la reanimación materna y el control de la hemorragia. El tratamiento específico consiste
+en la reposición uterina inmediata, empujando manualmente el fondo uterino hacia la cavidad uterina
+mediante la introducción de la mano completa en la vagina; este procedimiento se conoce como maniobra
+de Johnson y puede requerir tocolisis de emergencia para facilitar la reposición.
+Una vez lograda la reposición uterina, se deben administrar uterotónicos para mantener la
+contracción uterina, prevenir la recidiva y controlar el sangrado.
+C. Retención de placenta: se define como la ausencia de expulsión espontánea de la placenta dentro
+de los 30 minutos posteriores al nacimiento, en el contexto de manejo activo del tercer período del parto, o
+antes si existe hemorragia posparto o inestabilidad hemodinámica materna.
+Estudios contemporáneos en grandes poblaciones bajo manejo activo muestran que la mediana de
+duración del alumbramiento es de 4 a 12 minutos, con aproximadamente 97% de las placentas expulsadas
+antes de los 30 minutos, y un percentil 99 cercano a los 28 minutos. La duración promedio no difiere
+significativamente entre nulíparas y multíparas, aunque la primiparidad se asocia a mayor probabilidad de
+prolongación, sin modificar el umbral clínico recomendado.
+La evidencia demuestra que el riesgo de hemorragia posparto aumenta de forma significativa cuando
+el tercer período supera los 15–20 minutos, y especialmente más allá de los 30 minutos, por lo que la mayoría
+de las guías recomienda proceder a la remoción manual de la placenta si esta no se ha expulsado
+espontáneamente dentro de ese intervalo.
+El tratamiento requiere analgesia o anestesia adecuada y extracción manual de la placenta. En
+muchos protocolos se recomienda la administración de una dosis de antibiótico profiláctico para reducir el
+riesgo de endometritis, de acuerdo con las normas locales. El procedimiento consiste en introducir la mano
+en la cavidad uterina, identificar el plano de clivaje placentario y realizar el desprendimiento manual
+cuidadoso.
+
+Resumen
+• Pese a tomar las precauciones necesarias, es posible que, durante el trabajo de parto, parto y posparto,
+se presenten emergencias potencialmente fatales, que deben ser resueltas con celeridad y eficiencia.
+• Pueden ocurrir emergencias durante el primer período del parto, en la etapa de dilatación. En relación
+con la anestesia peridural, puede ocurrir hipotensión arterial (prevenible mediante administración de
+500 ml de cristaloides antes de administrar la anestesia, y manteniendo a la paciente en decúbito
+lateral) e inyección subaracnoídea masiva (obliga a dar soporte vascular y respiratorio, pudiendo
+causar en el feto hipotensión e hipoperfusión placentaria secundaria). Por otro lado, puede ocurrir
+prolapso del cordón umbilical, cuyo diagnóstico se realiza por bradicardia fetal y palpación (o
+visualización) del cordón a través de la vagina. El factor desencadenante más importante es la RAM
+con presentación no encajada, y debe ser tratado mediante elevación manual de la presentación fetal
+a través de un tacto vaginal, con el fin de evitar la compresión del cordón, manteniendo esta maniobra
+hasta la extracción fetal por cesárea. En caso de dilatación completa y presentación en espinas +2,
+puede atenderse el parto vaginal con ayuda de fórceps. La embolia de líquido amniótico es otra
+complicación grave de esta etapa, asociada a insuficiencia respiratoria aguda, hipotensión severa,
+shock y coagulopatía. Su manejo se basa en soporte vital avanzado (ABC), traslado inmediato a UCI y
+tratamiento de sostén multidisciplinario; no existe evidencia concluyente que respalde el uso rutinario
+de corticoides. Otras complicaciones durante la fase de dilatación son el compromiso del bienestar
+fetal, metrorragia y convulsiones por eclampsia.
+• Dentro de las complicaciones del segundo período del parto (expulsivo) están la bradicardia (tanto por
+compresión de la cabeza o por hipoxemia/acidemia fetal) y el expulsivo detenido (por pujo materno
+ineficiente). Ambas situaciones obligan a abreviar este período mediante parto vaginal asistido. Por
+último, la retención de hombros es una complicación y emergencia grave del expulsivo que puede
+resultar en daño neurológico severo o muerte del feto/RN.
+• El diagnóstico de retención de hombros se hace clínicamente presenciando el “signo de la tortuga”, no
+lográndose la expulsión de los hombros posterior a 60 segundos de suave tracción de la cabeza, puesto
+que el hombro queda trabado tras la sínfisis púbica luego de la salida de la cabeza fetal. Dentro de sus
+FR están: peso fetal >4000 gr, DOPE (DM, obesidad materna, embarazo postérmino, excesivo aumento
+de peso durante el embarazo), antecedente de distocia de hombros en parto previo, expulsivo
+prologando y parto vaginal asistido. En su manejo es importante pedir ayuda y contar con al menos
+tres ayudantes, y la mayoría de los casos puede resolverse mediante la adopción precoz y escalonada
+de maniobras: McRoberts (hiperflexión y abducción de los muslos), desplazamiento suprapúbico del
+hombro anterior y tracción suave de la cabeza fetal. Si dichas maniobras no dan resultado, puede
+agregarse intentar desprender el hombro posterior. Existen maniobras de segunda y tercera línea,
+cuyo objetivo es intentar salvar la vida fetal y deberán ser usados en casos refractarios.
+• Las emergencias durante el tercer y cuarto período del parto (alumbramiento y posalumbramiento)
+son la hemorragia puerperal, la inversión uterina (con metrorragia posparto, dolor y shock
+hipovolémico, cuyo manejo es la reposición uterina y manejo de soporte) y la retención placentaria,
+definida como la ausencia de expulsión espontánea de la placenta dentro de los 30 minutos posteriores
+al nacimiento, especialmente en el contexto de manejo activo del tercer período, cuyo manejo
+requiere analgesia o anestesia adecuada y extracción manual de la placenta.
+
+Pá gin a | 130
