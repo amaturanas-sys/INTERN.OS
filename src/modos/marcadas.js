@@ -5,6 +5,7 @@ import { navegar } from "../ui/router.js";
 import { runMcq } from "../ui/mcq.js";
 import { registrarRespuesta, registrarSesion } from "../db/stats.js";
 import { requiereImagenFaltante } from "../ui/imagen.js";
+import { icono } from "../ui/iconos.js";
 
 export async function vistaMarcadas() {
   const todas = await getAll("preguntas");
@@ -13,7 +14,7 @@ export async function vistaMarcadas() {
   if (!marcadas.length) {
     mount(el("div", { class: "card" }, [
       el("h2", { text: "Preguntas marcadas" }),
-      el("p", { class: "muted", text: "No tienes preguntas marcadas para revisar. Mientras haces el quiz puedes marcar con 🚩 las que quieras volver a ver." }),
+      el("p", { class: "muted", text: "No tienes preguntas marcadas para revisar. Durante un quiz, usa el botón «Marcar para revisar» en las que quieras volver a ver." }),
       el("button", { class: "btn btn--primary", onClick: () => navegar("") }, "Volver"),
     ]));
     return;
@@ -32,7 +33,7 @@ export async function vistaMarcadas() {
       el("div", { class: "marcadas__acc" }, [
         el("button", { class: "btn btn--ghost btn--sm",
           onClick: () => navegar(`editar/pregunta/${encodeURIComponent(q.id_unico)}`) },
-          "✎ Editar"),
+          [icono("editar", { tamano: 14 }), "Editar"]),
         el("button", { class: "btn btn--ghost btn--sm",
           onClick: async () => {
             q.marcada_revision = false;

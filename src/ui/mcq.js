@@ -1,11 +1,21 @@
 // Runner genérico de sesiones MCQ. Lo usan el Modo 1 (quiz) y el Modo 3 (definiciones).
 import { el, clear, mount, badge, toast } from "./dom.js";
+import { icono } from "./iconos.js";
 
 // Reporta fallos de persistencia al usuario; antes iban silenciados a console.
 const reportar = (etiqueta) => (e) =>
   toast(`${etiqueta}: ${(e && e.message) || "error"}`, "error");
 import { vistaImagen } from "./imagen.js";
 import { navegar } from "./router.js";
+
+function pintarBtnMarcar(btn, marcada) {
+  if (!btn) return;
+  clear(btn);
+  btn.append(
+    icono(marcada ? "marcar_lleno" : "marcar", { tamano: 14 }),
+    document.createTextNode(marcada ? "Marcada (deshacer)" : "Marcar para revisar"),
+  );
+}
 
 async function marcarParaRevisar(item, btn) {
   try {
@@ -15,7 +25,7 @@ async function marcarParaRevisar(item, btn) {
     item.onMarcarStore = item.onMarcarStore || "preguntas";
     await put(item.onMarcarStore, item._raw);
     toast(item._raw.marcada_revision ? "Marcada para revisar." : "Desmarcada.", "ok");
-    if (btn) btn.textContent = item._raw.marcada_revision ? "🚩 Marcada (deshacer)" : "🚩 Marcar para revisar";
+    pintarBtnMarcar(btn, item._raw.marcada_revision);
   } catch (e) {
     toast("No se pudo marcar: " + e.message, "error");
   }
@@ -58,7 +68,7 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
         el("div", { class: "runner__acciones" }, [
           el("button", { class: "btn btn--primary",
             onClick: () => { if (i >= items.length - 1) finalizar(); else { i++; pintar(); } } },
-            "Siguiente →"),
+            ["Siguiente", icono("flecha_derecha", { tamano: 14 })]),
         ]),
       );
       return;
@@ -118,8 +128,10 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
 
       feedback.className = `feedback feedback--visible feedback--${correcta ? "ok" : "mal"}`;
       clear(feedback);
-      feedback.appendChild(el("p", { class: "feedback__titulo",
-        text: correcta ? "✔ Correcto" : "✗ Incorrecto" }));
+      feedback.appendChild(el("p", { class: "feedback__titulo" }, [
+        icono(correcta ? "check" : "x", { tamano: 16, clase: "feedback__titulo-icono" }),
+        document.createTextNode(correcta ? "Correcto" : "Incorrecto"),
+      ]));
       if (op.feedback) feedback.appendChild(el("p", { text: op.feedback }));
       if (item.explicacion) {
         feedback.appendChild(el("p", { class: "feedback__exp", text: item.explicacion }));
@@ -147,12 +159,20 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
       if (onAnswer) Promise.resolve(onAnswer(item, correcta)).catch(reportar("No se guardó la respuesta"));
     }
 
+    const marcaInicial = !!(item._raw && item._raw.marcada_revision);
+    const btnMarcar = item.onMarcar
+      ? el("button", { class: "btn btn--ghost btn--sm",
+          onClick: (ev) => marcarParaRevisar(item, ev.currentTarget) }, [
+          icono(marcaInicial ? "marcar_lleno" : "marcar", { tamano: 14 }),
+          document.createTextNode(marcaInicial ? "Marcada (deshacer)" : "Marcar para revisar"),
+        ])
+      : null;
     const acciones = el("div", { class: "runner__acciones" }, [
       item.onEdit ? el("button", { class: "btn btn--ghost btn--sm",
-        onClick: () => item.onEdit() }, "✎ Editar/corregir") : null,
-      item.onMarcar ? el("button", { class: "btn btn--ghost btn--sm",
-        onClick: (ev) => marcarParaRevisar(item, ev.currentTarget) },
-        item._raw && item._raw.marcada_revision ? "🚩 Marcada (deshacer)" : "🚩 Marcar para revisar") : null,
+        onClick: () => item.onEdit() }, [
+          icono("editar", { tamano: 14 }), document.createTextNode("Editar/corregir"),
+        ]) : null,
+      btnMarcar,
       el("button", { class: "btn btn--ghost btn--sm", onClick: () => salir() }, "Salir"),
     ]);
 
@@ -196,7 +216,7 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
     const ultima = i === items.length - 1;
     return el("button", { class: "btn btn--primary",
       onClick: () => { if (ultima) finalizar(); else { i++; pintar(); } } },
-      ultima ? "Ver resultados" : "Siguiente →");
+      ultima ? "Ver resultados" : ["Siguiente", icono("flecha_derecha", { tamano: 14 })]);
   }
 
   function salir() {

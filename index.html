@@ -43,11 +43,26 @@
   <main id="vista" class="vista"></main>
 
   <nav class="navbar">
-    <button class="navbar__btn" data-nav=""><span>🏠</span>Inicio</button>
-    <button class="navbar__btn" data-nav="quiz"><span>📝</span>Quiz</button>
-    <button class="navbar__btn" data-nav="casos"><span>🩺</span>Casos</button>
-    <button class="navbar__btn" data-nav="definiciones"><span>💡</span>Definir</button>
-    <button class="navbar__btn" data-nav="progreso"><span>📊</span>Progreso</button>
+    <button class="navbar__btn" data-nav="" aria-label="Inicio">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12l9-9 9 9"/><path d="M5 10v10a1 1 0 0 0 1 1h3v-6h6v6h3a1 1 0 0 0 1-1V10"/></svg>
+      <span class="navbar__label">Inicio</span>
+    </button>
+    <button class="navbar__btn" data-nav="quiz" aria-label="Quiz">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2"/><rect x="9" y="3" width="6" height="4" rx="1"/><path d="M9 12h6M9 16h4"/></svg>
+      <span class="navbar__label">Quiz</span>
+    </button>
+    <button class="navbar__btn" data-nav="casos" aria-label="Casos clínicos">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M11 2v2M11 4a3 3 0 0 0-3 3v3a4 4 0 0 0 8 0V7a3 3 0 0 0-3-3"/><path d="M12 14v3a5 5 0 0 1-10 0v-2"/><circle cx="19" cy="13" r="3"/><path d="M16 13a3 3 0 0 1-4 0"/></svg>
+      <span class="navbar__label">Casos</span>
+    </button>
+    <button class="navbar__btn" data-nav="definiciones" aria-label="Definiciones">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6M10 22h4"/><path d="M12 2a7 7 0 0 0-4 12.7c.6.6 1 1.3 1 2.1v.2c0 .6.4 1 1 1h4c.6 0 1-.4 1-1v-.2c0-.8.4-1.5 1-2.1A7 7 0 0 0 12 2z"/></svg>
+      <span class="navbar__label">Definir</span>
+    </button>
+    <button class="navbar__btn" data-nav="progreso" aria-label="Progreso">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><rect x="7" y="13" width="3" height="5" rx="0.5"/><rect x="12" y="9" width="3" height="9" rx="0.5"/><rect x="17" y="5" width="3" height="13" rx="0.5"/></svg>
+      <span class="navbar__label">Progreso</span>
+    </button>
   </nav>
 
   <script type="module" src="src/app.js"></script>

@@ -5,6 +5,7 @@ import { getAll, get } from "../db/db.js";
 import { vistaImagen } from "../ui/imagen.js";
 import { navegar } from "../ui/router.js";
 import { registrarRespuesta, registrarSesion } from "../db/stats.js";
+import { icono } from "../ui/iconos.js";
 
 export async function vistaCasosLista() {
   const casos = await getAll("casos_clinicos");
@@ -20,7 +21,7 @@ export async function vistaCasosLista() {
         text: `${c.especialidad} · ${c.tema} · ${(c.etapas || []).length} etapas` }),
     ]),
     c.version_actual > 1 ? badge(`editado · v${c.version_actual}`, "badge--edit") : null,
-    el("span", { class: "lista__flecha", "aria-hidden": "true", text: "›" }),
+    icono("chevron_derecha", { tamano: 16, clase: "lista__flecha" }),
   ]));
 
   mount(el("div", { class: "card" }, [
@@ -40,7 +41,8 @@ export async function vistaCaso({ id }) {
       el("h2", { text: caso.titulo || "Caso" }),
       el("p", { class: "muted", text: "Este caso no tiene etapas cargadas. Edítalo para agregarlas." }),
       el("div", { class: "runner__acciones" }, [
-        el("button", { class: "btn btn--ghost", onClick: () => navegar(`editar/caso/${encodeURIComponent(caso.id)}`) }, "✎ Editar caso"),
+        el("button", { class: "btn btn--ghost", onClick: () => navegar(`editar/caso/${encodeURIComponent(caso.id)}`) },
+          [icono("editar", { tamano: 14 }), "Editar caso"]),
         el("button", { class: "btn btn--ghost", onClick: () => navegar("casos") }, "Volver"),
       ]),
     ]));
@@ -62,7 +64,8 @@ export async function vistaCaso({ id }) {
       el("div", { class: "runner__head" }, [
         el("div", {}, [el("h2", { text: caso.titulo }), el("p", { class: "muted", text: `Etapa ${idx + 1} de ${etapas.length} · ${etapa.tipo}` })]),
         el("button", { class: "btn btn--ghost btn--sm",
-          onClick: () => navegar(`editar/caso/${encodeURIComponent(caso.id)}`) }, "✎ Editar"),
+          onClick: () => navegar(`editar/caso/${encodeURIComponent(caso.id)}`) },
+          [icono("editar", { tamano: 14 }), "Editar"]),
       ]),
       el("div", { class: "progress" }, [el("div", { class: "progress__fill", style: `width:${(idx / etapas.length) * 100}%` })]),
       el("div", { class: "enunciado" }, [el("p", { class: "enunciado__texto", text: etapa.enunciado }), vistaImagen(etapa.imagen)]),
@@ -77,7 +80,9 @@ export async function vistaCaso({ id }) {
         el("div", { class: "runner__acciones" }, [
           el("button", { class: "btn btn--primary",
             onClick: () => { if (idx === etapas.length - 1) finalizar(); else { idx++; pintarEtapa(); } } },
-            idx === etapas.length - 1 ? "Ver resumen del caso" : "Continuar →"),
+            idx === etapas.length - 1
+              ? "Ver resumen del caso"
+              : ["Continuar", icono("flecha_derecha", { tamano: 14 })]),
         ]));
       return;
     }
@@ -101,11 +106,16 @@ export async function vistaCaso({ id }) {
         feedback.className = `feedback feedback--visible feedback--${correcta ? "ok" : "mal"}`;
         clear(feedback);
         feedback.append(
-          el("p", { class: "feedback__titulo", text: correcta ? "✔ Correcto" : "✗ Incorrecto — pero el caso continúa" }),
+          el("p", { class: "feedback__titulo" }, [
+            icono(correcta ? "check" : "x", { tamano: 16, clase: "feedback__titulo-icono" }),
+            document.createTextNode(correcta ? "Correcto" : "Incorrecto — pero el caso continúa"),
+          ]),
           op.feedback ? el("p", { text: op.feedback }) : null,
           el("button", { class: "btn btn--primary",
             onClick: () => { if (idx === etapas.length - 1) finalizar(); else { idx++; pintarEtapa(); } } },
-            idx === etapas.length - 1 ? "Ver resumen del caso" : "Continuar →"),
+            idx === etapas.length - 1
+              ? "Ver resumen del caso"
+              : ["Continuar", icono("flecha_derecha", { tamano: 14 })]),
         );
       });
       opcionesBox.appendChild(btn);
@@ -127,8 +137,10 @@ export async function vistaCaso({ id }) {
       el("ol", { class: "decisiones" }, decisiones.map((d) =>
         el("li", { class: d.correcta ? "ok" : "mal" }, [
           el("span", { class: "decisiones__tipo", text: d.tipo }),
-          el("span", { text: d.elegida }),
-          badge(d.correcta ? "✔" : "✗", d.correcta ? "badge--ok" : "badge--mal"),
+          el("span", { class: "decisiones__elegida", text: d.elegida }),
+          icono(d.correcta ? "check" : "x", { tamano: 14,
+            clase: d.correcta ? "decisiones__icono decisiones__icono--ok"
+                              : "decisiones__icono decisiones__icono--mal" }),
         ]))),
       el("div", { class: "resumen-final" }, [el("h3", { text: "Evaluación global" }), el("p", { text: caso.resumen_final })]),
       el("div", { class: "runner__acciones" }, [
