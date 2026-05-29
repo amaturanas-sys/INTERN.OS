@@ -1,0 +1,158 @@
+name: Build Android APK (TWA)
+
+# Compila el PWA en un APK firmado usando Bubblewrap (Trusted Web Activity).
+# El APK envuelve https://amaturanas-sys.github.io/INTERN.OS/ y se firma con el
+# keystore subido como secret KEYSTORE_BASE64.
+#
+# Se dispara manualmente desde Actions o automáticamente al pushear un tag vX.Y.Z.
+on:
+  workflow_dispatch:
+    inputs:
+      version_code:
+        description: "Android versionCode (entero, incremental por release)"
+        required: false
+        default: "1"
+      version_name:
+        description: "versionName (vacío = usa el VERSION del repo)"
+        required: false
+        default: ""
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build signed APK + AAB
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Java 17 (Temurin)
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Setup Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
+        with:
+          cmdline-tools-version: "11076708"
+
+      - name: Aceptar licencias del SDK
+        run: yes | sdkmanager --licenses >/dev/null 2>&1 || true
+
+      - name: Instalar Bubblewrap CLI
+        run: npm install -g @bubblewrap/cli@latest
+
+      - name: Preparar versión (versionName / versionCode)
+        id: ver
+        run: |
+          INPUT_NAME='${{ github.event.inputs.version_name }}'
+          if [ -z "${INPUT_NAME}" ]; then
+            APP_VERSION=$(cat VERSION | tr -d '[:space:]')
+          else
+            APP_VERSION="${INPUT_NAME}"
+          fi
+          INPUT_CODE='${{ github.event.inputs.version_code }}'
+          VERSION_CODE="${INPUT_CODE:-1}"
+          # Si se dispara por tag vX.Y.Z y no se forzó versionCode, calculamos un
+          # versionCode estable a partir del run_number del workflow.
+          if [ "${INPUT_CODE}" = "1" ] && [ "${{ github.event_name }}" = "push" ]; then
+            VERSION_CODE="${{ github.run_number }}"
+          fi
+          echo "version_name=${APP_VERSION}" >> "$GITHUB_OUTPUT"
+          echo "version_code=${VERSION_CODE}" >> "$GITHUB_OUTPUT"
+          echo "Compilando APK v${APP_VERSION} (versionCode ${VERSION_CODE})"
+
+      - name: Preparar workspace TWA + decodificar keystore
+        env:
+          KEYSTORE_BASE64: ${{ secrets.KEYSTORE_BASE64 }}
+        run: |
+          mkdir -p twa
+          cp twa-manifest.json twa/twa-manifest.json
+          # Inyectar versionName + versionCode en el manifest
+          node -e "
+            const fs = require('fs');
+            const p = './twa/twa-manifest.json';
+            const m = JSON.parse(fs.readFileSync(p, 'utf8'));
+            m.appVersionName = '${{ steps.ver.outputs.version_name }}';
+            m.appVersion = '${{ steps.ver.outputs.version_name }}';
+            m.appVersionCode = parseInt('${{ steps.ver.outputs.version_code }}', 10);
+            fs.writeFileSync(p, JSON.stringify(m, null, 2));
+          "
+          # Decodificar keystore desde el secret
+          if [ -z "${KEYSTORE_BASE64}" ]; then
+            echo "::error::Falta secret KEYSTORE_BASE64"
+            exit 1
+          fi
+          echo "${KEYSTORE_BASE64}" | base64 -d > twa/android.keystore
+          ls -la twa/
+
+      - name: Generar proyecto Android (bubblewrap update)
+        working-directory: twa
+        env:
+          BUBBLEWRAP_KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
+          BUBBLEWRAP_KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
+        run: |
+          # `update` regenera el proyecto Android a partir de twa-manifest.json.
+          # Si no existe estructura previa, intentamos un `init` no-interactivo
+          # como fallback (acepta defaults del manifest web).
+          if ! bubblewrap update --skipVersionUpgrade 2>&1 | tee update.log; then
+            echo "update falló, intentando init no-interactivo..."
+            cat update.log
+            mv twa-manifest.json ../twa-manifest.json.tmp
+            yes "" | bubblewrap init \
+              --manifest=https://amaturanas-sys.github.io/INTERN.OS/manifest.webmanifest \
+              --skipPwaValidation || true
+            mv ../twa-manifest.json.tmp twa-manifest.json
+            bubblewrap update --skipVersionUpgrade
+          fi
+
+      - name: Compilar APK + AAB firmados
+        working-directory: twa
+        env:
+          BUBBLEWRAP_KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
+          BUBBLEWRAP_KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
+        run: |
+          bubblewrap build --skipPwaValidation
+          ls -la *.apk *.aab 2>/dev/null || true
+
+      - name: Renombrar artefactos con versión
+        working-directory: twa
+        run: |
+          V="${{ steps.ver.outputs.version_name }}"
+          C="${{ steps.ver.outputs.version_code }}"
+          [ -f app-release-signed.apk ] && cp app-release-signed.apk "internos-${V}-${C}.apk"
+          [ -f app-release-bundle.aab ] && cp app-release-bundle.aab "internos-${V}-${C}.aab"
+          ls -la internos-*.apk internos-*.aab 2>/dev/null || true
+
+      - name: Subir APK + AAB como artefactos
+        uses: actions/upload-artifact@v4
+        with:
+          name: internos-v${{ steps.ver.outputs.version_name }}-${{ steps.ver.outputs.version_code }}
+          path: |
+            twa/internos-*.apk
+            twa/internos-*.aab
+          retention-days: 90
+          if-no-files-found: error
+
+      - name: Mostrar SHA256 del APK (para verificación)
+        working-directory: twa
+        run: |
+          for f in internos-*.apk; do
+            [ -f "$f" ] || continue
+            echo "=== $f ==="
+            sha256sum "$f"
+            stat -c "Size: %s bytes" "$f"
+          done

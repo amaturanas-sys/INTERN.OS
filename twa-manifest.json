@@ -1,0 +1,66 @@
+{
+  "packageId": "cl.internos.app",
+  "host": "amaturanas-sys.github.io",
+  "name": "InternOS — Estudio EUNACOM offline",
+  "launcherName": "InternOS",
+  "display": "standalone",
+  "themeColor": "#1a1208",
+  "themeColorDark": "#1a1208",
+  "navigationColor": "#1a1208",
+  "navigationColorDark": "#1a1208",
+  "navigationDividerColor": "#1a1208",
+  "navigationDividerColorDark": "#1a1208",
+  "backgroundColor": "#e0d8c0",
+  "enableNotifications": false,
+  "startUrl": "/INTERN.OS/index.html",
+  "iconUrl": "https://amaturanas-sys.github.io/INTERN.OS/assets/icon-512.png",
+  "maskableIconUrl": "https://amaturanas-sys.github.io/INTERN.OS/assets/icon-maskable-512.png",
+  "appVersionName": "1.5.0",
+  "appVersion": "1.5.0",
+  "appVersionCode": 1,
+  "shortcuts": [
+    {
+      "name": "Sesión veloz",
+      "shortName": "Veloz",
+      "url": "/INTERN.OS/index.html#/",
+      "chosenIconUrl": "https://amaturanas-sys.github.io/INTERN.OS/assets/icon-192.png",
+      "chosenIconSize": 192
+    },
+    {
+      "name": "Quiz por temas",
+      "shortName": "Quiz",
+      "url": "/INTERN.OS/index.html#/quiz",
+      "chosenIconUrl": "https://amaturanas-sys.github.io/INTERN.OS/assets/icon-192.png",
+      "chosenIconSize": 192
+    },
+    {
+      "name": "Casos clínicos",
+      "shortName": "Casos",
+      "url": "/INTERN.OS/index.html#/casos",
+      "chosenIconUrl": "https://amaturanas-sys.github.io/INTERN.OS/assets/icon-192.png",
+      "chosenIconSize": 192
+    },
+    {
+      "name": "Definiciones",
+      "shortName": "Definir",
+      "url": "/INTERN.OS/index.html#/definiciones",
+      "chosenIconUrl": "https://amaturanas-sys.github.io/INTERN.OS/assets/icon-192.png",
+      "chosenIconSize": 192
+    }
+  ],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://amaturanas-sys.github.io/INTERN.OS/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": { "enabled": false },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://amaturanas-sys.github.io/INTERN.OS/",
+  "minSdkVersion": 21,
+  "orientation": "any",
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "internos-release"
+  }
+}
