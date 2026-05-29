@@ -93,7 +93,7 @@ p { margin: 0 0 8px; }
 }
 .topbar__brand { background: none; border: 0; cursor: pointer; padding: 4px; display: flex; align-items: center; border-radius: 8px; transition: background var(--t-fast); }
 .topbar__brand:hover { background: var(--bg-2); }
-.topbar__logo { height: 32px; width: auto; display: block; }
+.topbar__logo { height: 36px; width: auto; display: block; }
 
 /* === Vista === */
 .vista {
@@ -118,7 +118,7 @@ p { margin: 0 0 8px; }
 /* === Home === */
 .home__hero { padding: 4px 2px 14px; }
 .home__hero-titulo { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
-.home__logo { height: 56px; width: auto; display: block; border-radius: 14px; }
+.home__logo { height: 64px; width: auto; display: block; }
 .home__version {
   font-size: 11px; color: var(--muted); border: 1px solid var(--line);
   padding: 3px 9px; border-radius: 999px;
@@ -557,7 +557,7 @@ textarea { resize: vertical; line-height: 1.5; }
   display: grid; place-content: center; justify-items: center; gap: 16px;
   background: var(--bg);
 }
-.splash__logo { height: 120px; width: auto; display: block; border-radius: 24px; box-shadow: var(--shadow-md); }
+.splash__logo { height: auto; width: min(72vw, 480px); display: block; }
 .splash__version { font-family: ui-monospace, monospace; font-size: 11px; color: var(--muted); margin: 4px 0 12px; }
 .spinner {
   width: 32px; height: 32px;
