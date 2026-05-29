@@ -1,0 +1,440 @@
+Capítulo 20.
+ROTURA PREMATURA DE MEMBRANAS (RPM o RPO)
+La rotura prematura de membranas (RPM), o rotura prematura ovular (RPO), se define como la
+solución de continuidad espontánea de las membranas amnióticas (amnios y corion) antes de que comience
+el trabajo de parto, independiente de la edad gestacional (Figura 1). La RPO que ocurre antes de las 37
+semanas se denomina Rotura Prematura de Pretérmino de Membranas (RPPM). El período de latencia (lapso
+entre la rotura de membranas y el inicio del trabajo de parto) se relaciona con la edad gestacional, siendo
+mayor en los embarazos de pretérmino (más de 48 h en el 50% de los casos) que en los embarazos de término
+(menos de 24 h en el 90% de los casos).
+La RPO se presenta en aproximadamente el 10% de los embarazos de término (≥37 semanas),
+mientras que en los embarazos de menos de 37 semanas la incidencia es de un 2-3,5%. La RPPM es la causa
+de 1/3 de los partos prematuros.
+La causa de la RPO se desconoce en la
+mayoría de los casos, especialmente al término del
+embarazo. Por el contrario, la infección
+intraamniótica es la causa demostrable en un 30% de
+los de casos de RPPM.
+Los riesgos en relación con la RPO se
+relacionan principalmente con la infección (materna
+y fetal) y la prematurez; a menor EG de ocurrencia de
+la RPO, mayores son las complicaciones. La EG es de
+suma importancia para el manejo de la RPO, siendo
+preciso determinar si el riesgo para el feto es mayor
+en el ambiente intrauterino o extrauterino. En ciertas
+condiciones será mejor permitir que el feto siga
+creciendo dentro del útero, asumiendo los riesgos de
+la RPO; en otros casos es mejor inducir el parto y
+manejar los riesgos de la prematurez en la unidad de
+neonatología. En términos generales, el balance está
+en las 34 semanas de edad gestacional, de modo que
+en RPO antes de las 34 semanas el manejo es
+expectante y después de las 34 semanas el manejo es
+la interrupción del embarazo.
+Factores de Riesgo de RPO
+• RPO previa
+• Infección intrauterina, principalmente en prematuros
+• Metrorragia del segundo y tercer trimestre
+• Parto prematuro previo
+• Tabaquismo crónico
+• Enfermedades del tejido conectivo (Ehlers-Danlos)
+• Conización
+• Cerclaje
+• Enfermedad pulmonar crónica
+• Sobredistensión uterina (PHA, embarazo múltiple)
+• Amniocentesis o cordocentesis
+• Embarazo con DIU
+
+Clínica de la RPO
+El síntoma típico es la pérdida de líquido acuoso por
+vagina, que puede ser abundante o intermitente. El olor,
+clásicamente descrito como olor a cloro, no es un criterio
+diagnóstico confiable. En el examen con espéculo puede
+observarse líquido en vagina y/o salida a través del orificio
+cervical externo, espontánea o con maniobras como
+Valsalva.
+Diagnóstico de RPO
+A. Diagnóstico Clínico:
+• Anamnesis: si la historia es característica, y el examen
+físico categórico, el diagnóstico se formula con estos dos antecedentes.
+• Examen de los genitales externos: puede observarse una cantidad variable de líquido amniótico
+escurriendo de forma espontánea, luego de una maniobra de Valsalva o después de la movilización del
+polo fetal que ocupa la pelvis materna.
+• Especuloscopía: se debe identificar el cuello y observar la salida de líquido amniótico por el orificio
+cervical externo (OCE). Aparte de verificar la salida de LA, la especuloscopía sirve para determinar si existe
+dilatación del cuello uterino. En sospecha de RPPM se debe evitar el tacto vaginal digital porque se asocia
+a mayor riesgo de infección ascendente y a reducción del período de latencia; por ello, la evaluación
+cervical debe hacerse preferentemente con espéculo, reservando el tacto digital para situaciones en que
+sea estrictamente necesario (p. ej., trabajo de parto). En la RPO a término se hará un TV para determinar
+si la paciente está o no en trabajo de parto, y definir el método de inducción.
+B. Pruebas complementarias
+• Test de cristalización: el contenido de sales, proteínas y mucina presentes en el líquido amniótico hace
+que, al secarse, las sales cristalicen en forma de “hojas de helecho” (Figura 2). Se toma una muestra de
+LA del fondo de saco, no del cuello, y se esparce sobre un portaobjeto; se deja secar el LA y se observa al
+microscopio. La prueba de cristalización tiene una sensibilidad cercana a 98%, y especificidad 78%, con
+un 5% de falsos positivos. Falsos positivos: semen,
+mucus cervical, sudor. La prueba de cristalización es
+la prueba de elección para el diagnóstico de RPO.
+• Test de nitrazina (pH): se basa en el viraje de
+color amarillo a azul que sufre una cinta reactiva de
+nitrazina cuando es expuesta a un pH mayor de 6
+(Figura 2). El pH vaginal habitual es ácido (pH 4,5 –
+6), y el del líquido amniótico es más alcalino (pH 7.1
+- 7.3). Se obtiene una muestra del fondo de saco
+vaginal, y si hay líquido amniótico, la cinta virará a
+color azul. La sensibilidad de la prueba es cercana al
+90%, y sus falsos positivos pueden alcanzar el 20%.
+Falsos positivos: gel para ultrasonido, sangre,
+leucorrea por vaginosis bacteriana, semen, orina
+alcalina, o antisépticos alcalinos.
+• Ultrasonido: si la historia clínica es muy
+sugerente de RPO, pero el examen físico no concuerda, detectar OHA en la ecografía permite confirmar
+el diagnóstico de RPO, si se ha descartado RCF y malformaciones del tracto urinario como causa del OHA.
+
+• Detección de células naranjas: esta prueba se realiza mezclando una gota de LA obtenido desde el fondo
+de saco con una gota de azul de Nilo. La observación al microscopio permite observar células descamadas
+de la piel fetal, las que se tiñen de color naranja. No se recomienda su utilización para el diagnóstico de
+la RPO antes de las 37 semanas.
+• Inyección de colorantes vitales: se realiza la instilación de
+colorantes al LA, tales como índigo carmín o azul de Evans,
+mediante amniocentesis. Si las membranas están rotas, se
+evidenciará salida de colorante azul por la vagina al indicar la
+deambulación, usando un apósito vaginal. No se debe usar azul
+de metileno, ya que causa hiperbilirrubinemia y anemia
+hemolítica en el RN. Se trata de una prueba invasiva, rara vez
+usada, pero es especialmente útil en el diagnóstico de RPO en
+el segundo trimestre, en que no es fácil diferenciar de una
+agenesia renal. La infusión de líquido permitirá mejor
+visualización de la anatomía fetal, y al mismo tiempo, vigilar la
+salida del colorante por los genitales.
+• Detección de alfa-microglobulina 1 placentaria (PAMG-1):
+Amnisure® (Figura 3). Es una prueba rápida, de tipo
+inmunocromatográfico, que detecta esta proteína que en
+condiciones normales está ausente del flujo vaginal, pero si
+presente en el líquido amniótico. El procedimiento no requiere
+especuloscopía, sino que simplemente la introducción de la
+tórula en la vagina (1 min), para la toma de la muestra.
+• Detección de proteína de unión al factor de crecimiento
+similar a insulina tipo 1 (IGFBP-1): Actim® PROM (Figura 4). Es
+otra prueba rápida inmunocromatográfica específica para una
+proteína solo presente en el líquido amniótico; la toma de
+muestra es similar a la descrita para Amnisure. Los
+inmunoensayos (PAMG-1/Amnisure®, IGFBP-1/Actim® PROM)
+suelen mostrar alta sensibilidad y especificidad en estudios
+clínicos, pero no son infalibles y su rendimiento puede variar
+según el contexto (p. ej., sangrado, infección, tiempo desde la
+rotura, prevalencia). Se recomiendan principalmente cuando el diagnóstico clínico con espéculo y
+pruebas tradicionales es equívoco.
+Diagnóstico Diferencial RPO
+• Leucorrea
+• Incontinencia urinaria
+• Tapón mucoso
+• Rotura de bolsa amniocorial: salida de líquido desde el espacio virtual entre corion y amnios.
+• Hidrorrea decidual: ocurre en embarazos < 20 sem, corresponde a la pérdida de líquido claro con tinte
+amarillo, a veces sanguinolento, desde el espacio entre decidua parietal y refleja, que se fusionan entre
+las 16 y 18 semanas
+• Rotura de quiste vaginal
+Complicaciones de la RPO
+• Prematurez y todas sus consecuencias
+• Infección perinatal (materna y fetal)
+• Compresión o procidencia del cordón umbilical
+• Desprendimiento prematuro de placenta normoinserta (DPPNI)
+• Alto riesgo de hipoplasia pulmonar (RPPM < 24 semanas)
+
+RPPM y Parto Prematuro
+La principal complicación de la RPO es el parto prematuro. El período de latencia (tiempo entre la
+rotura de membranas y el parto) es inversamente proporcional a la EG en que ocurre la RPO. En mujeres con
+RPO al término del embarazo, el 95% tiene el parto dentro de las 24 horas de la rotura de membranas. Cuando
+se produce una RPPM el período de latencia puede en ocasiones ser muy largo (meses), o bien llevar en un
+significativo número de casos a un parto prematuro, ocasionando muerte o enfermedad neonatal.
+Si la RPPM se produce antes de las 23-24 semanas (previable), la sobrevida perinatal sólo es posible
+si se logra la prolongación del embarazo, variando entre 2-54%, siendo más alta mientras mayor es la EG en
+la que ocurre la RPPM. En estos casos, la ausencia de oligohidroamnios (OHA) y una mayor latencia al parto
+se asocian a mejor pronóstico. La morbilidad y secuelas a largo plazo son muy altas en los niños que sobreviven
+luego de una RPPM previable; la incidencia de alteraciones pulmonares que requirieran intubación y
+ventilación mecánica es mayor al 80% de los casos y el 70% de las muertes neonatales se debe a SDR e
+hipoplasia pulmonar. Todas las otras complicaciones de la prematurez se presentan con elevada frecuencia, y
+su presencia es creciente a menor edad gestacional al momento del parto. Prácticamente un 50% de los
+sobrevivientes presenta alteraciones crónicas producto de la prematurez y un 50% alteraciones del desarrollo
+neurológico
+La RPPM previable se asocia a
+malformaciones plásticas y anomalías por
+compresión, pudiendo derivar en un “Síndrome de
+Potter” (hipoplasia pulmonar, deformidad de las
+extremidades y alteración de la cara), el que se
+presenta en el 50% de los RN con RPPM ≤ 19
+semanas.
+En la Red UC existe sobrevida desde 23-24
+semanas, aproximadamente 400 gr de peso. Los
+prematuros extremos concentran patologías de
+mayor gravedad, como ductus arterioso persistente,
+SDR, HIC, sepsis neonatal, ECN, osteopenia del
+prematuro, fibroplasia retrolental, displasia
+broncopulmonar o morbilidad neurológica, por
+ejemplo, anormalidades de las funciones cognitivas, leucomalacia periventricular y parálisis cerebral. Desde
+las 28 semanas en adelante la sobrevida es casi 100%, y patologías como hemorragia intracraneana y sepsis
+se vuelven menos frecuentes (20%). El SDR por EMH reduce progresivamente su frecuencia, y después de las
+34 semanas es prácticamente inexistente (Figura 5). Después de las 34 semanas existe un riesgo muy reducido
+de morbilidad, aunque no es cero; los prematuros tardíos sufren patologías leves, como depresión neonatal,
+taquipnea transitoria, alteraciones de la termorregulación, alteraciones hidroelectrolíticas y trastornos
+metabólicos.
+RPO e Infección Perinatal
+Otra de las principales complicaciones de la RPO son las infecciones, cuyo proceso a veces puede
+explicar la ocurrencia de la misma rotura de membranas. La infección intraamniótica (IIA) estaría presente en
+30-50% de las RPPM y en un 4-16% de las RPO de término. Se estima que entre 20 y 30% de los recién nacidos
+prematuros de madres con RPO presentarán sepsis neonatal. Adicionalmente, la IIA está directamente ligada
+con el riesgo de daño neurológico; en los fetos con IIA aumenta el riesgo de leucomalacia periventricular y de
+parálisis cerebral.
+La infección uterina, especialmente en el caso de RPPM es ascendente, es decir los gérmenes
+provienen de la vagina, desde allí pueden infectar la interfase coriodecidual, el líquido amniótico o el feto (por
+deglución del LA infectado). Ver Capítulo 23. CORIOAMNIONITIS – INFECCIÓN INTRA AMNIÓTICA (IIA).
+Las consecuencias perinatales de la infección son múltiples, causando depresión neonatal,
+encefalopatía, distrés intraparto, prematurez, y muerte fetal/neonatal. La respuesta inflamatoria fetal es
+responsable de las consecuencias a largo plazo, principalmente porque se asocia a morbilidad y mortalidad
+
+neonatal aguda y crónica, y a daños severos en el SNC (alteraciones visuales, trastornos del comportamiento
+y cognitivos) que pueden llevar a parálisis cerebral.
+Para la madre, la infección perinatal en el contexto de RPO, significa un aumento de la endometritis
+puerperal, cuadro habitualmente leve, pero potencialmente grave e incluso letal si no es bien diagnosticado
+y manejado. La corioamnionitis clínica ocurre en un 20-60% de los casos; la fiebre posparto entre 20-40% y la
+endometritis puerperal 20% (incidencia de endometritis reportada luego de partos de término sin RPO 1,6%).
+El desprendimiento prematuro de placenta normo inserta (DPPNI) ocurre en 5-10% y hemorragia posparto
+10%. En general no se reportan muertes maternas asociadas a este cuadro.
+Microbiología del LA en RPO de pretérmino (RPPM)
+• Mycoplasma/Ureaplasma: 50% de los cultivos positivos • Streptococcus viridans
+• Gardnerella vaginalis • Fusobacterium sp
+• Flora anaerobia mixta • Streptococcus agalactiae
+• Escherichia coli • Klebsiella sp
+• Cándida albicans: principalmente en embarazos con DIU o cerclaje.
+TRATAMIENTO DE LA ROTURA PREMATURA DE MEMBRANAS
+Manejo Inicial de la RPO
+Efectuado el
+diagnóstico de RPO (Figura 6),
+el manejo dependerá
+principalmente de la edad
+gestacional y de la condición
+materna y fetal. Conocer con
+precisión la edad gestacional
+permite estimar el pronóstico
+considerando los riesgos de
+sobrevida y morbilidad
+asociada y decidir si el manejo
+será la interrupción del
+embarazo (> 34 semanas), o un
+manejo expectante (< 34
+semanas).
+Si bien el valor de
+corte en 34 semanas ha sido el
+manejo clásico para RPPM
+indicando a qué mujeres
+someter a manejo expectante y
+a cuáles indicar la interrupción
+del embarazo, información
+reciente ha puesto en duda
+este uso habitual. Un estudio
+prospectivo randomizado
+reciente demostró el beneficio
+del manejo expectante de la
+RPPM entre las 34+0 y 36+6
+semanas (sin signos de infección), observando que aquellos casos con manejo expectante tuvieron menor tasa
+de SDR, menor uso de ventilación mecánica y menor estadía en UCI neonatal comparado con aquellos en que
+se interrumpió el embarazo al alcanzar las 34 semanas. El grupo asignado a manejo expectante presentó
+mayor riesgo de hemorragia periparto, mayor riesgo de fiebre intraparto, más necesidad de uso de
+antibióticos y menor tasa de cesáreas. Debido a esta nueva información, y al momento de la publicación de
+
+este Manual 2020, nuestro grupo ha reanalizado su manejo de la RPPM entre 34+0 y 36+6 semanas como se
+verá más adelante.
+1. Diagnóstico de bienestar fetal: al momento del ingreso se hará un RBNE y una ecografía, para
+estimar el volumen del líquido amniótico y el peso fetal. Si existe restricción de crecimiento fetal (RCF) se hará
+un Doppler de arteria umbilical. Si se demuestra bienestar fetal, y la EG es menor de 34 semanas, el manejo
+expectante es posible.
+Malformaciones fetales incompatibles con la vida (ej. trisomía 13 y 18) o la demostración de deterioro
+de la unidad feto placentaria, son contraindicaciones al manejo expectante y debe procederse a la
+interrupción del embarazo.
+2. Diagnóstico de la condición materna: se analizará la historia clínica del embarazo y el estado
+materno actual en búsqueda de patologías del embarazo y especialmente infección intrauterina. Al ingreso
+solicitar: hemograma, VHS, PCR, urocultivo y cultivos cervicovaginales; en caso de fiebre, solicitar
+hemocultivos.
+La presencia de enfermedad materna grave puede favorecer la interrupción del embarazo más que
+el manejo expectante, pese a la edad gestacional (ej. preeclampsia severa).
+La invasión microbiana de la cavidad amniótica puede ser asintomática o manifestarse por síntomas
+leves en la madre o leucocitosis sin otra signo o síntoma; en caso de dudas será necesaria una amniocentesis
+(AMCT) para estudiar el líquido amniótico y comprobar o descartar la invasión microbiana. Se ha establecido
+que es posible el manejo de la invasión microbiana de la cavidad amniótica mediante antibióticos
+administrados a la embarazada como se verá más adelante en este capítulo.
+En casos más categóricos, la invasión microbiana de la cavidad amniótica se manifestará como una
+corioamnionitis clínica (ver Capítulo 23. CORIOAMNIONITIS – INFECCIÓN INTRA AMNIÓTICA (IIA)), en ese caso
+es necesario interrumpir el embarazo independiente de la edad gestacional.
+3. Diagnóstico de trabajo de parto: muchas de las mujeres con RPO iniciarán prontamente el trabajo
+de parto, de modo que al momento de consultar es imprescindible evaluar esta posibilidad. Debe omitirse el
+tacto vaginal en casos de RPPM, pues se asocia a mayor riesgo de infección y menor intervalo al parto; la
+evaluación del cuello uterino se hará mediante especuloscopía. Obviamente si la paciente presenta
+contracciones uterinas intensas y dolorosas o sensación de pujo, sugerentes de un trabajo de parto avanzado,
+será necesario hacer un TV usando guantes estériles. El trabajo de parto en la RPM se considera como un
+mecanismo de defensa, por lo que no se debe intentar detener el parto, es decir, la RPPM es contraindicación
+a la tocolisis.
+4. Amniocentesis: como se indicó al inicio de este capítulo, la infección intraamniótica puede ser la
+causa subyacente de un gran porcentaje de las RPPM (30% aproximadamente). Adicionalmente, la infección
+o invasión microbiana de la cavidad amniótica puede desarrollarse secundariamente a la RPPM. La invasión
+microbiana de la cavidad amniótica desencadena una respuesta fetal a la infección, lo que es posible detectar
+midiendo la presencia (elevación) de citoquinas inflamatorias en el líquido amniótico, como interleuquina 6
+(IL-6) o metaloproteinasa 8 (MMP-8). A la presencia de gérmenes en el líquido amniótico, detectados por
+cultivo o PCR (reacción en cadena de la polimerasa) lo denominamos invasión microbiana de la cavidad
+amniótica (IIA). A la elevación de citoquinas en el líquido amniótico, lo denominamos inflamación
+intraamniótica. Ambos procesos, invasión microbiana e inflamación, pueden presentarse juntos o separados.
+Se ha demostrado que en presencia de IIA y/o de inflamación, el resultado perinatal es peor, lo que
+justifica que a todas las mujeres con RPPM se efectúe una AMCT para estudiar el líquido amniótico y confirmar
+o descartar IIA y/o inflamación. Como se verá más adelante, el manejo antibiótico de las mujeres con RPPM
+es diferente dependiendo de la existencia o no de IIA o inflamación, y del tipo de gérmenes aislados.
+Manejo Según Edad Gestacional al Momento de la RPO
+Ante el diagnóstico de RPO, el manejo de la paciente se hará hospitalizada y se decidirá interrupción
+del embarazo o manejo expectante según la edad gestacional como se observa a continuación.
+
+RPO 14 - 24 SEMANAS (ANTES DE LA VIABILIDAD)
+La RPPM pre-viabilidad se refiere a la que acontece antes del límite de viabilidad neonatal
+establecida, que en nuestro hospital corresponde a las 23-24 semanas de gestación. Si bien es cierto, la
+pérdida del embarazo ocurre rápidamente en un 50-70% de los casos, se reportan sobrevidas entre un 2 y un
+54% de los casos de RPO previable; entre los niños que sobreviven existe una elevada tasa de hipoplasia
+pulmonar y deformidades secundarias al oligoamnios (OHA) mantenido.
+La incidencia de RPPM antes de las 24 semanas es baja (0,37%), y se asocia a complicaciones maternas
+y fetales significativas. Gracias a los avances en medicina neonatal, el pronóstico de los recién nacidos post
+RPPM pre-viabilidad ha mejorado, y el manejo expectante de esta patología ha cobrado mayor interés. La
+incidencia de corioamnionitis clínica es entre un 20-60%, y la endometritis puerperal se presenta en el 20%
+de los casos.
+El manejo de las pacientes con RPM antes de la viabilidad no se ha establecido en base a sólida
+evidencia científica, generando gran heterogeneidad de las intervenciones utilizadas como parte del manejo
+expectante; incluso, en muchas partes del mundo se plantea la interrupción del embarazo ante el diagnóstico
+de RPPM pre-viabilidad, debido al pronóstico reservado para el feto/recién nacido.
+Manejo
+• El manejo es con la paciente hospitalizada, dado el alto riesgo de complicaciones maternas y fetales. Solo
+en casos seleccionados, para contención de costos, autorizamos el manejo ambulatorio luego de una
+hospitalización inicial, con re-hospitalización a las 24 semanas (Figura 7).
+• Cultivos cervicovaginales y amniocentesis al ingreso para orientar el tratamiento antibiótico.
+• Evaluación seriada del bienestar materno: clínica y laboratorio (hemograma, VHS, PCR dos veces por
+semana).
+• Uso de antibióticos profilácticos de rutina. Su uso se asocia a mayor latencia al parto y mejorar la
+sobrevida perinatal. Se indica un curso de ampicilina y eritromicina oral por 10 días. Este esquema se
+puede ajustar según el resultado de los cultivos cervicovaginales o del líquido amniótico.
+• Si se detecta IIA o inflamación, el esquema antibiótico debe ser ampliado a la espera del resultado de los
+cultivos. En este caso sugerimos usar: Ceftriaxona + Metronidazol + Claritromicina.
+• No debe usar tocolisis ni corticoides. Los corticoides serán administrados cuando se alcance la viabilidad
+y se anticipe que se producirá el parto.
+
+RPO ENTRE LAS 24-34 SEMANAS
+La RPPM entre las 24-34 semanas tiene como principal complicación la prematurez; si bien a esta
+edad el recién nacido puede sobrevivir, muchos de ellos no lo hacen, y los sobrevivientes tiene graves
+secuelas, las que disminuyen a mayor edad gestacional (Figura 5). Si bien la existencia de la RPO aumenta el
+riesgo de infección intrauterina, comprometiendo el bienestar y la vida del feto, el riesgo a esta edad
+gestacional es menor in útero que fuera de él, por lo que el manejo es expectante (Figura 8).
+Manejo
+• El manejo es con la paciente hospitalizada
+• Evaluación clínica: se debe efectuar periódicamente examen físico y evaluar los signos vitales, en
+búsqueda de taquicardia materna, aumento de la temperatura, contracciones uterinas u otros signos
+sugerentes de corioamnionitis. Los latidos cardíacos fetales se auscultan rutinariamente 2 o 3 veces al
+día.
+• Amniocentesis: al momento del ingreso se efectuará una amniocentesis para evaluar la presencia de
+gérmenes y de inflamación. La presencia de gérmenes se estudiante mediante cultivos (aerobio,
+anaerobio y Micoplasma/Ureaplasma) y PCR (reacción en cadena de la polimerasa). A la espera de los
+resultados del cultivo, se efectúa estudio citoquímico (glucosa, recuento de leucocitos, LDH) y Gram. La
+presencia de inflamación se estudia midiendo IL-6 y/o MMP-8. Para ver los valores normales del estudio
+citoquímico, puedes revisar el capítulo 19. PARTO PREMATURO. Si por dificultad técnica no se logra
+AMCT, se tratará como infección.
+• Corticoides: al momento del ingreso se indicarán corticoides para inducción de madurez pulmonar. Los
+corticoides se repetirán según necesidad, evitando la repetición semanal si no existe inminencia de
+interrupción del embarazo. El uso de corticoides antenatales en mujeres con RPO 24-34 semanas reduce
+el riesgo de SDR, EMH; HIC, ECN y mortalidad neonatal.
+• Antibióticos: todas las pacientes deben recibir antibióticos, pues su uso rutinario en mujeres con RPPM
+prolonga el período de latencia y disminuye el riesgo de corioamnionitis, sepsis neonatal, HIC, necesidad
+
+de uso de surfactante y requerimiento de oxígeno. El esquema antibiótico de elección es la Eritromicina,
+siendo un curso de 10 días con este antibiótico (500 mg c/6 horas, vía oral) más Ampicilina (500 mg /6
+horas ev x 48 horas y luego oral) para mejorar la cobertura sobre el estreptococo grupo B. Otra alternativa
+que ha de mostrado la misma eficacia es azitromicina 1gr por una vez y ampicilina 500 mg c/6 h ev x 48
+horas, seguido por amoxicilina hasta completar 7 días.
+En caso de alergia a la penicilina la mejor opción es reemplazar la ampicilina por una cefalosporina, si esto
+no es posible el esquema es con clindamicina 900 mg c/8 h por 48 horas + gentamicina 240 mg/día ev por
+48 horas, luego clindamicina 300 mg c/8 h para completar los 7 días. En ambos casos siempre asociado a
+la eritromicina o azitromicina.
+Si la AMCT muestra IIA o inflamación, el esquema antibiótico debe ser triasociado: Ceftriaxona (2 gr/día
+e.v.) + Metronidazol (500 mg/8 h e.v.) + Claritromicina (500 mg/12 h v.o.). Este esquema se ajustará según
+el resultado de los cultivos del líquido amniótico y/o cervicovaginales. En todo caso, el esquema
+antibiótico siempre debe tener cobertura para Ureaplasma/Mycoplasma. En estos casos de IIA y/o
+inflamación, la AMCT debe repetirse al término del tratamiento, y el manejo de la paciente debe ser
+reevaluado según los resultados de esta nueva evaluación.
+• Cultivos cervicovaginales al ingreso para orientar el manejo antibiótico. Los cultivos pueden repetirse
+cada 2 semanas, aunque no existe suficiente evidencia para hacer de esto una conducta rutinaria.
+• Evaluación bienestar materno: hemograma, VHS y PCR 2 veces por semana. Hay que tener en cuenta que
+los corticoides pueden producir una leve leucocitosis.
+• Evaluación del bienestar fetal: al ingreso se hará una detallada ecografía (descartar malformaciones) y
+biometría (la estimación de peso permite orientar el manejo y preparar la unidad de cuidados
+neonatales). La biometría se repite cada 2 semanas, y se efectuará Doppler de arteria umbilical y/o perfil
+biofísico según cada caso. La presencia de OHA se asocia a menor latencia al parto y peor resultado
+perinatal. La ausencia de movimientos respiratorios en el PBF es el parámetro más asociado a infección
+intraamniótica. Con frecuencia efectuamos un RBNE diario, especialmente en fetos mayores de 28
+semanas.
+• Evitar tacto vaginal a menos que sea estrictamente necesario, por ejemplo, si se sospecha que la paciente
+está en trabajo de parto. Efectuar un tacto vaginal en mujeres con RPPM aumenta la morbilidad infecciosa
+materna y neonatal; aumenta el riesgo de muerte neonatal y disminuye el periodo de latencia.
+RPM EN EG > 34 SEMANAS
+Como se indicó al inicio de este capítulo, evidencia reciente ha demostrado que el manejo expectante
+en mujeres con RPPM debe prolongarse hasta 36+6 semanas, pues esta conducta reduciría la tasa de SDR, el
+uso de ventilación mecánica y la estadía en UCI neonatal, sin aumento significativo de la morbilidad materna.
+Sin embargo, la evidencia aún no es definitiva, y esta nueva opción de manejo se encuentra en
+proceso de análisis en todos los grupos de trabajo serio. Por ahora recomendamos discutir las opciones de
+manejo con la paciente; y si se opta por manejo expectante, es indispensable una AMCT para estudiar el
+líquido amniótico, descartando infección y/o inflamación antes de permitir el manejo expectante hasta las
+36+6 semanas.
+RPO EN EMBARAZO DE TÉRMINO
+Efectuado el diagnóstico de RPO en un embarazo de término, se procederá a la interrupción
+inmediata del embarazo, mediante inducción o cesárea según historia obstétrica de la paciente.
+Muchas de las mujeres con RPO a término habrán iniciado trabajo de parto al momento del ingreso
+a la maternidad, de modo que un 50% tiene el parto en las siguientes 6-8 horas; 70% en las siguientes 24
+horas; y 95% en las siguientes 48 horas. Sin embargo, se ha demostrado que el riesgo de infección
+intraamniótica y endometritis puerperal aumenta con el intervalo entre la RPO y el parto, por lo cual no es
+razonable esperar el inicio espontáneo del trabajo de parto después de la RPO, sino que se debe proceder
+inmediatamente con la inducción.
+
+Resumen
+• La rotura prematura de membranas (RPM) o rotura prematura ovular (RPO) es la rotura de las
+membranas ovulares antes del inicio del trabajo de parto independiente de la edad gestacional. La
+RPO que ocurre antes de las 37 semanas se denomina Rotura Prematura de Pretérmino de Membranas
+(RPPM). Se aprecia pérdida de líquido claro, con olor a cloro, abundante, que escurre por los genitales
+y no se logra contener.
+• Ocurre en aproximadamente 10% de los embarazos de término y 2-3,5% de los embarazos menores a
+37 semanas (RPPM). La RPPM es la causa de 1/3 de los partos prematuros. La edad gestacional es el
+principal factor pronóstico en embarazos que presentan una RPO.
+• Factores de riesgo de RPO: RPO previa, infección intrauterina, metrorragia de segundo y tercer
+trimestre, parto prematuro previo, tabaquismo crónico, enfermedades del tejido conectivo,
+conización, cerclaje, enfermedad pulmonar crónica, sobredistensión uterina, amniocentesis o
+cordocentesis y embarazo con DIU.
+• Las principales complicaciones de la RPPM son prematurez, infección perinatal, compresión del cordón
+umbilical, DPPNI e hipoplasia pulmonar (sobre todo si RPPM <28 semanas).
+• La prueba de cristalización es la prueba diagnóstica de elección para RPO, aunque una adecuada
+anamnesis y examen físico pueden ser suficientes. Otras pruebas complementarias pueden ser el
+ultrasonido, detección de células naranjas, inyección de colorantes vitales, detección de PAMG-1 y
+detección de IGFBP-1.
+• Los diagnósticos diferenciales que debemos tener presentes son leucorrea, incontinencia urinaria,
+tapón mucoso, rotura de bolsa amniocorial, hidrorrea decidual y rotura de quiste vaginal.
+• Al momento del ingreso se deben realizar RBNE y ecografía para estimar volumen de líquido amniótico
+y peso fetal. Se deben solicitar también hemograma, VHS, PCR, urocultivo y cultivos cervicovaginales;
+en caso de fiebre, pedir hemocultivos para diagnosticar la condición materna.
+• En toda mujer con RPPM antes de las 34 semanas, se efectuará una AMCT para estudiar la presencia
+de gérmenes (IIA) o inflamación. El resultado del estudio del líquido amniótico cambia el manejo clínico
+de la paciente.
+• En RPPM antes de la viabilidad (< 24 semanas), se indicará hospitalización y antibióticos. A esta edad
+gestacional no se usará corticoides para inducción de madurez pulmonar, y la tocolisis está
+contraindicada.
+• En RPPM entre 24-34 semanas, el manejo es expectante, incluyendo uso de antibióticos profilácticos
+(Ampicilina + Eritromicina), corticoides prenatales y la evaluación seriada de la condición materno-
+fetal. En pacientes que se mantengan estables y sin signos de infección lo recomendable es el manejo
+expectante hasta alcanzar 34 semanas.
+• Si la AMCT sugiere IIA y/o inflamación, el esquema antibiótico será triasociado (ceftriaxona,
+metronidazol, claritromicina). El tipo de antibióticos se ajustará según el resultado de los cultivos.
+• En RPO después de las 34 semanas, el manejo corresponde a la interrupción del embarazo, mediante
+inducción o cesárea según corresponda. Evidencia reciente ha propuesto que el manejo expectante
+puede prolongarse hasta las 36+6 semanas, pero esto aún no ha sido aceptado universalmente
+• En RPO de término, debe procederse a la inducción inmediata del trabajo de parto. Si existe
+contraindicación a inducción, y la paciente no se encuentra en trabajo de parto, debe efectuarse una
+cesárea.
+
+Pá gin a | 236

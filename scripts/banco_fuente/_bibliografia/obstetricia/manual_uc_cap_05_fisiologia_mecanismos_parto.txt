@@ -1,0 +1,627 @@
+Capítulo 5.
+DETERMINISMO, FISIOLOGÍA Y MECANISMOS DEL PARTO
+DETERMINISMO DEL PARTO
+Mecanismos regulatorios maternos y/o fetales que determinan la duración de la gestación y el
+momento del inicio del trabajo de parto.
+Fases uterinas del embarazo
+De acuerdo con la cuantía de la
+contractilidad uterina, el embarazo puede
+ser dividido en cuatro fases o estadios (Figura
+1):
+1. Quiescencia miometrial
+Corresponde al período de ausencia
+de contracciones que caracteriza al útero
+desde la fecundación hasta
+aproximadamente las 36 semanas (en un
+embarazo normal). Durante la quiescencia
+miometrial existe una activa relajación del
+músculo liso uterino (miometrio), que se
+explica por una reducción en la síntesis de
+proteínas asociadas al proceso contráctil, haciendo que el miometrio pierda su fenotipo contráctil. Durante la
+quiescencia miometrial existe una baja expresión de receptores para agentes contráctiles (receptores de
+ocitocina y prostaglandinas) y las células miometriales no están acopladas entre sí (reducción de la expresión
+de las uniones intercelulares en hendidura: conexinas).
+Se estima que la generación y mantención de la quiescencia miometrial es un proceso fundamental
+para la mantención del embarazo y la regulación del determinismo del parto. Si la quiescencia se termina de
+modo anticipado, existe riesgo de parto prematuro; por el contrario, si la quiescencia se mantiene más tiempo
+de lo normal existe riesgo de embarazo prolongado.
+Durante el período de la quiescencia miometrial, el cuello uterino se mantiene de consistencia firme
+(“rígido”, “duro”).
+2. Activación
+Corresponde al período de recuperación de la capacidad contráctil del útero, y se manifiesta entre
+las 36-38 semanas en un embarazo normal. Se caracteriza por aumento en la expresión de proteínas asociadas
+al proceso contráctil, aumento de las uniones intercelulares en hendidura (gap junction) para propagar las
+contracciones uterinas, y aumento en el número de receptores de ocitocina y prostaglandinas.
+Durante la activación el miometrio presenta contracciones irregulares, pero está preparado para
+responder. La activación miometrial es un paso indispensable para permitir el inicio del trabajo de parto.
+En el período de la activación miometrial, el cuello uterino sufre transformaciones bioquímicas
+inducidas por hormonas; estas modificaciones consisten en degradación del colágeno y aumento del
+contenido de agua del estroma cervical. Clínicamente el cuello pierde su rigidez (“ablandamiento”).
+3. Estimulación
+Durante esta fase el útero se contrae de modo coordinado y rítmico; bajo el estímulo de hormonas
+como la ocitocina y prostaglandinas. Clínicamente se conoce como el trabajo de parto.
+
+Las contracciones uterinas permiten la expulsión del feto y la placenta desde la cavidad uterina.
+Durante el período de estimulación, el cuello uterino se dilata y se acorta (“borramiento”) de modo pasivo a
+medida que el feto sale a través de él.
+4. Involución:
+Es la fase de recuperación de la fisiología uterina posparto. Este proceso se completa dentro de 6
+semanas (42 días) posparto.
+Puntos de Control en el Determinismo del Parto
+Existen tres puntos de control encargados de regular la duración del embarazo. El primero es la
+generación y mantención de la quiescencia miometrial. Un segundo momento relevante es el inicio de la
+activación y el tercero, el inicio del
+trabajo de parto. Fallas en
+cualquiera de los 3 eventos
+regulatorios pueden dar origen a
+cuadros clínicos: parto prematuro
+o embarazo prolongado. La
+transición desde la quiescencia a
+la activación constituye una
+verdadera “cascada del parto”,
+donde convergen señales
+hormonales (progesterona,
+estrógenos, ocitocina,
+prostaglandinas), inflamatorias
+(citoquinas, prostaglandinas) y
+mecánicas (distensión uterina,
+maduración cervical).
+Control de la Actividad Contráctil Uterina
+El control de la actividad contráctil del miometrio está en manos de hormonas que afectan la
+capacidad contráctil del músculo liso uterino. Estas hormonas pueden originarse en (Figura 2):
+1. El plasma materno: circulan por el plasma y llegan al útero. Control endocrino.
+2. El plasma fetal: a través de la placenta o el líquido amniótico toman contacto con el miometrio.
+3. Las membranas ovulares: sustancias producidas por el corion y el amnios que están en contacto
+directo con la decidua. En este escenario el mecanismo de control sería paracrino.
+Mantención de quiescencia
+El principal regulador de la mantención o término de la quiescencia miometrial es el balance entre
+los niveles de progesterona (pro-quiescencia) y estrógenos (pro-activación). Clásicamente se ha mencionado
+que cambios en la relación plasmática de progesterona/estrógenos sería el mecanismo de control de la
+quiescencia/activación; y ello es cierto en modelos animales, pero no en humanos.
+• Roedores: en los roedores la progesterona, originada en el cuerpo lúteo, se mantiene elevada en el
+plasma hasta el final del embarazo. Al término de la gestación se produce la luteolisis (destrucción del
+cuerpo lúteo) y los niveles de progesterona caen, permitiendo la activación miometrial y el inicio del
+trabajo de parto.
+• Ovejas: en este modelo se ha demostrado que, al término del embarazo, la relación de concentración
+plasmática progesterona/estrógenos disminuye, permitiendo la activación miometrial. En ovejas, al final
+del embarazo, asociado a la maduración del eje hipotálamo/hipofisiario/suprarrenal fetal, aumenta la
+secreción de cortisol fetal. El cortisol fetal estimula la expresión placentaria de 17 alfa hidroxilasa; esta
+enzima convierte progesterona en estrógeno. Producto del aumento en la actividad de la 17 alfa
+hidroxilasa, se produce la caída en la relación plasmática progesterona/estrógenos.
+
+• Humanos: existen varias diferencias en los humanos con respecto a los modelos descritos:
+o La relación plasmática progesterona/estrógenos no cambia al término de la gestación; la
+progesterona predomina a lo largo de todo el embarazo; y ambos (progesterona y estrógenos)
+van subiendo a medida que avanza el embarazo.
+o En los humanos la producción de progesterona por el cuerpo lúteo ocurre durante las primeras
+12 semanas (mantenido por β-hCG) y posteriormente la placenta es el principal productor de
+progesterona.
+o La 17 alfa hidroxilasa no está presente en la placenta humana.
+o En humanos se postula una reducción “funcional” de la acción de la progesterona (sin cambio
+en su nivel plasmático,) al final del embarazo, para lograr la activación miometrial. Lo que
+sucede, es que existe un cambio en la expresión de los receptores de progesterona, alterando la
+funcionalidad de ésta. Existen dos receptores de progesterona: PRB y PRA. El PRB tiene acción
+progestativa (mantiene la quiescencia), mientras que PRA tiene acción antiprogestativa
+(aumenta permitiendo la activación miometrial). Así, en la especie humana, el retiro funcional
+de la progesterona se explica, al menos en parte, por el aumento relativo del receptor PRA
+(antiprogestativo) sobre PRB en el miometrio, cambiando el balance hacia un fenotipo pro-
+contráctil.
+Factores que participan de la mantención de la quiescencia
+• Progesterona: a través de su receptor PRB es capaz de inhibir la síntesis de proteínas asociadas al proceso
+contráctil, los receptores a uterotoninas y la conexina 43 (proteína que forma las uniones intercelulares
+en hendidura).
+• Óxido nítrico: potente relajador de músculo liso a través de la vía GMPc y proteínas quinasa G (PKG). El
+óxido nítrico puede originarse en el miometrio, el tejido vascular o las membranas fetales.
+• Péptido natriurético tipo B (BNP): producido por membranas fetales, se ha propuesto como un
+importante mediador de la quiescencia miometrial; su producción disminuye en las semanas previas al
+parto y se ha observado reducida en mujeres con parto prematuro.
+• Activador de canales de K+: es una substancia de naturaleza desconocida, producida por membranas
+fetales. El K+ está en altas concentraciones a nivel intracelular; cuando el canal de K+ se abre, el K+ sale de
+la célula, la célula se hiperpolariza y con esto disminuye su contractilidad.
+Uterotropinas
+Es el nombre genérico con el que se conocen las hormonas encargadas de la activación miometrial.
+• Estrógenos: tiene varias acciones a nivel miometrial que permiten la activación. Aumentan la expresión
+de la conexina 43 (GAP junction), mejorando la sincronización de las fibras musculares miometriales.
+Aumenta la expresión de los receptores miometriales a uterotoninas, permitiendo la estimulación
+miometrial.
+Uterotoninas
+Hormonas encargadas de la estimulación miometrial, producen una intensa contracción del musculo
+uterino. Son de origen endocrino (hipófisis) o paracrino (placenta/membranas ovulares). En la fase de
+activación aumentan su concentración en el líquido amniótico y plasma materno.
+• Ocitocina: su función es mantener y ayudar en la progresión del trabajo de parto ya establecido. Si el
+miometrio no está activado, la ocitocina no puede ejercer su acción. La ocitocina es, además, la encargada
+de la involución uterina posparto. Su máxima concentración plasmática ocurre en el expulsivo y puerperio
+inmediato.
+• Prostaglandinas (Pg): mediadores paracrinos con rol fundamental en el inicio del trabajo de parto. Son
+potentes uterotoninas, particularmente a nivel cervical y del segmento uterino inferior; clínicamente son
+fármacos de primera línea para maduración cervical e inducción del trabajo de parto.
+• Endotelina 1: es un péptido vasoconstrictor de alta potencia, producido por amnios y corion; se ha
+demostrado su alta concentración en el líquido amniótico, principalmente durante el trabajo de parto.
+Sin embargo, se desconoce su real participación en el mecanismo fisiológico del parto.
+
+• Factor activador plaquetario: sustancia liposoluble secretada por basófilos en respuesta al estímulo de
+IgE. Es producidos por las membranas ovulares y macrófagos, presentes en alta cantidad en la decidua
+parietal y es la uterotonina más potente conocida (1.000 veces más potente que la endotelina). Tendría
+un rol importante en la mantención de la fase de estimulación miometrial, más que en la transición de la
+quiescencia a la activación. Reconocemos que su rol exacto en humanos no está completamente
+dilucidado.
+FISIOLOGÍA DEL PARTO
+Características fisiológicas de las contracciones uterinas y de las modificaciones cervicales durante el
+trabajo de parto. El proceso implica fenómenos mecánicos activos y pasivos que permiten la expulsión del
+feto y la placenta.
+Los fenómenos mecánicos activos son las contracciones uterinas y el pujo materno (Valsalva). Los
+fenómenos pasivos se manifiestan en el útero y el cuello uterino como consecuencia de las contracciones
+uterinas.
+Contracciones uterinas
+El principal fenómeno activo corresponde a las contracciones uterinas; ellas deben ser monitoreadas
+clínicamente durante el trabajo de parto. Las características fisiológicas de las contracciones uterinas se
+describen en la siguiente tabla:
+Tono basal 8-10 mm Hg
+Intensidad 50-70 mm Hg
+Frecuencia 4-5 en 10 min
+Duración 2-3 min
+Onda Contráctil Uterina
+La onda contráctil uterina debe ser de tipo “peristáltico”, para lograr la expulsión del feto y la placenta
+desde la cavidad uterina. La onda contráctil se inicia en un marcapaso funcional, ubicado en la unión de la
+trompa de Falopio con el útero (generalmente al lado izquierdo). El marcapaso es funcional, no es anatómico,
+es decir no hay un sitio con fibras especiales (ej. nerviosas como el corazón) que sea responsable de iniciar la
+contracción.
+La onda contráctil uterina se inicia en el marcapaso funcional y se propaga siguiendo la “triple
+gradiente descendente”. Se entiende por triple gradiente descendente a la característica fisiológica de la onda
+contráctil uterina, caracterizada por:
+• Inicio en el fondo uterino
+• Mayor intensidad en el fondo uterino
+• Mayor duración en el fondo uterino
+Fenómenos pasivos
+A consecuencia de las contracciones uterinas se producen los fenómenos pasivos, durante el trabajo
+de parto.
+1. Ampliación del segmento inferior: la región ístmica del útero se convierte durante el embarazo en el
+segmento inferior. Este se amplia y se adelgaza durante el trabajo de parto. En el segmento inferior se
+efectúa la histerotomía para la operación cesárea.
+2. Borramiento y dilatación del cuello uterino: el borramiento es el acortamiento del cuello uterino. El
+borramiento y la dilatación se produce de modo pasivo a medida que el feto es propulsado a través del
+cuello. Un paso previo a la dilatación y borramiento es la “maduración” del cuello uterino, la cual es
+mediada por hormonas como se verá más adelante.
+
+3. Expulsión del tapón mucoso: se trata de una mucosidad que cubre
+el cuello uterino. Cuando el cuello se modifica, este tapón mucoso
+puede expulsarse al exterior y ser visible como una mucosidad en
+los genitales.
+4. Formación de la bolsa de las aguas: producto de las contracciones
+uterinas, las membranas fetales y el líquido amniótico que
+contienen son propulsados en forma de cuña hacia el cuello. Esto
+es la “formación de la bolsa de las aguas” (Figura 3).
+5. Encajamiento, descenso y expulsión del feto
+6. Alumbramiento (salida de la placenta)
+Maduración Cervical
+El cuello uterino es prácticamente un órgano distinto al cuerpo
+uterino. El cuello debe modificarse durante el embarazo y parto para permitir la salida del feto. El proceso se
+inicia por modificaciones bioquímicas del cuello y continúa con modificaciones mecánicas pasivas.
+• Modificaciones bioquímicas del cuello: bajo la
+acción de diferentes hormonas, el cuello uterino
+sufre modificaciones en sus características
+biológicas, a lo largo del embarazo.
+• Quiescencia miometrial: cuello duro, bajo la
+acción preferente de la progesterona.
+• Activación miometrial: cuello blando, es lo
+que se conoce como: “maduración cervical”.
+• Estimulación miometrial: durante la
+estimulación miometrial (trabajo de parto
+clínico), se produce el fenómeno mecánico
+pasivo de borramiento y dilatación cervical.
+Se estima que la maduración cervical
+bioquímica es mediada por:
+• Prostaglandinas
+• Estrógenos
+• Disminución de la progesterona
+• Óxido nítrico
+• Relaxina
+• Modificaciones mecánicas (pasivas) del cuello uterino: ocurren a medida que el polo fetal es propulsado
+hacia el cuello por las contracciones uterinas. En esencia, el cuello se acorta (borramiento) y se dilata.
+El cuello uterino tiene una porción intravaginal y una porción supravaginal. La porción intravaginal mide
+2 cm. Si en el tacto vaginal se detecta que la porción intravaginal mide 1 cm, se dirá que el cuello está 50%
+borrado.
+Como se observa en la figura 4, los procesos de borramiento y dilatación ocurren de modo diferente en
+la mujer que nunca ha tenido un parto vaginal (nulípara), comparado con aquella que ha tenido uno
+(primípara) o más partos vaginales (multípara). En la nulípara, el borramiento del cuello ocurre primero, de
+modo que la dilatación se inicia cuando el cuello uterino está 100% borrado. En la multípara, borramiento y
+dilatación ocurren de modo simultáneo, lo usual es detectar 100% de borramiento, cuando la dilatación ya se
+encuentra en 4 cm.
+
+TRABAJO DE PARTO
+Corresponde al proceso fisiológico, mediado por
+las contracciones uterinas, que conduce al parto.
+Comienza con las primeras contracciones uterinas
+perceptibles y termina con la expulsión de la placenta.
+Respecto del modelo de fisiología de las
+contracciones uterinas, el Trabajo de Parto corresponde
+a la fase de estimulación miometrial.
+Fases Clínicas del Trabajo de Parto
+Las fases clínicas del trabajo de parto fueron
+establecidas en el trabajo de Dr. Emanuel A. Friedman en
+el año 1954, quien presentó una representación gráfica
+de la progresión del trabajo de parto: partograma (Figura
+5). En el partograma se dibuja el progreso de la dilatación y el descenso de la presentación fetal, en función
+del tiempo.
+Si bien los conceptos clásicos que él describió deben ser conocidos, como veremos más adelante, han
+cambiado algo en el último tiempo (Figura 6). El trabajo de parto se divide en tres etapas (Figura 5) en la
+concepción de Friedman, pero, como veremos, hoy se
+agrega una cuarta etapa.
+1. Primera etapa: dilatación. Se compone de dos
+fases:
+• Fase latente: entre el inicio de las primeras
+contracciones perceptibles, hasta el inicio de la fase
+activa.
+• Fase activa: se inicia en presencia de un cuello
+100% borrado y con 4 cm de dilatación. Termina con
+la “dilatación completa” (10 cm). Friedman describió
+que la fase activa se compone de tres etapas, dando a
+la curva de partograma un aspecto sigmoideo:
+aceleración, máxima pendiente y desaceleración
+(Figura 5).
+Hoy en día sabemos que en muchas mujeres
+que finalmente tienen un parto vaginal, la velocidad
+de progresión es más lenta que lo que Friedman describió en sus partogramas. Adicionalmente, se ha
+observado que la dilatación del cuello es más rápida a medida que la dilatación progresa, es decir, no tiene la
+forma sigmoidea (con desaceleración final como Friedman describió). Hoy en día, y con la intención de
+favorecer el parto vaginal, se acepta como concepto clínico que el inicio de la fase activa ocurre con 6 cm de
+dilatación. Por este motivo, muchas veces en este manual escribiremos que la fase activa comienza entre 4-6
+cm de dilatación. En la fase activa, asociado a la dilatación del cuello uterino, se produce el descenso de la
+presentación fetal a través del canal de parto. En la práctica clínica actual, siguiendo las recomendaciones de
+ACOG y SMFM, se sugiere no diagnosticar detención de la fase activa antes de los 6 cm de dilatación, ya que
+la progresión cervical en mujeres que finalmente tienen un parto vaginal suele ser más lenta que lo descrito
+originalmente por Friedman.
+2. Segunda etapa: expulsivo. Se inicia cuando la dilatación es completa (10cm) y termina con la salida del
+bebé. Durante esta etapa se completa el descenso de la presentación fetal. Se divide en dos fases:
+• Fase pasiva del expulsivo (sin pujo)
+• Fase activa del expulsivo (aquella asociada al pujo materno).
+
+3. Tercera etapa: alumbramiento. Corresponde al período comprendido entre la salida del recién nacido y la
+expulsión de la placenta. En condiciones de manejo activo del tercer período, la duración habitual del
+alumbramiento presenta una mediana de 4 a 12 minutos, con expulsión espontánea de la placenta antes de
+los 30 minutos en más del 95% de los casos, tanto en nulíparas como en multíparas. La prolongación del
+alumbramiento más allá de los 30 minutos se asocia a un aumento significativo del riesgo de hemorragia
+posparto y otras complicaciones maternas.
+4. Cuarta etapa: posalumbramiento. Corresponde al período de 1-2 h posterior a la salida de la placenta. Esta
+cuarta etapa no fue considerada por Friedman, pero es clínicamente muy relevante por las complicaciones
+que allí pueden presentarse. En esta etapa el útero recupera el tono y comienza su involución. La cuarta etapa
+es crítica para la vigilancia de hemorragia posparto y otras complicaciones inmediatas; en la práctica, se
+recomienda monitorización estrecha de signos vitales, tono uterino y sangrado durante al menos 1–2 horas
+tras el alumbramiento.
+Ver capítulo 10. MANEJO DEL TRABAJO DE PARTO Y ATENCIÓN DEL PARTO para conocer la duración normal
+de las etapas del trabajo de parto.
+MECANISMOS DEL PARTO
+La pelvis obstétrica
+La pelvis es aquella porción del esqueleto,
+particularmente interesante para el obstetra, formada por los
+huesos coxales y el sacrocoxis. Se trata de un anillo
+osteoligamentoso casi inextensible, que se interpone entre el
+tronco y las extremidades inferiores. Desde un punto de vista
+obstétrico, la pelvis constituye el canal duro que debe franquear
+el feto durante el parto.
+Anatomía de la Pelvis
+El esqueleto de la pelvis está formado por los dos
+huesos coxales, el sacro y el coxis. Los huesos coxales están
+unidos en la parte anterior a nivel de la sínfisis del pubis. En la
+parte posterior, el sacro se interpone entre ellos, uniéndose mediante las articulaciones sacroilíacas (Figura
+7). La pelvis ósea se divide en una parte superior (pelvis falsa o pelvis mayor) y una inferior (pelvis verdadera
+o pelvis menor). La pelvis mayor está limitada por huesos solo en su pared posterior y laterales.
+La pelvis verdadera constituye el canal óseo del parto, y está completamente rodeada por huesos. La
+pelvis verdadera presenta un anillo superior, o de entrada (estrecho superior de la pelvis); una cavidad
+intermedia (excavación pelviana) y un anillo inferior o de salida (estrecho inferior de la pelvis).
+• El estrecho superior está formado de delante hacia atrás por el borde superior de la sínfisis del pubis y el
+cuerpo del pubis, la eminencia íleo-pectínea, la línea innominada, el borde anterior de los alerones del
+sacro y el promontorio. El estrecho superior no se inscribe en un solo plano geométrico, pues la línea
+innominada se sitúa por debajo del promontorio y del borde superior del
+pubis.
+• La cavidad de la pelvis menor está limitada por detrás por el sacro,
+el coxis, los ligamentos sacrotuberosos y sacroespinosos; lateralmente y
+por delante, por el isquion y el pubis. La cavidad de la pelvis menor
+(excavación pelviana o canal del parto) tiene una pared anterior corta (±
+5 cm) formada por las ramas y la sínfisis del pubis, y una pared posterior
+larga (± 14 cm) y curva formada por el sacro y el coxis. El feto desciende a
+través de la excavación pelviana cuyo eje es una curva formada por la
+intersección de los planos horizontales de la pelvis menor, cuya
+concavidad mira hacia el pubis. Este eje de la excavación pelviana
+constituye el trayecto fetal en el parto vaginal. (Figura 8).
+
+• El estrecho inferior de la pelvis menor está limitado, desde adelante hacia atrás, por el borde inferior de
+la sínfisis del pubis, la rama isquiopúbica, el borde inferior del ligamento sacrotuberoso y el coxis. En la
+parte anterior de la pelvis verdadera, bajo la sínfisis púbica queda un gran espacio triangular cuyo vértice
+anterosuperior se denomina ángulo subpúbico.
+Diámetros Internos de la Pelvis de Importancia Clínica.
+El parto vaginal requiere que la cabeza fetal se acomode en la pelvis
+materna permitiendo su descenso a través del canal del parto. La
+acomodación de la cabeza debe efectuarse ocupando los diámetros
+mayores de la pelvis. Estos diámetros se presentan en el estrecho
+superior, en la excavación pelviana y en el estrecho inferior de la
+pelvis.
+• Diámetros del estrecho superior de la pelvis: como se muestra
+en la Figura 9, en el estrecho superior de la pelvis se describen
+diámetros transversos, oblicuos y anteroposteriores.
+o Diámetro transverso máximo. Se extiende entre los
+puntos más distantes de ambas líneas innominadas y
+mide, como promedio, 13,5 cm; habitualmente, este diámetro se aproxima al promontorio e
+impide su uso por la cabeza fetal durante el parto.
+o Diámetro transverso útil o mediano, equidistante del pubis y del promontorio. Mide, en
+promedio, 12 cm y es utilizado frecuentemente por la cabeza fetal para introducirse en la pelvis.
+o Diámetros oblicuos. El izquierdo se extiende desde la eminencia iliopectínea izquierda hasta la
+unión sacroilíaca derecha, y el derecho, desde la eminencia iliopectínea derecha hasta la unión
+sacroilíaca izquierda. Miden 12 a 12,8 cm y en el individuo revestido de sus partes blandas el
+izquierdo excede en algunos milímetros al derecho, a causa de la presencia del asa sigmoidea
+sobre el seno sacroilíaco izquierdo. También son frecuentemente utilizados por la cabeza fetal
+para introducirse a la pelvis menor.
+o Diámetro promonto-suprapúbico o “conjugada anatómica”. Se extiende desde el promontorio
+hasta el borde superior de la sínfisis del pubis. Mide, en promedio, 11 cm (Figura 10).
+• Diámetros de la excavación pelviana: La excavación de la pelvis menor también presenta diámetros
+anteroposteriores, transversales y oblicuos, que, en general, miden 12 cm, a excepción del diámetro
+biciático que constituye el plano transversalmente más estrecho de la excavación pelviana.
+o Diámetro sacro-subpubiano. Se extiende entre la articulación de la segunda con la tercera
+vértebra sacra y el borde inferior de la sínfisis del pubis (Figura
+10), y mide en promedio 12 cm.
+o Diámetro biciático o interespinoso. Se extiende
+trasversalmente entre ambas espinas ciáticas y mide 10,5 a 11
+cm en promedio, constituyendo el plano más estrecho
+transversalmente del canal del parto. Mientras más
+prominentes son las espinas ciáticas, menor es este diámetro.
+• Diámetros del estrecho inferior de la pelvis: El estrecho inferior de la
+pelvis menor también se denomina salida de la pelvis o abertura
+inferior.
+o Diámetro transverso. Se extiende entre los bordes internos de
+ambas tuberosidades isquiáticas y tiene una longitud
+promedio de 11 cm.
+o Diámetro coxi-subpubiano. Se extiende entre la punta del
+coxis y el borde inferior de la sínfisis del pubis y tiene una
+longitud, en reposo, de 8,5 a 9 cm; con el movimiento de retropulsión o nutación que efectúa el
+coxis en relación con la punta del sacro en el período expulsivo del parto, puede llegar a medir
+12,5 a 13 cm.
+o Diámetro sagital posterior. Se extiende desde la punta del sacro hasta el diámetro que une
+ambas tuberosidades isquiáticas (diámetro transverso) y tiene una longitud promedio de 7,5 cm.
+
+Pelvimetría
+Es el método semiológico mediante el cual reconocemos la forma, las dimensiones y la inclinación de
+la pelvis obstétrica. Disponemos de procedimientos clínicos de uso general, más la ayuda de la radiología para
+situaciones especiales. Originalmente se pensó que era una manera de estimar la posibilidad de lograr un
+parto vaginal, sin embargo, su imprecisión y baja capacidad predictora la han dejado en desuso. La pelvimetría
+clínica consiste en maniobras manuales e instrumentales y es norma de buen criterio incorporarla a los
+cuidados prenatales de toda paciente obstétrica. La pelvimetría clínica comprende maniobras externas
+(pelvimetría externa) e internas (pelvimetría interna). La primera se puede realizar en cualquier mes del
+embarazo; la exploración interna, en cambio, está mejor indicada en el segundo trimestre, sin perjuicio de su
+repetición durante el parto.
+Sin embargo, es importante saber que la evaluación funcional de la pelvis es lo más importante para
+decidir la vía del parto. La evaluación funcional de la pelvis es lo que se denomina prueba de trabajo de parto,
+en la cual se evalúa el tamaño de la pelvis en relación con el tamaño de la presentación fetal durante la fase
+activa del trabajo de parto (ver capítulo 10. MANEJO DEL TRABAJO DE PARTO Y ATENCIÓN DEL PARTO). Hoy
+en día se considera que el mejor pelvímetro es el feto durante el parto.
+Desproporción céfalo-pelviana
+El concepto de estrechez pelviana en sí mismo no reviste mayor importancia en la práctica obstétrica,
+porque siempre debemos analizar la capacidad del canal pelviano en relación con un determinado feto, que
+es el que debe atravesar el canal del parto. Así, surge el importante concepto de proporcionalidad o
+desproporcionalidad céfalo-pelviana, ya que un feto pequeño puede
+atravesar una pelvis relativamente estrecha; en cambio, un feto grande puede
+tener dificultades para atravesar una pelvis que, por sus dimensiones, se
+considera normal.
+El concepto de proporcionalidad céfalo-pelviana o feto-pélvica
+conduce al aforismo obstétrico: “la mejor pelvimetría es la prueba de trabajo
+de parto”. Vale decir, que la compatibilidad de un canal de parto para permitir
+el paso de un determinado feto no se demuestra necesariamente por medio
+de pelvimetrías, sino que puede ser necesario valorar, en el caso dado, si el
+feto puede pasar por ese canal de parto. Es necesario ser muy cauteloso en la
+prueba de trabajo de parto, pues un esfuerzo demasiado entusiasta para
+valorar la compatibilidad feto-pelviana puede conducir a un desastre
+obstétrico. La prueba de trabajo de parto consiste en observar la dilatación
+del cuello uterino y el descenso de la presentación, determinado por las
+contracciones uterinas en un período no mayor de 2 - 4 horas, con dinámica uterina de frecuencia e intensidad
+suficientes, estrictamente monitorizada y con estricto control de la condición fetal.
+Consideraciones sobre la cabeza fetal
+Es importante comentar algunos reparos anatómicos de la cabeza del feto por su importancia en el
+parto. El polo cefálico es la estructura menos modificable de las que deben atravesar el canal pelviano durante
+el parto. En términos físicos, el parto es fundamentalmente el paso de la cabeza fetal por el canal pelviano. La
+cabeza fetal se acomodará en el canal pelviano ajustando sus menores diámetros posibles en los diámetros
+mayores de la pelvis. La palpación de las fontanelas y suturas craneales nos permiten reconocer, en el tacto
+vaginal, la variedad de posición de la cabeza fetal.
+La cabeza fetal está formada por la cara y el cráneo. El cráneo está formado por los huesos frontales,
+los parietales, los temporales, la parte superior del hueso occipital y las alas del esfenoides. Estos huesos están
+separados, en el feto de término, por suturas y fontanelas (Figura 11).
+Las suturas más importantes son:
+• La sutura sagital, situada entre ambos huesos parietales y entre la fontanela anterior y posterior
+• La sutura frontal, situada entre los dos huesos frontales
+• La sutura coronal, situada entre los huesos parietales y frontales
+• La sutura lambdoidea u occipitoparietal, situada entre los huesos parietales y el occipital.
+
+Las fontanelas más importantes son la anterior o bregma y la posterior u occipital (Figura 11). La fontanela
+anterior está situada en la línea media entre ambos huesos parietales y ambos huesos frontales. Tiene forma
+romboidea. Su diámetro anteroposterior mide 4 cm en promedio y el transversal 3 cm en promedio. Es más
+grande que la fontanela posterior. La fontanela posterior, occipital o lambda está ubicada en la línea media,
+entre los huesos parietales y el occipital. Tiene forma triangular y es de menor tamaño que la fontanela
+anterior.
+Los diámetros más importantes de la cabeza del feto de término y sus dimensiones promedio son los
+siguientes (Figura 12):
+• Suboccípito-bregmático: se extiende desde el
+suboccipucio al bregma (9,5 cm).
+• Occípito-frontal: se extiende desde la fontanela posterior
+a la nariz (12 cm).
+• Occípito-mentoniano: se extiende desde la parte más
+prominente del occipital al mentón (13,5 cm).
+• Submento-bregmático: se extiende desde la región
+submentoniana al bregma (9,5 cm).
+• Suboccípito frontal: se extiende desde la región
+suboccipital a la región más saliente de la frente (10,5 cm).
+• Biparietal: se extiende entre las partes más prominentes
+de los parietales (9,5 cm).
+Mecanismo del parto en la presentación de vértice
+En la situación más fisiológica del trabajo de parto, el feto presenta su cabeza hacia la pelvis materna
+(presentación cefálica). Para que el parto progrese correctamente se requiere que la cabeza fetal esté bien
+flectada, de modo que el punto más prominente de la presentación es el occipucio o vértice. A la presentación
+cefálica bien flectada se le denomina presentación de vértice.
+Como se mencionó anteriormente, para permitir el progreso del trabajo de parto, se requiere que la
+cabeza fetal se acomode en la pelvis materna (diámetros menores posibles de la cabeza en los diámetros
+mayores de la pelvis). Si bien el paso de la cabeza fetal por el canal del parto es lo más difícil, la salida de los
+hombros también presenta cierta dificultad. Como concepto general podemos decir que la cabeza y los
+hombros se acomodan en la pelvis, van descendiendo y saliendo en una suerte de espiral. A este proceso se
+le denomina mecanismo del parto y ha sido dividido por motivos didácticos en seis tiempos:
+Tiempo Cabeza Hombros
+1 Acomodación
+2 Descenso
+3 Rotación interna Acomodación
+4 Desprendimiento Descenso
+5 Rotación externa Rotación interna
+6 Desprendimiento
+Por razones didácticas estos seis tiempos se describirán en forma separada. Sin embargo, es preciso
+comprender que algunos de ellos se realizan simultáneamente. Al iniciarse el trabajo de parto y en particular
+después de la rotura de las membranas, las contracciones uterinas más intensas tienden a enderezar al feto,
+con cierta pérdida de su convexidad dorsal, aumento de la flexión cefálica y mayor plegamiento de las
+extremidades al tronco. De esta manera el ovoide fetal se convierte en un cilindro, con la menor sección
+transversal posible y más apta para atravesar el canal del parto. Los movimientos (tiempos) que realiza el
+cilindro fetal para atravesar el canal del parto son pasivos y determinados por la actividad contráctil del
+
+músculo uterino durante el período de dilatación y por la fuerza sumada de la contracción uterina y de los
+pujos maternos en el período expulsivo. Quien atiende un parto debe conocer perfectamente los tiempos del
+mecanismo del parto, para poder valorar adecuadamente su evolución y cooperar, cuando sea necesario.
+1. Acomodación de la cabeza. Este primer tiempo se subdivide a su vez en dos sub-tiempos: orientación y
+flexión de la cabeza fetal.
+Orientación de la cabeza. La sutura sagital se ubica en uno de los diámetros del estrecho superior de la pelvis
+para iniciar su introducción al canal del parto. En el 60% de los casos el diámetro escogido es el transverso y
+la posición OIIT. Frecuentemente también el diámetro escogido es el oblicuo izquierdo y la posición OllA. La
+orientación en el diámetro anteroposterior a nivel del estrecho superior es muy rara (0,5%).
+Flexión de la cabeza. Ubicado en el estrecho superior, el feto completa la flexión de su cabeza sobre el tórax,
+de tal forma que el mentón llega a tocar el esternón, presentando así su diámetro más pequeño (suboccípito
+bregmático) al estrecho superior de la pelvis. Esta intensificación de la flexión cefálica se logra por acción de
+las contracciones uterinas que impulsan al feto contra el canal del parto.
+2. Descenso de la cabeza. Es el proceso de descenso de la cabeza fetal a través del canal del parto. La Figura
+8 muestra el eje que sigue el feto en su trayecto por este canal. Un movimiento de deslizamiento del parietal
+posterior sobre el promontorio para caer en la concavidad del sacro le permite descender con mayor facilidad.
+El parietal anterior se introduce secundariamente en la excavación deslizándose por detrás de la sínfisis del
+pubis. A medida que el polo cefálico va descendiendo en el canal del parto se va completando el proceso de
+flexión que se inició en el tiempo anterior.
+3. Rotación interna de la cabeza y acomodación de los hombros. Tiempo fundamental en el mecanismo del
+parto de vértice, ya que para que el feto pueda ser expulsado o extraído del canal del parto, su polo cefálico
+debe estar orientado en el diámetro anteroposterior del estrecho inferior de la pelvis, vale decir, con la
+fontanela posterior en relación con la sínfisis del pubis (OP). Con mucho menos frecuencia la fontanela
+posterior se puede ubicar a nivel del sacro (OS). A medida que el polo cefálico va descendiendo en el canal del
+parto, se va produciendo la rotación interna (interna se refiere a que se efectúa dentro de la pelvis, y no a la
+dirección de la rotación), por medio de la cual la fontanela posterior rota hacia la sínfisis del pubis (rotación
+anterior) en un movimiento similar a la rotación de un tornillo. Esta rotación persigue adaptar el diámetro
+suboccípito bregmático al diámetro anteroposterior de la pelvis. A nivel de la pelvis media, el diámetro más
+estrecho es el transverso que une las espinas ciáticas (diámetro interespinoso ± 11 cm), por lo cual al feto le
+conviene orientarse a ese nivel en sentido anteroposterior, ofreciendo a la pelvis media el diámetro biparietal
+(9,5 cm).
+En la mayoría de los casos la rotación se va efectuando como hemos descrito, en forma paulatina a
+medida que se realiza el descenso cefálico. Sin embargo, en algunas ocasiones desciende el polo cefálico en
+el diámetro transverso u oblicuo hasta el piso pelviano y sólo allí realiza el movimiento de rotación interna.
+En el 5% de los casos la fontanela posterior rota hacia el sacro. Cuando la orientación y el descenso han
+ocurrido en el diámetro transverso (OIDT u OIIT), la rotación intrapélvica debe describir un arco de 90°. Si el
+descenso se realiza en OllA u OIDA, el arco de la rotación será de 45° y si el descenso se realiza en OIIP u OIDP
+la rotación será de 135° lo que demora más el proceso del parto y en ocasiones lo detiene. Existen varias
+teorías para explicar la rotación interna de la cabeza fetal. La más aceptada parece ser aquélla que la explica
+por la contrapresión de los músculos perineales, especialmente del músculo elevador del ano, al impulso
+inferido al feto por la presión intrauterina durante la contracción.
+Simultáneamente con la rotación interna, en este tiempo se realiza la acomodación de los hombros
+al estrecho superior de la pelvis. El diámetro biacromial (12 cm) debe buscar un diámetro de orientación en
+el estrecho superior para iniciar su descenso. Debemos recordar que el diámetro biacromial es perpendicular
+al diámetro suboccípito bregmático (sutura sagital), de tal manera que cuando el diámetro cefálico rota a OP,
+el diámetro biacromial se orienta en el diámetro transverso de la pelvis.
+4. Desprendimiento de la cabeza y descenso de los hombros. El descenso y la rotación interna han llevado al
+polo cefálico bien flectado al piso pelviano. Las contracciones uterinas y los pujos maternos llevan al feto a
+apoyar su fontanela posterior bajo la sínfisis del pubis y con un movimiento de extensión cefálico (deflexión,
+
+“movimiento de cornada”), desprende a través de la vulva sucesivamente: la frente, los ojos, la nariz, la boca
+y el mentón. Si la rotación interna de la fontanela posterior se realizó hacia el sacro (posterior), el
+desprendimiento de la cabeza, que es más difícil, se realiza por flexión y no por extensión.
+Junto al desprendimiento cefálico se inicia el descenso de los hombros por el canal del parto,
+orientando el diámetro biacromial en el diámetro transverso de la pelvis.
+5. Rotación interna de los hombros y rotación externa de la cabeza. Las contracciones uterinas y los pujos
+maternos impulsan a los hombros, que han venido descendiendo en el diámetro transverso de la pelvis, a
+efectuar su rotación interna de tal modo que un hombro se ubica debajo de la arcada del pubis (anterior) y el
+otro en la horquilla vulvar (posterior). Junto con rotar el diámetro biacromial en el interior de la pelvis se
+produce la rotación externa de la cabeza (afuera de la pelvis) de tal manera que el occipucio fetal rota en 90°.
+La rotación externa de la cabeza (restitución) se realiza hacia el mismo lado en que ocurrió su descenso por el
+canal del parto, debido a que es el lado donde se encuentra el dorso fetal. Si la presentación era izquierda, el
+occipucio rotará hacia la tuberosidad isquiática izquierda y viceversa.
+Quien atiende el parto ayuda suavemente al feto en su rotación cefálica externa para colaborar a la
+rotación interna de los hombros.
+6. Desprendimiento de los hombros. Este tiempo habitualmente lo realiza el profesional que atiende el parto.
+El hombro anterior se desencaja primero deslizándolo bajo la horquilla del pubis; para ello, asociado al pujo
+materno, el obstetra tracciona suavemente la cabeza fetal hacia el piso. Luego, levantando al feto, el hombro
+posterior se desliza sobre la horquilla vulvar. La expulsión del hombro posterior es seguida de la expulsión del
+tronco, nalgas y extremidades sin mayor dificultad, completándose el parto.
+
+Resumen Diámetros Pelvis y Cabeza Fetal
+Diámetro Definición Medida Habitual
+Diámetros Internos de la Pelvis de Importancia Clínica
+Diámetros del estrecho superior de la pelvis
+Transverso máximo entre los puntos más distantes de ambas 13.5 cm
+líneas innominadas
+Transverso útil transverso, equidistante del pubis y del 12 cm
+promontorio
+Oblicuos desde la eminencia iliopectínea hasta la unión 12-12.8 cm
+sacroilíaca
+Promonto-suprapúbico o desde el promontorio hasta el borde superior 11 cm
+Conjugada anatómica de la sínfisis del pubis
+Diámetros de la excavación pelviana
+Sacro-subpubiano entre la articulación de la segunda con la 12 cm
+tercera vértebra sacra y el borde inferior de la
+sínfisis del pubis
+Biciático o interespinoso trasversalmente entre ambas espinas ciáticas 10.5-11 cm
+Diámetros del estrecho inferior de la pelvis
+Transverso entre los bordes internos de ambas 11 cm
+tuberosidades isquiáticas
+Coxi-subpubiano entre la punta del coxis y el borde inferior de 12.5-13 cm
+la sínfisis del pubis
+Sagital posterior desde la punta del sacro hasta el diámetro 7.5 cm
+que une ambas tuberosidades isquiáticas
+Diámetros Cefálicos Relevantes
+Suboccípito-bregmático desde el suboccipucio al bregma 9.5 cm
+Occípito-frontal desde la fontanela posterior a la nariz 12 cm
+Occípito-mentoniano desde la parte más prominente del occipital al 13.5 cm
+mentón
+Submento-bregmático desde la región submentoniana al bregma 9.5 cm
+Suboccípito frontal desde la región suboccipital a la región más 10.5 cm
+saliente de la frente
+Biparietal entre las partes más prominentes de los 9.5 cm
+parietales
+
+Resumen
+• Determinismo del parto corresponde a la regulación de la duración del embarazo. El embarazo puede
+ser dividido en 4 fases de acuerdo con la contractilidad uterina: Quiescencia miometrial, activación,
+estimulación e involución.
+• En esta regulación desempeña un rol fundamental la mantención de la quiescencia miometrial (desde
+fecundación hasta 36 semanas aprox.), periodo de activa relajación miometrial. Los mediadores
+encargados de la mantención de la quiescencia miometrial son de origen endocrino y paracrino.
+• La progesterona parece jugar un papel relevante en la mantención de la quiescencia. Al final del
+embarazo su actividad disminuye (por cambio en la expresión de sus receptores), permitiendo que los
+estrógenos activen el miometrio, comenzando así la fase de activación, la cual es indispensable para
+el inicio del trabajo de parto, en donde el cuello uterino pierde su rigidez (“ablandamiento”).
+• Durante la estimulación o también conocida como trabajo de parto, el útero se contrae de modo
+coordinado y rítmico gracias al estímulo de la ocitocina y prostaglandinas, y el cuello se dilata y se
+acorta (borramiento), permitiendo la expulsión del feto.
+• Durante la involución se recupera la fisiología uterina (6 semanas).
+• La fisiología del parto depende de fenómenos activos (contracciones uterinas y pujo materno) y
+pasivos (cambios del útero y del cuello uterino).
+• La contracción uterina, para ser propulsiva, debe seguir la triple gradiente descendente:
+o Iniciar en fondo uterino.
+o Ser de mayor duración en fondo uterino.
+o Ser de mayor intensidad en fondo uterino.
+• Desde la perspectiva clínica, el trabajo de parto se divide en 4 etapas:
+o Dilatación
+▪ Fase latente: se inicia con las primeras contracciones y termina con la fase activa.
+▪ Fase activa: se inicia con un cuello 100% borrado y con 4-6 cm de dilatación. Termina
+con la dilatación completa (10 cm).
+o Expulsivo: Se inicia con dilatación completa y termina con la salida del feto.
+o Alumbramiento: Desde la salida del feto hasta la salida de la placenta.
+o Post alumbramiento: 1 hora posterior a la salida de la placenta.
+• La pelvis ósea constituye el canal que debe pasar el feto. Para que el trabajo de parto progrese, el feto
+debe acomodar su cabeza orientando sus diámetros menores (suboccípito bregmático) en los
+diámetros mayores de la pelvis (diámetro oblicuo izquierdo).
+• La evaluación funcional de la pelvis es lo que se denomina prueba de trabajo de parto y es la mejor
+manera de evaluar desproporción céfalo-pelviana.
+• Al paso de la cabeza y hombros del feto por la pelvis, se le conoce como mecanismo del parto, y se
+divide en seis tiempos:
+1. Acomodación de la cabeza
+2. Descenso de la cabeza
+3. Rotación interna de la cabeza y acomodación de los hombros
+4. Desprendimiento de la cabeza y descenso de los hombros
+5. Rotación interna de los hombros y rotación externa de la cabeza
+6. Desprendimiento de los hombros
+
+Pá gin a | 55

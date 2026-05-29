@@ -1,0 +1,527 @@
+Capítulo 9.
+ECOGRAFÍA OBSTÉTRICA DE RUTINA
+La ecografía es un método diagnóstico no invasivo extremadamente útil en vigilar la salud fetal in
+útero. Su bajo precio, alta disponibilidad y carencia de radiación ionizante, hacen de la ecografía un examen
+frecuente en la embarazada, incluso efectuado con mayor frecuencia que lo necesario. La ecografía es la
+principal herramienta para diagnosticar patologías y estimar riesgo individual durante el embarazo,
+permitiendo seleccionar a la población de alto riesgo, concentrar recursos y disminuir la morbimortalidad
+perinatal.
+La ecografía permite refinar el diagnóstico de edad gestacional, evaluar la anatomía fetal, detectar
+desórdenes del crecimiento fetal e identificar alteraciones congénitas.
+En la actualidad, no existe consenso internacional absoluto en cuanto a un número fijo de ecografías
+“de rutina”. Las principales guías coinciden en recomendar al menos dos ecografías estructurales obligatorias:
+una entre 11-14 semanas (tamizaje de aneuploidías y riesgos placentarios) y otra entre 18-22 semanas
+(anatomía fetal detallada). Exámenes adicionales en el tercer trimestre deben indicarse de forma selectiva,
+según el riesgo clínico materno o fetal. En nuestro usualmente solicitamos cuatro ecografías:
+A. 7-11 semanas
+B. 11-14 semanas
+C. 20-24 semanas
+D. 32-36 semanas
+En Chile, el MINSAL recomienda la realización de tres ecografías durante el embarazo, destinadas a
+cubrir las etapas de: datación/aneuploidías, anatomía y crecimiento fetal tardío, con cobertura variable según
+región y sistema de salud.
+OBJETIVOS DE LA ECOGRAFÍA DE RUTINA DURANTE EL EMBARAZO
+Objetivos generales de la ecografía de rutina en el embarazo
+(Si bien cada una de las ecografías de rutina tiene objetivos específicos):
+• Determinar de la edad gestacional
+• Certificación de vitalidad fetal
+• Evidenciar el número de fetos
+• Identificar la ubicación placentaria
+• Evaluar anatomía fetal detectando anomalías congénitas mayores o menores
+• Controlar el crecimiento fetal
+• Determinar el riesgo obstétrico
+Es importante considerar que la ecografía permite la integración del bebé al grupo familiar desde su
+vida intrauterina. En la siguiente tabla, se muestran los principales objetivos de cada una de las ecografías
+mencionadas.
+Ecografía 1 Ecografía 2 Ecografía 3 Ecografía 4
+7-11 semanas 11-14 semanas 20-24 semanas 32-36 semanas
+• Edad Gestacional • Translucencia nucal • Anatomía fetal • Crecimiento fetal
+• Número • Riesgo de • Placenta y líquido • Bienestar fetal
+embriones Aneuploidía amniótico • Líquido
+• Ubicación • Corionicidad • Cervicometría amniótico
+• Vitalidad • Doppler de arterias • Doppler arterias • Ubicación
+uterinas uterinas. placentaria
+
+I. Ecografía del primer trimestre: 7-11 semanas.
+Se refiere a una ecografía efectuada entre 7-11 semanas de edad gestacional, habitualmente por vía
+transvaginal. Debe efectuarse con la vejiga vacía y observarse atentamente el útero, su contenido, y los anexos
+(ovarios).
+Objetivos de la ecografía 7-11 semanas
+a. Evaluar forma y tamaño del saco gestacional
+b. Determinar edad gestacional por Longitud Céfalo Nalgas (LCN) y observar concordancia con FUM
+c. Observar el número de embriones
+d. Determinar la localización del embarazo (descartar embarazo ectópico)
+e. Confirmar vitalidad embrionaria (presencia de latidos cardiacos fetales (LCF))
+f. Diagnosticar corionicidad en gemelos
+g. Evaluar presencia de factores de mal pronóstico del embarazo
+h. Detectar patologías asociadas: quistes ováricos, miomas, malformaciones uterinas.
+a. Saco gestacional: es una estructura eco negativa (color negro en la ecografía), redondeada, ovoide,
+eventualmente irregular, rodeada por trofoblasto, visible en condiciones normales en la cavidad endometrial.
+En su interior aparecerán diferentes elementos embrionarios según la edad gestacional (Figura 1).
+El saco gestacional es excéntrico respecto
+a la línea endometrial, y posee una imagen de doble
+anillo ecogénico en su contorno. El pseudosaco
+gestacional corresponde a una imagen econegativa
+en la cavidad endometrial, que simula un embarazo
+intrauterino, se observa en un 5 a 10% de los
+embarazos ectópicos y corresponde solo a una
+pequeña acumulación de líquido en la cavidad. El
+pseudosaco tiene un único anillo ecogénico en su
+contorno y se ubica de modo central en la línea
+endometrial.
+b. Edad gestacional: el tamaño del saco gestacional y luego la LCN son parámetros útiles para el cálculo de la
+EG. (Ver capítulo 4. DIAGNÓSTICO DE EDAD GESTACIONAL)
+c. Número de embriones: el saco gestacional debe ser observado en su totalidad para identificar el número
+de embriones. Cada uno de ellos debe ser medido y los signos de vitalidad evaluados. En esta ecografía es
+posible saber, en casos de embarazo gemelar, la corionicidad.
+d. Localización del embarazo: el embarazo normotópico es aquel que se implanta en el interior de la cavidad
+endometrial. En cambio, en el embarazo ectópico la implantación del huevo fecundado ocurre en una
+ubicación distinta a la cavidad endometrial. La visualización del saco gestacional en la cavidad endometrial
+descarta un embarazo ectópico. Sin embargo, existe el denominado embarazo heterotópico. Es un evento de
+muy baja frecuencia en el cual coexisten un embarazo normotópico con uno ectópico.
+El saco gestacional intrauterino es habitualmente visible desde las 4 ½ semanas de embarazo. En una
+mujer con β-hCG mayor a 3500, la probabilidad de encontrar un saco gestacional en la ecografía es del 99%,
+su ausencia debe hacer sospechar un embarazo ectópico. (Ver capítulo 53. EMBARAZO ECTÓPICO)
+e. Vitalidad embrionaria: la vitalidad del embrión se demuestra por la presencia de latidos cardíacos fetales.
+Los latidos cardiofetales (LCF) son visibles con embriones cuya LCN es mayor a 3 mm. La frecuencia cardíaca
+fetal normal en el primer trimestre varía según la edad gestacional, siendo esperable una frecuencia más
+elevada alrededor de las 8-9 semanas (promedio 150–170 lpm), con descenso progresivo posterior. Una
+frecuencia persistentemente inferior a 100 lpm después de la semana 7 se asocia a mayor riesgo de pérdida
+del embarazo.
+
+El corazón del embrión ocupa 1/3 del cuerpo y suele encontrarse en el centro de éste, la distancia
+desde el corazón hasta los extremos del embrión debe ser similar (Figura 2). La visualización del corazón es
+facilitada por el uso del eco Doppler color, el que permite calcular además la frecuencia de los LCF.
+f. Corionicidad en gemelos: según su placentación, los embarazos gemelares (múltiples) se clasifican en
+bicoriales o monocoriales. Los bicoriales poseen dos placentas, separadas o simulando una masa placentaria,
+pero funcionalmente independientes. En cambio, los
+monocoriales solo presentan una placenta anatómica
+y funcionalmente compartida, presentando casi en el
+100% comunicaciones vasculares.
+La corionicidad es el elemento fundamental
+para establecer el pronóstico y el manejo de un
+embarazo gemelar y debe ser diagnosticada antes de
+las 14 semanas.
+La determinación de la corionicidad es posible
+mediante la observación de la membrana
+interamniótica en su llegada a la masa placentaria, lo
+que es factible desde las 10 semanas en adelante, por
+lo que con mayor frecuencia se examina en la ECO 11-
+14 semanas (ver más adelante). En una ecografía con
+más de 6 semanas, la ausencia de membrana divisoria
+entre los dos fetos hace el diagnóstico de embarazo
+gemelar monoamniótico, y todos ellos son
+monocoriales (además de monocigóticos). Para más
+detalles revisar el capítulo 30. EMBARAZO MÚLTIPLE.
+g. Pronóstico del embarazo: como concepto general, el riesgo de aborto espontáneo es 10-15% en mujeres
+con atraso menstrual y prueba de embarazo positiva. Cuando la ecografía demuestra la presencia de un
+embrión con LCF presentes, cuyo tamaño es concordante con la edad gestacional, el riesgo de pérdida
+gestacional disminuye de forma significativa, situándose habitualmente por debajo del 5%, aunque no se
+elimina por completo.
+Por el contrario, es posible encontrar en la ecografía de primer trimestre algunos signos ecográficos
+que se relacionan con mayor probabilidad de pérdida del embarazo, a ellos se les denomina signos de mal
+pronóstico. Pese a la presencia de signos de mal pronóstico, el embarazo debe seguir controlado y la vitalidad
+embrionaria vigilada. Si el aborto no se produce, el embarazo continúa como un embarazo de bajo riesgo.
+Signos de mal pronóstico en la ecografía de primer trimestre:
+• Hematoma retroplacentario mayor al 40% del espacio que ocupa el saco. Se trata de una imagen
+anecogénica (líquida) retroplacentaria.
+o 2-3 veces mayor riesgo de aborto (mayor riesgo mientras mayor es el tamaño de hematoma).
+• Frecuencia cardiaca disminuida.
+o Menor a 100 lpm después de las 7 semanas.
+• Relación saco gestacional-embrión disminuida
+o Habitualmente con un saco gestacional de 3 cm, el embrión mide 1 cm en LCN. Si el tamaño
+del saco es muy pequeño para el embrión, el riesgo de aborto es mayor
+• Saco vitelino
+o Diámetro > a 5 mm
+o Calcificaciones
+h. Patologías asociadas: en la ecografía de primer trimestre, debe explorarse el útero y los anexos en busca
+de patologías asociadas como miomas, malformaciones uterinas o quistes ováricos. Es frecuente observar el
+cuerpo lúteo, el que aparecerá como un quiste ovárico de ecogenicidad intermedia.
+
+II. Ecografía 11-14 semanas
+Esta ecografía se efectúa por vía abdominal, con la vejiga vacía. Su principal utilidad es la
+determinación del riesgo de aneuploidía fetal. El cálculo de la edad gestacional a través de la medición del
+LCN, DBP y LF (longitud femoral) es bastante preciso, con un margen de error razonable. En contextos donde
+sólo se dispone de una ecografía del primer trimestre, la ecografía de 11-14 semanas puede asumir las
+funciones diagnósticas básicas de una ecografía precoz (localización, vitalidad, número de embriones). Ver
+capítulo 4. DIAGNÓSTICO DE EDAD GESTACIONAL.
+Dado que el MINSAL recomienda solo 3 ecografías durante el embarazo, los objetivos de la ecografía
+de las 7-11 semanas se deben incluir en esta ecografía.
+Objetivos de la ecografía 11-14 semanas
+a. Determinar edad gestacional (LCN, DBP, LF) y vitalidad embrionaria.
+b. Diagnóstico de corionicidad en embarazo gemelar.
+c. Diagnóstico de malformaciones graves.
+d. Diagnóstico antenatal: medición de translucencia nucal, hueso nasal, ductus venoso y regurgitación
+tricuspídea.
+e. Determinación del riesgo de preeclampsia y restricción de crecimiento fetal mediante Doppler de
+arterias uterinas.
+a. Edad gestacional: la longitud céfalo nalgas (LCN), el DBP y el fémur son parámetros útiles para el cálculo de
+la EG. La determinación de EG por la ecografía 11-14 semanas tiene un margen de error de + 7 días. Vitalidad
+Fetal: se evalúa midiendo la frecuencia cardiaca del feto.
+b. Corionicidad: el mejor parámetro para determinar corionicidad es la observación de la llegada de la
+membrana interamniótica a la masa placentaria en la ecografía de 11-14 semanas. Se observa el signo T o
+Lambda (λ). (Figura 3) El signo lambda(λ) puede desaparecer después de las 20 semanas, por lo que es
+indispensable estudiar su presencia en la ecografía de las 11-14 semanas.
+• Signo “T”: embarazo monocorial
+• Signo Lambda “λ”: embarazo bicorial
+La determinación del sexo fetal puede ser de utilidad en determinar corionicidad, pues si los gemelos
+son de diferente sexo tendremos seguridad de que se trata de un embarazo bicorial (y por cierto bicigótico).
+Si los gemelos son del mismo sexo, no
+permite sacar conclusiones; pues al
+menos la mitad de los gemelos bicoriales
+tendrán el mismo sexo. En todo caso, en la
+ecografía 11-14 semanas no es posible
+diagnosticar con certeza el sexo fetal.
+La observación de dos placentas
+separadas también permite concluir que
+se trata de un embarazo bicorial. Por el
+contrario, la identificación de solo una
+masa placentaria no hace el diagnóstico
+de monocorial, pues una sola placenta o
+dos placentas muy cercanas (fusionadas) tienen el mismo aspecto en la ecografía.
+En embarazos gemelares bicoriales, la membrana interamniótica está compuesta por dos capas de
+amnios y dos capas fusionadas de corion en el medio, dando a la membrana divisoria un aspecto trilaminar.
+En gemelares monocoriales-biamnióticos, la membrana sólo tiene dos capas de amnios sin interposición de
+corion, lo que hace que la membrana sea más delgada. Se ha propuesto que una membrana gruesa (> 2 mm)
+sugiere que se trata de un embarazo gemelar bicorial. La presencia de tejido coriónico en la base de la
+membrana interamniótica (el sitio en que llega a la placenta) es lo que origina el signo lambda (λ) en el
+embarazo gemelar bicorial.
+
+c. Malformaciones graves: en la ecografía 11-14 semanas es posible ver la conformación general del feto. De
+este modo, y gracias a la mayor resolución de los equipos ecográficos, se ha hecho posible la detección de
+malformaciones fetales mayores. Es posible visualizar alteraciones anatómicas del cráneo, corazón, pared
+abdominal anterior, extremidades, columna y vejiga.
+d. Diagnóstico antenatal: la determinación del riesgo de aneuploidía (alteración del número de cromosomas),
+cardiopatía congénita o síndromes malformativos es posible en la ecografía 11-14 semanas mediante la
+medición de la translucencia nucal (TN), hueso nasal, velocimetría Doppler de ductus venoso (estudio de onda
+“a”) y evaluación de regurgitación tricuspídea. Con la información de la TN, es posible calcular el riesgo fetal
+de aneuploidía ajustado a la edad materna y valor de la TN. Mediante esa estimación de riesgo es posible
+efectuar el consejo genético respecto a la necesidad de estudios adicionales y manejo del embarazo. Ver
+capítulo 8. CONSEJERÍA GENÉTICA Y DIAGNÓSTICO ANTENATAL para mayor detalle en la técnica de medición
+de TN e interpretación del resultado.
+Es importante recordar que una TN aumentada no hace el diagnóstico de aneuploidía fetal, sino que
+indica que el riesgo de aneuploidía es mayor que el que corresponde a la edad de la paciente. La mayoría de
+los fetos con TN aumentada no presentan alteración del número de sus cromosomas, es decir son euploides.
+e. Riesgo de preeclampsia y restricción de crecimiento fetal: en la ecografía 11–14 semanas puede evaluarse
+el flujo de las arterias uterinas mediante Doppler. Un índice de pulsatilidad (IP) elevado se asocia a mayor
+riesgo de preeclampsia y/o restricción del crecimiento fetal; sin embargo, utilizado de forma aislada tiene
+capacidad limitada como prueba de tamizaje. Para analizar la resistencia se utiliza el IP promedio de ambas
+arterias uterinas y se considera elevado cuando es > percentil 95 para la edad gestacional.
+En la práctica, el mayor rendimiento del Doppler uterino se obtiene cuando se incorpora a modelos
+multivariables de cribado del primer trimestre, integrando factores maternos, presión arterial media y,
+cuando está disponible, marcadores bioquímicos como PlGF y/o PAPP-A, como en el modelo de la Fetal
+Medicine Foundation.
+Usando este modelo multivariado de cribado de preeclampsia entre 11–14 semanas, se obtuvieron
+tasas de detección aproximadas de 77% para preeclampsia precoz (<34 semanas) y 43% para preeclampsia
+tardía (≥34 semanas), para una tasa de falsos positivos de 10%. Las pacientes identificadas como de alto riesgo
+fueron randomizadas a aspirina 150 mg vs placebo, iniciada idealmente antes de las 16 semanas y mantenida
+hasta las 36 semanas, observándose una reducción cercana al 62% de preeclampsia pretérmino, atribuible a
+la profilaxis con aspirina en este grupo de alto riesgo.
+Es importante destacar que los mejores resultados de la profilaxis con ácido acetil salicílico son en el
+subgrupo de pacientes de alto riesgo de PE. Por lo cual, es importante determinar cuáles son las pacientes
+que pertenecen al grupo de mayor riesgo. En nuestra unidad utilizamos el modelo predictivo de la Fetal
+Medicine Foundation para predicción y prevención de PE, el que utiliza: factores de riesgo maternos, presión
+arterial media, índice de pulsatilidad de la arteria uterina y factor de crecimiento placentario sérico (PlGF). Ver
+capítulo SÍNDROME HIPERTENSIVO DEL EMBARAZO para mayores detalles.
+III. Ecografía 20-24 semanas: “Ecografía Morfológica”.
+Se considera la ecografía más importante del embarazo. En ella se evalúa de modo directo la
+anatomía fetal para confirmar su normalidad o sospechar malformaciones. Se debe realizar un examen
+detallado de la cabeza, macizo facial (labio superior, nariz, órbitas, hueso y perfil nasales), cuello, tórax,
+corazón, abdomen y extremidades.
+Objetivos de la ecografía 20-24 semanas
+• Evaluar biometría fetal
+• Estudio anatómico y funcional de órganos
+• Evaluación de la longitud cervical
+• Determinación de riesgo de preeclampsia y restricción de crecimiento fetal mediante el Doppler de
+arterias uterinas.
+• Observar anomalías de la placenta y del líquido amniótico
+
+a. Anatomía fetal: deben estudiarse todos los segmentos corporales, habitualmente siguiendo un esquema
+sistematizado desde la cabeza hasta las extremidades. Como parte del estudio rutinario de la anatomía, se
+hará una evaluación del corazón fetal mediante visión de cuatro cámaras y tractos de salida. Se estima que la
+sensibilidad de la ecografía morfológica para el diagnóstico de malformaciones varía ampliamente según el
+tipo de defecto, además del operador y la calidad del equipo. En términos generales, puede ser:
+• > 90% para malformaciones mayores evidentes (por ejemplo, anencefalia, onfalocele, agenesia
+renal bilateral).
+• 60–80% para cardiopatías estructurales, aun con estudio sistematizado.
+• Menor para anomalías leves o sutiles (por ejemplo, algunas alteraciones faciales o esqueléticas).
+Por ello, debe considerarse que la ecografía morfológica no descarta el 100% de las malformaciones,
+y algunas se diagnosticarán en el período neonatal.
+En esta ecografía se efectúa una biometría (medición de segmentos corporales). Se miden los
+diámetros cefálicos: biparietal (DBP) y fronto-occipital (DFO), circunferencia abdominal (CA) y longitud
+femoral (LF). No es necesaria la estimación del peso fetal, pero sí verificar que las mediciones sean acordes a
+la edad gestacional (con un margen de error de +/- 2 semanas).
+La sospecha de una malformación en una ecografía requiere una reevaluación, eventualmente en
+nivel superior o en centros terciarios para permitir un estudio anatómico más detallado. Como aforismo
+ecográfico recomendamos: “si encuentra una malformación busque la segunda, si ya hay dos, busque la
+tercera, y así sucesivamente”. A mayor número de defectos detectados, mayor es el riesgo de aneuploidía
+(ver tabla siguiente). Formulado el diagnóstico, se entrega la información a la pareja incluyendo el consejo de
+diagnóstico genético, pronóstico y tratamiento pre y neonatal según el caso. La evaluación detallada permite,
+adicionalmente, evaluar la presencia o ausencia de marcadores débiles de aneuploidía (Ver Capítulo 8:
+CONSEJERÍA GENÉTICA Y DIAGNÓSTICO ANTENATAL).
+Defectos fetales Riesgo alteración
+Cromosómica
+1 2 %
+2 11 %
+3 32 %
+4 52 %
+5 66 %
+Más de 8 92 %
+En la tabla siguiente, se muestran los principales reparos anatómicos que deben ser analizados en la
+ecografía morfológica 20-24 semanas.
+Sitio anatómico Evaluación
+Cabeza Cráneo, DBP, DFO, atrio, cisterna magna, cerebelo, presencia de cavum
+septum pellucidum y columnas del fórnix.
+Cara y Cuello Perfil fetal, distancia interorbitaria, labio superior, mentón, cuello.
+Tórax Tamaño y simetría, campos pulmonares, configuración normal costillas.
+Corazón Posición, cuatro cámaras, tractos de salida, tabique interventricular.
+Abdomen Situs abdominal, CA, pared anterior, cámara gástrica, riñones, pelvis
+renal, vejiga, arterias umbilicales e inserción del cordón umbilical.
+Columna Evaluación de arcos en plano sagital, transversal y coronal.
+Genitales Identificar sexo.
+Extremidades Longitud femoral (LF), longitud húmero (LH), presencia y movimiento,
+posición de las manos y pies, eje de las piernas.
+Placenta y Anexos Ubicación de la placenta, número de vasos del cordón y sitio de inserción,
+cantidad de líquido amniótico.
+
+b. Placenta y líquido amniótico: la localización placentaria es fácilmente visible en la ecografía, lo más habitual
+es que la placenta se encuentre en el fondo y cara posterior de la cavidad uterina. Si la placenta se encuentra
+cubriendo el orificio cervical interno, se formulará el diagnóstico de placenta previa. Es importante notar que
+solo un 10% de los casos de placenta previa diagnosticada en la ecografía de las 20-24 semanas, permanecerán
+como placenta previa al término del embarazo, de modo que la localización placentaria debe ser reevaluada
+en el tercer trimestre, y no debe alarmarse innecesariamente a la paciente por el hallazgo de una placenta
+previa a esta edad gestacional.
+Es importante estudiar el cordón umbilical, el que se inserta habitualmente en el centro de la
+placenta. La inserción periférica del cordón en la placenta puede asociarse a una inserción velamentosa del
+cordón. En la inserción velamentosa, el segmento más distal del cordón está desprovisto de la gelatina de
+Wharton (que normalmente protege los vasos umbilicales), de modo que los vasos están sólo cubiertos por
+las membranas fetales. La ecografía permite además verificar si el cordón umbilical posee tres vasos
+sanguíneos (dos arterias y una vena), se ha observado que la presencia de solo una arteria umbilical se asocia
+a mayor riesgo de cromosomopatías o malformaciones fetales (musculoesqueléticas, renales, tubo digestivo,
+cardiacas y cerebrales) o restricción del crecimiento fetal, por lo que la detección de una sola arteria umbilical
+en el cordón obliga a una evaluación detallada del feto y un seguimiento del crecimiento fetal.
+El líquido amniótico se produce fundamentalmente a partir de la secreción de líquido por el pulmón
+fetal y excreción de orina fetal. Los sistemas encargados de renovarlo son principalmente la barrera
+corioamniótica y la deglución fetal. El volumen de líquido amniótico se recambia aproximadamente tres veces
+cada día. Las alteraciones en los mecanismos de producción y/o recambio del líquido amniótico producen
+modificaciones de su cantidad, lo que puede observarse en la ecografía.
+Se denomina oligoamnios (oligohidroamnios) a la reducción y polihidroamnios al aumento en la
+cantidad de líquido amniótico. El oligoamnios detectado en la ecografía 20-24 semanas es de muy mal
+pronóstico y se debe habitualmente a patología renal fetal (Ej. agenesia renal, obstrucción de la vía urinaria).
+El polihidroamnios posee múltiples causas y en general encierran un pobre pronóstico fetal. Para más detalles
+sobre oligoamnios y polihidroamnios es posible revisar el Capítulo. EVALUACIÓN FETAL ANTEPARTO.
+La cuantificación del líquido amniótico en la ecografía 20-24 se realiza en forma subjetiva o mediante
+la medición de un bolsillo vertical único. En edades gestacionales más avanzadas, cuando el abdomen puede
+dividirse en cuatro cuadrantes, se estima midiendo un bolsillo único o los “bolsillos” de líquido amniótico en
+cada cuadrante y calculando el índice de líquido amniótico como se explicará más adelante en este capítulo.
+c. Cervicometría: la evaluación ecográfica del cuello uterino debe hacerse por vía vaginal, midiendo la longitud
+del canal cervical, en línea recta, desde el orificio cervical interno (OCI) al externo (OCE), teniendo la paciente
+la vejiga vacía y cuidando no ejercer excesiva presión con el transductor. (Figura 4) Durante un examen
+alterado, es posible observar dilatación del OCI y la protrusión de las membranas hacia el canal formando un
+embudo (“funnel”). Si se detecta funnel, el canal cervical debe medirse desde el ápice del embudo hasta el
+OCE.
+Existe una correlación muy
+buena entre la longitud cervical medida
+por ecografía vaginal previo a las 24
+semanas y el riesgo de parto
+prematuro, siendo ésta una variable
+continua, de modo que es posible decir
+que mientras más corto es el cuello,
+mayor es el riesgo de parto prematuro.
+Como valor de corte para predecir alto
+o bajo riesgo de parto prematuro se
+recomienda utilizar 25 mm para
+población de alto riesgo y 20 mm para
+población de bajo riesgo.
+Se recomienda efectuar cervicometría transvaginal de forma rutinaria (tamizaje universal) entre 18-
+24 semanas, dado su alto valor predictivo para parto prematuro espontáneo, incluso en mujeres sin
+antecedentes ni factores de riesgo conocidos, permitiendo identificar oportunamente a quienes se benefician
+
+de intervenciones preventivas. Una embarazada
+con cervicometría < 20 mm en la ecografía 18-24
+semanas, tiene un riesgo cercano al 30% de parto
+prematuro antes de las 35 semanas, ese riesgo se
+reduce en un 30-40% con intervenciones
+terapéuticas (progesterona, cerclaje). Pasadas las
+32 semanas, este screening va perdiendo su
+utilidad ya que hay un acortamiento fisiológico del
+cérvix uterino.
+d. Riesgo de preeclampsia y restricción de
+crecimiento fetal: en la ecografía 20-24 semanas,
+es posible estudiar el flujo a través de las arterias
+uterinas mediante Doppler. El aumento de
+resistencia en las arterias uterinas a esta edad
+gestacional se asocia con mayor riesgo de
+desarrollar preeclampsia o restricción de
+crecimiento fetal. Como se indicó antes, para evaluar la resistencia en las arterias uterinas, se usa el IP
+promedio de ambas arterias, considerando aumento de resistencia a un promedio > percentil 95 para esta
+edad gestacional.
+Las tasas de detección de PE precoz y tardía mediante el IP promedio alcanzan 90% para un 10% de
+FP. Sin embargo, a diferencia del inicio de aspirina antes de las 16 semanas, a esta edad gestacional, no tiene
+un valor significativo como profilaxis. El Colegio Americano de Obstetricia y Ginecología (ACOG) y la Sociedad
+de Medicina Materno Fetal (SMFM) recomiendan el uso de Aspirina en mujeres con alto riesgo de
+preeclampsia, iniciando el tratamiento entre las 12 y 28 semanas, idealmente antes de las 16 semanas.
+En mujeres con aumento de resistencia en
+arterias uterinas, se recomienda un control prenatal
+más estricto, con vigilancia del crecimiento fetal y de la
+aparición hipertensión arterial.
+IV. Ecografía 32-36 semanas
+Es la última ecografía rutinaria en el embarazo
+y está destinada principalmente a estimar el peso fetal
+(biometría y estimación ecográfica del peso fetal). La
+ecografía es útil a esta edad gestacional para evaluar el
+bienestar fetal mediante el uso del Perfil Biofísico o
+Doppler si es necesario según el caso. También es
+relevante evaluar el líquido amniótico y la localización
+placentaria.
+Objetivos de la ecografía del tercer trimestre
+• Diagnosticar anomalías del crecimiento fetal
+• Evaluar el bienestar fetal: PBF y Doppler si necesario.
+• Evaluar la cantidad de líquido amniótico
+• Visualizar la ubicación placentaria
+a. Biometría y estimación de peso fetal: mediante la ecografía, pueden medirse diferentes parámetros
+antropométricos del feto, los más relevantes son:
+• Diámetro biparietal (DBP). (Figura 5) Se mide en un corte axial de la cabeza fetal. La técnica correcta de
+medición requiere la visualización del tálamo (en línea media al centro), y del “cavum del septum
+pellucidum” (espacio situado en la parte media del encéfalo con forma de hendidura); no debe
+
+visualizarse el cerebelo. El DBP se mide como la máxima distancia entre ambos huesos parietales. El
+caliper se localiza en la tabla externa hacia proximal y en la tabla interna hacia distal.
+• Diámetro fronto-occipital (DFO): se mide desde el hueso frontal al occipital en el mismo corte en que se
+midió el DBP. Con la medida del DBP y DFO es posible estimar el perímetro craneano. Los equipos de
+ultrasonido disponen de una herramienta (elipse) que permite medir directamente el perímetro
+craneano.
+• Circunferencia Abdominal (perímetro) o Diámetro Abdominal anteroposterior y Transverso. (Figura 6)
+La medición del perímetro abdominal se efectúa en un corte axial a nivel del ombligo. La técnica correcta
+requiere la observación de un corte en que sea visible el estómago (cámara gástrica), la columna y la vena
+umbilical que confluye con el seno portal; no
+deben visualizarse los riñones. Puede medirse
+directamente el perímetro abdominal, o bien los
+diámetros anteroposterior (DAAP) y transverso
+(DAT) y calcular la circunferencia abdominal.
+• Longitud Femoral (LF): (Figura 7) La longitud del
+fémur es la medición de la diáfisis femoral de
+extremo a extremo; se realiza en el eje
+longitudinal del fémur teniendo únicamente en
+cuenta la parte osificada (diáfisis y metáfisis). Las
+porciones cartilaginosas del hueso (cabeza
+femoral, trocánteres y núcleo de osificación
+distal), se identifican como estructuras
+hipoecoicas proximales y distales a la diáfisis, y
+no se deben incluir en la medición. Es una
+medida fácil de hacer, pero debe evitarse la
+confusión con otro hueso largo como el húmero.
+Como referencia anatómica se sugiere mirar la
+vejiga fetal; el hueso más cercano a la vejiga fetal es el fémur.
+• Estimación de peso fetal (EPF): existen fórmulas matemáticas que relacionan los parámetros
+antropométricos para estimar el peso fetal. Habitualmente usan: DBP (o perímetro cefálico), el perímetro
+abdominal (o sus diámetros) y la longitud femoral. La fórmula de uso más difundido es la fórmula de
+Hadlock (1985), para la cual se ha demostrado la mayor precisión y certeza diagnóstica. La estimación de
+peso fetal ecográfico tiene un 10% de error. La EPF se compara con el patrón de crecimiento intrauterino
+(correspondiente a la edad gestacional) para saber si el feto tiene un peso normal o si se encuentra fuera
+de rango (rango normal entre percentil 10 y 90). Para la evaluación del crecimiento fetal se recomienda
+utilizar curvas estandarizadas validadas, tales como INTERGROWTH-21st y/o OMS (fueron publicadas en
+2017 y es lo que usamos en nuestra unidad), o bien curvas personalizadas según características maternas
+y población local, de acuerdo con la disponibilidad y la política clínica del centro.
+b. Evaluación del bienestar fetal: se denomina “evaluación del bienestar fetal” a un conjunto de pruebas
+(ecográficas u otras) que permiten conocer si el feto se encuentra en buenas condiciones, específicamente si
+su oxigenación es apropiada. Como se verá en el Capítulo. EVALUACIÓN FETAL ANTEPARTO, mediante
+ecografía es posible evaluar el bienestar fetal efectuando un perfil biofísico fetal (PBF) o una velocimetría
+Doppler de vasos fetales.
+c. Líquido amniótico: el líquido amniótico es anecogénico, de modo que se ve negro. La ecografía permite
+estimar la cantidad de líquido amniótico de modo subjetivo u objetivo. La evaluación subjetiva es la impresión
+de quien hace la ecografía, basado en su experiencia de que el líquido amniótico se encuentra normal,
+aumentado o disminuido. La evaluación objetiva requiere la medición de los “bolsillos de líquido amniótico”.
+Para medir un bolsillo de líquido amniótico, el transductor se pone perpendicular al abdomen
+materno, y se mide la profundidad del líquido amniótico en el sitio en que se pone el transductor. (Figura 8)
+La evaluación del volumen de líquido amniótico puede realizarse mediante estimación subjetiva o con
+
+medición objetiva. En la medición objetiva existen dos métodos: bolsillo vertical único mayor (BVM) e índice
+de líquido amniótico (ILA).
+En la actualidad, múltiples estudios y guías
+recomiendan privilegiar el BVM, ya que el ILA tiende
+a sobre diagnosticar oligohidroamnios sin demostrar
+mejora en resultados perinatales, lo que puede
+conducir a intervenciones innecesarias. En este
+capítulo se describen ambos métodos, considerando
+que el BVM es el método preferente para la
+clasificación clínica del volumen de líquido amniótico.
+Para calcular el ILA se divide el abdomen
+materno en 4 cuadrantes, se mide el bolsillo de
+mayor tamaño en cada cuadrante. La sumatoria de
+las mediciones de los cuatro cuadrantes constituye el
+índice de líquido amniótico (ILA).
+La evaluación mediante el análisis del mayor
+bolsillo se llama criterio de Manning (el inventor del
+perfil biofísico fetal), la evaluación del líquido
+amniótico mediante ILA se conoce como criterio de
+Phelan (el inventor del ILA). En la tabla siguiente, se
+muestran los criterios diagnósticos de patología del volumen de líquido amniótico en la ecografía de tercer
+trimestre según Manning y Phelan.
+Criterio Manning Criterio Phelan (ILA)
+Bolsillo mayor < 2 cm Oligoamnios ILA < 5 cm Oligoamnios
+Bolsillo mayor 2 - 8 cm LA Normal ILA 5 – 8 cm LA disminuido
+Bolsillo mayor ≥ 8 cm Polihidroamnios ILA 8 – 18 cm LA normal
+ILA 18 – 24 cm LA aumentado
+ILA ≥ 25 cm Polihidroamnios
+• ILA 25 - 29 PHA leve
+• ILA 30- 34 PHA moderado
+• ILA ≥35 PHA severo
+d. Inserción placentaria: la inserción o ubicación placentarias debe evaluarse en la ecografía de tercer
+trimestre para descartar placenta previa. Placenta previa es aquella que se implanta en el segmento inferior
+del útero, de modo que ésta tiene una posición caudal con respecto a la presentación fetal al momento del
+parto; es decir, la placenta está más cerca del orificio cervical interno que el feto. Para más detalles es posible
+revisar el Capítulo. METRORRAGIA DE LA SEGUNDA MITAD DEL EMBARAZO.
+Habitualmente la localización placentaria es fácilmente identificable en una ecografía abdominal; sin
+embargo, en casos límites, especialmente si la placenta está en la cara posterior del útero, una ecografía
+vaginal permitirá visualizar mejor el borde de la placenta y definir qué tan cerca se encuentra del orificio
+cervical interno (OCI).
+Como se dijo antes, en aquellos casos en que se diagnosticó placenta previa en la ecografía 20-24
+semanas, se recomienda reevaluar el diagnóstico de placenta previa en el tercer trimestre, la mayoría de las
+placentas que cubren el OCI en el segundo trimestre, estarán en localización normal al final del embarazo
+producto del crecimiento uterino.
+
+Resumen
+• La ecografía es el mejor medio no invasivo de vigilar del bienestar fetal. Durante el embarazo se
+recomienda solicitar al menos cuatro ecografías, aunque MINSAL recomienda sólo la realización de
+tres, logrando cobertura del 70-80%.
+• Ecografía del primer trimestre o precoz: 7-12 semanas, habitualmente realizada por vía vaginal y cuya
+principal utilidad es determinar la edad gestacional. Además, debe evaluar la localización del
+embarazo y el saco gestacional señalando el número de embriones y su vitalidad, pudiendo incluso
+precisar, en casos de embarazo gemelar, si este es mono o biamniótico y su corionicidad. Por último,
+además de buscar patologías asociadas maternas (miomas, malformaciones o quistes) hay algunos
+signos que deben mirarse pues permiten predecir el riesgo de aborto del embarazo. Estos son
+conocidos como “signos de mal pronóstico” e incluyen: hematoma retroplacentario mayor a 40% del
+espacio que ocupa el saco, FC menor a 100 lpm después de las 7 semanas, relación saco gestacional:
+embrión disminuida y saco vitelino con un diámetro mayor a 5 mm o con calcificaciones. Ante la
+presencia de estos signos, el embarazo debe continuar siendo vigilado y si el aborto no se produce
+antes de la siguiente ecografía, este continúa como un embarazo de bajo riesgo.
+• Ecografía 11-14 semanas, la cual es realizada por vía abdominal y cuyo objetivo principal es evaluar el
+riesgo de aneuploidías fetales mediante la medición de la TN (ajustado a edad materna), hueso nasal,
+velocimetría Doppler del ducto venoso y evaluación de la regurgitación tricuspídea. Además, puede
+estimar la EG (mediante LCN, DBP y longitud femoral) con márgenes de error razonables, por lo que
+en Chile (ante la recomendación MINSAL de 3 ecografías en el embarazo) los objetivos de la ecografía
+precoz deben ser abarcados en esta. Acá debe precisarse la corionicidad, lo que se hace observando la
+llegada de la membrana interamniótica a la masa placentaria (signo T: embarazo monocorial, signo
+Lambda: embarazo bicorial). Además, pueden detectarse malformaciones de la anatomía fetal gruesa
+(cráneo, corazón, pared abdominal anterior y vejiga). Por último, se puede estudiar el flujo a través de
+las arterias uterinas para estimar el riesgo a desarrollar preeclampsia y RCF. Si bien un aumento de la
+resistencia en dichas arterias (analizado mediante el índice de pulsatilidad [IP] promedio entre ambas
+arterias uterinas) tiene un bajo valor predictivo positivo para dichas patologías, el uso de aspirina
+profiláctica en estas pacientes es un tratamiento fácil y de bajo riesgo que justifica la medición del
+Doppler de arterias uterinas a esta EG.
+• Ecografía morfológica: 20-24 semanas. Se considera la más importante puesto que evalúa la anatomía
+fetal mediante biometría fetal (diámetros cefálicos, circunferencia abdominal y longitud femoral). A
+mayor número de defectos encontrados, mayor es el riesgo de aneuploidías. Por otro lado, se debe
+determinar la ubicación de la placenta, del cordón y la evaluación subjetiva del líquido amniótico. Por
+otro lado, permite evaluar el riesgo de preeclampsia, RCF (mediante Doppler de arterias uterinas) y de
+parto prematuro a través de la cervicometría. Un cuello menor a 20mm de longitud tiene un riesgo de
+30% de parto prematuro, el cual se reduce en un 30-40% con tratamiento (progesterona/cerclaje).
+• Ecografía tercer trimestre: 32-36 semanas, cuyo objetivo es evaluar el crecimiento fetal a través del
+peso fetal. Este último se estima midiendo diámetro biparietal, circunferencia abdominal y longitud
+femoral. Con dichos parámetros se aplica una fórmula que estima el peso fetal, con un 10% de error.
+Además, es importante la evaluación del bienestar fetal, de la ubicación placentaria y del líquido
+amniótico, para hacer el diagnóstico de líquido amniótico normal, oligoamnios o polihidroamnios
+según criterios de Manning o Phelan (ILA).
+
+Pá gin a | 98

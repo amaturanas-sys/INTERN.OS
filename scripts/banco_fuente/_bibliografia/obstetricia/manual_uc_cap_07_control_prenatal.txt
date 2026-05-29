@@ -1,0 +1,355 @@
+Capítulo 7.
+CONTROL PRENATAL
+Es el conjunto de acciones y procedimientos sistemáticos y
+periódicos destinados a la prevención, diagnóstico y tratamiento de
+los factores que puedan condicionar morbimortalidad materna y
+perinatal.
+El registro del control prenatal debe llevarse detalladamente
+en la ficha clínica (de papel o electrónica); sin embargo, suele usarse
+un “carné de control prenatal” (Figuras 1-3), donde el médico o
+matrona registra los eventos más importantes de la evolución del
+embarazo. Debe tenerse presente que el registro en el carné de
+control prenatal no reemplaza a la ficha, y que el uso del carné de
+control no es obligatorio.
+Los objetivos del control prenatal son:
+• Identificar los factores de riesgo
+• Determinar la edad gestacional
+• Diagnosticar la condición fetal
+• Diagnosticar la condición materna
+• Educar a la madre
+IDENTIFICACIÓN DE LOS FACTORES DE RIESGO
+Factor de riesgo: corresponde a la característica biológica,
+social o ambiental que al estar presente se asocia con un aumento de
+la probabilidad de que, tanto la madre como el feto y el recién nacido,
+puedan sufrir un daño. Desde el punto de vista médico, el daño es la
+morbimortalidad que puede experimentar un individuo como
+consecuencia de la acción del factor de riesgo.
+Durante el control prenatal, mediante anamnesis, examen
+físico y evaluaciones de laboratorio e imágenes, se detectará la presencia de factores de riesgo. Si estos son
+detectados, la embarazada debe ser derivada a un nivel superior de control (Ej. desde el consultorio al
+policlínico de alto riesgo en el hospital, o desde un médico ginecólogo obstetra general a un especialista en
+medicina materno-fetal). El sistema nacional de salud clasifica los factores de riesgo en leves, moderados y
+altos, y asigna un puntaje a cada factor de riesgo presente. Según el puntaje obtenido se establece una
+estrategia de derivación.
+Factores de riesgo social
+• Analfabetismo.
+• Ruralidad.
+• Trabajo pesado.
+• Mala red de apoyo, algo particularmente importante en el embarazo adolescente.
+• Extrema pobreza.
+Factores de riesgo biológico
+• Edad materna extrema (menor a 14 años o mayor a 35 años).
+• Obesidad o desnutrición materna.
+
+• Antecedentes obstétricos adversos: aborto
+provocado, malformaciones congénitas,
+aborto recurrente, cicatriz uterina de cesárea,
+muerte perinatal, bajo peso al nacer, parto
+prematuro, rotura prematura de membranas.
+• Enfermedades crónicas maternas:
+neurológicas o psiquiátricas, HTA, DM,
+cardiopatías, enfermedades
+infectocontagiosas (Ej. VIH).
+• Enfermedades del embarazo actual:
+embarazo múltiple, colestasia intrahepática,
+Rh negativa sensibilizada, rotura prematura
+de membranas, preeclampsia, metrorragia
+del segundo trimestre, etc.
+Factores de riesgo ambiental
+• Hábitos: drogas, alcohol, tabaco, entre otros. En
+el caso particular del consumo de cocaína es
+relevante propiciar la suspensión debido a los
+riesgos asociados de SHE y DPPNI, principalmente.
+• Actividad laboral: exposición a químicos (Ej.
+pesticidas en mujeres que manipulan alimentos
+agrícolas) o radiación ionizante (Ej. tecnólogos
+médicos).
+• Contaminación ambiental (aire, aguas,
+alcantarillas, etc.): en ciudades cercanas a faenas
+industriales como la minería, se ha evidenciado
+riesgo de exposición al plomo o arsénico.
+DETERMINACIÓN DE LA EDAD GESTACIONAL
+Un pilar fundamental del control prenatal es el correcto diagnóstico de la edad gestacional. Este
+diagnóstico preciso debe formularse en el primer control prenatal (máximo el segundo si se solicita ecografía).
+Como se explicó en el capítulo 4: DIAGNÓSTICO DE EDAD GESTACIONAL, el diagnóstico preciso se basa en
+conocer la FUM segura y confiable y una ecografía precoz (7-10 semanas).
+CONTROL DE LA CONDICIÓN FETAL
+En cada control se procurará certificar el bienestar basado en los métodos clínicos de evaluación fetal
+(para más detalles ver el capítulo 12. EVALUACIÓN FETAL ANTEPARTO). En cada control prenatal se hará:
+• Medición de altura uterina (AU): esta prueba es útil desde las 20 semanas en adelante. La AU se correlaciona
+con el crecimiento fetal. Si es menor que la esperada, pensar en restricción de crecimiento fetal (RCF) y, por
+el contrario, si es mayor de lo esperable, pensar en un feto grande para la edad gestacional (GEG). Existen
+otras causas de altura uterina aumentada o disminuida como se mencionó en el capítulo 1. SEMIOLOGÍA
+OBSTÉTRICA.
+• Estimación clínica del peso fetal: maniobra útil en manos entrenadas desde las 28 semanas en adelante. En
+estas condiciones la estimación clínica del peso fetal tiene un 10% de error (similar a la ecografía).
+
+• Estimación clínica del líquido amniótico: la palpación fácil de
+las partes fetales hace sospechar un oligoamnios, por el
+contrario, si el feto es difícil de palpar y “pelotea” en la
+cavidad uterina, debe sospecharse un polihidroamnios. En
+caso de sospecha debe solicitarse una ecografía.
+• Auscultación de latidos cardíacos fetales: mediante el
+Doppler obstétrico desde las 12 semanas en adelante, o con
+el estetoscopio de Pinard desde las 20 semanas.
+• Monitorización materna de los movimientos fetales: en las
+primigestas suelen percibirse desde las 20 semanas, mientras
+que en las multíparas desde las 18 semanas.
+CONTROL DE LA CONDICIÓN MATERNA
+En cada control prenatal se vigilará la condición de
+salud materna, mediante anamnesis y examen físico. El
+objetivo es recabar información remota y próxima de
+elementos normales y mórbidos, tanto personales como
+familiares, conocer el motivo de consulta y la aparición de
+síntomas, normales y patológicos. En el primer control se hará una anamnesis y examen físico completo (ver
+capítulo 1. SEMIOLOGÍA OBSTÉTRICA), mientras que en los demás controles prenatales se hará una anamnesis
+y examen físico dirigido a elementos específicos.
+Anamnesis: preguntar cómo se ha sentido en general, usando preguntas abiertas (“¿Cómo se ha
+sentido?”, “¿Ha tenido alguna molestia?”). No se recomienda completar un listado de preguntas
+preestablecidas, pues pueden desviar la atención de la embarazada y el médico hacia síntomas irrelevantes.
+Examen físico
+• Examen obstétrico abdominal apropiado a la edad gestacional.
+• Peso materno, se mide en cada control prenatal. Se calcula el IMC y se grafica en el carné de control prenatal.
+(Figuras 4) Debe vigilarse que el incremento de peso sea normal, aproximadamente 1 kg por mes, para
+completar no más de 7-12 kg en todo el embarazo.
+• Presión arterial, se mide en cada control.
+Exámenes de rutina
+• Al ingreso a control prenatal se solicitan los siguientes exámenes de rutina:
+o Clasificación grupo sanguíneo y Rh.
+o Coombs indirecto independiente del grupo sanguíneo materno. (ver capítulo 32. PREVENCIÓN DE LA
+ENFERMEDAD HEMOLÍTICA PERINATAL)
+o VIH, requiere consentimiento escrito. El MINSAL recomienda repetir el VIH entre las 32 y 34 semanas de
+gestación a aquellas mujeres con mayor riesgo de adquirir VIH. En algunos lugares este segundo VIH se
+solicita a todas las mujeres, independiente de sus factores de riesgo.
+o VDRL o RPR. Si la prueba es positiva, se solicitará una prueba treponémica. En el sistema público, y si no
+se tiene seguridad de contar pronto con el resultado de la prueba treponémica, se recomienda iniciar el
+tratamiento con penicilina, a la espera del resultado.
+o Sedimento de orina y urocultivo: un 10% de las mujeres presentará una bacteriuria asintomática. La
+bacteriuria asintomática es un factor de riesgo para parto prematuro.
+o Glicemia de ayuno.
+o Hemograma o hematocrito-hemoglobina, para el diagnóstico de anemia. Recordar los niveles normales
+de hematocrito en el embarazo: 1° y 3° trimestre > 33%, 2° trimestre > 30%.
+
+o TSH: en Chile aún no existe una norma nacional de tamizaje universal, pero cada vez se solicita con mayor
+frecuencia en el control prenatal. Su uso se justifica por la alta frecuencia de hipotiroidismo subclínico, la
+disponibilidad y seguridad de la prueba y del tratamiento, y las posibles consecuencias perinatales del
+hipotiroidismo clínico. Sin embargo, las principales sociedades científicas (ACOG, Endocrine Society) no
+recomiendan tamizaje universal, sino dirigido a mujeres con factores de riesgo (antecedente personal o
+familiar de patología tiroidea, bocio, diabetes tipo 1 u otras enfermedades autoinmunes, infertilidad,
+abortos recurrentes, uso de amiodarona o litio, entre otros), ya que no se ha demostrado de forma
+consistente un beneficio del tratamiento del hipotiroidismo subclínico sobre el neurodesarrollo infantil.
+Cada centro debe definir su estrategia considerando estos elementos y la epidemiología local.
+o HBsAg: la evidencia internacional recomienda el tamizaje universal de hepatitis B (HBsAg) al inicio del
+control prenatal en todos los embarazos, independiente de la prevalencia local, ya que la identificación
+precoz de mujeres portadoras permite implementar inmunoprofilaxis específica en el recién nacido
+(inmunoglobulina anti-HB + vacuna) y, cuando corresponda, tratamiento antiviral materno, reduciendo la
+transmisión vertical en más del 95% de los casos. En Estados Unidos y otros países esto es estándar desde
+hace años. En Chile, la implementación del tamizaje universal ha sido progresiva y no siempre
+homogénea; se debe seguir la norma nacional vigente del MINSAL y, en caso de duda, es razonable ofrecer
+tamizaje a todas las embarazadas y completar la vacunación en quienes no son portadoras ni están
+inmunizadas.
+o Chagas: se debe solicitar en embarazadas de zona endémica (desde la Región de Arica y Parinacota hasta
+la Región de O’Higgins, incluida la Región Metropolitana), según Norma General Técnica (Control y
+Prevención Nacional de Enfermedad de Chagas 2014).
+o Papanicolaou: se debe realizar en el primer control antenatal si no cuenta con examen según la norma
+vigente. El Control prenatal es una importante instancia para realizar el tamizaje de lesiones premalignas
+y malignas del cuello uterino, muchas veces es el primer control ginecológico de las mujeres en edad fértil.
+• Entre 28-32 semanas se solicitan los siguientes exámenes.
+o VDRL o RPR.
+o Test de tolerancia oral a la glucosa (TTOG) con 75 gr de glucosa.
+o Hemograma o hematocrito.
+o Test de Coombs Indirecto, en mujeres Rh (-) no sensibilizadas. Ver capítulo PREVENCIÓN DE LA
+ENFERMEDAD HEMOLÍTICA PERINATAL.
+• Entre 36-37 semanas.
+o Cultivo vagino-perineal para identificar portación de estreptococo grupo B (SGB) (ver capítulo
+PREVENCIÓN DE SEPSIS NEONATAL POR SGB Y TRANSMISIÓN VIH).
+o VDRL o RPR.
+• Al ingreso a la maternidad en trabajo de parto.
+o VDRL o RPR: estudios recomiendan tamizaje para sífilis al momento del parto, con VDRL o RPR, en zonas
+de alta prevalencia como el caso de Chile. La solicitud de VDRL o RPR en sangre materna es norma nacional
+en Chile.
+Ecografías de rutina
+o Ecografía precoz (7-10 semanas): permite diagnosticar o confirmar la edad gestacional, el número de fetos
+y su viabilidad, y es la base para una datación confiable del embarazo.
+o Ecografía 11-14 semanas: permite medir la translucencia nucal y otros marcadores de aneuploidía, útil en
+la evaluación del riesgo de trisomías y algunas cardiopatías congénitas. En esta ecografía es posible
+realizar Doppler de arterias uterinas para estimar riesgo de preeclampsia y restricción del crecimiento
+intrauterino, como parte de estrategias de tamizaje de primer trimestre.
+o Ecografía morfológica (20-24 semanas): estudia en detalle la anatomía fetal. En embarazos de riesgo
+aumentado de parto prematuro (por ejemplo, antecedente de parto prematuro espontáneo) se
+recomienda agregar cervicometría transvaginal como predictor de riesgo. En embarazos de bajo riesgo,
+
+la cervicometría universal sigue siendo materia de debate y su indicación puede individualizarse según la
+política del centro. El Doppler de arterias uterinas puede repetirse en este control en embarazos con
+factores de riesgo de preeclampsia o RCF.
+o Ecografía de tercer trimestre (aprox. 34-36 semanas): permite evaluar el crecimiento fetal, la localización
+placentaria y el volumen de líquido amniótico. En embarazos de bajo riesgo su utilización como examen
+de rutina no ha demostrado de forma consistente mejorar los desenlaces perinatales, pero en la práctica
+se utiliza con frecuencia en centros terciarios y está claramente indicada ante sospecha de RCF o GEG,
+alteraciones del líquido amniótico, placenta previa, patologías maternas (por ejemplo, DM
+pregestacional, HTA crónica) u otras condiciones de riesgo.
+Vacunas recomendadas en el embarazo
+o Influenza: una dosis en cualquier trimestre de la gestación durante la temporada de circulación del virus.
+o Tdap (tos convulsiva): una dosis entre las 27 y 36 semanas en cada embarazo, independiente de dosis
+previas, para optimizar la transferencia transplacentaria de anticuerpos al feto. En chile la norma nacional
+establece esta vacunación a las 28+0 semanas.
+o COVID-19: seguir siempre las recomendaciones vigentes del MINSAL y de las sociedades científicas, ya
+que la vacunación en el embarazo ha demostrado reducir el riesgo de enfermedad grave materna y
+complicaciones perinatales.
+o Otras vacunas (hepatitis B, hepatitis A, neumococo, etc.) se indican en situaciones específicas, según
+factores de riesgo maternos y normas locales.
+Indicaciones
+o Medidas generales: en cada uno de los controles, se harán indicaciones respecto de la vida habitual de la
+mujer embarazada, se informará de las restricciones (Ej. alcohol, tabaco, carne cruda, lácteos sin
+pasteurizar) y de las cosas que puede hacer sin inconvenientes (Ej. ejercicio, trabajo, actividad sexual,
+etc.).
+o Medicamentos: en el primer trimestre reforzar la indicación de ácido fólico (0,4 mg/día en población de
+bajo riesgo y 4 mg/día en población de alto riesgo) desde antes de la concepción o tan pronto se confirme
+el embarazo. Después de las 12 semanas se recomienda la suplementación sistemática con hierro,
+idealmente entre 30-60 mg de hierro elemental al día (por ejemplo, un comprimido de sulfato ferroso
+200 mg, que aporta ±60-65 mg de hierro elemental) y calcio (mediante ingesta de lácteos o comprimidos
+de calcio, según tolerancia y dieta). En caso de mala tolerancia gastrointestinal al hierro diario, puede
+utilizarse un multivitamínico sin hierro y agregar la suplementación con hierro en días alternos, dado que
+este esquema mantiene una respuesta hematológica adecuada y mejora la tolerancia en muchas
+pacientes.
+o Solicitar exámenes y/o ecografías de rutina.
+o Indicaciones especiales según patologías detectadas.
+o Citar al siguiente control prenatal (ver periodicidad).
+o Invitar a los cursos de preparación para el parto. (Figura 5)
+Periodicidad de los controles
+En la Red de Salud UC se utiliza un esquema de controles basado en las recomendaciones del Colegio
+Americano de Obstetricia y Ginecología (ACOG) para embarazos de bajo riesgo, adaptado a nuestra realidad
+asistencial:
+• Cada 4 semanas hasta las 28 semanas.
+• Cada 2–3 semanas entre las 28 y 36 semanas.
+• Cada 7 días entre las 36 y 41 semanas.
+En mujeres con factores de riesgo (patología obstétrica o médica, embarazo múltiple, etc.) la frecuencia de
+controles debe individualizarse y, en contextos apropiados, se pueden integrar controles virtuales combinados
+con controles presenciales sin disminuir la seguridad materno-fetal.
+
+EDUCACIÓN A LA MADRE
+En el sistema nacional de servicios de salud, los contenidos educativos están contenidos en el
+programa Chile crece contigo.
+Contenidos educacionales recomendados
+o Importancia del control prenatal.
+o Nutrición materna.
+o Ejercicio: en mujeres con embarazo de bajo riesgo no se recomienda restringir la
+actividad física, excepto deportes de alto impacto o contacto con riesgo de
+trauma abdominal (por ejemplo, esquí, equitación, artes marciales, fútbol
+competitivo). Se sugiere alcanzar al menos 150–300 minutos por semana de
+ejercicio aeróbico moderado (por ejemplo, caminar a paso rápido, bicicleta
+estática, natación) repartidos en 3–5 días, y añadir ejercicios de fortalecimiento
+muscular 2 veces por semana. Este nivel de actividad disminuye el riesgo de
+diabetes gestacional, ganancia excesiva de peso, preeclampsia, cesárea,
+macrosomía y síntomas depresivos, siempre que no existan contraindicaciones
+obstétricas.
+o Preparación para el parto: identificación de síntomas de trabajo de parto, saber
+cómo respirar y cómo pujar durante el período de expulsivo.
+o Sexualidad: la mujer puede tener actividad sexual durante el embarazo si no
+existen factores de riesgo como antecedente de parto prematuro, síntomas de
+aborto, embarazo gemelar, placenta previa o cerclaje, entre otros.
+o Beneficios legales.
+o Síntomas y signos de alarma.
+o Lactancia: enseñar previo al parto.
+o Cuidados del recién nacido: enseñar cómo se muda o cómo se pone al pecho el recién nacido.
+o Planificación familiar.
+Beneficios Legales de la mujer embarazada que deben ser comentados en el control prenatal:
+1. Asignación familiar: la asignación familiar es un monto de dinero que beneficia a la embarazada. Se
+obtiene mediante un certificado extendido por el médico o la matrona para ser presentado al empleador
+después del 5° mes de embarazo, con efecto retroactivo. El valor de la asignación varía según el sueldo.
+2. Descanso prenatal: la duración del descanso es de seis semanas (42 días) antes del parto. A este descanso
+se accede mediante una licencia (prenatal), emitida por el médico o la matrona. En embarazos normales,
+esta licencia se emite a las 34 semanas, pues esto coincide con 42 días antes de la fecha probable del
+parto. De acuerdo con la ley, si la paciente tiene su parto programado antes de las 40 semanas, la licencia
+debiera emitirse antes de las 34 semanas, por ejemplo, a las 32 semanas si el parto está programado a
+las 38 semanas (como sería el caso de una mujer con 2 cesáreas previas).
+3. Descanso postnatal: el actual postnatal es de doce semanas (84 días) que comienzan el día del parto. Se
+accede a él mediante una licencia postnatal emitida por el médico o matrona. Para extender esta licencia,
+la madre o el padre deben efectuar la inscripción del RN en el registro civil, pues esta licencia contiene un
+campo para el número del RUT del RN.
+4. Postnatal parental: es un permiso de doce semanas (84 días) al que tiene derecho la trabajadora, a
+continuación del postnatal, con pago de un subsidio que reemplaza su remuneración. Este permiso se
+puede usar por media jornada, donde aumenta a 18 semanas (126 días), recibiendo la mitad del subsidio
+señalado y, a lo menos, el 50% de las remuneraciones pactadas en el contrato. Si ambos padres son
+trabajadores, el padre puede hacer uso de este permiso si la madre así lo decide, pero sólo a contar de la
+séptima semana, es decir las primeras 6 semanas le corresponden siempre a la madre. Este descanso
+postnatal parental no requiere la emisión de una licencia.
+
+5. Fuero materno o inamovilidad: la madre tiene derecho a no ser despedida del trabajo hasta un año
+después de haber finalizado el descanso postnatal. No gozan de este derecho las trabajadoras de casa
+particular.
+6. Cambio por labores riesgosas: si el trabajo pone en riesgo la normal evolución de la gestación, la
+embarazada tiene derecho a ser cambiada de labor, sin perjuicio de su sueldo.
+7. Licencia Médica por enfermedad grave de hijo menor de 1 año: este derecho puede ser asignado al padre
+o a la madre si ambos trabajan, es la madre quien decide quien recibirá el permiso
+8. Derecho a sala cuna para el niño menor de un año: el derecho a sala cuna para el niño menos de un año
+lo gozan las madres que trabajan en un establecimiento que ocupa veinte o más trabajadoras.
+9. Derecho a facilidades para continuar amamantando a su hijo en la sala cuna: La madre tiene derecho a
+una hora diaria de permiso para amamantar a su hijo hasta los 2 años del niño, este permiso puede ser
+fraccionado en 2 tiempos iguales y será otorgado dentro de su jornada laboral, además, dinero para los
+gastos de locomoción y tiempo adicional para el traslado en caso necesario.
+10. Madres que hayan tenido un parto gemelar (doble o triple): tienen derecho a 7 días extras por cada hijo.
+11. Madres que han tenido hijos prematuros: a las madres que han tenido hijos prematuros de menos de 32
+semanas de gestación o menor de 1500 g al nacer le corresponden 6 semanas extras de postnatal.
+Síntomas de alarma que deben motivar una consulta de la embarazada en urgencia
+1. Disminución de los movimientos habituales del feto (en embarazos mayores a 28 semanas).
+2. Presencia de contracciones uterinas.
+3. Sangrado genital.
+4. Pérdida de líquido por los genitales.
+5. Cefalea intensa que no cede con paracetamol.
+6. Edema intenso de los tobillos, la cara o las manos.
+7. Visión borrosa o fotopsias.
+8. Tinnitus.
+9. Dolor epigástrico.
+10. Ardor o dolor miccional.
+11. Fiebre.
+12. Flujo vaginal que produce prurito o mal olor.
+
+Resumen
+• El control prenatal es el conjunto de acciones y procedimientos sistemáticos y periódicos que busca
+prevenir, diagnosticar y tratar los factores que puedan condicionar morbimortalidad materna y perinatal.
+Es importante que se registre detalladamente en la ficha clínica.
+• Los objetivos de este control son: identificar factores de riesgo, determinar la edad gestacional,
+diagnosticar la condición fetal y materna, y educar a la madre.
+• Existen múltiples factores de riesgo (sociales, biológicos, ambientales) que aumentan la morbimortalidad
+materna-perinatal. Estos se detectan mediante la anamnesis, examen físico, exámenes de laboratorio e
+imágenes. En caso de ser detectados, se debe derivar a un nivel superior de control.
+• El correcto diagnóstico de la EG es fundamental y debe realizarse en el primer control prenatal en base a
+una FUM segura y confiable y/o una ecografía precoz (7-10 semanas).
+• El control de la condición fetal se hace mediante métodos clínicos de evaluación fetal: medición de altura
+uterina (útil desde las 20 semanas, se correlaciona con el crecimiento fetal, pudiendo sospechar RCF o
+GEG), estimación clínica del peso fetal (útil en manos entrenadas desde las 28 semanas), estimación
+clínica del LA (mediante la palpación de las partes fetales, pudiendo sospechar oligoamnios o
+polihidroamnios), auscultación LCF (mediante Doppler obstétrico desde las 12 semanas o con el
+estetoscopio de Pinard desde las 20 semanas), monitorización materna de los movimientos fetales (desde
+las 20 semanas en primigestas y desde las 18 semanas en multíparas).
+• El control de la condición materna se realiza mediante la anamnesis, examen físico, exámenes de
+laboratorio y ecografías. Dentro del examen físico es importante el peso materno y la presión arterial en
+cada control.
+• Exámenes al ingreso del control prenatal: Grupo sanguíneo y Rh, Coombs indirecto, VIH, RPR o VDRL,
+Sedimento de orina y urocultivo, Glicemia de ayuno, Hemograma, TSH, HBsAg (no obligatorio en Chile),
+Chagas, PAP.
+• Exámenes 28-32 semanas: RPR o VDRL, TTOG, Hemograma, Coombs indirecto si Rh (-)
+• Exámenes 36-37 semanas: cultivo vagino-perineal para SGB y RPR o VDRL. Al ingreso en trabajo de parto:
+RPR o VDRL.
+• Ecografías: 7-10 semanas: EG, número de fetos y viabilidad. 11-14 semanas: evaluación riesgo
+aneuploidías o cardiopatía congénita. 22-24 semanas: morfología, cervicometría, Doppler arterias
+uterinas. 34-36 semanas: crecimiento fetal, localización placenta, volumen LA.
+• Se debe indicar ácido fólico desde el primer control (0,4 mg/día en mujeres de bajo riesgo y 4 mg/día en
+mujeres de alto riesgo). Después de las 12 semanas se debe indicar hierro (30-60 mg de hierro elemental
+al día, habitualmente en un solo comprimido) y calcio (mediante ingesta de lácteos o suplementos en
+comprimidos, según dieta y tolerancia).
+• La periodicidad de los controles debe ser cada 4 semanas hasta las 28 semanas, cada 3 semanas entre 28
+y 36 semanas y cada 7 días entre las 36 y 41 semanas.
+• Recomendaciones: No restringir actividades físicas en mujeres con bajo riesgo obstétrico, excepto
+deportes de contacto riesgosos (disminuye riesgo de DMG y aumento de peso excesivo durante el
+embarazo). Se permite actividad sexual durante el embarazo si no existen FR para parto prematuro.
+• Educación a la madre sobre los síntomas de alarma por los cuales debe acudir al SU. Se debe enseñar los
+cuidados del recién nacido y lactancia materna previo al parto.
+• Beneficios legales: descanso prenatal (6 semanas), descanso postnatal (12 semanas), postnatal parental
+(12 semanas jornada completa o 18 semanas media jornada), asignación familiar, fuero materno, cambio
+por labores riesgosas, licencia médica por enfermedad grave de hijo menor de 1 año, derecho a sala cuna
+para el niño menor de 1 año y facilidades para continuar amamantando a su hijo en sala cuna. Además, a
+madres con parto gemelar o hijos prematuros le corresponden días extra de descanso.
+
+Pá gin a | 73

@@ -1,0 +1,562 @@
+Capítulo 15.
+OPERACIÓN CESÁREA
+ASPECTOS GENERALES
+Definición
+La operación cesárea
+corresponde a la extracción del feto,
+placenta y membranas a través de una
+incisión en la pared abdominal
+(laparotomía) y uterina (histerotomía).
+Epidemiología
+La operación cesárea ha tenido
+una frecuencia creciente en las últimas
+décadas, tanto en Chile como en el resto
+del mundo. Chile tiene una de las peores
+tasas de cesáreas del mundo, alcanzando
+el 46% del total de partos en el año 2024
+(Figura 1) La OMS ha señalado que, a
+nivel poblacional, tasas sobre ~10% no se
+asocian a reducciones adicionales de
+mortalidad materna o neonatal; por ello,
+el foco debe estar en asegurar acceso
+oportuno a cesárea cuando está médicamente indicada y en reducir el sobreuso de cesáreas no indicadas,
+más que en perseguir una “tasa ideal” única para todos los países. Con base en la mejor evidencia científica
+disponible, investigaciones recientes recomiendan que las tasas de operación cesárea a nivel país se sitúen
+idealmente en un rango entre 15 y 20 %. Esta recomendación se sustenta en análisis poblacionales que
+muestran una disminución de la mortalidad materna y neonatal a medida que la tasa de cesáreas aumenta
+hasta aproximadamente un 15 %, mientras que cifras superiores al 20 % no se asocian con beneficios
+adicionales en estos desenlaces. Asimismo, la experiencia observacional de países del norte de Europa
+demuestra que tasas de cesárea dentro de este rango se asocian de manera consistente con algunos de los
+mejores indicadores de calidad materna y perinatal a nivel
+mundial.
+Como se observa en la Figura 2, la tasa de cesáreas en
+Chile ha ido en aumento. Es importante destacar que el
+principal aumento en la tasa de cesáreas se registra en el sector
+privado. Por ejemplo, en el año 2024 la tasa de cesáreas a nivel
+nacional fue 46,6%, en el sector privado 59% y en el sector
+público 39%. Incluso en los hospitales públicos, las mujeres que
+se atienden en pensionado tienen 3-4 veces más riesgo de
+cesárea.
+Causas del incremento en la tasa de cesáreas
+• Sistema de salud: parto programado. Como se explicará
+más adelante, se estima que esta es la principal causa del
+aumento de cesáreas en Chile.
+• Cesárea anterior: dado que es mayor el número de cesáreas, cada vez se presentarán más pacientes
+embarazadas con antecedente de cesárea previa. El tener una o dos cesáreas previas es causa de una
+nueva cesárea.
+
+• Gestaciones múltiples: el número de parejas con problemas de fertilidad que requieren procedimientos
+de fertilización asistida ha ido en aumento. La fertilización asistida aumenta el riesgo de embarazo
+múltiple.
+• Uso de monitoreo fetal intraparto: se asocia a mayor probabilidad de cesárea por diagnóstico de estado
+fetal no tranquilizador.
+• Menor experiencia de los obstetras, principalmente para el uso de fórceps.
+• Problemas médicos legales: los obstetras son de los profesionales médicos más demandados, muchas de
+estas demandas se relacionan con el parto, de modo que los obstetras optan por una cesárea ante la
+mínima sospecha de un problema.
+En Chile, a diferencia de la mayor parte del mundo, las
+mujeres controlan su embarazo con un médico ginecólogo
+obstetra y aspiran a que ese mismo médico atienda su parto.
+Lo que hace mucho más frecuentes las inducciones del trabajo
+de parto sin una causa médica justificada. La inducción
+conduce a mayor probabilidad de cesárea que el inicio
+espontáneo del trabajo de parto.
+Si bien muchas mujeres creen que la cesárea es menos
+riesgosa que el parto vaginal, se estima que la preferencia de
+las mujeres no es la causa del aumento de la tasa de cesáreas.
+El 77.8% de las mujeres prefieren parto vaginal.
+En nuestra unidad coincidimos con el comité de
+opinión de la ACOG en que, en ausencia de evidencia de causas
+maternas o fetales para indicar una cesárea, el parto vaginal es seguro y apropiado por lo que es lo
+recomendado. Dicho esto, el derecho de la mujer de estar activamente envuelta en la decisión sobre su vía
+de parto es ampliamente aceptado entre médicos y pacientes en nuestra sociedad actual, por lo que realizar
+una cesárea a petición de la paciente, estando ella bien informada, es considerado médica y éticamente
+aceptable.
+Indicaciones de cesárea
+La operación cesárea está indicada en aquellas ocasiones en que el parto vaginal no es posible, o de
+ser posible significa mayor riesgo para el feto o la madre.
+La causa más frecuente de cesárea en Chile actualmente la constituye la cicatriz de cesárea anterior,
+y luego la distocia de presentación.
+Indicaciones frecuentes de operación cesárea
+• Desproporción céfalo pélvica (prueba de trabajo de parto fracasada)
+• Estado fetal no tranquilizador
+• Distocia de presentación: podálica o transversa. En el 4% de los embarazos de término el feto está en
+presentación podálica. En podálica de término, debe considerarse versión cefálica externa cuando no
+esté contraindicada. La cesárea electiva reduce ciertos riesgos perinatales en algunos estudios, pero el
+parto vaginal en podálica puede ser una alternativa en centros con experiencia, bajo criterios estrictos
+de selección y equipo entrenado; la decisión debe individualizarse según riesgo materno-fetal y
+recursos disponibles.
+• Peso fetal mayor a 4.500 g o mayor a 4000 g si la mujer es diabética. Siendo esta la recomendación en
+Chile, debemos indicar que el Colegio Americano de Obstetricia y Ginecología (ACOG) indica que debe
+considerarse cesárea electiva cuando el peso fetal estimado es ≥5.000 g en mujeres sin diabetes, o
+≥4.500 g en mujeres con diabetes, balanceando incertidumbre del EFW y contexto clínico
+• Antecedente de cesárea previa, aunque en mujeres con una cesárea previa es posible el parto vaginal
+como se explicará más adelante
+• Alto riesgo de rotura uterina durante el trabajo de parto; considerar las siguientes:
+o Antecedente de dos o más cesáreas.
+
+o Antecedente de cesárea corporal o clásica; es aquella en que la histerotomía se realiza en el
+cuerpo uterino (habitualmente vertical) y no en el segmento inferior (horizontal baja).
+o Antecedente de miomectomía en que la incisión efectuada en el útero se extiende hasta la
+cavidad endometrial, lo que ocurre en caso de miomas intramurales grandes. Por el contrario,
+la miomectomía de un mioma subseroso o de uno submucoso (por vía endoscópica) no se
+asocia a mayor riesgo de rotura uterina.
+• Otras condiciones maternas, fetales u ovulares que hacen imposible o riesgoso el parto vaginal,
+ejemplos:
+o Maternas: preeclampsia severa y baja expectativa de parto vaginal pronto
+o Fetales: malformaciones como hidrocefalia con macrocefalia
+o Ovulares: placenta previa
+Nota (revisión 2026): En ediciones previas de este manual señalamos que el segmento inferior “se forma
+después de las 32 semanas” y que, por lo tanto, toda cesárea realizada antes de las 32 semanas debía
+considerarse “corporal” y constituir una contraindicación para intentar un parto vaginal en el embarazo
+siguiente. Sin embargo, evidencia reciente demuestra que esta aseveración es incorrecta, y que el solo
+hecho de tener como antecedente una cesárea <32 semanas no significa un aumento del riesgo de rotura
+uterina si se intenta un parto vaginal en el siguiente embarazo comparado con el antecedente de una
+cesárea > 32 semanas.
+Las indicaciones para una operación cesárea pueden ser absolutas o relativas. Indicaciones absolutas
+son aquellas situaciones clínicas que SIEMPRE deben ser
+resueltas por cesárea. Entre las indicaciones absolutas es posible
+mencionar:
+• Placenta previa oclusiva total
+• Presentación transversa en el trabajo de parto
+• Siameses viables (Figura 4)
+• Gemelar monocorial monoamniótico
+• Paro cardiorespiratorio materno
+• > 3 cicatrices cesárea
+• Cesárea corporal previa
+Indicaciones relativas son aquellas situaciones clínicas en las que bajo algunas circunstancias el parto será
+resuelto por cesárea, aquí el juicio clínico es la condición determinante. Las indicaciones relativas se originan
+en situaciones maternas (Ej. crisis hipertensiva refractaria a tratamiento), fetales (Ej. estado fetal no
+tranquilizador) u ovulares (oligoamnios). En doble cesarizada (2 cesáreas transversas bajas) puede
+considerarse el parto vaginal en casos seleccionados y en centros con capacidad de respuesta inmediata,
+según evaluación individual.
+Complicaciones de la cesárea
+La cesárea es una buena solución a algunos problemas del embarazo/parto, pero posee
+complicaciones propias del procedimiento que justifican
+comentar que no es la primera opción para el parto, sino que es
+una alternativa para las ocasiones en que el parto vaginal no es
+posible o es de mayor riesgo. En términos generales, el riesgo de
+mortalidad y morbilidad, materno y fetal, es mayor en la cesárea
+que en el parto vaginal. Entre las complicaciones de la cesárea
+mencionamos las más frecuentes:
+• Quirúrgicas: lesiones vasculares, del tracto urinario o de asas
+intestinales.
+• Infecciosas: infección de la herida operatoria (3-5%) (Figura
+5), mayor frecuencia de endometritis puerperal (comparado
+al parto vaginal)
+
+• Hemorrágicas: mayor frecuencia de inercia uterina y hemorragia posparto
+• Tromboembólicas: mayor frecuencia de enfermedad tromboembólica
+• Fetales: riesgo de lesión quirúrgica fetal, mayor frecuencia de taquipnea transitoria
+• Obstétricas: riesgo de rotura uterina en un siguiente embarazo, aumento del riesgo de placenta previa y
+acretismo placentario
+Beneficios del parto vaginal vs cesárea
+• Menor necesidad de anestesia y analgesia posparto
+• Menor morbilidad posparto
+• Menor estadía hospitalaria
+• Menores costos
+• Mejor contacto madre-hijo y estimulación del apego más temprana
+• Mayor satisfacción de la madre respecto al parto
+• Mayor tendencia a amamantar
+• Menor período intergenésico
+TÉCNICA DE LA OPERACIÓN CESÁREA
+Preparación preoperatoria
+• Obtención del consentimiento informado por escrito. La paciente autoriza el procedimiento asumiendo
+los riesgos propios de la cirugía; esto es algo común a cualquier procedimiento médico.
+• Vía venosa e hidratación preanestésica: la anestesia raquídea produce hipotensión, lo que es prevenible
+mediante hidratación.
+• Antibióticos profilácticos: administrar idealmente dentro de los 60 minutos previos a la incisión (o tan
+pronto como sea posible antes de la incisión en cesáreas urgentes). Esquema habitual: cefazolina con
+dosis ajustada por peso (1 g EV si peso materno < 80 kg, >
+80 kg 2 g EV y > 120 kg 3 g EV). No se recomienda un
+esquema posoperatorio rutinario de múltiples dosis; se
+considera redosificación intraoperatoria solo si la cirugía
+se prolonga o existe hemorragia significativa. En cesárea
+no electiva (en trabajo de parto o con membranas rotas),
+puede añadirse azitromicina 500 mg IV como profilaxis
+adyuvante para reducir infección post cesárea. La
+profilaxis antibiótica reduce el riesgo de endometritis e
+infección de herida operatoria.
+• Anestesia raquídea.
+• Instalación de catéter vesical, esto es muy importante
+pues la vejiga llena se encontrará justo en la zona donde
+se realizará la histerotomía.
+• Preparación abdominal: rasurado del borde superior del vello pubiano y aseo con solución antiséptica.
+• Instalación de campos quirúrgicos.
+Tipos de laparotomía (Figura 6)
+• Media infraumbilical: corresponde a la técnica original de esta cirugía, la que hoy se ha abandonado por
+motivos cosméticos, pese a ser mejor desde el punto de vista anatómico. La incisión en la piel es vertical,
+desde el ombligo hasta la sínfisis pubiana.
+o Ventajas: acceso más rápido a la cavidad peritoneal, menor pérdida sanguínea, posibilidad de
+extender la laparotomía hacia el abdomen superior.
+o Desventajas: mal resultado cosmético, mayor riesgo de dehiscencia de la herida y de hernia
+incisional.
+
+• Pfannenstiel: es la técnica de elección hoy en día, la incisión en la piel es transversal, 2 cm sobre la sínfisis
+pubiana y ligeramente arciforme siguiendo la línea del pliegue. La aponeurosis se secciona también de
+modo transverso sin comprometer los rectos abdominales.
+o Ventajas: mejor resultado cosmético y menor riesgo de dehiscencia o hernia incisional
+o Desventajas: mayor pérdida sanguínea, mayor tiempo operatorio, mayor riesgo de infección de
+la herida, dificultad para extender la incisión.
+• Variaciones del Pfannenstiel: usando una incisión transversal baja en la piel, se han descrito variaciones
+en la técnica. Técnica de Joel Cohen: la incisión de la piel se realiza 3 cm por encima de la ubicación de la
+incisión de Pfannenstiel. El tejido subcutáneo se incide en los tres centímetros medianos. La separación
+del tejido lateral se realiza manualmente y la fascia se divide mediante una disección roma utilizando
+ambos dedos índices. Esta incisión se extiende lateralmente con los dedos, separación roma de los tejidos
+a lo largo de los planos tisulares naturales con una mínima disección cortante. Técnica de Maylard: los
+músculos rectos abdominales se cortan junto a la aponeurosis, no se separan de ella. Técnica de Cherney:
+los músculos rectos abdominales se desinsertan desde la sínfisis pubiana.
+o Ventajas/desventajas: la idea es mantener las ventajas del Pfannenstiel, pero reducir el tiempo
+quirúrgico (Joel Cohen) o mejorar la visualización de la cavidad (Maylard o Cherney).
+o La laparotomía de Joel-Cohen tiene ventajas significativas respecto a la Pfannenstiel, habiéndose
+demostrado menor: fiebre, dolor postoperatorio, uso de analgesia, pérdida de sangre, tiempo
+operatorio y estadía hospitalaria.
+Tipos de histerotomía
+• Segmentaria arciforme: es la técnica de uso habitual, la incisión se efectúa en el “segmento inferior”, de
+modo transversal, pero arciforme, para evitar compromiso de las arterias uterinas si se extiende la
+incisión de modo lateral. El segmento inferior es la zona del istmo uterino, el cual se distiende hacia el
+término del embarazo, después de las 32 semanas.
+o Ventajas: menor sangrado uterino, menor necesidad de disección vesical, reaproximación más
+fácil, menor riesgo de rotura uterina en futuros embarazos.
+o Desventaja: mayor riesgo de lesión vesical.
+o La extensión cefalocaudal de la histerotomía con los dedos (sin uso de tijeras), reduce el riesgo
+de extensión inadvertida, y se asocia a menor sangrado excesivo y reducción del tiempo
+operatorio (2 minutos).
+• Corporal o clásica: se reserva para casos especiales, la incisión se efectúa de modo vertical
+(habitualmente) u horizontal en el cuerpo uterino, se considera corporal toda cesárea antes de las 32
+semanas, ya que el segmento inferior aún no se ha formado.
+o Ventajas: facilita la extracción en casos de placenta previa en cara anterior o en fetos en
+transversa, especialmente prematuros extremos.
+o Desventajas: mayor sangrado uterino, mayor riesgo de rotura uterina en el embarazo siguiente.
+Técnica quirúrgica
+Incisión de la piel con bisturí frio. Luego con el bisturí eléctrico se abre el celular subcutáneo hasta
+llegar a la aponeurosis. En la técnica de Pfannenstiel se abre la aponeurosis en forma horizontal, se separa la
+aponeurosis de los rectos abdominales, y luego se separan los rectos abdominales para acceder al peritoneo
+parietal. En la laparotomía media infraumbilical, se accede por la línea media, y se separan los rectos
+abdominales junto a la aponeurosis para acceder al peritoneo. El peritoneo parietal se abre con tijera y se
+accede a la cavidad peritoneal. En ese momento es posible insertar compresas en las goteras parieto cólicas
+(“compresas laterales”) para evitar que el intestino caiga sobre el útero y dificulte la cesárea.
+Se abre con pinza y tijera el peritoneo visceral para acceder al segmento inferior, exponiendo el
+miometrio. Es de mucha importancia tener cuidado con la vejiga, la que se encuentra “cubriendo” el segmento
+inferior, antes de la histerotomía es necesario disecar el plano vesicouterino para alejar la vejiga y evitar daño
+quirúrgico.
+Posteriormente se realiza la histerotomía, habitualmente incisión segmentaria arciforme. Se diseña
+la histerotomía con bisturí frío (cuidando no dañar el polo fetal que se encuentra bajo la incisión). El ideal es
+
+profundizar la incisión con el bisturí hasta llegar a ver las membranas fetales, sin romperlas. La incisión se
+amplía de modo lateral (arciforme) mediante una tijera o con los dedos.
+Luego se rompen las membranas (con una pinza) y se introduce la mano derecha en la cavidad
+uterina, se toma la cabeza fetal, y se dirige hacia afuera con suavidad (Figura 7). Para la extracción del feto, el
+ayudante comprime el fondo uterino. La extracción fetal es similar a lo que ocurre en un parto vaginal.
+El alumbramiento es asistido mediante tracción suave del cordón umbilical. Se ha demostrado que,
+para minimizar el sangrado, es mejor masajear el útero para permitir la expulsión espontánea de la placenta,
+más que separarla manualmente. Luego se revisa la cavidad uterina con una cucharilla, para retirar todos los
+restos placentarios. La extracción manual de la placenta no se aconseja, pues se asocia a mayor riesgo de:
+endometritis, sangrado mayor a 1000 mL y anemia posparto.
+Se procede al cierre uterino: histerorrafia, en uno o dos planos. En el cierre en un plano, las suturas
+abarcan todo el espesor del miometrio; en el cierre en dos planos, se efectúa un primer plano que abarca el
+50% interno del miometrio, y por fuera de este plano, se efectúa un segundo plano de sutura que abarca el
+50% restante del miometrio. La técnica óptima de cierre
+uterino tras una operación cesárea corresponde al cierre
+continuo en un solo plano del miometrio. Esta
+recomendación se sustenta en evidencia científica de alta
+calidad que demuestra ausencia de diferencias significativas
+en la morbilidad materna a corto plazo, incluyendo infección
+de la herida operatoria y morbilidad febril, en comparación
+con el cierre en dos planos. Asimismo, el cierre en un solo
+plano se asocia a menor tiempo operatorio (6 minutos) y
+menor utilización de recursos. El cierre en dos planos no ha
+demostrado ventajas claras en los desenlaces inmediatos. En
+consecuencia, la elección entre cierre en uno o dos planos
+puede basarse en la preferencia del cirujano y los protocolos
+institucionales, considerando que la evidencia disponible a largo plazo no muestra diferencias clínicamente
+relevantes entre ambas técnicas.
+Ya sea en uno o dos planos, para la histerorrafia es posible usar catgut crómico o poliglactina
+910 (Vicryl ®). El catgut se usa en un plano corrido enlazado, mientras que poliglactina 910 suele usarse en
+puntos separados. El catgut crómico ha demostrado ventajas sobre las suturas sintéticas multifilamento,
+como poliglactina 910, para el cierre uterino. Su uso se asocia a una menor necesidad de transfusión sanguínea
+y de relaparotomía, y posiblemente a una reducción de la morbilidad febril postoperatoria, sin comprometer
+la integridad de la cicatriz uterina ni aumentar las complicaciones a largo plazo. La poliglactina 910, además
+de ser más costosa, no ha demostrado resultados superiores en este contexto. Las suturas barbadas (por
+ejemplo, Stratafix®, V-Loc®) constituyen una alternativa razonable y novedosa a las suturas convencionales
+para el cierre uterino. La evidencia disponible muestra que su utilización se asocia a una reducción del tiempo
+de cierre y a una menor necesidad de suturas hemostáticas adicionales, con tasas comparables de pérdida
+sanguínea, morbilidad febril y otras complicaciones perioperatorias. Asimismo, algunos estudios sugieren que
+el uso de suturas barbadas podría disminuir el riesgo de íleo postoperatorio. No obstante, la evidencia sobre
+los resultados a largo plazo del uso de suturas barbadas es aún limitada. Por ello, su incorporación en la
+práctica clínica debe basarse en la experiencia institucional, la disponibilidad y las consideraciones de costo,
+más que en una superioridad demostrada en desenlaces clínicos mayores.
+El peritoneo visceral y el parietal pueden cerrarse o dejarse abiertos. El no cierre del peritoneo
+parietal/visceral se asocia a menor tiempo quirúrgico y menor estadía hospitalaria. Tampoco habría
+diferencias en la formación de adhesiones peritoneales. Habitualmente se usan puntos para aproximar los
+rectos abdominales separados y se procede al cierre de la aponeurosis. La aponeurosis debe cerrarse
+cuidadosamente pues es la capa de soporte, para esto se usa vicryl.
+Pueden ponerse puntos separados o corridos en el celular subcutáneo. El cierre del celular
+subcutáneo muestra una disminución significativa de la dehiscencia de herida cuando el celular subcutáneo
+es mayor a 2 cm, lo que parece ser principalmente por la disminución en la formación de seromas. No se
+aconseja el uso de drenajes en el celular subcutáneo de modo rutinario.
+
+Para la sutura de la piel, son aceptables varias opciones: puntos separados de seda, sutura metálica
+(corchetes) o sutura intradérmica. El método óptimo de cierre cutáneo en la operación cesárea es el cierre
+subcuticular con sutura absorbible, el cual ha demostrado de manera consistente un menor riesgo de
+complicaciones de la herida operatoria, en particular separación de la herida, en comparación con el uso de
+grapas (corchetes o clips metálicos). Este beneficio se mantiene independientemente del estado nutricional
+de la paciente (incluida la obesidad) y del número de cesáreas previas.
+Si bien las grapas y los clips permiten un cierre más rápido de la piel, su uso se asocia a mayores tasas
+de separación de la herida y a estadías hospitalarias más prolongadas, sin demostrar ventajas en términos de
+infección de la herida, dolor postoperatorio, satisfacción de la paciente ni resultados cosméticos. Entre las
+suturas absorbibles, la poliglecaprona 25 (Monocryl ®) se asocia a menores tasas de complicaciones de la
+herida en comparación con la poliglactina 910 (Vicryl ®), por lo que constituye una opción preferente para el
+cierre subcuticular de la piel.
+Los adhesivos cutáneos como cianoacrilato de 2-octilo (Dermabond ®) y las mallas poliméricas
+adhesivas han surgido como alternativas al cierre con sutura. Ensayos clínicos randomizados han demostrado
+resultados comparables en seguridad y resultado cosmético frente a la sutura subcuticular. Asimismo, grandes
+estudios observacionales han mostrado que estas técnicas se asocian a menores tasas de complicaciones de
+la herida, menor duración de la hospitalización y reducción de costos, en comparación con el cierre con sutura
+convencional más apósito impermeable. No obstante, la satisfacción del cirujano suele ser mayor con el uso
+de sutura. En consecuencia, la elección entre sutura subcuticular y adhesivos cutáneos puede individualizarse
+según las características de la paciente, la experiencia del equipo quirúrgico y las preferencias del cirujano,
+considerando que ambas opciones son seguras y eficaces.
+Indicaciones posteriores a la cesárea
+1. Régimen cero por 4 horas, luego liviano
+2. Hidratación parenteral con cristaloides (1 L)
+3. Profilaxis de hemorragia post parto:
+4. Deambulación precoz: es posible deambular luego de 12 horas de la operación cesárea (o cuando
+haya pasado el efecto de la analgesia neuroaxial)
+5. Analgesia multimodal (AINE + paracetamol; y opioides de rescate según necesidad). Endovenoso las
+primeras 48 horas y oral desde las 48 h post cesárea en adelante
+6. Retiro de sonda vesical 12-24 horas post cesárea
+7. Tromboprofilaxis: medias compresivas en todas las pacientes y considerar profilaxis farmacológica
+según factores de riesgo
+8. Antibióticos: no se indican dosis posoperatorias rutinarias; redosificar solo según criterios
+intraoperatorios (cirugía prolongada/hemorragia).
+9. La herida se descubre a las 24 horas para cambiar el parche quirúrgico por uno impermeable que
+permita a la mujer ducharse. También es posible instalar este parche impermeable al momento
+mismo de terminar la cesárea.
+Prevención farmacológica de la hemorragia posparto en la operación cesárea
+La intervención farmacológica de primera línea para la prevención de la hemorragia posparto (HPP)
+en la operación cesárea es la administración profiláctica de un agente uterotónico, siendo la ocitocina
+intravenosa (20-30 UI en 500 ml de suero fisiológico) el estándar históricamente aceptado. La oxitocina debe
+administrarse como bolo lento o infusión continua inmediatamente después del nacimiento del recién nacido,
+lo que reduce de manera significativa el riesgo de HPP y la necesidad de uterotónicos adicionales.
+La evidencia más reciente y de mayor calidad indica que la combinación de ocitocina con ácido
+tranexámico (1 g intravenoso, administrado inmediatamente después del pinzamiento del cordón umbilical)
+es superior a la ocitocina sola para la prevención de la HPP. Esta estrategia se asocia a una reducción
+significativa del sangrado ≥1.000 mL y de la necesidad de transfusión sanguínea, sin un aumento relevante de
+eventos adversos graves. El ácido tranexámico, como agente antifibrinolítico, ha demostrado disminuir la
+pérdida sanguínea total, la caída de hemoglobina y los requerimientos transfusionales, aunque el beneficio
+absoluto en la reducción de HPP mayor es modesto en poblaciones de bajo riesgo.
+
+La carbetocina, un análogo sintético de la ocitocina de acción prolongada, constituye una alternativa
+eficaz para la profilaxis de la HPP en la cesárea. Metaanálisis en red y revisiones sistemáticas han demostrado
+que la carbetocina (100 µg) es superior a la ocitocina sola, con una reducción clínicamente relevante del riesgo
+de HPP ≥1.000 mL, menor necesidad de uterotónicos de rescate y menor requerimiento de transfusión
+sanguínea. Estos beneficios son más evidentes en mujeres con alto riesgo de hemorragia, como aquellas con
+sobredistensión uterina o factores de riesgo obstétricos asociados.
+Desde el punto de vista de la seguridad, la ocitocina y la carbetocina presentan perfiles comparables
+en relación con eventos adversos graves, incluyendo isquemia miocárdica y morbilidad materna global. La
+carbetocina se asocia a una mejor tonicidad uterina y menor necesidad de intervenciones adicionales, sin
+incremento significativo de efectos cardiovasculares adversos ni de los costos globales de atención, pese a su
+mayor costo de adquisición. La incidencia de efectos secundarios como náuseas, vómitos e hipertensión es
+similar entre ambos fármacos cuando se administran por vía intravenosa.
+Otros uterotónicos, como la ergometrina, el carboprost y el misoprostol, no han demostrado
+superioridad frente a la oxitocina en la profilaxis de la HPP y presentan perfiles de efectos adversos menos
+favorables. Por ello, se reservan para situaciones en que la oxitocina esté contraindicada o resulte insuficiente.
+En cuanto al tratamiento de la hemorragia posparto ya establecida, la oxitocina continúa siendo el fármaco
+de primera línea, debido a su rápido inicio de acción y amplia disponibilidad. La carbetocina no está indicado
+para el manejo agudo, sino exclusivamente para la profilaxis.
+PARTO VAGINAL DESPUÉS DE UNA CESÁREA
+El parto vaginal es preferible y recomendable en algunas pacientes cuyo primer parto se resolvió por
+cesárea y la tasa de éxito es alrededor del 71%. El principal problema que enfrentamos al intentar un parto
+vaginal en mujeres con antecedente de una cesárea previa es la rotura uterina.
+Rotura uterina
+Corresponde a la dehiscencia de la pared uterina, generalmente en el sitio de una cicatriz (cesárea o
+miomectomía). La rotura uterina puede presentarse de modo catastrófico con expulsión del feto hacia la
+cavidad peritoneal, o como una dehiscencia de la cicatriz detectada en el posparto.
+La rotura uterina catastrófica se describe con una incidencia de 1 cada 2 o 3 mil partos.
+Generalmente se produce en trabajo de parto avanzado (más de 8 cm) y se manifiesta clínicamente como:
+dolor abdominal (intenso y súbito) y bradicardia fetal. En el tacto vaginal se observará sangrado y no será
+posible palpar la presentación fetal.
+La dehiscencia de la cicatriz es un cuadro más frecuente, habitualmente asintomático, que se
+presenta en 0.8% de los casos de parto vaginal en mujeres con una cesárea previa. El diagnóstico se hace
+mediante revisión manual de la histerorrafia luego de atender el parto. Hoy en día no se recomienda la
+revisión rutinaria de la histerorrafia, y se reserva solo en casos de hemorragia posparto.
+Si la dehiscencia es < 4 cm, cubierta por peritoneo, sin compromiso hemodinámico materno y
+sangrado vaginal moderado, el manejo es expectante, con indicación de retractores uterinos y antibióticos. Si
+la dehiscencia es > 4 cm, abierta a cavidad abdominal, con compromiso hemodinámico materno y sangrado
+vaginal más que moderado, se indica una laparotomía exploradora y reparación del defecto.
+El riesgo de rotura uterina en mujeres que intenten un parto vaginal, teniendo el antecedente de una
+cesárea, debe ser advertido a la paciente para que esta tome una decisión informada. En términos generales,
+si se respetan los criterios de selección indicados más abajo, creemos que es recomendable un intento de
+parto vaginal en mujeres con un parto anterior por cesárea. Como se observa en la siguiente tabla, hay
+situaciones que aumentan el riesgo de rotura uterina (ej. doble cesárea previa, cicatriz corporal, inducción del
+trabajo de parto) y en las cuales es recomendable una nueva cesárea programada.
+Parto vaginal después de cesárea previa en cesáreas realizadas antes de las 32 semanas
+La seguridad de intentar un parto vaginal después de una cesárea previa en un embarazo posterior a
+una cesárea realizada antes de las 32 semanas de gestación depende fundamentalmente del tipo de incisión
+uterina efectuada en la cesárea previa, más que de la edad gestacional en sí. La mayoría de las cesáreas
+
+realizadas antes de las 32 semanas corresponden a incisiones segmentarias transversas bajas, las cuales se
+asocian a un bajo riesgo de rotura uterina durante una prueba de trabajo de parto después de cesárea.
+Un estudio de cohorte de gran tamaño demostró que las mujeres con una cesárea previa realizada a
+≤34 semanas presentaron riesgos similares de rotura uterina y de morbilidad materna compuesta durante la
+prueba de trabajo de parto después de cesárea en comparación con aquellas cuya cesárea previa se efectuó
+a >34 semanas. Estos hallazgos indican que la edad gestacional al momento de la cesárea previa no constituye,
+por sí sola, una contraindicación independiente para la prueba de trabajo de parto, siempre que la incisión
+uterina haya sido segmentaria transversa.
+Las revisiones de expertos y las guías clínicas actuales respaldan la oferta de prueba de trabajo de
+parto después de cesárea a la mayoría de las mujeres con una única cesárea previa con incisión segmentaria
+transversa, segmentaria vertical baja o incisión uterina desconocida, tras una evaluación adecuada y
+consejería informada.
+En contraste, una incisión uterina corporal clásica (vertical), que es más frecuente, aunque no
+universal, en cesáreas muy pretérmino, se asocia a un riesgo significativamente aumentado de rotura uterina
+y constituye una contraindicación para la prueba de trabajo de parto después de cesárea. Por lo tanto, el
+determinante clave es el tipo de incisión uterina, y no la edad gestacional en la que se realizó la cesárea previa.
+Si la incisión fue segmentaria transversa, la prueba de trabajo de parto se considera, en general, segura,
+independientemente de la edad gestacional del parto previo. Si la incisión fue clásica u otra considerada de
+alto riesgo, la prueba de trabajo de parto después de cesárea está contraindicada.
+No existe un umbral específico de edad gestacional por debajo del cual la prueba de trabajo de parto
+después de cesárea esté universalmente contraindicada. La decisión debe individualizarse en función de los
+registros operatorios, la evaluación clínica y la consejería compartida. En los casos en que el tipo de incisión
+uterina sea desconocido, se recomienda una evaluación cuidadosa y un proceso de toma de decisiones
+compartida.
+Riesgo de Rotura Uterina durante el trabajo de parto
+Inicio espontáneo del trabajo de parto
+Sin cesárea previa muy raro, uno cada 10 mil o 20 mil partos
+Con una cesárea previa segmentaria arciforme 0.7 %
+Con una cesárea y luego uno o más partos 0.5 %
+Con dos cesáreas previas 1.36 %
+Con una cesárea corporal 2 %
+Con una cesárea segmentaria vertical 1.7 %
+Aceleración ocitócica 1.1 %
+Inducción del trabajo de parto
+Inducción mecánica con balón 0.8%
+Inducción con misoprostol 2.45 %
+Inducción del trabajo de parto en mujeres con una cesárea previa
+La inducción del trabajo de parto en mujeres con una
+cesárea previa no es recomendable como una estrategia rutinaria,
+pues se ha demostrado que la inducción disminuye la probabilidad
+de parto vaginal en estas mujeres en un 50% comparado con
+aquellas que inician espontáneamente el trabajo de parto.
+En aquellos casos en que sea necesaria la inducción (por
+ejemplo, alcanzadas las 41 semanas), debe preferirse la inducción
+con métodos mecánicos (balón de Cook o sonda Foley), pues este
+método de inducción no aumenta el riesgo de rotura uterina
+(Figura 8). El misoprostol no debe utilizarse para inducción en
+mujeres con cesárea previa por mayor riesgo de rotura uterina.
+
+Decisión informada
+Considerando el riesgo de rotura uterina y dehiscencia de la cicatriz, la mujer, en conjunto con el
+obstetra, debe decidir si prefiere intentar un parto vaginal o acceder a una cesárea electiva. Médicamente el
+riesgo se considera bajo y se recomienda intentar el parto vaginal si se cumplen los criterios indicados más
+abajo. Si la paciente considera este riesgo excesivo, se planificará una cesárea electiva a las 39+0 semanas.
+En caso de intentar el parto vaginal, se requiere uso de CTG y monitoreo de actividad uterina, se debe
+contar con un obstetra y un anestesista inmediatamente disponibles que intervengan en caso de rotura
+uterina y equipo avanzado de reanimación neonatal. El centro hospitalario debe contar con unidad de cuidado
+intensivo (materna y neonatal) y banco de sangre.
+Resultado Nº estudios/ Frecuencia
+materno individuos PV post cesárea Nueva cesárea electiva
+Muerte materna 12/402,883 0.004% 0.013% RR 0.33,
+(0.001-0.015) (0.004-0.042) 95% CI 0.13-0.88
+Rotura uterina 8/63,499 0.47% 0.026% RR 20.7,
+(0.28-0.77) (0.009-0.082) 95% CI 9.8-44.0
+Histerectomía 8/402,059 0.17% 0.17% No significativo
+(0.12-0.26) (0.12-0.26)
+Metrorragia 6/47,754 Datos insuficientes Datos insuficientes Datos insuficientes
+para evaluar para evaluar para evaluar
+Transfusión 9/401,307 0.9% 1.2% No significativo
+(0.4-2.0) (0.5-2.6)
+Infección 22/354,060 4.6% 3.2% No significativo
+(0.15-13.5) (1.3-7.3)
+Complicaciones 4/53,282 Datos insuficientes Datos insuficientes Datos insuficientes
+quirúrgicas para evaluar para evaluar para evaluar
+Resultados neonatales: La revisión sistemática del año 2010 de 41 estudios arrojó los siguientes datos:
+• Mortalidad perinatal y neonatal: La tasa de mortalidad perinatal y neonatal son más altas en el parto
+post cesárea que en una 2ª cesárea electiva (tasa mortalidad perinatal: 0.13 versus 0.05 %; tasa de
+mortalidad neonatal: 0.11 versus 0.06 %) sin embargo el riesgo absoluto es extremadamente bajo.
+• Taquipnea transitoria del recién nacido: La taquipnea transitoria del recién nacido es más común en
+la 2ª cesárea electiva que en el parto vaginal post cesárea (4.2 versus 3.6 p%).
+• Otros: Los datos son insuficientes para determinar el riesgo de encefalopatía hipóxico-isquémica,
+sepsis, trauma, ingreso a unidad de cuidados intensivos neonatal y malos resultados neurológicos.
+Criterios de selección
+El intento de parto vaginal en mujeres con una cesárea previa no es recomendable en todas las
+mujeres. Se usa el término “cicatriz de cesárea” en mujeres con antecedente de un parto vaginal entre la
+primera cesárea y el embarazo actual, y “cesárea anterior o previa” o simplemente “cesarizada” cuando el
+último parto antes del actual ocurrió por cesárea. Las consideraciones para permitir el parto vaginal son las
+mismas para ambos casos. Se recomiendan los siguientes criterios de selección:
+• Del embarazo previo:
+o En nuestro centro ofrecemos la posibilidad de parto vaginal con sólo una cesárea previa, y que
+haya sido segmentaria arciforme. Sin embargo, la ACOG considera seguro con hasta 2 cesáreas
+anteriores.
+o Descartar que la causa de la primera cesárea haya sido un problema permanente.
+o Ausencia de rotura uterina previa. Si en la operación cesárea se produce un desgarro significativo
+del segmento inferior, que requiere reparación, recomendamos no intentar un parto vaginal en
+el siguiente embarazo.
+
+o Contraindicación relativa de ausencia de otra cicatriz uterina, por ejemplo, miomectomía.
+• Del embarazo actual:
+o Presentación cefálica
+o Estimación de peso fetal menor a 4000 g
+En general se prefiere el inicio espontáneo del trabajo de parto en estas mujeres. La inducción
+farmacológica aumenta significativamente el riesgo de rotura uterina. Es posible usar métodos mecánicos
+para la inducción de mujeres con antecedente de una cesárea, sin aumentar el riesgo de dehiscencia.
+La aceleración ocitócica durante el trabajo de parto si está permitida, pero con cautela y
+monitorización fetal continua.
+La atención debe efectuarse en un centro capaz de efectuar una cesárea de emergencia (ginecólogo
+entrenado, anestesista y neonatólogo presente)
+Probabilidad del parto vaginal post cesárea
+• Tasa general de éxito de 70% con una cesárea previa.
+• La historia de un parto vaginal previo a la cesárea triplica la probabilidad de volver a tener un parto
+vaginal.
+• El mayor predictor de riesgo de fracaso en un intento de parto vaginal es que la primera cesárea se
+haya debido a una causa potencialmente recurrente de cesárea, como por ejemplo una prueba de
+trabajo de parto fracasado.
+• Otros factores que juegan un rol, aunque no se asocian tan fuertemente al fracaso del parto vaginal
+post cesárea son IMC elevado, edad maternal > 40 años, inducción del trabajo de parto y edad
+gestacional de más de 40 semanas.
+
+Resumen
+Generalidades
+• Epidemiología: ha aumentado en las últimas décadas, tanto en Chile como en el resto del mundo
+o Chile: la mayor alza se presenta en el sistema privado, pero Incluso en el sistema público las
+pacientes tienen 3-4 veces más riesgo de cesárea que la recomendada. El énfasis actual no es
+alcanzar una “tasa ideal” de cesáreas, sino garantizar su indicación adecuada, dado que beneficios
+poblacionales se concentran hasta alrededor del 15–20%.
+• Causas del incremento en la tasa de cesáreas: la principal razón es la “inducción del parto”
+1. Sistema de salud
+2. Cesárea anterior
+3. Gestación múltiple
+4. Uso de CTG: aumenta probabilidad de cesárea por diagnóstico de EFNT
+5. Menor experiencia de los obstetras: en el uso de fórceps principalmente
+6. Problemas medicolegales: los obstetras son los médicos más demandados, donde la
+mayoría de las demandas se relacionan con el parto
+Indicaciones de cesárea: cuando el parto vaginal no es posible, o es posible, pero con mayor riesgo para el
+feto o la madre. Las causas más frecuentes bien indicadas son desproporción cefalopélvica (prueba de TP
+fracasada), podálica y EFNT
+Beneficios del parto vaginal vs cesárea
+o Menor necesidad de anestesia y analgesia posparto
+o Menor morbilidad posparto, estadía hospitalaria y costos
+o Mejor contacto madre-hijo y estimulación del apego más temprana
+o Mayor satisfacción materna respecto al parto y tendencia a amamantar
+o Menor período intergenésico
+Técnica de la operación cesárea
+• Tipos de laparotomía:
+o Media infraumbilical: Ventajas: acceso más rápido a cavidad peritoneal, menor pérdida sanguínea
+y posibilidad de extender laparotomía al abdomen superior. Desventajas: mal resultado
+cosmético, más riesgo de dehiscencia de la herida y de hernia incisional
+o Pfannenstiel: Ventajas: mejor resultado cosmético y menor riesgo de dehiscencia o hernia
+incisional. Desventajas: más pérdida sanguínea, más tiempo operatorio, más riesgo de infección y
+dificultad para extender la incisión
+• Tipos de histerotomía:
+o Segmentaria arciforme: Ventajas: menos sangrado uterino, riesgo de rotura en futuros embarazos
+y necesidad de disección vesical, y una reaproximación más fácil. Desventajas: más riesgo de lesión
+vesical
+o Corporal o clásica: Ventajas: facilita extracción en caso de placenta previa en cara anterior, fetos
+en transversa y prematuros extremos. Desventajas: mayor sangrado y riesgo de rotura en próximo
+embarazo.
+Parto vaginal después de una cesárea:
+• Criterios de selección: causa no permanente de la primera cesárea, solo una cesárea segmentaria,
+ausencia de complicaciones infecciosas en el puerperio de la primera cesárea, embarazo único,
+presentación cefálica, EPF < 3800 gr, posibilidad de efectuar una cesárea de urgencia.
+
+Pá gin a | 175

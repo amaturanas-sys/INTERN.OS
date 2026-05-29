@@ -1,0 +1,339 @@
+Capítulo 2.
+SALUD PÚBLICA MATERNO-PERINATAL E INFANTIL
+SALUD PÚBLICA PERINATAL
+Es el conjunto de acciones destinadas a la adecuada administración de los recursos humanos y
+tecnológicos que permitan controlar los problemas más relevantes de la salud materna, fetal, del recién
+nacido y del niño/a hasta el primer año de vida de una población.
+Glosario de términos
+En este capítulo, y a lo largo del manual, utilizaremos una serie de términos de salud pública materno-
+perinatal que es necesario conocer. A continuación, explicamos estos términos (Figura 1).
+• Nacido vivo: expulsión completa
+del producto de la gestación, que
+tenga cualquier signo de vida,
+independiente de su unión al
+cordón umbilical o del
+desprendimiento placentario y de
+la duración de la gestación.
+• Muerte fetal: ausencia de
+cualquier signo de vida con
+anterioridad a la expulsión
+completa del producto de la
+gestación, independiente de la
+duración de la gestación. Según
+esta definición, adoptada por la
+OMS, el producto de la gestación se
+llama embrión antes de las 12
+semanas y desde las 12 semanas en
+adelante se llama feto.
+• Muerte fetal temprana: muerte fetal con menos de 500 gr o menos de 22 semanas de gestación. Esta
+situación corresponde a un Aborto.
+• Muerte fetal intermedia: muerte fetal a edad gestacional mayor o igual a 22 semanas y menor a 28
+semanas.
+• Muerte fetal tardía: fallecimiento del feto in útero, entre las 28 semanas y/o 1.000 gramos de peso, y el
+parto.
+• Muerte neonatal: fallecimiento del recién nacido desde el nacimiento hasta los 28 días de vida.
+• Muerte neonatal precoz: fallecimiento del recién nacido desde el nacimiento hasta los 7 días de vida.
+• Muerte neonatal tardía: fallecimiento del recién nacido entre 7 y 28 días de vida.
+• Muerte post neonatal: fallecimiento del niño desde el día 28 hasta completar un año de vida.
+• Muerte infantil: fallecimiento desde el momento del nacimiento hasta el año de vida.
+• Tasa de mortalidad: la tasa de mortalidad (fetal, neonatal o infantil, en cualquiera de sus variedades),
+corresponde al número de muertes expresado por 1.000 recién nacidos vivos en el mismo período.
+• Mortalidad perinatal (tipo I): suma de la mortalidad fetal tardía (28 semanas hasta el parto) más la
+mortalidad neonatal precoz (primera semana de vida).
+• Mortalidad perinatal ampliada (tipo II): suma de la mortalidad fetal mayor a 22 semanas, más la
+mortalidad neonatal (primeros 28 días de vida).
+• Natalidad: es el número de nacidos vivos (NV) en un año en un determinado lugar o país. La tasa de
+natalidad es el número de nacidos vivos por cada 1.000 habitantes en un lugar específico durante un año.
+• Tasa global de fecundidad: Número promedio de hijos que tendría una mujer durante su vida fértil, si
+mantuviera las tasas actuales de fecundidad por edad.
+
+CARACTERÍSTICAS EPIDEMIOLÓGICAS DE CHILE
+Hasta fines de los años 50, Chile se caracterizaba por un crecimiento poblacional moderado a alto,
+con natalidad creciente y reducción progresiva de la mortalidad. Con la incorporación de los métodos
+anticonceptivos, en los inicios de los 60’, se manifiesta un descenso progresivo de la natalidad, reducción de
+las muertes maternas por aborto provocado y de las muertes infantiles, todo gracias a un mejor control de la
+fecundidad en mujeres de mayor riesgo reproductivo.
+La tasa de natalidad descendió continuamente hasta los años 80’, en que comenzó a subir
+nuevamente, registrándose en 1990 la tasa natalidad más alta de la historia reproductiva de Chile (307.522
+nacidos vivos). La natalidad en Chile ha disminuido progresivamente desde 1990 hasta el presente; en el año
+2024 en Chile hubo 154.441 nacidos vivos (Figura 2). Como se observa en la Figura 2, asociado a la pandemia
+por COVID-19, la natalidad en Chile disminuyó, pareció recuperarse en el 2022, sin alcanzar los niveles de
+natalidad del 2019 y luego siguió cayendo el 2023 y 2024. De este modo, cifras estimadas indican que La tasa
+global de fecundidad en Chile el 2024 fue de aproximadamente 1,03 hijos por mujer.
+El control poblacional de la fecundidad, asociado al desarrollo económico, social y sanitario del país,
+han disminuido la natalidad, la mortalidad y, en consecuencia, el crecimiento natural de la población chilena.
+Esta situación es característica de la etapa de transición demográfica avanzada.
+Una de las características de la transición demográfica avanzada es que los grupos etarios que forman
+la población de un país no cambian simétricamente. Por una parte, se presenta un aumento progresivo de los
+grupos etarios mayores de 65 años (debido a la alta natalidad del pasado y la baja mortalidad actual) y, por
+otra parte, existe un descenso en la población entre 15-64 años (debido a la reducción actual de la natalidad).
+Esto trae como consecuencia el envejecimiento poblacional del país. El problema es que este envejecimiento
+también se manifiesta en el grupo de mujeres en edad fértil y se sabe que el riesgo materno, perinatal e
+infantil aumenta en las mujeres mayores de 35 años, lo que se explica principalmente por las patologías
+crónicas preexistentes.
+Natalidad según edad materna
+Entre 1990 y el 2000, la natalidad del grupo de mujeres entre 10-14 años aumentó levemente, pero
+siempre se ha mantenido en niveles muy bajos y en la última década muestra una tendencia a la disminución.
+La tasa de fecundidad adolescente (15 a 19 años) disminuyó considerablemente desde alrededor de 50–55
+nacimientos por mil mujeres a comienzos de los años 2000, a cerca de 27,3 por mil en 2017, y ha seguido
+descendiendo hasta valores cercanos a 12 nacimientos por mil mujeres en 2021–2022. La natalidad del grupo
+20-34 años, que es el de menor riesgo reproductivo, ha disminuido en los últimos 20 años. Finalmente, el
+grupo de mujeres de edad materna avanzada (mayores de 35 años) ha aumentado progresivamente en los
+últimos 20 años, alcanzando una natalidad claramente mayor que la de los años 90’, lo que contribuye al
+envejecimiento reproductivo de la población materna.
+
+Mortalidad fetal, neonatal e infantil
+Desde los años 90’, las tasas de mortalidad infantil y neonatal han tenido una tendencia decreciente,
+sin embargo, la tasa de mortalidad fetal presentó un incremento sostenido entre el 2000 y el 2006, para luego
+mantenerse estable hasta el 2016 cuando comienza a decrecer (Figura 3). La elevada tasa entre 2006 y 2016
+podría explicarse por los cambios demográficos mencionados, principalmente el envejecimiento poblacional
+de la mujer en edad fértil. La reducción progresiva de la mortalidad fetal desde 2016 a la fecha se debe,
+posiblemente, a mejoras en el cuidado obstétrico.
+Las mujeres entre 15-
+35 años presentan menores
+tasas de mortalidad fetal,
+neonatal e infantil,
+comparado con las mujeres
+mayores de 35 años, en que
+estos riesgos aumentan
+significativamente. El riesgo
+de muerte fetal, neonatal e
+infantil también aumenta en
+mujeres de 10-14 años, grupo
+que requiere especial
+atención, pues habitualmente
+son embarazos no
+planificados que podrían
+evitarse con un adecuado plan
+educativo a esta población.
+La tasa de mortalidad
+infantil para Chile en 2021 fue
+de 5,8, es decir menos de 6 defunciones de menores de un año de vida por cada mil nacidos vivos.
+Causas de muerte fetal tardía (mortinatos) en Chile año 2024
+• Hipoxia 27 %
+• Complicaciones de la placenta y anexos ovulares 21 %
+• Complicaciones maternas del embarazo 16 %
+• Malformaciones congénitas 13 %
+• Otras varias no específicas 11 %
+• Complicaciones maternas no relacionadas con el embarazo 6 %
+• Restricción de crecimiento 3 %
+Causas de mortalidad neonatal precoz (mortineonato) en Chile año 2024
+• Malformaciones y anomalías cromosómicas 58 %
+• Trastornos relacionados con duración corta de la gestación y con bajo peso al nacer 28 %
+• Dificultad respiratoria del recién nacido 13 %
+• RN afectado por complicaciones maternas del embarazo 10 %
+• Asfixia al nacer 9 %
+• Otros problemas respiratorios originados en el período perinatal 7 %
+• Sepsis bacteriana del recién nacido 6 %
+• RN afectado por complicaciones de placenta, cordón umbilical y membranas 5 %
+
+El 55% de las muertes neonatales precoces ocurren dentro del primer día de vida: prematuro
+extremo, asfixia grave, malformación congénita incompatible con la vida. Por eso, es importante que, si se
+sospecha alguno de estos problemas, exista un neonatólogo disponible en la sala de parto.
+La mortalidad neonatal precoz se correlaciona directa y significativamente con el bajo peso al nacer
+(< 2500 gr) y la prematurez (< 37 semanas). La malformación congénita más frecuente como causa de
+mortalidad neonatal precoz es la anencefalia. Las malformaciones congénitas más frecuentes son las
+malformaciones cardiacas.
+Entre las muertes infantiles (primer año de vida), el 80% de ellas es derivada del proceso reproductivo
+humano, un 45% se deben a afecciones perinatales y un 35% a malformaciones congénitas.
+Mortalidad Perinatal en Chile
+La mortalidad perinatal tipo II considera las muertes ocurridas entre las 22 semanas de gestación y
+los 28 días posteriores al nacimiento; se ha mantenido estable en los últimos 20 años en el rango de 10 -
+8/1.000 NV (Figura 4). Resume el efecto de las diferentes causas de muerte del niño, atribuibles al proceso
+reproductivo. Es así como las principales causas de mortalidad perinatal son las malformaciones congénitas,
+la restricción del crecimiento intrauterino, las alteraciones cromosómicas, la prematurez, la asfixia perinatal,
+el bajo peso al nacer, las infecciones perinatales, entre otras. Su magnitud es un reflejo de la calidad del control
+prenatal, de la atención profesional del parto
+y del recién nacido, como también de las
+políticas sanitarias destinadas al cuidado de la
+salud materna e infantil.
+Las razones que explican la dificultad
+para seguir mejorando este indicador son
+multifactoriales e incluyen: el retraso de la
+maternidad a edades cada vez más avanzadas,
+con mayor carga de enfermedades crónicas; la
+mayor supervivencia de recién nacidos muy
+prematuros y de muy bajo peso, que siguen
+siendo de alto riesgo; y las inequidades en el
+acceso oportuno y continuo a un control
+prenatal de calidad en determinados grupos,
+entre ellos algunas poblaciones migrantes y
+mujeres en situación de vulnerabilidad social.
+Estrategias para la reducción de la mortalidad perinatal
+• Reducción de malformaciones fetales congénitas (principalmente defectos del tubo neural como
+anencefalia y mielomeningocele). Se recomienda suplementar con ácido fólico 0,4 mg/día a todas las
+mujeres que planifican un embarazo, idealmente desde al menos un mes antes de la concepción y, si es
+posible, desde tres meses antes, manteniéndolo hasta las 12 semanas de gestación. En mujeres de alto
+riesgo (hijo previo con defecto del tubo neural, uso de anticonvulsivantes, diabetes pregestacional,
+obesidad u otros factores de riesgo mayores) se aconseja una dosis de 4–5 mg/día en el mismo período,
+disminuyendo luego a 0,4 mg/día después de las 12 semanas. En Chile existen comprimidos de 1 y 5 mg,
+que se usan según estas indicaciones.
+• Control prenatal eficiente: con buena cobertura y con capacidad de identificar factores de riesgo.
+• Diagnóstico precoz de la restricción de crecimiento fetal y manejo apropiado.
+• Derivación oportuna de embarazos de alto riesgo al nivel de mayor complejidad.
+• Parto institucional: presencia de profesionales bien formados, incluyendo obstetra, neonatólogo y
+anestesiólogo.
+• Diagnóstico y manejo oportuno de la asfixia intraparto y neonatal.
+• Prevención de parto prematuro y bajo peso al nacer.
+• Prevención de la infección perinatal.
+• Planificación familiar de pacientes de alto riesgo biológico y social.
+
+Parto prematuro y bajo peso al nacer
+Se define parto prematuro como aquel que ocurre antes de las 37 semanas de edad gestacional, y
+bajo peso al nacer como un peso de nacimiento menor a 2.500 gramos. Las tasas de parto prematuro y bajo
+peso al nacer disminuyeron en Chile
+entre comienzos de la década de 1990 y
+mediados de esa década, para luego
+mostrar una tendencia al alza y, más
+recientemente, una relativa
+estabilización en torno al 8–10% de los
+nacidos vivos (Figura 5). Datos del
+MINSAL reportan que en 2022 la tasa de
+parto prematuro alcanzó
+aproximadamente 94 por 1.000 recién
+nacidos vivos (9,4%). Este
+comportamiento obedece
+probablemente a un conjunto de
+factores: mayor edad materna y mayor
+prevalencia de patologías crónicas,
+aumento de embarazos múltiples
+(incluidos aquellos resultantes de
+técnicas de reproducción asistida),
+cambios en las prácticas obstétricas y en
+la composición de la población materna (incluyendo mujeres migrantes que pueden enfrentar barreras de
+acceso al control prenatal), más que a una única causa específica.
+Mortalidad materna en Chile
+Muerte materna se define como la muerte de una mujer durante su embarazo, parto, o puerperio
+(42 días posparto), por cualquier causa relacionada o agravada por el embarazo, parto o puerperio,
+excluyendo causas accidentales o incidentales.
+Se denomina "muerte materna de causa directa" a aquella que es resultado de una complicación
+propia del embarazo, parto o su manejo (ej. hemorragia posparto). Por el contrario, "muerte materna de causa
+indirecta" es aquella que se produce en una mujer embarazada o puérpera con un problema de salud
+preexistente (ej. HTA crónica).
+La razón o tasa de mortalidad materna es el número de defunciones maternas por cien mil nacidos
+vivos (x 100.000 NV). Mortalidad
+materna corregida, es la tasa de
+mortalidad materna a la cual se restan
+las muertes maternas por aborto.
+En Chile, en décadas
+anteriores a los 60’, la tasa de
+mortalidad materna (TMM) era de las
+más altas de Latinoamérica
+(aproximadamente 300/100.000 NV).
+El 38.8% de las muertes se debían al
+aborto séptico (Figura 6).
+En Chile, la TMM se redujo un
+61% entre 1990 y 2015. Existe un
+punto de inflexión en el 2001, pues
+desde ese año en adelante la TMM se
+había mantenido sin cambios
+significativos, probablemente debido a
+los cambios epidemiológicos en Chile,
+fundamentalmente un mayor número
+
+de embarazadas en edades de mayor riesgo reproductivo. Es importante notar que la TMM de Chile el año
+2022 fue de 17.2/100.000 NV, lo que significa una reducción significativa respecto a los años previos.
+Como se indicó antes, la natalidad ha aumentado en el grupo de mujeres de mayor riesgo
+reproductivo (mayores de 35 años), estas mujeres tienen además un mayor riesgo de muerte materna. Es
+notable que las adolescentes entre 10-14 años, también presenten un mayor riesgo de muerte.
+Causas de muerte materna
+Las causas de muerte materna se clasifican en directas e indirectas
+A. Causas directas
+• Aborto
+• Metrorragia ante/posparto (placenta previa, DPPNI, inercia uterina)
+• Sepsis puerperal
+• Embolía obstétrica (TEP - embolía de líquido amniótico)
+• Preeclampsia - eclampsia
+• Embarazo ectópico
+B. Causas indirectas (enfermedades crónicas)
+• Reumatológicas: LES
+• Neurológicas: malformaciones vasculares cerebrales
+• Metabólicas: diabetes
+• Cardiovasculares: HTA crónica, miocardiopatías
+• Psiquiátricas: depresión
+• Infecciosas: VIH
+• Oncológicas: leucemia
+Causas de muerte materna en Chile
+En los últimos 10 años, las tres primeras causas de muerte materna en Chile son: enfermedades
+concurrentes, hipertensión arterial y aborto. Las dos primeras causas explican el 54,5% del total de las muertes
+maternas del período.
+1. Enfermedades concurrentes
+2. Hipertensión arterial
+3. Aborto
+4. Embarazo ectópico
+5. Hemorragia posparto
+6. Embolia obstétrica
+En los grupos de edades extremas (< 15 años y > 35 años) el riesgo de mortalidad materna aumenta, en
+asociación con enfermedades como HTA, sepsis puerperal y aborto. El mayor riesgo de mortalidad materna
+para la mayoría de las causas se da en mujeres con edad avanzada.
+Estrategias para disminuir la mortalidad materna
+• Guías clínicas nacionales.
+• Control prenatal eficiente: no se refiere a aumentar el número de los controles, sino más bien a
+mejorar la calidad de éstos.
+• Formación de especialistas en medicina materno-fetal, con habilidades mejores en el manejo de las
+patologías crónicas de la mujer embarazada.
+• Control de la fecundidad en poblaciones de alto riesgo: programas de sexualidad responsable (para
+adolescentes) y adecuado consejo reproductivo para mujeres mayores, especialmente mayores de
+40 años.
+• Interrupción del embarazo en casos de peligro para la vida de la mujer.
+• Reducir la incidencia de operación cesárea.
+
+NEAR MISS – Morbilidad Materna Extrema
+Corresponde a situaciones donde una mujer casi muere producto de complicaciones derivadas del
+embarazo, parto y puerperio, por causas propias de la gestación o agravadas por esta, excluyendo causa
+accidental o incidental.
+"Near Miss" no cuenta con una traducción directa del concepto al español; sin embargo, es fácil
+entender de qué se trata. La recomendación del Centro Latinoamericano de Perinatología en conjunto con la
+Organización Panamericana de la Salud es reservar el término de morbilidad materna extrema a los casos
+donde una mujer casi muere, pero sobrevive a una complicación que ocurre durante el embarazo, el parto o
+dentro de los 42 días de terminado el embarazo, definición que corresponde al término "Near Miss" o
+amenaza vital materna de la iniciativa OMS.
+En algunos países, se usa como indicador para medir la calidad de la atención perinatal.
+Desafortunadamente, en Chile, no existen datos oficiales aún; pero se estima que, por cada caso de muerte
+materna, existen 10 casos de Near Miss. La medición epidemiológica de los casos de Near Miss permitiría
+identificar estrategias para mejorar la atención perinatal y reducir el riesgo de muerte materna.
+
+Resumen
+• Características epidemiológicas de Chile: Con la incorporación de los métodos anticonceptivos (años
+60’) hubo un descenso de la natalidad, reducción de las muertes maternas por aborto provocado y de
+las muertes infantiles, gracias a un mejor control de la fecundidad en mujeres de mayor riesgo
+reproductivo. La natalidad descendió hasta los años 80’, para luego comenzar a subir, registrándose
+un máximo en 1990, desde entonces la natalidad en nuestro país ha disminuido progresivamente.
+• Natalidad según edad materna: Entre 1990 y el 2000, la natalidad del grupo de mujeres entre 10-14
+años aumentó progresivamente y desde entonces se ha mantenido estable. La tasa de fecundidad
+adolescente (15 a 19 años) disminuyó considerablemente en los últimos 20 años. La natalidad del
+grupo 20-34 años ha disminuido en los últimos 20 años, aunque presenta una leve recuperación en los
+últimos 10 años (sin llegar a los niveles de los años 90’). El grupo de mujeres > 35 años ha aumentado
+progresivamente en los últimos 20 años.
+• Mortalidad fetal, neonatal e infantil
+o Las mujeres entre 15-35 años presentan menores tasas de mortalidad fetal, neonatal e infantil,
+comparado con las mujeres mayores de 35 años o menores de 14 años.
+o La tasa de mortalidad infantil para Chile en 2021 fue de 5,8, es decir 5,8 defunciones de menores
+de un año de vida por cada mil nacidos vivos.
+o Entre las causas de muerte fetal tardía en Chile se encuentran hipoxia (27%), complicaciones de
+la placenta y anexos ovulares (21%), complicaciones maternas del embarazo (16%),
+malformaciones congénitas (13%), RCF (3%), entre otras. Mientras que en las causas de
+mortalidad neonatal precoz se encuentran malformaciones congénitas (más frecuente
+anencefalia) y anomalías cromosómicas, trastornos relacionados con la prematurez y el bajo peso
+al nacer, dificultad respiratoria del RN, RN afectado por complicaciones maternas, asfixia al nacer,
+sepsis bacteriana y complicaciones de la placenta, cordón umbilical y membranas, entre otras. Si
+se sospecha uno de estos problemas es importante contar con un neonatólogo.
+• Mortalidad materna: se define como la muerte de una mujer durante su embarazo, parto o puerperio
+(42 días posparto), por causas relacionadas o agravadas por el embarazo, excluyendo causas
+accidentales o incidentales. Se diferencia en causas “directas” (complicaciones propias del embarazo
+o su manejo) e “indirectas” (patologías preexistentes o concomitantes). La principal causa de
+mortalidad materna en Chile previo a los años 60’ era el aborto séptico. En las últimas décadas, las
+principales causas son las enfermedades maternas concurrentes (patologías crónicas) y los trastornos
+hipertensivos del embarazo. Entre 1990 y 2015 la razón de mortalidad materna se redujo en torno a
+un 60%; posteriormente ha mostrado fluctuaciones, con aumentos transitorios (incluyendo el período
+de la pandemia de COVID-19) y una disminución reciente, alcanzando cerca de 17 muertes maternas
+por 100.000 nacidos vivos en 2022.
+• Estrategias para la reducción de la mortalidad perinatal y materna: Estrategias preventivas en el
+ámbito materno-perinatal deben mantener y mejorar el estándar de control del proceso reproductivo
+(Ej. Guías nacionales, control prenatal, suplementación con ácido fólico, diagnóstico y manejo de
+patologías maternas y fetales anteparto, atención profesional del parto), e incorporar nuevos
+elementos de manejo de embarazos de alto riesgo (Ej. evaluación y educación preconcepcional en
+grupos de riesgo, formación de especialistas en medicina materno-fetal, control de fecundidad en
+grupos de mayor riesgo, reducir la incidencia de cesáreas).
+
+Pá gin a | 27

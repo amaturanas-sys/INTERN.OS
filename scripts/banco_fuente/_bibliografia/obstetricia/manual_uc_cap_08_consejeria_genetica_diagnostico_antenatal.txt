@@ -1,0 +1,663 @@
+Capítulo 8.
+CONSEJERÍA GENÉTICA Y DIAGNÓSTICO ANTENATAL
+Consejería genética corresponde al proceso de discusión y exploración de la salud relacionada con la
+herencia y los trastornos genéticos. En este caso, se refiere a la orientación a los padres sobre la posibilidad
+de tener un hijo afectado por una enfermedad genética o congénita (basado en la edad de los padres y sus
+antecedentes). La consejería genética antenatal incluye específicamente orientación sobre los exámenes que
+es necesario efectuar (riesgos vs beneficios, falsos positivos vs falsos negativos) y explicar sus resultados.
+Diagnóstico antenatal corresponde al diagnóstico antes del nacimiento, es decir in-útero, de
+malformaciones, síndromes malformativos, enfermedades genéticas y/o metabólicas, a través de exámenes
+de laboratorio, estudios por imágenes y pruebas invasivas efectuadas durante el embarazo.
+El riesgo en población general de tener un hijo con alguna anormalidad congénita, genética y/o
+etiología ambiental (agentes teratógenos y otros) varía entre 2-3 % y hasta un 7% en países no desarrollados.
+En familias con antecedentes de trastornos genéticos, la probabilidad de tener un niño afectado
+puede superar varias veces el riesgo en población general, haciendo que en estas familias el diagnóstico
+prenatal sea muy importante.
+OBJETIVOS DE LA CONSEJERÍA GENÉTICA ANTENATAL
+La consejería genética, en asociación con los procedimientos de diagnóstico antenatal, constituyen
+herramientas básicas para la prevención y manejo oportuno de anormalidades congénitas y alteraciones
+genéticas y su objetivo es ayudar a los padres a:
+• Conocer el riesgo de anomalías congénitas, ajustado a su caso en particular.
+• Entender las indicaciones y relevancia del diagnóstico antenatal de trastornos genéticos y anormalidades
+congénitas y el impacto para la familia involucrada (mediante la caracterización del trastorno, su patrón
+de herencia y el riesgo de recurrencia en hijos de generaciones sucesivas).
+• Tomar decisiones de manera informada respecto a una determinada patología, con un esquema de
+diagnóstico apropiado (describir los posibles métodos diagnósticos, sus beneficios, limitaciones y riesgos).
+Es importante recalcar que la decisión respecto al diagnóstico antenatal debe ser tomada por la pareja
+(principio de consentimiento informado). El consejero genético sólo cumple un papel de orientador (no
+es consejería dirigida), permitiendo a la pareja reflexionar respecto a las ventajas y desventajas del
+diagnóstico antenatal.
+OBJETIVOS DEL DIAGNÓSTICO ANTENATAL
+De acuerdo con las recomendaciones de la WHO y la European Commission, el diagnóstico antenatal
+debe ser voluntario y llevarse a cabo sólo con el fin de tomar conocimiento respecto al estado de salud del
+feto. Sus objetivos son:
+• Informar a los padres sobre la traducción clínica de los resultados de las pruebas efectuadas. En caso de
+alcanzar una conclusión definitiva, informar sobre las características de la condición considerando
+evolución pre y post natal del hijo afectado.
+• Tranquilizar a los padres si los exámenes son normales.
+• Ayudar en la toma de decisiones tanto al obstetra como al neonatólogo.
+• Decisión sobre interrupción o mantención del embarazo. En países donde el aborto provocado es legal,
+el diagnóstico antenatal es también crucial en la toma de decisiones informadas respecto de si continuar
+o interrumpir el embarazo. Si se decide continuar con el embarazo, este debe ser manejado como de alto
+riesgo, se deben tomar las medidas necesarias para implementar tratamiento in-útero si es que está
+disponible, y proveer el mejor cuidado médico posible en el posparto inmediato. Si la decisión es
+interrumpir el embarazo, se debe proveer medios seguros para hacerlo y acompañamiento.
+• Consejo genético para embarazos futuros. Para esto es necesario conocer los centros de referencia y
+trabajar con equipos interdisciplinarios.
+
+TÉCNICAS DE DIAGNÓSTICO ANTENATAL
+Los métodos de diagnóstico antenatal pueden ser divididos en no-invasivos e invasivos. Los métodos
+no invasivos son seguros para la madre y el feto, pero no permiten diagnóstico de certeza, sino que una
+predicción de riesgo más o menos certera. Los métodos invasivos presentan riesgo de pérdida fetal, por lo
+que su uso debe ser meditado y entendiendo el riesgo que poseen.
+Procedimientos no invasivos
+A. Ecografía obstétrica 11-14 semanas
+B. Ecografía obstétrica morfológica (20-24 semanas)
+C. Ecocardiografía fetal
+D. Resonancia Magnética fetal
+E. Marcadores bioquímicos en sangre materna
+F. ADN fetal libre en sangre materna
+Procedimientos invasivos
+A. Biopsia de vellosidades coriónicas
+B. Amniocentesis
+C. Cordocentesis
+PROCEDIMIENTOS DE DIAGNÓSTICO ANTENATAL NO INVASIVOS
+Se utilizan para el diagnóstico de anormalidades congénitas y tamizaje de determinados desórdenes
+genéticos; sin embargo, las pruebas no invasivas solamente permiten determinar el riesgo de que el feto tenga
+o no una determinada condición y no hacen el diagnóstico. La mejor forma de entender el proceso diagnóstico
+es mediante el cálculo del LR (likelihood ratio); es decir, la probabilidad de tener la condición antes y después
+del resultado de la prueba. Si la prueba es positiva, la probabilidad de tener la condición aumenta, y esta
+información permite cambiar la conducta de manejo. Por ejemplo, en una mujer cuyo riesgo por edad de un
+recién nacido con trisomía 21 es de 1 en 200, si la translucencia nucal es normal, el riesgo de trisomía 21
+disminuye a 1 en 1.000. No descarta el diagnóstico, pero lo hace menos probable. Si la translucencia está
+aumentada, el riesgo de trisomía aumenta a 1 en 10. No confirma el diagnóstico, pero lo hace más probable.
+La mayoría de las publicaciones respecto de pruebas no invasivas hace referencia a la tasa de falsos
+positivos o falsos negativos; sin embargo, nos parece un modelo erróneo de mirar esta información. Por
+ejemplo, los marcadores bioquímicos tienen una tasa de 5% de falsos positivos, quiere decir que, si la prueba
+es positiva, existe un 5% de posibilidades de que la condición no exista. Sin duda la interpretación basada en
+el LR permite una mejor aproximación clínica.
+En términos generales, si el resultado de las pruebas no invasivas es positivo, el riesgo de la condición
+aumenta, en ese escenario es razonable efectuar una prueba invasiva para confirmar o descartar el
+diagnóstico. La decisión de efectuar o no la prueba invasiva debe tomarse en conjunto con la pareja.
+Antes de evaluar los hallazgos de las pruebas no invasivas, se debe comprender que cada mujer tiene
+un riesgo a priori. Este depende de la edad materna y la edad gestacional. Por ejemplo, el riesgo de trisomía
+21 aumenta con la edad materna de forma exponencial a partir de los 35 años, pero disminuye con la edad
+gestacional (al morir el 30% de las trisomías 21 sobre las 12 semanas). En el caso de las trisomías 13 y 18,
+ocurre la misma tendencia, con una mortalidad entre las semanas 12 y 40 del 80%. El riesgo individual de la
+paciente basado en estos dos factores es multiplicado por coeficientes de probabilidad en base a distintos
+hallazgos encontrados (marcadores ecográficos o bioquímicos).
+A. Ecografía 11-14 semanas
+Se trata de una ecografía efectuada por vía habitualmente abdominal, entre las 11 y 13+6 semanas
+de gestación, con un embrión entre 45-84 mm de LCN. Es posible verificar la vitalidad fetal (presencia de
+actividad cardiaca) y la edad gestacional (longitud céfalo nalgas, diámetro biparietal, fémur) con un margen
+
+de error de 7 días. En los embarazos gemelares, además, se debe realizar el diagnóstico de corionicidad y
+amnionicidad. (Ver capítulo 30. EMBARAZO MÚLTIPLE)
+Para el diagnóstico antenatal, en la ecografía 11-14 semanas, se evaluará:
+• Translucencia nucal.
+• Hueso nasal.
+• Velocimetría del ductus venoso.
+• Reflujo tricuspídeo.
+A.1. Translucencia nucal (TN)
+Corresponde a la
+acumulación de escasa
+cantidad de líquido en el
+espacio existente entre la
+columna cervical y la piel de la
+nuca del feto. Se ha
+demostrado que el aumento
+del grosor de la TN es un
+marcador de riesgo de
+aneuploidías (trisomía 21, 18,
+13, monosomía X). La
+medición de la translucencia
+nucal permitiría identificar
+aproximadamente el 75% de
+las aneuploidías más
+frecuentes, con una tasa de falsos positivos del 5%. Tras la semana 13, la incidencia de TN aumentada decrece,
+una causa es la dificultad de medir debido a la adopción de una posición vertical del feto. Es importante señalar
+que se debe obtener la imagen cuando el feto se encuentra en una posición neutra (la cabeza en línea con la
+columna), sin hiperextensión (aumenta TN) ni flexión del cuello (disminuye TN). La medida se realiza en la
+parte más ancha de la translucencia nucal. Si el cordón se interpone, se toma un promedio de la medida sobre
+y bajo el cordón.
+Técnica de medición de la Translucencia Nucal (Figura 1)
+• EG 11-14 semanas con LCN entre 45 y 84 mm.
+• Feto en corte sagital y posición neutra.
+• Cabeza y tórax fetal deben ocupar el 75% de la pantalla.
+• Caliper en bordes internos de la TN (Figura 1).
+• No confundir piel fetal con la membrana amniótica.
+• Hacer al menos tres mediciones y usar la mayor de ellas para el cálculo de riesgo.
+• Requiere de un equipo adecuado y un operador calificado.
+Con la información de la TN es posible conocer el riesgo de que el feto esté afectado. Sabemos que
+el riesgo de trisomía 21 es proporcional a la edad de la mujer (existen tablas de riesgo por edad). Según el
+resultado de la TN y la edad de la mujer, es posible determinar el riesgo ajustado de trisomía 21, el que se
+informará a la pareja.
+Tener la TN aumentada (sobre el percentil 95 para le EG) significa que existe un riesgo mayor de
+alteraciones cromosómicas, cardiopatías congénitas, síndromes malformativos (esqueléticos, faciales,
+entre otros), incluso muerte fetal in útero o alteraciones de desarrollo psicomotor, pero también incluye la
+posibilidad de un hijo sano. Como se observa en la tabla siguiente, pese a un elevado valor de la TN siempre
+existe la posibilidad de un feto sano. La TN se ajusta según la LCN (a mayor LCN, mayor TN), motivo por el cual
+
+se evalúa en percentiles. Es importante considerar que la translucencia nucal aumenta progresivamente con
+la longitud céfalo-nalgas; por lo tanto, los percentiles de normalidad varían según la LCN y deben interpretarse
+siempre con tablas o software específicos para la EG. En la práctica, muchos programas utilizan como punto
+de corte de alto riesgo un valor absoluto ≥ 3,0-3,5 mm, lo que suele corresponder a percentiles muy elevados
+(aproximadamente ≥ p99) en el rango de 11-13+6 semanas.
+Riesgos fetales asociados al resultado de medición de la Translucencia Nucal
+TN Cariotipo Alterado Muerte Fetal Malformación RN sano
+mayor
+< pc 95 para la EG 0.2 % 1.3 % 1.6 % 97 %
+pc 95-99 3.7 % 1.3 % 2.5 % 93 %
+3.5 - 4.4 mm 21.1 % 2.7 % 10.0 % 70 %
+4.5 - 5.4 mm 33.3 % 3.4 % 18.5 % 50 %
+5.5 - 6.4 mm 50.5 % 10.1 % 24.4 % 30 %
+> 6.5 mm 64.5 % 19.0 % 46.2 % 15 %
+En general, si la TN se encuentra por debajo del percentil 95 para la EG (aprox. < 2,5–3 mm), el riesgo
+de trisomía 21 se reduce respecto del riesgo basal por edad materna. Como norma general, si el riesgo
+corregido de trisomía 21 es mayor a 1/100 RN, se recomienda el uso de una prueba invasiva para confirmar
+o descartar el diagnóstico.
+Como se indicó anteriormente, la TN aumentada hace pensar en una aneuploidía, sin embargo, la TN
+aumentada, especialmente en fetos con cariograma normal, puede ser asociada además a otros desórdenes
+como:
+• Hidrops y muerte fetal in útero o asociación a síndrome genético (10%).
+• Cardiopatías congénitas (10%).
+• Otras malformaciones congénitas: hernia diafragmática, onfalocele,
+labio leporino o fisura palatina, displasia esquelética (acondroplasia,
+osteogénesis imperfecta), síndrome de Smith-Lemli-Opitz, atrofia
+espinal y síndrome de Noonan.
+• Retraso del neurodesarrollo (3-5%).
+A.2. Hueso nasal (HN)
+En los fetos cromosómicamente normales, la ausencia del hueso nasal es menor a 1% en la población
+caucásica y alrededor del 10% en los afrocaribeños. La ausencia del hueso nasal se define si no está visible o
+es menos ecogénico que la piel que lo recubre. El hueso nasal está ausente en el 65% de los fetos con trisomía
+21, en alrededor del 50% de los fetos con trisomía 18 y en el 30% de los fetos con trisomía 13. La ausencia del
+hueso nasal aumenta al doble el riesgo de trisomía 21 que corresponde por edad de la madre.
+Técnica de evaluación del hueso nasal: (Figura 2)
+• En gestación de entre 11-14 semanas, la LCN debe ser de entre 45-84 mm. En este periodo, el perfil
+fetal puede ser examinado con éxito en más del 95% de los casos.
+• La imagen debe aumentarse de tal modo que sólo se incluyan en la pantalla la cabeza y la parte superior
+del tórax.
+• Se debe obtener un plano sagital medio del perfil fetal manteniendo el transductor ecográfico paralelo
+a la dirección de la nariz.
+• En la imagen de la nariz deben aparecer tres líneas distintas. La línea superior representa la piel y la
+inferior, que es más gruesa y ecogénica que la piel, representa el hueso nasal. Una tercera línea, casi
+en continuidad con la piel, pero en un nivel más alto, representa la punta de la nariz.
+
+A.3. Frecuencia cardiaca fetal
+Durante el embarazo, la frecuencia cardiaca fetal aumenta sustancialmente desde 110 a 170 lpm,
+entre las 5 y 10 semanas, para luego disminuir a 150 lpm a las 14 semanas. La taquicardia es más frecuente
+en fetos con trisomía 13, 21 y síndrome de Turner. La bradicardia es más frecuente en fetos con trisomía 18 y
+triploidía. En estudios sobre LCF en fetos con trisomías, se observó que solo un 15% de fetos con trisomías 21
+y 18 tienen frecuencia cardíaca levemente aumentada y disminuida, respectivamente. En cambio, se observó
+frecuencia cardíaca sobre el percentil 95, en un 85% de los casos de trisomía 13. Este parámetro ha permitido
+ayudar a diferenciar las trisomías 13 y 18, que suelen tener marcadores similares: ambas con aumento de la
+TN, descenso de la β-hCG libre y PAPP-A.
+A.4. Ductus venoso
+El ductus venoso es un shunt único que dirige sangre oxigenada desde la vena umbilical hacia la
+circulación coronaria y cerebral, gracias a un paso preferencial de sangre hacia la aurícula izquierda a través
+del foramen oval. La onda de velocidad de flujo a nivel del ductus venoso tiene una forma característica, con
+una alta velocidad durante la sístole ventricular (onda-S) y la diástole ventricular (onda-D), y un flujo positivo
+durante la sístole auricular (onda-a). (Figura 3)
+En la ecografía 11-14 semanas, el flujo
+anormal del ductus venoso se asocia a
+aneuploidía, cardiopatía congénita y resultado
+perinatal adverso. A esta EG, existe un flujo
+anormal o reverso en el ductus venoso en
+alrededor del 60-90% de los fetos con trisomía
+21 y en alrededor del 5% de los fetos
+cromosómicamente normales.
+No existe relación, o sólo una relación
+muy débil, entre el aumento de la TN y la
+incidencia del flujo anormal en el ductus
+venoso. Estos hallazgos indican que la
+evaluación del ductus venoso puede
+combinarse con la medida de la TN para mejorar la eficacia del estudio ecográfico precoz para la trisomía 21.
+El estudio del ductus no se solicita de rutina, pero en centros especializados resulta de gran utilidad para
+reevaluar el riesgo en pacientes con un resultado límite de la TN. En nuestro centro efectuamos esta medición
+de forma rutinaria en la ecografía 11-14 semanas.
+Adicionalmente, en la ecografía 11-14 semanas, ya es posible visualizar otros marcadores que se
+relacionan con riesgo de anormalidades congénitas o síndromes genéticos como se muestra en la siguiente
+tabla:
+Alteración Síndrome genético
+TN > 3 mm Trisomía 21, X0 (Turner)
+Ausencia de hueso nasal Trisomía 21
+Hipoplasia maxilar Trisomía 21
+Ductus venoso alterado Trisomía 21
+Regurgitación tricuspídea Trisomía 21
+Onfalocele Trisomía 18
+Hipoplasia vesical Trisomía 13-18
+Arteria umbilical única Trisomía 18
+Para una tasa de 5% de falsos positivos, el cribado del primer trimestre que combina edad materna,
+translucencia nucal y marcadores bioquímicos (PAPP-A y β-hCG libre) identifica del orden del 85–90% de los
+fetos con trisomía 21. La incorporación de otros marcadores ecográficos (como hueso nasal o flujo en ductus
+venoso) y/o del tamizaje del segundo trimestre puede aumentar la tasa de detección hasta cifras cercanas al
+95%, manteniendo tasas de falsos positivos en torno al 3–5%.
+
+B. Ecografía morfológica (20-24 semanas): malformaciones y marcadores de aneuploidías
+La ecografía del segundo trimestre tiene como rol evaluar la anatomía fetal, por eso se le suele llamar
+ecografía morfológica. La detección de malformaciones fetales aisladas o como parte de un grupo de
+malformaciones (síndrome) permite sospechar que el feto es portador de una alteración genética. Según el
+tipo y número de malformaciones detectadas, se ofrecerá a la pareja el consejo genético apropiado y se
+discutirá la necesidad de una prueba invasiva.
+Marcadores mayores o malformativos
+Marcador Incidencia Asociación
+Anomalías cardiacas 4/1.000 RNV Presentes en 90% T13/18 y 40% de T21/XO.
+Holoprosencefalia 1/10.000 RNV Presentes en el 30-60% de T13/18.
+Agenesia del cuerpo calloso 1.8 /10.000 RNV Presentes en T13/18, 8 y 22 y síndromes
+genéticos
+Complejo de Dandy Walker 1/30.000 RNV Presentes en anomalías cromosómicas (40%),
+genéticas, infecciones congénitas o
+teratógenos.
+Microcefalia 20% se debe a T 13/18/21, resto es genético o
+DBP < pc 1 o relación CC/LF < 2.5 ambiental
+Higroma quístico 0.2-8/1.000 RNV Presentes en el 70% de los casos de causa
+cromosómica. El 75% corresponde a Síndrome
+de Turner, el resto a trisomía 21, 13, 18
+Hernia diafragmática 1/4.000 RNV 20% corresponde a anomalías cromosómicas
+Atresia esofágica 1/3.000 RNV 20% de los casos anomalías cromosómicas,
+predomina T 18
+Atresia duodenal 1/5.000 RNV 40% de los casos corresponde a trisomía 21
+Onfalocele 1/4.000 RNV 30% de los casos corresponde a aneuploidías
+Hendidura facial medial (labio 1/800 RNV 10-50% de los labios leporinos se asocia
+leporino medial) aneuploidías. Si hay compromiso medial
+aumenta a 80%. En general a T 13, y en menor
+medida a T 18.
+Anomalías de la línea media: Se asocia con holoprosencefalia y trisomía 13.
+ciclopia, etmocefalia,
+cebocefalia, y labio leporino
+central
+Micrognatia 1/1.000 RNV 60% cromosomopatías. T18 y triploidía
+Anomalías esqueléticas: Aplasia o Trisomía 18.
+hipoplasia del radio con ausencia
+de pulgar o mano
+Pie varo Trisomías (13, 18, 21).
+11 pares de costillas 33% trisomía 21
+Derrame pleural . 6% se asocia a T21, en menor grado T 18 y T 13
+Hidrops fetal no inmunológico 10-35% se asocia a cromosomopatías:
+trisomías, síndrome de Turner y triploidías
+En los últimos años, las ecografías 3D y 4D han comenzado a tener un rol importante en el diagnóstico
+antenatal. Estas técnicas pueden ser empleadas para tener mejor visualización del rostro del feto,
+anormalidades del sistema nervioso y defectos esqueléticos.
+Además de la posibilidad de detectar malformaciones, existe un grupo de marcadores ecográficos
+cuya presencia aumenta el riesgo de aneuploidía fetal, a estos marcadores de riesgo se les ha llamado
+marcadores blandos o débiles de aneuploidía. En general, la presencia de un marcador de riesgo, con una
+ecografía morfológica normal, no hace necesaria una prueba invasiva para efectuar diagnóstico genético,
+
+entre el 11-17 % de los fetos normales presentan uno de estos marcadores blandos. La presencia de dos
+marcadores de riesgo aumenta 12 veces el riesgo de aneuploidía y debe sugerirse la prueba invasiva. Se debe
+recalcular el riesgo de aneuploidía en base al riesgo de la ecografía 11-14 semanas según la presencia de
+marcadores blandos en la ecografía morfológica y sugerir una prueba invasiva según el nuevo riesgo calculado.
+Si encontramos un marcador aislado, se calculará el riesgo según el LR aislado y si existe más de un marcador,
+se sumarán los LR (+) y (-) de cada uno de estos signos, ver tabla.
+Tabla resumen LR (+) /LR (-) y LR Aislados para marcadores de 2° Trimestre
+Marcador Tasa de Tasa de falsos LR (+) LR (-) LR marcador
+detección % positivos % aislado
+Foco hiperecogénico cardíaco 24 3.9 5.83 0.80 0.95
+Ventriculomegalia 7.5 0.2 27.52 0.94 3.81
+Pliegue nucal aumentado 26.0 1.0 23.30 0.80 3.79
+Intestino hiperecogénico 16.7 1.1 11.44 0.90 1.65
+Dilatación piélica fetal 13.9 1.7 7.63 0.92 1.08
+Húmero corto 30.3 4.6 4.81 0.74 0.78
+Fémur corto 27.7 6.4 3.72 0.80 0.61
+ASDA 30.7 1.5 21.48 0.71 3.94
+HN hipoplásico o ausente 59.8 2.8 23.27 0.46 6.58
+ASDA = Arteria subclavia derecha aberrante; HN = Hueso nasal. El LR marcador aislado se calcula
+multiplicando el LR (+) de un marcador por cada uno de los LR (-) de los demás marcadores, excepto húmero
+corto.
+Resumen sobre malformaciones y marcadores blandos en cromosomopatías
+Trisomía 21 Trisomía 18 Trisomía 13 Triploidía Turner
+Ventriculomegalia X X X X
+Holoprosencefalia X
+Quiste plexo coroideo X
+Complejo Dandy Walker X X
+Hendidura facial X X
+Micrognatia X X
+Hipoplasia nasal X
+Edema nucal X X X
+Higroma quístico X
+Hernia diafragmática X X
+Anomalías cardíacas X X X X X
+Onfalocele X X
+Atresia duodenal X
+Atresia esofágica X X
+Anomalías renales X X X X X
+Miembros cortos X X X X
+Clinodactilia X
+Dedos superpuestos X
+Polidactilia X
+Sindactilia X
+Talipes X X X
+Retraso del crecimiento X X X
+
+• Edema o pliegue nucal > 7 mm (75% trisomía 21):
+esta medición se obtiene en una plano axial del
+cráneo a nivel del tálamo, teniendo como puntos de
+referencia el cavum septum pellucidum, los
+pedúnculos cerebrales, los hemisferios cerebelosos y
+la cisterna magna. La medición se realiza entre la tabla
+externa del cráneo y la superficie de la piel. Entre la
+semana 15 y 20 debe ser entre 1 y 5 mm. Se considera
+anormal un valor mayor a 7 mm. Existe una
+correlación entre el engrosamiento del pliegue nucal
+y las anomalías cromosómicas. Este marcador está
+presente entre el 20-30% de los fetos con síndrome
+de Down y sólo en un 0,5-2% de los fetos euploides.
+• Huesos largos cortos: se refiere a huesos largos
+(fémur, húmero, tibia, radio, etc.) bajo el percentil 2 para la edad gestacional. La detección de este marcador
+tiene especial asociación con síndrome de Down; el hallazgo de fémur y húmero cortos aumenta en 11 veces
+el riesgo de trisomía 21.
+• Braquimesofalangia (acortamiento de falanges medias), clinodactilia (desviación de dedos en plano
+transverso) y pie sandalia: se corresponden en hasta un 60% a trisomía 21. La superposición de los dedos,
+mano en garra y pie en mecedora se asocia a trisomía 18. La polidactilia a trisomía 13.
+• Dilatación piélica fetal (3%-25% corresponde T21, hasta 3% en RN normales): la dilatación piélica renal, en
+general unilateral, definida como una dilatación de la pelvis renal ≥ 4mm en fetos menores de 33 semanas y
+≥ 7mm en fetos mayores de 34 semanas. Debe considerarse un parámetro útil cuando coexiste con otras
+anomalías estructurales o biométricas, lo que aumenta su valor predictivo para cariotipo anormal.
+• Foco hiperecogénico cardíaco (5-18% de riesgo de T21): corresponden a áreas de ecogenicidad comparables
+a las del hueso en la región de los músculos papilares, en cualquiera de los ventrículos. Otorga más riesgo en
+pacientes con aneuploidías y es despreciable en fetos euploides.
+• Arteria subclavia derecha aberrante (ARSA): corresponde a una variante poco común en que el arco aórtico
+se ramifica en cuatro y la arteria subclavia derecha surge independientemente de la aorta descendente y
+discurre detrás de la tráquea para luego girar hacia la derecha. Está presente en el 3% de niños y adultos con
+cardiopatías congénitas (CC) y en el 0,1% de la población sin cardiopatías. La prevalencia de ARSA se ha
+identificado mediante autopsia en el 1-2% de las personas euploides, mientras que se ha descrito que es más
+frecuente en casos de personas con Síndrome de Down.
+• Intestino ecogénico: la hiperecogenicidad del intestino fetal puede ser normal en el segundo trimestre del
+embarazo hasta en un 70% de los casos. Esta va
+disminuyendo al avanzar la edad gestacional. La
+persistencia del patrón ecogénico se ha relacionado
+con aneuploidías (trisomía 21, hasta 7%). Además de
+ser considerado un marcador de cromosomopatía,
+debe tenerse en cuenta su importante asociación a
+RCF (hasta 30%), fibrosis quística, sangrado
+intraamniótico, infección por CMV y toxoplasma,
+por lo que debe realizarse estricto seguimiento
+ecográfico.
+• Ventriculomegalia (< 1% embarazos, 3% de T21):
+aumento de tamaño de uno o de los dos ventrículos
+laterales del cerebro. Se considera que existe una
+ventriculomegalia fetal, cuando el ancho atrial mide
+más de 10 mm (cuerno posterior del ventrículo lateral, perpendicular al plexo coroideo), en el período
+comprendido entre las 15 y las 40 semanas de gestación. Se asocia a trisomías en un 10-15%.
+• Quistes del plexo coroideo (embarazos < 1%, T21 raro): son pequeñas formaciones quísticas de límites bien
+definidos, que no alteran las cavidades ventriculares. En general, son fisiológicos y su relación con aneuploidía
+
+es controvertida. Su incidencia es de 1% en el segundo trimestre con
+tendencia a desaparecer antes de la semana 25 de embarazo. Su
+asociación con trisomía 18 es significativa sólo cuando se acompaña
+con otras anomalías estructurales o edad materna avanzada.
+• Hipoplasia nasal: probablemente es el signo aislado más sensible y
+específico, superando al pliegue nucal aumentado para trisomía 21.
+El 65% de los fetos con síndrome de Down tiene hipoplasia en la
+ecografía de 2° trimestre entre las semanas 15-24. Esto no excluye el
+hecho que hasta un 10% de fetos normales tenga hipoplasia.
+C. Ecocardiografía fetal
+Corresponde a la visualización ecográfica del corazón fetal in
+útero. Si bien en la ecografía morfológica de rutina se evalúa la
+anatomía cardíaca; en casos especiales, se hará una ecocardiografía
+como examen aislado, en el que con mayor detalle se analizará la
+conformación del corazón fetal. La ecocardiografía fetal tiene una
+sensibilidad cercana al 70%.
+La ecocardiografía fetal se recomienda habitualmente entre
+las 18 y 22 semanas de gestación, pues en este período la resolución ecográfica permite un estudio detallado
+de las estructuras cardíacas. Puede repetirse en etapas posteriores del embarazo si la anatomía inicial fue
+subóptima o si surgen nuevos hallazgos. Está indicada cuando existe riesgo aumentado de malformación
+cardíaca fetal; por ejemplo, si se conoce el antecedente de cardiopatía congénita en un padre o hermano,
+alteraciones en la ecografía obstétrica de rutina, antecedente de un hijo previo afectado, embarazada con
+diabetes mellitus pregestacional u otras condiciones de riesgo.
+D. Resonancia Magnética Fetal.
+La resonancia magnética (RM) es un procedimiento
+exento de riesgos para el feto y se utiliza en combinación con la
+ecografía. La resonancia magnética ha demostrado especial
+utilidad en el estudio por imágenes del sistema nervioso central,
+el tórax fetal (hernia diafragmática congénita) y tumores fetales
+(linfangiomas, teratomas, etc.).
+E. Marcadores bioquímicos
+Son proteínas que circulan normalmente en la sangre
+materna. Se ha establecido la relación entre el nivel plasmático
+de estas sustancias y el riesgo aumentado de aneuploidías y algunas malformaciones congénitas. Los
+marcadores bioquímicos como parte del diagnóstico antenatal han sido implementados como técnicas de
+tamizaje en toda mujer embarazada.
+Se debe tener presente que su resultado depende de la edad gestacional, el peso materno y la
+población estudiada. Su uso es limitado en nuestro país por la falta de curvas de normalidad específicas para
+nuestra población. En nuestra unidad no hemos implementado de rutina los marcadores bioquímicos séricos,
+principalmente por limitaciones logísticas (falta de curvas de normalidad específicas para nuestra población,
+costo y organización del laboratorio) y porque actualmente priorizamos el uso de ADN fetal libre en sangre
+materna en embarazos con mayor riesgo. No obstante, a nivel internacional el tamizaje combinado del primer
+trimestre y el tamizaje triple o cuádruple del segundo trimestre siguen siendo estrategias válidas cuando no
+se dispone de pruebas de ADN fetal libre, con tasas de detección de aproximadamente 60–90% para trisomía
+21 según la combinación de marcadores y una tasa de falsos positivos cercana al 5%.
+E.1. Tamizaje en el 1° trimestre: involucra la medición de dos marcadores bioquímicos a todas las
+mujeres, en el período 11-14 semanas. Se correlaciona el nivel detectado con valores normales para la edad
+
+gestacional. El informe del resultado debiera contener el cálculo del riesgo de presentar la condición; es decir,
+el riesgo asociado a la edad de la mujer corregido según el resultado de laboratorio.
+• PAPP-A (Proteína plasmática A asociada al embarazo): hormona de origen placentario, su concentración
+está disminuida en mujeres cuyo feto presenta una trisomía 21 u otras aneuploidías.
+• Niveles de β-HCG libre: se refiere a la concentración plasmática de la subunidad β de la gonadotrofina
+coriónica que circula libre (no asociada a la subunidad α). Sus valores plasmáticos se encuentran elevados
+en gestaciones con trisomía 21.
+Estos 2 marcadores bioquímicos en conjunto con la ecografía (TN) logran una tasa de detección del
+85-90% respecto a las trisomías 21 y 18 y de hasta el 95% si agregamos el hueso nasal, con una tasa de falsos
+positivos del 5%. La tasa de detección usando solo la TN es del 75%, con la misma tasa de falsos positivos. El
+número de marcadores bioquímicos estudiados, con mejor sensibilidad y especificidad, ha aumentado en los
+últimos años, y continuará creciendo. Por ejemplo, ADAM 12 (desintegrina A y metaloproteinasa 12), ha sido
+propuesto como parte del tamizaje en el 1° trimestre del embarazo, para trisomía 21 y 18. La combinación de
+los marcadores PAPP-A, ADAM 12, β-HCG libre y la TN, incrementaría la tasa de detección a un 97%, con 1%
+de falsos positivos.
+E.2 Tamizaje en el 2° trimestre: los marcadores serológicos maternos correspondientes al 2° Trimestre
+(14-18 semanas de gestación) se han denominado tamizaje triple (Alfa feto proteína, β-HCG libre y estriol
+libre), tamizaje cuádruple (tamizaje triple más inhibina A) y el tamizaje integrado (sumatoria del tamizaje del
+1° y 2° trimestre).
+Los marcadores serológicos correspondientes al 2° trimestre de embarazo son utilizados para el
+diagnóstico de trisomías (21 y 18), y otras malformaciones (Ej. defectos del tubo neural, anencefalia,
+mielomeningocele, onfalocele y gastrosquisis). La tasa de detección para las trisomías 21 y 18 es de 60-70%,
+con una tasa de falsos positivos del 5%. Los valores de estos parámetros pueden alterarse por la presencia de
+DM tipo 1 materna, tabaquismo y el aumento de peso asociado al embarazo. La alteración del tamizaje triple
+o cuádruple hace sospechar una alteración congénita fetal (aneuploidía o malformación); para continuar el
+estudio será necesaria una ecografía de alta resolución y/o pruebas invasivas de diagnóstico antenatal.
+F. ADN fetal libre en sangre materna
+El ADN fetal libre se encuentra en la sangre materna desde la séptima semana de amenorrea y
+aumenta continuamente durante el embarazo. Corresponde aproximadamente al 3-10% del ADN libre en
+plasma materno y tiene una vida media corta (≈16 minutos), lo que asegura que el material analizado
+corresponda al embarazo en curso. La prueba de laboratorio consiste en aislar y secuenciar el ADN de origen
+placentario y estimar el número relativo de copias de determinados cromosomas mediante plataformas
+automatizadas.
+En la actualidad, estas pruebas se utilizan como tamizaje de muy alto rendimiento para las
+aneuploidías más frecuentes. Los metaanálisis muestran sensibilidades cercanas al 99% para trisomía 21, del
+97-98% para trisomía 18 y alrededor del 90-97% para trisomía 13, con tasas de falsos positivos generalmente
+<0,5-1%, dependiendo de la técnica y la población estudiada. No obstante, siguen siendo pruebas de tamizaje:
+un resultado positivo o no concluyente debe confirmarse con un método invasivo (biopsia de vellosidades
+coriales o amniocentesis genética) antes de tomar decisiones irreversibles.
+Sociedades científicas como ACOG y SMFM recomiendan ofrecer el tamizaje con ADN fetal libre como
+opción a todas las gestantes, independientemente de la edad materna o la presencia de factores de riesgo,
+siempre después de una adecuada consejería sobre beneficios y limitaciones. Sin embargo, la prueba no
+detecta todas las anomalías cromosómicas o genéticas, tiene menor rendimiento en gestaciones múltiples,
+en mujeres con IMC muy elevado, embarazos por reproducción asistida y en casos de fracción fetal baja, y no
+reemplaza a la ecografía de alta resolución.
+En Chile, la prueba está disponible y en nuestro centro puede realizarse, aunque su costo aún limita
+su uso universal. En la práctica, suele priorizarse para mujeres con mayor riesgo de aneuploidía (por edad,
+antecedentes, hallazgos ecográficos) o en aquellas que, bien informadas, la eligen primera estrategia de
+tamizaje frente a las alternativas séricas clásicas.
+
+TÉCNICAS DE DIAGNÓSTICO ANTENATAL INVASIVAS
+Consideran el análisis directo de células o tejidos fetales para efectuar diagnóstico citogenético
+(cariograma fetal) y otros estudios genéticos específicos. Los métodos citogenéticos, moleculares y
+bioquímicos clásicos (realizados en células cultivadas o no) son los más frecuentemente utilizados en el
+diagnóstico invasivo antenatal. Estos procedimientos deben realizarse en centros especializados con
+capacidad de manejo de embarazos de alto riesgo.
+Cuando se considera la necesidad de métodos diagnósticos invasivos, generalmente en respuesta a
+pruebas de tamizaje alteradas, los criterios de indicación deben ser evaluados y discutidos en conjunto con
+los padres.
+A. Biopsia de vellosidades coriales (BVC): 10-14 semanas
+Corresponde a la toma de una biopsia de las vellosidades coriales, es decir, de la placenta. Esta biopsia
+se efectúa bajo visión ecográfica, mediante
+punción abdominal (técnica preferida) o
+transcervical. (Figura 4) La realización de
+una BVC requiere un médico bien
+entrenado en el procedimiento, y el uso de
+equipamiento especializado. La BVC es el
+procedimiento invasivo de elección entre
+las 9 y 14 semanas de embarazo, la
+recomendación actual es realizarla después
+de las 10 semanas, ya que ya se habrán
+producido la mayoría de los abortos
+espontáneos y se reduce el riesgo de
+amputación de extremidades.
+En la muestra de la biopsia, es
+posible efectuar variados análisis, pero el
+principal es el cariotipo. También es posible
+efectuar estudios enzimáticos y análisis de
+ADN.
+La BVC es un procedimiento con riesgo de complicaciones, principalmente pérdida del embarazo y
+metrorragia. En series modernas, la pérdida gestacional relacionada al procedimiento se estima en torno a
+0,2-0,3% por sobre el riesgo basal de aborto en ese período, cuando se realiza en centros con experiencia; la
+metrorragia leve transitoria se observa hasta en un 10% de los casos. Los beneficios de esta técnica son el
+diagnóstico precoz y su alta confiabilidad. Los resultados del cariotipo obtenido mediante BVC pueden no
+representar el cariotipo fetal en casos de mosaicismo placentario (≈1%) o de contaminación por tejido
+materno. En general, la BVC tiene un riesgo de pérdida ligeramente mayor que la amniocentesis genética,
+especialmente cuando se realiza muy precozmente.
+B. Amniocentesis genética (AMCT): > 15 semanas
+Corresponde a la obtención de una muestra de alrededor de 15 mL de líquido amniótico, mediante
+una punción transabdominal guiada por ecografía (Figura 5). La AMCT genética debe ser efectuada por un
+médico bien entrenado en el procedimiento y usando equipamiento apropiado, en general ampliamente
+disponible. Se recomienda usar esta técnica en gestaciones mayores a 15 semanas (segundo trimestre), pues
+se ha demostrado asociación entre AMCT precoz y una mayor incidencia pie bot (pie equino-varo congénito)
+y tiene mayor riesgo de aborto que la BVC. El momento ideal es entre las 15 y 17+6 semanas, ya que tanto
+previo a las 15 semanas, como en el 3er trimestre disminuye la eficacia de clonación de las células, por lo que
+es más probable que falle la realización del cariotipo fetal.
+
+Las técnicas diagnósticas que pueden ser aplicadas al LA son:
+• Análisis de cariotipo, el que requiere un cultivo celular de amniocitos de 7 a 21 días o PCR Fluorescente
+(QF-PCR), basado en la amplificación de STR (Short Tandem Repeats) altamente polimórficos ubicados en
+los cromosomas 13, 18, 21 y sexuales X e Y. Lo que
+permite el diagnóstico de las principales
+aneuploidías.
+• Estudios Enzimáticos: medición de niveles de
+alfa feto proteína (AFP) y acetilcolina (AchE)
+cuando se sospechan defectos del tubo neural, de
+17α-hidroxiprogesterona cuando existe riesgo de
+hiperplasia suprarrenal congénita (HSC), de
+enfermedades metabólicas, como
+mucopolisacaridosis, hipercolesterolemia
+familiar, adrenoleucodistrofia, homocisteinuria, y
+cetonuria de cadena ramificada (Enfermedad de
+la orina con olor a jarabe de Arce / Maple syrup
+disease).
+• Análisis de ADN: permiten el diagnóstico de
+enfermedades como HSC y fibrosis quística.
+En general, la amniocentesis genética es un procedimiento seguro cuando se realiza después de las
+15 semanas por operadores entrenados. Estudios contemporáneos sugieren que el riesgo adicional de pérdida
+gestacional atribuible al procedimiento es del orden de 0,1-0,3% por encima del riesgo basal. Las
+complicaciones mayores, como rotura prematura de membranas o infección intrauterina, son poco
+frecuentes (≈1% y 0,1%, respectivamente). El principal problema de la AMCT genética sigue siendo el tiempo
+de espera para el cariotipo completo (7-21 días), aunque esto puede ser parcialmente acortado solicitando un
+estudio rápido tipo QF-PCR de los cromosomas de interés (13, 18, 21, X, Y), cuyo resultado tarda 1-2 días
+hábiles.
+C. Cordocentesis: > 28 semanas
+Es importante destacar que la cordocentesis es un procedimiento con mayor riesgo que la biopsia de
+vellosidades coriales, la amniocentesis y el DNA fetal en sangre materna. La información obtenida es muy
+similar en cuanto al diagnóstico genético; por lo que su uso se limita a las situaciones clínicas en que las
+pruebas de menor riesgo no aportan la información adecuada. La indicación más común es la confirmación
+del diagnóstico y tratamiento de anemia fetal severa.
+Este procedimiento consiste en la punción, por vía abdominal, de la vena umbilical en la inserción
+placentaria del cordón umbilical, guiada por ultrasonido, para extraer sangre umbilical fetal (Figura 6). Se
+obtiene habitualmente una muestra de sangre fetal de
+0.5-1 mL útil para el diagnóstico. Es necesario indicar que
+la cordocentesis es, además, un procedimiento
+terapéutico; por ejemplo, transfusiones de glóbulos rojos
+en caso de anemia fetal. La cordocentesis se realiza
+generalmente en embarazos mayores a 28 semanas, y
+requiere un operador bien entrenado.
+En la muestra de sangre fetal, es posible efectuar
+estudio genético, evaluar la presencia de infecciones
+virales, bacterianas o parasitarias del feto, y estudiar la
+sangre fetal en parámetros como: hemograma, vías
+metabólicas, etc. La muestra sanguínea puede ser
+utilizada para estudios genéticos y bioquímicos,
+incluyendo estudios cromosómicos y diagnóstico de
+enfermedades citogenéticas (fenilcetonuria, fibrosis quística, distrofia muscular de Duchenne). Incluso
+
+permite la detección de hemoglobinopatías, síndromes de deficiencias inmunológicas (ataxia-telangectasias)
+e infecciones intrauterinas (toxoplasmosis, rubéola, infección por CMV).
+El riesgo de complicaciones del procedimiento es de alrededor del 2%, siendo las complicaciones más
+frecuentes: muerte fetal, parto prematuro (por RPO), bradicardia fetal (habitualmente transitoria) y
+sangrado desde el sitio de punción en el cordón (usualmente transitorio). El sangrado desde el cordón es la
+complicación más temida, pudiendo producir anemia aguda y muerte fetal.
+TÉCNICAS DE DIAGNÓSTICO GENÉTICO
+El desarrollo de los métodos genéticos y de biología molecular ha creado nuevas oportunidades de
+diagnóstico antenatal. Los métodos habituales están basados en el cultivo de células fetales a las que luego
+se les aplican las técnicas de citogenética clásica y citogenética-molecular demorando entre 1 a 3 semanas
+en obtener resultados definitivos según la técnica empleada.
+El aumento del número de técnicas invasivas requiere de la introducción de test rápidos y confiables
+para la detección de aberraciones del número de cromosomas comunes (aneuploidías de los cromosomas 13,
+18, 21, X e Y), así como de otros síndromes/desórdenes genéticos raros.
+Técnicas “clásicas”
+• Método citogenético clásico (cariotipo) y citogenético-molecular: detecta todas las aberraciones
+cromosómicas de número y muchas de las estructurales, incluyendo microdeleciones (responsables de
+síndromes como el de Prader-Willi).
+• Estudios enzimáticos: utilizados para el estudio de alteraciones metabólicas del feto, como
+fenilcetonuria, enfermedad de Gaucher, Mucopolisacaridosis, Hemoglobinopatías (Ej. talasemia), etc.
+• Análisis de DNA: diagnóstico de enfermedades monogénicas (uno de los métodos de elección en estudios
+moleculares).
+Nuevas técnicas
+Se refiere a nuevas técnicas de diagnóstico, rápidas para la detección de determinados defectos
+cromosómicos. Estas pruebas diagnósticas incluyen:
+• FISH-rápido: fluorescencia de hibridación in situ rápida.
+• QF-PCR: reacción de polimerasa en cadena fluorescente cuantitativa.
+• MLPA: multiple ligation PCR amplification.
+• array-CGH: micro array comparative genomic hybridization.
+Estos métodos de análisis no requieren de cultivos, la cantidad de muestra requerida puede ser
+pequeña, y los resultados se obtienen en pocos días (Ej. QF-PCR demora 1-2 días). Esto en contraste a lo que
+sucede con el cariotipo, que requiere una muestra de mayor volumen (15-20 mL de líquido amniótico), cultivo
+de células fetales (amniocitos), y el resultado demora entre 7-21 días.
+La introducción de nuevas técnicas diagnósticas requiere de cambios en los actuales procedimientos,
+de modo que parece razonable recomendar la implementación rutinaria de pruebas rápidas en embarazos
+con alto riesgo de aneuploidías (21, 13, 18, X e Y), reservando el cariograma para casos con sospecha de otra
+aneuploidía además de las mencionadas.
+En la actualidad, diversas guías internacionales recomiendan el uso de microarrays cromosómicos
+(array-CGH o SNP-array) como prueba de primera línea en el estudio de fetos con malformaciones
+estructurales, dado que permiten detectar ganancias y pérdidas submicroscópicas de material genético que
+no son visibles en el cariotipo convencional. La secuenciación dirigida o el exoma fetal se están incorporando,
+en centros especializados, para casos seleccionados con malformaciones graves y cariotipo/microarray
+normales
+
+Resumen
+• El diagnóstico antenatal corresponde al diagnóstico de la presencia de malformaciones, síndromes
+malformativos, y enfermedades genéticas y/o metabólicas, efectuado al feto in útero.
+• Los métodos diagnósticos se dividen en invasivos y no invasivos. Los no invasivos son seguros para la
+madre y el feto, pero no permiten certeza diagnóstica. Dentro de estos se encuentra la ecografía 11-
+14 semanas, ecografía 20-24 semanas, ecocardiografía fetal, RM fetal, marcadores bioquímicos en
+sangre materna y ADN fetal libre en sangre maternas. Los invasivos contemplan la biopsia de
+vellosidades coriónicas (9-14 semanas), amniocentesis (>15 semanas) y cordocentesis (>28 semanas),
+los cuales presentan riesgo de pérdida fetal entre otras complicaciones.
+• Antes de realizar cualquier prueba no invasiva, tener en cuenta que cada mujer tiene su riesgo
+individual el cual está determinado por su edad y la EG.
+• La ecografía efectuada entre las 11-14 semanas permite medir la translucencia nucal (TN), el hueso
+nasal y el Doppler del ducto venoso, como un modo de evaluar el riesgo de aneuploidías y
+malformaciones fetales. Este riesgo se corrige siempre según la edad materna, a mayor edad, mayor
+riesgo.
+• TN es la acumulación escasa de líquido entre la columna cervical y la piel de la nuca, siempre medido
+en posición neutral. Un aumento del grosor de la TN es un marcador de riesgo de trisomía 21, 18, 13 y
+monosomía X, permitiendo identificar aproximadamente el 80% de las aneuploidías más frecuentes.
+Si la TN es < 3 mm el riesgo de trisomía 21 será menor al que tiene la paciente de acuerdo con su edad.
+• La ausencia de hueso nasal aumenta el riesgo de trisomía 21, 13 y 18.
+• El flujo anormal del ducto venoso se asocia a aneuploidía, cardiopatía congénita y resultado perinatal
+adverso.
+• La ecografía entre las 20-24 semanas permite evaluar con precisión la anatomía fetal (descartar o
+confirmar malformaciones) y la presencia de marcadores de riesgo de aneuploidía: edema nucal (> 7
+mm), huesos largos cortos, clinodactilia, pielectasia renal, ventriculomegalia, hipoplasia nasal, foco
+hiperecogénico cardíaco e intestinal, quistes del plexo coroideo, entre otros. La presencia de 2
+marcadores de riesgo aumenta 12 veces el riesgo de aneuploidía y se sugiere realizar una prueba
+invasiva.
+• La ecocardiografía fetal se realiza entre 25-30 semanas y está indicada cuando existe mayor riesgo de
+malformación cardiaca: antecedente familiar de malformación cardiaca, hijo previo afectado,
+alteración en ecografía obstétrica de rutina, embarazada con DMPG.
+• Los marcadores bioquímicos son de utilidad limitada en nuestro país.
+• El ADN fetal libre en sangre materna permite el diagnóstico de trisomía 21, 18, 13 y monosomía X con
+una sensibilidad 99.9% de sensibilidad, pero con un elevado costo.
+• Si las pruebas de tamizaje (ecográficas) están alteradas, es posible efectuar estudio citogenético
+(cariograma fetal) y/o metabólico fetal mediante una muestra de vellosidades coriales, líquido
+amniótico, o sangre fetal, las que se obtienen con el uso de las técnicas invasivas.
+
+Pá gin a | 87

@@ -1,0 +1,280 @@
+Capítulo 14.
+PARTO VAGINAL ASISTIDO
+Se denomina parto vaginal asistido a la asistencia mecánica de la
+expulsión de la cabeza fetal en el parto vaginal. El parto vaginal asistido
+es una herramienta para abreviar el segundo período del parto
+(expulsivo) y, cuando está bien indicado y se realiza por operadores
+entrenados, puede evitar los riesgos de una cesárea en el expulsivo,
+manteniendo seguridad materno-fetal.
+Existen tres instrumentos para este fin:
+o Fórceps
+o Ventosa
+o Espátulas
+Indicaciones de parto vaginal asistido
+Se asistirá el parto vaginal cuando el parto espontáneo no sea
+posible o se asocie a mayor riesgo fetal o materno. Las indicaciones
+habituales son:
+1. Expulsivo detenido: situación en que, pese a pujo y manejo apropiado, no hay descenso/rotación
+suficiente y no se logra la expulsión de la cabeza fetal, pero se cumple con los requisitos de un parto
+instrumental seguro (ver más adelante en este capítulo las condiciones específicas).
+2. Estado fetal no tranquilizador:
+• Bradicardia del expulsivo
+• Prolapso de cordón
+3. Distocia de posición fetal con necesidad de rotación instrumental: la presentación está en espinas +3,
+pero la variedad de posición no es occípito-púbica.
+4. Enfermedades maternas en las que el pujo (Valsalva) puede inducir descompensación hemodinámica o
+aumentar el riesgo de complicaciones graves, por lo que se recomienda acortar o evitar el expulsivo activo
+mediante parto vaginal asistido (fórceps o ventosa). Ejemplos de estas condiciones son: disfunción
+ventricular significativa/insuficiencia cardiaca, circulación de Fontan, hipertensión pulmonar severa,
+lesiones obstructivas izquierdas graves (ej., estenosis aórtica o mitral severa, miocardiopatía hipertrófica
+obstructiva) y aortopatías de alto riesgo (ej., Marfan con dilatación aórtica relevante, disección
+previa/aneurisma).
+Clasificación parto vaginal asistido (habitualmente fórceps)
+Tipo Características
+Salida Presentación en espinas +4. El cuero cabelludo es visible en el introito, sin separar los labios
+Variedad de posición es occípito-púbica, OIIA, OIDA, OIIP o OIDP.
+Rotación es menor a 45 grados (posiciones posteriores se rotan a OS)
+Bajo Presentación en espinas +2.
+Rotación menor a 45 grados
+Rotación mayor a 45 grados (posiciones posteriores se rotan a OP)
+Medio Presentación en espinas 0-+1. El parto vaginal asistido a este nivel puede considerarse solo
+en casos seleccionados y por operadores altamente experimentados, debido a su mayor
+dificultad técnica y menor tasa de éxito en comparación con el parto vaginal asistido bajo o
+de salida. La evidencia disponible muestra que, en centros con experiencia, el parto vaginal
+asistido medio no se asocia a mayor morbilidad materna ni neonatal en comparación con el
+nivel bajo. Sin embargo, su uso es actualmente infrecuente, requiere un alto nivel de
+habilidad operatoria, y no se recomienda como práctica habitual.
+Alto Presentación alta sobre el nivel de las espinas.
+No debe efectuarse un fórceps en esta situación
+
+FÓRCEPS
+Instrumento obstétrico destinado a la extracción del feto por su polo cefálico desde el canal del parto,
+en el periodo del expulsivo. El fórceps no intenta comprimir la cabeza o traccionarla con fuerza, pretende
+separar las paredes del canal vaginal y efectuar una tracción suave del polo cefálico.
+En Chile este es el instrumento más usado en el parto vaginal asistido. Sin embargo, en países como
+EEUU y el Reino Unido, se ha observado una disminución en el uso del fórceps a expensas de la cesárea y el
+vacuum como instrumento de elección.
+Funciones del fórceps
+• Prensión (tomar la cabeza fetal)
+• Tracción del feto
+• Rotación (llevar la variedad de posición a occípito-púbica)
+Descripción del fórceps
+Está formado por 2 ramas entrecruzadas y articuladas. Cada rama tiene tres partes que a
+continuación se describen:
+• Hojas o cucharas (región que se acopla a la cabeza fetal) que poseen dos curvaturas:
+o Curvatura cefálica: se adapta a la cabeza fetal
+o Curvatura pélvica: simula el canal del parto
+• Zona intermedia (pedículo o tallo), donde se encuentra la articulación (fija o deslizable) entre ambas
+ramas.
+• Mango, es la zona desde donde se toman las ramas
+Existen varios tipos de fórceps, según sean las tres partes de cada uno. Se describen diferentes
+utilidades para cada uno de ellos. En Chile se usan con más frecuencia el Fórceps de Kielland (Figura 1) y el
+Simpson. (Figura 2) El Simpson solo sirve para prensión y tracción; el fórceps de Kielland está diseñado para
+rotaciones y requiere alta experticia. En partos rotacionales, es clave definir con precisión la variedad de
+posición de la cabeza fetal, idealmente apoyándose en ecografía intraparto cuando el operador es inexperto.
+En los 80’ se registraron altas tasas de morbimortalidad con el uso de fórceps, probablemente por su
+uso en condiciones inapropiadas, principalmente en presentaciones no encajadas. El concepto actual es que
+el fórceps es un buen instrumento para el parto vaginal asistido, es seguro y de bajo riesgo materno y fetal,
+pero solo debe ser usado en condiciones apropiadas (NUNCA alto) y por un operador entrenado y
+competente, o por un residente/becado bajo supervisión directa de un operador acreditado, con capacidad
+de manejar complicaciones y de convertir a cesárea si es necesario.
+Condiciones para efectuar un fórceps
+• Presentación cefálica
+• Dilatación completa
+• Membranas rotas
+• Presentación de vértice en espinas ≥ +2
+• Proporcionalidad cefalopélvica
+• Conocimiento exacto de la variedad de posición fetal. Las ramas toman la cabeza fetal en posición
+parieto-malar. Para colocar correctamente las ramas, es importante saber con certeza la variedad de
+posición. Si se equivoca, y la rama queda sobre la cara fetal, pueden producirse lesiones como estallido
+ocular o fractura nasal, entre otros problemas. En operadores poco entrenados se recomienda utilizar
+ecografía (abdominal) para verificar la variedad de posición.
+• Anestesia adecuada
+• La episiotomía no es rutinaria; se individualiza según paridad, tejido perineal, urgencia, instrumento y
+riesgo de desgarro severo
+• Recto y vejiga vacía
+• Operador entrenado
+
+Técnica de uso del fórceps: “circonducción en espiral”
+1. La paciente se encuentra en posición de litotomía, la aseptización del área y la instalación de los campos
+quirúrgicos ya ha sido efectuada. Se comprueba que el feto esté en espinas ≥+2, y en posición occípito-
+púbica.
+2. Las ramas se llaman
+izquierda o derecha según la
+mano con que se toman.
+Habitualmente se pone
+primero la rama izquierda y
+luego la derecha. Al
+introducir la rama izquierda,
+esta gira hasta quedar al
+costado izquierdo de la
+paciente, y viceversa.
+3. Se pone la rama en posición
+vertical, tomada desde el
+mango con la mano
+izquierda, la mano derecha se introduce parcialmente en la vagina y se apoya la hoja sobre la cabeza fetal.
+Con un movimiento de circonducción en espiral, el mango gira desde la posición vertical, en sentido
+antihorario; el punto de apoyo es la mano ubicada en el introito vaginal. El movimiento del mango hace
+que la hoja gire, introduciéndose en la vagina, hasta la posición correcta en toma parieto-malar. Luego
+se introduce la rama derecha de un modo similar, es decir, tomada desde el mango con la mano derecha,
+girando en sentido horario. Una vez que se han introducido ambas ramas, se articulan en la zona
+intermedia. (Figura 3)
+4. Se comprueba la posición correcta de las ramas y se efectúa la episiotomía.
+5. Se pide el pujo de la paciente y se traccionan las ramas articuladas, en el eje del canal vaginal: primero
+hacia abajo y
+cuando el feto
+comienza a
+descender en el
+canal del parto,
+se llevan las
+ramas hacia
+arriba hasta la
+horizontal.
+(Figura 4)
+6. Cuando la
+cabeza está saliendo, se desarma el fórceps y se completa la atención del parto.
+Complicaciones del fórceps
+El fórceps es más mórbido para la madre que para el feto, es decir, existe más riesgo de daño en el
+canal vaginal que en la cara fetal, cuando es bien usado por un profesional entrenado. Se señalan como
+frecuentes las siguientes complicaciones:
+• Maternas
+o Desgarros del canal del parto, siendo este el principal problema
+• Fetales
+o Magulladuras
+o Céfalo hematoma subperióstico
+o Fractura de cráneo
+o Fractura de hueso nasal
+o Parálisis facial periférica, generalmente transitoria
+o Estallido ocular
+
+ESPÁTULAS
+Instrumento obstétrico, similar al fórceps, destinado a la extracción del feto por su polo cefálico
+desde el canal del parto, en el periodo expulsivo. A diferencia del fórceps, su única función es prensión, no
+permite tracción ni rotación.
+Al ser una espátula no fenestrada, tiene menor riesgo de daño a la cabeza fetal. Las ramas van
+paralelas entre sí, es decir no son articuladas. (Figura 5)
+Descripción de las espátulas:
+• Hojas o cucharadas: curvatura cefálica, curvatura pélvica
+• Zona intermedia: pedículo o tallo, sin articulación
+• Mango
+Beneficios y Problemas de las espátulas
+• Beneficios:
+o Su uso es más sencillo que el fórceps, requiere menos
+experiencia
+o Menos riesgo de daño fetal
+o Cucharilla no fenestrada
+o Menos efecto de prensa sobre la cabeza fetal
+o No requiere toma parieto-malar, por lo que se pueden insertar independiente de la
+variedad de posición
+• Problemas:
+• No permite tracción, la extracción fetal depende del pujo materno
+• No permite rotación, sin embargo, la cabeza puede rotar libremente dentro de las espátulas
+VENTOSA
+Instrumento obstétrico destinado a la extracción del feto por su polo cefálico desde el canal del parto,
+en el periodo expulsivo. (Figuras 6 y 7).
+La mejor evidencia sugiere que la ventosa sería el instrumento de elección para el parto vaginal
+asistido, principalmente pues posee menor riesgo de lesiones del canal vaginal. La ventosa, sin embargo, tiene
+mayor riesgo de céfalo-hematoma fetal comparado con el fórceps.
+Funciones
+o Succión por vacío.
+Descripción estructural
+o Copa flexible (existen rígidas y blandas)
+o Articulación: si la cabeza rota, la copa flexible también rota gracias a la articulación rotatoria
+o Mango
+o Sistema de vacío
+Beneficios y problemas de la ventosa
+• Beneficios
+o Menos riesgo de daño materno
+o Menos riesgo de daño fetal si la variedad de posición no es bien diagnosticada
+• Problemas
+o Riesgo de céfalo-hematoma. No se recomienda ventosa en <34 semanas por mayor riesgo de
+trauma (cefalohematoma/hemorragia intracraneana). Entre 34–36 semanas se considera una
+contraindicación relativa y debe individualizarse.
+
+Criterios para abandonar un parto instrumental
+Pese a cumplir con todos los criterios, y a la experiencia del operador, en ocasiones el parto
+instrumental (vaginal) no es exitosos y debe efectuarse una cesárea con diagnóstico de “fórceps frustro” o
+“parto operatorio frustro”. Debe suspenderse el intento si hay dificultad para aplicar el instrumento, si no hay
+descenso progresivo con cada tracción, si no se alcanza nacimiento inminente tras tres tracciones con
+instrumento bien aplicado, o si el procedimiento se prolonga más allá de un tiempo razonable (15–20 min).
+En ventosa, además, abandonar si hay tres desprendimientos de copa. El uso secuencial de instrumentos se
+asocia a mayor trauma neonatal y debe evitarse, salvo escenarios muy seleccionados con buen descenso y sin
+criterios de abandono
+Comparaciones
+En Chile el fórceps es el instrumento típicamente utilizado para el parto vaginal asistido, sólo escasos
+médicos usan las espátulas o la ventosa. Desafortunadamente el uso del fórceps es temido injustificadamente
+por las mujeres y sus familias, quienes suelen creer que una cesárea es mejor opción que el fórceps.
+En la siguiente tabla se muestra una comparación a modo de resumen entre el fórceps y la ventosa
+o la cesárea.
+Fórceps
+Ventajas del fórceps Desventajas de fórceps
+Comparado vs Expulsivo más expedito del feto en Necesidad de analgesia más potente
+Ventosa distrés Mayor trauma materno perineal
+Menor tasa de fracaso Más comunes los hematomas faciales
+Reducida necesidad de uso secuencial y la parálisis del nervio facial en el
+de instrumentos bebé
+Menos casos de cefalohematoma y Más comunes las infecciones posparto
+hemorragia retinal del bebé y la prolongación de la estadía
+hospitalaria
+Comparado vs Menor hemorragia obstétrica profusa Mayor probabilidad de trauma fetal
+Cesárea de emergencia Menor admisión a cuidado intensivo Mayor trauma materno perineal
+neonatal Son más comunes la dispareunia y la
+Menor estadía hospitalaria incontinencia urinaria
+Menos readmisiones
+Mayor posibilidad de parto vaginal
+subsiguiente
+
+Resumen
+Generalidades
+• Parto vaginal operatorio: asistencia mecánica de la expulsión de la cabeza fetal en el parto vaginal.
+o Instrumentos: fórceps (más frecuente en chile), vacuum y espátulas
+• Indicaciones:
+o Expulsivo detenido: presentación en espinas +3 en Occipito-Púbica, pero el pujo no es efectivo (en
+general por la anestesia epidural)
+o Estado fetal no tranquilizador: bradicardia del expulsivo o prolapso del cordón
+o Distocia de posición fetal con necesidad de rotación instrumental: la presentación está en espinas
++3 pero la variedad no es Occipito-Púbica
+o Condición materna: cardiópatas (HTP donde el pujo agrava su insuficiencia respiratoria)
+Fórceps
+o Instrumento destinado a la extracción del feto por su polo cefálico durante el expulsivo. No intenta
+traccionar con fuerza o comprimir la cabeza, sino que intenta separar las paredes del canal vaginal
+y traccionar suavemente el polo cefálico. Actualmente se considera un buen instrumento, seguro
+y de bajo riesgo materno y fetal. Solo se usa como fórceps de salida o bajo, NUNCA medio o alto
+y nunca por un médico general (debe ser por obstetra experimentado)
+o Funciones: Prensión, Tracción del feto y Rotación
+o Descripción del fórceps: tiene 2 ramas entrecruzadas y articuladas, cada una formada por: Hojas
+o cucharas: tienen 2 curvas, Zona intermedia (tallo): donde está la articulación entre las ramas y
+Mango
+o Tipos: en Chile los más usados son el de Simpson (el cual solo sirve para prensión y tracción) y el
+de Kielland (que además permite rotación)
+o Técnica de uso: “circonducción en espiral”
+o Complicaciones del fórceps:
+• Maternas: el principal problema son los desgarros del canal de parto
+• Fetales: Magulladuras, Céfalo hematoma subperióstico, Fractura de cráneo o de hueso
+nasal, Parálisis facial periférica, generalmente transitoria, Estallido ocular
+Espátulas
+o A diferencia del fórceps, su única función es la prensión (no permite tracción ni rotación)
+o Sus ramas van paralelas (no son articuladas)
+o Descripción de las espátulas: Hojas o cucharas: con curvatura cefálica y pélvica, Zona intermedia:
+pedículo o tallo, sin articulación, Mango
+o Beneficios: Uso más sencillo que el fórceps y requiere menos experiencia, Tiene menos riesgo de
+daño fetal: no fenestrada, menos efecto de prensa y no requiere toma parieto-malar (se puede
+insertar independiente de la variedad de posición)
+o Problemas: No permite tracción (extracción depende del pujo materno), No permite rotación,
+pero la cabeza puede rotar libremente dentro de las espátulas
+Vacuum obstétrico
+o Instrumento destinado a la extracción del polo cefálico en el expulsivo, su uso ha sido
+históricamente más limitado en algunos centros de Chile, en contraste con su amplio uso
+internacional.
+o La evidencia sugiere que sería el instrumento de elección para el parto vaginal asistido (tiene
+menos riesgo de lesiones del canal vaginal)
+o Funciones: succión por vacío (“sopapo”)
+o Beneficios: menos riesgo de daño materno; diagnóstico de variedad de posición es menos
+demandante que el fórceps.
+o Problemas: riesgo de céfalo-hematoma comparado con fórceps, el cual aumenta en prematuros
+(se contraindica en partos <34 semanas)
+Criterios de abandono: el parto vaginal asistido debe abandonarse y convertirse a cesárea de emergencia
+si no se logra un descenso efectivo tras intentos adecuados, si se pierde la correcta identificación de la
+variedad de posición, si ocurre deslizamiento del instrumento, o si aparece deterioro materno o fetal.
+
+Pá gin a | 163

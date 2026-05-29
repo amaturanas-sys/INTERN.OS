@@ -1,0 +1,464 @@
+Capítulo 18.
+HEMORRAGIA PUERPERAL
+La hemorragia puerperal o hemorragia posparto corresponde al sangrado vaginal excesivo luego de
+un parto, cuya magnitud puede llegar incluso a comprometer la vida de la mujer. Se define hemorragia
+posparto como pérdida sanguínea acumulada ≥1.000 mL o cualquier sangrado asociado a signos/síntomas de
+hipovolemia, independiente de la vía del parto. En la práctica, la severidad se define por el impacto clínico
+(inestabilidad hemodinámica, necesidad de transfusión, procedimientos invasivos o cirugía). Otras
+definiciones no habituales consideran caída del 10% del hematocrito respecto al anterior al parto. Según su
+presentación temporal, la hemorragia posparto puede ser inmediata o tardía.
+A nivel mundial, la mortalidad materna ha disminuido en las últimas décadas, pero sigue siendo
+inaceptablemente alta. En 2023 se estimaron alrededor de 260.000 muertes maternas (≈ 1 cada 2 minutos),
+en su mayoría prevenibles y tratables. La hemorragia posparto continúa siendo una de las principales causas
+de muerte materna, especialmente en contextos con barreras de
+acceso a atención oportuna y a sangre/hemoderivados. El 98% de las
+muertes maternas ocurren en países en vías de desarrollo, en ellos,
+la principal causa de muerte materna es la Hemorragia Posparto.
+Afortunadamente en Chile, la atención profesional del parto, la
+reducción del parto domiciliario, y los procesos de entrenamiento
+médico para resolver esta complicación, hacen de la hemorragia
+posparto una causa de muerte en reducción, aunque aún se
+mantiene dentro de las primeras 5 causas de muerte en nuestro país.
+Sangrado Uterino Normal Posparto
+Luego del alumbramiento, el lecho placentario comienza a sangrar. La detención de ese sangrado no
+depende de la coagulación sanguínea, sino que de la retracción (contracción) uterina posparto. Ésta, intensa
+y facilitada por altos niveles fisiológicos de ocitocina, comprime las arterias espiraladas (ramas de las arterias
+uterinas) e impide el sangrado. A este fenómeno se le conoce con el nombre de “ligaduras vivas de Pinard”
+(en honor al médico que describió el fenómeno). El volumen de sangre perdida depende de cuán efectivas
+son las contracciones uterinas en el periodo posparto inmediato.
+El manejo activo de la tercera etapa del trabajo de parto y el uso rutinario de drogas uterotónicas
+profilácticas, como la ocitocina, reduce el riesgo de la hemorragia posparto en un 50% en la población
+obstétrica general. Clásicamente se describió pérdida promedio <500 mL tras parto vaginal y <1.000 mL tras
+cesárea; sin embargo, estos umbrales no deben usarse como único criterio. Se recomienda cuantificación
+objetiva del sangrado y evaluación clínica continua, porque la subestimación visual es frecuente. La tolerancia
+a esta pérdida de volumen sanguíneo es buena en la mayoría de las mujeres. Si la pérdida de sangre es mayor
+a lo normal, la mujer responderá con mecanismos compensatorios que permiten el diagnóstico clínico de la
+magnitud de la pérdida.
+Respuesta Hemodinámica Materna a la Hemorragia Puerperal
+Volumen de Sangrado % Volemia perdida Síntomas
+< 900 ml 15 % Asintomática
+1200 – 1500 ml 20-25 % Taquicardia y Taquipnea
+Reducción de la presión de pulso
+Ortopnea
+Llene capilar lento
+1800 – 2100 ml 30-35 % Mayor taquicardia y taquipnea
+Hipotensión
+Extremidades frías
+> 2400 ml 40 % Shock
+Oliguria o Anuria
+
+HEMORRAGIA POSPARTO INMEDIATO
+Se define como aquella hemorragia uterina que ocurre dentro de las primeras 24 horas posparto.
+Habitualmente, se presenta de modo inmediato (luego de la salida de la placenta) o dentro de las primeras 6-
+8 horas. La hemorragia posparto inmediato afecta aproximadamente a un 4% de los partos vaginales y 6% de
+las cesáreas.
+Etiología de la Hemorragia Posparto
+Al final del embarazo, el flujo sanguíneo uterino es de 600 ml por minuto. Sin mecanismos para
+detener el sangrado, la mujer perdería en pocos minutos su volemia completa. Esto explica el rol fundamental
+de la contracción uterina en evitar el sangrado excesivo luego del parto.
+La atonía/inercia uterina es la causa más frecuente de hemorragia posparto (aprox. 70-80%, según
+series y definiciones), pero siempre debe descartarse trauma, tejido retenido y trastornos de hemostasia (“Las
+cuatro T” como se verá más adelante en este capítulo). La inercia uterina es aquella situación clínica originada
+en una contracción uterina posparto que no es capaz de ocluir las arterias espirales, ocasionando sangrado de
+mayor magnitud que lo normal desde el sitio de inserción placentaria.
+Frente a una paciente con hemorragia posparto deben considerarse las siguientes etiologías:
+• Inercia Uterina
+• Lesiones del canal (desgarro de la vagina o cuello uterino)
+• Rotura uterina
+• Restos placentarios
+• Acretismo placentario
+• Trastorno de la coagulación
+Factores de riesgo para hemorragia posparto
+La mayoría de las hemorragias posparto ocurren en mujeres sin factores de riesgo identificables. En
+mujeres con factores de riesgo el médico que atiende el parto debe estar especialmente preparado para su
+ocurrencia. Los factores de riesgo más importantes para hemorragia posparto son:
+• Trabajo de parto prolongado: Se refiere a que la dilatación progresa a un ritmo más lento que lo habitual
+(es el factor que confiere mayor riesgo)
+• Uso prolongado de ocitocina para inducción o conducción del trabajo de parto
+• Sobredistensión uterina:
+o Embarazo múltiple
+o Polihidroamnios
+o Macrosomía fetal
+• Gran multípara (más de 5 partos)
+• Antecedente de hemorragia posparto
+• Parto instrumental
+• Preeclampsia
+• Expulsivo prolongado
+Hemorragia posparto, coagulopatía por consumo y CID
+En hemorragia posparto moderada a severa puede desarrollarse coagulopatía, y en casos graves, CID.
+Tanto la hemorragia como la CID son causantes de daño a la salud materna. El fibrinógeno suele ser uno de
+los marcadores más útiles y puede descender precozmente, por lo que su monitorización (o pruebas
+viscoelásticas cuando estén disponibles) ayuda a guiar la reposición hemostática.
+
+En la Figura 1 se resumen los mecanismos fisiopatológicos acerca de la asociación entre la hemorragia
+posparto, coagulopatía por consumo, CID y daño tisular.
+Manejo de la hemorragia posparto
+El manejo de la hemorragia posparto es, en la mayoría de los casos, sencillo, si se sigue una
+aproximación sistemática, como la que revisaremos. Para facilitar la tarea recomendamos la nemotecnia
+BLEEDING que orientará los pasos a seguir en el manejo inicial, diagnóstico y tratamiento específico.
+El tratamiento de la hemorragia post parto es de resorte del médico especialista, pero el médico
+general debe estar preparado para el diagnóstico y manejo inicial de esta emergencia.
+Existe consenso en las guías internacionales en que la mejor manera de evitar morbimortalidad en el
+contexto de las hemorragias pospartos, deben existir protocolos conocidos de manejo y transfusión, un
+equipo multidisciplinario de llamada para estos casos y hacer ensayos regulares de manejo que incluyan a
+todo el personal.
+B Breath and be ready
+L Loss estimation
+E Etiology
+E Estimated blood loss and fluid replacement
+D Drug and specific therapy
+I Intraoperative management
+N Non obstetrical services
+G Generalized complications
+B: Respirar hondo y prepararse
+Si bien parte integral del manejo de la hemorragia posparto es la capacidad de prevención,
+especialmente frente a factores de riesgo, la mayoría de las veces la hemorragia posparto se presentará de
+modo inesperado. El diagnóstico se efectúa a través del control rutinario de la puérpera, pues en toda
+puérpera debe controlarse la magnitud del sangrado vaginal.
+Efectuado el diagnóstico se debe mantener la calma (respirar hondo y prepararse) y seguir una
+aproximación metódica y sistemática de tratamiento.
+L: Estimación de la pérdida sanguínea
+
+Éste es un punto complicado, pues habitualmente los obstetras suelen subestimar las pérdidas
+sanguíneas. La caída significativa de la presión arterial generalmente no se manifiesta hasta que ha ocurrido
+una importante metrorragia. Más del 25% del volumen sanguíneo de la paciente (≥1500 mL en embarazadas)
+puede perderse antes de la manifestación clínica de hipotensión y taquicardia. El hematocrito y la
+hemoglobina son malos predictores de la pérdida de sangre aguda, pero un bajo nivel de fibrinógeno (< 200
+mg/dL) es predictor de hemorragia posparto severa, definida como necesidad de transfusión de glóbulos rojos
+y productos sanguíneos masiva, necesidad de embolización, manejo quirúrgico o muerte materna.
+En este momento de la evaluación es útil solicitar pruebas de laboratorio tales como: hemograma,
+recuento de plaquetas, tiempo de protrombina (TP) y tiempo de tromboplastina parcial activado (TTPK),
+fibrinógeno, grupo de sangre y pruebas cruzadas. La medición del nivel de fibrinógeno es especialmente útil
+para el diagnóstico de CID (<150 mg/dl). En caso de no disponer de esta prueba en su laboratorio, usted puede
+efectuar una prueba de “tiempo de coágulo” (una muestra de sangre en un tubo sin anticoagulante); si es
+mayor a 6 minutos, con buena probabilidad el fibrinógeno será menor a 150 mg/dl.
+E: Etiología
+El diagnóstico etiológico de la causa del sangrado es imprescindible en el manejo de la hemorragia
+posparto, pues gran parte del manejo se basa en el control de la etiología responsable del sangrado.
+Las causas más frecuentes de la hemorragia posparto se encuentran contenidas en la nemotecnia de
+las cuatro “T”, sin olvidar que la causa más frecuente es la inercia uterina. Las etiologías de hemorragia
+posparto son:
+
+• Tono: La causa más frecuente de hemorragia posparto es la inercia uterina (90%). Se entiende por
+inercia uterina a la retracción uterina posparto ineficiente.
+• Trauma: desgarros del canal del parto (6%). Aumenta su incidencia en asociación al parto vaginal
+asistido (fórceps). También es posible que la hemorragia posparto se deba a una rotura uterina. La
+rotura uterina requiere la existencia de una cicatriz uterina previa (cesárea o miomectomía).
+• Tejido: restos placentarios (4%). Se refiere a extracción incompleta de la placenta, quedando
+fragmentos de cotiledones y/o membranas fetales en la cavidad uterina. En la atención del parto por
+médico, como ocurre en la UC, la presencia de restos se evita pues a toda paciente se le hace una
+revisión instrumental (raspado uterino) posparto. Esto es posible pues todas las pacientes están con
+anestesia y el parto es atendido siempre por el médico. El acretismo placentario es causa de
+retención de la placenta y hemorragia posparto.
+• Trastorno de la Hemostasia: es una causa infrecuente de hemorragia posparto, y puede deberse a
+coagulopatías o alteraciones de la función plaquetaria.
+En la figura 2 presentamos el esquema de manejo diagnóstico de la hemorragia puerperal precoz. Debe
+recordarse que inercia es la causa más frecuente, pero no la única.
+Espectro de Placenta Acreta
+Es una anomalía en la placentación, caracterizado por una adherencia anormalmente fija de la
+placenta a la pared uterina. Existe una deficiencia, parcial o completa, de la decidua basal y el desarrollo
+incompleto de la capa de fibrina (conocida como capa de Nitabuch) de manera que la línea fisiológica de
+separación entre la zona esponjosa y la zona basal decidual no es visible.
+En el acretismo placentario, las vellosidades se fijan al miometrio, lo invaden o penetran. El término
+actual es Espectro de Placenta Acreta que incluye placenta acreta, increta y percreta, según profundidad de
+invasión. El diagnóstico es prenatal siempre que sea posible (ecografía con Doppler; RM en casos
+seleccionados para definir extensión/invasión), y el manejo estándar suele ser cesárea planificada en centro
+terciario con equipo multidisciplinario y plan de transfusión masiva.
+Espectro de Placenta Acreta
+Acreta La placenta se fija directamente a la pared miometrial, de modo que no es posible el
+alumbramiento y retracción uterina fisiológica posparto
+Increta Las vellosidades placentarias invaden el espesor del miometrio.
+Percreta Las vellosidades coriales traspasan la pared miometrial e invaden tejidos vecinos,
+habitualmente vejiga y/o recto
+El principal factor de riesgo para la existencia del acretismo placentario es la placenta previa oclusiva
+(PPO), especialmente en casos de cicatriz uterina de cesárea, como veremos en la tabla a continuación.
+
+Número de cesáreas Riesgo acretismo Riesgo de PPO Riesgo de acretismo con PPO
+0 0.24 % 0.3 % 5 %
+1 0.31 % 0.6 % 23 %
+2 0.57 % 1.8 % 35 %
+3 2.13 % 3.0 % 51 %
+4 2.33 % 10 % 67 %
+5 6.74 % 15 % 67 %
+Además del número de cesáreas, existen otros factores de riesgo para el acretismo placentario, los
+que se indican en la siguiente tabla.
+Factores de Riesgo de Acretismo Placentario
+Cicatriz quirúrgica Anomalías Uterinas Otras
+Cesárea Útero bicorne Placenta previa
+Aborto provocado Adenomiosis Edad mayor a 35 años
+Dilatación y raspado uterino Miomas submucosos (FIGO 1-3) Fertilización asistida
+Miomectomía Embolización uterina
+Ablación endometrial Endometritis
+Extracción manual de la placenta
+El diagnóstico de acretismo se basa en la sospecha epidemiológica y los hallazgos de la ecografía; la
+resonancia magnética (RM) es de utilidad en el diagnóstico, pero no es necesariamente mejor que la ecografía.
+La ecografía tiene una sensibilidad del 91% y especificidad de 97% para el diagnóstico de acretismo
+placentario. Por su parte la RM presenta sensibilidad y especificidad del 95% y 84% respectivamente. Se han
+descrito criterios en la ecografía para el diagnóstico de acretismo como se observa en la siguiente tabla.
+Descriptor Hallazgo
+Pérdida de la “zona clara” Pérdida o irregularidad del plano hipoecoico (la "zona
+s clara") bajo el lecho placentario
+e
+s
+ir Lagunas placentarias anormales Lagunas, grandes e irregulares, con flujo turbulento en
+G
+e
+escala de grises
+d
+a
+Interrupción de la pared vesical Pérdida o interrupción de la pared de la vejiga (banda
+la
+hiperecoica)
+c
+s
+E Adelgazamiento miometrial Adelgazamiento del miometrio que recubre la placenta
+D
+2 (<1 mm o indetectable)
+a
+íf Abultamiento placentario Desviación de la serosa uterina: protuberancia de tejido
+a
+r g placentario hacia un órgano vecino
+o
+c E Masa exofítica placentaria Tejido placentario que atraviesa la serosa uterina y se
+extiende hacia órganos vecinos
+Hipervascularidad uterovesical Abundante flujo en el Doppler color entre el miometrio
+r o y la pared posterior de la vejiga
+lo
+C Hipervascularidad subplacentaria Abundante flujo en el Doppler color en el lecho
+r e placentario
+lp
+p Puentes vasculares Vasos desde la placenta a través del miometrio y serosa
+o
+D hasta la vejiga u otros órganos
+a
+íf Vasos nutricios de lagunas placentarias Vasos con flujo de alta velocidad desde el miometrio
+a
+r hacia las lagunas placentarias, turbulencia
+g
+o
+c Hipervascularidad intraplacentaria 3D Disposición compleja e irregular de numerosos vasos
+E
+placentarios, con cursos tortuosos y calibres variables
+
+Tratamiento del Acretismo Placentario
+El tratamiento del acretismo placentario es, usualmente la histerectomía obstétrica. En mujeres con
+diagnóstico ecográfico de acretismo placentario debe planificarse una cesárea en presencia de un equipo
+multidisciplinario que incluya especialista en: medicina materno fetal, cirugía pelviana y anestesiólogo. Previo
+a la cirugía, debe efectuarse una correcta coordinación con la UCI de adultos y neonatos, y el banco de sangre
+(capacidad de transfusión masiva).
+La técnica habitual consiste en efectuar la histerotomía en el fondo uterino (cesárea corporal),
+evitando la placenta. Luego de la extracción fetal, se efectúa rápidamente la histerorrafia y se procede a la
+histerectomía obstétrica.
+E: Expansión de Volumen
+Se requiere de la corrección enérgica de la hipovolemia. En el manejo de la paciente con hemorragia
+posparto, además del obstetra, juegan un rol muy importante la matrona y anestesiólogo, quienes
+habitualmente apoyan en el manejo de la reposición de volumen. Se requiere de dos vías venosas de gran
+calibre (teflón 14 o 16). La reposición se inicia con cristaloides o coloides (tibios). En general se recomienda
+administrar el triple de volumen que la pérdida estimada.
+Rápidamente se iniciará la reposición de hemoderivados: glóbulos rojos, plaquetas y plasma fresco
+congelado. En hemorragia severa debe activarse un protocolo de transfusión masiva precoz. Muchos
+protocolos utilizan una aproximación inicial balanceada (p.ej., paquetes con proporciones cercanas a 1:1:1),
+pero idealmente la reposición debe ajustarse según parámetros hemostáticos (incluyendo fibrinógeno) y la
+respuesta clínica.
+Hoy en día, se ha propuesto al Índice de Choque como el método más sencillo para determinar qué
+paciente requerirá terapia transfusional en el contexto del manejo de la hemorragia posparto. El Índice de
+Choque es una razón matemática entre 2 datos clínicos: Frecuencia Cardiaca/Presión Arterial Sistólica,
+(valores normales de 0.5-0.7) y aporta información respecto de hipoxia tisular y función del ventrículo
+izquierdo y consecuentemente, como pronóstico del desarrollo de complicaciones e incluso muerte. Valores
+elevados (≈ ≥0,9-1,0; y especialmente >1,1) se asocian a mayor probabilidad de hemorragia severa y
+necesidad de transfusión, por lo que deben gatillar escalamiento temprano del manejo y preparación de
+hemoderivados.
+D: Drogas y Tratamiento Específico
+El tratamiento debe ser específico a la causa del sangrado (Figura 2). Si al momento del diagnóstico
+de la hemorragia posparto, el útero se encuentra bien retraído, debe efectuarse un examen de la paciente en
+pabellón para evaluar otras posibles causas del sangrado. Si se piensa en una inercia uterina, pero el sangrado
+no mejora luego del masaje uterino y el uso de retractores, también debe efectuarse el examen en pabellón
+para descartar otras causas del sangrado, considerando las siguientes etiologías:
+• Lesiones del Canal: aunque el momento de atender el parto siempre se revisa cautelosamente el cuello
+uterino y el canal vaginal, la revisión cuidadosa debe repetirse en casos de hemorragia posparto,
+buscando lesiones que no hayan sido detectadas. Si se identifican lesiones cervicales o vaginales, éstas
+deben ser suturadas, habitualmente con catgut crómico #0 o vicryl #1. En los casos en que el sangrado es
+en napa y difuso en la mucosa vaginal, se puede utilizar un taponamiento vaginal con compresas, las que
+se retiran al cabo de 4-6 horas.
+• Rotura uterina: para descartar una rotura uterina, se hará un examen manual de la cavidad uterina,
+palpando especialmente la zona de la cicatriz de la cesárea. Si existe una dehiscencia de la cicatriz de la
+cesárea, el tratamiento consiste en una laparotomía y sutura de la lesión.
+• Restos Placentarios: una vez descartada la rotura uterina, se efectúa una revisión instrumental (raspado)
+de la cavidad uterina, para extraer todos los restos placentarios que hayan quedado.
+
+Manejo de la Inercia Uterina
+En caso de una metrorragia posparto ocasionada por inercia uterina, se procede a un manejo activo y con
+aplicación progresiva de medidas que se indican a continuación:
+1. Masaje uterino:
+El útero puede masajearse de modo enérgico a través del abdomen materno (o directamente si se
+detecta durante la cesárea) con la mano derecha del médico. El masaje uterino logra controlar el sangrado
+mientras se implementan las otras medidas.
+2. Retractores Uterinos:
+El manejo farmacológico de la inercia uterina se efectúa con uso progresivo de las siguientes drogas.
+• Ocitocina: es la droga de primera línea (pese a la administración rutinaria de ocitocina posparto).
+Administrar bolo IV lento (p.ej., 5–10 UI según protocolo local) y continuar con infusión. Evitar bolos
+rápidos o dosis excesivas por riesgo de hipotensión.
+• Metilergonovina: de persistir el sangrado se administra metilergonovina (Methergyn®) vía intramuscular
+(ampolla de 1 ml = 0.2 mg); no se usa ev porque puede producir crisis hipertensiva, isquemia cerebral o
+miocárdica (por vasoconstricción). No usar en pacientes hipertensas o con uso de antivirales como los
+inhibidores de proteasa (terapia anti-VIH).
+• Prostaglandinas (misoprostol): Se administra vía rectal o sublingual en dosis de 400-800 g (comprimidos
+de 200 g).
+• Carbetocina: es un análogo de la ocitocina de ocho aminoácidos (un octapeptido) y por tanto tiene una
+acción similar, pero más prolongada. Se ha demostrado que una dosis de 100 g de carbetocina
+(endovenosa) es igualmente efectiva que el clásico goteo de ocitocina post parto para la prevención de
+la hemorragia uterina posparto. Sin embargo, no se ha demostrado que sea una droga especialmente útil
+en el manejo de la hemorragia posparto ya instaurada. Debemos reconocer, sin embargo, que muchas
+veces se usa en esta etapa.
+3. Antifibrinolíticos:
+La administración de ácido tranexámico a mujeres con hemorragia posparto reduce las muertes por
+hemorragia y la necesidad de una laparotomía para controlar el sangrado, sin evidencia de efectos adversos
+o complicaciones; si se administra precozmente, el ácido tranexámico reduce la muerte por sangrado en casi
+un tercio. La administración de ácido tranexámico debe considerarse parte del tratamiento estándar de la
+hemorragia posparto y debe comenzar lo antes posible después del inicio del sangrado (idealmente < 3 horas).
+La administración temprana de ácido tranexámico por vía intravenosa (IV) está indicada independiente de la
+vía del parto y de la causa de la hemorragia (inercia o lesiones del canal).
+Debe administrarse a una dosis fija de 1 g en 10 mL (100 mg/mL) por vía IV, a razón de 1 mL por
+minuto (es decir, durante 10 minutos), con una segunda dosis de 1 g por vía IV si el sangrado continúa después
+de 30 minutos. La OMS recomienda ácido tranexámico IV
+precoz (idealmente dentro de 3 horas) en hemorragia
+posparto, además del manejo estándar.
+I: Intraoperatorio
+La mayoría de las pacientes con inercia uterina
+responden a retractores uterinos; sin embargo, existen
+pacientes que requieren tratamiento quirúrgico. El manejo
+quirúrgico de la inercia uterina se efectúa de forma escalonada,
+con progresión de las medidas quirúrgicas como se indica.
+No siempre es posible ni razonable pasar por cada una
+de las etapas, y muchas veces procedemos directamente a la
+histerectomía, sin pasar por las suturas compresivas o ligaduras
+vasculares.
+
+1. Taponamiento
+2. Suturas compresivas
+3. Ligaduras Arteriales
+4. Histerectomía
+Taponamiento
+Corresponde a una maniobra transitoria de compresión del útero/endometrio para lograr cohibir el
+sangrado. Es posible hacerlo de modo manual, con un paquete de compresas o con un balón inflable
+especialmente diseñado.
+• Manual: masaje bimanual introduciendo la mano
+izquierda en la vagina y la derecha sobre el abdomen,
+comprimiendo el útero entre ambas manos.
+• Compresas: se introduce un paquete de compresas a
+presión en la cavidad uterina; estas compresas se
+introducen una tras una, en capas.
+• Balón inflable (balón de Bakri): el balón se inserta en
+la cavidad uterina, por vía vaginal, y se infla logrando
+compresión del lecho placentario (Figura 4). Posee un
+doble lumen que permite evaluar la persistencia del
+sangrado.
+Suturas compresivas
+Se efectúa una laparotomía y se instalan en el
+útero suturas de material reabsorbible, que mantienen
+comprimido el útero. Existen varias técnicas descritas
+respecto a cómo poner los puntos, pero la técnica más utilizada es la técnica de “B-Lynch” (Figura 5). La
+reabsorción posterior del material de sutura permite que el útero vuelva a su estado normal, de modo que la
+paciente preserva su fertilidad.
+Ligaduras Arteriales (Figura 6)
+• Ligadura de arterias uterinas: se efectúa una laparotomía y se ligan las arterias uterinas (a nivel del itsmo
+uterino). El 80% de las inercias uterinas (que llegan a esta
+etapa) pueden resolverse mediante este procedimiento,
+evitando la histerectomía.
+• Ligadura de arterias hipogástricas: el resultado de esta
+ligadura es el mismo que el de la ligadura de las arterias
+uterinas; sin embargo, la ligadura de las hipogástricas es más
+difícil, aumentando la morbilidad asociada al procedimiento.
+Histerectomía
+• Histerectomía obstétrica total o subtotal. Se recomienda
+la histerectomía subtotal (conserva el cuello uterino), pues
+reduce el tiempo operatorio y reduce las complicaciones (lesiones vesicales) comparado con la
+histerectomía total.
+N: No Obstétricos
+El manejo de la hemorragia posparto requiere un equipo interdisciplinario de manejo, en el que está
+incluido el obstetra, el anestesiólogo, matronas y auxiliares de la maternidad, pero que muchas veces requiere
+el apoyo de servicios no obstétricos para la aplicación de medidas de soporte o para la implementación de
+tratamientos alternativos.
+
+• Banco de Sangre
+• Laboratorio
+• Unidad de Cuidado Intensivo
+• Radiología intervencionista: cuando quirúrgicamente no es posible cohibir el sangrado en la pelvis, la
+cateterización de vasos femorales y arterias hipogástricas permite embolizar selectivamente los vasos
+sangrantes. En casos seleccionados (alta sospecha de acretismo placentario) hemos usado la radiología
+intervencionista de modo “preventivo”, instalando el catéter en las arterias hipogástricas antes de la
+cesárea, para ocluir temporalmente estas arterias (luego de la salida del bebé), y facilitar la histerectomía.
+G: Complicaciones Generales
+Una vez solucionada la emergencia, la batalla no ha sido ganada por completo. Debe mantenerse el
+cuidado de la paciente, con un apoyo interdisciplinario de especialistas, que permita detectar complicaciones
+y tratarlas prontamente.
+HEMORRAGIA TARDÍA DEL PUERPERIO
+Es aquella que se presenta después de las primeras 24 horas posparto. Habitualmente ocurre
+posterior al alta y dentro de las primeras dos semanas posparto, pero se puede presentar hasta 12 semanas
+después.
+Causas más frecuentes
+• Restos ovulares
+• Endometritis (CAPÍTULO PUERPERIO NORMAL Y PATOLÓGICO)
+• Subinvolución del lecho placentario.
+Si el cuadro clínico no es compatible con los diagnósticos más frecuentes, debe solicitarse una curva
+de subunidad –HCG cuantitativa, para descartar enfermedad trofoblástica gestacional. Hasta un 25% de las
+neoplasias trofoblásticas gestacionales ocurren luego de embarazos normales (la mayoría ocurren post
+aborto) y se manifiesta por metrorragia tardía del puerperio, debido a la persistencia de tejido trofoblástico
+en la cavidad uterina.
+Tratamiento de la metrorragia tardía del puerperio
+Habitualmente requiere tratamiento médico, no quirúrgico, salvo excepciones. Se recomienda evitar
+el legrado uterino por el riesgo de sinequias y perforación uterina.
+El tratamiento se hace mediante
+• Retractores uterinos (Metilergonovina 0.2 mg i.m.)
+• Antibióticos
+o Parenteral: Ceftriaxona + Metronidazol o Clindamicina + Gentamicina.
+o Oral: Amoxicilina + Ácido Clavulánico o Levofloxacino + Metronidazol.
+Si existe la sospecha de Chlamydia se debe agregar Azitromicina 1 g v.o. en dosis única.
+
+Resumen
+• El sangrado uterino normal posparto no depende de la coagulación sanguínea, sino que, de la
+retracción uterina posparto, la cual favorece el fenómeno de ligaduras vivas de Pinard. Es importante
+mencionar que al final del embarazo hay una gran cantidad de flujo sanguíneo a nivel del útero. La
+pérdida de sangre fisiológica es <500 cc en parto vaginal y <1000 cc en cesárea.
+• La hemorragia posparto corresponde a una complicación puerperal frecuente. Se define como la
+pérdida sanguínea mayor a la fisiológica (más de 1.000cc) y en los casos más graves puede llegar incluso
+a comprometer la vida de la paciente. Por esto es importante estar atentos a factores de riesgo como
+trabajo de parto prolongado, uso prolongado de ocitocina, sobredistensión uterina, entre otros.
+• La Hemorragia puerperal precoz o inmediata es aquella que se presenta dentro de las primeras 24
+horas posparto, y su principal causa es la inercia uterina. Otras causas son: desgarros de la vagina o
+cuello uterino, restos placentarios, acretismo placentario, trastornos de coagulación y la rotura
+uterina.
+• El manejo activo de la tercera etapa del trabajo de parto y el uso rutinario de drogas uterotónicas
+profilácticas, como la ocitocina, reduce el riesgo de la hemorragia posparto en un 50% en la
+población obstétrica general.
+• Prácticamente todas las mujeres que desarrollan hemorragia posparto presentan una coagulopatía por
+consumo y coagulación intravascular diseminada (CID).
+• Efectuado el diagnóstico de la hemorragia posparto, el manejo requiere estimación de pérdida,
+reposición enérgica de volumen (incluyendo terapia transfusional), diagnóstico etiológico y manejo
+precoz de la causa específica.
+• Para precisar la causa de la hemorragia posparto hay que considerar las “4 T” (tono, trauma, tejido y
+trastorno de la hemostasia), además, se efectúa examen del canal de parto (sutura de lesiones
+sangrantes si es que existen) y revisión de la cavidad uterina (extracción de restos placentarios).
+• Las principales causas vistas en este capítulo fueron acretismo placentario, inercia uterina y
+hemorragias tardías del puerperio.
+• El acretismo placentario es una deficiencia, parcial o completa, de la decidua basal y el desarrollo
+incompleto de la capa de fibrina, con lo que hay fijación e invasión de las vellosidades en el miometrio.
+El principal factor de riesgo para acretismo placentario es la placenta previa oclusiva. El diagnóstico se
+puede hacer con sospecha epidemiológica y hallazgos de ecografía. El tratamiento usualmente es la
+histerectomía obstétrica.
+• La inercia uterina es aquella situación clínica originada en una contracción uterina posparto que no es
+capaz de ocluir las arterias espirales, ocasionando sangrado de mayor magnitud que lo normal desde
+el sitio de inserción placentaria. El manejo consiste en masaje uterino, administración de retractores
+uterinos (Ocitocina, Metilergonovina y prostaglandinas) y ácido tranexámico. Si no hay respuesta, se
+procede al manejo quirúrgico (ligaduras vasculares, sutura uterina, histerectomía obstétrica).
+• La hemorragia tardía del puerperio se debe habitualmente a endometritis o restos ovulares y se
+maneja mediante antibióticos asociado a retractores uterinos; solo excepcionalmente requerirá un
+legrado uterino. Si el cuadro clínico no es compatible con los diagnósticos más frecuentes, debe
+solicitarse una curva de subunidad –HCG cuantitativa, para descartar enfermedad trofoblástica
+gestacional.
+• Existe consenso en las guías internacionales en que la mejor manera de evitar morbimortalidad en el
+contexto de las hemorragias pospartos, es la existencia de protocolos conocidos de manejo y
+transfusión, un equipo multidisciplinario de llamada para estos casos y hacer ensayos regulares de
+manejo que incluyan a todo el personal.
+
+Pá gin a | 204
