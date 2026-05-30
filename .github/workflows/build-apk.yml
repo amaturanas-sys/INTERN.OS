@@ -154,15 +154,51 @@ jobs:
           echo '--- artefactos producidos ---'
           find app/build/outputs -type f \( -name '*.apk' -o -name '*.aab' \) -print
 
-      - name: Mover APK + AAB al directorio twa/
+      - name: Mover APK + AAB al directorio twa/ (zipalign + apksigner v1+v2+v3)
         working-directory: twa
+        env:
+          KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
+          KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
         run: |
-          # Gradle deja los archivos bajo app/build/outputs/apk/release/ y app/build/outputs/bundle/release/.
-          # Los movemos a twa/ con el nombre que el resto del workflow espera.
-          APK=$(find app/build/outputs/apk -name '*.apk' | head -1)
-          AAB=$(find app/build/outputs/bundle -name '*.aab' | head -1)
-          [ -n "$APK" ] && cp "$APK" app-release-signed.apk
-          [ -n "$AAB" ] && cp "$AAB" app-release-bundle.aab
+          set -e
+          # 1) Localizar APK y AAB producidos por Gradle (preferimos el "unsigned"
+          #    para resignar manualmente con esquemas v1+v2+v3 garantizados, en
+          #    vez de depender del signingConfig del template).
+          APK_UNSIGNED=$(find app/build/outputs/apk -name '*-unsigned.apk' | head -1)
+          APK_ANY=$(find app/build/outputs/apk -name '*.apk' ! -name '*-unsigned.apk' | head -1)
+          APK_SRC="${APK_UNSIGNED:-$APK_ANY}"
+          AAB_SRC=$(find app/build/outputs/bundle -name '*.aab' | head -1)
+          echo "APK fuente: $APK_SRC"
+          echo "AAB fuente: $AAB_SRC"
+          [ -z "$APK_SRC" ] && { echo "::error::No se encontró APK"; exit 1; }
+
+          # 2) Localizar build-tools (zipalign + apksigner) del Android SDK.
+          BT=$(ls -1d "$ANDROID_HOME"/build-tools/* 2>/dev/null | sort -V | tail -1)
+          echo "build-tools: $BT"
+          [ -z "$BT" ] && { echo "::error::Android build-tools no instalado"; exit 1; }
+
+          # 3) zipalign (4-byte alignment, requerido por apksigner v2+).
+          "$BT/zipalign" -v -p 4 "$APK_SRC" app-release-aligned.apk
+
+          # 4) Firmar con apksigner habilitando v1 + v2 + v3 schemes (Android 7+).
+          "$BT/apksigner" sign \
+            --ks android.keystore \
+            --ks-key-alias "${KEY_ALIAS}" \
+            --ks-pass "pass:${KEYSTORE_PASSWORD}" \
+            --key-pass "pass:${KEY_PASSWORD}" \
+            --v1-signing-enabled true \
+            --v2-signing-enabled true \
+            --v3-signing-enabled true \
+            --out app-release-signed.apk \
+            app-release-aligned.apk
+
+          # 5) Verificar firma.
+          "$BT/apksigner" verify --verbose --print-certs app-release-signed.apk
+
+          # 6) Copiar AAB tal cual (Gradle ya lo firma para Play Store).
+          [ -n "$AAB_SRC" ] && cp "$AAB_SRC" app-release-bundle.aab
+
           ls -la *.apk *.aab 2>/dev/null || true
 
       - name: Renombrar artefactos con versión
