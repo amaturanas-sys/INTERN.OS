@@ -15,6 +15,7 @@
   "startUrl": "/INTERN.OS/index.html",
   "iconUrl": "https://amaturanas-sys.github.io/INTERN.OS/assets/icon-512.png",
   "maskableIconUrl": "https://amaturanas-sys.github.io/INTERN.OS/assets/icon-maskable-512.png",
+  "splashScreenFadeOutDuration": 300,
   "appVersionName": "1.5.0",
   "appVersion": "1.5.0",
   "appVersionCode": 1,
@@ -59,6 +60,14 @@
   "fullScopeUrl": "https://amaturanas-sys.github.io/INTERN.OS/",
   "minSdkVersion": 21,
   "orientation": "any",
+  "additionalTrustedOrigins": [],
+  "retainedBundles": 3,
+  "protocolHandlers": [],
+  "fileHandlers": [],
+  "launchHandlerClientMode": "auto",
+  "shareTarget": null,
+  "iarcRatingId": "",
+  "monochromeIconUrl": "",
   "signingKey": {
     "path": "./android.keystore",
     "alias": "internos-release"
