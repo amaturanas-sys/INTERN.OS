@@ -135,21 +135,19 @@ jobs:
       - name: Compilar APK + AAB con Gradle directo (firmado)
         working-directory: twa
         env:
-          # Bubblewrap genera el build.gradle leyendo passwords desde estas env vars
-          # (probamos todos los nombres comunes para máxima compatibilidad).
+          # Keystore es PKCS12: spec obliga keypass == storepass. Usamos el
+          # mismo valor (KEYSTORE_PASSWORD del secret) en todas las variables
+          # de password que el template de Bubblewrap pueda consultar.
           BUBBLEWRAP_KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
-          BUBBLEWRAP_KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
+          BUBBLEWRAP_KEY_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
           KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
-          KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
+          KEY_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
         run: |
           set -e
           chmod +x ./gradlew
-          # Compila APK + AAB. Si el signingConfig del template lee de env vars,
-          # se firma automáticamente. Si pide propiedades de Gradle, las pasamos
-          # también con -P por si acaso.
           ./gradlew --no-daemon --stacktrace \
             -PsigningStorePassword="${KEYSTORE_PASSWORD}" \
-            -PsigningKeyPassword="${KEY_PASSWORD}" \
+            -PsigningKeyPassword="${KEYSTORE_PASSWORD}" \
             assembleRelease bundleRelease
           echo '--- artefactos producidos ---'
           find app/build/outputs -type f \( -name '*.apk' -o -name '*.aab' \) -print
@@ -182,11 +180,14 @@ jobs:
           "$BT/zipalign" -v -p 4 "$APK_SRC" app-release-aligned.apk
 
           # 4) Firmar con apksigner habilitando v1 + v2 + v3 schemes (Android 7+).
+          # Nota: el keystore es PKCS12 (default de keytool moderno), donde el
+          # spec OBLIGA a keypass == storepass. Pasamos el storepass también
+          # como --key-pass por eso (KEY_PASSWORD del secret queda sin usar).
           "$BT/apksigner" sign \
             --ks android.keystore \
             --ks-key-alias "${KEY_ALIAS}" \
             --ks-pass "pass:${KEYSTORE_PASSWORD}" \
-            --key-pass "pass:${KEY_PASSWORD}" \
+            --key-pass "pass:${KEYSTORE_PASSWORD}" \
             --v1-signing-enabled true \
             --v2-signing-enabled true \
             --v3-signing-enabled true \
