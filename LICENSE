@@ -1,21 +1,108 @@
-MIT License
+InternOS — Estudio EUNACOM offline
+Copyright (c) 2026 InternOS. Todos los derechos reservados.
 
-Copyright (c) 2026 amaturanas-sys
+================================================================================
+LICENCIA PROPIETARIA — TODOS LOS DERECHOS RESERVADOS
+================================================================================
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Este repositorio se publica únicamente con el propósito de habilitar el
+despliegue del Progressive Web App (PWA) "InternOS" mediante GitHub Pages
+y la generación automatizada del APK distribuido a través de los canales
+oficiales del autor.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+La visibilidad pública del código fuente NO constituye en modo alguno la
+concesión de una licencia open source ni de derechos de uso, copia,
+modificación, redistribución, sublicencia, ejecución pública,
+transformación, traducción o explotación comercial.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+================================================================================
+PROHIBIDO SIN AUTORIZACIÓN ESCRITA PREVIA DEL TITULAR
+================================================================================
+
+Salvo autorización expresa y por escrito del titular de los derechos, está
+prohibido a cualquier persona física o jurídica:
+
+  1. Copiar, reproducir, descargar, clonar, hacer fork o duplicar — total o
+     parcialmente — el código fuente, los assets gráficos (logos, iconos,
+     ilustraciones), los datos curados (banco de preguntas, casos clínicos,
+     definiciones, bibliografía) o cualquier otro contenido de este
+     repositorio.
+
+  2. Crear obras derivadas, adaptaciones, traducciones o trabajos basados
+     en este código o contenido, en todo o en parte.
+
+  3. Distribuir, publicar, sublicenciar, transmitir, vender, alquilar,
+     prestar, hacer disponible al público o explotar comercialmente este
+     software o cualquier parte del mismo, ya sea en forma original,
+     modificada o integrada en otra obra.
+
+  4. Eliminar, alterar u ocultar los avisos de copyright, marcas, créditos
+     de autoría o cualquier referencia al titular contenida en los archivos.
+
+  5. Realizar ingeniería inversa con fines de competencia, replicación o
+     desarrollo de productos derivados.
+
+  6. Utilizar el código, los assets o los datos para entrenar modelos de
+     aprendizaje automático, sistemas de inteligencia artificial
+     generativa o productos basados en LLM, sin autorización expresa por
+     escrito.
+
+  7. Reutilizar la marca "InternOS", el wordmark, los iconos, el logotipo
+     del bastón de Esculapio con serpiente, o cualquier elemento gráfico
+     distintivo en otros proyectos o productos.
+
+================================================================================
+USO PERMITIDO SIN AUTORIZACIÓN PREVIA
+================================================================================
+
+Sí está permitido, sin necesidad de autorización previa:
+
+  • Acceder al PWA mediante el navegador en la URL oficial publicada por el
+    titular (https://amaturanas-sys.github.io/INTERN.OS/) y utilizarlo como
+    herramienta personal de estudio.
+  • Instalar y utilizar el APK oficial distribuido por el titular como
+    herramienta personal de estudio.
+  • Inspeccionar el código en el navegador (DevTools) o leer este
+    repositorio público con fines educativos o de auditoría personal, sin
+    extraer copias del código o contenido para reutilización.
+  • Reportar errores (issues) o sugerencias respetando la naturaleza
+    propietaria del proyecto.
+
+================================================================================
+CONTENIDO MÉDICO — DESCARGO DE RESPONSABILIDAD
+================================================================================
+
+El contenido médico (preguntas, casos clínicos, justificaciones,
+referencias bibliográficas, definiciones de fármacos y procedimientos)
+incluido en este software se proporciona EXCLUSIVAMENTE con fines
+educativos y de preparación para el examen EUNACOM. NO constituye consejo
+médico, no reemplaza el juicio clínico profesional, ni debe utilizarse
+para diagnóstico o tratamiento de pacientes reales. El usuario es el único
+responsable de verificar la vigencia y precisión de la información clínica
+contra las guías oficiales actualizadas antes de aplicarla en cualquier
+contexto asistencial.
+
+================================================================================
+EXENCIÓN DE GARANTÍAS Y LIMITACIÓN DE RESPONSABILIDAD
+================================================================================
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO,
+EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADA A LAS GARANTÍAS DE
+COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN.
+EN NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS SERÁN RESPONSABLES
+DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE
+CONTRATO, AGRAVIO O DE OTRO MODO, QUE SURJA DE, FUERA O EN CONEXIÓN CON
+EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
+
+================================================================================
+SOLICITUDES DE AUTORIZACIÓN
+================================================================================
+
+Para solicitar licencias de uso, adaptación, colaboración académica,
+integración institucional o cualquier uso fuera del alcance permitido
+arriba, contactar al titular a través de los canales oficiales del
+repositorio (GitHub issues o el contacto público del autor).
+
+================================================================================
+
+Última actualización: 2026
