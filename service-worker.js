@@ -12,6 +12,7 @@ const ASSETS = [
   "./manifest.webmanifest",
   "./styles/app.css",
   "./assets/wordmark.png",
+  "./assets/statue-bg.png",
   "./assets/icon-192.png",
   "./assets/icon-512.png",
   "./assets/icon-maskable-512.png",
