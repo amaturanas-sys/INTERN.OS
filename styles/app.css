@@ -116,9 +116,39 @@ p { margin: 0 0 8px; }
 .card > h2 + p.muted { margin-top: 2px; font-size: 13px; }
 
 /* === Home === */
-.home__hero { padding: 4px 2px 14px; }
-.home__hero-titulo { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
-.home__logo { height: 64px; width: auto; display: block; }
+/* Hero centrado con estatua de Esculapio como background sutil */
+.home__hero {
+  padding: 8px 2px 18px;
+  position: relative;
+  isolation: isolate;
+}
+.home__hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("../assets/statue-bg.png");
+  background-repeat: no-repeat;
+  background-position: right -20px center;
+  background-size: auto 110%;
+  opacity: 0.07;
+  pointer-events: none;
+  z-index: -1;
+  mask-image: linear-gradient(to left, #000 30%, transparent 80%);
+  -webkit-mask-image: linear-gradient(to left, #000 30%, transparent 80%);
+}
+.home__hero-titulo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  text-align: center;
+}
+.home__logo {
+  height: auto;
+  width: min(86vw, 520px);
+  display: block;
+  margin: 6px auto 2px;
+}
 .home__version {
   font-size: 11px; color: var(--muted); border: 1px solid var(--line);
   padding: 3px 9px; border-radius: 999px;
@@ -127,8 +157,9 @@ p { margin: 0 0 8px; }
 }
 
 .home__bienvenida {
-  margin: 16px 0 12px; font-size: 15px; line-height: 1.6;
+  margin: 16px auto 12px; font-size: 15px; line-height: 1.6;
   color: var(--txt-2); max-width: 62ch;
+  text-align: center;
 }
 
 /* Instructivo (acordeón nativo) */
