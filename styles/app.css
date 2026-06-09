@@ -909,6 +909,10 @@ textarea { resize: vertical; line-height: 1.5; }
 @media (max-width: 380px) {
   .navbar__btn .navbar__label { font-size: 10px; }
 }
+@media (max-width: 340px) {
+  .navbar__btn { padding: 8px 2px 6px; }
+  .navbar__btn .navbar__label { font-size: 9px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
+}
 
 /* === Biblioteca: badges, fecha, bibliografía, editor === */
 .biblio__badge {
@@ -916,6 +920,9 @@ textarea { resize: vertical; line-height: 1.5; }
   background: var(--accent-soft); border-radius: 999px;
   padding: 1px 8px; margin-right: 6px; text-transform: uppercase;
   letter-spacing: 0.04em; font-weight: 600;
+}
+.biblio__badge--wip {
+  color: var(--warn); background: var(--warn-soft);
 }
 .biblio__fecha {
   font-size: 12px; margin: 6px 0 0; font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
