@@ -909,3 +909,173 @@ textarea { resize: vertical; line-height: 1.5; }
 @media (max-width: 380px) {
   .navbar__btn .navbar__label { font-size: 10px; }
 }
+@media (max-width: 340px) {
+  .navbar__btn { padding: 8px 2px 6px; }
+  .navbar__btn .navbar__label { font-size: 9px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
+}
+
+/* === Biblioteca: badges, fecha, bibliografía, editor === */
+.biblio__badge {
+  font-size: 10px; color: var(--accent-d);
+  background: var(--accent-soft); border-radius: 999px;
+  padding: 1px 8px; margin-right: 6px; text-transform: uppercase;
+  letter-spacing: 0.04em; font-weight: 600;
+}
+.biblio__badge--wip {
+  color: var(--warn); background: var(--warn-soft);
+}
+.biblio__fecha {
+  font-size: 12px; margin: 6px 0 0; font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+.biblio__entrada-cuerpo img {
+  max-width: 100%; height: auto; display: block;
+  margin: 12px auto; border: 1px solid var(--line); border-radius: 6px;
+  box-shadow: var(--shadow-xs);
+}
+
+/* Bibliografía rendering */
+.biblio__refs {
+  margin: 26px 0 12px; padding: 16px 18px;
+  background: var(--bg-2); border: 1px solid var(--line);
+  border-radius: var(--r);
+}
+.biblio__refs h3 {
+  margin: 0 0 8px; font-size: 15px;
+  color: var(--accent-d); border-bottom: none; padding: 0;
+}
+.biblio__refs-lista { margin: 0 0 0 22px; padding: 0; font-size: 13px; }
+.biblio__ref-item { margin: 4px 0; line-height: 1.5; }
+.biblio__ref-item a { color: var(--accent-d); }
+
+/* Editor */
+.biblio--editor { max-width: 860px; margin: 0 auto; }
+.biblio__editor-sec {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: var(--r); padding: 16px 18px; margin: 14px 0;
+  box-shadow: var(--shadow-xs);
+}
+.biblio__editor-sec h3 {
+  margin: 0 0 6px; font-size: 15px; color: var(--accent-d);
+}
+.biblio__editor-html {
+  width: 100%; font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 13px; line-height: 1.55;
+  padding: 12px 14px; border: 1px solid var(--line-2); border-radius: 8px;
+  background: var(--bg); color: var(--txt);
+  resize: vertical; min-height: 360px;
+}
+.biblio__editor-html:focus { outline: 2px solid var(--accent-ring); border-color: var(--accent); }
+
+/* Bibliografía editor rows */
+.biblio__refs-editor { display: flex; flex-direction: column; gap: 8px; margin: 10px 0; }
+.biblio__ref-row {
+  display: grid; grid-template-columns: 1fr 1fr 1fr auto;
+  gap: 6px; align-items: center;
+}
+.biblio__ref-row input {
+  padding: 7px 10px; border: 1px solid var(--line); border-radius: 6px;
+  font-size: 13px; background: var(--bg);
+}
+.biblio__ref-row input:focus { outline: none; border-color: var(--accent); }
+@media (max-width: 640px) {
+  .biblio__ref-row { grid-template-columns: 1fr auto; }
+  .biblio__ref-row input[type="url"], .biblio__ref-row input[type="text"]:nth-of-type(3) {
+    grid-column: 1 / -1;
+  }
+}
+
+/* Imágenes editor */
+.biblio__imgs-editor { display: flex; flex-direction: column; gap: 10px; margin: 10px 0; }
+.biblio__img-row {
+  display: grid; grid-template-columns: 80px 1fr auto;
+  gap: 10px; align-items: center;
+  background: var(--bg-2); border: 1px solid var(--line);
+  border-radius: 8px; padding: 10px;
+}
+.biblio__img-thumb {
+  width: 80px; height: 80px; object-fit: cover;
+  border-radius: 6px; border: 1px solid var(--line-2);
+}
+.biblio__img-meta { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.biblio__img-meta input {
+  padding: 6px 10px; border: 1px solid var(--line); border-radius: 6px;
+  font-size: 13px; background: var(--bg);
+}
+.biblio__img-id-tag {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 11px; word-break: break-all; margin: 0;
+}
+
+/* Editor WYSIWYG */
+.biblio__editor-cab {
+  display: flex; justify-content: space-between; align-items: center;
+  gap: 8px; margin-bottom: 4px;
+}
+.biblio__editor-cab h3 { margin: 0; }
+.biblio__toolbar {
+  display: flex; flex-wrap: wrap; gap: 4px;
+  padding: 8px 10px; background: var(--bg-2);
+  border: 1px solid var(--line-2); border-bottom: 0;
+  border-radius: 8px 8px 0 0;
+}
+.biblio__toolbar-btn {
+  font-size: 13px; padding: 5px 10px;
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 6px; color: var(--txt); cursor: pointer;
+  font-family: inherit; font-weight: 600;
+  transition: background var(--t-fast), border-color var(--t-fast);
+}
+.biblio__toolbar-btn:hover {
+  background: var(--accent-soft); border-color: var(--accent);
+  color: var(--accent-d);
+}
+.biblio__toolbar-btn:active { transform: translateY(1px); }
+
+.biblio__wysiwyg {
+  min-height: 420px;
+  padding: 16px 18px;
+  border: 1px solid var(--line-2); border-radius: 0 0 8px 8px;
+  background: var(--bg); color: var(--txt);
+  font-size: 15px; line-height: 1.65;
+  overflow-y: auto;
+}
+.biblio__wysiwyg:focus { outline: none; border-color: var(--accent); }
+.biblio__wysiwyg h3 {
+  margin: 16px 0 6px; font-size: 17px;
+  color: var(--accent-d);
+  border-bottom: 2px solid var(--accent-soft); padding-bottom: 4px;
+}
+.biblio__wysiwyg h3:first-child { margin-top: 0; }
+.biblio__wysiwyg p { margin: 0 0 8px; }
+.biblio__wysiwyg ul, .biblio__wysiwyg ol { margin: 4px 0 10px 22px; }
+.biblio__wysiwyg li { margin: 3px 0; }
+.biblio__wysiwyg .highlight {
+  background: var(--warn-soft); padding: 2px 6px; border-radius: 4px;
+  font-weight: 600; color: var(--warn);
+}
+.biblio__wysiwyg table {
+  border-collapse: collapse; width: 100%; margin: 10px 0;
+}
+.biblio__wysiwyg th, .biblio__wysiwyg td {
+  padding: 6px 9px; border: 1px solid var(--line);
+}
+.biblio__wysiwyg th { background: var(--bg-2); font-weight: 600; }
+.biblio__wysiwyg img {
+  max-width: 100%; height: auto; margin: 10px auto; display: block;
+  border: 1px dashed var(--line-2); border-radius: 6px;
+}
+.biblio__wysiwyg a { color: var(--accent-d); text-decoration: underline; }
+.biblio__wysiwyg:empty::before {
+  content: "Escribe aquí…"; color: var(--muted-2); font-style: italic;
+}
+
+.biblio__editor-mount { margin-top: 4px; }
+
+/* Indicador de tamaño de almacenamiento (en editor + ajustes) */
+.biblio__storage-tag {
+  display: inline-flex; align-items: center; gap: 4px;
+  font-size: 11px; color: var(--muted);
+  background: var(--bg-2); border: 1px solid var(--line);
+  border-radius: 999px; padding: 3px 10px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
