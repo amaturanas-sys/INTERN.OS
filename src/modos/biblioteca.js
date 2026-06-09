@@ -146,14 +146,23 @@ function norm(s) {
   return (s || "").toString().normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 }
 
-// Cache de texto plano por entrada (memoizado en módulo)
+// Cache de texto plano por entrada (memoizado en módulo).
+// Se invalida en guardar()/restaurar() para evitar resultados de búsqueda obsoletos.
 const _textoPlanoCache = new Map();
 function textoPlanoEntrada(e) {
-  if (_textoPlanoCache.has(e.id)) return _textoPlanoCache.get(e.id);
-  // Strip de tags por regex (no parsea, no dispara fetches)
+  // Si la entrada fue editada localmente, el html del baseline puede estar
+  // desactualizado; clavemos en cache por (id + length) para detectar cambios.
+  const cacheKey = `${e.id}:${(e.html || "").length}`;
+  if (_textoPlanoCache.has(cacheKey)) return _textoPlanoCache.get(cacheKey);
   const t = norm((e.html || "").replace(/<[^>]+>/g, " "));
-  _textoPlanoCache.set(e.id, t);
+  _textoPlanoCache.set(cacheKey, t);
   return t;
+}
+function invalidarCacheTexto(id) {
+  // Borrar todas las entradas del cache cuya key empiece con "id:"
+  for (const k of _textoPlanoCache.keys()) {
+    if (k.startsWith(id + ":")) _textoPlanoCache.delete(k);
+  }
 }
 
 function buscar(entradas, query) {
@@ -635,7 +644,7 @@ export async function vistaBibliotecaEditor({ id }) {
     }
     await Promise.all(imgsActual.map(async (ref, i) => {
       const row = await get("biblioteca_imagenes", ref.id);
-      const previa = row && row.blob ? URL.createObjectURL(row.blob) : null;
+      const previa = row && row.blob ? trackBlobURL(row.blob) : null;
       const card = el("div", { class: "biblio__img-row" }, [
         previa ? el("img", { src: previa, class: "biblio__img-thumb", alt: ref.titulo || "" }) : null,
         el("div", { class: "biblio__img-meta" }, [
@@ -722,8 +731,9 @@ export async function vistaBibliotecaEditor({ id }) {
       imagenes: imgsActual,
       fecha_edicion: hoy,
     });
-    // Las imágenes subidas en esta sesión que fueron descartadas (eliminadas de imgsActual)
-    // ya se borraron en el handler de eliminación. No queda GC pendiente aquí.
+    // Invalida la cache de texto plano para que la próxima búsqueda
+    // refleje el contenido editado.
+    invalidarCacheTexto(id);
     navegar(`biblioteca/${encodeURIComponent(id)}`);
   }
 
@@ -742,6 +752,7 @@ export async function vistaBibliotecaEditor({ id }) {
   async function restaurar() {
     if (!confirm("¿Restaurar al contenido original? Tu edición local se perderá.")) return;
     await del("biblioteca_ediciones", id);
+    invalidarCacheTexto(id);
     navegar(`biblioteca/${encodeURIComponent(id)}`);
   }
 
