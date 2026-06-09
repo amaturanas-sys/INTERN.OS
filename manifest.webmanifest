@@ -2,7 +2,7 @@
   "id": "/intern.os/",
   "name": "InternOS — Estudio EUNACOM offline",
   "short_name": "InternOS",
-  "description": "InternOS: plataforma de estudio EUNACOM 100% offline (quiz por temas, casos clínicos, definiciones y banco editable).",
+  "description": "InternOS: plataforma de estudio EUNACOM 100% offline (quiz por temas, casos clínicos, definiciones, biblioteca CIMIO y banco editable).",
   "lang": "es-CL",
   "dir": "ltr",
   "start_url": "./index.html",
@@ -23,6 +23,7 @@
     { "name": "Quiz por temas",     "short_name": "Quiz",    "url": "./index.html#/quiz",        "description": "Filtra por especialidad y dificultad" },
     { "name": "Casos clínicos",     "short_name": "Casos",   "url": "./index.html#/casos",       "description": "Casos lineales paso a paso" },
     { "name": "Definiciones",       "short_name": "Definir", "url": "./index.html#/definiciones", "description": "Fármacos, conceptos y guías" },
+    { "name": "Biblioteca",         "short_name": "Biblio",  "url": "./index.html#/biblioteca",  "description": "Catálogo de patologías de Medicina Interna (CIMIO)" },
     { "name": "Marcadas",           "short_name": "🚩",      "url": "./index.html#/marcadas",    "description": "Cola personal para revisar" }
   ]
 }

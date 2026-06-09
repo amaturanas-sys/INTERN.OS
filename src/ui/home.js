@@ -101,6 +101,7 @@ export async function vistaHome() {
       tarjeta("quiz",         "Quiz por temas",    "Filtra por especialidad, tema, dificultad.", "quiz",         `${nPreg} preguntas`),
       tarjeta("casos",        "Casos clínicos",    "Casos paso a paso, lineales con feedback.", "casos",         `${nCasos} casos`),
       tarjeta("definiciones", "Definiciones",      "Conceptos, fármacos y herramientas.",       "definiciones",  `${nDefs} definiciones`),
+      tarjeta("biblioteca",   "Biblioteca",        "Consultor inmediato de Medicina Interna (CIMIO).", "biblioteca", "184 patologías"),
     ]),
 
     // ---- Curación activa ----

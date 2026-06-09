@@ -778,3 +778,134 @@ textarea { resize: vertical; line-height: 1.5; }
     transition-duration: 0.01ms !important;
   }
 }
+
+/* === Biblioteca (CIMIO) === */
+.biblio { max-width: 760px; margin: 0 auto; }
+.biblio__cab { padding: 4px 2px 12px; }
+.biblio__cab h2 { margin: 0 0 4px; }
+
+/* Buscador */
+.biblio__buscar {
+  display: flex; align-items: center; gap: 8px;
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: var(--r); padding: 4px 12px;
+  box-shadow: var(--shadow-xs);
+  margin: 0 0 14px;
+  transition: border-color var(--t), box-shadow var(--t);
+}
+.biblio__buscar:focus-within { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-ring); }
+.biblio__buscar-icono { color: var(--muted-2); }
+.biblio__buscador {
+  flex: 1; min-width: 0;
+  border: 0; outline: 0; background: transparent;
+  padding: 11px 0; font-size: 15px; color: var(--txt);
+  font-family: inherit;
+}
+.biblio__buscador::placeholder { color: var(--muted-2); }
+
+/* Resultados de búsqueda (lista plana) */
+.biblio__resultados { display: flex; flex-direction: column; gap: 6px; }
+
+/* Índice por unidades */
+.biblio__indice { display: flex; flex-direction: column; gap: 10px; }
+.biblio__unidad {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: var(--r); overflow: hidden;
+  box-shadow: var(--shadow-xs);
+}
+.biblio__unidad[open] { box-shadow: var(--shadow); }
+.biblio__unidad-titulo {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 12px 16px; font-weight: 600; font-size: 14px;
+  color: var(--txt); cursor: pointer; list-style: none;
+  user-select: none;
+}
+.biblio__unidad-titulo::-webkit-details-marker { display: none; }
+.biblio__unidad-titulo::after {
+  content: "▾"; font-size: 12px; color: var(--muted-2);
+  transition: transform var(--t);
+}
+.biblio__unidad[open] .biblio__unidad-titulo::after { transform: rotate(180deg); }
+.biblio__unidad-conteo {
+  font-size: 11px; color: var(--muted-2);
+  background: var(--bg-2); border: 1px solid var(--line);
+  border-radius: 999px; padding: 2px 9px; min-width: 24px; text-align: center;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  margin-left: auto; margin-right: 12px;
+}
+.biblio__lista { display: flex; flex-direction: column; border-top: 1px solid var(--line); }
+
+/* Items (botones de patología) */
+.biblio__item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 10px 16px; background: transparent; border: 0;
+  border-bottom: 1px solid var(--line);
+  text-align: left; color: var(--txt-2); cursor: pointer;
+  font-family: inherit; font-size: 14px;
+  transition: background var(--t-fast), padding var(--t-fast);
+}
+.biblio__item:last-child { border-bottom: 0; }
+.biblio__item:hover { background: var(--bg-2); padding-left: 22px; color: var(--txt); }
+.biblio__item-titulo { flex: 1; }
+.biblio__item-flecha { color: var(--muted-2); }
+
+.biblio__item--resultado {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: var(--r); box-shadow: var(--shadow-xs);
+  padding: 12px 16px;
+}
+.biblio__item--resultado:hover { padding-left: 22px; }
+.biblio__item-cuerpo { display: flex; flex-direction: column; gap: 2px; flex: 1; }
+.biblio__item-unidad { font-size: 12px; }
+
+/* === Entrada individual === */
+.biblio--entrada {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: var(--r-lg); padding: 18px 22px 22px;
+  box-shadow: var(--shadow-xs);
+}
+.biblio__nav {
+  display: flex; gap: 8px; flex-wrap: wrap;
+  margin: 0 0 14px;
+}
+.biblio__entrada-cab { padding: 6px 0 16px; border-bottom: 1px solid var(--line); margin-bottom: 16px; }
+.biblio__entrada-cab h2 { margin: 6px 0 0; font-size: 24px; line-height: 1.25; }
+.biblio__entrada-unidad {
+  display: inline-block;
+  font-size: 11px; color: var(--accent-d);
+  background: var(--accent-soft); border-radius: 999px;
+  padding: 3px 10px;
+  text-transform: uppercase; letter-spacing: 0.04em; font-weight: 600;
+}
+.biblio__entrada-cuerpo { font-size: 15px; line-height: 1.65; color: var(--txt); }
+.biblio__entrada-cuerpo h3 {
+  margin: 22px 0 8px; padding-bottom: 6px;
+  font-size: 17px; color: var(--accent-d);
+  border-bottom: 2px solid var(--accent-soft);
+}
+.biblio__entrada-cuerpo p { margin: 0 0 10px; }
+.biblio__entrada-cuerpo ul, .biblio__entrada-cuerpo ol { margin: 0 0 12px 22px; }
+.biblio__entrada-cuerpo li { margin: 4px 0; }
+.biblio__entrada-cuerpo .section-subsection { margin: 0 0 18px; }
+.biblio__entrada-cuerpo .highlight {
+  background: var(--warn-soft); padding: 2px 6px; border-radius: 4px;
+  font-weight: 600; color: var(--warn);
+}
+.biblio__entrada-cuerpo strong { color: var(--txt); }
+.biblio__entrada-cuerpo table {
+  border-collapse: collapse; width: 100%; margin: 12px 0;
+  font-size: 14px;
+}
+.biblio__entrada-cuerpo th, .biblio__entrada-cuerpo td {
+  padding: 8px 10px; border: 1px solid var(--line); text-align: left;
+}
+.biblio__entrada-cuerpo th { background: var(--bg-2); font-weight: 600; }
+.biblio__entrada-pie {
+  margin-top: 22px; padding-top: 14px; border-top: 1px dashed var(--line);
+  font-size: 12px;
+}
+
+/* Navbar: con 6 botones se aprieta — reducir labels en móviles muy estrechos */
+@media (max-width: 380px) {
+  .navbar__btn .navbar__label { font-size: 10px; }
+}

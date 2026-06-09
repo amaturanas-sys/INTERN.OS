@@ -8,6 +8,7 @@ import { leerVersion } from "./version.js";
 import { vistaQuizFiltros } from "./modos/quiz-temas.js";
 import { vistaCasosLista, vistaCaso } from "./modos/casos-clinicos.js";
 import { vistaDefiniciones } from "./modos/definiciones.js";
+import { vistaBiblioteca, vistaBibliotecaEntrada } from "./modos/biblioteca.js";
 import { vistaMarcadas } from "./modos/marcadas.js";
 import { vistaListadoPreguntas } from "./modos/listado-preguntas.js";
 import { vistaImportar } from "./importar/importar.js";
@@ -21,6 +22,8 @@ ruta("quiz", vistaQuizFiltros);
 ruta("casos", vistaCasosLista);
 ruta("caso/:id", vistaCaso);
 ruta("definiciones", vistaDefiniciones);
+ruta("biblioteca", vistaBiblioteca);
+ruta("biblioteca/:id", vistaBibliotecaEntrada);
 ruta("marcadas", vistaMarcadas);
 ruta("preguntas", vistaListadoPreguntas);
 ruta("importar", vistaImportar);
@@ -41,7 +44,7 @@ const TITULOS = {
   "": "Inicio", quiz: "Quiz por temas", casos: "Casos clínicos",
   caso: "Caso clínico", definiciones: "Definiciones", marcadas: "Marcadas",
   preguntas: "Buscar preguntas", importar: "Importar contenido",
-  progreso: "Mi progreso", ajustes: "Ajustes", editar: "Editor",
+  biblioteca: "Biblioteca", progreso: "Mi progreso", ajustes: "Ajustes", editar: "Editor",
 };
 let _versionTag = "";
 alCambiar((segmentos) => {
