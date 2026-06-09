@@ -909,3 +909,92 @@ textarea { resize: vertical; line-height: 1.5; }
 @media (max-width: 380px) {
   .navbar__btn .navbar__label { font-size: 10px; }
 }
+
+/* === Biblioteca: badges, fecha, bibliografía, editor === */
+.biblio__badge {
+  font-size: 10px; color: var(--accent-d);
+  background: var(--accent-soft); border-radius: 999px;
+  padding: 1px 8px; margin-right: 6px; text-transform: uppercase;
+  letter-spacing: 0.04em; font-weight: 600;
+}
+.biblio__fecha {
+  font-size: 12px; margin: 6px 0 0; font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+.biblio__entrada-cuerpo img {
+  max-width: 100%; height: auto; display: block;
+  margin: 12px auto; border: 1px solid var(--line); border-radius: 6px;
+  box-shadow: var(--shadow-xs);
+}
+
+/* Bibliografía rendering */
+.biblio__refs {
+  margin: 26px 0 12px; padding: 16px 18px;
+  background: var(--bg-2); border: 1px solid var(--line);
+  border-radius: var(--r);
+}
+.biblio__refs h3 {
+  margin: 0 0 8px; font-size: 15px;
+  color: var(--accent-d); border-bottom: none; padding: 0;
+}
+.biblio__refs-lista { margin: 0 0 0 22px; padding: 0; font-size: 13px; }
+.biblio__ref-item { margin: 4px 0; line-height: 1.5; }
+.biblio__ref-item a { color: var(--accent-d); }
+
+/* Editor */
+.biblio--editor { max-width: 860px; margin: 0 auto; }
+.biblio__editor-sec {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: var(--r); padding: 16px 18px; margin: 14px 0;
+  box-shadow: var(--shadow-xs);
+}
+.biblio__editor-sec h3 {
+  margin: 0 0 6px; font-size: 15px; color: var(--accent-d);
+}
+.biblio__editor-html {
+  width: 100%; font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 13px; line-height: 1.55;
+  padding: 12px 14px; border: 1px solid var(--line-2); border-radius: 8px;
+  background: var(--bg); color: var(--txt);
+  resize: vertical; min-height: 360px;
+}
+.biblio__editor-html:focus { outline: 2px solid var(--accent-ring); border-color: var(--accent); }
+
+/* Bibliografía editor rows */
+.biblio__refs-editor { display: flex; flex-direction: column; gap: 8px; margin: 10px 0; }
+.biblio__ref-row {
+  display: grid; grid-template-columns: 1fr 1fr 1fr auto;
+  gap: 6px; align-items: center;
+}
+.biblio__ref-row input {
+  padding: 7px 10px; border: 1px solid var(--line); border-radius: 6px;
+  font-size: 13px; background: var(--bg);
+}
+.biblio__ref-row input:focus { outline: none; border-color: var(--accent); }
+@media (max-width: 640px) {
+  .biblio__ref-row { grid-template-columns: 1fr auto; }
+  .biblio__ref-row input[type="url"], .biblio__ref-row input[type="text"]:nth-of-type(3) {
+    grid-column: 1 / -1;
+  }
+}
+
+/* Imágenes editor */
+.biblio__imgs-editor { display: flex; flex-direction: column; gap: 10px; margin: 10px 0; }
+.biblio__img-row {
+  display: grid; grid-template-columns: 80px 1fr auto;
+  gap: 10px; align-items: center;
+  background: var(--bg-2); border: 1px solid var(--line);
+  border-radius: 8px; padding: 10px;
+}
+.biblio__img-thumb {
+  width: 80px; height: 80px; object-fit: cover;
+  border-radius: 6px; border: 1px solid var(--line-2);
+}
+.biblio__img-meta { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.biblio__img-meta input {
+  padding: 6px 10px; border: 1px solid var(--line); border-radius: 6px;
+  font-size: 13px; background: var(--bg);
+}
+.biblio__img-id-tag {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 11px; word-break: break-all; margin: 0;
+}
