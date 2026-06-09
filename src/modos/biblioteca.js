@@ -243,7 +243,7 @@ export async function vistaBiblioteca() {
         icono("chevron_derecha", { tamano: 14, clase: "biblio__item-flecha" }),
       ])),
     );
-    indice.appendChild(el("details", { class: "biblio__unidad", open: "" }, [
+    indice.appendChild(el("details", { class: "biblio__unidad" }, [
       el("summary", { class: "biblio__unidad-titulo" }, [
         el("span", { text: unidad }),
         el("span", { class: "biblio__unidad-conteo", text: `${items.length}` }),
