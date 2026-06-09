@@ -2,7 +2,7 @@
 // para que la app funcione 100% offline sin librerías externas.
 
 const DB_NAME = "eunacom_db";
-const DB_VERSION = 1;
+const DB_VERSION = 2;
 
 const STORES = {
   preguntas: { keyPath: "id_unico" },
@@ -11,6 +11,8 @@ const STORES = {
   repaso: { keyPath: "ref" },          // SM-2 por ítem: ref = "tipo:id"
   progreso_usuario: { keyPath: "id" }, // doc "global" + sesiones
   config: { keyPath: "key" },
+  biblioteca_ediciones: { keyPath: "id" },  // edición local del usuario por id de entrada
+  biblioteca_imagenes: { keyPath: "id" },   // blob de imágenes indexadas en entradas
 };
 
 let _dbPromise = null;
@@ -61,7 +63,15 @@ function runMigrations(db, oldVersion) {
     db.createObjectStore("progreso_usuario", { keyPath: "id" });
     db.createObjectStore("config", { keyPath: "key" });
   }
-  // Futuras migraciones: if (oldVersion < 2) { ... }
+  // v1 → v2: stores para edición local de la biblioteca CIMIO.
+  if (oldVersion < 2) {
+    if (!db.objectStoreNames.contains("biblioteca_ediciones")) {
+      db.createObjectStore("biblioteca_ediciones", { keyPath: "id" });
+    }
+    if (!db.objectStoreNames.contains("biblioteca_imagenes")) {
+      db.createObjectStore("biblioteca_imagenes", { keyPath: "id" });
+    }
+  }
 }
 
 function tx(db, store, mode) {
