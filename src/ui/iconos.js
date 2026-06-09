@@ -36,7 +36,12 @@ const PATHS = {
   x: '<line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>',
   // --- Flechas / decoradores ---
   chevron_derecha: '<polyline points="9 6 15 12 9 18"/>',
+  chevron_izquierda: '<polyline points="15 6 9 12 15 18"/>',
   flecha_derecha: '<line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/>',
+  // --- Biblioteca / búsqueda ---
+  buscar: '<circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/>',
+  biblioteca: '<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/>' +
+              '<path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>',
 };
 
 export function icono(nombre, opts = {}) {
