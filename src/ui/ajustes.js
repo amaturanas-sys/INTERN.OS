@@ -90,11 +90,36 @@ export async function vistaAjustes() {
 
     el("h3", { text: "Mantenimiento" }),
     el("div", { class: "runner__acciones" }, [
+      el("button", { class: "btn btn--primary", onClick: forzarActualizacion },
+        "Forzar actualización de la app"),
       el("button", { class: "btn btn--danger", onClick: borrarTodo }, "Borrar todos los datos"),
       el("button", { class: "btn btn--ghost", onClick: () => navegar("") }, "Volver"),
     ]),
-    el("p", { class: "muted", text: "Persistencia: los datos viven en IndexedDB del dispositivo. Exporta periódicamente para respaldar tus correcciones." }),
+    el("p", { class: "muted", text:
+      "Forzar actualización limpia la caché del navegador y recarga la última versión publicada (útil cuando ves cambios reflejados en el sitio pero no en tu app). NO afecta tus datos." }),
+    el("p", { class: "muted", text:
+      "Persistencia: los datos viven en IndexedDB del dispositivo. Exporta periódicamente para respaldar tus correcciones." }),
   ]));
+
+  async function forzarActualizacion() {
+    toast("Actualizando…", "info");
+    try {
+      // 1. Borrar todas las cachés del Service Worker
+      if ("caches" in window) {
+        const keys = await caches.keys();
+        await Promise.all(keys.map((k) => caches.delete(k)));
+      }
+      // 2. Desregistrar el service worker actual para forzar un install fresco
+      if ("serviceWorker" in navigator) {
+        const regs = await navigator.serviceWorker.getRegistrations();
+        await Promise.all(regs.map((r) => r.unregister()));
+      }
+      // 3. Recargar la página saltando la caché HTTP
+      setTimeout(() => location.reload(true), 400);
+    } catch (e) {
+      toast("Error al actualizar: " + (e && e.message || "desconocido"), "error");
+    }
+  }
 
   async function exportar() {
     const dump = {
