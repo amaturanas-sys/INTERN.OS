@@ -254,7 +254,7 @@ export async function vistaBibliotecaEntrada({ id }) {
   ]));
 }
 
-// === Editor de entrada ===
+// === Editor de entrada (WYSIWYG + HTML crudo opcional) ===
 export async function vistaBibliotecaEditor({ id }) {
   const entrada = await resolverEntrada(id);
   if (!entrada) {
@@ -269,13 +269,129 @@ export async function vistaBibliotecaEditor({ id }) {
   let htmlActual = entrada.html;
   let refsActual = JSON.parse(JSON.stringify(entrada.bibliografia || []));
   let imgsActual = JSON.parse(JSON.stringify(entrada.imagenes || []));
+  let modoHtml = false;  // false = WYSIWYG; true = textarea de HTML crudo
 
-  // -- HTML editor (textarea simple) --
+  // -- Editor WYSIWYG (contenteditable) --
+  const wysiwyg = el("div", {
+    class: "biblio__wysiwyg",
+    contenteditable: "true",
+    spellcheck: "true",
+  });
+  wysiwyg.innerHTML = htmlActual;
+  wysiwyg.addEventListener("input", () => { htmlActual = wysiwyg.innerHTML; });
+
+  // Resolver imágenes en el WYSIWYG para que el usuario las vea editando.
+  async function resolverImagenesEnEditor() {
+    const imgs = wysiwyg.querySelectorAll('img[data-img-id]');
+    for (const img of imgs) {
+      const row = await get("biblioteca_imagenes", img.getAttribute("data-img-id"));
+      if (row && row.blob) img.src = URL.createObjectURL(row.blob);
+    }
+  }
+  resolverImagenesEnEditor();
+
+  // -- Textarea (HTML crudo) --
   const textarea = el("textarea", {
-    class: "biblio__editor-html", rows: 24, spellcheck: "true",
+    class: "biblio__editor-html", rows: 22, spellcheck: "true",
   });
   textarea.value = htmlActual;
   textarea.addEventListener("input", () => { htmlActual = textarea.value; });
+
+  // -- Toolbar WYSIWYG --
+  function exec(cmd, val) {
+    wysiwyg.focus();
+    document.execCommand(cmd, false, val);
+    htmlActual = wysiwyg.innerHTML;
+  }
+  function wrapHighlight() {
+    wysiwyg.focus();
+    const sel = window.getSelection();
+    if (!sel.rangeCount || sel.isCollapsed) return;
+    const range = sel.getRangeAt(0);
+    const span = document.createElement("span");
+    span.className = "highlight";
+    span.appendChild(range.extractContents());
+    range.insertNode(span);
+    sel.removeAllRanges();
+    htmlActual = wysiwyg.innerHTML;
+  }
+  function insertarEnlace() {
+    const url = prompt("URL del enlace:");
+    if (!url) return;
+    exec("createLink", url);
+  }
+  function insertarTabla() {
+    const filas = parseInt(prompt("Filas (incluyendo cabecera):", "3"), 10);
+    const cols = parseInt(prompt("Columnas:", "3"), 10);
+    if (!filas || !cols) return;
+    let html = "<table><thead><tr>";
+    for (let c = 0; c < cols; c++) html += "<th>—</th>";
+    html += "</tr></thead><tbody>";
+    for (let r = 1; r < filas; r++) {
+      html += "<tr>";
+      for (let c = 0; c < cols; c++) html += "<td>—</td>";
+      html += "</tr>";
+    }
+    html += "</tbody></table><p></p>";
+    exec("insertHTML", html);
+  }
+  function toolBtn(label, cmd, title, val) {
+    return el("button", {
+      class: "biblio__toolbar-btn", type: "button", title,
+      onClick: () => exec(cmd, val),
+    }, label);
+  }
+  function toolBtnCustom(label, fn, title) {
+    return el("button", {
+      class: "biblio__toolbar-btn", type: "button", title,
+      onClick: fn,
+    }, label);
+  }
+  const toolbar = el("div", { class: "biblio__toolbar" }, [
+    toolBtn("B",       "bold",                 "Negrita"),
+    toolBtn("I",       "italic",               "Cursiva"),
+    toolBtn("H3",      "formatBlock",          "Encabezado",      "h3"),
+    toolBtn("P",       "formatBlock",          "Párrafo",         "p"),
+    toolBtn("• Lista", "insertUnorderedList",  "Lista con viñetas"),
+    toolBtn("1. Lista","insertOrderedList",    "Lista numerada"),
+    toolBtnCustom("Resaltado", wrapHighlight,  "Resaltar selección"),
+    toolBtnCustom("Enlace",    insertarEnlace, "Insertar enlace"),
+    toolBtnCustom("Tabla",     insertarTabla,  "Insertar tabla"),
+    toolBtn("⤺", "undo", "Deshacer"),
+    toolBtn("⤻", "redo", "Rehacer"),
+  ]);
+
+  // -- Wrapper del editor con toggle WYSIWYG ↔ HTML crudo --
+  const editorMount = el("div", { class: "biblio__editor-mount" });
+  function renderEditor() {
+    editorMount.innerHTML = "";
+    if (modoHtml) {
+      editorMount.appendChild(textarea);
+      textarea.value = htmlActual;
+    } else {
+      editorMount.appendChild(toolbar);
+      editorMount.appendChild(wysiwyg);
+      wysiwyg.innerHTML = htmlActual;
+      resolverImagenesEnEditor();
+    }
+  }
+  const btnToggleModo = el("button", {
+    class: "btn btn--ghost btn--sm", type: "button",
+    title: "Alternar entre editor visual y HTML crudo",
+    onClick: () => {
+      if (modoHtml) {
+        // De HTML → WYSIWYG: htmlActual ya está al día desde el input de textarea
+        modoHtml = false;
+        btnToggleModo.textContent = "Ver HTML";
+      } else {
+        // De WYSIWYG → HTML: capturar el innerHTML actual
+        htmlActual = wysiwyg.innerHTML;
+        modoHtml = true;
+        btnToggleModo.textContent = "Vista visual";
+      }
+      renderEditor();
+    },
+  }, "Ver HTML");
 
   // -- Bibliografía --
   const refsLista = el("div", { class: "biblio__refs-editor" });
@@ -307,12 +423,32 @@ export async function vistaBibliotecaEditor({ id }) {
 
   // -- Imágenes --
   const imgsLista = el("div", { class: "biblio__imgs-editor" });
+  const storageTag = el("span", { class: "biblio__storage-tag" });
+
+  // Actualiza el indicador de tamaño total de imágenes locales.
+  async function actualizarTag() {
+    const todas = await getAll("biblioteca_imagenes").catch(() => []);
+    const bytesTot = todas.reduce((s, r) => s + ((r.blob && r.blob.size) || 0), 0);
+    const mb = bytesTot / 1048576;
+    let mbCuota = null;
+    if (navigator.storage && navigator.storage.estimate) {
+      try {
+        const est = await navigator.storage.estimate();
+        mbCuota = est.quota ? (est.quota / 1048576) : null;
+      } catch (_) { /* nada */ }
+    }
+    storageTag.textContent = mbCuota
+      ? `Imágenes locales: ${todas.length} · ${mb.toFixed(1)} MB (de ~${Math.round(mbCuota)} MB de cuota)`
+      : `Imágenes locales: ${todas.length} · ${mb.toFixed(1)} MB`;
+  }
+  actualizarTag();
 
   async function renderImgs() {
     imgsLista.innerHTML = "";
     if (!imgsActual.length) {
       imgsLista.appendChild(el("p", { class: "muted",
         text: "(Sin imágenes indexadas todavía. Sube una abajo.)" }));
+      actualizarTag();
       return;
     }
     for (let i = 0; i < imgsActual.length; i++) {
@@ -328,10 +464,18 @@ export async function vistaBibliotecaEditor({ id }) {
             text: `Insertar en HTML: <img data-img-id="${ref.id}" alt="...">` }),
           el("button", { class: "btn btn--ghost btn--sm", type: "button",
             onClick: () => {
-              const tag = `<img data-img-id="${ref.id}" alt="${(ref.titulo || "").replace(/"/g, "")}" />`;
-              const pos = textarea.selectionStart || textarea.value.length;
-              textarea.value = textarea.value.slice(0, pos) + "\n" + tag + "\n" + textarea.value.slice(pos);
-              htmlActual = textarea.value;
+              const altLimpio = (ref.titulo || "").replace(/"/g, "");
+              const tag = `<img data-img-id="${ref.id}" alt="${altLimpio}" />`;
+              if (modoHtml) {
+                const pos = textarea.selectionStart || textarea.value.length;
+                textarea.value = textarea.value.slice(0, pos) + "\n" + tag + "\n" + textarea.value.slice(pos);
+                htmlActual = textarea.value;
+              } else {
+                wysiwyg.focus();
+                document.execCommand("insertHTML", false, tag);
+                htmlActual = wysiwyg.innerHTML;
+                resolverImagenesEnEditor();
+              }
             } }, "Insertar en cuerpo"),
         ]),
         el("button", { class: "btn btn--ghost btn--sm", type: "button",
@@ -343,6 +487,7 @@ export async function vistaBibliotecaEditor({ id }) {
       ]);
       imgsLista.appendChild(card);
     }
+    actualizarTag();
   }
   renderImgs();
 
@@ -362,6 +507,7 @@ export async function vistaBibliotecaEditor({ id }) {
     });
     imgsActual.push({ id: imgId, titulo: file.name.replace(/\.[^.]+$/, "") });
     renderImgs();
+    actualizarTag();
     fileInput.value = "";
   });
   const btnSubir = el("button", {
@@ -371,6 +517,8 @@ export async function vistaBibliotecaEditor({ id }) {
 
   // -- Guardar / Restaurar baseline --
   async function guardar() {
+    // Asegurar que htmlActual refleje el modo activo
+    htmlActual = modoHtml ? textarea.value : wysiwyg.innerHTML;
     const hoy = new Date().toISOString().slice(0, 10);
     await put("biblioteca_ediciones", {
       id, html: htmlActual,
@@ -386,6 +534,8 @@ export async function vistaBibliotecaEditor({ id }) {
     await del("biblioteca_ediciones", id);
     navegar(`biblioteca/${encodeURIComponent(id)}`);
   }
+
+  renderEditor();
 
   mount(el("div", { class: "biblio biblio--editor" }, [
     el("div", { class: "biblio__nav" }, [
@@ -406,16 +556,23 @@ export async function vistaBibliotecaEditor({ id }) {
         text: `Última actualización: ${entrada.fecha_actualizacion}${entrada._editado ? " (edición local)" : " (versión original)"}` }),
     ]),
     el("section", { class: "biblio__editor-sec" }, [
-      el("h3", { text: "Contenido (HTML)" }),
+      el("div", { class: "biblio__editor-cab" }, [
+        el("h3", { text: "Contenido" }),
+        btnToggleModo,
+      ]),
       el("p", { class: "muted", text:
-        "Puedes usar etiquetas HTML estándar: <h3>, <p>, <ul>/<li>, <strong>, <em>, <table>, <span class=\"highlight\">…</span>. " +
-        "Las imágenes se insertan con <img data-img-id=\"...\">." }),
-      textarea,
+        "Usa la barra para formatear (B, I, encabezado H3, listas, resaltado, enlace, tabla). " +
+        "Para insertar imágenes, súbelas más abajo y pincha \"Insertar en cuerpo\". " +
+        "Con \"Ver HTML\" puedes editar el código directamente si necesitas un control fino." }),
+      editorMount,
     ]),
     el("section", { class: "biblio__editor-sec" }, [
-      el("h3", { text: "Imágenes indexadas" }),
+      el("div", { class: "biblio__editor-cab" }, [
+        el("h3", { text: "Imágenes indexadas" }),
+        storageTag,
+      ]),
       el("p", { class: "muted",
-        text: "Las imágenes se guardan localmente en tu dispositivo. Usa el botón \"Insertar en cuerpo\" para colocarlas en el texto." }),
+        text: "Las imágenes se guardan localmente en tu dispositivo. Usa el botón \"Insertar en cuerpo\" para colocarlas en el texto. Tamaño máximo por imagen: 5 MB." }),
       imgsLista, btnSubir, fileInput,
     ]),
     el("section", { class: "biblio__editor-sec" }, [

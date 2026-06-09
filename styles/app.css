@@ -998,3 +998,77 @@ textarea { resize: vertical; line-height: 1.5; }
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
   font-size: 11px; word-break: break-all; margin: 0;
 }
+
+/* Editor WYSIWYG */
+.biblio__editor-cab {
+  display: flex; justify-content: space-between; align-items: center;
+  gap: 8px; margin-bottom: 4px;
+}
+.biblio__editor-cab h3 { margin: 0; }
+.biblio__toolbar {
+  display: flex; flex-wrap: wrap; gap: 4px;
+  padding: 8px 10px; background: var(--bg-2);
+  border: 1px solid var(--line-2); border-bottom: 0;
+  border-radius: 8px 8px 0 0;
+}
+.biblio__toolbar-btn {
+  font-size: 13px; padding: 5px 10px;
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 6px; color: var(--txt); cursor: pointer;
+  font-family: inherit; font-weight: 600;
+  transition: background var(--t-fast), border-color var(--t-fast);
+}
+.biblio__toolbar-btn:hover {
+  background: var(--accent-soft); border-color: var(--accent);
+  color: var(--accent-d);
+}
+.biblio__toolbar-btn:active { transform: translateY(1px); }
+
+.biblio__wysiwyg {
+  min-height: 420px;
+  padding: 16px 18px;
+  border: 1px solid var(--line-2); border-radius: 0 0 8px 8px;
+  background: var(--bg); color: var(--txt);
+  font-size: 15px; line-height: 1.65;
+  overflow-y: auto;
+}
+.biblio__wysiwyg:focus { outline: none; border-color: var(--accent); }
+.biblio__wysiwyg h3 {
+  margin: 16px 0 6px; font-size: 17px;
+  color: var(--accent-d);
+  border-bottom: 2px solid var(--accent-soft); padding-bottom: 4px;
+}
+.biblio__wysiwyg h3:first-child { margin-top: 0; }
+.biblio__wysiwyg p { margin: 0 0 8px; }
+.biblio__wysiwyg ul, .biblio__wysiwyg ol { margin: 4px 0 10px 22px; }
+.biblio__wysiwyg li { margin: 3px 0; }
+.biblio__wysiwyg .highlight {
+  background: var(--warn-soft); padding: 2px 6px; border-radius: 4px;
+  font-weight: 600; color: var(--warn);
+}
+.biblio__wysiwyg table {
+  border-collapse: collapse; width: 100%; margin: 10px 0;
+}
+.biblio__wysiwyg th, .biblio__wysiwyg td {
+  padding: 6px 9px; border: 1px solid var(--line);
+}
+.biblio__wysiwyg th { background: var(--bg-2); font-weight: 600; }
+.biblio__wysiwyg img {
+  max-width: 100%; height: auto; margin: 10px auto; display: block;
+  border: 1px dashed var(--line-2); border-radius: 6px;
+}
+.biblio__wysiwyg a { color: var(--accent-d); text-decoration: underline; }
+.biblio__wysiwyg:empty::before {
+  content: "Escribe aquí…"; color: var(--muted-2); font-style: italic;
+}
+
+.biblio__editor-mount { margin-top: 4px; }
+
+/* Indicador de tamaño de almacenamiento (en editor + ajustes) */
+.biblio__storage-tag {
+  display: inline-flex; align-items: center; gap: 4px;
+  font-size: 11px; color: var(--muted);
+  background: var(--bg-2); border: 1px solid var(--line);
+  border-radius: 999px; padding: 3px 10px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
