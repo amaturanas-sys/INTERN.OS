@@ -8,6 +8,11 @@
 //   fecha}: imágenes indexadas, referenciadas por <img data-img-id="X">.
 //
 // El render mezcla baseline + edición; el último fecha_actualizacion gana.
+//
+// Endurecimiento (v1.7.2):
+// - Todo HTML que se inyecta vía innerHTML pasa por sanitizarHTML().
+// - Blob URLs se trackean por vista y se liberan en el evento "vista:cambia".
+// - El buscador no parsea HTML (strip por regex + memoiza texto plano).
 
 import { el, mount } from "../ui/dom.js";
 import { navegar } from "../ui/router.js";
@@ -16,6 +21,101 @@ import { get, getAll, put, del } from "../db/db.js";
 
 let _data = null;
 
+// ===========================================================
+// Sanitizador HTML (allow-list de tags y atributos)
+// ===========================================================
+const TAGS_PERMITIDOS = new Set([
+  "p", "br", "hr", "div", "span", "section",
+  "h2", "h3", "h4", "h5", "h6",
+  "ul", "ol", "li", "dl", "dt", "dd",
+  "strong", "b", "em", "i", "u", "s", "code", "pre", "kbd",
+  "a", "img",
+  "table", "thead", "tbody", "tr", "td", "th", "caption",
+  "blockquote", "sup", "sub",
+]);
+const ATTRS_PERMITIDOS_GLOBAL = new Set(["class", "title", "lang", "dir"]);
+const ATTRS_POR_TAG = {
+  a: new Set(["href", "target", "rel"]),
+  img: new Set(["src", "alt", "data-img-id", "width", "height"]),
+  td: new Set(["colspan", "rowspan"]),
+  th: new Set(["colspan", "rowspan", "scope"]),
+};
+const CLASES_PERMITIDAS = new Set([
+  "section-subsection", "highlight", "image-caption", "medical-image",
+]);
+
+function escapeAttr(v) {
+  return String(v).replace(/[&<>"']/g, (c) => (
+    { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]
+  ));
+}
+function urlSegura(url) {
+  if (typeof url !== "string") return null;
+  const trim = url.trim();
+  if (!trim) return null;
+  // Protocolos permitidos
+  if (/^(https?:|mailto:|tel:|#|\/|\.|data:image\/(png|jpe?g|gif|webp);base64,)/i.test(trim)) {
+    return trim;
+  }
+  return null;
+}
+
+// Sanitiza un HTML arbitrario. Usa el DOMParser del navegador para tokenizar
+// y reconstruye sólo lo que está en la allow-list. Evita XSS sin librerías.
+export function sanitizarHTML(htmlSucio) {
+  if (typeof htmlSucio !== "string" || !htmlSucio) return "";
+  const doc = new DOMParser().parseFromString(`<div>${htmlSucio}</div>`, "text/html");
+  const raiz = doc.body.firstChild;
+  if (!raiz) return "";
+  return Array.from(raiz.childNodes).map(serializarNodo).join("");
+}
+
+function serializarNodo(node) {
+  if (node.nodeType === 3) {
+    // Texto: escapar
+    return escapeAttr(node.nodeValue);
+  }
+  if (node.nodeType !== 1) return "";
+  const tag = node.tagName.toLowerCase();
+  if (!TAGS_PERMITIDOS.has(tag)) {
+    // tag no permitido: descartar tag pero conservar contenido (excepto script/style)
+    if (tag === "script" || tag === "style" || tag === "iframe" || tag === "object" || tag === "embed") {
+      return "";
+    }
+    return Array.from(node.childNodes).map(serializarNodo).join("");
+  }
+  // Atributos permitidos
+  const attrs = [];
+  for (const attr of Array.from(node.attributes)) {
+    const name = attr.name.toLowerCase();
+    if (name.startsWith("on")) continue; // bloquear handlers
+    if (name === "style") continue;       // bloquear estilos inline
+    const tagAttrs = ATTRS_POR_TAG[tag];
+    if (!ATTRS_PERMITIDOS_GLOBAL.has(name) && !(tagAttrs && tagAttrs.has(name))) continue;
+    let val = attr.value;
+    if (name === "href" || name === "src") {
+      val = urlSegura(val);
+      if (val == null) continue;
+    }
+    if (name === "class") {
+      // Filtrar clases por allow-list
+      const clases = val.split(/\s+/).filter((c) => CLASES_PERMITIDAS.has(c));
+      if (!clases.length) continue;
+      val = clases.join(" ");
+    }
+    attrs.push(`${name}="${escapeAttr(val)}"`);
+  }
+  // Tags void
+  const VOID = new Set(["br", "hr", "img"]);
+  const attrStr = attrs.length ? " " + attrs.join(" ") : "";
+  if (VOID.has(tag)) return `<${tag}${attrStr}>`;
+  const inner = Array.from(node.childNodes).map(serializarNodo).join("");
+  return `<${tag}${attrStr}>${inner}</${tag}>`;
+}
+
+// ===========================================================
+// Carga de datos
+// ===========================================================
 async function cargarBase() {
   if (_data) return _data;
   const res = await fetch("data/biblioteca.json", { cache: "force-cache" });
@@ -42,17 +142,26 @@ async function resolverEntrada(id) {
 }
 
 function norm(s) {
+  // U+0300-U+036F = combining diacritical marks
   return (s || "").toString().normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+}
+
+// Cache de texto plano por entrada (memoizado en módulo)
+const _textoPlanoCache = new Map();
+function textoPlanoEntrada(e) {
+  if (_textoPlanoCache.has(e.id)) return _textoPlanoCache.get(e.id);
+  // Strip de tags por regex (no parsea, no dispara fetches)
+  const t = norm((e.html || "").replace(/<[^>]+>/g, " "));
+  _textoPlanoCache.set(e.id, t);
+  return t;
 }
 
 function buscar(entradas, query) {
   const q = norm(query.trim());
   if (!q) return [];
   const tokens = q.split(/\s+/).filter(Boolean);
-  const tmp = document.createElement("div");
   return entradas.map((e) => {
-    tmp.innerHTML = e.html;
-    const texto = norm(tmp.textContent || "");
+    const texto = textoPlanoEntrada(e);
     const titNorm = norm(e.titulo);
     const unidadNorm = norm(e.unidad);
     let score = 0;
@@ -66,7 +175,25 @@ function buscar(entradas, query) {
   }).filter((r) => r.score > 0).sort((a, b) => b.score - a.score);
 }
 
-// === Landing ===
+// ===========================================================
+// Gestión de blob URLs por vista (anti-leak)
+// ===========================================================
+let _blobUrlsVista = [];
+function trackBlobURL(blob) {
+  const url = URL.createObjectURL(blob);
+  _blobUrlsVista.push(url);
+  return url;
+}
+function liberarBlobsVista() {
+  for (const u of _blobUrlsVista) URL.revokeObjectURL(u);
+  _blobUrlsVista = [];
+}
+// Cuando la vista cambia, liberar todas las URLs
+document.addEventListener("vista:cambia", liberarBlobsVista);
+
+// ===========================================================
+// Landing
+// ===========================================================
 export async function vistaBiblioteca() {
   const data = await cargarBase();
   const ediciones = await getAll("biblioteca_ediciones");
@@ -77,8 +204,7 @@ export async function vistaBiblioteca() {
     if (!unidadesMap.has(e.unidad)) unidadesMap.set(e.unidad, []);
     unidadesMap.get(e.unidad).push(e);
   }
-  // Ordenar unidades según meta.unidades
-  const ordenUnidades = data.meta.unidades || [...unidadesMap.keys()];
+  const ordenUnidades = (data.meta && data.meta.unidades) || [...unidadesMap.keys()];
 
   const buscador = el("input", {
     type: "search", class: "biblio__buscador",
@@ -97,8 +223,13 @@ export async function vistaBiblioteca() {
         onClick: () => navegar(`biblioteca/${encodeURIComponent(it.id)}`),
       }, [
         el("span", { class: "biblio__item-titulo", text: it.titulo }),
+        it.placeholder
+          ? el("span", { class: "biblio__badge biblio__badge--wip",
+              text: "WIP", title: "Contenido placeholder — pendiente de redacción" })
+          : null,
         editadosIds.has(it.id)
-          ? el("span", { class: "biblio__badge", text: "editado", title: "Tiene edición local" })
+          ? el("span", { class: "biblio__badge", text: "editado",
+              title: "Tiene edición local" })
           : null,
         icono("chevron_derecha", { tamano: 14, clase: "biblio__item-flecha" }),
       ])),
@@ -143,11 +274,16 @@ export async function vistaBiblioteca() {
     }, 120);
   });
 
+  // Conteos para el header
+  const totalReal = data.entradas.filter((e) => !e.placeholder).length;
+  const totalPlaceholder = data.entradas.length - totalReal;
+
   mount(el("div", { class: "biblio" }, [
     el("div", { class: "biblio__cab" }, [
       el("h2", { text: "Biblioteca" }),
       el("p", { class: "muted", text:
-        `${data.entradas.length} patologías · fuente: ${data.meta.fuente || "CIMIO 2026"}` }),
+        `${data.entradas.length} patologías · ${totalReal} con contenido redactado` +
+        (totalPlaceholder ? ` · ${totalPlaceholder} en preparación (WIP)` : "") }),
       editadosIds.size > 0
         ? el("p", { class: "muted", text: `${editadosIds.size} entradas con edición local` })
         : null,
@@ -161,26 +297,31 @@ export async function vistaBiblioteca() {
   ]));
 }
 
-// === Render del HTML con resolución de imágenes inyectadas (data-img-id) ===
-async function renderContenido(html, imagenes) {
-  const wrap = el("div", { class: "biblio__entrada-cuerpo", html });
-  // Reemplazar <img data-img-id="X"> por blobs desde IndexedDB
-  const imgs = wrap.querySelectorAll("img[data-img-id]");
-  for (const img of imgs) {
+// ===========================================================
+// Render del HTML con imágenes inyectadas (data-img-id)
+// ===========================================================
+async function renderContenido(html) {
+  const safe = sanitizarHTML(html);
+  const wrap = el("div", { class: "biblio__entrada-cuerpo", html: safe });
+  // Resolver <img data-img-id="X"> en paralelo
+  const imgs = Array.from(wrap.querySelectorAll("img[data-img-id]"));
+  await Promise.all(imgs.map(async (img) => {
     const imgId = img.getAttribute("data-img-id");
     const row = await get("biblioteca_imagenes", imgId);
     if (row && row.blob) {
-      img.src = URL.createObjectURL(row.blob);
+      img.src = trackBlobURL(row.blob);
       if (row.titulo && !img.alt) img.alt = row.titulo;
     } else {
       img.alt = "(imagen no disponible)";
       img.style.display = "none";
     }
-  }
+  }));
   return wrap;
 }
 
-// === Vista de entrada individual ===
+// ===========================================================
+// Vista de entrada individual
+// ===========================================================
 export async function vistaBibliotecaEntrada({ id }) {
   const entrada = await resolverEntrada(id);
   if (!entrada) {
@@ -215,7 +356,7 @@ export async function vistaBibliotecaEntrada({ id }) {
     ]);
   }
 
-  const cuerpo = await renderContenido(entrada.html, entrada.imagenes);
+  const cuerpo = await renderContenido(entrada.html);
 
   // Bibliografía
   const refs = Array.isArray(entrada.bibliografia) ? entrada.bibliografia : [];
@@ -224,9 +365,9 @@ export async function vistaBibliotecaEntrada({ id }) {
     el("ol", { class: "biblio__refs-lista" }, refs.map((r) =>
       el("li", { class: "biblio__ref-item" }, [
         r.url
-          ? el("a", { href: r.url, target: "_blank", rel: "noopener" }, [
-              el("span", { text: r.titulo || r.url }),
-            ])
+          ? el("a", { href: urlSegura(r.url) || "#",
+              target: "_blank", rel: "noopener noreferrer" },
+              [el("span", { text: r.titulo || r.url })])
           : el("span", { text: r.titulo || r.cita || "(referencia sin título)" }),
         r.detalle ? el("span", { class: "muted", text: ` — ${r.detalle}` }) : null,
       ])
@@ -241,6 +382,10 @@ export async function vistaBibliotecaEntrada({ id }) {
     navBar(),
     el("div", { class: "biblio__entrada-cab" }, [
       el("span", { class: "biblio__entrada-unidad", text: entrada.unidad }),
+      entrada.placeholder
+        ? el("span", { class: "biblio__badge biblio__badge--wip",
+            text: "Contenido WIP", title: "Pendiente de redacción" })
+        : null,
       el("h2", { text: entrada.titulo }),
       fechaTxt ? el("p", { class: "muted biblio__fecha", text: fechaTxt }) : null,
     ]),
@@ -254,7 +399,9 @@ export async function vistaBibliotecaEntrada({ id }) {
   ]));
 }
 
-// === Editor de entrada (WYSIWYG + HTML crudo opcional) ===
+// ===========================================================
+// Editor de entrada (WYSIWYG + HTML crudo)
+// ===========================================================
 export async function vistaBibliotecaEditor({ id }) {
   const entrada = await resolverEntrada(id);
   if (!entrada) {
@@ -269,24 +416,46 @@ export async function vistaBibliotecaEditor({ id }) {
   let htmlActual = entrada.html;
   let refsActual = JSON.parse(JSON.stringify(entrada.bibliografia || []));
   let imgsActual = JSON.parse(JSON.stringify(entrada.imagenes || []));
-  let modoHtml = false;  // false = WYSIWYG; true = textarea de HTML crudo
+  let modoHtml = false;
 
-  // -- Editor WYSIWYG (contenteditable) --
+  // Tracking de imágenes subidas EN ESTA SESIÓN (para GC al cancelar)
+  const imgsSubidasSesion = new Set();
+  // Tracking de imágenes preexistentes (para no borrar accidentalmente)
+  const imgsPreexistentes = new Set(imgsActual.map((i) => i.id));
+
+  // Lock para serializar uploads concurrentes
+  let uploadLock = Promise.resolve();
+
+  // -- Editor WYSIWYG --
   const wysiwyg = el("div", {
     class: "biblio__wysiwyg",
-    contenteditable: "true",
-    spellcheck: "true",
+    contenteditable: "true", spellcheck: "true",
   });
-  wysiwyg.innerHTML = htmlActual;
+  wysiwyg.innerHTML = sanitizarHTML(htmlActual);
   wysiwyg.addEventListener("input", () => { htmlActual = wysiwyg.innerHTML; });
-
-  // Resolver imágenes en el WYSIWYG para que el usuario las vea editando.
-  async function resolverImagenesEnEditor() {
-    const imgs = wysiwyg.querySelectorAll('img[data-img-id]');
-    for (const img of imgs) {
-      const row = await get("biblioteca_imagenes", img.getAttribute("data-img-id"));
-      if (row && row.blob) img.src = URL.createObjectURL(row.blob);
+  // Bloquear pegado enriquecido sin sanitizar
+  wysiwyg.addEventListener("paste", (e) => {
+    e.preventDefault();
+    const html = (e.clipboardData || window.clipboardData).getData("text/html");
+    const txt = (e.clipboardData || window.clipboardData).getData("text/plain");
+    if (html) {
+      const safe = sanitizarHTML(html);
+      document.execCommand("insertHTML", false, safe);
+    } else if (txt) {
+      document.execCommand("insertText", false, txt);
     }
+    htmlActual = wysiwyg.innerHTML;
+  });
+
+  // Resolver imágenes en el WYSIWYG con tracking de blob URLs
+  async function resolverImagenesEnEditor() {
+    const imgs = Array.from(wysiwyg.querySelectorAll('img[data-img-id]'));
+    await Promise.all(imgs.map(async (img) => {
+      // Revocar URL previa si existía
+      if (img.src && img.src.startsWith("blob:")) URL.revokeObjectURL(img.src);
+      const row = await get("biblioteca_imagenes", img.getAttribute("data-img-id"));
+      if (row && row.blob) img.src = trackBlobURL(row.blob);
+    }));
   }
   resolverImagenesEnEditor();
 
@@ -297,7 +466,7 @@ export async function vistaBibliotecaEditor({ id }) {
   textarea.value = htmlActual;
   textarea.addEventListener("input", () => { htmlActual = textarea.value; });
 
-  // -- Toolbar WYSIWYG --
+  // -- Toolbar --
   function exec(cmd, val) {
     wysiwyg.focus();
     document.execCommand(cmd, false, val);
@@ -316,14 +485,20 @@ export async function vistaBibliotecaEditor({ id }) {
     htmlActual = wysiwyg.innerHTML;
   }
   function insertarEnlace() {
-    const url = prompt("URL del enlace:");
+    const url = prompt("URL del enlace (https://… o mailto:…):");
     if (!url) return;
+    if (!urlSegura(url)) {
+      alert("URL no permitida (solo http/https/mailto/tel/relativas).");
+      return;
+    }
     exec("createLink", url);
   }
   function insertarTabla() {
-    const filas = parseInt(prompt("Filas (incluyendo cabecera):", "3"), 10);
-    const cols = parseInt(prompt("Columnas:", "3"), 10);
+    let filas = parseInt(prompt("Filas (incluyendo cabecera, máx 50):", "3"), 10);
+    let cols = parseInt(prompt("Columnas (máx 20):", "3"), 10);
     if (!filas || !cols) return;
+    filas = Math.max(1, Math.min(50, filas));
+    cols = Math.max(1, Math.min(20, cols));
     let html = "<table><thead><tr>";
     for (let c = 0; c < cols; c++) html += "<th>—</th>";
     html += "</tr></thead><tbody>";
@@ -343,15 +518,14 @@ export async function vistaBibliotecaEditor({ id }) {
   }
   function toolBtnCustom(label, fn, title) {
     return el("button", {
-      class: "biblio__toolbar-btn", type: "button", title,
-      onClick: fn,
+      class: "biblio__toolbar-btn", type: "button", title, onClick: fn,
     }, label);
   }
   const toolbar = el("div", { class: "biblio__toolbar" }, [
     toolBtn("B",       "bold",                 "Negrita"),
     toolBtn("I",       "italic",               "Cursiva"),
-    toolBtn("H3",      "formatBlock",          "Encabezado",      "h3"),
-    toolBtn("P",       "formatBlock",          "Párrafo",         "p"),
+    toolBtn("H3",      "formatBlock",          "Encabezado",       "h3"),
+    toolBtn("P",       "formatBlock",          "Párrafo",          "p"),
     toolBtn("• Lista", "insertUnorderedList",  "Lista con viñetas"),
     toolBtn("1. Lista","insertOrderedList",    "Lista numerada"),
     toolBtnCustom("Resaltado", wrapHighlight,  "Resaltar selección"),
@@ -361,17 +535,21 @@ export async function vistaBibliotecaEditor({ id }) {
     toolBtn("⤻", "redo", "Rehacer"),
   ]);
 
-  // -- Wrapper del editor con toggle WYSIWYG ↔ HTML crudo --
+  // -- Toggle WYSIWYG ↔ HTML --
   const editorMount = el("div", { class: "biblio__editor-mount" });
   function renderEditor() {
     editorMount.innerHTML = "";
     if (modoHtml) {
-      editorMount.appendChild(textarea);
       textarea.value = htmlActual;
+      editorMount.appendChild(textarea);
     } else {
       editorMount.appendChild(toolbar);
+      // Revocar URLs previas del wysiwyg antes de re-renderizar
+      for (const img of wysiwyg.querySelectorAll('img[src^="blob:"]')) {
+        URL.revokeObjectURL(img.src);
+      }
+      wysiwyg.innerHTML = sanitizarHTML(htmlActual);
       editorMount.appendChild(wysiwyg);
-      wysiwyg.innerHTML = htmlActual;
       resolverImagenesEnEditor();
     }
   }
@@ -380,11 +558,12 @@ export async function vistaBibliotecaEditor({ id }) {
     title: "Alternar entre editor visual y HTML crudo",
     onClick: () => {
       if (modoHtml) {
-        // De HTML → WYSIWYG: htmlActual ya está al día desde el input de textarea
+        // HTML → WYSIWYG: capturar último valor del textarea
+        htmlActual = textarea.value;
         modoHtml = false;
         btnToggleModo.textContent = "Ver HTML";
       } else {
-        // De WYSIWYG → HTML: capturar el innerHTML actual
+        // WYSIWYG → HTML: capturar innerHTML actual
         htmlActual = wysiwyg.innerHTML;
         modoHtml = true;
         btnToggleModo.textContent = "Vista visual";
@@ -425,7 +604,6 @@ export async function vistaBibliotecaEditor({ id }) {
   const imgsLista = el("div", { class: "biblio__imgs-editor" });
   const storageTag = el("span", { class: "biblio__storage-tag" });
 
-  // Actualiza el indicador de tamaño total de imágenes locales.
   async function actualizarTag() {
     const todas = await getAll("biblioteca_imagenes").catch(() => []);
     const bytesTot = todas.reduce((s, r) => s + ((r.blob && r.blob.size) || 0), 0);
@@ -444,6 +622,10 @@ export async function vistaBibliotecaEditor({ id }) {
   actualizarTag();
 
   async function renderImgs() {
+    // Revocar miniaturas previas antes de re-render
+    for (const img of imgsLista.querySelectorAll('img[src^="blob:"]')) {
+      URL.revokeObjectURL(img.src);
+    }
     imgsLista.innerHTML = "";
     if (!imgsActual.length) {
       imgsLista.appendChild(el("p", { class: "muted",
@@ -451,8 +633,7 @@ export async function vistaBibliotecaEditor({ id }) {
       actualizarTag();
       return;
     }
-    for (let i = 0; i < imgsActual.length; i++) {
-      const ref = imgsActual[i];
+    await Promise.all(imgsActual.map(async (ref, i) => {
       const row = await get("biblioteca_imagenes", ref.id);
       const previa = row && row.blob ? URL.createObjectURL(row.blob) : null;
       const card = el("div", { class: "biblio__img-row" }, [
@@ -464,7 +645,7 @@ export async function vistaBibliotecaEditor({ id }) {
             text: `Insertar en HTML: <img data-img-id="${ref.id}" alt="...">` }),
           el("button", { class: "btn btn--ghost btn--sm", type: "button",
             onClick: () => {
-              const altLimpio = (ref.titulo || "").replace(/"/g, "");
+              const altLimpio = escapeAttr(ref.titulo || "");
               const tag = `<img data-img-id="${ref.id}" alt="${altLimpio}" />`;
               if (modoHtml) {
                 const pos = textarea.selectionStart || textarea.value.length;
@@ -480,57 +661,86 @@ export async function vistaBibliotecaEditor({ id }) {
         ]),
         el("button", { class: "btn btn--ghost btn--sm", type: "button",
           onClick: async () => {
-            await del("biblioteca_imagenes", ref.id);
+            // Eliminar también los <img> que la referencian
+            // En WYSIWYG
+            const refId = ref.id;
+            wysiwyg.querySelectorAll(`img[data-img-id="${refId}"]`).forEach((n) => n.remove());
+            // En textarea: regex
+            textarea.value = textarea.value.replace(
+              new RegExp(`<img[^>]*data-img-id=["']${refId.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}["'][^>]*/?>`, "g"),
+              ""
+            );
+            htmlActual = modoHtml ? textarea.value : wysiwyg.innerHTML;
+            await del("biblioteca_imagenes", refId);
             imgsActual.splice(i, 1);
             renderImgs();
           } }, "Eliminar"),
       ]);
       imgsLista.appendChild(card);
-    }
+    }));
     actualizarTag();
   }
   renderImgs();
 
-  const fileInput = el("input", { type: "file", accept: "image/*", multiple: false, hidden: true });
-  fileInput.addEventListener("change", async (ev) => {
+  const fileInput = el("input", { type: "file", accept: "image/*", hidden: true });
+  fileInput.addEventListener("change", (ev) => {
     const file = ev.target.files[0];
     if (!file) return;
-    if (file.size > 5 * 1024 * 1024) {
-      alert("La imagen excede 5 MB. Comprímela antes de subir.");
-      return;
-    }
-    const imgId = `img_${id}_${Date.now()}`;
-    await put("biblioteca_imagenes", {
-      id: imgId, blob: file, mime: file.type,
-      titulo: "", descripcion: "",
-      fecha: new Date().toISOString().slice(0, 10),
-    });
-    imgsActual.push({ id: imgId, titulo: file.name.replace(/\.[^.]+$/, "") });
-    renderImgs();
-    actualizarTag();
-    fileInput.value = "";
+    fileInput.value = "";  // reset inmediato para permitir mismo archivo otra vez
+    // Encolar en el lock para serializar
+    uploadLock = uploadLock.then(async () => {
+      if (file.size > 5 * 1024 * 1024) {
+        alert("La imagen excede 5 MB. Comprímela antes de subir.");
+        return;
+      }
+      const imgId = `img_${id}_${Date.now()}`;
+      await put("biblioteca_imagenes", {
+        id: imgId, blob: file, mime: file.type,
+        titulo: "", descripcion: "",
+        fecha: new Date().toISOString().slice(0, 10),
+      });
+      imgsSubidasSesion.add(imgId);
+      imgsActual.push({ id: imgId, titulo: file.name.replace(/\.[^.]+$/, "") });
+      await renderImgs();
+    }).catch((e) => { console.error("[biblioteca] upload:", e); });
   });
   const btnSubir = el("button", {
     class: "btn btn--ghost btn--sm", type: "button",
     onClick: () => fileInput.click(),
   }, [icono("importar", { tamano: 14 }), "Subir imagen"]);
 
-  // -- Guardar / Restaurar baseline --
+  // -- Guardar / Cancelar / Restaurar baseline --
   async function guardar() {
     // Asegurar que htmlActual refleje el modo activo
     htmlActual = modoHtml ? textarea.value : wysiwyg.innerHTML;
+    // Sanitizar antes de persistir (defensa en profundidad)
+    const htmlLimpio = sanitizarHTML(htmlActual);
     const hoy = new Date().toISOString().slice(0, 10);
     await put("biblioteca_ediciones", {
-      id, html: htmlActual,
+      id, html: htmlLimpio,
       bibliografia: refsActual.filter((r) => r.titulo || r.url),
       imagenes: imgsActual,
       fecha_edicion: hoy,
     });
+    // Las imágenes subidas en esta sesión que fueron descartadas (eliminadas de imgsActual)
+    // ya se borraron en el handler de eliminación. No queda GC pendiente aquí.
+    navegar(`biblioteca/${encodeURIComponent(id)}`);
+  }
+
+  async function cancelar() {
+    // GC: borrar imágenes subidas en esta sesión que NO existían antes y NO se guardaron
+    const idsActuales = new Set(imgsActual.map((i) => i.id));
+    for (const subidaId of imgsSubidasSesion) {
+      if (!imgsPreexistentes.has(subidaId)) {
+        // Era nueva en esta sesión. Si está en imgsActual la guardaría; pero como cancelamos, borrar siempre.
+        try { await del("biblioteca_imagenes", subidaId); } catch (_) { /* ignorar */ }
+      }
+    }
     navegar(`biblioteca/${encodeURIComponent(id)}`);
   }
 
   async function restaurar() {
-    if (!confirm("¿Restaurar al contenido original? Tu edición local se perderá. Las imágenes seguirán almacenadas pero ya no estarán vinculadas a esta entrada.")) return;
+    if (!confirm("¿Restaurar al contenido original? Tu edición local se perderá.")) return;
     await del("biblioteca_ediciones", id);
     navegar(`biblioteca/${encodeURIComponent(id)}`);
   }
@@ -540,7 +750,7 @@ export async function vistaBibliotecaEditor({ id }) {
   mount(el("div", { class: "biblio biblio--editor" }, [
     el("div", { class: "biblio__nav" }, [
       el("button", { class: "btn btn--ghost btn--sm",
-        onClick: () => navegar(`biblioteca/${encodeURIComponent(id)}`) },
+        onClick: cancelar },
         [icono("chevron_izquierda", { tamano: 14 }), "Cancelar"]),
       el("button", { class: "btn btn--primary btn--sm",
         onClick: guardar }, [icono("check", { tamano: 14 }), "Guardar cambios"]),
@@ -572,7 +782,7 @@ export async function vistaBibliotecaEditor({ id }) {
         storageTag,
       ]),
       el("p", { class: "muted",
-        text: "Las imágenes se guardan localmente en tu dispositivo. Usa el botón \"Insertar en cuerpo\" para colocarlas en el texto. Tamaño máximo por imagen: 5 MB." }),
+        text: "Las imágenes se guardan localmente en tu dispositivo. Tamaño máximo por imagen: 5 MB. Si cancelas la edición, las imágenes recién subidas se descartan." }),
       imgsLista, btnSubir, fileInput,
     ]),
     el("section", { class: "biblio__editor-sec" }, [
@@ -580,6 +790,6 @@ export async function vistaBibliotecaEditor({ id }) {
       refsLista, btnAgregarRef,
     ]),
     el("p", { class: "muted",
-      text: "Las ediciones se guardan localmente en este dispositivo. Puedes exportarlas desde Ajustes (futuro)." }),
+      text: "Las ediciones se guardan localmente en este dispositivo. Puedes exportarlas e importarlas desde Ajustes." }),
   ]));
 }

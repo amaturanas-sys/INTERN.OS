@@ -108,6 +108,7 @@ export async function vistaAjustes() {
     const blob = new Blob([JSON.stringify(dump, null, 2)], { type: "application/json" });
     const a = el("a", { href: URL.createObjectURL(blob), download: `eunacom_backup_${Date.now()}.json` });
     document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(a.href), 10_000);
     toast("Banco exportado.", "ok");
   }
 
@@ -144,9 +145,20 @@ export async function vistaAjustes() {
     toast("Empaquetando biblioteca…", "info");
     const ediciones = await getAll("biblioteca_ediciones").catch(() => []);
     const imagenes = await getAll("biblioteca_imagenes").catch(() => []);
-    // Convertir blobs a dataURL en paralelo (limitado para no explotar memoria)
+
+    // Estimar tamaño: blobs × 1.37 (overhead base64). Si excede 100 MB, abortar
+    // con sugerencia (evita JSON.stringify que pueda agotar el heap del WebView).
+    const bytesBlobs = imagenes.reduce((s, r) => s + ((r.blob && r.blob.size) || 0), 0);
+    const estMB = (bytesBlobs * 1.37) / 1048576;
+    if (estMB > 100) {
+      toast(`Export demasiado grande (~${estMB.toFixed(0)} MB). Elimina imágenes o exporta en lotes.`, "error");
+      return;
+    }
+
+    // Serializar imágenes a dataURL — secuencial para no inflar memoria
     const imagenesSer = [];
     for (const img of imagenes) {
+      if (!img || !img.id) continue;
       let dataURL = null;
       if (img.blob) {
         try { dataURL = await blobToDataURL(img.blob); }
@@ -168,18 +180,28 @@ export async function vistaAjustes() {
       ediciones,
       imagenes: imagenesSer,
     };
+    // sin indent: dataURLs ya son enormes, el pretty-print sumaría 20-30% extra.
     const blob = new Blob([JSON.stringify(dump)], { type: "application/json" });
     const a = el("a", {
       href: URL.createObjectURL(blob),
       download: `internos_biblioteca_${Date.now()}.json`,
     });
     document.body.appendChild(a); a.click(); a.remove();
+    // Liberar la blob URL después de un breve delay (el navegador necesita el href para la descarga)
+    setTimeout(() => URL.revokeObjectURL(a.href), 10_000);
     toast(`Biblioteca exportada (${ediciones.length} ediciones, ${imagenesSer.length} imágenes).`, "ok");
   }
 
   async function restaurarBiblioteca(e) {
     const f = e.target.files[0];
     if (!f) return;
+
+    // Límite duro del archivo (protección contra OOM)
+    if (f.size > 200 * 1024 * 1024) {
+      toast(`Archivo demasiado grande (${(f.size / 1048576).toFixed(0)} MB). Máximo 200 MB.`, "error");
+      return;
+    }
+
     let parsed;
     try { parsed = JSON.parse(await f.text()); }
     catch (err) { toast("Archivo inválido: " + (err.message || "no es JSON"), "error"); return; }
@@ -187,28 +209,34 @@ export async function vistaAjustes() {
       toast("El archivo no es un respaldo de biblioteca de InternOS.", "error");
       return;
     }
-    const ediciones = Array.isArray(parsed.ediciones) ? parsed.ediciones : [];
-    const imagenes = Array.isArray(parsed.imagenes) ? parsed.imagenes : [];
+    // Validar versión (compatibilidad hacia futuro)
+    const versionExport = Number(parsed.version) || 0;
+    if (versionExport > 1) {
+      toast(`Respaldo de versión ${versionExport} no compatible con esta versión de InternOS. Actualiza la app.`, "error");
+      return;
+    }
+    const ediciones = (Array.isArray(parsed.ediciones) ? parsed.ediciones : [])
+      .filter((x) => x && typeof x === "object" && typeof x.id === "string" && x.id);
+    const imagenes = (Array.isArray(parsed.imagenes) ? parsed.imagenes : [])
+      .filter((x) => x && typeof x === "object" && typeof x.id === "string" && x.id);
     if (!ediciones.length && !imagenes.length) {
-      toast("El archivo no contiene ediciones ni imágenes.", "error");
+      toast("El archivo no contiene ediciones ni imágenes válidas.", "error");
       return;
     }
     toast(`Restaurando ${ediciones.length} ediciones e ${imagenes.length} imágenes…`, "info");
     try {
       if (ediciones.length) await bulkPut("biblioteca_ediciones", ediciones);
-      // Imágenes: reconstruir Blob desde dataURL una por una
       const imgsRestauradas = [];
       for (const img of imagenes) {
         if (!img.dataURL) continue;
         try {
           const blob = await dataURLToBlob(img.dataURL);
           imgsRestauradas.push({
-            id: img.id,
-            blob,
-            mime: img.mime,
-            titulo: img.titulo,
-            descripcion: img.descripcion,
-            fecha: img.fecha,
+            id: img.id, blob,
+            mime: img.mime || blob.type || "image/png",
+            titulo: img.titulo || "",
+            descripcion: img.descripcion || "",
+            fecha: img.fecha || null,
           });
         } catch (_) { /* salta imagen corrupta */ }
       }
