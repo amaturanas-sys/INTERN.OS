@@ -1007,6 +1007,45 @@ textarea { resize: vertical; line-height: 1.5; }
   background: rgba(180, 83, 9, .14);
   border-color: rgba(180, 83, 9, .35);
 }
+.biblio__badge--custom {
+  color: #2f5d3a;
+  background: rgba(46, 139, 87, .12);
+  border-color: rgba(46, 139, 87, .35);
+}
+
+/* Botón "+ Añadir subtema" al final de cada unidad */
+.biblio__item--add {
+  font-weight: 600;
+  color: var(--b-accent-d);
+  background: transparent;
+  border-top: 1px dashed var(--b-line-2);
+  border-bottom: 0;
+  font-style: italic;
+  opacity: 0.85;
+}
+.biblio__item--add:hover {
+  background: var(--b-accent-soft);
+  opacity: 1;
+}
+
+/* Modal: input de título de subtema nuevo */
+.biblio__nuevo-titulo {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 15px;
+  font-family: inherit;
+  background: var(--b-card);
+  border: 1px solid var(--b-line-2);
+  border-radius: 6px;
+  color: var(--b-ink);
+  box-sizing: border-box;
+  margin-top: 8px;
+}
+.biblio__nuevo-titulo:focus {
+  outline: none;
+  border-color: var(--b-accent);
+  box-shadow: 0 0 0 3px var(--b-accent-ring);
+}
 .biblio__entrada-cuerpo img {
   max-width: 100%; height: auto; display: block;
   margin: 12px auto;

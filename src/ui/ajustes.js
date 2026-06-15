@@ -31,6 +31,7 @@ export async function vistaAjustes() {
   ]);
   const nEdiciones = await count("biblioteca_ediciones").catch(() => 0);
   const nImagenes = await count("biblioteca_imagenes").catch(() => 0);
+  const nCustom = await count("biblioteca_custom").catch(() => 0);
   const bytesImagenes = await tamanoImagenesBytes();
   const fechaSeed = await getConfig("seed_fecha", "—");
   const objetivo = await getConfig("objetivo_diario", 30);
@@ -47,6 +48,7 @@ export async function vistaAjustes() {
     el("dl", { class: "datos" }, [
       fila("Preguntas", nPreg), fila("Casos", nCasos), fila("Definiciones", nDefs),
       fila("Biblioteca · ediciones locales", nEdiciones),
+      fila("Biblioteca · subtemas propios", nCustom),
       fila("Biblioteca · imágenes indexadas", `${nImagenes} (${(bytesImagenes / 1048576).toFixed(1)} MB)`),
       fila("Banco cargado", fechaSeed === "—" ? "—" : new Date(fechaSeed).toLocaleString()),
       fila("Almacenamiento", estimacion), fila("Estado", offline),
@@ -86,7 +88,7 @@ export async function vistaAjustes() {
       ]),
     ]),
     el("p", { class: "muted", text:
-      `Incluye tus ediciones locales (${nEdiciones}) e imágenes indexadas (${nImagenes}, ${(bytesImagenes / 1048576).toFixed(1)} MB en base64). Usa este respaldo para mover tu biblioteca a otro dispositivo.` }),
+      `Incluye tus ediciones locales (${nEdiciones}), subtemas propios (${nCustom}) e imágenes indexadas (${nImagenes}, ${(bytesImagenes / 1048576).toFixed(1)} MB en base64). Usa este respaldo para mover tu biblioteca a otro dispositivo.` }),
 
     el("h3", { text: "Mantenimiento" }),
     el("div", { class: "runner__acciones" }, [
@@ -170,6 +172,7 @@ export async function vistaAjustes() {
     toast("Empaquetando biblioteca…", "info");
     const ediciones = await getAll("biblioteca_ediciones").catch(() => []);
     const imagenes = await getAll("biblioteca_imagenes").catch(() => []);
+    const customs = await getAll("biblioteca_custom").catch(() => []);
 
     // Estimar tamaño: blobs × 1.37 (overhead base64). Si excede 100 MB, abortar
     // con sugerencia (evita JSON.stringify que pueda agotar el heap del WebView).
@@ -200,9 +203,10 @@ export async function vistaAjustes() {
     }
     const dump = {
       tipo: "internos-biblioteca",
-      version: 1,
+      version: 2,
       exportado: new Date().toISOString(),
       ediciones,
+      customs,
       imagenes: imagenesSer,
     };
     // sin indent: dataURLs ya son enormes, el pretty-print sumaría 20-30% extra.
@@ -214,7 +218,7 @@ export async function vistaAjustes() {
     document.body.appendChild(a); a.click(); a.remove();
     // Liberar la blob URL después de un breve delay (el navegador necesita el href para la descarga)
     setTimeout(() => URL.revokeObjectURL(a.href), 10_000);
-    toast(`Biblioteca exportada (${ediciones.length} ediciones, ${imagenesSer.length} imágenes).`, "ok");
+    toast(`Biblioteca exportada (${ediciones.length} ediciones, ${customs.length} subtemas propios, ${imagenesSer.length} imágenes).`, "ok");
   }
 
   async function restaurarBiblioteca(e) {
@@ -236,21 +240,24 @@ export async function vistaAjustes() {
     }
     // Validar versión (compatibilidad hacia futuro)
     const versionExport = Number(parsed.version) || 0;
-    if (versionExport > 1) {
+    if (versionExport > 2) {
       toast(`Respaldo de versión ${versionExport} no compatible con esta versión de InternOS. Actualiza la app.`, "error");
       return;
     }
     const ediciones = (Array.isArray(parsed.ediciones) ? parsed.ediciones : [])
       .filter((x) => x && typeof x === "object" && typeof x.id === "string" && x.id);
+    const customs = (Array.isArray(parsed.customs) ? parsed.customs : [])
+      .filter((x) => x && typeof x === "object" && typeof x.id === "string" && x.id && typeof x.unidad === "string" && typeof x.titulo === "string");
     const imagenes = (Array.isArray(parsed.imagenes) ? parsed.imagenes : [])
       .filter((x) => x && typeof x === "object" && typeof x.id === "string" && x.id);
-    if (!ediciones.length && !imagenes.length) {
-      toast("El archivo no contiene ediciones ni imágenes válidas.", "error");
+    if (!ediciones.length && !customs.length && !imagenes.length) {
+      toast("El archivo no contiene ediciones, subtemas ni imágenes válidas.", "error");
       return;
     }
-    toast(`Restaurando ${ediciones.length} ediciones e ${imagenes.length} imágenes…`, "info");
+    toast(`Restaurando ${ediciones.length} ediciones, ${customs.length} subtemas e ${imagenes.length} imágenes…`, "info");
     try {
       if (ediciones.length) await bulkPut("biblioteca_ediciones", ediciones);
+      if (customs.length) await bulkPut("biblioteca_custom", customs);
       const imgsRestauradas = [];
       for (const img of imagenes) {
         if (!img.dataURL) continue;
@@ -266,7 +273,7 @@ export async function vistaAjustes() {
         } catch (_) { /* salta imagen corrupta */ }
       }
       if (imgsRestauradas.length) await bulkPut("biblioteca_imagenes", imgsRestauradas);
-      toast(`Biblioteca restaurada: ${ediciones.length} ediciones, ${imgsRestauradas.length} imágenes.`, "ok");
+      toast(`Biblioteca restaurada: ${ediciones.length} ediciones, ${customs.length} subtemas, ${imgsRestauradas.length} imágenes.`, "ok");
       navegar("ajustes");
     } catch (err) {
       toast(`Falló al restaurar biblioteca: ${err && err.message || "error"}`, "error");
@@ -276,13 +283,13 @@ export async function vistaAjustes() {
   function borrarTodo() {
     modal("Borrar todos los datos",
       el("p", { text:
-        "Se eliminarán preguntas, casos, definiciones, progreso, ediciones de biblioteca e imágenes indexadas de este dispositivo. El banco inicial se volverá a cargar. ¿Continuar?" }),
+        "Se eliminarán preguntas, casos, definiciones, progreso, ediciones de biblioteca, subtemas propios e imágenes indexadas de este dispositivo. El banco inicial se volverá a cargar. ¿Continuar?" }),
       [
         { label: "Cancelar", clase: "btn--ghost" },
         { label: "Borrar", clase: "btn--danger", onClick: async () => {
           for (const s of [
             "preguntas", "casos_clinicos", "definiciones", "progreso_usuario", "repaso",
-            "biblioteca_ediciones", "biblioteca_imagenes",
+            "biblioteca_ediciones", "biblioteca_imagenes", "biblioteca_custom",
           ]) {
             try { await clearStore(s); } catch (_) { /* store puede no existir en DB antigua */ }
           }

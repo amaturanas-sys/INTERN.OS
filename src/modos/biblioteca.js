@@ -6,15 +6,18 @@
 //   fecha_edicion, fecha_actualizacion}: overrides locales por entrada.
 // - IndexedDB store "biblioteca_imagenes" {id, blob, mime, titulo, descripcion,
 //   fecha}: imágenes indexadas, referenciadas por <img data-img-id="X">.
+// - IndexedDB store "biblioteca_custom" {id, unidad, titulo, html, bibliografia,
+//   imagenes, fecha_creacion, fecha_actualizacion}: subtemas creados por el
+//   usuario dentro de unidades existentes.
 //
-// El render mezcla baseline + edición; el último fecha_actualizacion gana.
+// El render mezcla baseline + custom + ediciones; el último fecha_actualizacion gana.
 //
 // Endurecimiento (v1.7.2):
 // - Todo HTML que se inyecta vía innerHTML pasa por sanitizarHTML().
 // - Blob URLs se trackean por vista y se liberan en el evento "vista:cambia".
 // - El buscador no parsea HTML (strip por regex + memoiza texto plano).
 
-import { el, mount } from "../ui/dom.js";
+import { el, mount, toast, modal } from "../ui/dom.js";
 import { navegar } from "../ui/router.js";
 import { icono } from "../ui/iconos.js";
 import { get, getAll, put, del } from "../db/db.js";
@@ -124,8 +127,39 @@ async function cargarBase() {
   return _data;
 }
 
-// Combina entrada base con su edición local (si existe).
+// Carga TODAS las entradas combinando: baseline JSON + custom IndexedDB.
+// Devuelve un objeto con la misma forma que cargarBase pero con `entradas`
+// extendida con las custom (marcadas con `_custom: true`).
+async function cargarEntradas() {
+  const base = await cargarBase();
+  const customs = await getAll("biblioteca_custom").catch(() => []);
+  const entradas = base.entradas.concat(
+    customs.map((c) => ({ ...c, _custom: true }))
+  );
+  return { meta: base.meta, entradas };
+}
+
+// Combina entrada base con su edición local (si existe), o devuelve
+// la entrada custom si el id corresponde a una creada por el usuario.
 async function resolverEntrada(id) {
+  // Primero buscar en custom (las creadas por el usuario tienen prioridad).
+  const custom = await get("biblioteca_custom", id);
+  if (custom) {
+    // Las custom pueden tener su propia "edición" sobreimpresa (raro pero soportado).
+    const override = await get("biblioteca_ediciones", id);
+    if (override) {
+      return {
+        ...custom,
+        html: override.html ?? custom.html,
+        bibliografia: override.bibliografia ?? custom.bibliografia ?? [],
+        imagenes: override.imagenes ?? custom.imagenes ?? [],
+        fecha_actualizacion: override.fecha_edicion || custom.fecha_actualizacion,
+        _custom: true,
+        _editado: true,
+      };
+    }
+    return { ...custom, _custom: true, _editado: false };
+  }
   const data = await cargarBase();
   const base = data.entradas.find((e) => e.id === id);
   if (!base) return null;
@@ -139,6 +173,57 @@ async function resolverEntrada(id) {
     fecha_actualizacion: override.fecha_edicion || base.fecha_actualizacion,
     _editado: true,
   };
+}
+
+// ===========================================================
+// Plantilla para nuevas entradas custom
+// ===========================================================
+// Replica el formato estándar de las entradas redactadas (4 secciones).
+function plantillaSubtema(titulo) {
+  const t = (titulo || "Nuevo subtema").trim();
+  return `<div class="section-subsection">
+<h3>Fisiopatología breve</h3>
+<p>Describe el mecanismo central de <strong>${escapeAttr(t)}</strong> en 2-4 frases.</p>
+</div>
+
+<div class="section-subsection">
+<h3>Diagnóstico clínico</h3>
+<p>Síntomas, signos y criterios clínicos. Usa listas para enumerar:</p>
+<ul>
+<li>Manifestación 1</li>
+<li>Manifestación 2</li>
+<li>Manifestación 3</li>
+</ul>
+</div>
+
+<div class="section-subsection">
+<h3>Diagnóstico por exámenes</h3>
+<ul>
+<li><strong>Laboratorio</strong>: pruebas relevantes</li>
+<li><strong>Imágenes</strong>: estudios indicados</li>
+<li><strong>Otros</strong>: tests específicos</li>
+</ul>
+</div>
+
+<div class="section-subsection">
+<h3>Manejo</h3>
+<p>Aproximación terapéutica:</p>
+<ul>
+<li><strong>Medidas generales</strong>: contexto, soporte</li>
+<li><strong>Farmacológico</strong>: agentes, dosis, vías</li>
+<li><strong>Seguimiento</strong>: controles y derivaciones</li>
+</ul>
+<p class="muted">Edita esta plantilla con la información que corresponda. Recuerda añadir bibliografía en la sección correspondiente al final del editor.</p>
+</div>`;
+}
+
+// Genera un ID URL-safe único para entradas custom.
+function generarIdCustom(titulo) {
+  const slug = norm(titulo || "subtema")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 40) || "subtema";
+  return `custom-${slug}-${Date.now().toString(36)}`;
 }
 
 function norm(s) {
@@ -201,10 +286,82 @@ function liberarBlobsVista() {
 document.addEventListener("vista:cambia", liberarBlobsVista);
 
 // ===========================================================
+// Crear nuevo subtema custom dentro de una unidad
+// ===========================================================
+function abrirDialogoNuevoSubtema(unidad) {
+  const input = el("input", {
+    type: "text", class: "biblio__nuevo-titulo",
+    placeholder: "Título del subtema",
+    maxlength: "120", autocomplete: "off",
+  });
+  // Auto-foco tras montar el modal
+  setTimeout(() => input.focus(), 50);
+
+  const contenido = el("div", {}, [
+    el("p", { class: "muted", text:
+      `Se creará una entrada nueva dentro de "${unidad}" con una plantilla estándar ` +
+      `(Fisiopatología → Clínica → Exámenes → Manejo) lista para editar.` }),
+    el("label", { class: "form__row" }, [
+      el("span", { class: "form__label", text: "Título" }),
+      input,
+    ]),
+  ]);
+
+  // Manejador Enter
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") {
+      e.preventDefault();
+      crear();
+    }
+  });
+
+  // Devuelve false (sincrónico) si la validación impide crear,
+  // para que el modal helper mantenga el diálogo abierto.
+  function crear() {
+    const titulo = (input.value || "").trim();
+    if (!titulo) {
+      toast("El título es obligatorio.", "error");
+      input.focus();
+      return false;
+    }
+    if (titulo.length < 3) {
+      toast("El título debe tener al menos 3 caracteres.", "error");
+      input.focus();
+      return false;
+    }
+    const id = generarIdCustom(titulo);
+    const hoy = new Date().toISOString().slice(0, 10);
+    // Fire-and-forget de la persistencia: el modal se cierra inmediatamente
+    // y la navegación ocurre cuando el put resuelve.
+    put("biblioteca_custom", {
+      id,
+      unidad,
+      titulo,
+      html: plantillaSubtema(titulo),
+      bibliografia: [],
+      imagenes: [],
+      fecha_creacion: hoy,
+      fecha_actualizacion: hoy,
+    }).then(() => {
+      toast(`Subtema "${titulo}" creado en ${unidad}.`, "ok");
+      navegar(`biblioteca/${encodeURIComponent(id)}/editar`);
+    }).catch((e) => {
+      console.error("[biblioteca] crear subtema:", e);
+      toast("No se pudo crear el subtema: " + (e.message || "error"), "error");
+    });
+  }
+
+  modal(`Nuevo subtema · ${unidad}`, contenido, [
+    { label: "Cancelar", clase: "btn--ghost" },
+    { label: "Crear y editar", clase: "btn--primary", onClick: crear },
+  ]);
+}
+
+// ===========================================================
 // Landing
 // ===========================================================
 export async function vistaBiblioteca() {
-  const data = await cargarBase();
+  const data = await cargarEntradas();
   const ediciones = await getAll("biblioteca_ediciones");
   const editadosIds = new Set(ediciones.map((e) => e.id));
 
@@ -213,7 +370,9 @@ export async function vistaBiblioteca() {
     if (!unidadesMap.has(e.unidad)) unidadesMap.set(e.unidad, []);
     unidadesMap.get(e.unidad).push(e);
   }
+  // Asegurar todas las unidades del meta aparezcan aunque no tengan baseline (para añadir custom).
   const ordenUnidades = (data.meta && data.meta.unidades) || [...unidadesMap.keys()];
+  for (const u of ordenUnidades) if (!unidadesMap.has(u)) unidadesMap.set(u, []);
 
   const buscador = el("input", {
     type: "search", class: "biblio__buscador",
@@ -225,17 +384,20 @@ export async function vistaBiblioteca() {
 
   for (const unidad of ordenUnidades) {
     const items = unidadesMap.get(unidad);
-    if (!items || !items.length) continue;
+    if (!items) continue;
     const lista = el("div", { class: "biblio__lista" },
       items.map((it) => el("button", {
         class: "biblio__item", type: "button",
         onClick: () => navegar(`biblioteca/${encodeURIComponent(it.id)}`),
       }, [
         el("span", { class: "biblio__item-titulo", text: it.titulo }),
-        it.placeholder
-          ? el("span", { class: "biblio__badge biblio__badge--wip",
-              text: "WIP", title: "Contenido placeholder — pendiente de redacción" })
-          : null,
+        it._custom
+          ? el("span", { class: "biblio__badge biblio__badge--custom",
+              text: "propio", title: "Subtema creado por ti" })
+          : (it.placeholder
+              ? el("span", { class: "biblio__badge biblio__badge--wip",
+                  text: "WIP", title: "Contenido placeholder — pendiente de redacción" })
+              : null),
         editadosIds.has(it.id)
           ? el("span", { class: "biblio__badge", text: "editado",
               title: "Tiene edición local" })
@@ -243,6 +405,18 @@ export async function vistaBiblioteca() {
         icono("chevron_derecha", { tamano: 14, clase: "biblio__item-flecha" }),
       ])),
     );
+
+    // Botón "Añadir subtema" al final de la lista de cada unidad
+    const btnAdd = el("button", {
+      class: "biblio__item biblio__item--add", type: "button",
+      onClick: (e) => { e.stopPropagation(); abrirDialogoNuevoSubtema(unidad); },
+      title: `Añadir un subtema personalizado a ${unidad}`,
+    }, [
+      icono("plus", { tamano: 14, clase: "biblio__item-flecha" }),
+      el("span", { class: "biblio__item-titulo", text: "Añadir subtema…" }),
+    ]);
+    lista.appendChild(btnAdd);
+
     indice.appendChild(el("details", { class: "biblio__unidad" }, [
       el("summary", { class: "biblio__unidad-titulo" }, [
         el("span", { text: unidad }),
@@ -342,11 +516,45 @@ export async function vistaBibliotecaEntrada({ id }) {
     return;
   }
 
-  const data = await cargarBase();
+  const data = await cargarEntradas();
   const mismaUnidad = data.entradas.filter((e) => e.unidad === entrada.unidad);
   const idx = mismaUnidad.findIndex((e) => e.id === entrada.id);
   const prev = mismaUnidad[idx - 1];
   const next = mismaUnidad[idx + 1];
+
+  async function eliminarCustom() {
+    if (!entrada._custom) return;
+    modal(
+      `Eliminar "${entrada.titulo}"`,
+      el("p", { text:
+        "Esta acción borrará definitivamente este subtema personalizado, su contenido y sus imágenes asociadas en este dispositivo. " +
+        "Esta acción no se puede deshacer." }),
+      [
+        { label: "Cancelar", clase: "btn--ghost" },
+        { label: "Eliminar", clase: "btn--danger", onClick: async () => {
+          try {
+            // Borrar imágenes vinculadas (las cuyo id comienza con "img_<entradaId>_")
+            const imgs = await getAll("biblioteca_imagenes").catch(() => []);
+            for (const img of imgs) {
+              if (img.id && img.id.startsWith(`img_${id}_`)) {
+                await del("biblioteca_imagenes", img.id);
+              }
+            }
+            // Borrar edición local si la tenía
+            await del("biblioteca_ediciones", id).catch(() => {});
+            // Borrar la entrada custom
+            await del("biblioteca_custom", id);
+            invalidarCacheTexto(id);
+            toast("Subtema eliminado.", "ok");
+            navegar("biblioteca");
+          } catch (e) {
+            console.error("[biblioteca] eliminar:", e);
+            toast("No se pudo eliminar: " + (e.message || "error"), "error");
+          }
+        } },
+      ]
+    );
+  }
 
   function navBar() {
     return el("div", { class: "biblio__nav" }, [
@@ -356,6 +564,12 @@ export async function vistaBibliotecaEntrada({ id }) {
       el("button", { class: "btn btn--primary btn--sm",
         onClick: () => navegar(`biblioteca/${encodeURIComponent(id)}/editar`) },
         [icono("editar", { tamano: 14 }), "Editar"]),
+      entrada._custom
+        ? el("button", { class: "btn btn--danger btn--sm",
+            onClick: eliminarCustom,
+            title: "Eliminar este subtema personalizado" },
+            [icono("x", { tamano: 14 }), "Eliminar"])
+        : null,
       prev ? el("button", { class: "btn btn--ghost btn--sm",
         onClick: () => navegar(`biblioteca/${encodeURIComponent(prev.id)}`),
         title: prev.titulo }, "← Anterior") : null,
@@ -725,12 +939,29 @@ export async function vistaBibliotecaEditor({ id }) {
     // Sanitizar antes de persistir (defensa en profundidad)
     const htmlLimpio = sanitizarHTML(htmlActual);
     const hoy = new Date().toISOString().slice(0, 10);
-    await put("biblioteca_ediciones", {
-      id, html: htmlLimpio,
-      bibliografia: refsActual.filter((r) => r.titulo || r.url),
-      imagenes: imgsActual,
-      fecha_edicion: hoy,
-    });
+    const refsLimpias = refsActual.filter((r) => r.titulo || r.url);
+    if (entrada._custom) {
+      // Custom: persistir en biblioteca_custom preservando unidad/titulo/fecha_creacion.
+      const actual = await get("biblioteca_custom", id);
+      await put("biblioteca_custom", {
+        ...(actual || {}),
+        id,
+        unidad: entrada.unidad,
+        titulo: entrada.titulo,
+        html: htmlLimpio,
+        bibliografia: refsLimpias,
+        imagenes: imgsActual,
+        fecha_actualizacion: hoy,
+        fecha_creacion: (actual && actual.fecha_creacion) || entrada.fecha_creacion || hoy,
+      });
+    } else {
+      await put("biblioteca_ediciones", {
+        id, html: htmlLimpio,
+        bibliografia: refsLimpias,
+        imagenes: imgsActual,
+        fecha_edicion: hoy,
+      });
+    }
     // Invalida la cache de texto plano para que la próxima búsqueda
     // refleje el contenido editado.
     invalidarCacheTexto(id);
@@ -765,7 +996,7 @@ export async function vistaBibliotecaEditor({ id }) {
         [icono("chevron_izquierda", { tamano: 14 }), "Cancelar"]),
       el("button", { class: "btn btn--primary btn--sm",
         onClick: guardar }, [icono("check", { tamano: 14 }), "Guardar cambios"]),
-      entrada._editado
+      (entrada._editado && !entrada._custom)
         ? el("button", { class: "btn btn--ghost btn--sm",
             onClick: restaurar }, "Restaurar original")
         : null,
@@ -774,7 +1005,9 @@ export async function vistaBibliotecaEditor({ id }) {
       el("span", { class: "biblio__entrada-unidad", text: entrada.unidad }),
       el("h2", { text: `Editando: ${entrada.titulo}` }),
       el("p", { class: "muted biblio__fecha",
-        text: `Última actualización: ${entrada.fecha_actualizacion}${entrada._editado ? " (edición local)" : " (versión original)"}` }),
+        text: `Última actualización: ${entrada.fecha_actualizacion}${
+          entrada._custom ? " (subtema propio)" :
+          entrada._editado ? " (edición local)" : " (versión original)"}` }),
     ]),
     el("section", { class: "biblio__editor-sec" }, [
       el("div", { class: "biblio__editor-cab" }, [
