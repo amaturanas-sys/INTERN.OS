@@ -2,7 +2,7 @@
 // para que la app funcione 100% offline sin librerías externas.
 
 const DB_NAME = "eunacom_db";
-const DB_VERSION = 2;
+const DB_VERSION = 3;
 
 const STORES = {
   preguntas: { keyPath: "id_unico" },
@@ -13,6 +13,7 @@ const STORES = {
   config: { keyPath: "key" },
   biblioteca_ediciones: { keyPath: "id" },  // edición local del usuario por id de entrada
   biblioteca_imagenes: { keyPath: "id" },   // blob de imágenes indexadas en entradas
+  biblioteca_custom: { keyPath: "id" },     // entradas creadas por el usuario (subtemas custom por unidad)
 };
 
 let _dbPromise = null;
@@ -70,6 +71,12 @@ function runMigrations(db, oldVersion) {
     }
     if (!db.objectStoreNames.contains("biblioteca_imagenes")) {
       db.createObjectStore("biblioteca_imagenes", { keyPath: "id" });
+    }
+  }
+  // v2 → v3: store para subtemas custom creados por el usuario.
+  if (oldVersion < 3) {
+    if (!db.objectStoreNames.contains("biblioteca_custom")) {
+      db.createObjectStore("biblioteca_custom", { keyPath: "id" });
     }
   }
 }
