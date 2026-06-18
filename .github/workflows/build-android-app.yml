@@ -1,0 +1,200 @@
+name: Build Native Android APK (Capacitor)
+
+# Compila la app como APK nativa con assets embebidos (Capacitor).
+# A diferencia de la TWA, esta versión NO depende de la URL pública: todos
+# los JS/CSS/JSON/imágenes viajan dentro del .apk, por lo que el dispositivo
+# puede instalar y usar la app sin conexión jamás.
+#
+# Triggers:
+# - push a main → build + (re)crea release "v<VERSION>-native"
+# - workflow_dispatch (manual)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "VERSION"
+      - "index.html"
+      - "manifest.webmanifest"
+      - "service-worker.js"
+      - "assets/**"
+      - "data/**"
+      - "src/**"
+      - "styles/**"
+      - "capacitor.config.json"
+      - "package.json"
+      - "scripts/build-mobile.mjs"
+      - ".github/workflows/build-android-app.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # crear/actualizar releases
+  actions: read
+
+concurrency:
+  group: build-android-app
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build APK (debug-signed, offline-first)
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Leer versión del repo
+        id: ver
+        run: |
+          APP_VERSION=$(cat VERSION | tr -d '[:space:]')
+          echo "version=${APP_VERSION}" >> "$GITHUB_OUTPUT"
+          echo "Compilando APK nativa v${APP_VERSION}"
+
+      - name: Setup Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Setup Java 17 (Temurin)
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
+        with:
+          cmdline-tools-version: "11076708"
+
+      - name: Aceptar licencias del SDK
+        run: yes | sdkmanager --licenses >/dev/null 2>&1 || true
+
+      - name: Instalar dependencias npm
+        run: npm install --no-audit --no-fund
+
+      - name: Empaquetar assets web a dist/
+        run: npm run build:web
+
+      - name: Generar proyecto android/
+        run: |
+          # cap add android lee capacitor.config.json y crea android/ desde cero.
+          npx cap add android
+          # Aplica dist/ → android/app/src/main/assets/public/
+          npx cap sync android
+
+      - name: Inyectar versionName y versionCode al APK
+        run: |
+          V="${{ steps.ver.outputs.version }}"
+          # versionCode debe ser entero monótono creciente; usamos run_number.
+          CODE="${{ github.run_number }}"
+          GRADLE_FILE="android/app/build.gradle"
+          # Reemplazar líneas existentes (Capacitor genera versionCode 1 y versionName "1.0")
+          sed -i -E "s/versionCode +[0-9]+/versionCode ${CODE}/" "$GRADLE_FILE"
+          sed -i -E "s/versionName +\"[^\"]+\"/versionName \"${V}\"/" "$GRADLE_FILE"
+          echo "--- versionCode/Name aplicados ---"
+          grep -E "versionCode|versionName" "$GRADLE_FILE"
+
+      - name: Generar iconos de launcher desde icon-512
+        run: |
+          # @capacitor/assets v3 espera tres PNG en --assetPath:
+          #  - icon-only.png        (launcher legacy)
+          #  - icon-foreground.png  (Android adaptive, capa frontal)
+          #  - icon-background.png  (Android adaptive, capa de fondo)
+          # Como nuestro PNG base es 512×512 y el plugin prefiere 1024×1024,
+          # lo escalamos previamente con ImageMagick (incluido en ubuntu-latest).
+          mkdir -p resources
+          convert assets/icon-512.png -resize 1024x1024 resources/icon-only.png
+          if [ -f assets/icon-maskable-512.png ]; then
+            convert assets/icon-maskable-512.png -resize 1024x1024 resources/icon-foreground.png
+          else
+            cp resources/icon-only.png resources/icon-foreground.png
+          fi
+          convert -size 1024x1024 xc:"#1a1208" resources/icon-background.png
+          # `|| true`: si la generación falla, conservamos el launcher por defecto
+          # de Capacitor (no rompe el build).
+          npx @capacitor/assets generate --android --assetPath resources || \
+            echo "::warning::@capacitor/assets falló — APK conservará iconos por defecto"
+
+      - name: Compilar APK debug
+        run: |
+          cd android
+          chmod +x ./gradlew
+          ./gradlew --no-daemon assembleDebug
+
+      - name: Localizar y renombrar APK
+        id: apk
+        run: |
+          APK_SRC=$(find android/app/build/outputs/apk/debug -name "*.apk" | head -1)
+          if [ -z "$APK_SRC" ]; then
+            echo "::error::No se generó ningún APK"
+            exit 1
+          fi
+          V="${{ steps.ver.outputs.version }}"
+          C="${{ github.run_number }}"
+          APK_NAME="internos-native-v${V}-${C}.apk"
+          cp "$APK_SRC" "$APK_NAME"
+          echo "apk_path=${APK_NAME}" >> "$GITHUB_OUTPUT"
+          echo "apk_name=${APK_NAME}" >> "$GITHUB_OUTPUT"
+          ls -la "$APK_NAME"
+          echo "SHA256:"
+          sha256sum "$APK_NAME"
+
+      - name: Subir APK como artefacto (siempre disponible 90 días)
+        uses: actions/upload-artifact@v4
+        with:
+          name: internos-native-apk-v${{ steps.ver.outputs.version }}-${{ github.run_number }}
+          path: ${{ steps.apk.outputs.apk_path }}
+          retention-days: 90
+          if-no-files-found: error
+
+      - name: Publicar / actualizar GitHub Release
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          V="${{ steps.ver.outputs.version }}"
+          TAG="v${V}-native"
+          NOTES_FILE=$(mktemp)
+          cat > "$NOTES_FILE" <<EOF
+          # InternOS v${V} — Build Android nativo (offline-first)
+
+          APK con **todos los assets embebidos**: instálalo una vez y la app
+          funcionará sin conexión en este dispositivo (no requiere abrir
+          GitHub Pages nunca).
+
+          ## Instalación
+
+          1. Descarga el archivo **${{ steps.apk.outputs.apk_name }}** abajo
+             en el teléfono Android.
+          2. Abre el archivo desde el administrador de archivos / Descargas.
+          3. Acepta el aviso "Instalar aplicaciones desconocidas" si tu
+             Android lo pide (típicamente Ajustes → Seguridad → permitir al
+             navegador o gestor de archivos instalar APKs).
+          4. La app se llama **InternOS** y aparece en el cajón de apps.
+
+          ## Notas técnicas
+
+          - Firmada con la clave debug por defecto de Capacitor — perfecta
+            para uso personal pero no apta para Play Store.
+          - Empaquetado: **Capacitor 6 + WebView Android**.
+          - Package ID: \`cl.internos.native\` (distinto al TWA \`cl.internos.app\`,
+            para que ambos puedan convivir).
+          - Build id: \`${{ github.run_number }}\` · commit \`${{ github.sha }}\`.
+          EOF
+
+          # Si el release ya existe (mismo tag), lo borramos y recreamos
+          # con el binario fresco.
+          if gh release view "${TAG}" --repo "${{ github.repository }}" >/dev/null 2>&1; then
+            gh release delete "${TAG}" --repo "${{ github.repository }}" --yes --cleanup-tag
+          fi
+          gh release create "${TAG}" \
+            --repo "${{ github.repository }}" \
+            --title "InternOS v${V} (Android nativo build ${{ github.run_number }})" \
+            --notes-file "$NOTES_FILE" \
+            "${{ steps.apk.outputs.apk_path }}"
+
+          echo "Release publicado: https://github.com/${{ github.repository }}/releases/tag/${TAG}"

@@ -1,0 +1,21 @@
+{
+  "name": "internos-mobile",
+  "version": "1.9.0",
+  "description": "Build nativo Android de InternOS (Capacitor). El PWA web sigue vivo en la raíz del repo.",
+  "private": true,
+  "scripts": {
+    "build:web": "node scripts/build-mobile.mjs",
+    "cap:add": "cap add android",
+    "cap:sync": "cap sync android",
+    "android:build:debug": "cd android && ./gradlew assembleDebug",
+    "android:full": "npm run build:web && npx cap sync android && npm run android:build:debug"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^6.2.0"
+  }
+}
