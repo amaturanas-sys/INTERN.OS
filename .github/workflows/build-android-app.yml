@@ -98,26 +98,33 @@ jobs:
           echo "--- versionCode/Name aplicados ---"
           grep -E "versionCode|versionName" "$GRADLE_FILE"
 
-      - name: Generar iconos de launcher desde icon-512
+      - name: Generar iconos de launcher (opcional, best-effort)
+        # ubuntu-latest ya no trae ImageMagick preinstalado, así que el paso es
+        # tolerante a fallos: si algo no encaja, el APK usa el ícono por defecto
+        # de Capacitor (verde) y el build continúa. Para iconos custom basta
+        # con que apt-get y @capacitor/assets resuelvan sin errores.
+        continue-on-error: true
         run: |
-          # @capacitor/assets v3 espera tres PNG en --assetPath:
-          #  - icon-only.png        (launcher legacy)
-          #  - icon-foreground.png  (Android adaptive, capa frontal)
-          #  - icon-background.png  (Android adaptive, capa de fondo)
-          # Como nuestro PNG base es 512×512 y el plugin prefiere 1024×1024,
-          # lo escalamos previamente con ImageMagick (incluido en ubuntu-latest).
+          set +e
+          # 1. Instalar ImageMagick si no está
+          if ! command -v convert >/dev/null 2>&1; then
+            sudo apt-get update -qq
+            sudo apt-get install -y --no-install-recommends imagemagick
+          fi
+          if ! command -v convert >/dev/null 2>&1; then
+            echo "::warning::ImageMagick no disponible — saltando iconos custom"
+            exit 0
+          fi
           mkdir -p resources
-          convert assets/icon-512.png -resize 1024x1024 resources/icon-only.png
+          convert assets/icon-512.png -resize 1024x1024 resources/icon-only.png || exit 0
           if [ -f assets/icon-maskable-512.png ]; then
-            convert assets/icon-maskable-512.png -resize 1024x1024 resources/icon-foreground.png
+            convert assets/icon-maskable-512.png -resize 1024x1024 resources/icon-foreground.png || cp resources/icon-only.png resources/icon-foreground.png
           else
             cp resources/icon-only.png resources/icon-foreground.png
           fi
-          convert -size 1024x1024 xc:"#1a1208" resources/icon-background.png
-          # `|| true`: si la generación falla, conservamos el launcher por defecto
-          # de Capacitor (no rompe el build).
+          convert -size 1024x1024 xc:"#1a1208" resources/icon-background.png || exit 0
           npx @capacitor/assets generate --android --assetPath resources || \
-            echo "::warning::@capacitor/assets falló — APK conservará iconos por defecto"
+            echo "::warning::@capacitor/assets generate falló — APK conservará iconos por defecto"
 
       - name: Compilar APK debug
         run: |
