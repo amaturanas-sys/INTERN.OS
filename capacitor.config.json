@@ -1,5 +1,5 @@
 {
-  "appId": "cl.internos.native",
+  "appId": "cl.internos.offline",
   "appName": "InternOS",
   "webDir": "dist",
   "android": {

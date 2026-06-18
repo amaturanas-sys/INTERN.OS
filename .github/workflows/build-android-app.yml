@@ -188,7 +188,7 @@ jobs:
           - Firmada con la clave debug por defecto de Capacitor — perfecta
             para uso personal pero no apta para Play Store.
           - Empaquetado: **Capacitor 6 + WebView Android**.
-          - Package ID: \`cl.internos.native\` (distinto al TWA \`cl.internos.app\`,
+          - Package ID: \`cl.internos.offline\` (distinto al TWA \`cl.internos.app\`,
             para que ambos puedan convivir).
           - Build id: \`${{ github.run_number }}\` · commit \`${{ github.sha }}\`.
           EOF

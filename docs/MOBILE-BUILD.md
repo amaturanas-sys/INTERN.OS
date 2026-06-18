@@ -68,8 +68,9 @@ Workflow: [`build-android-app.yml`](../.github/workflows/build-android-app.yml)
 
 ### Identificadores
 
-- **Package ID**: `cl.internos.native` (distinto al TWA `cl.internos.app`
-  para que ambos puedan convivir en el mismo dispositivo).
+- **Package ID**: `cl.internos.offline` (distinto al TWA `cl.internos.app`
+  para que ambos puedan convivir en el mismo dispositivo). Se evita la
+  raíz `native` porque es palabra reservada de Java.
 - **Nombre visible**: `InternOS`.
 - **versionName**: viene del archivo `VERSION` del repo.
 - **versionCode**: el `github.run_number` del workflow (monótono creciente
