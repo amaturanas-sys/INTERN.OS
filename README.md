@@ -27,15 +27,38 @@ material `.md` y repaso espaciado SM-2.
 
 ## Cómo instalarla en la tablet Android
 
-La app es estática; necesita servirse por **HTTPS** (requisito de las PWA). La vía más
-simple es **GitHub Pages**:
+Hay **dos rutas oficiales**. Elige la que prefieras:
 
-1. En el repositorio: *Settings → Pages → Build and deployment → Source: "Deploy from a
-   branch"*, rama `claude/eunacom-android-app-hTWHI` (o `main` tras el merge), carpeta `/ (root)`.
-2. Abre la URL pública (`https://<usuario>.github.io/<repo>/`) en **Chrome** en la tablet.
+### Opción A · APK nativo descargable (offline desde la primera apertura)
+
+Recomendado si tu tablet no tiene conexión estable o quieres independencia
+total del navegador. La APK trae **todos los assets embebidos**.
+
+1. Abre `https://github.com/<usuario>/<repo>/releases` desde el teléfono.
+2. Busca la release **`v<VERSION>-native`** (la última siempre está arriba).
+3. Descarga el archivo `internos-native-v<VERSION>-<build>.apk`.
+4. Acepta el aviso "Instalar aplicaciones desconocidas" si Android lo pide.
+5. Listo: la app **InternOS** aparece en el cajón de apps. No requiere
+   conexión nunca más.
+
+La APK se **regenera automáticamente** en cada push a `main` mediante el
+workflow `.github/workflows/build-android-app.yml` (Capacitor + WebView
+Android, firma debug). Para el detalle técnico del flujo de build local
+ver [`docs/MOBILE-BUILD.md`](docs/MOBILE-BUILD.md).
+
+### Opción B · PWA instalable desde GitHub Pages
+
+La app es estática; necesita servirse por **HTTPS** (requisito de las PWA).
+La vía más simple es **GitHub Pages**:
+
+1. En el repositorio: *Settings → Pages → Build and deployment → Source:
+   "Deploy from a branch"*, rama `main`, carpeta `/ (root)`.
+2. Abre la URL pública (`https://<usuario>.github.io/<repo>/`) en **Chrome**
+   en la tablet.
 3. Menú de Chrome → **"Agregar a la pantalla de inicio" / "Instalar app"**.
-4. Ábrela desde el ícono: se ejecuta a pantalla completa y, tras la primera carga,
-   **funciona sin conexión** (el Service Worker cachea todo y los datos viven en IndexedDB).
+4. Ábrela desde el ícono: se ejecuta a pantalla completa y, tras la primera
+   carga, **funciona sin conexión** (el Service Worker cachea todo y los
+   datos viven en IndexedDB).
 
 ### Prueba local (en el computador)
 

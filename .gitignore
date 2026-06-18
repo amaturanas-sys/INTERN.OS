@@ -2,3 +2,10 @@ __pycache__/
 *.pyc
 .DS_Store
 node_modules/
+
+# Capacitor / Android build (regenerados por scripts/CI)
+dist/
+android/
+resources/
+.gradle/
+package-lock.json
