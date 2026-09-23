@@ -12,18 +12,30 @@ código o ejecutando un script sobre los datos reales, no inferidos.
 
 ## Resumen ejecutivo
 
-| # | Hallazgo | Alcance | Severidad |
-|---|---|---|---|
-| 1 | `runMcq` se auto-cancela al montarse: `onFinish` nunca corre | Todas las sesiones | 🔴 Crítico |
-| 2 | Bug del parser: justificación pegada a una opción incorrecta | 1.502 preguntas (37%) | 🔴 Crítico |
-| 3 | El banco tiene 4.017 preguntas pero ~2.500 distintas | 2.957 preguntas (74%) | 🔴 Crítico |
-| 4 | La app queda inutilizable offline tras cada deploy | Todos los usuarios | 🔴 Crítico |
-| 5 | Re-sembrar borra marcas, ediciones y estadísticas | Todos los usuarios | 🔴 Crítico |
-| 6 | 15 grupos con respuesta correcta contradictoria | 15 grupos | 🟠 Alto |
-| 7 | Etiquetas `tema_validado` no confiables | 6 temas mayores | 🟠 Alto |
-| 8 | El router descarta navegaciones | Navegación rápida | 🟠 Alto |
-| 9 | Recarga forzada durante la primera instalación | Primera visita | 🟠 Alto |
-| 10 | Accesibilidad: contraste, ARIA, `aria-live` | Pantalla principal | 🟡 Medio |
+| # | Hallazgo | Alcance | Severidad | Estado |
+|---|---|---|---|---|
+| 1 | `runMcq` se auto-cancela al montarse: `onFinish` nunca corre | Todas las sesiones | 🔴 Crítico | ✅ v1.10.2 |
+| 2 | Bug del parser: justificación pegada a una opción incorrecta | 1.502 preguntas (37%) | 🔴 Crítico | ✅ v1.11.0 — quedan 15 |
+| 3 | El banco tiene 4.017 preguntas pero ~2.500 distintas | 2.957 preguntas (74%) | 🔴 Crítico | ✅ v1.11.0 |
+| 4 | La app queda inutilizable offline tras cada deploy | Todos los usuarios | 🔴 Crítico | ✅ v1.10.2 |
+| 5 | Re-sembrar borra marcas, ediciones y estadísticas | Todos los usuarios | 🔴 Crítico | ✅ v1.10.2 |
+| 6 | 15 grupos con respuesta correcta contradictoria | 16 grupos | 🟠 Alto | ✅ v1.11.0 |
+| 7 | Etiquetas `tema_validado` no confiables | 6 temas mayores | 🟠 Alto | ✅ mitigado v1.11.0 |
+| 8 | El router descarta navegaciones | Navegación rápida | 🟠 Alto | ⏳ pendiente |
+| 9 | Recarga forzada durante la primera instalación | Primera visita | 🟠 Alto | ⏳ pendiente |
+| 10 | Accesibilidad: contraste, ARIA, `aria-live` | Pantalla principal | 🟡 Medio | ⏳ pendiente |
+| 11 | Corrupción de ligadura fl→fi del PDF original | 306 preguntas | 🟠 Alto | ✅ v1.11.0 |
+
+### Hallazgo 11 — descubierto durante la reparación
+
+La extracción del PDF original corrompió la ligadura tipográfica **fl → fi**
+en 306 preguntas: `refiejos`, `infiuenza`, `infiamatorio`, `fiujo`,
+`hiperfiexión`. Apareció al revisar los "grupos contradictorios": 11 de los 16
+no eran contradicciones sino la misma respuesta con el texto corrompido.
+
+Tiene una consecuencia de orden: **hay que corregirlo antes de deduplicar**, o
+las copias con `refiejos` y con `reflejos` no se ven iguales y ambas
+sobreviven. En la primera corrida quedaron 21 duplicados por esto.
 
 ---
 
@@ -357,22 +369,42 @@ biblioteca (`--b-accent: #6b4423`). La paleta general de la app es **teal**
 
 ---
 
-## Plan de reparación sugerido
+## Estado de la reparación
 
-**Fase 1 — lo que rompe la app hoy**
-1. `runMcq`: mover `mount()` antes del registro de listeners (#1).
-2. Arranque offline: los tres arreglos de #4.
-3. Preservar estado del usuario al re-sembrar (#5).
+### ✅ Fase 1 — lo que rompía la app (v1.10.2)
 
-**Fase 2 — integridad del banco**
-4. Deduplicar: quedarse con una copia por enunciado, prefiriendo la de
-   justificación completa y conducta más actual (#3, #6).
-5. Reparar el corte del parser sobre el banco ya deduplicado (#2).
-6. Re-etiquetar temas y rehacer el indexado al Perfil sobre datos limpios (#7).
+1. `runMcq`: el listener de `vista:cambia` se registra después de `mount()`.
+2. Arranque offline: `seedIfNeeded` devuelve `{offline:true}` en vez de lanzar,
+   `app.js` arranca el router igual, y el SW preserva `data/*.json` al purgar.
+3. `fundirConUsuario()` en `seed.js` preserva marcas, estadísticas y ediciones.
 
-**Fase 3 — calidad**
-7. Accesibilidad: `aria-live` en el feedback y contraste de `:disabled` (#10).
-8. Router, recarga en primera instalación, fecha local en vez de UTC (#8, #9, #11).
+### ✅ Fase 2 — integridad del banco (v1.11.0)
 
-El orden importa: deduplicar **antes** de reparar el parser evita arreglar tres
-veces la misma pregunta.
+Script: `scripts/reparar-banco.py` (corre en simulación por defecto).
+
+```
+preguntas               4.017 → 2.477
+bug del parser          1.502 → 15
+ligaduras fl→fi           306 → 0
+enunciados duplicados   1.438 grupos → 0
+```
+
+Cero contenido perdido: los enunciados únicos normalizados son los mismos
+antes y después (2.473 → 2.473).
+
+Reindexado con `scripts/indexar-perfil.py` y regenerada la cobertura.
+
+### ⏳ Fase 3 — pendiente
+
+1. Accesibilidad: `aria-live` en el feedback del MCQ y contraste de `:disabled`.
+2. Router que descarta navegaciones (#8).
+3. Recarga forzada en la primera instalación (#9).
+4. Fecha UTC en vez de local, que corrompe la racha (#11 de la lista larga).
+5. Las 15 preguntas con el corte del parser pendiente de revisión manual.
+6. Imágenes sin límite de tamaño dentro del registro de la pregunta.
+
+### Lección sobre el orden
+
+Se aprendió probando, no de antemano: **ligaduras → deduplicar → parser**.
+Corregir las ligaduras después de deduplicar deja pasar duplicados; reparar el
+parser antes de deduplicar arregla tres veces la misma pregunta.
