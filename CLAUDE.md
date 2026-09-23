@@ -13,8 +13,9 @@ español de Chile.
 - **Service Worker** cache-first (`service-worker.js`).
 - **Capacitor 6** para el APK Android nativo (assets embebidos, offline desde
   la instalación).
-- CSS plano con variables en `:root` (`styles/app.css`). Paleta de marca
-  café/crema tomada del logo.
+- CSS plano con variables en `:root` (`styles/app.css`). **Dos paletas
+  conviven**: la general de la app es teal (`--accent: #0d8a8c`) y la de
+  biblioteca es café/crema tomada del logo (`--b-accent: #6b4423`).
 
 No agregar dependencias npm al runtime web. Las únicas dependencias del repo
 (`package.json`) son de Capacitor y solo se usan para compilar el APK.
