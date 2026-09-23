@@ -63,12 +63,29 @@ self.addEventListener("message", (e) => {
   if (e.data && e.data.type === "SKIP_WAITING") self.skipWaiting();
 });
 
+// Al activar una versión nueva se purgan las cachés viejas, PERO antes se
+// rescatan los data/*.json que estaban ahí. banco_inicial.json (8 MB) no está
+// en ASSETS —se cachea bajo demanda— así que una purga a secas lo borraba, y
+// quien abriera la app sin red después de un deploy no podía re-sembrar y
+// quedaba colgado en el splash con las preguntas intactas en IndexedDB.
 self.addEventListener("activate", (e) => {
-  e.waitUntil(
-    caches.keys()
-      .then((keys) => Promise.all(keys.filter((k) => k !== CACHE).map((k) => caches.delete(k))))
-      .then(() => self.clients.claim())
-  );
+  e.waitUntil((async () => {
+    const nueva = await caches.open(CACHE);
+    const keys = await caches.keys();
+    const viejas = keys.filter((k) => k !== CACHE);
+    for (const k of viejas) {
+      const vieja = await caches.open(k);
+      for (const req of await vieja.keys()) {
+        // Solo los JSON de datos, y solo si la caché nueva aún no los tiene.
+        if (!/\/data\/.*\.json$/.test(new URL(req.url).pathname)) continue;
+        if (await nueva.match(req)) continue;
+        const res = await vieja.match(req);
+        if (res) await nueva.put(req, res.clone());
+      }
+      await caches.delete(k);
+    }
+    await self.clients.claim();
+  })());
 });
 
 // Estrategia:
