@@ -214,7 +214,11 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
     limpieza.abort();
   }
   window.addEventListener("hashchange", limpiezaPorRuta, { signal: limpieza.signal });
-  document.addEventListener("vista:cambia", limpiezaPorRuta, { signal: limpieza.signal });
+  // OJO: el listener de `vista:cambia` NO se registra aquí. mount() despacha
+  // ese evento de forma síncrona, así que registrarlo antes hacía que el
+  // runner se auto-cancelara al montarse: mataba los atajos de teclado, dejaba
+  // "Ver resultados" sin efecto y onFinish no se llamaba nunca (ninguna sesión
+  // quedaba registrada). Se registra más abajo, después de mount().
 
   function siguienteBtn() {
     const ultima = i === items.length - 1;
@@ -253,5 +257,8 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
   }
 
   mount(cont);
+  // Recién ahora: mount() ya despachó su `vista:cambia` y el runner no se
+  // auto-cancela. A partir de aquí el evento sí significa "otra vista entra".
+  document.addEventListener("vista:cambia", limpiezaPorRuta, { signal: limpieza.signal });
   pintar();
 }

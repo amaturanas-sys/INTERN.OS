@@ -1,6 +1,7 @@
 // Punto de entrada: inicializa IndexedDB + seed, registra rutas y arranca el router.
 import { ruta, iniciarRouter, navegar, alCambiar } from "./ui/router.js";
 import { seedIfNeeded } from "./db/seed.js";
+import { count } from "./db/db.js";
 import { toast } from "./ui/dom.js";
 
 import { vistaHome } from "./ui/home.js";
@@ -72,10 +73,18 @@ async function arranque() {
   try {
     const r = await seedIfNeeded(setMsg);
     if (r.sembrado) toast(`Banco inicial cargado (${r.preguntas} preguntas).`, "ok");
+    if (r.offline) toast("Sin conexión: usando el banco guardado en el dispositivo.", "info");
   } catch (e) {
     console.error(e);
-    setMsg("Error al cargar el banco inicial: " + e.message);
-    return;
+    // Si ya hay preguntas en IndexedDB, la app es perfectamente usable aunque
+    // la siembra falle (típico: se abre sin red después de un deploy). Antes
+    // se retornaba aquí y quedaba colgada en el splash con el banco intacto.
+    const hayBanco = await count("preguntas").catch(() => 0);
+    if (!hayBanco) {
+      setMsg("Error al cargar el banco inicial: " + e.message);
+      return;
+    }
+    toast("No se pudo verificar el banco; se usa el guardado en el dispositivo.", "info");
   }
   if (splash) splash.remove();
   iniciarRouter();
