@@ -101,7 +101,11 @@ export async function vistaHome() {
       tarjeta("quiz",         "Quiz por temas",    "Filtra por especialidad, tema, dificultad.", "quiz",         `${nPreg} preguntas`),
       tarjeta("casos",        "Casos clínicos",    "Casos paso a paso, lineales con feedback.", "casos",         `${nCasos} casos`),
       tarjeta("definiciones", "Definiciones",      "Conceptos, fármacos y herramientas.",       "definiciones",  `${nDefs} definiciones`),
-      tarjeta("biblioteca",   "Biblioteca",        "Consultor inmediato editable, con imágenes y referencias.", "biblioteca", "261 patologías (100% redactadas)"),
+      // OJO: este número se mantiene a mano. biblioteca.json pesa 1,1 MB, así
+      // que no vale la pena descargarlo en el Home solo para contar entradas.
+      // Al tocar data/biblioteca.json hay que actualizar meta.total_entradas
+      // y esta línea. Ver la sección de verificación en CLAUDE.md.
+      tarjeta("biblioteca",   "Biblioteca",        "Consultor inmediato editable, con imágenes y referencias.", "biblioteca", "332 patologías en 23 unidades"),
     ]),
 
     // ---- Curación activa ----

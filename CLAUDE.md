@@ -95,6 +95,15 @@ python3 -c "import json; json.load(open('data/<archivo>.json'))"   # JSON válid
 
 Para cambios de datos, comprobar además el conteo de entradas antes/después.
 
+Si se toca `data/biblioteca.json`, actualizar en el mismo commit su
+`meta.total_entradas` **y** el texto de la tarjeta de biblioteca en
+`src/ui/home.js` (está hardcodeado a propósito: el archivo pesa 1,1 MB y no
+conviene descargarlo en el Home solo para contar).
+
+Si se toca `data/banco_inicial.json` (deduplicar, importar, reparar), volver a
+correr `scripts/indexar-perfil.py --aplicar` y regenerar
+`data/referencias/cobertura_banco_2026.json`: los ids y los textos cambian.
+
 ## Skills instaladas
 
 Ver [`.claude/SKILLS.md`](.claude/SKILLS.md). Las más pertinentes aquí:

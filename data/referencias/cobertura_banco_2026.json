@@ -1,10 +1,11 @@
 {
   "meta": {
     "fuente_perfil": "Perfil EUNACOM 2026 (ASOFAMECh)",
-    "total_preguntas_banco": 4017,
-    "preguntas_ambiguas_sin_area": 181,
+    "total_preguntas_banco": 2477,
+    "preguntas_ambiguas_sin_area": 104,
     "items_perfil_total": 1557,
-    "items_perfil_cubiertos_con_pregunta": 433
+    "items_perfil_cubiertos_con_pregunta": 376,
+    "nota": "Regenerado tras la deduplicación de sept-2026 (4017 -> 2477 preguntas)."
   },
   "resumen_por_especialidad": [
     {
@@ -13,62 +14,62 @@
       "items_perfil": 61,
       "items_cubiertos": 24,
       "cobertura_pct": 39.3,
-      "preguntas_banco": 330,
-      "preguntas_sin_item_especifico": 63
+      "preguntas_banco": 202,
+      "preguntas_sin_item_especifico": 51
     },
     {
       "codigo_area_esp": "1.02",
       "especialidad_nombre": "Diabetes y nutrición",
       "items_perfil": 68,
-      "items_cubiertos": 6,
-      "cobertura_pct": 8.8,
-      "preguntas_banco": 21,
+      "items_cubiertos": 4,
+      "cobertura_pct": 5.9,
+      "preguntas_banco": 19,
       "preguntas_sin_item_especifico": 0
     },
     {
       "codigo_area_esp": "1.03",
       "especialidad_nombre": "Endocrinología",
       "items_perfil": 42,
-      "items_cubiertos": 28,
-      "cobertura_pct": 66.7,
-      "preguntas_banco": 287,
-      "preguntas_sin_item_especifico": 99
+      "items_cubiertos": 24,
+      "cobertura_pct": 57.1,
+      "preguntas_banco": 190,
+      "preguntas_sin_item_especifico": 63
     },
     {
       "codigo_area_esp": "1.04",
       "especialidad_nombre": "Enfermedades infecciosas",
       "items_perfil": 72,
-      "items_cubiertos": 30,
-      "cobertura_pct": 41.7,
-      "preguntas_banco": 366,
-      "preguntas_sin_item_especifico": 148
+      "items_cubiertos": 26,
+      "cobertura_pct": 36.1,
+      "preguntas_banco": 208,
+      "preguntas_sin_item_especifico": 85
     },
     {
       "codigo_area_esp": "1.05",
       "especialidad_nombre": "Enfermedades respiratorias",
       "items_perfil": 83,
-      "items_cubiertos": 6,
-      "cobertura_pct": 7.2,
-      "preguntas_banco": 28,
-      "preguntas_sin_item_especifico": 14
+      "items_cubiertos": 5,
+      "cobertura_pct": 6.0,
+      "preguntas_banco": 21,
+      "preguntas_sin_item_especifico": 9
     },
     {
       "codigo_area_esp": "1.06",
       "especialidad_nombre": "Gastroenterología",
       "items_perfil": 64,
-      "items_cubiertos": 6,
-      "cobertura_pct": 9.4,
-      "preguntas_banco": 16,
+      "items_cubiertos": 5,
+      "cobertura_pct": 7.8,
+      "preguntas_banco": 8,
       "preguntas_sin_item_especifico": 0
     },
     {
       "codigo_area_esp": "1.07",
       "especialidad_nombre": "Geriatría",
       "items_perfil": 38,
-      "items_cubiertos": 2,
-      "cobertura_pct": 5.3,
-      "preguntas_banco": 8,
-      "preguntas_sin_item_especifico": 4
+      "items_cubiertos": 1,
+      "cobertura_pct": 2.6,
+      "preguntas_banco": 5,
+      "preguntas_sin_item_especifico": 3
     },
     {
       "codigo_area_esp": "1.08",
@@ -76,62 +77,62 @@
       "items_perfil": 58,
       "items_cubiertos": 12,
       "cobertura_pct": 20.7,
-      "preguntas_banco": 125,
-      "preguntas_sin_item_especifico": 70
+      "preguntas_banco": 103,
+      "preguntas_sin_item_especifico": 61
     },
     {
       "codigo_area_esp": "1.09",
       "especialidad_nombre": "Nefrología",
       "items_perfil": 72,
-      "items_cubiertos": 11,
-      "cobertura_pct": 15.3,
-      "preguntas_banco": 55,
-      "preguntas_sin_item_especifico": 10
+      "items_cubiertos": 9,
+      "cobertura_pct": 12.5,
+      "preguntas_banco": 49,
+      "preguntas_sin_item_especifico": 7
     },
     {
       "codigo_area_esp": "1.10",
       "especialidad_nombre": "Neurología",
       "items_perfil": 62,
-      "items_cubiertos": 25,
-      "cobertura_pct": 40.3,
-      "preguntas_banco": 255,
-      "preguntas_sin_item_especifico": 98
+      "items_cubiertos": 18,
+      "cobertura_pct": 29.0,
+      "preguntas_banco": 153,
+      "preguntas_sin_item_especifico": 70
     },
     {
       "codigo_area_esp": "1.11",
       "especialidad_nombre": "Reumatología",
       "items_perfil": 35,
-      "items_cubiertos": 2,
-      "cobertura_pct": 5.7,
-      "preguntas_banco": 3,
+      "items_cubiertos": 1,
+      "cobertura_pct": 2.9,
+      "preguntas_banco": 1,
       "preguntas_sin_item_especifico": 0
     },
     {
       "codigo_area_esp": "2.01",
       "especialidad_nombre": "Pediatría",
       "items_perfil": 228,
-      "items_cubiertos": 79,
-      "cobertura_pct": 34.6,
-      "preguntas_banco": 500,
-      "preguntas_sin_item_especifico": 139
+      "items_cubiertos": 68,
+      "cobertura_pct": 29.8,
+      "preguntas_banco": 299,
+      "preguntas_sin_item_especifico": 75
     },
     {
       "codigo_area_esp": "3.01",
       "especialidad_nombre": "Obstetricia y ginecología",
       "items_perfil": 91,
-      "items_cubiertos": 32,
-      "cobertura_pct": 35.2,
-      "preguntas_banco": 382,
-      "preguntas_sin_item_especifico": 53
+      "items_cubiertos": 29,
+      "cobertura_pct": 31.9,
+      "preguntas_banco": 244,
+      "preguntas_sin_item_especifico": 35
     },
     {
       "codigo_area_esp": "4.01",
       "especialidad_nombre": "Cirugía general y anestesia",
       "items_perfil": 155,
-      "items_cubiertos": 27,
-      "cobertura_pct": 17.4,
-      "preguntas_banco": 201,
-      "preguntas_sin_item_especifico": 30
+      "items_cubiertos": 26,
+      "cobertura_pct": 16.8,
+      "preguntas_banco": 126,
+      "preguntas_sin_item_especifico": 16
     },
     {
       "codigo_area_esp": "4.02",
@@ -139,17 +140,17 @@
       "items_perfil": 45,
       "items_cubiertos": 17,
       "cobertura_pct": 37.8,
-      "preguntas_banco": 134,
-      "preguntas_sin_item_especifico": 58
+      "preguntas_banco": 104,
+      "preguntas_sin_item_especifico": 43
     },
     {
       "codigo_area_esp": "4.03",
       "especialidad_nombre": "Urología",
       "items_perfil": 62,
-      "items_cubiertos": 25,
-      "cobertura_pct": 40.3,
-      "preguntas_banco": 160,
-      "preguntas_sin_item_especifico": 37
+      "items_cubiertos": 22,
+      "cobertura_pct": 35.5,
+      "preguntas_banco": 88,
+      "preguntas_sin_item_especifico": 18
     },
     {
       "codigo_area_esp": "5.01",
@@ -157,44 +158,44 @@
       "items_perfil": 60,
       "items_cubiertos": 22,
       "cobertura_pct": 36.7,
-      "preguntas_banco": 307,
-      "preguntas_sin_item_especifico": 181
+      "preguntas_banco": 171,
+      "preguntas_sin_item_especifico": 100
     },
     {
       "codigo_area_esp": "6.01",
       "especialidad_nombre": "Dermatología",
       "items_perfil": 60,
-      "items_cubiertos": 24,
-      "cobertura_pct": 40.0,
-      "preguntas_banco": 299,
-      "preguntas_sin_item_especifico": 164
+      "items_cubiertos": 21,
+      "cobertura_pct": 35.0,
+      "preguntas_banco": 172,
+      "preguntas_sin_item_especifico": 80
     },
     {
       "codigo_area_esp": "6.02",
       "especialidad_nombre": "Oftalmología",
       "items_perfil": 63,
-      "items_cubiertos": 25,
-      "cobertura_pct": 39.7,
-      "preguntas_banco": 131,
-      "preguntas_sin_item_especifico": 15
+      "items_cubiertos": 17,
+      "cobertura_pct": 27.0,
+      "preguntas_banco": 65,
+      "preguntas_sin_item_especifico": 4
     },
     {
       "codigo_area_esp": "6.03",
       "especialidad_nombre": "Otorrinolaringología",
       "items_perfil": 83,
-      "items_cubiertos": 16,
-      "cobertura_pct": 19.3,
-      "preguntas_banco": 137,
-      "preguntas_sin_item_especifico": 58
+      "items_cubiertos": 12,
+      "cobertura_pct": 14.5,
+      "preguntas_banco": 69,
+      "preguntas_sin_item_especifico": 32
     },
     {
       "codigo_area_esp": "7.01",
       "especialidad_nombre": "Salud pública",
       "items_perfil": 55,
-      "items_cubiertos": 14,
-      "cobertura_pct": 25.5,
-      "preguntas_banco": 94,
-      "preguntas_sin_item_especifico": 57
+      "items_cubiertos": 13,
+      "cobertura_pct": 23.6,
+      "preguntas_banco": 78,
+      "preguntas_sin_item_especifico": 49
     }
   ],
   "items": [
@@ -205,7 +206,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 1,
       "titulo": "Angina crónica estable",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.01.1.002",
@@ -250,7 +251,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 1,
       "titulo": "Embolia pulmonar",
-      "preguntas_banco": 14
+      "preguntas_banco": 3
     },
     {
       "codigo": "1.01.1.007",
@@ -259,7 +260,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 1,
       "titulo": "Endocarditis infecciosa y no infecciosa",
-      "preguntas_banco": 4
+      "preguntas_banco": 2
     },
     {
       "codigo": "1.01.1.008",
@@ -304,7 +305,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 1,
       "titulo": "Fibrilación auricular crónica",
-      "preguntas_banco": 7
+      "preguntas_banco": 5
     },
     {
       "codigo": "1.01.1.013",
@@ -331,7 +332,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 1,
       "titulo": "Hipertensión arterial esencial",
-      "preguntas_banco": 20
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.01.1.016",
@@ -340,7 +341,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 1,
       "titulo": "Hipertensión arterial secundaria",
-      "preguntas_banco": 7
+      "preguntas_banco": 10
     },
     {
       "codigo": "1.01.1.017",
@@ -358,7 +359,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 1,
       "titulo": "Insuficiencia cardíaca",
-      "preguntas_banco": 18
+      "preguntas_banco": 10
     },
     {
       "codigo": "1.01.1.019",
@@ -385,7 +386,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 1,
       "titulo": "Paciente con soplo",
-      "preguntas_banco": 57
+      "preguntas_banco": 34
     },
     {
       "codigo": "1.01.1.022",
@@ -394,7 +395,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 1,
       "titulo": "Pericarditis aguda",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.01.1.023",
@@ -448,7 +449,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 2,
       "titulo": "Infarto agudo al miocardio",
-      "preguntas_banco": 40
+      "preguntas_banco": 8
     },
     {
       "codigo": "1.01.2.005",
@@ -457,7 +458,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 2,
       "titulo": "Insuficiencia cardíaca aguda",
-      "preguntas_banco": 1
+      "preguntas_banco": 2
     },
     {
       "codigo": "1.01.2.006",
@@ -466,7 +467,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 2,
       "titulo": "Paro cardiorespiratorio",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.01.2.007",
@@ -475,7 +476,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 2,
       "titulo": "Shock",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.01.2.008",
@@ -511,7 +512,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 3,
       "titulo": "Cardiopatía y embarazo",
-      "preguntas_banco": 3
+      "preguntas_banco": 4
     },
     {
       "codigo": "1.01.3.003",
@@ -583,7 +584,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 4,
       "titulo": "Radiografía de tórax",
-      "preguntas_banco": 9
+      "preguntas_banco": 7
     },
     {
       "codigo": "1.01.4.005",
@@ -610,7 +611,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 4,
       "titulo": "Electrocardiograma",
-      "preguntas_banco": 61
+      "preguntas_banco": 43
     },
     {
       "codigo": "1.01.4.008",
@@ -619,7 +620,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 4,
       "titulo": "Test de esfuerzo",
-      "preguntas_banco": 4
+      "preguntas_banco": 3
     },
     {
       "codigo": "1.01.4.009",
@@ -646,7 +647,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 4,
       "titulo": "Holter de presión arterial",
-      "preguntas_banco": 4
+      "preguntas_banco": 7
     },
     {
       "codigo": "1.01.4.012",
@@ -673,7 +674,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 4,
       "titulo": "Holter de ritmo",
-      "preguntas_banco": 4
+      "preguntas_banco": 3
     },
     {
       "codigo": "1.01.5.002",
@@ -718,7 +719,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 5,
       "titulo": "Resucitación cardiorespiratoria",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.01.5.007",
@@ -745,7 +746,7 @@
       "especialidad_nombre": "Cardiología",
       "seccion": 5,
       "titulo": "Trombolisis",
-      "preguntas_banco": 0
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.02.1.001",
@@ -781,7 +782,7 @@
       "especialidad_nombre": "Diabetes y nutrición",
       "seccion": 1,
       "titulo": "Diabetes Mellitus tipo 1",
-      "preguntas_banco": 13
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.02.1.005",
@@ -790,7 +791,7 @@
       "especialidad_nombre": "Diabetes y nutrición",
       "seccion": 1,
       "titulo": "Diabetes mellitus tipo 2",
-      "preguntas_banco": 0
+      "preguntas_banco": 16
     },
     {
       "codigo": "1.02.1.006",
@@ -817,7 +818,7 @@
       "especialidad_nombre": "Diabetes y nutrición",
       "seccion": 1,
       "titulo": "Hipertensión arterial en diabetes tipo 2",
-      "preguntas_banco": 2
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.02.1.009",
@@ -853,7 +854,7 @@
       "especialidad_nombre": "Diabetes y nutrición",
       "seccion": 1,
       "titulo": "Obesidad",
-      "preguntas_banco": 2
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.02.1.013",
@@ -1249,7 +1250,7 @@
       "especialidad_nombre": "Diabetes y nutrición",
       "seccion": 4,
       "titulo": "Glicemia venosa",
-      "preguntas_banco": 2
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.02.4.017",
@@ -1366,7 +1367,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Bocio",
-      "preguntas_banco": 14
+      "preguntas_banco": 12
     },
     {
       "codigo": "1.03.1.002",
@@ -1375,7 +1376,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Hipotiroidismo",
-      "preguntas_banco": 17
+      "preguntas_banco": 14
     },
     {
       "codigo": "1.03.1.003",
@@ -1384,7 +1385,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Hipertiroidismo",
-      "preguntas_banco": 12
+      "preguntas_banco": 11
     },
     {
       "codigo": "1.03.1.004",
@@ -1393,7 +1394,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Cáncer del tiroides",
-      "preguntas_banco": 11
+      "preguntas_banco": 6
     },
     {
       "codigo": "1.03.1.005",
@@ -1402,7 +1403,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Tiroiditis",
-      "preguntas_banco": 4
+      "preguntas_banco": 3
     },
     {
       "codigo": "1.03.1.006",
@@ -1411,7 +1412,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Síndrome de Cushing",
-      "preguntas_banco": 9
+      "preguntas_banco": 5
     },
     {
       "codigo": "1.03.1.007",
@@ -1420,7 +1421,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Insuficiencia suprarrenal crónica",
-      "preguntas_banco": 6
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.03.1.008",
@@ -1429,7 +1430,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Hirsutismo",
-      "preguntas_banco": 4
+      "preguntas_banco": 2
     },
     {
       "codigo": "1.03.1.009",
@@ -1438,7 +1439,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Hipertensión arterial de origen endocrino",
-      "preguntas_banco": 3
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.03.1.010",
@@ -1447,7 +1448,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Amenorrea",
-      "preguntas_banco": 11
+      "preguntas_banco": 6
     },
     {
       "codigo": "1.03.1.011",
@@ -1465,7 +1466,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Hipogonadismo masculino",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.03.1.013",
@@ -1492,7 +1493,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Diabetes insípida",
-      "preguntas_banco": 17
+      "preguntas_banco": 10
     },
     {
       "codigo": "1.03.1.016",
@@ -1501,7 +1502,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Hiperprolactinemia",
-      "preguntas_banco": 6
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.03.1.017",
@@ -1510,7 +1511,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Síndrome de secreción inapropiada de ADH",
-      "preguntas_banco": 7
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.03.1.018",
@@ -1537,7 +1538,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Hipercalcemias e hipocalcemias",
-      "preguntas_banco": 3
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.03.1.021",
@@ -1546,7 +1547,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Nódulo tiroídeo",
-      "preguntas_banco": 13
+      "preguntas_banco": 6
     },
     {
       "codigo": "1.03.1.022",
@@ -1555,7 +1556,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 1,
       "titulo": "Incidentaloma suprarrenal",
-      "preguntas_banco": 2
+      "preguntas_banco": 5
     },
     {
       "codigo": "1.03.1.023",
@@ -1591,7 +1592,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 2,
       "titulo": "Insuficiencia suprarrenal aguda",
-      "preguntas_banco": 0
+      "preguntas_banco": 2
     },
     {
       "codigo": "1.03.2.004",
@@ -1600,7 +1601,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 2,
       "titulo": "Hipercalcemia aguda",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.03.2.005",
@@ -1618,7 +1619,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 3,
       "titulo": "Pubertad normal",
-      "preguntas_banco": 8
+      "preguntas_banco": 6
     },
     {
       "codigo": "1.03.3.002",
@@ -1672,7 +1673,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 4,
       "titulo": "T4 libre",
-      "preguntas_banco": 6
+      "preguntas_banco": 5
     },
     {
       "codigo": "1.03.4.005",
@@ -1690,7 +1691,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 4,
       "titulo": "Cortisol plasmático",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.03.4.007",
@@ -1708,7 +1709,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 4,
       "titulo": "FSH, estradiol y prolactina",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "1.03.4.009",
@@ -1717,7 +1718,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 4,
       "titulo": "LH, testosterona",
-      "preguntas_banco": 7
+      "preguntas_banco": 5
     },
     {
       "codigo": "1.03.4.010",
@@ -1726,7 +1727,7 @@
       "especialidad_nombre": "Endocrinología",
       "seccion": 4,
       "titulo": "PTH, calcemia",
-      "preguntas_banco": 8
+      "preguntas_banco": 10
     },
     {
       "codigo": "1.03.4.011",
@@ -1807,7 +1808,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 1,
       "titulo": "Diarrea asociada a antibióticos",
-      "preguntas_banco": 5
+      "preguntas_banco": 4
     },
     {
       "codigo": "1.04.1.010",
@@ -1816,7 +1817,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 1,
       "titulo": "Enfermedades de transmisión sexual",
-      "preguntas_banco": 20
+      "preguntas_banco": 3
     },
     {
       "codigo": "1.04.1.011",
@@ -1843,7 +1844,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 1,
       "titulo": "Fiebre tifoídea y paratifoídea",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "1.04.1.013",
@@ -1861,7 +1862,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 1,
       "titulo": "Infección por virus de inmunodeficiencia humana",
-      "preguntas_banco": 29
+      "preguntas_banco": 25
     },
     {
       "codigo": "1.04.1.015",
@@ -1915,7 +1916,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 1,
       "titulo": "Neutropenia febril",
-      "preguntas_banco": 5
+      "preguntas_banco": 3
     },
     {
       "codigo": "1.04.1.021",
@@ -1942,7 +1943,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 1,
       "titulo": "Sífilis secundaria, terciaria y congénita",
-      "preguntas_banco": 3
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.04.1.024",
@@ -1960,7 +1961,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 1,
       "titulo": "Síndrome mononucleósico",
-      "preguntas_banco": 2
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.04.1.026",
@@ -1987,7 +1988,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 1,
       "titulo": "Tuberculosis extrapulmonar",
-      "preguntas_banco": 20
+      "preguntas_banco": 17
     },
     {
       "codigo": "1.04.2.001",
@@ -1996,7 +1997,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 2,
       "titulo": "Absceso cerebral",
-      "preguntas_banco": 1
+      "preguntas_banco": 2
     },
     {
       "codigo": "1.04.2.002",
@@ -2032,7 +2033,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 2,
       "titulo": "Infección invasiva de partes blandas:",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.04.2.011",
@@ -2050,7 +2051,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 2,
       "titulo": "Meningitis aguda",
-      "preguntas_banco": 22
+      "preguntas_banco": 11
     },
     {
       "codigo": "1.04.2.007",
@@ -2059,7 +2060,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 2,
       "titulo": "Sepsis y shock séptico",
-      "preguntas_banco": 4
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.04.2.008",
@@ -2167,7 +2168,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 3,
       "titulo": "Profilaxis de tuberculosis",
-      "preguntas_banco": 9
+      "preguntas_banco": 2
     },
     {
       "codigo": "1.04.3.010",
@@ -2185,7 +2186,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 3,
       "titulo": "Uso y abuso de antibióticos",
-      "preguntas_banco": 20
+      "preguntas_banco": 2
     },
     {
       "codigo": "1.04.3.012",
@@ -2257,7 +2258,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 4,
       "titulo": "Estudio citoquímico de LCR",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.04.4.007",
@@ -2266,7 +2267,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 4,
       "titulo": "Cultivo de expectoración",
-      "preguntas_banco": 23
+      "preguntas_banco": 14
     },
     {
       "codigo": "1.04.4.008",
@@ -2275,7 +2276,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 4,
       "titulo": "Gram",
-      "preguntas_banco": 4
+      "preguntas_banco": 5
     },
     {
       "codigo": "1.04.4.009",
@@ -2302,7 +2303,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 4,
       "titulo": "Parasitológico de deposiciones",
-      "preguntas_banco": 10
+      "preguntas_banco": 7
     },
     {
       "codigo": "1.04.4.012",
@@ -2347,7 +2348,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 4,
       "titulo": "Urocultivo y antibiograma",
-      "preguntas_banco": 13
+      "preguntas_banco": 6
     },
     {
       "codigo": "1.04.5.001",
@@ -2365,7 +2366,7 @@
       "especialidad_nombre": "Enfermedades infecciosas",
       "seccion": 5,
       "titulo": "Punción lumbar",
-      "preguntas_banco": 7
+      "preguntas_banco": 4
     },
     {
       "codigo": "1.04.5.003",
@@ -2572,7 +2573,7 @@
       "especialidad_nombre": "Enfermedades respiratorias",
       "seccion": 1,
       "titulo": "Hipertensión pulmonar",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.05.1.022",
@@ -2860,7 +2861,7 @@
       "especialidad_nombre": "Enfermedades respiratorias",
       "seccion": 3,
       "titulo": "Contaminación ambiental",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.05.3.002",
@@ -3220,7 +3221,7 @@
       "especialidad_nombre": "Gastroenterología",
       "seccion": 1,
       "titulo": "Diarrea asociada a antibióticos",
-      "preguntas_banco": 2
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.06.1.011",
@@ -3445,7 +3446,7 @@
       "especialidad_nombre": "Gastroenterología",
       "seccion": 2,
       "titulo": "Diarrea aguda",
-      "preguntas_banco": 4
+      "preguntas_banco": 2
     },
     {
       "codigo": "1.06.2.006",
@@ -3616,7 +3617,7 @@
       "especialidad_nombre": "Gastroenterología",
       "seccion": 4,
       "titulo": "TAC abdominal",
-      "preguntas_banco": 7
+      "preguntas_banco": 3
     },
     {
       "codigo": "1.06.4.006",
@@ -3868,7 +3869,7 @@
       "especialidad_nombre": "Geriatría",
       "seccion": 2,
       "titulo": "Abdomen agudo en adulto mayor",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "1.07.2.002",
@@ -3895,7 +3896,7 @@
       "especialidad_nombre": "Geriatría",
       "seccion": 2,
       "titulo": "Agitación y agresividad",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.07.2.005",
@@ -4057,7 +4058,7 @@
       "especialidad_nombre": "Hémato-oncología",
       "seccion": 1,
       "titulo": "Anemia de las enfermedades crónicas",
-      "preguntas_banco": 6
+      "preguntas_banco": 3
     },
     {
       "codigo": "1.08.1.002",
@@ -4273,7 +4274,7 @@
       "especialidad_nombre": "Hémato-oncología",
       "seccion": 2,
       "titulo": "Neutropenia febril",
-      "preguntas_banco": 5
+      "preguntas_banco": 4
     },
     {
       "codigo": "1.08.2.007",
@@ -4453,7 +4454,7 @@
       "especialidad_nombre": "Hémato-oncología",
       "seccion": 4,
       "titulo": "Estudio de coagulopatías",
-      "preguntas_banco": 6
+      "preguntas_banco": 5
     },
     {
       "codigo": "1.08.4.006",
@@ -4480,7 +4481,7 @@
       "especialidad_nombre": "Hémato-oncología",
       "seccion": 4,
       "titulo": "Hemograma",
-      "preguntas_banco": 19
+      "preguntas_banco": 12
     },
     {
       "codigo": "1.08.4.009",
@@ -4570,7 +4571,7 @@
       "especialidad_nombre": "Hémato-oncología",
       "seccion": 5,
       "titulo": "Quimioterapia intratecal",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "1.09.1.001",
@@ -4651,7 +4652,7 @@
       "especialidad_nombre": "Nefrología",
       "seccion": 1,
       "titulo": "Hipertensión arterial secundaria",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "1.09.1.010",
@@ -4948,7 +4949,7 @@
       "especialidad_nombre": "Nefrología",
       "seccion": 3,
       "titulo": "Diálisis y complicaciones",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.09.3.005",
@@ -5146,7 +5147,7 @@
       "especialidad_nombre": "Nefrología",
       "seccion": 4,
       "titulo": "Sodio urinario",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.09.4.017",
@@ -5227,7 +5228,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 1,
       "titulo": "Cefalea tensional",
-      "preguntas_banco": 11
+      "preguntas_banco": 4
     },
     {
       "codigo": "1.10.1.002",
@@ -5263,7 +5264,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 1,
       "titulo": "Demencia (Enfermedad de Alzheimer,",
-      "preguntas_banco": 13
+      "preguntas_banco": 12
     },
     {
       "codigo": "1.10.1.006",
@@ -5281,7 +5282,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 1,
       "titulo": "Epilepsia",
-      "preguntas_banco": 18
+      "preguntas_banco": 15
     },
     {
       "codigo": "1.10.1.008",
@@ -5308,7 +5309,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 1,
       "titulo": "Lumbago mecánico",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.10.1.011",
@@ -5326,7 +5327,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 1,
       "titulo": "Migraña",
-      "preguntas_banco": 25
+      "preguntas_banco": 21
     },
     {
       "codigo": "1.10.1.013",
@@ -5335,7 +5336,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 1,
       "titulo": "Neuralgia esencial del trigémino",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.10.1.014",
@@ -5344,7 +5345,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 1,
       "titulo": "Neuropatías por atrapamiento",
-      "preguntas_banco": 0
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.10.1.015",
@@ -5353,7 +5354,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 1,
       "titulo": "Parálisis (tetraparesia, hemiparesia, etc)",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.10.1.016",
@@ -5362,7 +5363,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 1,
       "titulo": "Parálisis facial periférica",
-      "preguntas_banco": 10
+      "preguntas_banco": 6
     },
     {
       "codigo": "1.10.1.017",
@@ -5371,7 +5372,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 1,
       "titulo": "Polineuropatías, radiculopatías, mononeuropatías, etc…",
-      "preguntas_banco": 9
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.10.1.018",
@@ -5443,7 +5444,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 1,
       "titulo": "Síndromes vertiginosos periféricos",
-      "preguntas_banco": 6
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.10.1.026",
@@ -5452,7 +5453,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 1,
       "titulo": "Temblor esencial",
-      "preguntas_banco": 11
+      "preguntas_banco": 3
     },
     {
       "codigo": "1.10.1.027",
@@ -5488,7 +5489,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 2,
       "titulo": "Cefalea aguda en urgencia",
-      "preguntas_banco": 4
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.10.2.002",
@@ -5506,7 +5507,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 2,
       "titulo": "Crisis convulsiva",
-      "preguntas_banco": 2
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.10.2.004",
@@ -5542,7 +5543,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 2,
       "titulo": "Enfermedad cerebrovascular",
-      "preguntas_banco": 14
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.10.2.008",
@@ -5623,7 +5624,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 2,
       "titulo": "Síndromes meníngeos",
-      "preguntas_banco": 6
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.10.2.017",
@@ -5650,7 +5651,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 2,
       "titulo": "Traumatismo encéfalo craneano leve",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.10.2.020",
@@ -5659,7 +5660,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 2,
       "titulo": "Traumatismo encefalocraneano grave",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.10.2.021",
@@ -5668,7 +5669,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 2,
       "titulo": "Traumatismo raquimedular",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.10.3.001",
@@ -5704,7 +5705,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 4,
       "titulo": "Resonancia magnética de encéfalo y columna",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.10.4.003",
@@ -5722,7 +5723,7 @@
       "especialidad_nombre": "Neurología",
       "seccion": 4,
       "titulo": "Campo visual",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "1.10.4.005",
@@ -5785,7 +5786,7 @@
       "especialidad_nombre": "Reumatología",
       "seccion": 1,
       "titulo": "Artritis psoriática",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "1.11.1.002",
@@ -6073,7 +6074,7 @@
       "especialidad_nombre": "Reumatología",
       "seccion": 4,
       "titulo": "Exámenes inmunológicos del diagnóstico",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "1.11.4.004",
@@ -6127,7 +6128,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Adenitis cervical",
-      "preguntas_banco": 5
+      "preguntas_banco": 2
     },
     {
       "codigo": "2.01.1.005",
@@ -6145,7 +6146,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Coqueluche",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "2.01.1.046",
@@ -6154,7 +6155,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Displasia broncopulmonar",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "2.01.1.007",
@@ -6208,7 +6209,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Infecciones por HIV",
-      "preguntas_banco": 12
+      "preguntas_banco": 7
     },
     {
       "codigo": "2.01.1.013",
@@ -6289,7 +6290,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Enfermedad pulmonar crónica",
-      "preguntas_banco": 7
+      "preguntas_banco": 5
     },
     {
       "codigo": "2.01.1.022",
@@ -6334,7 +6335,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Otitis media",
-      "preguntas_banco": 4
+      "preguntas_banco": 2
     },
     {
       "codigo": "2.01.1.027",
@@ -6352,7 +6353,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Síndrome bronquial obstructivo",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "2.01.1.029",
@@ -6361,7 +6362,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Sinusitis",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "2.01.1.030",
@@ -6370,7 +6371,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Adenopatías",
-      "preguntas_banco": 12
+      "preguntas_banco": 10
     },
     {
       "codigo": "2.01.1.031",
@@ -6460,7 +6461,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Diarrea crónica",
-      "preguntas_banco": 8
+      "preguntas_banco": 6
     },
     {
       "codigo": "2.01.1.041",
@@ -6469,7 +6470,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Dolor abdominal recurrente",
-      "preguntas_banco": 7
+      "preguntas_banco": 6
     },
     {
       "codigo": "2.01.1.042",
@@ -6514,7 +6515,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Reflujo gastroesofágico y vómitos del lactante",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "2.01.1.047",
@@ -6532,7 +6533,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Síndrome malabsorción",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "2.01.1.049",
@@ -6568,7 +6569,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Insuficiencia cardíaca",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "2.01.1.053",
@@ -6640,7 +6641,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Hematuria",
-      "preguntas_banco": 8
+      "preguntas_banco": 6
     },
     {
       "codigo": "2.01.1.061",
@@ -6649,7 +6650,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Hipertensión arterial",
-      "preguntas_banco": 6
+      "preguntas_banco": 4
     },
     {
       "codigo": "2.01.1.062",
@@ -6658,7 +6659,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Infección urinaria",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "2.01.1.063",
@@ -6667,7 +6668,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Insuficiencia renal aguda",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "2.01.1.064",
@@ -6748,7 +6749,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Alteraciones del desarrollo puberal",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "2.01.1.073",
@@ -6757,7 +6758,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Diabetes",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "2.01.1.074",
@@ -6784,7 +6785,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Talla baja",
-      "preguntas_banco": 6
+      "preguntas_banco": 4
     },
     {
       "codigo": "2.01.1.077",
@@ -6793,7 +6794,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Cefalea",
-      "preguntas_banco": 3
+      "preguntas_banco": 0
     },
     {
       "codigo": "2.01.1.078",
@@ -6820,7 +6821,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Retraso del desarrollo SM",
-      "preguntas_banco": 4
+      "preguntas_banco": 1
     },
     {
       "codigo": "2.01.1.081",
@@ -6847,7 +6848,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Síndrome hipertónico",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "2.01.1.084",
@@ -6910,7 +6911,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Hernia inguinal",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "2.01.1.091",
@@ -6919,7 +6920,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Alteraciones de los pies",
-      "preguntas_banco": 14
+      "preguntas_banco": 8
     },
     {
       "codigo": "2.01.1.092",
@@ -6928,7 +6929,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Displasia de caderas",
-      "preguntas_banco": 5
+      "preguntas_banco": 3
     },
     {
       "codigo": "2.01.1.093",
@@ -6991,7 +6992,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Epistaxis",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "2.01.1.100",
@@ -7072,7 +7073,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Dermatitis del pañal y de contacto",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "2.01.1.109",
@@ -7189,7 +7190,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Ictericia neonatal y del primer trimestre",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "2.01.1.122",
@@ -7216,7 +7217,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Sepsis neonatal",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "2.01.1.125",
@@ -7234,7 +7235,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Síndrome distress respiratorio",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "2.01.1.127",
@@ -7261,7 +7262,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Alteraciones menstruales",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "2.01.1.130",
@@ -7270,7 +7271,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Leucorrea y vulvovaginitis",
-      "preguntas_banco": 4
+      "preguntas_banco": 0
     },
     {
       "codigo": "2.01.1.131",
@@ -7315,7 +7316,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Depresión",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "2.01.1.137",
@@ -7342,7 +7343,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Trastornos de alimentación",
-      "preguntas_banco": 4
+      "preguntas_banco": 2
     },
     {
       "codigo": "2.01.1.140",
@@ -7360,7 +7361,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 1,
       "titulo": "Trastornos del desarrollo",
-      "preguntas_banco": 7
+      "preguntas_banco": 4
     },
     {
       "codigo": "2.01.1.142",
@@ -7396,7 +7397,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 2,
       "titulo": "Abdomen agudo",
-      "preguntas_banco": 5
+      "preguntas_banco": 4
     },
     {
       "codigo": "2.01.2.002",
@@ -7423,7 +7424,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 2,
       "titulo": "Compromiso de conciencia",
-      "preguntas_banco": 10
+      "preguntas_banco": 5
     },
     {
       "codigo": "2.01.2.005",
@@ -7513,7 +7514,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 2,
       "titulo": "Insuficiencia respiratoria aguda",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "2.01.2.014",
@@ -7621,7 +7622,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 2,
       "titulo": "Testículo agudo",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "2.01.2.026",
@@ -7639,7 +7640,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 3,
       "titulo": "Alimentación normal",
-      "preguntas_banco": 40
+      "preguntas_banco": 28
     },
     {
       "codigo": "2.01.3.002",
@@ -7648,7 +7649,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 3,
       "titulo": "Desarrollo psico-motor",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "2.01.3.003",
@@ -7693,7 +7694,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 3,
       "titulo": "Lactancia materna",
-      "preguntas_banco": 6
+      "preguntas_banco": 4
     },
     {
       "codigo": "2.01.3.008",
@@ -7765,7 +7766,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 3,
       "titulo": "Salud oral",
-      "preguntas_banco": 5
+      "preguntas_banco": 4
     },
     {
       "codigo": "2.01.3.016",
@@ -7774,7 +7775,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 3,
       "titulo": "Supervisión de salud- adolescente",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "2.01.3.017",
@@ -7810,7 +7811,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 4,
       "titulo": "Radiografía de tórax",
-      "preguntas_banco": 24
+      "preguntas_banco": 12
     },
     {
       "codigo": "2.01.4.002",
@@ -7819,7 +7820,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 4,
       "titulo": "Radiografía de abdomen simple",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "2.01.4.003",
@@ -7828,7 +7829,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 4,
       "titulo": "Ecotomografía abdominal",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "2.01.4.004",
@@ -7855,7 +7856,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 4,
       "titulo": "Radiografía de edad ósea",
-      "preguntas_banco": 8
+      "preguntas_banco": 6
     },
     {
       "codigo": "2.01.4.007",
@@ -7918,7 +7919,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 4,
       "titulo": "Electrolitos plasmáticos",
-      "preguntas_banco": 6
+      "preguntas_banco": 5
     },
     {
       "codigo": "2.01.4.014",
@@ -7936,7 +7937,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 4,
       "titulo": "Hemograma",
-      "preguntas_banco": 13
+      "preguntas_banco": 8
     },
     {
       "codigo": "2.01.4.016",
@@ -7945,7 +7946,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 4,
       "titulo": "Orina completa",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "2.01.4.017",
@@ -7990,7 +7991,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 4,
       "titulo": "Pruebas de coagulación",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "2.01.4.022",
@@ -8035,7 +8036,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 4,
       "titulo": "Test del sudor",
-      "preguntas_banco": 9
+      "preguntas_banco": 2
     },
     {
       "codigo": "2.01.5.001",
@@ -8044,7 +8045,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 5,
       "titulo": "Antropometría en la edad pediátrica",
-      "preguntas_banco": 3
+      "preguntas_banco": 1
     },
     {
       "codigo": "2.01.5.002",
@@ -8053,7 +8054,7 @@
       "especialidad_nombre": "Pediatría",
       "seccion": 5,
       "titulo": "Atención inmediata del recién nacido",
-      "preguntas_banco": 24
+      "preguntas_banco": 11
     },
     {
       "codigo": "2.01.5.003",
@@ -8152,7 +8153,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 1,
       "titulo": "Aborto espontáneo",
-      "preguntas_banco": 4
+      "preguntas_banco": 3
     },
     {
       "codigo": "3.01.1.002",
@@ -8179,7 +8180,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 1,
       "titulo": "Diabetes y embarazo",
-      "preguntas_banco": 83
+      "preguntas_banco": 49
     },
     {
       "codigo": "3.01.1.005",
@@ -8188,7 +8189,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 1,
       "titulo": "Embarazo con edad gestacional dudosa",
-      "preguntas_banco": 13
+      "preguntas_banco": 4
     },
     {
       "codigo": "3.01.1.006",
@@ -8197,7 +8198,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 1,
       "titulo": "Embarazo ectópico no complicado",
-      "preguntas_banco": 5
+      "preguntas_banco": 4
     },
     {
       "codigo": "3.01.1.007",
@@ -8251,7 +8252,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 1,
       "titulo": "Amenorrea",
-      "preguntas_banco": 19
+      "preguntas_banco": 15
     },
     {
       "codigo": "3.01.1.013",
@@ -8278,7 +8279,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 1,
       "titulo": "Endometriosis",
-      "preguntas_banco": 4
+      "preguntas_banco": 2
     },
     {
       "codigo": "3.01.1.016",
@@ -8296,7 +8297,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 1,
       "titulo": "Enfermedades de transmisión sexual",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "3.01.1.018",
@@ -8332,7 +8333,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 1,
       "titulo": "Mioma uterino",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "3.01.1.022",
@@ -8413,7 +8414,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 1,
       "titulo": "Cáncer de mama",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "3.01.1.031",
@@ -8458,7 +8459,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 2,
       "titulo": "Crisis hipertensiva del embarazo",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "3.01.2.004",
@@ -8503,7 +8504,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 2,
       "titulo": "Hemorragia genital aguda (metrorragia",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "3.01.2.009",
@@ -8530,7 +8531,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 2,
       "titulo": "Metrorragia: placenta previa",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "3.01.2.012",
@@ -8539,7 +8540,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 2,
       "titulo": "Parto prematuro",
-      "preguntas_banco": 10
+      "preguntas_banco": 7
     },
     {
       "codigo": "3.01.2.013",
@@ -8557,7 +8558,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 2,
       "titulo": "Rotura prematura de membranas",
-      "preguntas_banco": 10
+      "preguntas_banco": 6
     },
     {
       "codigo": "3.01.2.015",
@@ -8566,7 +8567,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 2,
       "titulo": "Rotura uterina",
-      "preguntas_banco": 5
+      "preguntas_banco": 2
     },
     {
       "codigo": "3.01.2.016",
@@ -8575,7 +8576,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 2,
       "titulo": "Dolor pélvico agudo",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "3.01.2.017",
@@ -8629,7 +8630,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 3,
       "titulo": "Control prenatal",
-      "preguntas_banco": 36
+      "preguntas_banco": 25
     },
     {
       "codigo": "3.01.3.002",
@@ -8656,7 +8657,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 3,
       "titulo": "Lactancia",
-      "preguntas_banco": 5
+      "preguntas_banco": 3
     },
     {
       "codigo": "3.01.3.005",
@@ -8782,7 +8783,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 4,
       "titulo": "Mamografía",
-      "preguntas_banco": 7
+      "preguntas_banco": 2
     },
     {
       "codigo": "3.01.4.003",
@@ -8791,7 +8792,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 4,
       "titulo": "Ecotomografía obstétrica normal",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "3.01.4.004",
@@ -8809,7 +8810,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 4,
       "titulo": "Ecotomografía ginecológica",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "3.01.4.006",
@@ -8854,7 +8855,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 5,
       "titulo": "Cesárea",
-      "preguntas_banco": 16
+      "preguntas_banco": 11
     },
     {
       "codigo": "3.01.5.003",
@@ -8863,7 +8864,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 5,
       "titulo": "Doppler materno-fetal",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "3.01.5.004",
@@ -8908,7 +8909,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 5,
       "titulo": "Flujo vaginal (pH)",
-      "preguntas_banco": 16
+      "preguntas_banco": 11
     },
     {
       "codigo": "3.01.5.009",
@@ -8917,7 +8918,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 5,
       "titulo": "Monitorizacion fetal (estresante y no estresante)",
-      "preguntas_banco": 8
+      "preguntas_banco": 5
     },
     {
       "codigo": "3.01.5.010",
@@ -8926,7 +8927,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 5,
       "titulo": "Parto normal",
-      "preguntas_banco": 15
+      "preguntas_banco": 11
     },
     {
       "codigo": "3.01.5.011",
@@ -8944,7 +8945,7 @@
       "especialidad_nombre": "Obstetricia y ginecología",
       "seccion": 5,
       "titulo": "Prueba de trabajo de parto",
-      "preguntas_banco": 30
+      "preguntas_banco": 16
     },
     {
       "codigo": "3.01.5.013",
@@ -9016,7 +9017,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 1,
       "titulo": "Hernia hiatal",
-      "preguntas_banco": 6
+      "preguntas_banco": 4
     },
     {
       "codigo": "4.01.1.007",
@@ -9034,7 +9035,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 1,
       "titulo": "Cáncer gástrico",
-      "preguntas_banco": 4
+      "preguntas_banco": 2
     },
     {
       "codigo": "4.01.1.009",
@@ -9151,7 +9152,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 1,
       "titulo": "Hidatidosis hepática",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.01.1.023",
@@ -9178,7 +9179,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 1,
       "titulo": "Colecistitis crónica",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.01.1.026",
@@ -9250,7 +9251,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 1,
       "titulo": "Cáncer del tiroides",
-      "preguntas_banco": 5
+      "preguntas_banco": 3
     },
     {
       "codigo": "4.01.1.034",
@@ -9304,7 +9305,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 1,
       "titulo": "Cáncer pulmonar",
-      "preguntas_banco": 5
+      "preguntas_banco": 4
     },
     {
       "codigo": "4.01.1.040",
@@ -9412,7 +9413,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 1,
       "titulo": "Pie diabético",
-      "preguntas_banco": 11
+      "preguntas_banco": 6
     },
     {
       "codigo": "4.01.1.052",
@@ -9457,7 +9458,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 1,
       "titulo": "Secuelas de quemaduras",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.01.1.057",
@@ -9502,7 +9503,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 2,
       "titulo": "Esofagitis cáustica",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "4.01.2.002",
@@ -9511,7 +9512,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 2,
       "titulo": "Abdomen agudo",
-      "preguntas_banco": 5
+      "preguntas_banco": 2
     },
     {
       "codigo": "4.01.2.003",
@@ -9547,7 +9548,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 2,
       "titulo": "Apendicitis aguda",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.01.2.007",
@@ -9610,7 +9611,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 2,
       "titulo": "Pancreatitis aguda",
-      "preguntas_banco": 7
+      "preguntas_banco": 4
     },
     {
       "codigo": "4.01.2.014",
@@ -9655,7 +9656,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 2,
       "titulo": "Hemoptisis masiva",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.01.2.019",
@@ -9925,7 +9926,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 3,
       "titulo": "Manejo del dolor",
-      "preguntas_banco": 80
+      "preguntas_banco": 51
     },
     {
       "codigo": "4.01.3.018",
@@ -9943,7 +9944,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 4,
       "titulo": "Radiografía de tórax",
-      "preguntas_banco": 4
+      "preguntas_banco": 2
     },
     {
       "codigo": "4.01.4.002",
@@ -10015,7 +10016,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 4,
       "titulo": "Mamografía",
-      "preguntas_banco": 6
+      "preguntas_banco": 3
     },
     {
       "codigo": "4.01.4.010",
@@ -10123,7 +10124,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 5,
       "titulo": "Colonoscopía",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.01.5.007",
@@ -10330,7 +10331,7 @@
       "especialidad_nombre": "Cirugía general y anestesia",
       "seccion": 5,
       "titulo": "Punción pleural",
-      "preguntas_banco": 3
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.01.5.030",
@@ -10420,7 +10421,7 @@
       "especialidad_nombre": "Traumatología",
       "seccion": 1,
       "titulo": "Pie plano",
-      "preguntas_banco": 3
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.02.1.008",
@@ -10474,7 +10475,7 @@
       "especialidad_nombre": "Traumatología",
       "seccion": 2,
       "titulo": "Fractura de cadera",
-      "preguntas_banco": 28
+      "preguntas_banco": 22
     },
     {
       "codigo": "4.02.2.005",
@@ -10483,7 +10484,7 @@
       "especialidad_nombre": "Traumatología",
       "seccion": 2,
       "titulo": "Fractura de la muñeca",
-      "preguntas_banco": 6
+      "preguntas_banco": 5
     },
     {
       "codigo": "4.02.2.006",
@@ -10492,7 +10493,7 @@
       "especialidad_nombre": "Traumatología",
       "seccion": 2,
       "titulo": "Fractura inestable de la pelvis",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.02.2.007",
@@ -10555,7 +10556,7 @@
       "especialidad_nombre": "Traumatología",
       "seccion": 2,
       "titulo": "Luxofractura del tobillo",
-      "preguntas_banco": 7
+      "preguntas_banco": 5
     },
     {
       "codigo": "4.02.2.014",
@@ -10672,7 +10673,7 @@
       "especialidad_nombre": "Traumatología",
       "seccion": 4,
       "titulo": "Radiografía de displasia cadera",
-      "preguntas_banco": 3
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.02.4.005",
@@ -10753,7 +10754,7 @@
       "especialidad_nombre": "Traumatología",
       "seccion": 5,
       "titulo": "Tracción de partes blandas",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "4.02.5.005",
@@ -10780,7 +10781,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 1,
       "titulo": "Cáncer de próstata",
-      "preguntas_banco": 15
+      "preguntas_banco": 2
     },
     {
       "codigo": "4.03.1.003",
@@ -10816,7 +10817,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 1,
       "titulo": "Enfermedades de transmisión sexual",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "4.03.1.007",
@@ -10843,7 +10844,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 1,
       "titulo": "Fimosis, parafimosis",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "4.03.1.010",
@@ -10852,7 +10853,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 1,
       "titulo": "Hematuria",
-      "preguntas_banco": 18
+      "preguntas_banco": 9
     },
     {
       "codigo": "4.03.1.011",
@@ -10879,7 +10880,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 1,
       "titulo": "Hiperplasia prostática benigna",
-      "preguntas_banco": 3
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.03.1.014",
@@ -10888,7 +10889,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 1,
       "titulo": "Incontinencia urinaria",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "4.03.1.015",
@@ -10960,7 +10961,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 1,
       "titulo": "Tumor renal",
-      "preguntas_banco": 9
+      "preguntas_banco": 18
     },
     {
       "codigo": "4.03.1.023",
@@ -10978,7 +10979,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 1,
       "titulo": "Tumor testicular",
-      "preguntas_banco": 8
+      "preguntas_banco": 3
     },
     {
       "codigo": "4.03.1.025",
@@ -10996,7 +10997,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 1,
       "titulo": "Uropatía alta",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.03.1.027",
@@ -11005,7 +11006,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 1,
       "titulo": "Uropatía obstructiva baja",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.03.1.028",
@@ -11014,7 +11015,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 1,
       "titulo": "Varicocele",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.03.2.001",
@@ -11023,7 +11024,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 2,
       "titulo": "Cólico renal",
-      "preguntas_banco": 4
+      "preguntas_banco": 2
     },
     {
       "codigo": "4.03.2.002",
@@ -11041,7 +11042,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 2,
       "titulo": "Parafimosis",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.03.2.004",
@@ -11095,7 +11096,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 2,
       "titulo": "Traumatismo uretral",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.03.3.001",
@@ -11113,7 +11114,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 3,
       "titulo": "Epidemiología del adenoma de próstata",
-      "preguntas_banco": 5
+      "preguntas_banco": 0
     },
     {
       "codigo": "4.03.3.003",
@@ -11149,7 +11150,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 3,
       "titulo": "Trasplante renal, indicaciones y complicaciones",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.03.4.001",
@@ -11158,7 +11159,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 4,
       "titulo": "Radiografía renal y vesical simple",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.03.4.002",
@@ -11185,7 +11186,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 4,
       "titulo": "TAC de abdomen y pelvis",
-      "preguntas_banco": 7
+      "preguntas_banco": 4
     },
     {
       "codigo": "4.03.4.005",
@@ -11221,7 +11222,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 4,
       "titulo": "Ecotomografía testicular",
-      "preguntas_banco": 9
+      "preguntas_banco": 5
     },
     {
       "codigo": "4.03.4.009",
@@ -11239,7 +11240,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 4,
       "titulo": "Antígeno prostático específico",
-      "preguntas_banco": 7
+      "preguntas_banco": 4
     },
     {
       "codigo": "4.03.4.011",
@@ -11248,7 +11249,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 4,
       "titulo": "Examen de orina completo, urocultivo",
-      "preguntas_banco": 14
+      "preguntas_banco": 9
     },
     {
       "codigo": "4.03.4.012",
@@ -11284,7 +11285,7 @@
       "especialidad_nombre": "Urología",
       "seccion": 5,
       "titulo": "Cistoscopia",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "4.03.5.003",
@@ -11329,7 +11330,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 1,
       "titulo": "Trastorno de pánico con o sin agorafobia",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "5.01.1.002",
@@ -11338,7 +11339,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 1,
       "titulo": "Trastorno obsesivo compulsivo",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "5.01.1.003",
@@ -11383,7 +11384,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 1,
       "titulo": "Primer episodio depresivo",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "5.01.1.008",
@@ -11401,7 +11402,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 1,
       "titulo": "Trastorno bipolar",
-      "preguntas_banco": 13
+      "preguntas_banco": 11
     },
     {
       "codigo": "5.01.1.010",
@@ -11419,7 +11420,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 1,
       "titulo": "Consumo perjudicial de alcohol y drogas",
-      "preguntas_banco": 4
+      "preguntas_banco": 3
     },
     {
       "codigo": "5.01.1.012",
@@ -11428,7 +11429,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 1,
       "titulo": "Dependencia de alcohol",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "5.01.1.013",
@@ -11464,7 +11465,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 1,
       "titulo": "Trastornos de la personalidad",
-      "preguntas_banco": 5
+      "preguntas_banco": 4
     },
     {
       "codigo": "5.01.1.017",
@@ -11581,7 +11582,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 1,
       "titulo": "Intento de suicidio en niños y adolescentes",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "5.01.1.030",
@@ -11626,7 +11627,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 1,
       "titulo": "Trastornos del ánimo en niños",
-      "preguntas_banco": 18
+      "preguntas_banco": 6
     },
     {
       "codigo": "5.01.1.035",
@@ -11644,7 +11645,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 1,
       "titulo": "Trastorno de ansiedad generalizada",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "5.01.2.001",
@@ -11653,7 +11654,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 2,
       "titulo": "Conducta suicida",
-      "preguntas_banco": 17
+      "preguntas_banco": 8
     },
     {
       "codigo": "5.01.2.002",
@@ -11662,7 +11663,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 2,
       "titulo": "Agitación psicomotora",
-      "preguntas_banco": 13
+      "preguntas_banco": 6
     },
     {
       "codigo": "5.01.2.003",
@@ -11707,7 +11708,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 3,
       "titulo": "Higiene de la alimentación",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "5.01.3.005",
@@ -11716,7 +11717,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 3,
       "titulo": "Higiene del sueño",
-      "preguntas_banco": 6
+      "preguntas_banco": 2
     },
     {
       "codigo": "5.01.3.006",
@@ -11725,7 +11726,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 3,
       "titulo": "Disforia de género",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "5.01.3.007",
@@ -11842,7 +11843,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 5,
       "titulo": "Examen físico y neurológico: control de neurolépticos de depósito",
-      "preguntas_banco": 4
+      "preguntas_banco": 1
     },
     {
       "codigo": "5.01.5.003",
@@ -11851,7 +11852,7 @@
       "especialidad_nombre": "Psiquiatría",
       "seccion": 5,
       "titulo": "Intervención en crisis",
-      "preguntas_banco": 18
+      "preguntas_banco": 10
     },
     {
       "codigo": "5.01.5.004",
@@ -11869,7 +11870,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 1,
       "titulo": "Acné",
-      "preguntas_banco": 41
+      "preguntas_banco": 35
     },
     {
       "codigo": "6.01.1.002",
@@ -11878,7 +11879,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 1,
       "titulo": "Alopecías",
-      "preguntas_banco": 2
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.01.1.003",
@@ -11896,7 +11897,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 1,
       "titulo": "Dermatitis atópica",
-      "preguntas_banco": 9
+      "preguntas_banco": 7
     },
     {
       "codigo": "6.01.1.005",
@@ -11905,7 +11906,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 1,
       "titulo": "Dermatitis del pañal",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "6.01.1.006",
@@ -11923,7 +11924,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 1,
       "titulo": "Dermitis de contacto",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "6.01.1.008",
@@ -12022,7 +12023,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 1,
       "titulo": "Micosis superficiales",
-      "preguntas_banco": 6
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.01.1.019",
@@ -12103,7 +12104,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 1,
       "titulo": "Sarna",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "6.01.1.028",
@@ -12130,7 +12131,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 1,
       "titulo": "Urticaria aguda",
-      "preguntas_banco": 0
+      "preguntas_banco": 3
     },
     {
       "codigo": "6.01.1.033",
@@ -12139,7 +12140,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 1,
       "titulo": "Vasculitis cutáneas",
-      "preguntas_banco": 4
+      "preguntas_banco": 1
     },
     {
       "codigo": "6.01.1.031",
@@ -12184,7 +12185,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 2,
       "titulo": "Erisipela / Celulitis",
-      "preguntas_banco": 4
+      "preguntas_banco": 2
     },
     {
       "codigo": "6.01.2.004",
@@ -12211,7 +12212,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 2,
       "titulo": "Hemangiomas y malformaciones vasculares del recién nacido",
-      "preguntas_banco": 7
+      "preguntas_banco": 3
     },
     {
       "codigo": "6.01.2.007",
@@ -12256,7 +12257,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 2,
       "titulo": "Quemadura solar",
-      "preguntas_banco": 3
+      "preguntas_banco": 1
     },
     {
       "codigo": "6.01.2.012",
@@ -12265,7 +12266,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 2,
       "titulo": "Sífilis congénita",
-      "preguntas_banco": 8
+      "preguntas_banco": 4
     },
     {
       "codigo": "6.01.2.013",
@@ -12301,7 +12302,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 2,
       "titulo": "Urticaria y angioedema",
-      "preguntas_banco": 4
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.01.3.001",
@@ -12373,7 +12374,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 4,
       "titulo": "Patch test",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "6.01.4.006",
@@ -12391,7 +12392,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 4,
       "titulo": "VDRL - MHATP",
-      "preguntas_banco": 2
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.01.5.001",
@@ -12400,7 +12401,7 @@
       "especialidad_nombre": "Dermatología",
       "seccion": 5,
       "titulo": "Biopsia de piel",
-      "preguntas_banco": 10
+      "preguntas_banco": 5
     },
     {
       "codigo": "6.02.1.001",
@@ -12409,7 +12410,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 1,
       "titulo": "Ametropía",
-      "preguntas_banco": 3
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.02.1.002",
@@ -12427,7 +12428,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 1,
       "titulo": "Catarata",
-      "preguntas_banco": 3
+      "preguntas_banco": 2
     },
     {
       "codigo": "6.02.1.004",
@@ -12499,7 +12500,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 1,
       "titulo": "Estrabismo",
-      "preguntas_banco": 8
+      "preguntas_banco": 2
     },
     {
       "codigo": "6.02.1.012",
@@ -12517,7 +12518,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 1,
       "titulo": "Glaucoma crónico",
-      "preguntas_banco": 7
+      "preguntas_banco": 6
     },
     {
       "codigo": "6.02.1.014",
@@ -12526,7 +12527,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 1,
       "titulo": "Hifema",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.02.1.015",
@@ -12607,7 +12608,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 1,
       "titulo": "Retinopatía diabética",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "6.02.1.024",
@@ -12652,7 +12653,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 1,
       "titulo": "Tumores de párpado",
-      "preguntas_banco": 2
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.02.1.029",
@@ -12679,7 +12680,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 1,
       "titulo": "Vicios de refracción en personas de 65 años o más",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.02.2.001",
@@ -12688,7 +12689,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 2,
       "titulo": "Causticaciones oculares",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "6.02.2.002",
@@ -12697,7 +12698,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 2,
       "titulo": "Contusión ocular",
-      "preguntas_banco": 6
+      "preguntas_banco": 1
     },
     {
       "codigo": "6.02.2.003",
@@ -12706,7 +12707,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 2,
       "titulo": "Desprendimiento de retina",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "6.02.2.004",
@@ -12715,7 +12716,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 2,
       "titulo": "Disminución de la visión (lenta vs súbita)",
-      "preguntas_banco": 3
+      "preguntas_banco": 1
     },
     {
       "codigo": "6.02.2.005",
@@ -12760,7 +12761,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 2,
       "titulo": "Parálisis III par + midriasis",
-      "preguntas_banco": 5
+      "preguntas_banco": 3
     },
     {
       "codigo": "6.02.2.010",
@@ -12769,7 +12770,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 2,
       "titulo": "Úlcera corneal",
-      "preguntas_banco": 5
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.02.3.001",
@@ -12787,7 +12788,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 3,
       "titulo": "Diabetes",
-      "preguntas_banco": 5
+      "preguntas_banco": 2
     },
     {
       "codigo": "6.02.3.003",
@@ -12796,7 +12797,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 3,
       "titulo": "Examen visual en adulto",
-      "preguntas_banco": 9
+      "preguntas_banco": 2
     },
     {
       "codigo": "6.02.3.004",
@@ -12814,7 +12815,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 3,
       "titulo": "Hipertensión arterial",
-      "preguntas_banco": 2
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.02.3.006",
@@ -12832,7 +12833,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 4,
       "titulo": "Campo visual",
-      "preguntas_banco": 8
+      "preguntas_banco": 7
     },
     {
       "codigo": "6.02.4.002",
@@ -12886,7 +12887,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 5,
       "titulo": "Eversión palpebral",
-      "preguntas_banco": 2
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.02.5.006",
@@ -12895,7 +12896,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 5,
       "titulo": "Examen de rojo pupilar con oftalmoscopio",
-      "preguntas_banco": 7
+      "preguntas_banco": 3
     },
     {
       "codigo": "6.02.5.007",
@@ -12940,7 +12941,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 5,
       "titulo": "Reflejos pupilares",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.02.5.012",
@@ -12967,7 +12968,7 @@
       "especialidad_nombre": "Oftalmología",
       "seccion": 5,
       "titulo": "Toma de visión",
-      "preguntas_banco": 4
+      "preguntas_banco": 1
     },
     {
       "codigo": "6.03.1.001",
@@ -13030,7 +13031,7 @@
       "especialidad_nombre": "Otorrinolaringología",
       "seccion": 1,
       "titulo": "Diagnóstico diferencial de hipoacusias de transmisión",
-      "preguntas_banco": 12
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.03.1.008",
@@ -13048,7 +13049,7 @@
       "especialidad_nombre": "Otorrinolaringología",
       "seccion": 1,
       "titulo": "Disfonías agudas",
-      "preguntas_banco": 6
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.03.1.010",
@@ -13075,7 +13076,7 @@
       "especialidad_nombre": "Otorrinolaringología",
       "seccion": 1,
       "titulo": "Epistaxis leve",
-      "preguntas_banco": 14
+      "preguntas_banco": 8
     },
     {
       "codigo": "6.03.1.013",
@@ -13093,7 +13094,7 @@
       "especialidad_nombre": "Otorrinolaringología",
       "seccion": 1,
       "titulo": "Hipoacusia neonatal",
-      "preguntas_banco": 5
+      "preguntas_banco": 7
     },
     {
       "codigo": "6.03.1.015",
@@ -13102,7 +13103,7 @@
       "especialidad_nombre": "Otorrinolaringología",
       "seccion": 1,
       "titulo": "Masa cervical",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.03.1.016",
@@ -13111,7 +13112,7 @@
       "especialidad_nombre": "Otorrinolaringología",
       "seccion": 1,
       "titulo": "Obstrucción nasal crónica",
-      "preguntas_banco": 12
+      "preguntas_banco": 6
     },
     {
       "codigo": "6.03.1.017",
@@ -13147,7 +13148,7 @@
       "especialidad_nombre": "Otorrinolaringología",
       "seccion": 1,
       "titulo": "Otitis media aguda",
-      "preguntas_banco": 4
+      "preguntas_banco": 1
     },
     {
       "codigo": "6.03.1.021",
@@ -13165,7 +13166,7 @@
       "especialidad_nombre": "Otorrinolaringología",
       "seccion": 1,
       "titulo": "Otitis media crónica y complicaciones",
-      "preguntas_banco": 0
+      "preguntas_banco": 1
     },
     {
       "codigo": "6.03.1.023",
@@ -13192,7 +13193,7 @@
       "especialidad_nombre": "Otorrinolaringología",
       "seccion": 1,
       "titulo": "Rinorrea crónica",
-      "preguntas_banco": 7
+      "preguntas_banco": 3
     },
     {
       "codigo": "6.03.1.026",
@@ -13210,7 +13211,7 @@
       "especialidad_nombre": "Otorrinolaringología",
       "seccion": 1,
       "titulo": "Síndrome de apnea del sueño",
-      "preguntas_banco": 3
+      "preguntas_banco": 1
     },
     {
       "codigo": "6.03.1.028",
@@ -13417,7 +13418,7 @@
       "especialidad_nombre": "Otorrinolaringología",
       "seccion": 2,
       "titulo": "Síndrome vertiginoso agudo",
-      "preguntas_banco": 2
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.03.2.018",
@@ -13543,7 +13544,7 @@
       "especialidad_nombre": "Otorrinolaringología",
       "seccion": 4,
       "titulo": "Audiometría básica",
-      "preguntas_banco": 5
+      "preguntas_banco": 3
     },
     {
       "codigo": "6.03.4.007",
@@ -13696,7 +13697,7 @@
       "especialidad_nombre": "Otorrinolaringología",
       "seccion": 5,
       "titulo": "Taponamiento nasal anterior",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "6.03.5.014",
@@ -13777,7 +13778,7 @@
       "especialidad_nombre": "Salud pública",
       "seccion": 3,
       "titulo": "Demografía y salud pública",
-      "preguntas_banco": 5
+      "preguntas_banco": 4
     },
     {
       "codigo": "7.01.3.008",
@@ -13786,7 +13787,7 @@
       "especialidad_nombre": "Salud pública",
       "seccion": 3,
       "titulo": "Diagnóstico de situación de salud:",
-      "preguntas_banco": 7
+      "preguntas_banco": 6
     },
     {
       "codigo": "7.01.3.009",
@@ -13813,7 +13814,7 @@
       "especialidad_nombre": "Salud pública",
       "seccion": 3,
       "titulo": "Fuentes de información para el diagnóstico",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "7.01.3.012",
@@ -13948,7 +13949,7 @@
       "especialidad_nombre": "Salud pública",
       "seccion": 3,
       "titulo": "Causalidad y sesgos",
-      "preguntas_banco": 5
+      "preguntas_banco": 4
     },
     {
       "codigo": "7.01.3.027",
@@ -13957,7 +13958,7 @@
       "especialidad_nombre": "Salud pública",
       "seccion": 3,
       "titulo": "Investigación epidemiológica",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "7.01.3.028",
@@ -13966,7 +13967,7 @@
       "especialidad_nombre": "Salud pública",
       "seccion": 3,
       "titulo": "Pruebas de screening (tamizaje) y diagnósticas",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "7.01.3.029",
@@ -14137,7 +14138,7 @@
       "especialidad_nombre": "Salud pública",
       "seccion": 3,
       "titulo": "Auditoría y acreditación",
-      "preguntas_banco": 1
+      "preguntas_banco": 0
     },
     {
       "codigo": "7.01.3.049",
@@ -14146,7 +14147,7 @@
       "especialidad_nombre": "Salud pública",
       "seccion": 3,
       "titulo": "Financiamiento del sector salud",
-      "preguntas_banco": 2
+      "preguntas_banco": 1
     },
     {
       "codigo": "7.01.3.050",
