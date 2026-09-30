@@ -99,11 +99,24 @@ document.querySelectorAll("[data-nav]").forEach((b) => {
 // Cuando aparece una versión nueva del SW (cache name distinto por SHA),
 // fuerza el reload del cliente para que use los nuevos JS/CSS.
 if ("serviceWorker" in navigator) {
-  let recargando = false;
+  // Si al cargar la página ya había un SW controlándola, un controllerchange
+  // posterior es una actualización real. Si no había (primera visita), es el
+  // SW recién instalado tomando control con clients.claim(): recargar ahí
+  // cortaba a medio camino la descarga de 8 MB del banco y había que bajarlo
+  // de nuevo.
+  let habiaControlador = !!navigator.serviceWorker.controller;
+  let recargaPendiente = false;
   navigator.serviceWorker.addEventListener("controllerchange", () => {
-    if (recargando) return;
-    recargando = true;
-    location.reload();
+    if (!habiaControlador) { habiaControlador = true; return; }
+    if (recargaPendiente) return;
+    recargaPendiente = true;
+    toast("Hay una versión nueva de InternOS. Se aplicará al cambiar de pantalla.", "info");
+  });
+  // La recarga se aplica al navegar, no en el acto, para no cortar un quiz a
+  // medias. No hay riesgo de mezclar versiones: el único import dinámico de la
+  // app (mcq.js → db.js) apunta a un módulo que ya está cargado.
+  window.addEventListener("hashchange", () => {
+    if (recargaPendiente) location.reload();
   });
   window.addEventListener("load", async () => {
     try {

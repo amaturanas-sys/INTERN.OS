@@ -40,9 +40,45 @@ function match(segmentos) {
 let onChange = () => {};
 export function alCambiar(fn) { onChange = fn; }
 
+// Si llega un hashchange mientras una vista todavía se está construyendo (p.
+// ej. vistaQuizFiltros hace un getAll de miles de preguntas), antes se
+// descartaba con un `return` y se perdía para siempre: la URL ya decía
+// #/progreso pero la pantalla seguía en el quiz. Ahora se anota como
+// pendiente y se vuelve a renderizar al terminar, leyendo el hash más
+// reciente. Varios cambios seguidos se colapsan en un solo render final.
 let renderEnCurso = false;
+let renderPendiente = false;
+
+// Construido con nodos y textContent, no con innerHTML: el mensaje del error
+// puede llegar a contener texto de la URL.
+function pintarErrorDeVista(v, e) {
+  const detalle = ((e && e.message) || "Error desconocido").toString().slice(0, 240);
+  const boton = (texto, clase, accion) => {
+    const b = document.createElement("button");
+    b.className = `btn ${clase}`;
+    b.textContent = texto;
+    b.addEventListener("click", accion);
+    return b;
+  };
+  const card = document.createElement("div");
+  card.className = "card";
+  const h = document.createElement("h2");
+  h.textContent = "Algo falló al cargar la vista";
+  const p = document.createElement("p");
+  p.className = "muted";
+  p.textContent = detalle;
+  const acciones = document.createElement("div");
+  acciones.className = "runner__acciones";
+  acciones.append(
+    boton("Volver al inicio", "btn--primary", () => { location.hash = "#/"; }),
+    boton("Recargar", "btn--ghost", () => location.reload()),
+  );
+  card.append(h, p, acciones);
+  v.replaceChildren(card);
+}
+
 async function render() {
-  if (renderEnCurso) return;       // anti-loop
+  if (renderEnCurso) { renderPendiente = true; return; }
   renderEnCurso = true;
   try {
     const segmentos = parseHash();
@@ -53,16 +89,7 @@ async function render() {
       catch (e) {
         console.error("[router]", e);
         const v = document.getElementById("vista");
-        if (v) {
-          // Mensaje amigable + detalles colapsables (no stack en crudo).
-          const detalle = ((e && e.message) || "Error desconocido").toString().slice(0, 240);
-          v.innerHTML = `<div class="card"><h2>Algo falló al cargar la vista</h2>` +
-            `<p class="muted">${detalle}</p>` +
-            `<div class="runner__acciones">` +
-              `<button class="btn btn--primary" onclick="location.hash='#/'">Volver al inicio</button>` +
-              `<button class="btn btn--ghost" onclick="location.reload()">Recargar</button>` +
-            `</div></div>`;
-        }
+        if (v) pintarErrorDeVista(v, e);
       }
     } else {
       // Ninguna ruta matcheó: redirige a inicio sin recursión.
@@ -75,6 +102,10 @@ async function render() {
     }
   } finally {
     renderEnCurso = false;
+    if (renderPendiente) {
+      renderPendiente = false;
+      render();
+    }
   }
 }
 

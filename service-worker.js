@@ -104,15 +104,33 @@ self.addEventListener("fetch", (e) => {
   const req = e.request;
   if (req.method !== "GET") return;
   if (esDataJson(req.url)) {
-    e.respondWith(
-      fetch(req).then((res) => {
-        if (res && res.status === 200 && req.url.startsWith(self.location.origin)) {
-          const copia = res.clone();
-          caches.open(CACHE).then((c) => c.put(req, copia));
-        }
-        return res;
-      }).catch(() => caches.match(req))
-    );
+    const red = fetch(req).then((res) => {
+      if (res && res.status === 200 && req.url.startsWith(self.location.origin)) {
+        const copia = res.clone();
+        caches.open(CACHE).then((c) => c.put(req, copia));
+      }
+      return res;
+    });
+    // Que la actualización de la caché termine aunque ya se haya respondido.
+    e.waitUntil(red.then(() => {}, () => {}));
+    e.respondWith((async () => {
+      const enCache = await caches.match(req);
+      if (!enCache) {
+        // Sin copia local no hay nada mejor que esperar a la red. Antes se
+        // devolvía undefined y respondWith lanzaba TypeError.
+        try { return await red; } catch (_) { return Response.error(); }
+      }
+      // Con copia local, la red tiene 3 s para responder. Cuenta hasta que
+      // llegan las cabeceras, no la descarga completa: una red lenta pero viva
+      // responde a tiempo, mientras que un portal cautivo o un wifi sin salida
+      // dejaban el splash colgado hasta el timeout del sistema (un minuto o más).
+      const limite = new Promise((r) => setTimeout(() => r(null), 3000));
+      try {
+        const res = await Promise.race([red, limite]);
+        if (res && res.ok) return res;
+      } catch (_) { /* red caída: se usa la caché */ }
+      return enCache;
+    })());
     return;
   }
   // Cache-first para el resto (assets versionados por SHA).
@@ -125,7 +143,18 @@ self.addEventListener("fetch", (e) => {
           caches.open(CACHE).then((c) => c.put(req, copia));
         }
         return res;
-      }).catch(() => caches.match("./index.html"));
+      }).catch(async () => {
+        // El respaldo a index.html solo tiene sentido para navegaciones.
+        // Para un .js o .css devolvía HTML donde se esperaba un módulo y el
+        // navegador mostraba un error de MIME incomprensible en vez de un
+        // error de red. Además, respondWith(undefined) lanza TypeError, así
+        // que siempre se devuelve una Response.
+        if (req.mode === "navigate") {
+          const html = await caches.match("./index.html");
+          if (html) return html;
+        }
+        return Response.error();
+      });
     })
   );
 });
