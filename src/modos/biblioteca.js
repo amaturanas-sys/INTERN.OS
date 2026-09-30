@@ -20,6 +20,7 @@
 import { el, mount, toast, modal, hoyISO } from "../ui/dom.js";
 import { navegar } from "../ui/router.js";
 import { icono } from "../ui/iconos.js";
+import { reducirImagen, TOPE_IMAGEN_BYTES } from "../ui/imagen.js";
 import { get, getAll, put, del } from "../db/db.js";
 
 let _data = null;
@@ -912,13 +913,22 @@ export async function vistaBibliotecaEditor({ id }) {
     fileInput.value = "";  // reset inmediato para permitir mismo archivo otra vez
     // Encolar en el lock para serializar
     uploadLock = uploadLock.then(async () => {
-      if (file.size > 5 * 1024 * 1024) {
-        alert("La imagen excede 5 MB. Comprímela antes de subir.");
+      // Antes se rechazaba sobre 5 MB y se le pedía al usuario comprimirla
+      // él mismo; ahora se reduce en el dispositivo (1600 px de lado mayor).
+      let blob;
+      try {
+        blob = await reducirImagen(file);
+      } catch (e) {
+        toast(e.message || "No se pudo procesar la imagen.", "error");
+        return;
+      }
+      if (blob.size > TOPE_IMAGEN_BYTES) {
+        toast(`La imagen pesa ${(blob.size / 1048576).toFixed(1)} MB incluso reducida. Usa una más liviana.`, "error");
         return;
       }
       const imgId = `img_${id}_${Date.now()}`;
       await put("biblioteca_imagenes", {
-        id: imgId, blob: file, mime: file.type,
+        id: imgId, blob, mime: blob.type || file.type,
         titulo: "", descripcion: "",
         fecha: hoyISO(),
       });
