@@ -91,7 +91,10 @@ export function modal(titulo, contenido, acciones = []) {
   const cerrar = () => {
     overlay.remove();
     document.removeEventListener("keydown", onKey);
-    if (foco_previo && foco_previo.focus) foco_previo.focus();
+    // El elemento que abrió el modal puede haber desaparecido (p. ej. la
+    // acción del modal re-renderizó la vista). Enfocar un nodo fuera del
+    // documento no hace nada y el foco quedaba perdido en <body>.
+    if (foco_previo && foco_previo.focus && document.contains(foco_previo)) foco_previo.focus();
   };
   overlay.addEventListener("click", (e) => { if (e.target === overlay) cerrar(); });
 

@@ -376,6 +376,24 @@ textarea { resize: vertical; line-height: 1.5; }
 .opcion--incorrecta:hover { background: var(--mal-soft); }
 .opcion--incorrecta .opcion__letra { background: var(--mal); color: #fff; }
 
+/* Estado en texto, además del color (WCAG 1.4.1: el verde/rojo solo no lo
+   distingue el daltonismo rojo-verde). Colores más oscuros que --ok/--mal:
+   #16a34a sobre el fondo --ok-soft daba 2,96:1; estos dan 6,4:1 y 7,1:1. */
+.opcion__estado {
+  flex: 0 0 auto; align-self: center;
+  font-size: 12px; font-weight: 600; white-space: nowrap;
+  padding: 2px 8px; border-radius: 999px; background: #fff;
+}
+.opcion__estado--ok  { color: #166534; border: 1px solid #166534; }
+.opcion__estado--mal { color: #991b1b; border: 1px solid #991b1b; }
+
+/* Solo para lectores de pantalla. */
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); clip-path: inset(50%);
+  white-space: nowrap; border: 0;
+}
+
 /* === Feedback === */
 .feedback {
   display: none; margin-top: 14px; padding: 14px 16px;
