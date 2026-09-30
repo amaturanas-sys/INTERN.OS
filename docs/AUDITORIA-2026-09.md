@@ -15,16 +15,19 @@ código o ejecutando un script sobre los datos reales, no inferidos.
 | # | Hallazgo | Alcance | Severidad | Estado |
 |---|---|---|---|---|
 | 1 | `runMcq` se auto-cancela al montarse: `onFinish` nunca corre | Todas las sesiones | 🔴 Crítico | ✅ v1.10.2 |
-| 2 | Bug del parser: justificación pegada a una opción incorrecta | 1.502 preguntas (37%) | 🔴 Crítico | ✅ v1.11.0 — quedan 15 |
+| 2 | Bug del parser: justificación pegada a una opción incorrecta | 1.502 preguntas (37%) | 🔴 Crítico | ✅ v1.11.0 + v1.11.2 |
 | 3 | El banco tiene 4.017 preguntas pero ~2.500 distintas | 2.957 preguntas (74%) | 🔴 Crítico | ✅ v1.11.0 |
 | 4 | La app queda inutilizable offline tras cada deploy | Todos los usuarios | 🔴 Crítico | ✅ v1.10.2 |
 | 5 | Re-sembrar borra marcas, ediciones y estadísticas | Todos los usuarios | 🔴 Crítico | ✅ v1.10.2 |
 | 6 | 15 grupos con respuesta correcta contradictoria | 16 grupos | 🟠 Alto | ✅ v1.11.0 |
 | 7 | Etiquetas `tema_validado` no confiables | 6 temas mayores | 🟠 Alto | ✅ mitigado v1.11.0 |
-| 8 | El router descarta navegaciones | Navegación rápida | 🟠 Alto | ⏳ pendiente |
-| 9 | Recarga forzada durante la primera instalación | Primera visita | 🟠 Alto | ⏳ pendiente |
-| 10 | Accesibilidad: contraste, ARIA, `aria-live` | Pantalla principal | 🟡 Medio | ⏳ pendiente |
-| 11 | Corrupción de ligadura fl→fi del PDF original | 306 preguntas | 🟠 Alto | ✅ v1.11.0 |
+| 8 | El router descarta navegaciones | Navegación rápida | 🟠 Alto | ✅ v1.11.1 |
+| 9 | Recarga forzada durante la primera instalación | Primera visita | 🟠 Alto | ✅ v1.11.1 |
+| 10 | Accesibilidad: contraste, ARIA, `aria-live` | Pantalla principal | 🟡 Medio | ✅ v1.11.1 |
+| 11 | Corrupción de ligadura fl→fi del PDF original | 306 preguntas | 🟠 Alto | ✅ v1.11.0 + v1.11.2 |
+| 12 | Las reparaciones del banco no llegaban a instalaciones existentes | Todos los usuarios | 🔴 Crítico | ✅ v1.11.2 |
+| 13 | Justificaciones en tres trozos desordenados (INICIO \| FINAL \| MEDIO) | 729 preguntas | 🟠 Alto | ✅ v1.11.2 |
+| 14 | Copias que perdieron los números del enunciado | 237 preguntas | 🟠 Alto | ✅ v1.11.2 |
 
 ### Hallazgo 11 — descubierto durante la reparación
 
@@ -394,14 +397,67 @@ antes y después (2.473 → 2.473).
 
 Reindexado con `scripts/indexar-perfil.py` y regenerada la cobertura.
 
-### ⏳ Fase 3 — pendiente
+### ✅ Fase 3 — accesibilidad, robustez y segunda pasada al banco (v1.11.1 – v1.11.2)
 
-1. Accesibilidad: `aria-live` en el feedback del MCQ y contraste de `:disabled`.
-2. Router que descarta navegaciones (#8).
-3. Recarga forzada en la primera instalación (#9).
-4. Fecha UTC en vez de local, que corrompe la racha (#11 de la lista larga).
-5. Las 15 preguntas con el corte del parser pendiente de revisión manual.
-6. Imágenes sin límite de tamaño dentro del registro de la pregunta.
+Código (v1.11.1):
+
+1. MCQ accesible: `role="progressbar"`, alternativas en `role="group"`,
+   anuncio `aria-live` tras responder, estado en texto (no solo color),
+   `aria-disabled` y foco en el enunciado. Contraste de verde/rojo ≥ 6,4:1.
+2. Router: una navegación durante un render se encola en vez de perderse (#8).
+3. Service Worker: sin recarga en la primera instalación; en una actualización
+   real se avisa y se recarga al cambiar de pantalla (#9).
+4. Fechas en hora local (`fechaLocalISO`), no UTC: la racha ya no salta de día
+   a las 21:00 en Chile.
+5. Imágenes reducidas a ≤ 1.600 px antes de guardarse (11 MB → 0,9 MB).
+
+Banco (v1.11.2), `2.477 → 2.239` preguntas:
+
+| Script | Qué corrige | Preguntas |
+|---|---|---|
+| `reordenar-justificaciones.py` | Bloques `[Opción X]` en mal orden (la etiqueta nunca era la correcta: 0/443) | 439 |
+| `corregir-pendientes-parser.py` | Las 15 pendientes de la Fase 2, a mano | 15 |
+| `fusionar-casi-duplicados.py` | Copias que perdieron los números ("t°: °C") | 237 fusionadas |
+| `reparar-truncadas.py` | Inicio de la justificación pegado a la opción e; justificaciones rotadas | 134 + 290 |
+| `reparar-opciones-en-justificacion.py` | Alternativas b–e metidas en la justificación | 3 |
+| `reparar-banco.py` (regla general) | Ligaduras fl→fi restantes: fiuoxetina, ciprofioxacino… | 216 |
+
+#### Hallazgo 12 — el banco reparado nunca llegaba a quien ya tenía la app
+
+Dos errores independientes, cualquiera de los dos bastaba:
+
+1. `seedIfNeeded()` solo agrega o actualiza (`bulkPut`); nunca borra. Las
+   1.540 copias eliminadas en v1.11.0 seguían en IndexedDB. Además, v1.11.0 no
+   cambió `meta.version`, así que ni siquiera se re-sembraba.
+2. `fundirConUsuario()` (v1.10.2) consideraba "editada por el usuario" toda
+   pregunta con `version_actual > 1`, y el banco se publicó con
+   `version_actual = 2` en **las 4.017**. Resultado: cada re-siembra conservaba
+   el texto viejo. Ninguna corrección del banco llegaba a nadie.
+
+Solución: `meta.reemplazos` (`{id_eliminado: id_superviviente}`, 1.778
+entradas) y `aplicarReemplazos()` en `seed.js`, que traspasa marca,
+estadísticas y tarjeta de repaso a la superviviente y borra la eliminada, todo
+en una sola transacción. "Editada" ahora significa: tiene en su historial una
+entrada de versión ≥ 2 (el editor siempre la agrega).
+
+Lo encontró `scripts/prueba-actualizacion.cjs`, que instala con el banco de
+4.017, simula trabajo del usuario y actualiza. `prueba-e2e.cjs` no podía verlo:
+usa un perfil nuevo.
+
+#### Hallazgo 13 — justificaciones rotadas
+
+El PDF se extrajo como INICIO | FINAL | MEDIO: la justificación terminaba a
+media frase ("…acortamiento del") y su continuación estaba más arriba ("QT,
+constipación, debilidad y poliuria."). Se detecta porque termina sin puntuación
+y el FINAL empieza como continuación (minúscula o paréntesis tras un punto).
+Donde el final no aparece en ninguna parte se marca con "[…]" (22 casos).
+
+### ⏳ Pendiente
+
+- `dom.js`: los modales sobreviven al cambio de vista.
+- Biblioteca: blob URLs revocados en `mount` antes de mostrarse.
+- `db.js`: `_dbPromise` cachea un rechazo; falta `onversionchange`; `put`/`del`
+  resuelven en `request.onsuccess` y no en `tx.oncomplete`; `_cacheGetAll` sin tope.
 
 ### Lección sobre el orden
 

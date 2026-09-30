@@ -36,7 +36,7 @@ src/
   editor/editor.js    edición con trazabilidad (fuente obligatoria)
   importar/           parser .md e importación
 data/
-  banco_inicial.json          4 017 preguntas (8 MB, JSON compacto en 1 línea)
+  banco_inicial.json          2 239 preguntas (JSON compacto en 1 línea)
   biblioteca.json             332 entradas / 23 unidades (pretty-print, indent 2)
   casos_iniciales.json        26 casos clínicos
   definiciones_iniciales.json 50 definiciones
@@ -101,8 +101,16 @@ Si se toca `data/biblioteca.json`, actualizar en el mismo commit su
 conviene descargarlo en el Home solo para contar).
 
 Si se toca `data/banco_inicial.json` (deduplicar, importar, reparar), volver a
-correr `scripts/indexar-perfil.py --aplicar` y regenerar
-`data/referencias/cobertura_banco_2026.json`: los ids y los textos cambian.
+correr `scripts/indexar-perfil.py --aplicar` y `scripts/generar-cobertura.py`:
+los ids y los textos cambian. Además:
+
+- **Cambiar `meta.version`** en `banco_inicial.json` y en `banco_meta.json`.
+  Si no, las instalaciones existentes no se re-siembran y nunca reciben el cambio.
+- **Si se elimina una pregunta, agregarla a `meta.reemplazos`**
+  (`{id_eliminado: id_superviviente}`). El sembrado solo agrega y actualiza;
+  sin esa entrada la pregunta vieja queda para siempre en IndexedDB.
+- Correr `scripts/prueba-actualizacion.cjs` (actualiza desde el banco de 4 017)
+  además de `scripts/prueba-e2e.cjs` (perfil nuevo).
 
 ## Skills instaladas
 

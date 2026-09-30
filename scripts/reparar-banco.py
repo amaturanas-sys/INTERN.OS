@@ -159,6 +159,10 @@ LIGADURAS = [
     (r'\bfiujometr', 'flujometr'), (r'\bfiema\b', 'flema'),
     (r'\bfiogosis', 'flogosis'), (r'\bfiebotom', 'flebotom'),
     (r'\bdesfiec', 'desflec'), (r'\bfiuctu', 'fluctu'), (r'\bFiuctu', 'Fluctu'),
+    # Regla general (v1.11.2): "fl" seguido de estas letras no existe como "fi"
+    # en el vocabulario médico: fiuoxetina, ciprofioxacino, hiperrefiexia,
+    # fiácida, antiinfiamatorios, fiecainida, fiagelado, hiperinsufiación…
+    (r'([Ff])i(?=u|ox|ex|ec|ác|acc|acid|am|agel|ora\b|ación)', r'\1l'),
 ]
 CAMPOS_TEXTO = ['enunciado', 'justificacion']
 
@@ -229,4 +233,5 @@ def main():
     else:
         print("\n(simulación — nada se escribió. Usar --aplicar)")
 
-main()
+if __name__ == '__main__':
+    main()

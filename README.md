@@ -6,7 +6,7 @@ estudio, banco editable con trazabilidad, soporte de imágenes, importación de
 material `.md` y repaso espaciado SM-2.
 
 > Fuente del contenido: material del Dr. Guevara + síntesis de guías clínicas
-> 2024-2026 (GINA, GOLD, ESC, AHA, ADA, AACE, SSC, ACG). Banco actual: **4 017
+> 2024-2026 (GINA, GOLD, ESC, AHA, ADA, AACE, SSC, ACG). Banco actual: **2 239
 > preguntas**, **26 casos clínicos** y **50 definiciones** (fármacos, conceptos,
 > herramientas y guías).
 
