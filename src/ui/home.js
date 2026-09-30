@@ -1,5 +1,5 @@
 // Landing: identidad InternOS + estadísticas, sesión veloz, modos, curación, herramientas.
-import { el, mount, hoyISO } from "./dom.js";
+import { el, mount, hoyISO, diasAtrasISO } from "./dom.js";
 import { navegar } from "./router.js";
 import { count, getConfig, getAll } from "../db/db.js";
 import { estadisticasRepaso, sesionDelDia } from "../repaso/sm2.js";
@@ -101,7 +101,11 @@ export async function vistaHome() {
       tarjeta("quiz",         "Quiz por temas",    "Filtra por especialidad, tema, dificultad.", "quiz",         `${nPreg} preguntas`),
       tarjeta("casos",        "Casos clínicos",    "Casos paso a paso, lineales con feedback.", "casos",         `${nCasos} casos`),
       tarjeta("definiciones", "Definiciones",      "Conceptos, fármacos y herramientas.",       "definiciones",  `${nDefs} definiciones`),
-      tarjeta("biblioteca",   "Biblioteca",        "Consultor inmediato editable, con imágenes y referencias.", "biblioteca", "261 patologías (100% redactadas)"),
+      // OJO: este número se mantiene a mano. biblioteca.json pesa 1,1 MB, así
+      // que no vale la pena descargarlo en el Home solo para contar entradas.
+      // Al tocar data/biblioteca.json hay que actualizar meta.total_entradas
+      // y esta línea. Ver la sección de verificación en CLAUDE.md.
+      tarjeta("biblioteca",   "Biblioteca",        "Consultor inmediato editable, con imágenes y referencias.", "biblioteca", "332 patologías en 23 unidades"),
     ]),
 
     // ---- Curación activa ----
@@ -185,7 +189,7 @@ function heatmap(porDia, objetivo) {
   porDia = porDia || {};
   const dias = [];
   for (let i = 29; i >= 0; i--) {
-    const d = new Date(Date.now() - i * 86400000).toISOString().slice(0, 10);
+    const d = diasAtrasISO(i);
     dias.push({ d, n: (porDia[d] && porDia[d].respondidas) || 0 });
   }
   return el("div", { class: "heatmap" },

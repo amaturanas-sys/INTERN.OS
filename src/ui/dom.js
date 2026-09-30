@@ -1,7 +1,25 @@
 // Helpers mínimos de DOM y UI (sin framework).
 
-// Atajo común: fecha YYYY-MM-DD local (se usa en stats, editor, home, sm2).
-export const hoyISO = () => new Date().toISOString().slice(0, 10);
+// Fechas YYYY-MM-DD en hora LOCAL (se usan en stats, editor, home, sm2).
+//
+// Antes se usaba toISOString().slice(0,10), que devuelve la fecha UTC. En
+// Chile (UTC-3/-4) el "día" rodaba a las 21:00: estudiar a las 20:00 y a las
+// 21:30 de la misma noche sumaba +1 a la racha, y el heatmap y el repaso
+// SM-2 quedaban corridos un día por la noche. Tampoco se resta 86400000 ms
+// para "ayer": en los días de cambio de horario el día dura 23 o 25 horas.
+export function fechaLocalISO(d = new Date()) {
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, "0");
+  const dia = String(d.getDate()).padStart(2, "0");
+  return `${y}-${m}-${dia}`;
+}
+export const hoyISO = () => fechaLocalISO();
+// Suma (o resta, con n negativo) días de calendario a una fecha YYYY-MM-DD.
+export function sumarDiasISO(iso, n) {
+  const [y, m, d] = iso.split("-").map(Number);
+  return fechaLocalISO(new Date(y, m - 1, d + n));
+}
+export const diasAtrasISO = (n) => sumarDiasISO(hoyISO(), -n);
 
 // Shuffle Fisher-Yates (usado por quiz-temas y definiciones).
 export function mezclar(a) {
@@ -73,7 +91,10 @@ export function modal(titulo, contenido, acciones = []) {
   const cerrar = () => {
     overlay.remove();
     document.removeEventListener("keydown", onKey);
-    if (foco_previo && foco_previo.focus) foco_previo.focus();
+    // El elemento que abrió el modal puede haber desaparecido (p. ej. la
+    // acción del modal re-renderizó la vista). Enfocar un nodo fuera del
+    // documento no hace nada y el foco quedaba perdido en <body>.
+    if (foco_previo && foco_previo.focus && document.contains(foco_previo)) foco_previo.focus();
   };
   overlay.addEventListener("click", (e) => { if (e.target === overlay) cerrar(); });
 

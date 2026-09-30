@@ -85,7 +85,14 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
       ]),
     ]);
 
-    const barra = el("div", { class: "progress" }, [
+    // Semántica de progreso: antes era solo un div pintado de ancho variable.
+    const barra = el("div", {
+      class: "progress", role: "progressbar",
+      "aria-label": "Progreso de la sesión",
+      "aria-valuemin": "0", "aria-valuemax": String(items.length),
+      "aria-valuenow": String(i),
+      "aria-valuetext": `Pregunta ${i + 1} de ${items.length}`,
+    }, [
       el("div", { class: "progress__fill", style: `width:${(i / items.length) * 100}%` }),
     ]);
 
@@ -94,13 +101,18 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
 
     const enunciado = el("div", { class: "enunciado" }, [
       item.subtitulo ? el("div", { class: "chips" }, item.subtitulo.map((c) => badge(c))) : null,
-      el("p", { class: "enunciado__texto", text: item.enunciado }),
+      el("p", { class: "enunciado__texto", text: item.enunciado, tabindex: "-1" }),
       editado,
       vistaImagen(item.imagen),
     ]);
 
     const feedback = el("div", { class: "feedback" });
-    const opcionesBox = el("div", { class: "opciones" });
+    const opcionesBox = el("div", { class: "opciones", role: "group", "aria-label": "Alternativas" });
+    // Región viva: anuncia solo el resultado, breve. La explicación completa
+    // queda en el feedback, para leerla navegando. OJO: nunca exponer cuál es
+    // la correcta ANTES de responder (p. ej. con aria-checked), porque un
+    // lector de pantalla la anunciaría y regalaría la respuesta.
+    const anuncio = el("p", { class: "sr-only", role: "status", "aria-live": "polite" });
     opcionesBtns = [];
 
     item.opciones.forEach((op, idx) => {
@@ -120,11 +132,24 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
       if (correcta) aciertos++;
       respuestas.push({ id: item.id, correcta });
 
+      // El estado se comunicaba solo con verde y rojo (WCAG 1.4.1), que es
+      // justo lo que no distingue el daltonismo más común. Se agrega texto.
       Array.from(opcionesBox.children).forEach((b, k) => {
         b.classList.add("opcion--bloqueada");
-        if (item.opciones[k] && item.opciones[k].correcta) b.classList.add("opcion--correcta");
+        b.setAttribute("aria-disabled", "true");
+        if (item.opciones[k] && item.opciones[k].correcta) {
+          b.classList.add("opcion--correcta");
+          b.appendChild(el("span", { class: "opcion__estado opcion__estado--ok", text: "✓ Correcta" }));
+        }
       });
-      if (!correcta) btn.classList.add("opcion--incorrecta");
+      if (!correcta) {
+        btn.classList.add("opcion--incorrecta");
+        btn.appendChild(el("span", { class: "opcion__estado opcion__estado--mal", text: "✗ Tu respuesta" }));
+      }
+      const opCorrecta = item.opciones.find((o) => o.correcta);
+      anuncio.textContent = correcta
+        ? "Correcto."
+        : `Incorrecto. La correcta es la ${((opCorrecta && opCorrecta.letra) || "").toUpperCase()}: ${(opCorrecta && opCorrecta.texto) || ""}.`;
 
       feedback.className = `feedback feedback--visible feedback--${correcta ? "ok" : "mal"}`;
       clear(feedback);
@@ -180,7 +205,13 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
       el("button", { class: "btn btn--ghost btn--sm", onClick: () => salir() }, "Salir"),
     ]);
 
-    cont.append(cabecera, barra, enunciado, opcionesBox, feedback, acciones);
+    cont.append(cabecera, barra, enunciado, opcionesBox, anuncio, feedback, acciones);
+    // Al pasar de pregunta el botón "Siguiente" desaparece y el foco caía al
+    // <body>: quien usa lector de pantalla perdía su lugar. Se lleva a la
+    // pregunta nueva. Los atajos 1-9/a-i siguen funcionando porque el
+    // manejador de teclado está en window.
+    const texto = enunciado.querySelector(".enunciado__texto");
+    if (texto) texto.focus({ preventScroll: true });
   }
 
   // Atajos de teclado: 1-9 / a-e seleccionan opción; Enter o Espacio → siguiente.
@@ -214,7 +245,11 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
     limpieza.abort();
   }
   window.addEventListener("hashchange", limpiezaPorRuta, { signal: limpieza.signal });
-  document.addEventListener("vista:cambia", limpiezaPorRuta, { signal: limpieza.signal });
+  // OJO: el listener de `vista:cambia` NO se registra aquí. mount() despacha
+  // ese evento de forma síncrona, así que registrarlo antes hacía que el
+  // runner se auto-cancelara al montarse: mataba los atajos de teclado, dejaba
+  // "Ver resultados" sin efecto y onFinish no se llamaba nunca (ninguna sesión
+  // quedaba registrada). Se registra más abajo, después de mount().
 
   function siguienteBtn() {
     const ultima = i === items.length - 1;
@@ -253,5 +288,8 @@ export function runMcq({ items, titulo, subtitulo, onAnswer, onFinish }) {
   }
 
   mount(cont);
+  // Recién ahora: mount() ya despachó su `vista:cambia` y el runner no se
+  // auto-cancela. A partir de aquí el evento sí significa "otra vista entra".
+  document.addEventListener("vista:cambia", limpiezaPorRuta, { signal: limpieza.signal });
   pintar();
 }

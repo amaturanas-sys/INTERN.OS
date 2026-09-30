@@ -46,6 +46,14 @@ jobs:
           sed -i "s/__GIT_SHA__/${GIT_SHA}/g" service-worker.js
           cat data/version.json
 
+      - name: Excluir material fuente del sitio publicado
+        run: |
+          # material-fuente/ es material de referencia de terceros para auditoría
+          # interna. No debe servirse desde el sitio público ni engordar el
+          # artefacto de Pages.
+          rm -rf material-fuente
+          echo "material-fuente/ excluida del artefacto de Pages"
+
       - name: Subir artefacto del sitio
         uses: actions/upload-pages-artifact@v3
         with:

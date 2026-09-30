@@ -116,6 +116,30 @@ export async function bulkPut(store, values) {
     for (const v of values) os.put(v);
     t.oncomplete = () => resolve(values.length);
     t.onerror = () => reject(t.error);
+    t.onabort = () => reject(t.error || new Error(`Transacción abortada en ${store}`));
+  });
+}
+
+// Escribe y borra en varios stores dentro de UNA transacción: o se aplica todo
+// o nada. escrituras = { store: [valores] }, borrados = { store: [claves] }.
+export async function escribirAtomico(escrituras = {}, borrados = {}) {
+  const stores = [...new Set([...Object.keys(escrituras), ...Object.keys(borrados)])];
+  if (!stores.length) return;
+  for (const s of stores) _cacheGetAll.delete(s);
+  const db = await openDB();
+  return new Promise((resolve, reject) => {
+    const t = db.transaction(stores, "readwrite");
+    for (const [s, valores] of Object.entries(escrituras)) {
+      const os = t.objectStore(s);
+      for (const v of valores) os.put(v);
+    }
+    for (const [s, claves] of Object.entries(borrados)) {
+      const os = t.objectStore(s);
+      for (const k of claves) os.delete(k);
+    }
+    t.oncomplete = () => resolve();
+    t.onerror = () => reject(t.error);
+    t.onabort = () => reject(t.error || new Error("Transacción abortada"));
   });
 }
 

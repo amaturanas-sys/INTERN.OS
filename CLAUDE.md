@@ -13,8 +13,9 @@ español de Chile.
 - **Service Worker** cache-first (`service-worker.js`).
 - **Capacitor 6** para el APK Android nativo (assets embebidos, offline desde
   la instalación).
-- CSS plano con variables en `:root` (`styles/app.css`). Paleta de marca
-  café/crema tomada del logo.
+- CSS plano con variables en `:root` (`styles/app.css`). **Dos paletas
+  conviven**: la general de la app es teal (`--accent: #0d8a8c`) y la de
+  biblioteca es café/crema tomada del logo (`--b-accent: #6b4423`).
 
 No agregar dependencias npm al runtime web. Las únicas dependencias del repo
 (`package.json`) son de Capacitor y solo se usan para compilar el APK.
@@ -35,7 +36,7 @@ src/
   editor/editor.js    edición con trazabilidad (fuente obligatoria)
   importar/           parser .md e importación
 data/
-  banco_inicial.json          4 017 preguntas (8 MB, JSON compacto en 1 línea)
+  banco_inicial.json          2 239 preguntas (JSON compacto en 1 línea)
   biblioteca.json             332 entradas / 23 unidades (pretty-print, indent 2)
   casos_iniciales.json        26 casos clínicos
   definiciones_iniciales.json 50 definiciones
@@ -93,6 +94,23 @@ python3 -c "import json; json.load(open('data/<archivo>.json'))"   # JSON válid
 ```
 
 Para cambios de datos, comprobar además el conteo de entradas antes/después.
+
+Si se toca `data/biblioteca.json`, actualizar en el mismo commit su
+`meta.total_entradas` **y** el texto de la tarjeta de biblioteca en
+`src/ui/home.js` (está hardcodeado a propósito: el archivo pesa 1,1 MB y no
+conviene descargarlo en el Home solo para contar).
+
+Si se toca `data/banco_inicial.json` (deduplicar, importar, reparar), volver a
+correr `scripts/indexar-perfil.py --aplicar` y `scripts/generar-cobertura.py`:
+los ids y los textos cambian. Además:
+
+- **Cambiar `meta.version`** en `banco_inicial.json` y en `banco_meta.json`.
+  Si no, las instalaciones existentes no se re-siembran y nunca reciben el cambio.
+- **Si se elimina una pregunta, agregarla a `meta.reemplazos`**
+  (`{id_eliminado: id_superviviente}`). El sembrado solo agrega y actualiza;
+  sin esa entrada la pregunta vieja queda para siempre en IndexedDB.
+- Correr `scripts/prueba-actualizacion.cjs` (actualiza desde el banco de 4 017)
+  además de `scripts/prueba-e2e.cjs` (perfil nuevo).
 
 ## Skills instaladas
 

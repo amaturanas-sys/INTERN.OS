@@ -1,6 +1,7 @@
 // Punto de entrada: inicializa IndexedDB + seed, registra rutas y arranca el router.
 import { ruta, iniciarRouter, navegar, alCambiar } from "./ui/router.js";
 import { seedIfNeeded } from "./db/seed.js";
+import { count } from "./db/db.js";
 import { toast } from "./ui/dom.js";
 
 import { vistaHome } from "./ui/home.js";
@@ -72,10 +73,18 @@ async function arranque() {
   try {
     const r = await seedIfNeeded(setMsg);
     if (r.sembrado) toast(`Banco inicial cargado (${r.preguntas} preguntas).`, "ok");
+    if (r.offline) toast("Sin conexión: usando el banco guardado en el dispositivo.", "info");
   } catch (e) {
     console.error(e);
-    setMsg("Error al cargar el banco inicial: " + e.message);
-    return;
+    // Si ya hay preguntas en IndexedDB, la app es perfectamente usable aunque
+    // la siembra falle (típico: se abre sin red después de un deploy). Antes
+    // se retornaba aquí y quedaba colgada en el splash con el banco intacto.
+    const hayBanco = await count("preguntas").catch(() => 0);
+    if (!hayBanco) {
+      setMsg("Error al cargar el banco inicial: " + e.message);
+      return;
+    }
+    toast("No se pudo verificar el banco; se usa el guardado en el dispositivo.", "info");
   }
   if (splash) splash.remove();
   iniciarRouter();
@@ -90,11 +99,24 @@ document.querySelectorAll("[data-nav]").forEach((b) => {
 // Cuando aparece una versión nueva del SW (cache name distinto por SHA),
 // fuerza el reload del cliente para que use los nuevos JS/CSS.
 if ("serviceWorker" in navigator) {
-  let recargando = false;
+  // Si al cargar la página ya había un SW controlándola, un controllerchange
+  // posterior es una actualización real. Si no había (primera visita), es el
+  // SW recién instalado tomando control con clients.claim(): recargar ahí
+  // cortaba a medio camino la descarga de 8 MB del banco y había que bajarlo
+  // de nuevo.
+  let habiaControlador = !!navigator.serviceWorker.controller;
+  let recargaPendiente = false;
   navigator.serviceWorker.addEventListener("controllerchange", () => {
-    if (recargando) return;
-    recargando = true;
-    location.reload();
+    if (!habiaControlador) { habiaControlador = true; return; }
+    if (recargaPendiente) return;
+    recargaPendiente = true;
+    toast("Hay una versión nueva de InternOS. Se aplicará al cambiar de pantalla.", "info");
+  });
+  // La recarga se aplica al navegar, no en el acto, para no cortar un quiz a
+  // medias. No hay riesgo de mezclar versiones: el único import dinámico de la
+  // app (mcq.js → db.js) apunta a un módulo que ya está cargado.
+  window.addEventListener("hashchange", () => {
+    if (recargaPendiente) location.reload();
   });
   window.addEventListener("load", async () => {
     try {

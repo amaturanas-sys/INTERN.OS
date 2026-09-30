@@ -1,8 +1,10 @@
 // Persistencia de estadísticas de uso y progreso global (store 5.4).
 import { get, put } from "./db.js";
+import { hoyISO, diasAtrasISO } from "../ui/dom.js";
 import { registrarRepaso, calidadDesdeResultado } from "../repaso/sm2.js";
 
-const hoy = () => new Date().toISOString().slice(0, 10);
+// Fecha LOCAL: con UTC la racha subía +1 al estudiar después de las 21:00.
+const hoy = hoyISO;
 
 // Cola para serializar escrituras al progreso global y evitar perder
 // conteos cuando se responden preguntas en rápida sucesión (race).
@@ -47,14 +49,14 @@ export async function registrarRespuesta({ store, item, correcta, tema, ref }) {
     if (correcta) g.por_tema[t].correctas += 1;
     const d = hoy();
     if (g.ultimo_dia !== d) {
-      const ayer = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
+      const ayer = diasAtrasISO(1);
       g.racha_dias = g.ultimo_dia === ayer ? g.racha_dias + 1 : 1;
       g.ultimo_dia = d;
     }
     g.por_dia[d] = g.por_dia[d] || { respondidas: 0, correctas: 0 };
     g.por_dia[d].respondidas += 1;
     if (correcta) g.por_dia[d].correctas += 1;
-    const corte = new Date(Date.now() - 60 * 86400000).toISOString().slice(0, 10);
+    const corte = diasAtrasISO(60);
     for (const k of Object.keys(g.por_dia)) {
       if (k < corte) delete g.por_dia[k];
     }

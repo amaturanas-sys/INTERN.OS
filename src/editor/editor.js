@@ -4,7 +4,7 @@
 import { el, clear, mount, toast, badge, modal, hoyISO } from "../ui/dom.js";
 import { navegar } from "../ui/router.js";
 import { get, put } from "../db/db.js";
-import { archivoADataURL } from "../ui/imagen.js";
+import { archivoADataURL, reducirImagen, TOPE_IMAGEN_BYTES } from "../ui/imagen.js";
 
 const STORE = { pregunta: "preguntas", definicion: "definiciones", caso: "casos_clinicos" };
 
@@ -261,10 +261,26 @@ function bloqueImagen(estado) {
   file.addEventListener("change", async () => {
     const f = file.files[0];
     if (!f) return;
-    estado.imagen.data = await archivoADataURL(f);
+    // Se reduce antes de guardar: la imagen vive como base64 dentro del
+    // registro de la pregunta, y una foto de cámara sin reducir pesaba ~11 MB.
+    let reducida;
+    try {
+      reducida = await reducirImagen(f);
+    } catch (e) {
+      toast(e.message || "No se pudo procesar la imagen.", "error");
+      file.value = "";
+      return;
+    }
+    if (reducida.size > TOPE_IMAGEN_BYTES) {
+      toast(`La imagen pesa ${(reducida.size / 1048576).toFixed(1)} MB incluso reducida. Usa una más liviana.`, "error");
+      file.value = "";
+      return;
+    }
+    estado.imagen.data = await archivoADataURL(reducida);
     estado.imagen.presente = true;
     repintarPrevia();
-    toast("Imagen adjuntada.", "ok");
+    const kb = Math.round(reducida.size / 1024);
+    toast(reducida === f ? `Imagen adjuntada (${kb} KB).` : `Imagen adjuntada y reducida de ${Math.round(f.size / 1024)} KB a ${kb} KB.`, "ok");
   });
 
   const desc = el("input", { type: "text", value: estado.imagen.descripcion || "", placeholder: "Descripción / texto alternativo" });
