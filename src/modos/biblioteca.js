@@ -17,7 +17,7 @@
 // - Blob URLs se trackean por vista y se liberan en el evento "vista:cambia".
 // - El buscador no parsea HTML (strip por regex + memoiza texto plano).
 
-import { el, mount, toast, modal } from "../ui/dom.js";
+import { el, mount, toast, modal, hoyISO } from "../ui/dom.js";
 import { navegar } from "../ui/router.js";
 import { icono } from "../ui/iconos.js";
 import { get, getAll, put, del } from "../db/db.js";
@@ -330,7 +330,7 @@ function abrirDialogoNuevoSubtema(unidad) {
       return false;
     }
     const id = generarIdCustom(titulo);
-    const hoy = new Date().toISOString().slice(0, 10);
+    const hoy = hoyISO();
     // Fire-and-forget de la persistencia: el modal se cierra inmediatamente
     // y la navegación ocurre cuando el put resuelve.
     put("biblioteca_custom", {
@@ -920,7 +920,7 @@ export async function vistaBibliotecaEditor({ id }) {
       await put("biblioteca_imagenes", {
         id: imgId, blob: file, mime: file.type,
         titulo: "", descripcion: "",
-        fecha: new Date().toISOString().slice(0, 10),
+        fecha: hoyISO(),
       });
       imgsSubidasSesion.add(imgId);
       imgsActual.push({ id: imgId, titulo: file.name.replace(/\.[^.]+$/, "") });
@@ -938,7 +938,7 @@ export async function vistaBibliotecaEditor({ id }) {
     htmlActual = modoHtml ? textarea.value : wysiwyg.innerHTML;
     // Sanitizar antes de persistir (defensa en profundidad)
     const htmlLimpio = sanitizarHTML(htmlActual);
-    const hoy = new Date().toISOString().slice(0, 10);
+    const hoy = hoyISO();
     const refsLimpias = refsActual.filter((r) => r.titulo || r.url);
     if (entrada._custom) {
       // Custom: persistir en biblioteca_custom preservando unidad/titulo/fecha_creacion.

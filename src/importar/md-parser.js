@@ -1,6 +1,7 @@
 // Parser de la convención .md definida en la sección 10.1 de la arquitectura.
 // Front-matter YAML + cuerpo estructurado. Varios ítems por archivo, cada uno
 // con su propio front-matter. La marca (x) indica la alternativa correcta.
+import { hoyISO } from "../ui/dom.js";
 
 function parseFrontMatter(lines) {
   // YAML plano clave: valor (sin anidamiento).
@@ -95,7 +96,7 @@ function joinText(lines) {
 const sello = () => Date.now().toString(36);
 const imagenVacia = () => ({ presente: false, requerida: false, data: null, descripcion: null });
 const histInicial = (fuente) => [{
-  version: 1, fecha: new Date().toISOString().slice(0, 10),
+  version: 1, fecha: hoyISO(),
   fuente: fuente || "Importado desde .md", nota: "Importación inicial", snapshot: null,
 }];
 

@@ -1,5 +1,5 @@
 // Landing: identidad InternOS + estadísticas, sesión veloz, modos, curación, herramientas.
-import { el, mount, hoyISO } from "./dom.js";
+import { el, mount, hoyISO, diasAtrasISO } from "./dom.js";
 import { navegar } from "./router.js";
 import { count, getConfig, getAll } from "../db/db.js";
 import { estadisticasRepaso, sesionDelDia } from "../repaso/sm2.js";
@@ -189,7 +189,7 @@ function heatmap(porDia, objetivo) {
   porDia = porDia || {};
   const dias = [];
   for (let i = 29; i >= 0; i--) {
-    const d = new Date(Date.now() - i * 86400000).toISOString().slice(0, 10);
+    const d = diasAtrasISO(i);
     dias.push({ d, n: (porDia[d] && porDia[d].respondidas) || 0 });
   }
   return el("div", { class: "heatmap" },
